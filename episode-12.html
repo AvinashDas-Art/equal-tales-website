@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>India in 1500: Bhakti, Babur and the Portuguese Paradox | 1500 का भारत: भक्ति, बाबर और पुर्तगाली विरोधाभास | Equal Tales Storyline</title>
+<meta name="description" content="Read Bharat Ki Kahani's episode scripts as full chapters - from the Indus Valley to the dawn of the 20th century.">
+<link rel="icon" type="image/png" href="favicon.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700;900&family=Inter:wght@400;500;600;700&family=Mukta:wght@400;500;600;700&family=Baloo+2:wght@500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --cloud:#F4F7F9;
+    --mist:#E6ECF2;
+    --powder:#D0E1FD;
+    --gold:#C5A059;
+    --gold-dark:#96754A;
+    --ink:#2C3E50;
+    --ink-soft:#5B6B7C;
+    --glass:rgba(255,255,255,.55);
+    --glass-strong:rgba(255,255,255,.72);
+    --glass-border:rgba(255,255,255,.65);
+  }
+  *{box-sizing:border-box;margin:0;padding:0;}
+  html{scroll-behavior:smooth;}
+  body{
+    background:linear-gradient(165deg, var(--cloud) 0%, var(--powder) 55%, var(--mist) 100%);
+    color:var(--ink);font-family:'Inter',sans-serif;line-height:1.75;min-height:100vh;
+  }
+  body.lang-hi{font-family:'Mukta',sans-serif;}
+  h1,h2,h3{font-family:'Playfair Display',serif;font-weight:700;color:var(--ink);}
+  body.lang-hi h1, body.lang-hi h2, body.lang-hi h3{font-family:'Baloo 2',serif;font-weight:700;}
+  a{color:inherit;}
+  img{max-width:100%;display:block;}
+  .wrap{max-width:1120px;margin:0 auto;padding:0 24px;}
+
+  .lang-block{display:none !important;}
+  body.lang-en .lang-block[data-lang="en"].lb-block{display:block !important;}
+  body.lang-hi .lang-block[data-lang="hi"].lb-block{display:block !important;}
+  body.lang-en .lang-block[data-lang="en"].lb-flex{display:flex !important;}
+  body.lang-hi .lang-block[data-lang="hi"].lb-flex{display:flex !important;}
+  body.lang-en .lang-block[data-lang="en"].lb-inline{display:inline !important;}
+  body.lang-hi .lang-block[data-lang="hi"].lb-inline{display:inline !important;}
+  body.lang-en .lang-block[data-lang="en"].lb-grid{display:grid !important;}
+  body.lang-hi .lang-block[data-lang="hi"].lb-grid{display:grid !important;}
+
+  nav{
+    position:sticky;top:0;z-index:50;
+    background:var(--glass);backdrop-filter:blur(16px) saturate(1.2);-webkit-backdrop-filter:blur(16px) saturate(1.2);
+    border-bottom:1px solid var(--glass-border);
+  }
+  nav .wrap{display:flex;align-items:center;justify-content:space-between;padding:14px 24px;gap:16px;}
+  .brand{display:flex;align-items:center;gap:10px;text-decoration:none;}
+  .brand-logo{height:46px;width:auto;flex-shrink:0;border-radius:12px;}
+  .lang-switch{display:flex;border:1.5px solid var(--gold);border-radius:999px;overflow:hidden;background:rgba(255,255,255,.5);}
+  .lang-switch button{border:0;background:transparent;padding:7px 16px;font-weight:700;font-size:.82rem;cursor:pointer;color:var(--gold-dark);}
+  .lang-switch button[aria-pressed="true"]{background:var(--gold);color:#fff;}
+  .nav-links{display:flex;gap:22px;list-style:none;}
+  .nav-links a{font-size:.88rem;font-weight:600;text-decoration:none;}
+  @media(max-width:700px){.nav-links{display:none;}}
+
+  main{padding:70px 24px 100px;}
+  .eyebrow{text-transform:uppercase;letter-spacing:.14em;font-size:.75rem;font-weight:600;color:var(--gold-dark);margin-bottom:14px;}
+  body.lang-hi .eyebrow{text-transform:none;letter-spacing:0;}
+
+  .scripts-hero{max-width:760px;margin:0 auto 48px;text-align:center;}
+  .scripts-hero h1{font-size:clamp(1.7rem,4vw,2.5rem);margin-bottom:16px;}
+  .scripts-hero p{color:var(--ink-soft);font-size:1.05rem;}
+
+  .chapter-index{grid-template-columns:repeat(4,1fr);gap:16px;margin:0 auto 64px;max-width:1000px;}
+  .chapter-index a{
+    display:block;background:var(--glass);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);
+    border:1px solid var(--glass-border);border-radius:16px;padding:18px 16px;
+    text-decoration:none;text-align:center;transition:transform .15s ease,box-shadow .15s ease;
+  }
+  .chapter-index a:hover{transform:translateY(-3px);box-shadow:0 10px 26px rgba(44,62,80,.1);}
+  .idx-num{font-size:.72rem;font-weight:700;color:var(--gold-dark);text-transform:uppercase;letter-spacing:.06em;margin-bottom:6px;}
+  body.lang-hi .idx-num{text-transform:none;letter-spacing:0;}
+  .idx-title{font-size:.9rem;font-weight:600;color:var(--ink);line-height:1.4;}
+  @media(max-width:900px){.chapter-index{grid-template-columns:repeat(2,1fr);}}
+  @media(max-width:560px){.chapter-index{grid-template-columns:1fr;}}
+
+  article.chapter{
+    max-width:800px;margin:0 auto 56px;
+    background:var(--glass-strong);backdrop-filter:blur(18px) saturate(1.1);-webkit-backdrop-filter:blur(18px) saturate(1.1);
+    border:1px solid var(--glass-border);border-radius:24px;padding:44px 40px;
+    box-shadow:0 20px 50px rgba(44,62,80,.08);scroll-margin-top:90px;
+  }
+  .chapter-head{text-align:center;margin-bottom:26px;}
+  .chapter-num{font-size:.78rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--gold-dark);margin-bottom:8px;}
+  body.lang-hi .chapter-num{text-transform:none;letter-spacing:0;font-family:'Mukta',sans-serif;}
+  .chapter-head h2{font-size:clamp(1.3rem,3vw,1.7rem);margin-bottom:12px;}
+  .chapter-dek{color:var(--ink-soft);font-size:1rem;max-width:560px;margin:0 auto 10px;}
+  .chapter-meta{font-size:.8rem;color:var(--gold-dark);font-weight:600;}
+  .chapter-highlights{margin:0 0 24px;display:grid;gap:14px;}
+  .chapter-highlights blockquote{
+    font-family:'Playfair Display',serif;font-style:italic;font-size:1.05rem;line-height:1.6;
+    color:var(--ink);background:rgba(197,160,89,.1);border-left:3px solid var(--gold);
+    padding:16px 20px;border-radius:0 12px 12px 0;
+  }
+  body.lang-hi .chapter-highlights blockquote{font-family:'Baloo 2',serif;font-style:normal;}
+  details.chapter-body{text-align:center;}
+  details.chapter-body summary{
+    cursor:pointer;list-style:none;display:inline-flex;align-items:center;gap:8px;
+    font-weight:700;color:#fff;background:var(--gold);padding:11px 22px;border-radius:999px;
+    font-size:.9rem;box-shadow:0 8px 20px rgba(197,160,89,.3);
+  }
+  details.chapter-body summary::-webkit-details-marker{display:none;}
+  details.chapter-body summary::after{content:'▾';font-size:.8rem;}
+  details.chapter-body[open] summary::after{content:'▴';}
+  details.chapter-body[open] summary{margin-bottom:28px;}
+  .chapter-text{text-align:left;}
+  .chapter-text h3{font-size:1.08rem;color:var(--gold-dark);margin:26px 0 10px;}
+  .chapter-text h3:first-child{margin-top:0;}
+  .chapter-text p{margin-bottom:14px;font-size:1rem;color:var(--ink);}
+  .chapter-lang-note{
+    display:inline-block;margin-bottom:18px;font-size:.78rem;color:var(--gold-dark);
+    background:rgba(197,160,89,.12);padding:5px 14px;border-radius:999px;font-weight:600;
+  }
+  @media(max-width:600px){article.chapter{padding:30px 22px;}}
+
+  .scripts-cta{max-width:640px;margin:0 auto;text-align:center;}
+  .btn{
+    display:inline-flex;align-items:center;gap:8px;padding:12px 26px;border-radius:999px;
+    font-weight:700;text-decoration:none;font-size:.95rem;background:var(--gold);color:#fff;
+    box-shadow:0 10px 24px rgba(197,160,89,.35);
+  }
+
+  footer{padding:40px 0;text-align:center;color:var(--ink-soft);font-size:.85rem;}
+  footer a{color:var(--gold-dark);font-weight:700;text-decoration:none;}
+
+  .chapter-breadcrumb{max-width:840px;margin:28px auto 0;}
+  .chapter-breadcrumb a{font-weight:700;font-size:.85rem;color:var(--gold-dark);text-decoration:none;}
+  .chapter-breadcrumb a:hover{text-decoration:underline;}
+  .chapter-pagenav{max-width:840px;margin:36px auto 0;display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;}
+  .chapter-pagenav a{font-weight:700;font-size:.9rem;padding:10px 16px;border:1.5px solid var(--gold);border-radius:999px;text-decoration:none;color:var(--gold-dark);}
+  .chapter-pagenav a:hover{background:var(--gold);color:#fff;}
+  .chapter-watch-yt{margin:14px 0 4px;}
+  .chapter-watch-yt a{display:inline-flex;align-items:center;gap:8px;background:#FF0000;color:#fff !important;padding:9px 18px;border-radius:999px;font-weight:700;font-size:.85rem;text-decoration:none;}
+  .chapter-watch-yt a:hover{opacity:.9;}
+
+</style>
+</head>
+<body class="lang-hi">
+
+<nav>
+  <div class="wrap">
+    <a class="brand" href="index.html">
+      <img src="logo.png" alt="Equal Tales Storyline" class="brand-logo">
+    </a>
+    <ul class="nav-links lang-block lb-flex" data-lang="en">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="youtube.html">YouTube</a></li>
+    </ul>
+    <ul class="nav-links lang-block lb-flex" data-lang="hi">
+      <li><a href="index.html">होम</a></li>
+      <li><a href="youtube.html">यूट्यूब</a></li>
+    </ul>
+    <div class="lang-switch" role="group" aria-label="Language / भाषा">
+      <button type="button" data-lang="en" aria-pressed="false">EN</button>
+      <button type="button" data-lang="hi" aria-pressed="true">हिं</button>
+    </div>
+  </div>
+</nav>
+
+<main>
+  
+
+
+
+  <div class="chapter-breadcrumb">
+    <a class="lang-block lb-inline" data-lang="en" href="scripts.html">&larr; All chapters</a>
+    <a class="lang-block lb-inline" data-lang="hi" href="scripts.html">&larr; सभी अध्याय</a>
+  </div>
+<article class="chapter" id="chapter-12">
+  <div class="chapter-head">
+    <div class="chapter-num lang-block lb-inline" data-lang="en">Chapter 12</div>
+    <div class="chapter-num lang-block lb-inline" data-lang="hi">अध्याय 12</div>
+    <h2 class="lang-block lb-block" data-lang="en">India in 1500: Bhakti, Babur and the Portuguese Paradox</h2>
+    <h2 class="lang-block lb-block" data-lang="hi">1500 का भारत: भक्ति, बाबर और पुर्तगाली विरोधाभास</h2>
+    <p class="chapter-dek lang-block lb-block" data-lang="en">The year a stranger's ship reached the shore, and Kabir, Mira and Nanak reached for God in their own tongue.</p>
+    <p class="chapter-dek lang-block lb-block" data-lang="hi">जिस साल एक अजनबी जहाज़ किनारे पर उतरा, उसी दौर में कबीर, मीरा और नानक ने ईश्वर को अपनी भाषा में ढूंढा।</p>
+    <div class="chapter-watch-yt"><a class="lang-block lb-inline" data-lang="en" href="https://youtu.be/PxFrdHa41CM" target="_blank" rel="noopener">Watch this episode on YouTube</a><a class="lang-block lb-inline" data-lang="hi" href="https://youtu.be/PxFrdHa41CM" target="_blank" rel="noopener">यह एपिसोड यूट्यूब पर देखें</a></div>
+    <div class="chapter-meta">
+      <span class="lang-block lb-inline" data-lang="en">11 min read</span>
+      <span class="lang-block lb-inline" data-lang="hi">10 मिनट का पाठ</span>
+    </div>
+  </div>
+  <div class="chapter-highlights">
+    <blockquote>“मंदिर और मस्जिद के शोर में इंसान खो गया है।”</blockquote>
+    <blockquote>“ना हिंदू है ना मुसलमान।”</blockquote>
+  </div>
+  <details class="chapter-body" open>
+    <summary>
+      <span class="lang-block lb-inline" data-lang="en">Read the full chapter</span>
+      <span class="lang-block lb-inline" data-lang="hi">पूरा अध्याय पढ़ें</span>
+    </summary>
+    <div class="chapter-text lang-block lb-block" data-lang="en">
+<h3>India in 1500, and an Age of Paradoxes</h3>
+<p>India, 1500. A stranger's ship arrives from the sea; some people come ashore - in strange clothes, in a strange tongue, carrying with them a strange confidence that they could conquer the world. At this very time, on the dusty roads of north India, another kind of search is under way. Somewhere Kabir is saying that humanity is lost in the noise of temple and mosque; somewhere Ravidas, rising from the leatherworker's trade, is challenging the pride of Banaras; somewhere Mirabai, in her love for Krishna, is crossing the walls of the royal palace; and somewhere, from a river in Punjab, Nanak returns after three days and says - 'Neither Hindu nor Muslim.' In this very half-century, Babur begins a new rule on the hot earth of Panipat; Sher Shah shows, by building roads, inns and currency, that power is not only the sword, but also administration; and in Goa, the Portuguese empire brings with it not only the trade of chilli, cashew, and tomato, but also a fire of fanaticism whose flames would be visible for centuries. In this episode of India's story, we will move through the India of 1500 to 1550, where on one side there was the search for God, and on the other, for glory and empire; and standing in between was the human being - with his religion, his caste, his love, his hunger, and his hope. History never enters the room through a single door. Sometimes it comes by sea - with salt, chilli, ships and cannons; sometimes it comes by road - with the hoofbeats of horses, dust, armies and refugees; sometimes it comes as poetry - in the weaver's tongue, in the humble yet unyielding voice of the cobbler, in the love of a Rajput queen; and sometimes it returns from a river after three days and says how small the borders drawn by man are before God. Between 1500 and 1550, all of this was happening at once in India. This was no quiet half-century. This was the time when Europe was, for the first time, landing on the western coast with colonial intentions, when the Mughals and the Surs were fighting for power around Delhi, when Guru Nanak was laying the foundation of a new religious tradition in Punjab, and when the voices of bhakti were spreading through the cities, towns, lanes and ghats of north India. It is not easy to thread all of this into a single line, because all these changes were not directly connected to one another.</p>
+<h3>Vasco da Gama's Arrival at Calicut (1498), and the Founding of the Portuguese Estado da Índia</h3>
+<p>In 1498, a ship arrives and stops on India's western coast. This was no ordinary ship - it carried with it Europe's hunger, fear, trade, religion, and violence. The Portuguese had reached India by the long route around Africa (rounding the Cape of Good Hope). Four ships had set out from Lisbon in 1497, carrying between 148 and 170 men, under the leadership of Vasco da Gama. When the Portuguese reached the eastern coast of Africa, at Malindi (Kenya), Vasco da Gama found a Gujarati navigator (pilot), and it was he who guided them to Calicut in May 1498. Calicut, at that time, was a thriving port of Malabar. The sea air carried the fragrance of black pepper, and the city's ruler, called the 'Zamorin' (Samudiri) in Portuguese sources, was part of this maritime world. Vasco da Gama stayed in Calicut for three months, but this meeting was more a meeting of misunderstandings than of understanding. From the start, Gama exaggerated his king's wealth; the Portuguese kept thinking the Hindus they were meeting were some kind of Christian, while Calicut's Samudri Raja thought these strangely dressed people must be Muslims, only surprised that they did not speak proper Arabic. The Portuguese had not come merely as merchants - they brought cannon too, and considered the sea a field for conquest. In 1505, the Portuguese formally established the 'Estado da Índia'. This was an empire resting on ports, sea routes, and ships. In the decades that followed, the Portuguese seized several towns of the south-western coast - Goa in 1510, Kollam in 1519, Chaul in 1521, and Diu in the 1530s. Of these, Goa became their most important base.</p>
+<h3>Foreign Flavours and Religious Repression: Albuquerque's Massacre, and the Irony of Garcia de Orta</h3>
+<p>The Portuguese did not bring only Europe with them - they also brought things from America - marigold flowers (which later became extremely common in Hindu rituals), potatoes, tomatoes, cashews, and chillies. Today it seems hard to imagine Indian cooking without chilli, but in this era, chilli was something that had come from outside. History often enters most quietly through the kitchen. But the story of Goa is not only one of trade and food - it is also a story of violence. The Portuguese ran open slave markets in Goa, and they introduced a harsh style of religious intolerance that was not common in the old societies of South Asia. In 1510, when Afonso de Albuquerque took Goa from Bijapur, local Muslims were massacred; some people were burned alive in mosques. Albuquerque wrote to the Portuguese king that he had set the city on fire and cut people down with the sword. And this fire did not stop there; from 1560 to 1812, the 'Goa Inquisition' ran, targeting Christian, Hindu, and Muslim communities alike. It was in this very Goa that one man came - Garcia de Orta. He lived in Goa from 1538 to 1568, ran a hospital, and in 1563 wrote a famous medical book (Colóquios) printed in Goa. He came from Jewish heritage but had been forced, under pressure, to become a Catholic ('New Christian'). Garcia de Orta took seriously the medical knowledge of Indian and Muslim scholars. He died in 1568; but twelve years after his death, the Inquisition posthumously found him guilty, and his remains were dug out of his grave and publicly burned.</p>
+<h3>The Bhakti Movement in North India: Kabir, Ravidas, and the Echo of Social Justice</h3>
+<p>While the Portuguese were landing on the western coast with their cannon and ships, another wind was blowing through north India - this wind came from poetry, rising from bhakti. Poet-saints began writing in the vernacular languages (Hindi and its dialects). Here, for the first time, we hear voices from the lower corners of society within Hindu traditions - Kabir, Ravidas, Mirabai. Kabir and Ravidas were connected to Banaras. Kabir is remembered as a Muslim weaver, Ravidas as a leatherworker; but these identities could not limit their stature - their poetry challenged the elite's monopoly over knowledge. There is an astonishing simplicity in Kabir's voice; he does not speak in heavy words. He says: 'Sadho, dekho jag borana. Sanchi kaho to maran dhave, jhoothe jag patiyana. Hindu kahat hai Ram hamara, Musalman Rahamana. Aapas mein dou lade marat hain, maram koi nahin jana.' [Seekers, look, the world has gone mad. Speak the truth and it rushes to kill you, believe the false and the world trusts you. The Hindu says Ram is ours, the Muslim, Rahman. Both die fighting each other, no one has known the mystery.] In Kabir's world, both the temple and the mosque are under question; his God does not ask for an identity card, he looks at the awakening within. Ravidas's voice is different - there is a deep dignity in him. He addresses the nobles of Banaras: 'Nagar jana meri jaati vikhyaat Chamaram, hriday Ram Govind gunasaram.' [Townsfolk, my caste is known, a Chamar, yet in my heart is the essence of Ram Govind's virtue.] Before a society that considered leatherwork lowly, Ravidas was saying that purity is not decided by the work of the hand, but by the heart. He speaks of the lanes of Banaras where he once carried the dead, where now powerful Brahmins come and bow; the ladder of religion has been turned upside down.</p>
+<h3>Mirabai's Saguna Bhakti, and Her Challenge to the Walls of the Palace</h3>
+<p>In Kabir there is a sting, in Ravidas there is dignity, in Mirabai there is fire. Mirabai was a devotee of Krishna, a saint of saguna bhakti (devotion to God with form). She calls out to Krishna as her beloved: 'Man hamaro bandhiyo mai, kaval nain apne gun. Raho tikhan teer bedhi sharir, door gaya mai. Lagyo tab jaaniyo naahi, ab na sahyo jaai re mai.' [My mind is bound, mother, by his lotus eyes and his virtues. A sharp arrow pierces my body still, though he has gone far away. When it struck I did not know, now I cannot bear it any longer, mother.] This love is not romance alone - it is spiritual restlessness. Mirabai is remembered as a wife who broke the honour of her lineage and the social expectation of silence, and immersed herself in devotion to Krishna. One legend says that her in-laws poisoned her, and Krishna saved her. A woman is confined within the walls of the palace, but she says that Mira's heart is already bound elsewhere; in her poetry, separation itself is the spiritual practice.</p>
+<h3>Kabir's Satire, and Rose Petals After Death</h3>
+<p>A particular thing about the bhakti poets was that they also laughed at artificial asceticism. Kabir said: 'Nagan phirat jo paaiye jog, ban ka mirag mukati sab hog. Kya nage kya bandhe cham, jab nahi cheenha aatam Ram. Moond mundaaye jo siddhi paai, mukati bhed na gaiya kaai.' [If wandering naked brought liberation, every deer of the forest would be free. What matter naked, what matter clad in skin, if the self within is not known as Ram. If shaving the head brought perfection, sheep and cows would have found liberation.] That is, if roaming naked brought liberation, every deer in the forest would be liberated; if shaving one's head brought spiritual attainment, then sheep would be in heaven. A famous story is told about Kabir after his death. His followers wrapped his body in a shroud, but one side insisted on Hindu cremation, the other on Muslim burial. The very walls Kabir spent his life breaking, his followers began raising again after his death. Then, when the shroud was lifted, there was no body there - only rose petals. This story tells us that even in death, Kabir could not be confined to any single religious box; he was a poet beyond borders.</p>
+<h3>Guru Nanak, 'Neither Hindu Nor Muslim', and the Revolutionary Beginning of the Langar</h3>
+<p>At around this same time, another voice rises in Punjab - Guru Nanak. One of India's most distinctive religious traditions, Sikhism, began around 1500 in Punjab. Nanak was born near Lahore (in Talwandi) into a Khatri Hindu family. One day he went to bathe in a river, and when he returned three days later, his central insight was - 'Neither Hindu nor Muslim.' Nanak travelled widely, and then, settling in Punjab (at Kartarpur), taught a spiritual path in which 'seva' (service), communal eating ('langar'), and 'sangat' (sitting together) held a great place. Eating while sitting together was a revolutionary act, because within the caste system it was precisely this - who would sit beside whom, and whose hand's food one would eat - that was determined; the langar tore down these walls. After Nanak came nine gurus. The fifth guru, Arjan Dev, compiled the hymns into the 'Adi Granth' and installed it in Amritsar's Golden Temple (Harmandir Sahib). Later, Guru Arjan Dev was executed by the Mughal emperor Jahangir, an early turning point in the Sikh community's entry into political struggle. The tenth guru, Gobind Singh, gave the text its final form, which came to be called the 'Guru Granth Sahib'.</p>
+<h3>The Multilingualism of the Guru Granth Sahib, and the Rise of the Khalsa</h3>
+<p>The opening hymn of the Guru Granth Sahib (the Mool Mantar) gives an extraordinary image of God - one God, Sat Naam (whose name is truth), Karta Purakh (the creator), Nirbhau (without fear), Nirvair (without enmity), Akal Moorat (timeless form), Ajooni (unborn), Saibhang (self-existent). This text is multilingual - it holds hymns in Punjabi, Persian, Braj Bhasha and Sanskrit, but all written in the 'Gurmukhi' script; many rivers flow within a single text. An important feature of Sikhism is its structural rejection of caste. The Guru Granth Sahib says that what power does caste hold, for it is righteousness alone that is tested; the pride of high caste is like holding poison in one's hand. In Guru Gobind Singh's composition it is said - 'Manas ki jaat sabhai ekai pahichaanbo' (recognize all of humankind as a single caste). Later, in 1699, the Khalsa arose, where the five Ks (kesh, kangha, kirpan, kada, kachhera) became the marks of membership in the warrior community; but its seed lay hidden in this very early Nanak tradition.</p>
+<h3>Babur's Journey from Ferghana to Panipat (1526): The Founding of the Mughal Empire</h3>
+<p>Now let us turn to the political ground of north India - 1526, the field of Panipat. Under the leadership of Jalaluddin Muhammad Babur, the Mughal empire began, though at first it was a very fragile state. Babur had come from Ferghana, in present-day Uzbekistan. In 1494, when he was only 12 years old, his father died falling from a pigeon house, and he took the throne. His youth was filled with defeats, but he was Timur's descendant, and so he considered Hindustan his right. In Babur's memoir, the 'Baburnama', there is a scene - outside Peshawar he ate majoon (an intoxicant) and looked upon a field full of flowers. He is a man of the sword, yet he can also be astonished by flowers; even empire-builders are not made of a single layer. In 1526, at the First Battle of Panipat, Babur faced Ibrahim Lodi, the last Lodi ruler of the Delhi Sultanate. Before Babur's cannon and superior strategy, Ibrahim Lodi was defeated, and the Mughal story opened. In 1530, Babur died, leaving behind an unstable kingdom for his son Humayun.</p>
+<h3>Humayun's Exile, Hamida Banu's Desert Journey, and Akbar's Birth (1542)</h3>
+<p>Humayun could not save the kingdom, but this story should be seen through the eyes of Hamida Banu Begum. In 1541, Humayun married Hamida. Soon, because of Sher Shah Suri, the Mughals had to flee India. Hamida was eight months pregnant when she crossed a harsh, 250-kilometre desert route between Marwar and Jaisalmer, where enemies had filled the wells with sand. Amid thirst, refuge, and defeat, history was being born. In October 1542, in Sindh (Amarkot), Jalaluddin Akbar was born. The child was still very young when Humayun's brother Askari abducted him; Hamida and Humayun travelled to Persia (the Safavid court) to seek military help. Here we see not a jewel-studded throne, but fleeing people and the harshness of exile.</p>
+<h3>Sher Shah Suri's Sur Dynasty (1540–1555), the 'Rupee' Currency, and Jayasi's Padmavat</h3>
+<p>The man who seized power from Humayun was Farid Khan, known as 'Sher Shah Suri'. He ruled from 1540 to 1545 (Sur rule continued until 1555). Sher Shah was not rich in the sword alone - he introduced the silver-based currency 'rupiya', which remains South Asia's identity even today. He invested in roads and inns, especially rebuilding the 'Grand Trunk Road' (Sadak-e-Azam); a road is the very vein of a state. Sur rulers often preferred the local 'Hindavi' (Awadhi/Hindi) over Persian. It is in this very era that Malik Muhammad Jayasi wrote his Sufi epic 'Padmavat' (1540) and dedicated it to Sher Shah. The Padmavat tells the story of Padmavati, queen of Chittor, and Ratansen, in which Alauddin Khilji desires her. Here Jayasi was composing a tale of Sufi truth, in which the meaning of love is self-sacrifice. When Padmavati mounts the funeral pyre, she says - today the sun has set in daytime, tonight the moon is setting too, today this fire is cool for us. Poetry was searching for the meaning of love within fire, and Sher Shah was minting silver.</p>
+<h3>Humayun's Return, His Death from a Fall Down the Stairs, and Akbar's Coronation (Conclusion)</h3>
+<p>In 1555, Humayun, with Safavid help, defeated the Surs and regained Delhi, but in less than a year he died falling down the stairs of the 'Sher Mandal' library. The Mughal nobles kept his death secret for two and a half weeks so that the coronation of the 13-year-old Jalaluddin Akbar could be secured, and Bairam Khan made his regent (naib). In 1556, Bairam Khan won the Second Battle of Panipat, which cleared Akbar's path to the future. This India of 1500 to 1550 was a decisive turning point, where the greater upheaval lay not in the wars of dynasties, but in ideas. Europe's artillery was advancing upon the sea; new fruits and vegetables (potato, tomato, chilli) were arriving in Goa, but along with them came the religious repression of the Inquisition too. On the other side, Kabir, Ravidas, Mirabai and Guru Nanak were bringing God out of the scriptures and into the speech of the common people; they were saying that a human being's true identity is not his caste or his name, but his invisible dignity. History turns dead time into a living question. The India of 1500-1550 tells us that change always arrives in many forms - sometimes it is a ship, sometimes a verse, sometimes a rupee, sometimes a road, sometimes a man returning from a river, and sometimes rose petals left in a shroud. Between swords and saints, between sea and desert, between the rupee and the name of Ram, the human being kept searching for his own meaning; and this is India's real story.</p>
+    </div>
+    <div class="chapter-text lang-block lb-block" data-lang="hi">
+<h3>1500 का भारत और विरोधाभासों का युग</h3>
+<p>1500 का भारत। समुद्र से एक अजनबी जहाज आता है, किनारे पर उतरते हैं कुछ लोग-अजीब कपड़ों में, अजीब भाषा में, और अपने साथ एक अजीब भरोसा लेकर कि दुनिया को वे जीत सकते हैं। उसी समय उत्तर भारत की धूल भरी सड़कों पर एक और खोज चल रही है। कहीं कबीर कह रहे हैं कि मंदिर और मस्जिद के शोर में इंसान खो गया है; कहीं रविदास चमड़े के काम से उठकर बनारस के अभिमान को चुनौती दे रहे हैं; कहीं मीराबाई कृष्ण के प्रेम में राजमहल की दीवारें लांघ रही हैं; और कहीं पंजाब की एक नदी से नानक लौटते हैं तीन दिन बाद और कहते हैं-"ना हिंदू है ना मुसलमान।" इसी आधी सदी में बाबर पानीपत की गर्म धरती पर एक नया राज शुरू करता है; शेरशाह सड़क, सराय और रुपया बनाकर बताता है कि सत्ता सिर्फ तलवार नहीं, इंतजाम भी होती है; और गोवा में पुर्तगाली साम्राज्य अपने साथ मिर्च, काजू, टमाटर का व्यापार ही नहीं लाता, वो कट्टरता की एक ऐसी आग भी लाता है जिसकी लपटें सदियों तक दिखती रहेंगी। भारत की कहानी के इस एपिसोड में हम 1500 से 1550 के बीच के उस भारत में चलेंगे जहां एक तरफ ईश्वर की तलाश थी, दूसरी तरफ यश और साम्राज्य की; और बीच में खड़ा था इंसान-अपने धर्म, अपनी जाति, अपने प्रेम, अपनी भूख और अपनी उम्मीद के साथ। इतिहास कभी एक ही दरवाजे से कमरे में दाखिल नहीं होता। कभी वह समुद्र के रास्ते आता है-नमक, मिर्च, जहाज और तोपों के साथ; कभी वह सड़क से आता है-घोड़ों की टाप, धूल, फौज और शरणार्थियों के साथ; कभी वह कविता बनकर आता है-जुलाहे की जुबान में, चर्मकार की विनम्र लेकिन अडिग आवाज में, राजपूत रानी के प्रेम में; और कभी वह नदी से लौटता है तीन दिन बाद और कहता है कि मनुष्य की बनाई हुई सरहदें ईश्वर के सामने कितनी छोटी हैं। 1500 से 1550 के बीच भारत में यही सब एक साथ हो रहा था। यह कोई शांत आधी सदी नहीं थी। यह वह समय था जब पश्चिमी तट पर यूरोप पहली बार उपनिवेशवादी इरादों के साथ उतर रहा था, दिल्ली के आसपास मुगल और सूर सत्ता के लिए लड़ रहे थे, पंजाब में गुरु नानक एक नई धार्मिक परंपरा की नींव रख रहे थे और उत्तर भारत के शहरों, कस्बों, गलियों और घाटों में भक्ति की आवाजें फैल रही थीं। इन सबको एक सूत्र में पिरोना आसान नहीं है, क्योंकि यह सारे बदलाव एक दूसरे से सीधे जुड़े हुए नहीं थे।</p>
+<h3>वास्को द गामा का कालीकट आगमन (1498) और पुर्तगाली साम्राज्य (Estado da Índia) की स्थापना</h3>
+<p>1498 में भारत के पश्चिमी तट पर एक जहाज आकर रुकता है। यह कोई साधारण जहाज नहीं था, यह यूरोप की भूख, डर, व्यापार, धर्म और हिंसा को साथ लेकर आया था। पुर्तगाली अफ्रीका का लंबा चक्कर काटकर (Cape of Good Hope पार करके) भारत पहुंचे थे। 1497 में लिसबन से चार जहाज निकले थे, जहाजों पर 148 से 170 आदमी थे और नेतृत्व वास्को द गामा के हाथ में था। पुर्तगाली जब अफ्रीका के पूर्वी तट पर पहुंचे तो मलिंदी (केन्या) में वास्को द गामा को एक गुजराती नाविक (पायलट) मिला, उसी ने उन्हें मई 1498 में कालीकट पहुंचाया। कालीकट उस समय मालाबार का एक जीवित बंदरगाह था। समुद्र की नमी में काली मिर्च की खुशबू थी और शहर का शासक, जिसे पुर्तगाली स्रोतों में 'जमोरिन' (Samudiri) कहा गया, इस समुद्री दुनिया का हिस्सा था। वास्को द गामा कालीकट में तीन महीने रहे, लेकिन यह मुलाकात समझ से ज्यादा गलतफहमियों की मुलाकात थी। गामा ने शुरुआत से ही अपने राजा की दौलत को बढ़ा-चढ़ाकर बताया; पुर्तगाली समझते रहे कि जिन हिंदुओं से वे मिल रहे हैं वे किसी तरह के ईसाई हैं, और कालीकट के समुद्री राजा को लगा कि यह अजीब कपड़े पहने हुए मुसलमान होंगे, बस हैरत यह कि इन्हें अरबी ठीक से नहीं आती। पुर्तगाली सिर्फ व्यापारी बनकर नहीं आए थे, वे तोप भी लाए थे और समुद्र को कब्जे का मैदान समझते थे। 1505 में पुर्तगालियों ने औपचारिक रूप से 'इस्तादो द इंडिया' (Estado da Índia) स्थापित किया। यह बंदरगाहों, समुद्री रास्तों और जहाजों पर टिका हुआ साम्राज्य था। आने वाले दशकों में पुर्तगालियों ने दक्षिण-पश्चिमी तट के कई कस्बों पर कब्जा किया-1510 में गोवा, 1519 में कोल्लम, 1521 में चौल और 1530 के दशक में दीव। इनमें गोवा उनका सबसे अहम अड्डा बना।</p>
+<h3>विदेशी स्वाद और धार्मिक दमन: अल्बुकर्क का नरसंहार व गार्सिया द ओर्ता की विडंबना</h3>
+<p>पुर्तगाली अपने साथ सिर्फ यूरोप नहीं लाए थे, वे अमेरिका से भी चीजें लेकर आए थे-गेंदे के फूल (जो बाद में हिंदू अनुष्ठानों में बेहद आम हुए), आलू, टमाटर, काजू और मिर्च। आज भारतीय रसोई की कल्पना मिर्च के बिना मुश्किल लगती है, लेकिन इस दौर में मिर्च बाहर से आई चीज थी। इतिहास कई बार रसोई में सबसे चुपचाप दाखिल होता है। लेकिन गोवा की कहानी सिर्फ व्यापार और भोजन की नहीं है, वो हिंसा की कहानी भी है। पुर्तगालियों ने गोवा में खुले दास बाजार चलाए और उन्होंने धार्मिक असहिष्णुता की एक ऐसी कठोर शैली पेश की जो दक्षिण एशिया के पुराने समाजों में आम नहीं थी। 1510 में जब अफोंसो डी अल्बुकर्क (Afonso de Albuquerque) ने बीजापुर से गोवा लिया, तो स्थानीय मुसलमानों का नरसंहार हुआ; कुछ लोगों को मस्जिदों में जिंदा जला दिया गया। अल्बुकर्क ने पुर्तगाली राजा को लिखा कि उसने शहर में आग लगा दी और लोगों को तलवार से काट डाला। और यह आग यहीं नहीं रुकी; 1560 से 1812 तक गोवा में 'इनक्विजिशन' (Goa Inquisition) चली, जो ईसाई, हिंदू, मुसलमान कई समुदायों को निशाना बनाती रही। इसी गोवा में एक व्यक्ति आए-गार्सिया डी ओर्ता (Garcia de Orta)। वे 1538 से 1568 तक गोवा में रहे, अस्पताल चलाया और 1563 में गोवा में छपी एक प्रसिद्ध चिकित्सा पुस्तक (Colóquios) लिखी। वे यहूदी विरासत से आते थे लेकिन दबाव में कैथोलिक बने थे (New Christian)। गार्सिया डी ओर्ता ने भारतीय और मुस्लिम विद्वानों के औषधि ज्ञान को गंभीरता से लिया। 1568 में उनकी मृत्यु हुई; लेकिन उनकी मौत के 12 साल बाद इनक्विजिशन ने उन्हें मरणोपरांत दोषी माना और उनके अवशेष कब्र से निकालकर सार्वजनिक रूप से जला दिए गए।</p>
+<h3>उत्तर भारत में भक्ति आंदोलन: कबीर, रविदास और सामाजिक न्याय की गूंज</h3>
+<p>जब पश्चिमी तट पर पुर्तगाली अपने तोप और जहाजों के साथ उतर रहे थे, उत्तर भारत में एक दूसरी हवा चल रही थी-यह हवा कविता से आई, भक्ति से उठी। देसी भाषाओं (हिंदी और उसकी बोलियों) में कवि संतों ने लिखना शुरू किया। यहां हमें पहली बार हिंदू परंपराओं में समाज के निचले कोनों से आवाजें सुनाई देती हैं-कबीर, रविदास, मीराबाई। कबीर और रविदास बनारस से जुड़े थे। कबीर को एक मुस्लिम जुलाहे के रूप में याद किया जाता है, रविदास को चर्मकार के रूप में; लेकिन ये पहचानें उनके कद को सीमित नहीं कर पाईं, उनकी कविता ने ज्ञान पर अभिजात वर्ग के कब्जे को चुनौती दी। कबीर की आवाज में एक अद्भुत सादगी है, वे भारी शब्दों में बात नहीं करते। वे कहते हैं: "साधो देखो जग बोराना। सांची कहो तो मारन धावे, झूठे जग पतियाना। हिंदू कहत है राम हमारा, मुसलमान रहमाना। आपस में दोऊ लड़े मरत हैं, मरम कोई नहीं जाना।" कबीर की दुनिया में मंदिर और मस्जिद दोनों सवालों के घेरे में हैं; उनका ईश्वर पहचान पत्र नहीं मांगता, वो भीतर की जागृति देखता है। रविदास की आवाज अलग है, उनमें एक गहरी गरिमा है। वे बनारस के कुलीनों को संबोधित करते हैं: "नागर जना मेरी जाति विख्यात चमारम्, हृदय राम गोविंद गुणसारम्।" एक ऐसा समाज जो चमड़े के काम को नीचा मानता था, उसके सामने रविदास कह रहे थे कि पवित्रता हाथ के काम से तय नहीं होती, दिल से तय होती है। वे बनारस की गलियों का जिक्र करते हैं कि जहां वे मुर्दे ढोते थे, अब वहां ताकतवर ब्राह्मण आकर झुकते हैं; धर्म की सीढ़ी उलट गई है।</p>
+<h3>मीराबाई की सगुण भक्ति और राजमहल की दीवारों को चुनौती</h3>
+<p>कबीर के यहां चोट है, रविदास के यहां गरिमा है, मीराबाई के यहां आग है। मीराबाई कृष्ण की भक्त थीं, वे सगुण भक्ति की संत थीं। वे कृष्ण को प्रियतम की तरह पुकारती हैं: "मन हमारो बांधियो माई, कवल नैन अपने गुण। रहो तीखन तीर बेधि शरीर, दूर गया माई। लाग्यो तब जानियो नाही, अब ना सहयो जाई रे माई।" यह प्रेम सिर्फ रोमांस नहीं है, यह आध्यात्मिक बेचैनी है। मीराबाई को एक ऐसी पत्नी के रूप में याद किया गया जो कुल की मर्यादा और चुप रहने की सामाजिक उम्मीदों को तोड़कर कृष्ण भक्ति में डूब गई। एक कथा कहती है कि उनके ससुराल वालों ने उन्हें जहर दिया और कृष्ण ने उन्हें बचाया। एक स्त्री राजमहल की दीवारों में बंद है, लेकिन वो कहती है कि मीरा का हृदय तो कहीं और बंध चुका है; उनकी कविता में विरह ही साधना है।</p>
+<h3>कबीर पर व्यंग्य और मृत्यु के बाद गुलाब की पंखुड़ियां</h3>
+<p>भक्ति कवियों की एक खास बात यह भी थी कि वे बनावटी तपस्या पर भी हंसते थे। कबीर ने कहा: "नगन फिरत जो पाइए जोग, बन का मिरग मुकति सब होग। क्या नागे क्या बांधे चाम, जब नहीं चीन्हा आतम राम। मूंड़ मुंडाए जो सिद्धि पाई, मुक्ति भेड़ न गइया काई।" यानी नंगे घूमने से अगर मुक्ति मिलती तो जंगल का हर हिरण मुक्त होता; सिर मुंडाने से सिद्धि मिलती तो भेड़ें स्वर्ग में होतीं। कबीर की मृत्यु के बाद उनके बारे में एक प्रसिद्ध कथा कही जाती है। उनके अनुयायियों ने उनके शरीर को कफ़न में लपेटा, लेकिन एक तरफ हिंदू दाह संस्कार की राह पर अड़ गए, दूसरी तरफ मुस्लिम दफनाने पर। कबीर जीवन भर जिन दीवारों को तोड़ते रहे, मृत्यु के बाद अनुयायी उन्हीं दीवारों को खड़ा करने लगे। फिर जब कफन उठाया गया तो वहां शरीर नहीं था, सिर्फ गुलाब की पंखुड़ियां थीं। यह कथा बताती है कि कबीर को मृत्यु में भी किसी एक धार्मिक खांचे में बंद नहीं किया जा सका, वे सरहदों के पार के कवि थे।</p>
+<h3>गुरु नानक, 'ना हिंदू है ना मुसलमान' और लंगर की क्रांतिकारी शुरुआत</h3>
+<p>लगभग इसी समय पंजाब में एक और आवाज उठती है-गुरु नानक। भारत की सबसे विशिष्ट धार्मिक परंपराओं में से एक, सिख धर्म की शुरुआत 1500 के आसपास पंजाब में हुई। नानक का जन्म लाहौर के पास (तलवंडी) एक खत्री हिंदू परिवार में हुआ था। एक दिन वे नदी में स्नान के लिए गए और तीन दिन बाद जब लौटे, तो उनकी प्रमुख अंतर्दृष्टि थी-"ना हिंदू है ना मुसलमान।" नानक ने यात्राएं कीं और फिर पंजाब (करतारपुर) में बसकर एक आध्यात्मिक मार्ग सिखाया, जिसमें 'सेवा', सामूहिक भोजन ('लंगर') और 'संगत' (साथ बैठना) का बड़ा स्थान था। साथ बैठकर खाना क्रांतिकारी काम था, क्योंकि जाति व्यवस्था में कौन किसके पास बैठेगा और किसके हाथ का खाएगा, यही सब तय होता था; लंगर ने इन दीवारों को ढहा दिया। नानक के बाद नौ गुरु हुए। पांचवें गुरु अर्जुन देव ने भजनों को 'आदि ग्रंथ' में संकलित किया और अमृतसर के स्वर्ण मंदिर (Harmandir Sahib) में स्थापित किया। बाद में गुरु अर्जुन देव को मुगल सम्राट जहांगीर ने फांसी की सजा दी, जो सिख समुदाय के राजनीतिक संघर्षों में आने का शुरुआती मोड़ था। दसवें गुरु गोविंद सिंह ने ग्रंथ को अंतिम रूप दिया, जिसे 'गुरु ग्रंथ साहिब' कहा गया।</p>
+<h3>गुरु ग्रंथ साहिब की बहुभाषिकता और खालसा का उदय</h3>
+<p>गुरु ग्रंथ साहिब का प्रारंभिक भजन (मूल मंतर) ईश्वर की अद्भुत छवि देता है-एक ईश्वर, सत्यनाम, कर्ता पुरख, निर्भय, निर्वैर, अकाल मूरत, अजूनी, सैभं। यह ग्रंथ बहुभाषी है-इसमें पंजाबी, फारसी, ब्रजभाषा और संस्कृत के भजन हैं, लेकिन सब 'गुरमुखी' लिपि में लिखे गए हैं; अनेक नदियां एक ही पाठ में बह रही हैं। सिख धर्म की महत्वपूर्ण बात जाति का संरचनात्मक अस्वीकार है। गुरु ग्रंथ साहिब कहता है कि जाति में क्या शक्ति है, परख तो धार्मिकता की होती है; ऊंची जाति का अभिमान हाथ में जहर थामने जैसा है। गुरु गोविंद सिंह की रचना में कहा गया-"मानस की जात सभै एकै पहिचानबो।" आगे चलकर 1699 में 'خालसा' (Khalsa) का उदय हुआ, जहां पांच ककार (केश, कंघा, कृपाण, कड़ा, कच्छेरा) योद्धा समुदाय की सदस्यता के चिन्ह बने; लेकिन इसका बीज इसी शुरुआती नानक परंपरा में छिपा था।</p>
+<h3>बाबर का फरगना से पानीपत (1526) तक का सफ़र: मुगल साम्राज्य की नींव</h3>
+<p>अब उत्तर भारत की राजनीतिक धरती पर चलते हैं-1526, पानीपत का मैदान। जलालुद्दीन मोहम्मद बाबर के नेतृत्व में मुगल साम्राज्य की शुरुआत हुई, पर शुरुआत में यह बहुत नाजुक राज्य था। बाबर वर्तमान उज़्बेकिस्तान के फरगना से आया था। 1494 में जब वो सिर्फ 12 साल का था, उसके पिता की मौत कबूतर घर से गिरने से हुई और वो सिंहासन पर बैठा। उसकी जवानी हारों से भरी रही, पर वो तैमूर का वंशज था, इसलिए हिंदुस्तान को अपना अधिकार मानता था। बाबर की आत्मकथा 'बाबरनामा' (Baburnama) में एक दृश्य आता है-पेशावर के बाहर उसने माजून (नशीला पदार्थ) खाया और फूलों से भरे मैदान को देखा। वो तलवार वाला है, मगर फूलों से चकित भी हो सकता है; साम्राज्य बनाने वाले लोग भी एक ही परत के नहीं होते। 1526 में पानीपत की पहली लड़ाई में बाबर का सामना दिल्ली सल्तनत के आखिरी लोदी शासक इब्राहिम लोदी से हुआ। बाबर की तोपों और बेहतर रणनीति के आगे इब्राहिम लोदी हारा और मुगल कहानी खुली। 1530 में बाबर की मृत्यु हुई और वो अपने बेटे हुमायूं के लिए एक अस्थिर राज्य छोड़ गया।</p>
+<h3>हुमायूं का निर्वासन, हमीदा बानो की रेगिस्तानी यात्रा और अकबर का जन्म (1542)</h3>
+<p>हुमायूं राज्य को बचा नहीं पाया, पर इस कहानी को हमीदा बानो बेगम की आंख से देखना चाहिए। 1541 में हुमायूं ने हमीदा से शादी की। जल्द ही शेरशाह सूरी के कारण मुगलों को भारत से भागना पड़ा। हमीदा 8 महीने की गर्भवती थीं जब उन्होंने मारवाड़ और जैसलमेर के बीच 250 किलोमीटर का कठोर रेगिस्तानी रास्ता तय किया, जहां दुश्मनों ने कुएं रेत से भर दिए थे। प्यास, शरण और हार के बीच इतिहास जन्म ले रहा था। अक्टूबर 1542 में सिंध (अमरकोट) में जलालुद्दीन अकबर का जन्म हुआ। बच्चा अभी बहुत छोटा था कि हुमायूं के भाई अस्करी ने उसे अगवा कर लिया; हमीदा और हुमायूं फारस (सफावी दरबार) की यात्रा पर गए ताकि सैन्य मदद मांग सकें। यहां नगीने जड़ा सिंहासन नहीं, बल्कि भागते हुए लोग और निर्वासन की कठोरता दिखाई देती है।</p>
+<h3>शेरशाह सूरी का सूर वंश (1540–1555), 'रुपया' मुद्रा और जायसी का पद्मावत</h3>
+<p>हुमायूं से सत्ता छीनने वाले फरीद खान थे, जो 'शेरशाह सूरी' के नाम से जाने गए। 1540 से 1545 तक उन्होंने शासन किया (सूर वंश का शासन 1555 तक रहा)। शेरशाह सिर्फ तलवार के धनी नहीं थे, उन्होंने चांदी आधारित मुद्रा 'रुपया' पेश की, जो आज भी दक्षिण एशिया की पहचान है। उन्होंने सड़कों और सरायों में निवेश किया, खासकर 'ग्रैंड ट्रंक रोड' (Sadak-e-Azam) का पुनर्निर्माण कराया; सड़क ही राज्य की नस होती है। सूर शासक अक्सर फारसी के बजाय स्थानीय 'हिंदवी' (अवधी/हिंदी) को प्राथमिकता देते थे। इसी दौर में मलिक मोहम्मद जायसी ने अपना सूफी महाकाव्य 'पद्मावत' (1540) लिखा और शेरशाह को अर्पित किया। पद्मावत में चित्तौड़ की रानी पद्मावती और रतनसेन की कथा है, जहां अलाउद्दीन खिलजी उसे पाना चाहता है। जायसी यहां सूफी सत्य की कथा रच रहे थे, जहां प्रेम का अर्थ आत्मबलिदान है। जब पद्मावती चिता पर चढ़ती है, तो वो कहती है-आज दिन में सूर्य डूब गया, रात में चांद डूब रहा है, आज यह आग हमारे लिए ठंडी है। कविता आग में प्रेम का अर्थ खोज रही थी और शेरशाह चांदी ढाल रहे थे।</p>
+<h3>हुमायूं की वापसी, सीढ़ियों से गिरकर मृत्यु और अकबर की ताजपोशी (निष्कर्ष)</h3>
+<p>1555 में हुमायूं ने सफावियों की मदद से सूरों को हराकर दिल्ली वापस पा ली, लेकिन एक साल से भी कम समय में 'शेर मंडल' पुस्तकालय की सीढ़ियों से गिरकर उसकी मृत्यु हो गई। मुगल रईसों ने उसकी मृत्यु को ढाई हफ्ते तक गुप्त रखा ताकि 13 साल के किशोर जलालुद्दीन अकबर की ताजपोशी सुरक्षित की जा सके और बैरम खान को संरक्षक (नायब) बनाया जा सके। 1556 में बैरम खान ने पानीपत की दूसरी लड़ाई जीती, जिसने अकबर के भविष्य का रास्ता साफ किया। 1500 से 1550 के बीच का यह भारत एक निर्णायक मोड़ था, जहां राजवंशों की लड़ाइयों से बड़ी हलचल विचारों में थी। समुद्र पर यूरोप का तोपखाना बढ़ रहा था, गोवा में नए फल-सब्जियां (आलू, टमाटर, मिर्च) आ रहे थे, पर साथ ही इनक्विजिशन का धार्मिक दमन भी था। दूसरी तरफ, कबीर, रविदास, मीराबाई और गुरु नानक ईश्वर को शास्त्रों से बाहर निकालकर जनता की बोलियों में ला रहे थे; वे कह रहे थे कि मनुष्य की असली पहचान उसकी जाति या नाम नहीं, बल्कि उसकी अदृश्य गरिमा है। इतिहास मरे हुए समय को जिंदा सवाल में बदल देता है। 1500-1550 का भारत हमें बताता है कि परिवर्तन हमेशा कई रूपों में आता है-कभी वो जहाज होता है, कभी पद, कभी रुपया, कभी सड़क, कभी नदी से लौटता हुआ एक आदमी और कभी कफ़न में बची गुलाब की पंखुड़ियां। तलवारों और संतों के बीच, समुद्र और रेगिस्तान के बीच, रुपए और राम के नाम के बीच मनुष्य अपने अर्थ की तलाश करता रहा; और यही भारत की वास्तविक कहानी है। •</p>
+    </div>
+  </details>
+</article>
+
+  <div class="chapter-pagenav">
+    <a class="lang-block lb-inline" data-lang="en" href="episode-11.html">&larr; The Long Fifteenth Century: Betel Leaf, Court and a Shared World</a>
+    <a class="lang-block lb-inline" data-lang="hi" href="episode-11.html">&larr; लंबी पंद्रहवीं शताब्दी: पान, दरबार और मिली-जुली दुनिया</a>
+    <a class="lang-block lb-inline" data-lang="en" href="scripts.html">Read other episodes</a>
+    <a class="lang-block lb-inline" data-lang="hi" href="scripts.html">बाक़ी एपिसोड्स पढ़ें</a>
+    <a class="lang-block lb-inline" data-lang="en" href="episode-13.html">Akbar: The Emperor Born Under the Stars &rarr;</a>
+    <a class="lang-block lb-inline" data-lang="hi" href="episode-13.html">अकबर: तारों के नीचे जन्मा बादशाह &rarr;</a>
+  </div>
+
+
+
+
+  <div class="scripts-cta">
+    <p class="lang-block lb-block" data-lang="en" style="color:var(--ink-soft);margin-bottom:20px;">More chapters are on their way as new episodes release.</p>
+    <p class="lang-block lb-block" data-lang="hi" style="color:var(--ink-soft);margin-bottom:20px;">नए एपिसोड आने के साथ और अध्याय यहां जुड़ते रहेंगे।</p>
+    <a class="btn lang-block lb-flex" data-lang="en" href="index.html">← Back to home</a>
+    <a class="btn lang-block lb-flex" data-lang="hi" href="index.html">← होम पर वापस जाएं</a>
+  </div>
+</main>
+
+<footer>
+  <div class="lang-block lb-block" data-lang="en">Equal Tales Storyline · <a href="https://www.youtube.com/@ETStoryline" target="_blank" rel="noopener">@ETStoryline</a> · <a href="youtube.html">Videos</a></div>
+  <div class="lang-block lb-block" data-lang="hi">इक्वल टेल्स स्टोरीलाइन · <a href="https://www.youtube.com/@ETStoryline" target="_blank" rel="noopener">@ETStoryline</a> · <a href="youtube.html">वीडियो</a></div>
+</footer>
+
+<script>
+  function setLang(lang){
+    document.body.classList.remove('lang-en','lang-hi');
+    document.body.classList.add('lang-' + lang);
+    document.documentElement.setAttribute('lang', lang);
+    try{ localStorage.setItem('etsLang', lang); }catch(e){}
+    document.querySelectorAll('.lang-switch button').forEach(function(b){
+      b.setAttribute('aria-pressed', b.dataset.lang === lang ? 'true' : 'false');
+    });
+  }
+  document.querySelectorAll('.lang-switch button').forEach(function(b){
+    b.addEventListener('click', function(){ setLang(b.dataset.lang); });
+  });
+  (function init(){
+    var saved = null;
+    try{ saved = localStorage.getItem('etsLang'); }catch(e){}
+    setLang(saved === 'en' ? 'en' : 'hi');
+  })();
+</script>
+
+</body>
+</html>

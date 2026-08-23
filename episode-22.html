@@ -1,0 +1,483 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>1947: One Country, Two Borders, and a Million Uprooted Lives | 1947: एक देश, दो सरहदें और लाखों बेघर लोग | Equal Tales Storyline</title>
+<meta name="description" content="Read Bharat Ki Kahani's episode scripts as full chapters - from the Indus Valley to the dawn of the 20th century.">
+<link rel="icon" type="image/png" href="favicon.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700;900&family=Inter:wght@400;500;600;700&family=Mukta:wght@400;500;600;700&family=Baloo+2:wght@500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --cloud:#F4F7F9;
+    --mist:#E6ECF2;
+    --powder:#D0E1FD;
+    --gold:#C5A059;
+    --gold-dark:#96754A;
+    --ink:#2C3E50;
+    --ink-soft:#5B6B7C;
+    --glass:rgba(255,255,255,.55);
+    --glass-strong:rgba(255,255,255,.72);
+    --glass-border:rgba(255,255,255,.65);
+  }
+  *{box-sizing:border-box;margin:0;padding:0;}
+  html{scroll-behavior:smooth;}
+  body{
+    background:linear-gradient(165deg, var(--cloud) 0%, var(--powder) 55%, var(--mist) 100%);
+    color:var(--ink);font-family:'Inter',sans-serif;line-height:1.75;min-height:100vh;
+  }
+  body.lang-hi{font-family:'Mukta',sans-serif;}
+  h1,h2,h3{font-family:'Playfair Display',serif;font-weight:700;color:var(--ink);}
+  body.lang-hi h1, body.lang-hi h2, body.lang-hi h3{font-family:'Baloo 2',serif;font-weight:700;}
+  a{color:inherit;}
+  img{max-width:100%;display:block;}
+  .wrap{max-width:1120px;margin:0 auto;padding:0 24px;}
+
+  .lang-block{display:none !important;}
+  body.lang-en .lang-block[data-lang="en"].lb-block{display:block !important;}
+  body.lang-hi .lang-block[data-lang="hi"].lb-block{display:block !important;}
+  body.lang-en .lang-block[data-lang="en"].lb-flex{display:flex !important;}
+  body.lang-hi .lang-block[data-lang="hi"].lb-flex{display:flex !important;}
+  body.lang-en .lang-block[data-lang="en"].lb-inline{display:inline !important;}
+  body.lang-hi .lang-block[data-lang="hi"].lb-inline{display:inline !important;}
+  body.lang-en .lang-block[data-lang="en"].lb-grid{display:grid !important;}
+  body.lang-hi .lang-block[data-lang="hi"].lb-grid{display:grid !important;}
+
+  nav{
+    position:sticky;top:0;z-index:50;
+    background:var(--glass);backdrop-filter:blur(16px) saturate(1.2);-webkit-backdrop-filter:blur(16px) saturate(1.2);
+    border-bottom:1px solid var(--glass-border);
+  }
+  nav .wrap{display:flex;align-items:center;justify-content:space-between;padding:14px 24px;gap:16px;}
+  .brand{display:flex;align-items:center;gap:10px;text-decoration:none;}
+  .brand-logo{height:46px;width:auto;flex-shrink:0;border-radius:12px;}
+  .lang-switch{display:flex;border:1.5px solid var(--gold);border-radius:999px;overflow:hidden;background:rgba(255,255,255,.5);}
+  .lang-switch button{border:0;background:transparent;padding:7px 16px;font-weight:700;font-size:.82rem;cursor:pointer;color:var(--gold-dark);}
+  .lang-switch button[aria-pressed="true"]{background:var(--gold);color:#fff;}
+  .nav-links{display:flex;gap:22px;list-style:none;}
+  .nav-links a{font-size:.88rem;font-weight:600;text-decoration:none;}
+  @media(max-width:700px){.nav-links{display:none;}}
+
+  main{padding:70px 24px 100px;}
+  .eyebrow{text-transform:uppercase;letter-spacing:.14em;font-size:.75rem;font-weight:600;color:var(--gold-dark);margin-bottom:14px;}
+  body.lang-hi .eyebrow{text-transform:none;letter-spacing:0;}
+
+  .scripts-hero{max-width:760px;margin:0 auto 48px;text-align:center;}
+  .scripts-hero h1{font-size:clamp(1.7rem,4vw,2.5rem);margin-bottom:16px;}
+  .scripts-hero p{color:var(--ink-soft);font-size:1.05rem;}
+
+  .chapter-index{grid-template-columns:repeat(4,1fr);gap:16px;margin:0 auto 64px;max-width:1000px;}
+  .chapter-index a{
+    display:block;background:var(--glass);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);
+    border:1px solid var(--glass-border);border-radius:16px;padding:18px 16px;
+    text-decoration:none;text-align:center;transition:transform .15s ease,box-shadow .15s ease;
+  }
+  .chapter-index a:hover{transform:translateY(-3px);box-shadow:0 10px 26px rgba(44,62,80,.1);}
+  .idx-num{font-size:.72rem;font-weight:700;color:var(--gold-dark);text-transform:uppercase;letter-spacing:.06em;margin-bottom:6px;}
+  body.lang-hi .idx-num{text-transform:none;letter-spacing:0;}
+  .idx-title{font-size:.9rem;font-weight:600;color:var(--ink);line-height:1.4;}
+  @media(max-width:900px){.chapter-index{grid-template-columns:repeat(2,1fr);}}
+  @media(max-width:560px){.chapter-index{grid-template-columns:1fr;}}
+
+  article.chapter{
+    max-width:800px;margin:0 auto 56px;
+    background:var(--glass-strong);backdrop-filter:blur(18px) saturate(1.1);-webkit-backdrop-filter:blur(18px) saturate(1.1);
+    border:1px solid var(--glass-border);border-radius:24px;padding:44px 40px;
+    box-shadow:0 20px 50px rgba(44,62,80,.08);scroll-margin-top:90px;
+  }
+  .chapter-head{text-align:center;margin-bottom:26px;}
+  .chapter-num{font-size:.78rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--gold-dark);margin-bottom:8px;}
+  body.lang-hi .chapter-num{text-transform:none;letter-spacing:0;font-family:'Mukta',sans-serif;}
+  .chapter-head h2{font-size:clamp(1.3rem,3vw,1.7rem);margin-bottom:12px;}
+  .chapter-dek{color:var(--ink-soft);font-size:1rem;max-width:560px;margin:0 auto 10px;}
+  .chapter-meta{font-size:.8rem;color:var(--gold-dark);font-weight:600;}
+  .chapter-highlights{margin:0 0 24px;display:grid;gap:14px;}
+  .chapter-highlights blockquote{
+    font-family:'Playfair Display',serif;font-style:italic;font-size:1.05rem;line-height:1.6;
+    color:var(--ink);background:rgba(197,160,89,.1);border-left:3px solid var(--gold);
+    padding:16px 20px;border-radius:0 12px 12px 0;
+  }
+  body.lang-hi .chapter-highlights blockquote{font-family:'Baloo 2',serif;font-style:normal;}
+  details.chapter-body{text-align:center;}
+  details.chapter-body summary{
+    cursor:pointer;list-style:none;display:inline-flex;align-items:center;gap:8px;
+    font-weight:700;color:#fff;background:var(--gold);padding:11px 22px;border-radius:999px;
+    font-size:.9rem;box-shadow:0 8px 20px rgba(197,160,89,.3);
+  }
+  details.chapter-body summary::-webkit-details-marker{display:none;}
+  details.chapter-body summary::after{content:'▾';font-size:.8rem;}
+  details.chapter-body[open] summary::after{content:'▴';}
+  details.chapter-body[open] summary{margin-bottom:28px;}
+  .chapter-text{text-align:left;}
+  .chapter-text h3{font-size:1.08rem;color:var(--gold-dark);margin:26px 0 10px;}
+  .chapter-text h3:first-child{margin-top:0;}
+  .chapter-text p{margin-bottom:14px;font-size:1rem;color:var(--ink);}
+  .chapter-lang-note{
+    display:inline-block;margin-bottom:18px;font-size:.78rem;color:var(--gold-dark);
+    background:rgba(197,160,89,.12);padding:5px 14px;border-radius:999px;font-weight:600;
+  }
+  @media(max-width:600px){article.chapter{padding:30px 22px;}}
+
+  .scripts-cta{max-width:640px;margin:0 auto;text-align:center;}
+  .btn{
+    display:inline-flex;align-items:center;gap:8px;padding:12px 26px;border-radius:999px;
+    font-weight:700;text-decoration:none;font-size:.95rem;background:var(--gold);color:#fff;
+    box-shadow:0 10px 24px rgba(197,160,89,.35);
+  }
+
+  footer{padding:40px 0;text-align:center;color:var(--ink-soft);font-size:.85rem;}
+  footer a{color:var(--gold-dark);font-weight:700;text-decoration:none;}
+
+  .chapter-breadcrumb{max-width:840px;margin:28px auto 0;}
+  .chapter-breadcrumb a{font-weight:700;font-size:.85rem;color:var(--gold-dark);text-decoration:none;}
+  .chapter-breadcrumb a:hover{text-decoration:underline;}
+  .chapter-pagenav{max-width:840px;margin:36px auto 0;display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;}
+  .chapter-pagenav a{font-weight:700;font-size:.9rem;padding:10px 16px;border:1.5px solid var(--gold);border-radius:999px;text-decoration:none;color:var(--gold-dark);}
+  .chapter-pagenav a:hover{background:var(--gold);color:#fff;}
+  .chapter-watch-yt{margin:14px 0 4px;}
+  .chapter-watch-yt a{display:inline-flex;align-items:center;gap:8px;background:#FF0000;color:#fff !important;padding:9px 18px;border-radius:999px;font-weight:700;font-size:.85rem;text-decoration:none;}
+  .chapter-watch-yt a:hover{opacity:.9;}
+
+</style>
+</head>
+<body class="lang-hi">
+
+<nav>
+  <div class="wrap">
+    <a class="brand" href="index.html">
+      <img src="logo.png" alt="Equal Tales Storyline" class="brand-logo">
+    </a>
+    <ul class="nav-links lang-block lb-flex" data-lang="en">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="youtube.html">YouTube</a></li>
+    </ul>
+    <ul class="nav-links lang-block lb-flex" data-lang="hi">
+      <li><a href="index.html">होम</a></li>
+      <li><a href="youtube.html">यूट्यूब</a></li>
+    </ul>
+    <div class="lang-switch" role="group" aria-label="Language / भाषा">
+      <button type="button" data-lang="en" aria-pressed="false">EN</button>
+      <button type="button" data-lang="hi" aria-pressed="true">हिं</button>
+    </div>
+  </div>
+</nav>
+
+<main>
+  
+
+
+
+  <div class="chapter-breadcrumb">
+    <a class="lang-block lb-inline" data-lang="en" href="scripts.html">&larr; All chapters</a>
+    <a class="lang-block lb-inline" data-lang="hi" href="scripts.html">&larr; सभी अध्याय</a>
+  </div>
+<article class="chapter" id="chapter-22">
+  <div class="chapter-head">
+    <div class="chapter-num lang-block lb-inline" data-lang="en">Chapter 22</div>
+    <div class="chapter-num lang-block lb-inline" data-lang="hi">अध्याय 22</div>
+    <h2 class="lang-block lb-block" data-lang="en">1947: One Country, Two Borders, and a Million Uprooted Lives</h2>
+    <h2 class="lang-block lb-block" data-lang="hi">1947: एक देश, दो सरहदें और लाखों बेघर लोग</h2>
+    <p class="chapter-dek lang-block lb-block" data-lang="en">How the joy of independence in August 1947 arrived together with the largest migration in human history - a partition that turned neighbours into enemies, drew a border through fields, homes and families, and left a debt that two nations are still paying.</p>
+    <p class="chapter-dek lang-block lb-block" data-lang="hi">अगस्त 1947 की आज़ादी की ख़ुशी के साथ मानव इतिहास का सबसे बड़ा पलायन कैसे आया - एक ऐसा बंटवारा जिसने पड़ोसियों को दुश्मन बना दिया, खेतों, घरों और परिवारों के बीच से सरहद खींच दी, और एक ऐसा क़र्ज़ छोड़ दिया, जिसे दो मुल्क आज भी चुका रहे हैं।</p>
+    <div class="chapter-watch-yt"><a class="lang-block lb-inline" data-lang="en" href="https://youtu.be/AJz9KcEweA0" target="_blank" rel="noopener">Watch this episode on YouTube</a><a class="lang-block lb-inline" data-lang="hi" href="https://youtu.be/AJz9KcEweA0" target="_blank" rel="noopener">यह एपिसोड यूट्यूब पर देखें</a></div>
+    <div class="chapter-meta">
+      <span class="lang-block lb-inline" data-lang="en">20 min read</span>
+      <span class="lang-block lb-inline" data-lang="hi">20 मिनट का पाठ</span>
+    </div>
+  </div>
+  <div class="chapter-highlights">
+    <blockquote>"विभाजन को भूलना मुश्किल था, लेकिन याद रखना ख़तरनाक।"</blockquote>
+    <blockquote>"मैं मृत्यु बन गया हूं, संसारों का नाशक।"</blockquote>
+  </div>
+  <details class="chapter-body" open>
+    <summary>
+      <span class="lang-block lb-inline" data-lang="en">Read the full chapter</span>
+      <span class="lang-block lb-inline" data-lang="hi">पूरा अध्याय पढ़ें</span>
+    </summary>
+    <div class="chapter-text lang-block lb-block" data-lang="en">
+<h3>A Map Where the Blood Has Long Since Dried</h3>
+<p>Today we see India on a map. It has a clean border. Pakistan lies to the west, Bangladesh to the east. In schoolbooks these countries are filled in with different colours, borders drawn in dark ink, capitals marked with a small circle. The map looks fixed, as if it had always been this way. But every border has a past. Somewhere it once ran straight through the middle of a field. Somewhere it split a courtyard in two. Somewhere a road simply stops where, until yesterday, nothing had ever stood in its way. And somewhere a border is so new that people cannot say for certain which country they fell asleep in, and which one they woke up in.</p>
+<p>India's freedom, in 1947, arrived exactly like this. British rule ended. The empire's flag came down. A long political struggle reached its decisive moment. But British India was not freed as one country. It was cut into two nations and three separate landmasses - West Pakistan on one side, East Pakistan on the other, and India in between.</p>
+<p>People who had never left their own village suddenly became citizens of a new nation. Some found their house in India and their fields in Pakistan. Someone's shop stood on one side, their warehouse on the other. Someone's parental home fell across the new line; their marital home stayed on this side. And then the question arose - who stays? Who goes? Who will be made to leave? With the birth of India and Pakistan began one of the largest migrations in human history. People had no time even to pack. History had already arrived at their door.</p>
+<h3>An Idea Whose Map Was Still Blurred</h3>
+<p>The idea of dividing British India into a Muslim-majority nation was not centuries old. Even into the early decades of the twentieth century, Pakistan had no fixed map. Its borders were unclear, and there was no final agreement even on what kind of state it would be.</p>
+<p>In December 1930, the All India Muslim League held its session in Allahabad. The philosopher, poet and statesman Muhammad Iqbal proposed the idea of a Muslim state formed by joining Punjab, the North-West Frontier Province, Sindh and Balochistan. The idea was tied to the political future of Muslims in north-western India. But Iqbal was not arguing for religious rule. His vision cannot be read directly as the map of the Pakistan that came into being in 1947. At that point the idea existed, but its shape was still incomplete.</p>
+<p>Three years later, in 1933, Choudhry Rahmat Ali, then a student at Cambridge University, published a pamphlet. It carried a new name - Pakistan. The name, it explained, meant the land of the pure. It was also an acronym built from the names of the proposed western provinces. For now it was only a word printed on a student's pamphlet. But within a few years this same word would become the centre of millions of people's political aspiration, insecurity, identity and fear.</p>
+<p>Words have their own fates. Some fall asleep inside books. Some turn into slogans. And some, one day, turn into a border.</p>
+<h3>Was India One Nation?</h3>
+<p>By 1940, Muhammad Ali Jinnah had become the Muslim League's foremost leader. The League passed the Lahore Resolution. The demand for a separate Muslim nation was no longer at the margins of political debate - it now stood at its centre.</p>
+<p>That same year, Jinnah wrote to Gandhi that India was not one nation or one country. It was a subcontinent made up of many nationalities, in which Hindus and Muslims were its two principal nations. This was not merely an argument about the sharing of power. It was a fundamental disagreement over what India even was. Was it one shared civilisation? Was it a geography of many nationalities? Could religion be a nation's greatest marker of identity? Or was Indianness built precisely between religions, languages, castes and memories?</p>
+<p>At the very same time, another voice was being heard. In 1940, Maulana Abul Kalam Azad became president of Congress. He said - I am a Muslim, and I am proud of that fact. But I am also part of the indivisible unity of Indian nationality. My presence in this structure of India is indispensable.</p>
+<p>Jinnah and Azad were both Muslim. But they looked at India's future through two entirely different windows. Through one window, religion was building two nations. Through the other, religion was finding its own place within Indianness. Between the two lay no ordinary political disagreement. Between them lay the road that history was about to take.</p>
+<h3>When the World Was at War</h3>
+<p>In September 1939, the Second World War began. Bombs fell on Europe's cities. Armies trampled across continents. The world's great powers entered a struggle of life and death. The British empire made India part of this war too. Indian soldiers were sent to the front; the country's resources were poured into the war effort. But India was never asked whether it wanted to be part of this war at all.</p>
+<p>In August 1942, Gandhi's voice rose from Bombay - Do or Die. The Quit India movement began. The British government answered at once. Gandhi was jailed. Nehru was jailed. Maulana Azad was jailed. Almost the entire Congress leadership was behind bars.</p>
+<p>The country's great leaders were locked away, and in the villages, hunger walked free. In 1943, Bengal was struck by famine. Born out of colonial policy, it killed close to two million people. Bodies lying by the roadside grew so light that even death did not tire of carrying them off. Not far from the warehouses, the markets, and the files of power, people were dying for a single grain of food.</p>
+<p>India's struggle for freedom was no longer only a fight for political rights. The question now was also this - what moral right does a power have to rule, under which millions can starve to death?</p>
+<h3>After a Thousand Suns</h3>
+<p>By 1945, the war had reached its final stretch. In July, the world's first nuclear bomb was tested in the New Mexico desert. Robert Oppenheimer, who led the Manhattan Project, had learned Sanskrit in the 1930s and had read the Bhagavad Gita in its original language.</p>
+<p>The desert lit up. The sky filled with a brightness as if a thousand suns had risen at once. In that moment, lines from the Gita came back to Oppenheimer - I am become death, the destroyer of worlds. Soon after, atomic bombs were dropped on Hiroshima and Nagasaki. The Second World War ended.</p>
+<p>Britain stood among the victors, but its empire was exhausted. The war had weakened it, economically and politically. Holding on to India the way it once had was no longer easy. By the middle of 1945 it had become almost certain that the British would leave India. But when would they go? To whom would they hand over power? Would India remain whole, or break apart? None of these questions had a shared answer.</p>
+<p>The empire's sun was setting. But the colour of the light rising on the horizon had not yet been decided.</p>
+<h3>Pakistan Emerges from the Ballot Box</h3>
+<p>In the elections of 1937, the Muslim League had won only very limited support among India's Muslim voters - fewer than one in twenty had backed the League. But by the elections held between December 1945 and March 1946, the picture had changed. Nearly 75 percent of Muslim voters now supported the Muslim League.</p>
+<p>How had such a large shift come about in just a few years? The League was now presenting itself not merely as a political organisation, but as the representative voice of India's Muslims. Its grip on Muslim politics had grown. Pakistan was no longer the vague idea of a pamphlet printed at Cambridge. It had emerged from the ballot box and arrived at the table of power.</p>
+<p>Congress claimed a united India. The League stood firm on its demand for a separate nation. The British government pretended to search for a path between the two, even as its greatest concern was a swift and safe exit from its own empire.</p>
+<p>In January 1946, Vallabhbhai Patel wrote - if Pakistan is to be won, Hindus and Muslims will have to fight; there will be civil war. This was not merely a fear. The smell of violence was beginning to drift through the air.</p>
+<h3>Calcutta - Where the Future First Showed Its Face</h3>
+<p>16 August 1946. The Muslim League declared Direct Action Day. Advertisements appeared in newspapers, calling on Muslims to dedicate their lives and property to the cause of freedom. Crowds poured onto Calcutta's streets, slogans rose. Then, at some turn, politics lost its face.</p>
+<p>For five days the city drowned in violence. People were identified by their names, their religion decided by their clothes; marks made outside homes became addresses for death. Shops burned. Bodies lay on the streets. Neighbourhoods grew afraid of their own neighbours. Within a week, close to 5,000 people were killed, tens of thousands injured or left homeless.</p>
+<p>This Calcutta killing was the first great warning of the bloodshed still to come. The city was showing what happens when religion begins to turn into a political border - the first thing to vanish is a person's individual identity. He is no longer a father, no longer a labourer, no longer a poet, a tailor, a shopkeeper or a teacher. The crowd begins to see him only as Hindu, Muslim or Sikh. A single word comes to outweigh his entire life.</p>
+<p>In 1946, Calcutta held open the door to the future for a moment. Inside was fire. But in the corridors of power, people were still bent over their maps.</p>
+<h3>The Haste of a Departure</h3>
+<p>In February 1947, Louis Mountbatten was made India's last Viceroy. Before him stood an empire that wanted to leave. A Congress that wanted the transfer of power. A Muslim League that would settle for nothing short of Pakistan. And a vast population that did not yet know which country its village would belong to, only a few months on.</p>
+<p>Under the original plan, power was to be transferred by the middle of 1948. Then the date was suddenly changed - 15 August 1947. So vast a subcontinent now had only a few weeks left to be divided.</p>
+<p>In June 1947, Mountbatten, Jawaharlal Nehru, Muhammad Ali Jinnah and Baldev Singh came on the radio. People gathered around their radio sets. The voices carried formality, but the announcement was extraordinary - British India would be divided into two dominions, India and Pakistan.</p>
+<p>It had been decided that the country would break. What remained to be decided was where the break would fall.</p>
+<h3>The Man Who Saw India Once, and Divided It</h3>
+<p>The task of drawing the border between India and Pakistan fell to the British barrister Cyril Radcliffe. Radcliffe arrived in India on 8 July 1947. It was his first visit to South Asia. And his last. To divide a geography he had never seen, whose very soil he did not know the smell of, he had barely five and a half weeks. He had to draw a border nearly 3,800 miles long.</p>
+<p>Time was so short that the boundary commissions did not even carry out proper fieldwork. The decisions had to be made on paper, on statistics, on maps. But maps do not show whose well supplies whose water, which village the path to a certain field runs through, in which temple a craftsman from another neighbourhood casts the bell, whose mosque wall was built by a Sikh mason, which market runs on the breath of which villages.</p>
+<p>Radcliffe's pen moved. Lines cut through Punjab and Bengal. Villages were split. Factories were split. Canals were split. Railway tracks were split. Places of pilgrimage fell on the other side. The future of millions of people was being decided, at that moment, inside a closed room.</p>
+<p>Pakistan received roughly 23 percent of British India's land and 18 percent of its population. But Pakistan was not one connected landmass. One part lay in the west, the other in the east, with the long body of India stretched between them. One newspaper gave this partition a name - a regional murder. But the murder was not going to remain confined to territory alone.</p>
+<h3>Two Voices at Midnight</h3>
+<p>The night of 14 and 15 August 1947. Delhi was lit up. People filled the streets, flags flew from buildings, British rule was coming to an end.</p>
+<p>In India's Constituent Assembly, Jawaharlal Nehru rose to speak. Long years ago, he said, we made a tryst with destiny, and now the time has come to redeem that pledge. At the stroke of the midnight hour, when the world sleeps, India will awake to life and freedom. It was the dream of a new nation.</p>
+<p>Elsewhere, on Pakistan's broadcasting service, Muhammad Ali Jinnah's voice was heard, congratulating the people on the birth of a free and sovereign Pakistan. Two nations were being born. On both sides flags were rising, on both sides anthems and slogans, on both sides people believed that history had granted them a new beginning.</p>
+<p>But in those very days, Faiz Ahmed Faiz looked at that morning and wrote - "This stained radiance, this night-bitten dawn - this is not the morning we had waited for." What he meant was this: this blemished light, this dawn wounded by the night, was not the dawn that had been longed for.</p>
+<p>On the clock of nations, midnight had passed. In the lives of millions of people, the night had only just begun.</p>
+<h3>A World Walking Out of Its Homes</h3>
+<p>By the middle of August 1947, close to a million people had already left their homes. Over the following months, roughly eleven million more fled. It was the largest migration in known human history.</p>
+<p>Trains overflowed. People sat on rooftops, hung from doorways; children were passed in through windows, bundles thrown aboard, the old and elderly left behind. Long convoys appeared on the roads, stretching for miles. People walked on foot, belongings piled on bullock carts, a child in someone's lap, a sick father slung over someone's shoulder.</p>
+<p>Which way were they going? Muslims towards Pakistan, Hindus and Sikhs towards India. But however simple that sentence sounds, life was not that simple. No human being was only their religion. Each had a city, a dialect, a tree on their street, a school, a friend with whom their childhood had passed.</p>
+<p>Now they were being told that their nation lay somewhere they had perhaps never even been. Someone was leaving Lahore for Delhi; someone else was leaving Delhi for Lahore. For some the journey was refuge. For some it was exile. And for some, a distance they would never manage to cross again in their entire lives.</p>
+<h3>When the Trains Arrived in Silence</h3>
+<p>The railways were among modern India's greatest arteries. It was this same railway that had connected its cities, that had carried labourers, traders, soldiers, students and travellers across great distances. In the days of Partition, the railway took on a different form. It now ran full of refugees. One train would leave India for Pakistan; another would arrive from Pakistan into India. Its carriages were filled with fear, thirst, sweat, weeping children, and the uncertainty of what was to come.</p>
+<p>Then some trains began arriving in which there was no sound at all. No child was crying. No one was asking for water. No one was in a hurry to get off. The carriages were full of bodies. A railway meant to carry the living now stood at the station carrying a message of death.</p>
+<p>This violence had not appeared out of nowhere. Rumours were travelling ahead of it. When one convoy was attacked in one village, preparations for revenge began in another. When one train was cut down, another became the target. Every killing was made into the justification for the next. No one asked what connection the man being killed actually had to the first crime. There was no justice in the mob. Only identity. And revenge.</p>
+<h3>The People No Number Can Ever Complete</h3>
+<p>Between 1946 and 1949, riots, organised massacres, princely-state conflicts, uprisings and ethnic cleansing killed somewhere between one and two million South Asians. History, even today, cannot settle on one final number. The figure keeps shifting. But behind every estimate lies a world of human beings that will now never be whole again. One death changes a family's language. Another changes a child's future. A third erases the very last person who could still remember a home.</p>
+<p>In Punjab, Hindus, Muslims and Sikhs were all caught in the violence. In Bengal, Hindus and Muslims were killed. From cities to villages, humanity found itself trapped in a fire of its own making. Killers came from every community. So did the dead. Suffering had no single religion. And yet everywhere, people tried to treat their own suffering as the greatest, and the other side's suffering as suspect. Nations were choosing their martyrs. The human being caught between them could never be fully entered into any national ledger.</p>
+<h3>Manto's Question - Which Is My Homeland?</h3>
+<p>Saadat Hasan Manto had grown up in Amritsar. In Bombay he had built a great world out of his writing and his life. In 1948 he moved from Bombay to Lahore. But can a man simply take a train ticket and move from one country to another? What happens to the cities that live inside him?</p>
+<p>Manto wrote - on 14 August, Bombay was celebrating freedom. India and Pakistan had been declared separate countries. There was great public joy, but killing and arson were also continuing. He found it difficult to decide which of these two countries was his homeland. India? Or Pakistan? Who was responsible for the blood flowing every day? If we had become free, had servitude actually ended? Why were thousands of Hindus and Muslims dying?</p>
+<p>Every question had an Indian answer, a Pakistani answer, a British answer. There were so many answers that no room was left for the truth.</p>
+<p>Partition did not divide only the country. It divided the questions too. Now a single event had two histories, two griefs, two memories. On one side of the barbed wire stood Hindustan; behind the same kind of wire, on the other side, stood Pakistan. And in between, like Toba Tek Singh, stood a human being, asking - where am I?</p>
+<h3>The Border Written on Women's Bodies</h3>
+<p>The cruellest chapter of Partition's violence was written on the bodies of women. On both sides, tens of thousands of women were abducted. They were raped, held captive; many were killed.</p>
+<p>Slogans of freedom were tattooed onto some women's bodies. On one, the words - Pakistan Zindabad. On another - Jai Hind. A nation's pride was asserted by wounding a woman's body. On one side, flags were being honoured. On the other, the human body was being turned into a battlefield of conquest.</p>
+<p>Many families killed their own daughters and daughters-in-law out of fear that they would fall into the hands of the other community. Lives were ended in the name of protecting honour. For the woman who was abducted, the crime committed against her did not remain only the attacker's crime. Often, when she returned, her own home refused to accept her back.</p>
+<p>Whose citizen was she? Whose community's honour? Whose family's daughter? Amid all these questions, where was her own life? There was no stage for her in the celebration of independence. Her scream was drowned in the noise of history.</p>
+<h3>Freedom in Ismat's Eyes</h3>
+<p>Ismat Chughtai watched this period unfold. She wrote that a flood of communal violence had come, leaving behind heaps of the living, the dead, and the writhing. It was not only the country that split - bodies and minds split too. Moral convictions were set aside. Humanity was reduced to rags. Violence and freedom mixed into each other so thoroughly that it became hard to tell the two apart.</p>
+<p>This was 1947's hardest contradiction. On the very day a nation was remembering as its liberation, millions of people were living through the greatest tragedy of their lives. Delhi was lit up; in Punjab, villages were burning. Speeches were being made in public meetings; convoys were moving on the roads. On one side, citizenship was being granted. On the other, homes were being lost.</p>
+<p>Freedom and Partition were no longer two separate events. They were two heartbeats of the same moment. In one beat, celebration. In the other, mourning.</p>
+<h3>The Princely States - Unfinished Decisions Inside Freedom</h3>
+<p>British India had been partitioned. But not all of the subcontinent's political problems ended at midnight on 15 August. The future of hundreds of princely states was still to be settled. Would they join India? Pakistan? Or try to remain independent?</p>
+<p>Hyderabad kept declaring itself an independent state for more than a year. In September 1948, India carried out a military operation there, called a police action. In this operation and the violence around it, perhaps 50,000 pro-Muslim-League supporters were killed. The official Sunderlal Report, prepared in 1948, confirmed these deaths. But the report was not made public for a long time. It was released only in 2013.</p>
+<p>Nations often paint a bright picture of their own founding. In that picture, certain shadows find no place. Hyderabad was one of those shadows. Even after independence, the process of state-making was not free of violence. It was not only the British who were drawing borders. The new nations too were setting their own limits.</p>
+<h3>Kashmir - An Unfinished Sentence</h3>
+<p>Kashmir was a Muslim-majority region, ruled by a Hindu Dogra dynasty. In the autumn of 1947, tribal fighters coming from the Pakistani side entered Kashmir. India and Pakistan came face to face. The two new nations fought their first war. Around 7,500 people were killed in it.</p>
+<p>In 1949, a ceasefire was reached through United Nations mediation. A future plebiscite was promised. That plebiscite never took place. Kashmir's sentence was left unfinished there. This unfinishedness kept returning, again and again, in the relationship between India and Pakistan. The border that had been drawn in a matter of weeks created a conflict that would last for generations to come.</p>
+<p>Radcliffe's pen had long since lifted from the paper. But the line he had drawn was now turning into military outposts, wars, displacement and national distrust.</p>
+<h3>How Much Time Did Jinnah Get?</h3>
+<p>Muhammad Ali Jinnah carried the demand for Pakistan from a political idea all the way to a nation. But he was given very little time with that nation. He died of tuberculosis in September 1948. Pakistan was barely a year old.</p>
+<p>It was a country split across two separate landmasses. It carried a vast population of displaced people. Its administrative structures were still forming. Relations with India were tense. The man who had fought the decisive political battle for Pakistan departed in the midst of its earliest crises.</p>
+<p>The nation survived. Its founder did not. History often does not allow its greatest figures to remain for long in the world they gave their entire lives to building.</p>
+<h3>Gandhi's Last Prayer</h3>
+<p>In India too, the first year of independence was filled with blood and tension. Gandhi was not at the centre of the celebration of power. He was occupied in trying to stop communal violence.</p>
+<p>On 30 January 1948, there was a prayer meeting at Birla House in Delhi. Gandhi was walking towards the gathering. The Hindu nationalist Nathuram Godse shot him. Godse had ties to the RSS and to Savarkar. The man who had made non-violence India's greatest political language became, in independent India, a victim of violence.</p>
+<p>On the radio, Nehru's voice trembled. He said - the light has gone out of our lives, there is darkness everywhere, our beloved leader, Bapu, the Father of the Nation, is no more.</p>
+<p>Godse was hanged in 1949. The RSS was banned for close to a year. But Gandhi's assassination was not merely the killing of one man. It was an attack on the India in which people of different faiths were searching for the possibility of living together. The country had become free. Now the struggle was over what the soul of free India would look like.</p>
+<h3>Even Remembering Was Dangerous</h3>
+<p>After Partition, millions of people settled into new cities. They opened shops, built homes, sent their children to school, began new lives. But the old home never quite left them from within. Someone still kept a key - the key to a door that now stood in another country. Someone had the papers to a piece of land, someone an old photograph in a trunk, someone still carried, in their own speech, the accent of the city they had left behind.</p>
+<p>But for decades, a strange silence surrounded Partition. The elders of a household knew everything; they told the children only half of it. Who killed whom? Who was carried to safety? Which neighbour betrayed, and which one saved a life? These memories carried pain, shame, gratitude too, and sometimes guilt.</p>
+<p>The effort to record the oral history of Partition on any large scale began only in the 1990s. The Hindi writer and Partition refugee Krishna Sobti once said - Partition was hard to forget, but dangerous to remember. Because memory does not only show the wound. It also tells you who gave it. And often, that truth finds no place in the convenient stories that nations build for themselves.</p>
+<h3>Could Partition Have Been Avoided?</h3>
+<p>This question is put before history again and again - could India's partition have been avoided? Could Congress and the Muslim League have reached some agreement? Did the British government rush the transfer of power? If time had been given until 1948, could the borders have been drawn more carefully? Could people have been given a chance to migrate safely? Could the violence have been stopped?</p>
+<p>These questions have no simple answers. History is not a courtroom, where one person can be made to stand in the dock and have the blame for an entire tragedy written against his name alone. There was the League's politics, Congress's own limits and decisions, the empire's hurried and violent departure, religious distrust, the ambition for power, social fractures deepened by colonial rule. And there were leaders making political decisions at a pace far faster than the actual lives of human beings could keep up with.</p>
+<p>1947 was not the accident of a single day. It was the explosion of fears, ambitions and failures that had been accumulating for several decades.</p>
+<h3>The Border Is Outside, and Within</h3>
+<p>Today there is barbed wire between India and Pakistan, checkpoints, soldiers, passports and visas. Lahore, once effortlessly linked to Delhi by rail, is now a city of another country. Dhaka, once part of British India, became first the capital of East Pakistan, and later of Bangladesh. The map changed again.</p>
+<p>But the legacy of Partition does not live only at the border. It lives in the language of politics, in our fears around religion, in the way we look at minorities, in the memories of families whose story begins in some city they had to leave behind. It lives in Faiz's mournful dawn, in Ismat's wounded humanity, in Manto's man standing between the barbed wire, asking which way his country lies.</p>
+<p>History gives us maps. Literature shows us the human beings buried beneath those maps.</p>
+<h3>The Full Picture of Freedom</h3>
+<p>On 15 August, India awoke to life and freedom. This is true. After centuries of colonial control, Indians gained authority over their own political future. This too is true. But on that same morning, millions of people were being driven out of their homes. This too is the truth of that same history.</p>
+<p>It is not necessary to remember Partition in order to make freedom look smaller. It is necessary to remember Partition in order to understand freedom fully. Because nations are not built by their triumphs alone; they are built by their tragedies too. And a mature country is one that can look at the darkness of its history alongside the light of its flag.</p>
+<p>1947 gave us independence. It also gave us a warning - when politics strips a human being of every identity and reduces them to religion alone, it does not take long for a neighbour to become an enemy. When borders are drawn in haste, the burden falls on many generations to carry. When one community's suffering is treated as a lie, and one's own suffering as the only truth, history does not end. It begins preparing for the next round of violence.</p>
+<h3>Conclusion - That Key to a Home</h3>
+<p>Imagine an old man. He has an old key. The key has rusted. The house whose lock it once opened now stands in another country. Perhaps that house does not even survive any more. Perhaps another family's life has settled there now. And yet the old man keeps that key carefully.</p>
+<p>Why? Because a home is not only brick and wall. A home is the place where a human being never has to prove that they belong.</p>
+<p>In 1947, that very place was taken from millions of people. They arrived in India. They arrived in Pakistan. They received new citizenship, a new address, new ration cards. But inside their memory, one door remained closed. On the other side of that door lay an undivided world. That world was not perfect - it held tension, inequality, political conflict. But there, a neighbour could still, for now, simply be a neighbour.</p>
+<p>Then one day a line was drawn on the map. The country became free. The human being became homeless. History made two nations. And inside millions of people, it left behind a third country - one that appeared nowhere on any map, that had no flag, no capital. Only an old lane. A closed door. And, kept in a pocket, the key to a home.</p>
+<p>This was 1947. India's freedom. India's partition. And the price of that freedom, which even today has never been fully counted.</p>
+    </div>
+    <div class="chapter-text lang-block lb-block" data-lang="hi">
+<h3>एक नक़्शा, जिस पर ख़ून सूख चुका है</h3>
+<p>आज हम नक़्शे पर भारत देखते हैं। उसकी एक साफ़ सीमा है। पश्चिम में पाकिस्तान है, पूर्व में बांग्लादेश। स्कूल की किताबों में ये देश अलग-अलग रंगों से भरे जाते हैं। सीमाएं गहरी स्याही से खींची जाती हैं, राजधानियों पर गोल निशान बनते हैं। नक़्शा स्थिर दिखाई देता है, जैसे यह हमेशा से ऐसा ही था। लेकिन हर सीमा का एक अतीत होता है। कभी वह किसी खेत के बीच से गुज़री होती है। कभी किसी आंगन को दो हिस्सों में बांटती है। कभी एक सड़क अचानक वहां रुक जाती है, जहां कल तक कोई रुकावट नहीं थी। और कभी कोई सीमा इतनी नयी होती है कि लोगों को मालूम ही नहीं रहता कि वे किस देश में सोये थे और किस देश में जागे हैं।</p>
+<p>1947 में भारत की आज़ादी ऐसे ही आयी। ब्रिटिश शासन समाप्त हुआ, साम्राज्य का झंडा उतरा, एक लंबी राजनीतिक लड़ाई अपने निर्णायक मुक़ाम तक पहुंची। लेकिन ब्रिटिश भारत एक देश बनकर आज़ाद नहीं हुआ। उसे दो राष्ट्रों और तीन अलग-अलग भू-भागों में बांट दिया गया - पश्चिमी पाकिस्तान एक तरफ़, पूर्वी पाकिस्तान दूसरी तरफ़, और दोनों के बीच भारत।</p>
+<p>जिन लोगों ने कभी अपना गांव नहीं छोड़ा था, वे अचानक किसी नये राष्ट्र के नागरिक हो गये। कुछ लोगों के घर भारत में थे और खेत पाकिस्तान में। किसी की दुकान एक तरफ़ थी, गोदाम दूसरी तरफ़। किसी का मायका सीमा के उस पार चला गया, ससुराल इस पार रह गया। और फिर यह सवाल उठा - कौन रहेगा? कौन जाएगा? किसे जाना पड़ेगा? भारत और पाकिस्तान के जन्म के साथ मानव इतिहास के सबसे बड़े पलायनों में से एक शुरू हुआ। लोगों के पास सामान बांधने का वक़्त नहीं था। इतिहास उनके दरवाज़े तक आ चुका था।</p>
+<h3>एक विचार, जिसका नक़्शा अभी धुंधला था</h3>
+<p>ब्रिटिश भारत को मुस्लिम-बहुल राष्ट्र में बांटने का विचार सदियों पुराना नहीं था। 20वीं सदी के शुरुआती दशकों तक भी पाकिस्तान का कोई तय नक़्शा नहीं था। उसकी सीमाएं स्पष्ट नहीं थीं, उसकी शासन-व्यवस्था को लेकर भी कोई अंतिम सहमति नहीं थी।</p>
+<p>दिसंबर 1930 में इलाहाबाद में अखिल भारतीय मुस्लिम लीग का अधिवेशन हुआ। दार्शनिक, कवि और राजनेता मुहम्मद इक़बाल ने पंजाब, उत्तर-पश्चिम सीमांत प्रांत, सिंध और बलूचिस्तान को मिलाकर एक मुस्लिम राज्य की कल्पना रखी। यह विचार उत्तर-पश्चिम भारत के मुसलमानों के राजनीतिक भविष्य से जुड़ा था। लेकिन इक़बाल ने धार्मिक शासन की वकालत नहीं की थी। उनकी कल्पना को सीधे उस पाकिस्तान के नक़्शे की तरह नहीं देखा जा सकता, जो 1947 में बना। उस समय विचार सामने था, मगर उसकी आकृति अधूरी थी।</p>
+<p>3 साल बाद, 1933 में कैम्ब्रिज विश्वविद्यालय में पढ़ रहे चौधरी रहमत अली ने एक पर्चा प्रकाशित किया। इस पर्चे में एक नया नाम था - पाकिस्तान। इस नाम का अर्थ बताया गया - शुद्धों की भूमि। यह प्रस्तावित पश्चिमी प्रांतों के नामों से बनाया गया एक संक्षिप्त नाम भी था। अभी यह एक छात्र के पर्चे पर छपा शब्द था। लेकिन कुछ ही वर्षों में यही शब्द लाखों लोगों की राजनीतिक आकांक्षा, असुरक्षा, पहचान और भय का केंद्र बनने वाला था।</p>
+<p>शब्दों की भी नियति होती है। कुछ शब्द किताबों में सो जाते हैं। कुछ नारे बन जाते हैं। और कुछ एक दिन सीमा में बदल जाते हैं।</p>
+<h3>क्या भारत एक राष्ट्र था?</h3>
+<p>1940 तक मुहम्मद अली जिन्ना मुस्लिम लीग के सबसे बड़े नेता बन चुके थे। लीग ने लाहौर प्रस्ताव पारित किया। अब अलग मुस्लिम राष्ट्र की मांग राजनीतिक बहस के किनारे पर नहीं थी, वह बहस के बीचोबीच आ चुकी थी।</p>
+<p>उसी वर्ष जिन्ना ने गांधी को लिखा कि भारत एक राष्ट्र या एक देश नहीं है। यह कई राष्ट्रीयताओं से बना एक उपमहाद्वीप है, जिसमें हिंदू और मुसलमान दो प्रमुख राष्ट्र हैं। यह सिर्फ़ सत्ता के बंटवारे की दलील नहीं थी। यह भारत की परिभाषा को लेकर मूलभूत असहमति थी। क्या भारत एक साझा सभ्यता था? क्या वह कई राष्ट्रीयताओं का भूगोल था? क्या धर्म किसी राष्ट्र की सबसे बड़ी पहचान हो सकता था? या फिर धर्मों, भाषाओं, जातियों और स्मृतियों के बीच ही भारतीयता का निर्माण हुआ था?</p>
+<p>उसी समय एक दूसरी आवाज़ भी सुनाई दे रही थी। 1940 में मौलाना अबुल कलाम आज़ाद कांग्रेस के अध्यक्ष बने। उन्होंने कहा - मैं मुसलमान हूं और इस तथ्य पर मुझे गर्व है। लेकिन मैं भारतीय राष्ट्रीयता की अविभाज्य एकता का भी हिस्सा हूं। भारत की इस संरचना में मेरी मौजूदगी अनिवार्य है।</p>
+<p>जिन्ना और आज़ाद दोनों मुसलमान थे। लेकिन वे भविष्य के भारत को दो बिल्कुल अलग खिड़कियों से देख रहे थे। एक खिड़की से धर्म दो राष्ट्र बना रहा था। दूसरी खिड़की से धर्म भारतीयता के भीतर अपनी जगह खोज रहा था। इन दोनों के बीच कोई साधारण राजनीतिक मतभेद नहीं था। इनके बीच आने वाले इतिहास का रास्ता पड़ा हुआ था।</p>
+<h3>जब दुनिया युद्ध में थी</h3>
+<p>सितंबर 1939 में द्वितीय विश्व युद्ध शुरू हुआ। यूरोप के शहरों पर बम गिरने लगे, सेनाएं महाद्वीपों को रौंदने लगीं, दुनिया की बड़ी शक्तियां जीवन और मृत्यु की लड़ाई में उतर गईं। ब्रिटिश साम्राज्य ने भारत को भी युद्ध का हिस्सा बना दिया। भारतीय सैनिक मोर्चों पर भेजे गये, देश के संसाधन युद्ध में झोंक दिये गये। लेकिन भारत से यह नहीं पूछा गया कि वह इस युद्ध में शामिल होना चाहता है या नहीं।</p>
+<p>अगस्त 1942 में बंबई से गांधी की आवाज़ उठी - करो या मरो। भारत छोड़ो आंदोलन शुरू हुआ। ब्रिटिश सरकार ने तुरंत जवाब दिया। गांधी जेल में डाल दिये गये, नेहरू जेल में डाल दिये गये, मौलाना आज़ाद जेल में डाल दिये गये। कांग्रेस का लगभग पूरा नेतृत्व सलाख़ों के पीछे था।</p>
+<p>देश के बड़े नेता बंद थे और गांवों में भूख खुली घूम रही थी। 1943 में बंगाल अकाल की चपेट में आ गया। औपनिवेशिक नीतियों के बीच पैदा हुए इस अकाल में करीब 20 लाख लोग मारे गये। सड़क के किनारे पड़े शरीर इतने हल्के हो गये थे कि मृत्यु भी उन्हें उठाते हुए थकती नहीं थी। गोदामों, बाज़ारों और सत्ता की फ़ाइलों से कुछ दूरी पर लोग अनाज के एक दाने के लिए मर रहे थे।</p>
+<p>भारत की आज़ादी की लड़ाई अब सिर्फ़ राजनैतिक अधिकारों की लड़ाई नहीं रह गई थी। सवाल यह भी था - ऐसी सत्ता का नैतिक अधिकार क्या है, जिसके शासन में लाखों लोग भूख से मर जाएं?</p>
+<h3>हज़ार सूर्यों के बाद</h3>
+<p>1945 में युद्ध अपने अंतिम पड़ाव पर पहुंचा। जुलाई में न्यू मैक्सिको के रेगिस्तान में दुनिया के पहले परमाणु बम का परीक्षण हुआ। मैनहट्टन प्रोजेक्ट के प्रमुख रॉबर्ट ओपेनहाइमर ने 1930 के दशक में संस्कृत सीखी थी, उन्होंने भगवद्गीता को मूल भाषा में पढ़ा था।</p>
+<p>रेगिस्तान में विस्फोट हुआ। आकाश ऐसी चमक से भर गया, मानो एक साथ हज़ार सूर्य उग आये हों। उस क्षण ओपेनहाइमर को गीता की पंक्तियां याद आयीं - मैं मृत्यु बन गया हूं, संसारों का नाशक। कुछ ही समय बाद हिरोशिमा और नागासाकी पर परमाणु बम गिराये गये। द्वितीय विश्व युद्ध समाप्त हुआ।</p>
+<p>ब्रिटेन विजेता देशों में था, लेकिन उसका साम्राज्य थक चुका था। युद्ध ने उसकी आर्थिक और राजनीतिक शक्ति कमज़ोर कर दी थी। अब भारत को पहले की तरह नियंत्रित रखना आसान नहीं था। 1945 के मध्य से यह लगभग स्पष्ट हो गया कि ब्रिटिश भारत छोड़ेंगे। लेकिन वे कब जाएंगे? सत्ता किसे सौंपेंगे? भारत एक रहेगा या टूटेगा? इन सवालों का कोई साझा उत्तर नहीं था।</p>
+<p>साम्राज्य का सूरज डूब रहा था। लेकिन क्षितिज पर उगने वाली रोशनी का रंग अभी तय नहीं हुआ था।</p>
+<h3>मतपेटियों से निकला पाकिस्तान</h3>
+<p>1937 के चुनावों में मुस्लिम लीग को भारतीय मुस्लिम मतदाताओं का बहुत सीमित समर्थन मिला था। हर 20 मुस्लिम मतदाताओं में एक से भी कम ने लीग का साथ दिया था। लेकिन दिसंबर 1945 से मार्च 1946 के बीच हुए चुनावों में तस्वीर बदल चुकी थी। लगभग 75 प्रतिशत मुस्लिम मतदाताओं ने मुस्लिम लीग का समर्थन किया।</p>
+<p>कुछ ही वर्षों में इतना बड़ा परिवर्तन कैसे आया? अब लीग अपने आपको सिर्फ़ एक राजनीतिक संगठन नहीं, भारतीय मुसलमानों की प्रतिनिधि आवाज़ के रूप में पेश कर रही थी। मुस्लिम राजनीति में उसकी पकड़ बढ़ चुकी थी। पाकिस्तान अब कैम्ब्रिज में छपे किसी पर्चे का अस्पष्ट विचार नहीं रहा था। वह मतपेटियों से निकलकर सत्ता की मेज़ तक पहुंच चुका था।</p>
+<p>कांग्रेस संयुक्त भारत का दावा कर रही थी। लीग अलग राष्ट्र की मांग पर अडिग थी। ब्रिटिश सरकार इन दोनों के बीच रास्ता खोजने का अभिनय कर रही थी, जबकि उसकी सबसे बड़ी चिंता अपने साम्राज्य से जल्द और सुरक्षित विदाई थी।</p>
+<p>जनवरी 1946 में वल्लभभाई पटेल ने लिखा - अगर पाकिस्तान हासिल करना है, तो हिंदुओं और मुसलमानों को लड़ना होगा, गृह युद्ध होगा। यह सिर्फ़ आशंका नहीं थी। हवा में हिंसा की गंध आने लगी थी।</p>
+<h3>कलकत्ता - जहां भविष्य ने अपना पहला चेहरा दिखाया</h3>
+<p>16 अगस्त 1946। मुस्लिम लीग ने प्रत्यक्ष कार्रवाई का दिन घोषित किया। अख़बारों में विज्ञापन छपे, मुसलमानों से अपने जीवन और अपनी संपत्ति को स्वतंत्रता के लिए समर्पित करने की अपील की गई। कलकत्ता की सड़कों पर भीड़ उतरी, नारे लगे। फिर किसी मोड़ पर राजनीति ने अपना चेहरा खो दिया।</p>
+<p>पांच दिनों तक शहर हिंसा में डूबा रहा। लोगों को उनके नाम से पहचाना गया, कपड़ों से धर्म तय किया गया, घरों के बाहर बने निशान मौत का पता बन गये। दुकानें जलीं, लाशें सड़कों पर पड़ी रहीं, मुहल्ले अपने ही पड़ोसियों से डरने लगे। एक सप्ताह के भीतर करीब 5,000 लोग मारे गये, दसियों हज़ार घायल हुए या बेघर हो गये।</p>
+<p>कलकत्ता का यह हत्याकांड आने वाले रक्तपात की पहली बड़ी चेतावनी था। शहर बता रहा था कि जब धर्म राजनीतिक सीमा बनने लगता है, तो सबसे पहले इंसान की व्यक्तिगत पहचान मिटती है। वह पिता नहीं रहता, मज़दूर नहीं रहता, शायर, दर्ज़ी, दुकानदार या शिक्षक नहीं रहता। भीड़ उसे सिर्फ़ हिंदू, मुसलमान या सिख की तरह देखने लगती है। एक शब्द उसके पूरे जीवन पर भारी पड़ जाता है।</p>
+<p>1946 में कलकत्ता ने भविष्य का दरवाज़ा थोड़ी देर के लिए खोला। अंदर आग थी। मगर सत्ता के गलियारों में बैठे लोग अब भी नक़्शों पर झुके हुए थे।</p>
+<h3>विदाई की जल्दबाज़ी</h3>
+<p>फरवरी 1947 में लुई माउंटबेटन को भारत का अंतिम वायसराय बनाया गया। उनके सामने एक साम्राज्य था, जो विदा होना चाहता था। एक कांग्रेस थी, जो सत्ता हस्तांतरण चाहती थी। एक मुस्लिम लीग थी, जो पाकिस्तान के बिना किसी समझौते के लिए तैयार नहीं थी। और एक विशाल आबादी थी, जिसे अभी यह भी नहीं पता था कि कुछ महीनों बाद उसका गांव किस देश में होगा।</p>
+<p>मूल योजना के मुताबिक़ सत्ता का हस्तांतरण 1948 के मध्य तक होना था। फिर तारीख़ अचानक बदल दी गई - 15 अगस्त 1947। इतने बड़े उपमहाद्वीप को बांटने के लिए अब सिर्फ़ कुछ सप्ताह बचे थे।</p>
+<p>जून 1947 में माउंटबेटन, जवाहरलाल नेहरू, मुहम्मद अली जिन्ना और बलदेव सिंह रेडियो पर आये। लोग अपने रेडियो के चारों तरफ़ जमा हुए। आवाज़ों में औपचारिकता थी, लेकिन घोषणा असाधारण थी - ब्रिटिश भारत दो डोमिनियन में बांटा जाएगा, भारत और पाकिस्तान।</p>
+<p>यह तय हो गया कि देश टूटेगा। अभी यह तय होना बाक़ी था कि कहां से टूटेगा।</p>
+<h3>वह आदमी, जिसने भारत को पहली बार देखा और बांट दिया</h3>
+<p>भारत और पाकिस्तान की सीमा खींचने की ज़िम्मेदारी ब्रिटिश बैरिस्टर सिरिल रैडक्लिफ़ को मिली। रैडक्लिफ़ 8 जुलाई 1947 को भारत पहुंचे। यह उनकी पहली दक्षिण एशिया यात्रा थी। और आख़िरी भी। जिस भूगोल को उन्होंने कभी देखा नहीं था, जिस मिट्टी की गंध तक नहीं पहचानी थी, उसे बांटने के लिए उनके पास करीब साढ़े 5 सप्ताह थे। उन्हें लगभग 3,800 मील लंबी सीमा खींचनी थी।</p>
+<p>समय इतना कम था कि सीमा आयोगों ने बाक़ायदा फ़ील्डवर्क तक नहीं किया। फ़ैसले काग़ज़ों, आंकड़ों और नक़्शों पर होने थे। लेकिन नक़्शे यह नहीं बताते कि किस कुएं से कौन पानी भरता है, किस खेत तक पहुंचने का रास्ता किस गांव से निकलता है, किस मंदिर में दूसरे मुहल्ले का कारीगर घंटा बनाता है, किस मस्जिद की दीवार किसी सिख राजमिस्त्री ने खड़ी की थी, कौन-सा बाज़ार किन गांवों की सांसों से चलता है।</p>
+<p>रैडक्लिफ़ की कलम चली। रेखाओं ने पंजाब और बंगाल को काटा। गांव बंट गये, कारख़ाने बंट गये, नहरें बंट गईं, रेल की पटरियां बंट गईं, तीर्थस्थल दूसरी तरफ़ चले गये। लाखों लोगों का भविष्य उस समय एक बंद कमरे में तय हो रहा था।</p>
+<p>पाकिस्तान को ब्रिटिश भारत की करीब 23 प्रतिशत भूमि और 18 प्रतिशत जनसंख्या मिली। लेकिन पाकिस्तान एक जुड़ा हुआ भू-भाग नहीं था। उसका एक हिस्सा पश्चिम में था, दूसरा पूर्व में, बीच में भारत की लंबी धरती थी। एक अख़बार ने इस बंटवारे को नाम दिया - क्षेत्रीय हत्या। लेकिन हत्या सिर्फ़ क्षेत्र की नहीं होने वाली थी।</p>
+<h3>आधी रात की दो आवाज़ें</h3>
+<p>14 और 15 अगस्त 1947 की रात। दिल्ली रोशनी से जगमगा रही थी। लोग सड़कों पर थे, इमारतों पर झंडे थे, अंग्रेज़ी शासन समाप्त हो रहा था।</p>
+<p>भारत की संविधान सभा में जवाहरलाल नेहरू बोलने के लिए खड़े हुए। उन्होंने कहा कि बहुत साल पहले हमने नियति के साथ एक वायदा किया था, अब उस शपथ को पूरा करने का समय आ गया है। आधी रात को, जब दुनिया सो रही होगी, भारत जीवन और स्वतंत्रता की ओर जागेगा। यह एक नये राष्ट्र का स्वप्न था।</p>
+<p>उधर पाकिस्तान प्रसारण सेवा से मुहम्मद अली जिन्ना की आवाज़ सुनाई दी। उन्होंने स्वतंत्र और संप्रभु पाकिस्तान के जन्म पर लोगों को बधाई दी। दो राष्ट्र जन्म ले रहे थे। दोनों तरफ़ झंडे उठ रहे थे, दोनों तरफ़ राष्ट्रगान और नारे थे, दोनों तरफ़ लोग मान रहे थे कि इतिहास ने उन्हें एक नया आरंभ दिया है।</p>
+<p>मगर उन्हीं दिनों फ़ैज़ अहमद फ़ैज़ ने उस सुबह को देखा और लिखा - "ये दाग़ दाग़ उजाला, ये शब-गज़ीदा सहर; वो इंतिज़ार था जिस का, ये वो सहर तो नहीं।" यानी यह दाग़दार उजाला, यह रात से घायल हुई सुबह, वह सुबह नहीं थी जिसका इंतज़ार किया गया था।</p>
+<p>राष्ट्रों की घड़ी में आधी रात बीत चुकी थी। लाखों लोगों के जीवन में रात अभी शुरू हुई थी।</p>
+<h3>घरों से निकलती हुई दुनिया</h3>
+<p>अगस्त 1947 के मध्य तक करीब 10 लाख लोग अपने घर छोड़ चुके थे। अगले महीनों में लगभग 1 करोड़ 10 लाख और लोग भागे। यह ज्ञात मानव इतिहास का सबसे बड़ा पलायन था।</p>
+<p>रेलगाड़ियां भर गईं। लोग छतों पर बैठे, दरवाज़ों से लटके, बच्चों को खिड़कियों से भीतर पहुंचाया गया, गठरियां फेंकी गईं, बूढ़े पीछे छूट गये। सड़कों पर क़ाफ़िले दिखाई देने लगे, मीलों लंबे क़ाफ़िले। लोग पैदल चल रहे थे, बैलगाड़ियों पर सामान था, किसी की गोद में बच्चा था, किसी के कंधे पर बीमार पिता।</p>
+<p>वे किस तरफ़ जा रहे थे? मुसलमान पाकिस्तान की ओर, हिंदू और सिख भारत की ओर। लेकिन यह वाक्य जितना सीधा सुनाई देता है, जीवन उतना सीधा नहीं था। हर इंसान सिर्फ़ धर्म नहीं था। उसका एक शहर था, एक बोली थी, गली में एक पेड़ था, एक स्कूल था, एक दोस्त था, जिसके साथ बचपन बीता था।</p>
+<p>अब उससे कहा जा रहा था कि तुम्हारा राष्ट्र वहां है, जहां शायद तुम कभी गये ही नहीं। कोई लाहौर छोड़कर दिल्ली आ रहा था, कोई दिल्ली से लाहौर जा रहा था। किसी के लिए वह यात्रा शरण थी, किसी के लिए निर्वासन, और किसी के लिए ऐसी दूरी, जिसे वह जीवन भर पार नहीं कर सका।</p>
+<h3>जब रेलगाड़ियां ख़ामोश पहुंचीं</h3>
+<p>रेल आधुनिक भारत की सबसे बड़ी धमनियों में से एक थी। उसी रेल ने शहरों को जोड़ा था, मज़दूरों, व्यापारियों, सैनिकों, विद्यार्थियों और यात्रियों को दूर-दूर तक पहुंचाया था। विभाजन के दिनों में रेल ने एक दूसरा रूप देखा। वह शरणार्थियों से भरी चलती थी। कभी एक ट्रेन भारत से पाकिस्तान जाती, दूसरी पाकिस्तान से भारत आती। डिब्बों में भय, प्यास, पसीना, रोते हुए बच्चे और भविष्य की अनिश्चितता भरी होती।</p>
+<p>फिर कुछ रेलगाड़ियां ऐसी भी पहुंचीं, जिनमें कोई आवाज़ नहीं थी। न बच्चे रो रहे थे, न कोई पानी मांग रहा था, न उतरने की जल्दी थी। डिब्बे लाशों से भरे थे। जीवित लोगों को पहुंचाने वाली रेल मृत्यु का संदेश लेकर स्टेशन पर खड़ी थी।</p>
+<p>यह हिंसा अचानक पैदा नहीं हुई थी। अफ़वाहें यात्रा कर रही थीं। एक गांव में किसी क़ाफ़िले पर हमला हुआ, तो दूसरे गांव में बदले की तैयारी होने लगी। एक ट्रेन काटी गई, तो दूसरी ट्रेन निशाना बनी। हर हत्या अगली हत्या के लिए तर्क बनाई गई। किसी ने नहीं पूछा कि जिस आदमी को मारा जा रहा है, उसका पहले अपराध से क्या संबंध है। भीड़ में न्याय नहीं था, सिर्फ़ पहचान थी, और बदला था।</p>
+<h3>वे लोग, जिनकी कोई संख्या पूरी नहीं है</h3>
+<p>1946 से 1949 के बीच दंगों, संगठित नरसंहारों, राज्यों के संघर्षों, विद्रोहों और जातीय सफ़ाई में करीब 10 लाख से 20 लाख दक्षिण एशियाई मारे गये। इतिहास आज भी कोई एक अंतिम संख्या नहीं बता पाता। संख्या बदलती है। मगर हर अनुमान के पीछे मनुष्यों की ऐसी दुनिया है, जो अब कभी पूरी नहीं होगी। एक मृत्यु किसी परिवार की भाषा बदल देती है, दूसरी मृत्यु किसी बच्चे का भविष्य, तीसरी मृत्यु किसी घर की स्मृति को आख़िरी बार देखने वाला व्यक्ति भी मिटा देती है।</p>
+<p>पंजाब में हिंदू, मुसलमान और सिख हिंसा की चपेट में आये। बंगाल में हिंदू और मुसलमान मारे गये। शहरों से गांवों तक, मनुष्यता अपनी ही बनाई हुई आग में फंस गई। क़ातिल हर समुदाय में थे, मृतक भी हर समुदाय में। पीड़ा का कोई एक धर्म नहीं था। लेकिन हर तरफ़ अपनी पीड़ा को सबसे बड़ा और दूसरे की पीड़ा को संदिग्ध समझने की कोशिश हुई। राष्ट्र अपने शहीद चुन रहे थे। इतिहास के बीच फंसा इंसान किसी राष्ट्रीय सूची में पूरा दर्ज नहीं हो पा रहा था।</p>
+<h3>मंटो का सवाल - मेरा वतन कौन-सा है?</h3>
+<p>सआदत हसन मंटो अमृतसर में पले थे। बंबई में उन्होंने अपने लेखन और अपने जीवन का एक बड़ा संसार बनाया। 1948 में वे बंबई से लाहौर चले गये। लेकिन क्या कोई आदमी सिर्फ़ रेल का टिकट लेकर एक देश से दूसरे देश में चला जाता है? उसके भीतर बसे शहरों का क्या होता है?</p>
+<p>मंटो ने लिखा - 14 अगस्त को बंबई में आज़ादी का जश्न था। भारत और पाकिस्तान अलग देश घोषित हो चुके थे। बड़ी सार्वजनिक ख़ुशी थी, लेकिन हत्या और आगजनी भी जारी थी। उन्हें यह तय करना मुश्किल लग रहा था कि इन दोनों देशों में उनका वतन कौन-सा है। भारत? या पाकिस्तान? रोज़ बहते हुए ख़ून के लिए ज़िम्मेदार कौन था? अगर हम आज़ाद हो गये थे, तो क्या ग़ुलामी समाप्त हो गई थी? हज़ारों हिंदू और मुसलमान क्यों मर रहे थे?</p>
+<p>हर सवाल का हिंदुस्तानी जवाब था, पाकिस्तानी जवाब था, अंग्रेज़ों का जवाब था। जवाब इतने थे कि सच के लिए जगह नहीं बचती थी।</p>
+<p>विभाजन ने सिर्फ़ देश नहीं बांटा। उसने सवालों को भी बांट दिया। अब एक ही घटना के दो इतिहास थे, दो दुख थे, दो स्मृतियां थीं। कांटेदार तारों के एक तरफ़ हिंदुस्तान था, उसी तरह के तारों के पीछे दूसरी तरफ़ पाकिस्तान। और बीच में टोबा टेक सिंह की तरह खड़ा मनुष्य पूछ रहा था - मैं कहां हूं?</p>
+<h3>औरतों के शरीर पर लिखी गई सरहद</h3>
+<p>विभाजन की हिंसा का सबसे क्रूर अध्याय औरतों के शरीर पर लिखा गया। दोनों तरफ़ दसियों हज़ार महिलाओं का अपहरण हुआ। उनके साथ बलात्कार किया गया, उन्हें बंधक बनाया गया, बहुत-सी महिलाओं की हत्या कर दी गई।</p>
+<p>कुछ औरतों के शरीर पर आज़ादी के नारे गोद दिये गये। किसी पर लिखा गया - पाकिस्तान ज़िंदाबाद। किसी पर - जय हिंद। राष्ट्र का गर्व औरत की देह को घायल करके जताया गया। एक तरफ़ झंडों को सम्मान दिया जा रहा था, दूसरी तरफ़ इंसान के शरीर को विजय का मैदान बनाया जा रहा था।</p>
+<p>कई परिवारों ने अपनी ही बेटियों और बहुओं को इस भय से मार दिया कि वे दूसरे समुदाय के हाथों न पड़ें। इज़्ज़त की रक्षा के नाम पर जीवन समाप्त कर दिया गया। जिस औरत का अपहरण हुआ, उसके साथ हुआ अपराध सिर्फ़ हमलावर का अपराध नहीं रहा। कई बार लौटने पर अपने ही घर ने उसे स्वीकार नहीं किया।</p>
+<p>वह किस देश की नागरिक थी? किस समुदाय की इज़्ज़त? किस परिवार की बेटी? इन सभी प्रश्नों के बीच उसका अपना जीवन कहां था? स्वतंत्रता के जश्न में उसके लिए कोई मंच नहीं था। उसकी चीख़ इतिहास के शोर में दब गई।</p>
+<h3>इस्मत की आंखों में आज़ादी</h3>
+<p>इस्मत चुग़ताई ने इस दौर को देखा। उन्होंने लिखा कि सांप्रदायिक हिंसा का सैलाब आया और अपने पीछे ज़िंदा, मुर्दा और तड़पती लाशों का ढेर छोड़ गया। सिर्फ़ देश नहीं बंटा, जिस्म और ज़हन भी बंट गये। नैतिक विश्वास अलग रख दिये गये। इंसानियत चीथड़ों में बदल गई। हिंसा और आज़ादी इस तरह एक-दूसरे में घुल गईं कि दोनों के बीच फ़र्क़ करना मुश्किल हो गया।</p>
+<p>यही 1947 का सबसे कठिन विरोधाभास था। जिस दिन को एक राष्ट्र अपनी मुक्ति के रूप में याद कर रहा था, उसी दिन लाखों लोग अपने जीवन की सबसे बड़ी त्रासदी से गुज़र रहे थे। दिल्ली में रोशनी थी, पंजाब में गांव जल रहे थे। सभाओं में भाषण हो रहे थे, सड़कों पर क़ाफ़िले चल रहे थे। एक तरफ़ नागरिकता मिल रही थी, दूसरी तरफ़ घर छिन रहा था।</p>
+<p>आज़ादी और विभाजन दो अलग घटनाएं नहीं रह गईं। वे एक ही समय की दो धड़कनें थीं। एक धड़कन में उत्सव था, दूसरी में मातम।</p>
+<h3>रियासतें - आज़ादी के भीतर अधूरे फ़ैसले</h3>
+<p>ब्रिटिश भारत का विभाजन हो गया था। लेकिन उपमहाद्वीप की सभी राजनीतिक समस्याएं 15 अगस्त की आधी रात को समाप्त नहीं हुईं। सैकड़ों रियासतों का भविष्य अभी तय होना था। वे भारत में मिलेंगी? पाकिस्तान में? या स्वतंत्र रहने की कोशिश करेंगी?</p>
+<p>हैदराबाद ने एक वर्ष से ज़्यादा समय तक स्वयं को स्वतंत्र राज्य घोषित रखा। सितंबर 1948 में भारत ने वहां एक सैन्य अभियान चलाया, जिसे पुलिस कार्रवाई कहा गया। इस कार्रवाई और उसके आसपास हुई हिंसा में शायद 50,000 मुस्लिम समर्थक मारे गये। 1948 में तैयार हुई आधिकारिक सुंदरलाल रिपोर्ट ने इन मौतों की पुष्टि की। लेकिन यह रिपोर्ट लंबे समय तक सार्वजनिक नहीं हुई। 2013 में इसे सार्वजनिक किया गया।</p>
+<p>राष्ट्र अक्सर अपनी स्थापना की उजली तस्वीर बनाते हैं। उस तस्वीर में कुछ छायाएं जगह नहीं पातीं। हैदराबाद उन्हीं छायाओं में था। आज़ादी के बाद भी राज्य बनाने की प्रक्रिया हिंसा से मुक्त नहीं थी। सीमाएं सिर्फ़ ब्रिटिश नहीं खींच रहे थे। नये राष्ट्र भी अपनी सीमाएं तय कर रहे थे।</p>
+<h3>कश्मीर - एक अधूरा वाक्य</h3>
+<p>कश्मीर मुस्लिम-बहुल क्षेत्र था। उस पर हिंदू डोगरा राजवंश का शासन था। 1947 की पतझड़ में पाकिस्तान की तरफ़ से आये क़बायली लड़ाकों ने कश्मीर में प्रवेश किया। भारत और पाकिस्तान आमने-सामने आ गये। दोनों नये राष्ट्रों ने अपना पहला युद्ध लड़ा। इस युद्ध में करीब 7,500 लोग मारे गये।</p>
+<p>1949 में संयुक्त राष्ट्र की मध्यस्थता से युद्धविराम हुआ। भविष्य में जनमत-संग्रह का वादा किया गया। लेकिन वह जनमत-संग्रह कभी नहीं हुआ। कश्मीर का वाक्य वहीं अधूरा रह गया। भारत और पाकिस्तान के संबंधों में यह अधूरापन बार-बार लौटता रहा। जिस सीमा को कुछ सप्ताह में खींचा गया था, उसने आने वाली पीढ़ियों के लिए स्थायी संघर्ष पैदा कर दिया।</p>
+<p>रैडक्लिफ़ की कलम काग़ज़ से उठ चुकी थी। लेकिन उसकी खींची रेखा अब सैनिक चौकियों, युद्धों, विस्थापन और राष्ट्रीय अविश्वास में बदल रही थी।</p>
+<h3>जिन्ना के हिस्से में कितना समय आया?</h3>
+<p>मुहम्मद अली जिन्ना ने पाकिस्तान की मांग को एक राजनीतिक विचार से राष्ट्र तक पहुंचाया। लेकिन उस राष्ट्र के साथ उन्हें बहुत कम समय मिला। सितंबर 1948 में तपेदिक से उनकी मृत्यु हो गई। पाकिस्तान अभी एक वर्ष का ही था।</p>
+<p>वह दो अलग भू-भागों में बंटा देश था। उसके पास विस्थापित लोगों की भारी आबादी थी। प्रशासनिक ढांचा बन रहा था। भारत के साथ संबंध तनावपूर्ण थे। जिस आदमी ने पाकिस्तान के लिए निर्णायक राजनीतिक लड़ाई लड़ी, वह उसके आरंभिक संकटों के बीच चला गया।</p>
+<p>राष्ट्र बचा रहा। उसका संस्थापक नहीं रहा। इतिहास कई बार अपने सबसे बड़े पात्रों को उस संसार में अधिक दिन नहीं रहने देता, जिसे बनाने में उन्होंने पूरा जीवन लगा दिया हो।</p>
+<h3>गांधी की आख़िरी प्रार्थना</h3>
+<p>भारत में भी आज़ादी का पहला वर्ष ख़ून और तनाव से भरा था। गांधी सत्ता के उत्सव के केंद्र में नहीं थे। वे सांप्रदायिक हिंसा रोकने की कोशिश में लगे थे।</p>
+<p>30 जनवरी 1948 को दिल्ली के बिड़ला हाउस में प्रार्थना सभा थी। गांधी सभा की ओर बढ़ रहे थे। हिंदू राष्ट्रवादी नाथूराम गोडसे ने उन्हें गोली मार दी। गोडसे के संबंध आरएसएस और सावरकर से रहे थे। जिस व्यक्ति ने अहिंसा को भारत की आज़ादी की सबसे बड़ी राजनीतिक भाषा बनाया था, वह स्वतंत्र भारत में हिंसा का शिकार हुआ।</p>
+<p>रेडियो पर नेहरू की आवाज़ कांप रही थी। उन्होंने कहा - हमारे जीवन से रोशनी चली गई है, हर तरफ़ अंधेरा है, हमारे प्रिय नेता, बापू, राष्ट्रपिता अब नहीं रहे।</p>
+<p>गोडसे को 1949 में फांसी दी गई। आरएसएस पर करीब एक वर्ष का प्रतिबंध लगा। लेकिन गांधी की हत्या सिर्फ़ एक व्यक्ति की हत्या नहीं थी। वह उस भारत पर हमला था, जिसमें अलग-अलग धर्मों के लोग एक साथ रहने की संभावना खोज रहे थे। देश आज़ाद हो चुका था। अब लड़ाई यह थी कि आज़ाद भारत की आत्मा कैसी होगी।</p>
+<h3>याद रखना भी ख़तरनाक था</h3>
+<p>विभाजन के बाद लाखों लोग नये शहरों में बस गये। उन्होंने दुकानें खोलीं, घर बनाये, बच्चों को स्कूल भेजा, नयी ज़िंदगी शुरू की। लेकिन पुराने घर उनके भीतर से नहीं गये। किसी के पास चाबी बची रही - उस दरवाज़े की चाबी, जो अब दूसरे देश में था। किसी के पास ज़मीन का काग़ज़ था, किसी संदूक में पुरानी तस्वीर, किसी की ज़ुबान में उस शहर का लहजा बचा रहा, जिसे वह छोड़ आया था।</p>
+<p>लेकिन विभाजन के बारे में दशकों तक एक अजीब ख़ामोशी रही। घर के बड़े सब कुछ जानते थे, बच्चों को आधी बातें बताते थे। किसने किसे मारा? कौन बचाकर ले गया? किस पड़ोसी ने धोखा दिया? किसने जान बचाई? इन स्मृतियों में दर्द था, शर्म थी, कृतज्ञता भी थी, और कभी-कभी अपराधबोध।</p>
+<p>विभाजन के मौखिक इतिहास को बड़े स्तर पर दर्ज करने की कोशिश 1990 के दशक में जाकर शुरू हुई। हिंदी लेखिका और विभाजन की शरणार्थी कृष्णा सोबती ने कहा था - विभाजन को भूलना मुश्किल था, लेकिन याद रखना ख़तरनाक। क्योंकि स्मृति सिर्फ़ घाव नहीं दिखाती, वह यह भी बताती है कि घाव किसने दिया। और कई बार यह सच राष्ट्रों की बनाई हुई सुविधाजनक कहानियों में जगह नहीं पाता।</p>
+<h3>क्या विभाजन टाला जा सकता था?</h3>
+<p>इतिहास के सामने यह प्रश्न बार-बार रखा जाता है - क्या भारत का विभाजन टाला जा सकता था? क्या कांग्रेस और मुस्लिम लीग किसी समझौते तक पहुंच सकती थीं? क्या ब्रिटिश सरकार ने सत्ता हस्तांतरण में जल्दबाज़ी की? क्या 1948 तक का समय दिया जाता, तो सीमाएं बेहतर ढंग से तय हो सकती थीं? क्या लोगों को सुरक्षित पलायन का अवसर मिल सकता था? क्या हिंसा रोकी जा सकती थी?</p>
+<p>इन सवालों के सरल उत्तर नहीं हैं। इतिहास अदालत नहीं है, जहां एक व्यक्ति को कटघरे में खड़ा करके पूरी त्रासदी का दोष उसके नाम लिख दिया जाए। मुस्लिम लीग की राजनीति थी, कांग्रेस की अपनी सीमाएं और फ़ैसले थे, ब्रिटिश साम्राज्य की जल्दबाज़ और हिंसक विदाई थी, धार्मिक अविश्वास था, सत्ता की आकांक्षा थी, औपनिवेशिक शासन में गहरी हुई सामाजिक दरारें थीं। और ऐसे नेता थे, जो मनुष्यों की वास्तविक ज़िंदगी से कहीं तेज़ गति से राजनीतिक फ़ैसले कर रहे थे।</p>
+<p>1947 किसी एक दिन की दुर्घटना नहीं था। वह कई दशकों से जमा होती आशंकाओं, महत्वाकांक्षाओं और असफलताओं का विस्फोट था।</p>
+<h3>सीमा बाहर भी है, भीतर भी</h3>
+<p>आज भारत और पाकिस्तान के बीच कांटेदार तार हैं, चौकियां हैं, सैनिक हैं, पासपोर्ट और वीज़ा हैं। वह लाहौर, जो कभी दिल्ली से रेल के रास्ते सहज जुड़ा था, अब दूसरे देश का शहर है। वह ढाका, जो कभी ब्रिटिश भारत का हिस्सा था, पहले पूर्वी पाकिस्तान और बाद में बांग्लादेश की राजधानी बना। नक़्शा फिर बदला।</p>
+<p>लेकिन विभाजन की विरासत सिर्फ़ सीमा पर नहीं है। वह राजनीति की भाषा में है, धर्म को लेकर हमारे भय में है, अल्पसंख्यकों को देखने के हमारे नज़रिये में है, उन परिवारों की स्मृतियों में है, जिनकी कहानी किसी छूटे हुए शहर से शुरू होती है। वह फ़ैज़ की उदास सुबह में है, इस्मत की घायल इंसानियत में, मंटो के उस आदमी में, जो कांटेदार तारों के बीच खड़ा होकर पूछ रहा है कि उसका देश किधर है।</p>
+<p>इतिहास हमें नक़्शे देता है। साहित्य उन नक़्शों के नीचे दबे हुए मनुष्य दिखाता है।</p>
+<h3>आज़ादी की पूरी तस्वीर</h3>
+<p>15 अगस्त को भारत जीवन और स्वतंत्रता की ओर जागा। यह सच है। सदियों के औपनिवेशिक नियंत्रण के बाद भारतीयों ने अपने राजनीतिक भविष्य पर अधिकार पाया। यह भी सच है। लेकिन उसी सुबह लाखों लोग अपने घरों से निकाले जा रहे थे। यह भी उसी इतिहास का सच है।</p>
+<p>आज़ादी को छोटा दिखाने के लिए विभाजन को याद करना ज़रूरी नहीं है। आज़ादी को पूरा समझने के लिए विभाजन को याद करना ज़रूरी है। क्योंकि राष्ट्र सिर्फ़ अपनी विजय से नहीं बनते, वे अपनी त्रासदियों से भी बनते हैं। और एक परिपक्व देश वही होता है, जो अपने झंडे की रोशनी के साथ अपने इतिहास का अंधेरा भी देख सके।</p>
+<p>1947 ने हमें स्वतंत्रता दी। उसने हमें एक चेतावनी भी दी - जब राजनीति इंसान से उसकी सारी पहचान छीनकर उसे सिर्फ़ धर्म में बदल देती है, तो पड़ोसी को दुश्मन बनने में ज़्यादा समय नहीं लगता। जब सीमाएं जल्दबाज़ी में खींची जाती हैं, तो उनका बोझ कई पीढ़ियां उठाती हैं। जब किसी समुदाय की पीड़ा को झूठ और अपनी पीड़ा को अकेला सच माना जाता है, तो इतिहास समाप्त नहीं होता, वह अगली हिंसा की तैयारी करने लगता है।</p>
+<h3>समापन - घर की वह चाबी</h3>
+<p>कल्पना कीजिए। एक बूढ़ा आदमी है। उसके पास एक पुरानी चाबी है। चाबी में ज़ंग लग चुका है। जिस घर का वह ताला खोलती थी, वह अब दूसरे देश में है। शायद वह घर बचा भी नहीं। शायद वहां किसी और परिवार का जीवन बस चुका है। फिर भी वह आदमी चाबी संभालकर रखता है।</p>
+<p>क्यों? क्योंकि घर सिर्फ़ ईंट और दीवार नहीं होता। घर वह जगह है, जहां मनुष्य को अपने होने का प्रमाण नहीं देना पड़ता।</p>
+<p>1947 में लाखों लोगों से वही जगह छिन गई। वे भारत पहुंचे, वे पाकिस्तान पहुंचे। उन्हें नयी नागरिकता मिली, नया पता मिला, नये राशन कार्ड बने। लेकिन स्मृति के भीतर एक दरवाज़ा बंद रह गया। उस दरवाज़े के उस पार एक अविभाजित दुनिया थी। वह दुनिया पूर्ण नहीं थी, उसमें तनाव था, असमानता थी, राजनीतिक संघर्ष था। मगर वहां पड़ोसी अभी सिर्फ़ पड़ोसी भी हो सकता था।</p>
+<p>फिर एक दिन नक़्शे पर लकीर खिंची। देश आज़ाद हुआ। मनुष्य बेघर हो गया। इतिहास ने दो राष्ट्र बनाये। और लाखों लोगों के भीतर एक तीसरा देश छोड़ दिया - जो कहीं नक़्शे पर नहीं था, जिसका कोई झंडा नहीं था, कोई राजधानी नहीं थी। सिर्फ़ एक पुरानी गली थी, एक बंद दरवाज़ा था, और जेब में रखी हुई घर की चाबी।</p>
+<p>यह था 1947। भारत की आज़ादी। भारत का विभाजन। और उस आज़ादी की वह क़ीमत, जिसे आज भी पूरी तरह गिना नहीं जा सका है।</p>
+    </div>
+  </details>
+</article>
+
+  <div class="chapter-pagenav">
+    <a class="lang-block lb-inline" data-lang="en" href="episode-21.html">&larr; Whose Freedom? The Fight for Nation, Religion and Equality</a>
+    <a class="lang-block lb-inline" data-lang="hi" href="episode-21.html">&larr; आज़ादी किसकी? राष्ट्र, धर्म और बराबरी की लड़ाई</a>
+    <a class="lang-block lb-inline" data-lang="en" href="scripts.html">Read other episodes</a>
+    <a class="lang-block lb-inline" data-lang="hi" href="scripts.html">बाक़ी एपिसोड्स पढ़ें</a>
+    <a class="lang-block lb-inline" data-lang="en" href="episode-23.html">1947-1990: The Country Was Made. But Who Was the Citizen? &rarr;</a>
+    <a class="lang-block lb-inline" data-lang="hi" href="episode-23.html">1947-1990: देश बन गया, नागरिक कौन? &rarr;</a>
+  </div>
+
+
+
+
+  <div class="scripts-cta">
+    <p class="lang-block lb-block" data-lang="en" style="color:var(--ink-soft);margin-bottom:20px;">More chapters are on their way as new episodes release.</p>
+    <p class="lang-block lb-block" data-lang="hi" style="color:var(--ink-soft);margin-bottom:20px;">नए एपिसोड आने के साथ और अध्याय यहां जुड़ते रहेंगे।</p>
+    <a class="btn lang-block lb-flex" data-lang="en" href="index.html">← Back to home</a>
+    <a class="btn lang-block lb-flex" data-lang="hi" href="index.html">← होम पर वापस जाएं</a>
+  </div>
+</main>
+
+<footer>
+  <div class="lang-block lb-block" data-lang="en">Equal Tales Storyline · <a href="https://www.youtube.com/@ETStoryline" target="_blank" rel="noopener">@ETStoryline</a> · <a href="youtube.html">Videos</a></div>
+  <div class="lang-block lb-block" data-lang="hi">इक्वल टेल्स स्टोरीलाइन · <a href="https://www.youtube.com/@ETStoryline" target="_blank" rel="noopener">@ETStoryline</a> · <a href="youtube.html">वीडियो</a></div>
+</footer>
+
+<script>
+  function setLang(lang){
+    document.body.classList.remove('lang-en','lang-hi');
+    document.body.classList.add('lang-' + lang);
+    document.documentElement.setAttribute('lang', lang);
+    try{ localStorage.setItem('etsLang', lang); }catch(e){}
+    document.querySelectorAll('.lang-switch button').forEach(function(b){
+      b.setAttribute('aria-pressed', b.dataset.lang === lang ? 'true' : 'false');
+    });
+  }
+  document.querySelectorAll('.lang-switch button').forEach(function(b){
+    b.addEventListener('click', function(){ setLang(b.dataset.lang); });
+  });
+  (function init(){
+    var saved = null;
+    try{ saved = localStorage.getItem('etsLang'); }catch(e){}
+    setLang(saved === 'en' ? 'en' : 'hi');
+  })();
+</script>
+
+</body>
+</html>

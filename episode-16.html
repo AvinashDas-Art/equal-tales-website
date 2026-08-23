@@ -1,0 +1,574 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Regional Rise: New Powers Amid a Crumbling Empire (1720-1780) | क्षेत्रीय उत्कर्ष: बिखरते साम्राज्य के बीच नयी सत्ताएं (1720-1780) | Equal Tales Storyline</title>
+<meta name="description" content="Read Bharat Ki Kahani's episode scripts as full chapters - from the Indus Valley to the dawn of the 20th century.">
+<link rel="icon" type="image/png" href="favicon.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700;900&family=Inter:wght@400;500;600;700&family=Mukta:wght@400;500;600;700&family=Baloo+2:wght@500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --cloud:#F4F7F9;
+    --mist:#E6ECF2;
+    --powder:#D0E1FD;
+    --gold:#C5A059;
+    --gold-dark:#96754A;
+    --ink:#2C3E50;
+    --ink-soft:#5B6B7C;
+    --glass:rgba(255,255,255,.55);
+    --glass-strong:rgba(255,255,255,.72);
+    --glass-border:rgba(255,255,255,.65);
+  }
+  *{box-sizing:border-box;margin:0;padding:0;}
+  html{scroll-behavior:smooth;}
+  body{
+    background:linear-gradient(165deg, var(--cloud) 0%, var(--powder) 55%, var(--mist) 100%);
+    color:var(--ink);font-family:'Inter',sans-serif;line-height:1.75;min-height:100vh;
+  }
+  body.lang-hi{font-family:'Mukta',sans-serif;}
+  h1,h2,h3{font-family:'Playfair Display',serif;font-weight:700;color:var(--ink);}
+  body.lang-hi h1, body.lang-hi h2, body.lang-hi h3{font-family:'Baloo 2',serif;font-weight:700;}
+  a{color:inherit;}
+  img{max-width:100%;display:block;}
+  .wrap{max-width:1120px;margin:0 auto;padding:0 24px;}
+
+  .lang-block{display:none !important;}
+  body.lang-en .lang-block[data-lang="en"].lb-block{display:block !important;}
+  body.lang-hi .lang-block[data-lang="hi"].lb-block{display:block !important;}
+  body.lang-en .lang-block[data-lang="en"].lb-flex{display:flex !important;}
+  body.lang-hi .lang-block[data-lang="hi"].lb-flex{display:flex !important;}
+  body.lang-en .lang-block[data-lang="en"].lb-inline{display:inline !important;}
+  body.lang-hi .lang-block[data-lang="hi"].lb-inline{display:inline !important;}
+  body.lang-en .lang-block[data-lang="en"].lb-grid{display:grid !important;}
+  body.lang-hi .lang-block[data-lang="hi"].lb-grid{display:grid !important;}
+
+  nav{
+    position:sticky;top:0;z-index:50;
+    background:var(--glass);backdrop-filter:blur(16px) saturate(1.2);-webkit-backdrop-filter:blur(16px) saturate(1.2);
+    border-bottom:1px solid var(--glass-border);
+  }
+  nav .wrap{display:flex;align-items:center;justify-content:space-between;padding:14px 24px;gap:16px;}
+  .brand{display:flex;align-items:center;gap:10px;text-decoration:none;}
+  .brand-logo{height:46px;width:auto;flex-shrink:0;border-radius:12px;}
+  .lang-switch{display:flex;border:1.5px solid var(--gold);border-radius:999px;overflow:hidden;background:rgba(255,255,255,.5);}
+  .lang-switch button{border:0;background:transparent;padding:7px 16px;font-weight:700;font-size:.82rem;cursor:pointer;color:var(--gold-dark);}
+  .lang-switch button[aria-pressed="true"]{background:var(--gold);color:#fff;}
+  .nav-links{display:flex;gap:22px;list-style:none;}
+  .nav-links a{font-size:.88rem;font-weight:600;text-decoration:none;}
+  @media(max-width:700px){.nav-links{display:none;}}
+
+  main{padding:70px 24px 100px;}
+  .eyebrow{text-transform:uppercase;letter-spacing:.14em;font-size:.75rem;font-weight:600;color:var(--gold-dark);margin-bottom:14px;}
+  body.lang-hi .eyebrow{text-transform:none;letter-spacing:0;}
+
+  .scripts-hero{max-width:760px;margin:0 auto 48px;text-align:center;}
+  .scripts-hero h1{font-size:clamp(1.7rem,4vw,2.5rem);margin-bottom:16px;}
+  .scripts-hero p{color:var(--ink-soft);font-size:1.05rem;}
+
+  .chapter-index{grid-template-columns:repeat(4,1fr);gap:16px;margin:0 auto 64px;max-width:1000px;}
+  .chapter-index a{
+    display:block;background:var(--glass);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);
+    border:1px solid var(--glass-border);border-radius:16px;padding:18px 16px;
+    text-decoration:none;text-align:center;transition:transform .15s ease,box-shadow .15s ease;
+  }
+  .chapter-index a:hover{transform:translateY(-3px);box-shadow:0 10px 26px rgba(44,62,80,.1);}
+  .idx-num{font-size:.72rem;font-weight:700;color:var(--gold-dark);text-transform:uppercase;letter-spacing:.06em;margin-bottom:6px;}
+  body.lang-hi .idx-num{text-transform:none;letter-spacing:0;}
+  .idx-title{font-size:.9rem;font-weight:600;color:var(--ink);line-height:1.4;}
+  @media(max-width:900px){.chapter-index{grid-template-columns:repeat(2,1fr);}}
+  @media(max-width:560px){.chapter-index{grid-template-columns:1fr;}}
+
+  article.chapter{
+    max-width:800px;margin:0 auto 56px;
+    background:var(--glass-strong);backdrop-filter:blur(18px) saturate(1.1);-webkit-backdrop-filter:blur(18px) saturate(1.1);
+    border:1px solid var(--glass-border);border-radius:24px;padding:44px 40px;
+    box-shadow:0 20px 50px rgba(44,62,80,.08);scroll-margin-top:90px;
+  }
+  .chapter-head{text-align:center;margin-bottom:26px;}
+  .chapter-num{font-size:.78rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--gold-dark);margin-bottom:8px;}
+  body.lang-hi .chapter-num{text-transform:none;letter-spacing:0;font-family:'Mukta',sans-serif;}
+  .chapter-head h2{font-size:clamp(1.3rem,3vw,1.7rem);margin-bottom:12px;}
+  .chapter-dek{color:var(--ink-soft);font-size:1rem;max-width:560px;margin:0 auto 10px;}
+  .chapter-meta{font-size:.8rem;color:var(--gold-dark);font-weight:600;}
+  .chapter-highlights{margin:0 0 24px;display:grid;gap:14px;}
+  .chapter-highlights blockquote{
+    font-family:'Playfair Display',serif;font-style:italic;font-size:1.05rem;line-height:1.6;
+    color:var(--ink);background:rgba(197,160,89,.1);border-left:3px solid var(--gold);
+    padding:16px 20px;border-radius:0 12px 12px 0;
+  }
+  body.lang-hi .chapter-highlights blockquote{font-family:'Baloo 2',serif;font-style:normal;}
+  details.chapter-body{text-align:center;}
+  details.chapter-body summary{
+    cursor:pointer;list-style:none;display:inline-flex;align-items:center;gap:8px;
+    font-weight:700;color:#fff;background:var(--gold);padding:11px 22px;border-radius:999px;
+    font-size:.9rem;box-shadow:0 8px 20px rgba(197,160,89,.3);
+  }
+  details.chapter-body summary::-webkit-details-marker{display:none;}
+  details.chapter-body summary::after{content:'▾';font-size:.8rem;}
+  details.chapter-body[open] summary::after{content:'▴';}
+  details.chapter-body[open] summary{margin-bottom:28px;}
+  .chapter-text{text-align:left;}
+  .chapter-text h3{font-size:1.08rem;color:var(--gold-dark);margin:26px 0 10px;}
+  .chapter-text h3:first-child{margin-top:0;}
+  .chapter-text p{margin-bottom:14px;font-size:1rem;color:var(--ink);}
+  .chapter-lang-note{
+    display:inline-block;margin-bottom:18px;font-size:.78rem;color:var(--gold-dark);
+    background:rgba(197,160,89,.12);padding:5px 14px;border-radius:999px;font-weight:600;
+  }
+  @media(max-width:600px){article.chapter{padding:30px 22px;}}
+
+  .scripts-cta{max-width:640px;margin:0 auto;text-align:center;}
+  .btn{
+    display:inline-flex;align-items:center;gap:8px;padding:12px 26px;border-radius:999px;
+    font-weight:700;text-decoration:none;font-size:.95rem;background:var(--gold);color:#fff;
+    box-shadow:0 10px 24px rgba(197,160,89,.35);
+  }
+
+  footer{padding:40px 0;text-align:center;color:var(--ink-soft);font-size:.85rem;}
+  footer a{color:var(--gold-dark);font-weight:700;text-decoration:none;}
+
+  .chapter-breadcrumb{max-width:840px;margin:28px auto 0;}
+  .chapter-breadcrumb a{font-weight:700;font-size:.85rem;color:var(--gold-dark);text-decoration:none;}
+  .chapter-breadcrumb a:hover{text-decoration:underline;}
+  .chapter-pagenav{max-width:840px;margin:36px auto 0;display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;}
+  .chapter-pagenav a{font-weight:700;font-size:.9rem;padding:10px 16px;border:1.5px solid var(--gold);border-radius:999px;text-decoration:none;color:var(--gold-dark);}
+  .chapter-pagenav a:hover{background:var(--gold);color:#fff;}
+  .chapter-watch-yt{margin:14px 0 4px;}
+  .chapter-watch-yt a{display:inline-flex;align-items:center;gap:8px;background:#FF0000;color:#fff !important;padding:9px 18px;border-radius:999px;font-weight:700;font-size:.85rem;text-decoration:none;}
+  .chapter-watch-yt a:hover{opacity:.9;}
+
+</style>
+</head>
+<body class="lang-hi">
+
+<nav>
+  <div class="wrap">
+    <a class="brand" href="index.html">
+      <img src="logo.png" alt="Equal Tales Storyline" class="brand-logo">
+    </a>
+    <ul class="nav-links lang-block lb-flex" data-lang="en">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="youtube.html">YouTube</a></li>
+    </ul>
+    <ul class="nav-links lang-block lb-flex" data-lang="hi">
+      <li><a href="index.html">होम</a></li>
+      <li><a href="youtube.html">यूट्यूब</a></li>
+    </ul>
+    <div class="lang-switch" role="group" aria-label="Language / भाषा">
+      <button type="button" data-lang="en" aria-pressed="false">EN</button>
+      <button type="button" data-lang="hi" aria-pressed="true">हिं</button>
+    </div>
+  </div>
+</nav>
+
+<main>
+  
+
+
+
+  <div class="chapter-breadcrumb">
+    <a class="lang-block lb-inline" data-lang="en" href="scripts.html">&larr; All chapters</a>
+    <a class="lang-block lb-inline" data-lang="hi" href="scripts.html">&larr; सभी अध्याय</a>
+  </div>
+<article class="chapter" id="chapter-16">
+  <div class="chapter-head">
+    <div class="chapter-num lang-block lb-inline" data-lang="en">Chapter 16</div>
+    <div class="chapter-num lang-block lb-inline" data-lang="hi">अध्याय 16</div>
+    <h2 class="lang-block lb-block" data-lang="en">Regional Rise: New Powers Amid a Crumbling Empire (1720-1780)</h2>
+    <h2 class="lang-block lb-block" data-lang="hi">क्षेत्रीय उत्कर्ष: बिखरते साम्राज्य के बीच नयी सत्ताएं (1720-1780)</h2>
+    <p class="chapter-dek lang-block lb-block" data-lang="en">As the Mughal centre crumbled, a hundred smaller courts learned to speak power in their own accent.</p>
+    <p class="chapter-dek lang-block lb-block" data-lang="hi">जब मुग़ल केंद्र बिखर रहा था, तब कई छोटी-छोटी सत्ताएं अपनी ही ज़ुबान में ताक़त बोलना सीख रही थीं।</p>
+    <div class="chapter-watch-yt"><a class="lang-block lb-inline" data-lang="en" href="https://youtu.be/4y93cQNndWU" target="_blank" rel="noopener">Watch this episode on YouTube</a><a class="lang-block lb-inline" data-lang="hi" href="https://youtu.be/4y93cQNndWU" target="_blank" rel="noopener">यह एपिसोड यूट्यूब पर देखें</a></div>
+    <div class="chapter-meta">
+      <span class="lang-block lb-inline" data-lang="en">15 min read</span>
+      <span class="lang-block lb-inline" data-lang="hi">16 मिनट का पाठ</span>
+    </div>
+  </div>
+  <div class="chapter-highlights">
+    <blockquote>“अठारहवीं सदी हमें बताती है कि इतिहास कभी एक दरवाज़े से नहीं आता।”</blockquote>
+    <blockquote>“हर जगह सत्ता अपने लिए नया रूप खोज रही थी।”</blockquote>
+  </div>
+  <details class="chapter-body" open>
+    <summary>
+      <span class="lang-block lb-inline" data-lang="en">Read the full chapter</span>
+      <span class="lang-block lb-inline" data-lang="hi">पूरा अध्याय पढ़ें</span>
+    </summary>
+    <div class="chapter-text lang-block lb-block" data-lang="en">
+<h3>Voices From Outside the Palaces</h3>
+<p>Some voices in history do not come from palaces. They come from a small order buried in archival dust. From an official's harsh language. From the herbs kept in a midwife's bag. From the state's gaze upon a woman's body.</p>
+<p>The year 1776. The Rathore kingdom of Marwar. Western India, settled at the edge of the Thar desert.</p>
+<p>An order was sent to the officials of Nagaur - there is much adultery in the town. Abortion is common. Keep a close watch on this.</p>
+<p>Within this one sentence lies hidden an entire world of the eighteenth century. This is not merely a concern of morality. This is the eye of the state, now peering into homes. This is the finger of power, being placed simultaneously upon a woman's body, the boundary of caste, and the propriety of society.</p>
+<p>In Marwar, abortion was illegal. And yet there were midwives. There were Jain yatis living in temples. They gave herbs. Sometimes for pregnancies from adultery. Sometimes for the social unease born of inter-caste relationships. Sometimes for unwanted pregnancies born of rape.</p>
+<p>These stories reach us because the state investigated these matters. Sometimes imposing a fine. Sometimes exile.</p>
+<p>It is from exactly here that we get our first sign of the eighteenth century. The Mughal empire was breaking. Delhi was weakening. But power was not disappearing.</p>
+<p>It was simply descending into smaller places. Into kingdoms. Into courts. Into laws. Into the walls of caste. Into surveillance over a woman's body.</p>
+<p>This is why it would be wrong to call the eighteenth century merely a decline. It was decline too. It was also rise. It was also chaos. It was also creation. It was also fragmentation. And it was also the birth of many layers of a new India.</p>
+<p>In 1707, Aurangzeb died. After this, the sky over Delhi changed.</p>
+<p>The Mughal empire, which had held its dominance over a large part of the subcontinent for a century and a half, suddenly began loosening from within. The throne survived, but its light kept dimming. The crown survived, but its weight now lay in someone else's hand.</p>
+<p>Between 1707 and 1720, 5 Mughal emperors sat upon the Peacock Throne. Think of it - in the previous 150 years there had only been 4 major Mughal rulers. And now, 5 emperors in 13 years.</p>
+<p>This was not merely a crisis of succession. This was the exhaustion of an empire that had spread too far. This was the court's crumbling discipline. This was the growing boldness of the nobility.</p>
+<p>Now nobles and grandees were not merely advisors. They could make emperors. They could bring them down. The court was now the theatre of politics, where hands were changing behind the curtain, and, in front, the language of royalty tried to preserve its old dignity.</p>
+<h3>The Age of Muhammad Shah Rangila</h3>
+<p>Then came Muhammad Shah Rangila. His reign lasted from 1719 to 1748. He stabilized the throne for some time, but the empire's foundation was no longer what it once was.</p>
+<p>Delhi was still a city of poetry. There was music. There was painting. Colours flew during Holi. There was the hookah at court. There was soft Persian. There was Sufi thought. But the wind blowing from outside had changed.</p>
+<p>And then came 1739.</p>
+<p>Nadir Shah. That sword that rose from the direction of Persia and told Delhi that it was no longer invincible.</p>
+<p>Nadir Shah first reached Kandahar. Then he captured Kabul. Then he crossed the Indus river.</p>
+<p>The Indus - for centuries, the north-western threshold for entering Hindustan. Crossing it was not merely geography. It was a declaration. Someone was coming from outside, and Delhi could not stop him.</p>
+<p>The Mughal army confronted him at Karnal, north of Delhi. But this was no equal contest.</p>
+<p>Nadir Shah took Muhammad Shah Rangila hostage. Then that calamity broke over Delhi, whose effect the entire subcontinent felt.</p>
+<p>The city was plundered. People were killed. At one point the people of Delhi resisted. Nadir Shah ordered a massacre.</p>
+<p>Corpses lay on the streets. The stench of death descended even to the Yamuna.</p>
+<p>And when Nadir Shah left Delhi, he did not go merely as a conqueror. He also carried away a piece of Delhi's own memory.</p>
+<p>The Peacock Throne. The Kohinoor. Elephants. Horses. Gems. Gold. Millions of rupees.</p>
+<p>Delhi still stood, but its aura had been plundered.</p>
+<p>This news shook India. In Pondicherry, Ananda Ranga Pillai recorded it as an inauspicious, devastating event. His anguish was not only for Delhi. It was grief over the mortality of power itself.</p>
+<p>If this could happen to the emperor of Delhi, on what trust could an ordinary human being live? What use were the power and wealth of kings? Everything was destined to be destroyed.</p>
+<p>This was the tone of the eighteenth century. On one side, court, splendour, gems, and throne. On the other, sudden plunder, dust, and death.</p>
+<p>After Nadir Shah, Delhi was never quite the same again. In the decades that followed, conflict grew between Afghan Durrani and Maratha powers. In 1761 came the Third Battle of Panipat.</p>
+<p>Panipat - the very field where, in 1526, Babur had begun a new power. The very field where, in 1556, the Mughals had saved their future.</p>
+<p>But those fighting in 1761 were not Mughals. On one side stood the Afghan Durrani power. On the other, the Peshwa-led Marathas.</p>
+<p>The Mughals were not the main claimants of that battle. This alone was the greatest sign. The empire's name survived. But history's centre had already shifted.</p>
+<h3>Changing Masters, Changing Power</h3>
+<p>Mir wrote, in the late eighteenth century, with a faint smile - every day the world has a new master. Is power a beggar, going from door to door?</p>
+<p>This line was not merely poetry. It was the history of the age.</p>
+<p>The Mughal state formally survived in name until 1858. Its culture lived on for a long time yet. Its political language remained useful for the British and Indian princes alike. Even in 1857, rising from the rubble, it made one last attempt to become a political symbol.</p>
+<p>But by the mid-18th century, it was clear - India's power was no longer in Delhi's fist. It had scattered in many directions.</p>
+<p>And it is from here that regional ascendance begins.</p>
+<p>Delhi's fall did not bring only darkness. It opened up many smaller skies. Wherever Mughal control weakened, new powers rose.</p>
+<p>The Marathas. Awadh. Bengal. Hyderabad. Jaipur. Marwar. Banaras.</p>
+<p>These were not merely the names of kingdoms. These were new political imaginations. Everywhere, power was finding a new form for itself. In some places Mughal custom was adopted. In some places, local tradition was turned into statecraft. In some places, religion and trade came together. In some places, caste found the language of law.</p>
+<p>Look at the Marathas.</p>
+<p>Those who were once among Aurangzeb's greatest opponents now began to look like the most direct heirs of Mughal state power. There was the memory of Shivaji. There was the struggle of Tarabai, whom the Portuguese called the queen of the Marathas.</p>
+<p>But eventually power slipped from both branches of Shivaji's family. A third force rose within the Maratha banner - the Brahmin Peshwas.</p>
+<p>In 1713, Shahu appointed Balaji Vishwanath as Peshwa. Within decades, Balaji's lineage had taken control of a large part of western India.</p>
+<p>Peshwa Maratha rule had two layers. One layer was influenced by Mughal style. Court, administration, lifestyle - these carried the shadow of the Mughal world. Historian Christopher Bayly wrote that, after 1740, Maratha leaders had settled into the Mughal way of life.</p>
+<p>But the second layer came from their Maharashtrian Brahmin identity. This is where the language of power changes.</p>
+<p>In 1735, the Peshwa-led Maratha state ordered that Brahmin girls be married between the ages of 7 and 10 - before puberty.</p>
+<p>Caste discipline grew. Mahars were barred from entering Pune in the afternoon - out of fear that their long shadow might pollute the higher castes.</p>
+<p>Both administration and violence were used to stop non-Brahmins from reading the Vedas.</p>
+<p>A late eighteenth-century Maratha ruler's wife, Anandibai, said it plainly - Brahmin rule. Brahmin wealth.</p>
+<p>Here we see a strange move of power. Maratha power becomes something like the heir of the Mughal empire, yet, within itself, it keeps hardening the Brahmin social order.</p>
+<h3>The Rise of Regional Powers</h3>
+<p>Politics changes. Social lines grow deeper.</p>
+<p>In the south, Hyderabad was building another world.</p>
+<p>In 1724, Nizam-ul-Mulk established the Asaf Jahi dynasty at Hyderabad, near Golconda. This was the new centre of the Deccan. Here, people of different backgrounds connect with the court. Persian receives patronage. Intellectuals come from Iran and north India.</p>
+<p>Hyderabad becomes a metropolitan centre of eighteenth-century Indo-Persian culture. A city where language, power, and memory take new shape in the soil of the Deccan.</p>
+<p>In the north lies Jaipur.</p>
+<p>In 1727, Sawai Jai Singh settled Jaipur as the new Kachhwaha capital. This city was new, but its imagination clearly bore the imprint of Mughal royal culture.</p>
+<p>A Mughal-style pleasure garden. Walls like Mughal forts. A pink colour, reminiscent of Fatehpur Sikri.</p>
+<p>Jaipur was a Rajput capital, but its urban imagination echoed Mughal aesthetics. This is a major truth of eighteenth-century politics - resistance and imitation were moving side by side.</p>
+<p>Jai Singh built an astronomical park (Jantar Mantar). He employed both Brahmin and Muslim astronomers. He gave patronage to religious institutions. To Hindu temples too, and gave gifts to Catholic priests too.</p>
+<p>This is the time when a king does not run his world through a single religion alone. He keeps many traditions, knowledge-systems, and symbols together for the sake of power.</p>
+<p>But in this same eighteenth century, another birth takes place - that of Banaras.</p>
+<p>Banaras was an old city. Settled for at least 2,000 years. The ghats of the Ganga. Steps. Temples. Rituals. Devotion. Imaginations of death and liberation.</p>
+<p>But the modern Banaras that we know had the foundations of its architecture largely laid in the 1600s. Mughal Rajput officials built there. Royal fashion reached there too.</p>
+<p>Then, at the start and middle of the eighteenth century, new rulers emerge in Banaras. Regionally it became part of Awadh. The Nawabs of Awadh distanced themselves from the Mughals in the 1720s. Locally, a Brahmin Bhumihar family gained control in the 1730s. They became the zamindars of Banaras.</p>
+<p>The Bhumihars, like Jaipur, built their capital around a Mughal-style pleasure garden. See, beneath Banaras's religious aura too lies a deep layer of politics and architecture.</p>
+<p>Between the 1730s and 1770s, upper-caste Hindu rituals flourished rapidly in Banaras. Brahmins organized these rituals. Devotees gave wealth. Pilgrimage was not merely devotion. It was an economy too.</p>
+<p>Some Brahmins consciously promoted Banaras as a pilgrimage site. Scholars like Nagesh Bhatt wrote Sanskrit texts describing Banaras as such a sacred site where donation, feasts, and rituals could be performed - and all of it required the oversight of Brahmin priests.</p>
+<h3>The Relationship Between Purity and Profession</h3>
+<p>Here purity and profession were not separate. Religion and economy were not separate. Liberation and management stood on the very same ghat.</p>
+<p>Banaras's prestige was strengthened by patrons from far and wide. Delhi. Maharashtra. Bengal. Madhya Pradesh.</p>
+<p>Banaras was no longer a local city. It began becoming the centre of a subcontinental religious network.</p>
+<p>The Maratha Peshwas were among its most enthusiastic supporters. So much investment came in that modern historians have called eighteenth-century Banaras almost an outer centre of the Maratha state. Some have called it, on a large scale, a Maratha creation.</p>
+<p>Rani Bhavani of Natore in Bengal built temples in Banaras dedicated to Shiva and Durga and gave them endowments. Ahilyabai Holkar of Indore had the Vishwanath temple rebuilt - near the very place where, a century earlier, the Mughals had destroyed the old temple in political retaliation.</p>
+<p>Banaras was not only a pilgrimage site. It was also a centre of trade.</p>
+<p>Shaiva ascetics exported silk and cotton. They imported everything from Kashmiri shawls to Nepali medicines. Monasteries provided organization within the trading system.</p>
+<p>This image matters a great deal. We often think of the ascetic as one who has renounced the world. But in eighteenth-century Banaras, the ascetic too is within the market. The monastery too is in trade. Religion too is a network. Devotion too is movement.</p>
+<p>Then, in the 1760s-1780s, Banaras's politics changes. The Bhumihars secretly allied with the British. Through this very alliance, the British gained a foothold in the city's administration.</p>
+<p>Forming ties with people of different origins and religions was nothing new in Indian politics. Kings often made such alliances for their own benefit. But British power was different. It was colonial power.</p>
+<p>Indian rulers often allied with the British, but paid the price with their own independence. The same happened in Banaras. By 1781, the British had gathered so much power that Balwant's son Chait Singh was exiled.</p>
+<p>Political control changed suddenly. But culture did not change at once. The British soon began becoming part of Banaras. They gave patronage to Brahmin education. In 1791 they established the Banaras Sanskrit College.</p>
+<p>Here the eighteenth century teaches us a deep lesson - political power can change, but cultural institutions can also absorb the new power within themselves. And the new power too learns to use the old sources of legitimacy.</p>
+<p>Now let us return toward Marwar.</p>
+<p>In the eighteenth century, Hindu and caste identities were being newly crafted in many parts of the subcontinent. It is important to understand that the word 'Hindu' did not have as fixed a meaning at that time as it does today. It was a Perso-Arabic word. In pre-modern India, people used it very rarely in self-reference. Between 1200 and 1800, in Persian texts, this word often carried the meaning of a geographical identity tied to 'Hind', that is, India.</p>
+<h3>The Search for New Social Identity</h3>
+<p>But in the eighteenth century, in some places, this identity began connecting to new social and political lines. Marwar is an important example of this.</p>
+<p>In 1765, Vijay Singh was initiated into the Krishna-centred vegetarian Vallabha sect. At the same time, high-caste merchants became important in the governance of Marwar. These merchants tried to get their caste practices a place in law. Both Jain traditions and upper-caste Hindu norms had an influence here.</p>
+<p>The Rathore state increased the pressure of upper-caste norms upon lower castes. Harsh punishments were set for lower castes for illegally killing animals, while the same offence was viewed differently for upper castes.</p>
+<p>Adopting vegetarian upper-caste norms did not improve the condition of casteless groups. On the contrary, social segregation increased further.</p>
+<p>In 1775, the state forcibly removed leatherworkers, so that greater distance could be created between their homes and Brahmin homes.</p>
+<p>Here, the map of society was truly being redrawn. Caste was not merely an idea. It was a road. It was a home. It was distance. It was shadow. It was law.</p>
+<p>But not all people in eighteenth-century India understood the relationship between caste and religion in the same way. Two examples come from Rajasthan.</p>
+<p>In the 1770s, an internal debate took place among barber and cobbler communities. The question was - if a member of their community adopted Islam, would he still be considered within his own caste?</p>
+<p>This question is very interesting. Because it tells us that caste did not disappear even after conversion. Communities were deciding, in their own way, where the boundary lay.</p>
+<p>This same complexity appears in Ananda Ranga Pillai's diary too. In 1745, an event took place near Pondicherry. Kanakaraya Mudali built a church and held a feast in its honour.</p>
+<p>Brahmins. Vellalas. Komuttis. Chettys. Goldsmiths. Weavers. Oil merchants. Europeans. Christians.</p>
+<p>Everyone was invited. But the arrangement of food was made separately, according to caste and religious sensitivities. Brahmin cooks for Brahmins. Separate places for other castes. The Europeans' food came prepared from Pondicherry.</p>
+<p>This was, at once, an invitation and a distance. A meeting and a separation. Contact and propriety, together.</p>
+<p>Ananda Ranga Pillai criticized this event. He felt that a person of every faith should follow their own rules. Why should a Christian imitate Hindu custom?</p>
+<p>In this diary we see the social tangle of the eighteenth century. People are together, but not equal. There is a feast, but with separate utensils and separate cooks. Religion changes, caste remains. Politics changes, social suspicion remains.</p>
+<p>And at this very time, a new world of language opens up.</p>
+<h3>The Rise of Literature in Vernacular Languages</h3>
+<p>In the eighteenth century, vernacular literature flourished across the subcontinent. Urdu, Sindhi, Punjabi - in these languages, love, devotion, Sufi longing, and local experience found new voices.</p>
+<p>Urdu was called Rekhta at the time. Rekhta - that is, mixed. A blend of Hindavi grammar and Persian vocabulary.</p>
+<p>Scholars do not fully agree on its origins, but one great moment came around 1720. Wali Dakhni's divan (collected poems) was brought from the Deccan to Delhi.</p>
+<p>This event was not merely the journey of a book. It was language returning northward.</p>
+<p>Dakhni - the Hindi-influenced dialect formed in the south, born from north Indians moving south. Now, poetry in that very Deccani colour reaches Delhi, and a wave of Urdu poetry rises in the north.</p>
+<p>Wali said - the path of fresh ideas is never closed. The door of poetry stays open until the end of days.</p>
+<p>This is the creative soul of the eighteenth century. The empire is breaking, but language is saying - the road is not closed.</p>
+<p>Early Urdu poets drew from Persian, and from Hindavi, and from bhakti, and from folk tradition too.</p>
+<p>Sauda said - whatever the language, meaning is made from the excellence of thought. Poetry is not confined to Persian alone.</p>
+<p>This was no small declaration. This was the dignity of a local voice within a Persian-dominated courtly world.</p>
+<p>Some poets made Urdu the language of Krishna devotion. Sawant Singh Nagaridas, in his 'Ishq Chaman', called Krishna the wondrously beautiful form of love.</p>
+<p>On the other hand, Muhammad Afzal's 'Bikat Kahani' brings together local Indian tradition and Persian poetry. A twelve-month tale of separation. The rain, which in tradition gives coolness, becomes fire in the pain of love's separation.</p>
+<p>Friend, the rainy season burns me. My whole body is aflame. Dark clouds have gathered, but my beloved has not come.</p>
+<p>Here even the season is history. Language too is a journey. Love too is cultural union.</p>
+<p>Sufi poetry also flourished in Punjabi and Sindhi. Bulleh Shah. Waris Shah. The love story of Heer and Ranjha. The lover's anguish, which becomes the longing for the divine.</p>
+<p>In Sindh, this union appears even deeper. There, Muslim communities had been present for a thousand years. The eighteenth-century poet Shah Abdul Latif wrote poetry about Hindu yogis. He looks upon them as an ideal. He says he cannot live without their company.</p>
+<p>In his poetry there are yogis. There is fire. There is light. There is the warmth of love. There is renunciation. There is the goddess of Hinglaj. There is Dwarka. There are devotees of Shiva. And the guide is Ali.</p>
+<p>This scene is astonishing. A Sindhi Muslim Sufi poet sees the divine path within the renunciation of Hindu yogis. Shiva, Hinglaj, Dwarka, and Ali - all are within the same poetic world.</p>
+<h3>The Century's Second Face</h3>
+<p>This is the second face of the eighteenth century. On one side, the state is raising the walls of caste higher. On the other, poetry is crossing boundaries. On one side, power is placing watch over a woman's body. On the other, language is making love greater than religion. On one side, leatherworkers are being made to settle far from Brahmin homes. On the other, Shah Abdul Latif is searching for the footprints of yogis.</p>
+<p>This is India. Harsh and fluid at once. Divided and connected at once. Oppressive and creative at once.</p>
+<p>By the mid-eighteenth century, India was divided into dozens of regional kingdoms. By roughly 1750, India did not exist as a unified political entity.</p>
+<p>This is very important to understand. Because often we read history from Delhi. Delhi rose, so India rose. Delhi broke, so India broke.</p>
+<p>But the eighteenth century does not accept this simple story.</p>
+<p>Delhi breaks, but Hyderabad forms. Mughal power declines, but Jaipur is settled. The empire scatters, but Banaras rises in a new form. Courts change, but Urdu is born. Politics grows unstable, but Sindhi and Punjabi Sufi poetry reaches its peak.</p>
+<p>At this time there are networks of trade. Networks of pilgrimage. Networks of language. Networks of patronage.</p>
+<p>From Marwar to Banaras. From the Deccan to Delhi. From Sindh to Dwarka. From Maharashtra to the banks of the Ganga. From Bengal to Kashi.</p>
+<p>India is no longer bound within a single political power, but it is bound in relationships. Bound in routes. Bound in wealth, in language, in religion, in memory, in caste, in the market.</p>
+<p>And within this very fragmentation appear many shadows of the future.</p>
+<p>The British have not yet become rulers everywhere, but their feet are beginning to take hold. In Banaras their alliance is visible. Local rulers think they will use them. But slowly, they themselves begin being used.</p>
+<p>This is the first lesson of colonial power. It first comes as a partner. Then it becomes a mediator. Then a decision-maker. Then the master.</p>
+<p>But our story has not yet fully reached that turn. We are still between 1720 and 1780. Right now, India speaks in many voices.</p>
+<p>One voice comes from Delhi's broken court. One from the ghats of Banaras. One from Brahmin rule in Pune. One from Marwar's penal code. One from Hyderabad's Persian gathering. One from Jaipur's astronomical instruments. One from a midwife's herbs. One from a woman's silence. One from a poet's tongue. One from a Sufi's call.</p>
+<p>The eighteenth century tells us that history never arrives through a single door. It descends within through many windows.</p>
+<p>Sometimes in the name of power. Sometimes in the name of purity. Sometimes in the name of trade. Sometimes in the name of caste. Sometimes in the name of love. Sometimes in the name of language.</p>
+<h3>A Crumbling Empire, a New Beginning</h3>
+<p>The Mughal empire crumbled. This is true.</p>
+<p>But within that very crumbling, regional powers rose. This too is true.</p>
+<p>The state began tightening its grip on society. This too is true.</p>
+<p>Languages began crossing boundaries. This too is true.</p>
+<p>Banaras became a sacred city. But it was also an economic and political construction.</p>
+<p>Maratha power grew. But within it, the harshness of Brahmin power grew too.</p>
+<p>Hyderabad became a new cultural centre. Jaipur, adopting Mughal aesthetics, became a Rajput capital. Marwar turned upper-caste norms into law. Urdu joined the Deccan and Delhi together. Sindhi Sufi poetry found the divine path within yogis.</p>
+<p>This is the India of the eighteenth century. Neither total collapse. Nor total rebirth. Not only chaos. Not only ascendance.</p>
+<p>This is the time when the old roof is falling, and people, in their own courtyards, are laying new roofs. Somewhere the bricks are red. Somewhere marble. Somewhere clay. Somewhere words. Somewhere rules. Somewhere songs.</p>
+<p>Delhi's shattered light has now been distributed among many cities. The Peacock Throne has been plundered. But poetry could not yet be plundered. The Kohinoor is gone. But new gems shine in language. The emperor is weak. But Banaras, Hyderabad, Jaipur, Pune, and Marwar are shaping their own respective times.</p>
+<p>And perhaps history's greatest irony is exactly this - when an empire dies, what follows is not merely emptiness. Within its ashes, many small fires burn.</p>
+<p>Some fires give light. Some fires burn.</p>
+<p>The India of the eighteenth century carries both together.</p>
+<p>This is India's story. And this story is now taking us toward the turning point where, amid regional ascendance, a new power is slowly building its own place. Its name is - British power.</p>
+<p>After Delhi, our gaze must now rest not only on kings. It must rest on companies too. On trade too. On alliances too. On debt too. On armies too. And on those small agreements too, from which, sometimes, the direction of an entire country changes.</p>
+<p>The story has not ended yet. In fact, in the eighteenth century, it has grown even more complicated. And ahead, this very complexity will carry India's history toward a new darkness, and a new struggle.</p>
+    </div>
+    <div class="chapter-text lang-block lb-block" data-lang="hi">
+<h3>राजमहलों से बाहर की आवाज़ें</h3>
+<p>## भारत की कहानी - एपिसोड 16 ## क्षेत्रीय उत्कर्ष - 1720 से 1780</p>
+<p>इतिहास की कुछ आवाज़ें राजमहलों से नहीं आतीं। वे अभिलेखागार की धूल में दबे एक छोटे-से आदेश से आती हैं। किसी अधिकारी की कठोर भाषा से। किसी दाई के थैले में रखी जड़ी-बूटियों से। किसी स्त्री के शरीर पर राज्य की नज़र से।</p>
+<p>साल 1776। मारवाड़ का राठोर राज्य। थार रेगिस्तान के किनारे बसा पश्चिमी भारत।</p>
+<p>नागौर के अधिकारियों को आदेश भेजा गया - शहर में बहुत व्यभिचार है। गर्भपात आम है। इस पर ख़ास नज़र रखो।</p>
+<p>इस एक वाक्य में अठारहवीं सदी का एक पूरा संसार छिपा है। यह सिर्फ़ नैतिकता की चिंता नहीं है। यह राज्य की आंख है, जो अब घरों के भीतर झांक रही है। यह सत्ता की उंगली है, जो स्त्री के शरीर, जाति की सीमा और समाज की मर्यादा पर एक साथ रखी जा रही है।</p>
+<p>मारवाड़ में गर्भपात ग़ैरक़ानूनी था। फिर भी दाइयां थीं। मंदिरों में रहने वाले जैन यति थे। वे जड़ी-बूटियां देते थे। कभी व्यभिचार से हुई गर्भावस्था के लिए। कभी अंतर्जातीय संबंधों से जन्मी सामाजिक बेचैनी के लिए। कभी बलात्कार से पैदा हुई अनचाही गर्भावस्था के लिए।</p>
+<p>हम तक ये कहानियां इसलिए पहुंचीं, क्योंकि राज्य ने इन मामलों की जांच की। कभी जुर्माना लगाया। कभी निर्वासन दिया।</p>
+<p>यहीं से हमें अठारहवीं सदी का पहला संकेत मिलता है। मुग़ल साम्राज्य टूट रहा था। दिल्ली कमज़ोर हो रही थी। लेकिन सत्ता गायब नहीं हो रही थी।</p>
+<p>वह बस छोटी-छोटी जगहों में उतर रही थी। राज्यों में। दरबारों में। क़ानूनों में। जाति की दीवारों में। स्त्री के शरीर पर निगरानी में।</p>
+<p>इसलिए अठारहवीं सदी को सिर्फ़ पतन कह देना ग़लत होगा। यह पतन भी था। उत्थान भी था। अराजकता भी थी। रचना भी थी। विखंडन भी था। और नए भारत की कई परतों का जन्म भी।</p>
+<p>1707 में औरंगज़ेब की मृत्यु हुई। इसके बाद दिल्ली का आसमान बदल गया।</p>
+<p>मुग़ल साम्राज्य, जिसने डेढ़ सौ साल तक उपमहाद्वीप के बड़े हिस्से पर अपना दबदबा बनाए रखा था, अचानक भीतर से ढीला पड़ने लगा। सिंहासन बचा रहा, लेकिन उसकी रोशनी कम होती गई। मुकुट बचा रहा, लेकिन उसका वज़न अब किसी और के हाथ में था।</p>
+<p>1707 से 1720 के बीच 5 मुग़ल बादशाह मयूर सिंहासन पर बैठे। सोचिए - पिछले 150 साल में केवल 4 बड़े मुग़ल शासक हुए थे। और अब 13 साल में 5 बादशाह।</p>
+<p>यह सिर्फ़ उत्तराधिकार का संकट नहीं था। यह उस साम्राज्य की थकान थी, जो बहुत फैल चुका था। यह दरबार का टूटता अनुशासन था। यह रईसों का बढ़ता साहस था।</p>
+<p>अब अमीर और उमरा सिर्फ़ सलाहकार नहीं थे। वे बादशाह बना सकते थे। उन्हें गिरा सकते थे। दरबार अब राजनीति का रंगमंच था, जहां पर्दे के पीछे हाथ बदल रहे थे और सामने राजसी भाषा अपनी पुरानी गरिमा बचाने की कोशिश कर रही थी।</p>
+<h3>मुहम्मद शाह रंगीला का दौर</h3>
+<p>फिर मुहम्मद शाह रंगीला आया। 1719 से 1748 तक उसका शासन चला। उसने सिंहासन को कुछ समय के लिए स्थिर किया, लेकिन साम्राज्य की नींव अब पहले जैसी नहीं रही।</p>
+<p>दिल्ली अब भी कविता का शहर थी। संगीत था। चित्रकला थी। होली में रंग उड़ते थे। दरबार में हुक्का था। मुलायम फ़ारसी थी। सूफ़ी विचार था। मगर बाहर से आती हवा बदल चुकी थी।</p>
+<p>और फिर 1739 आया।</p>
+<p>नादिर शाह। फ़ारस की तरफ़ से उठी वह तलवार, जिसने दिल्ली को बता दिया कि अब वह अजेय नहीं रही।</p>
+<p>नादिर शाह पहले क़ंदहार पहुंचा। फिर काबुल पर क़ब्ज़ा किया। फिर सिंधु नदी पार की।</p>
+<p>सिंधु - सदियों से हिंदुस्तान में दाख़िल होने की उत्तर-पश्चिमी देहरी। जिसे पार करना सिर्फ़ भूगोल नहीं था। यह एक घोषणा थी। कोई बाहर से आ रहा है, और दिल्ली उसे रोक नहीं पा रही।</p>
+<p>करनाल में मुग़ल सेना ने उसका सामना किया। दिल्ली के उत्तर में। लेकिन यह मुक़ाबला बराबरी का नहीं था।</p>
+<p>नादिर शाह ने मुहम्मद शाह रंगीला को बंधक बना लिया। फिर दिल्ली पर वह घटा टूटी, जिसका असर पूरे उपमहाद्वीप ने महसूस किया।</p>
+<p>शहर लूटा गया। लोग मारे गए। एक समय दिल्ली के लोगों ने प्रतिरोध किया। नादिर शाह ने नरसंहार का आदेश दिया।</p>
+<p>सड़कों पर लाशें थीं। यमुना तक में मौत की गंध उतर गई।</p>
+<p>और जब नादिर शाह दिल्ली से निकला, तो वह सिर्फ़ एक विजेता की तरह नहीं गया। वह दिल्ली की स्मृति का एक हिस्सा भी उठा ले गया।</p>
+<p>मयूर सिंहासन। कोहिनूर। हाथी। घोड़े। रत्न। सोना। लाखों रुपए।</p>
+<p>दिल्ली अब भी खड़ी थी, लेकिन उसकी आभा लूटी जा चुकी थी।</p>
+<p>इस ख़बर ने भारत को हिला दिया। पांडिचेरी में आनंद रंगा पिल्लै ने इसे एक अशुभ, विनाशकारी घटना की तरह दर्ज किया। उनकी पीड़ा सिर्फ़ दिल्ली के लिए नहीं थी। वह सत्ता की नश्वरता पर शोक था।</p>
+<p>अगर दिल्ली के सम्राट के साथ यह हो सकता है, तो साधारण मनुष्य किस भरोसे जीए? राजाओं की शक्ति और धन किस काम के? सब नष्ट हो जाने वाला है।</p>
+<p>यह अठारहवीं सदी का स्वर था। एक तरफ़ दरबार, वैभव, रत्न और सिंहासन। दूसरी तरफ़ अचानक आती लूट, धूल और मृत्यु।</p>
+<p>नादिर शाह के बाद दिल्ली फिर कभी वही नहीं रही। बाद के दशकों में अफ़ग़ानी दुर्रानी और मराठा शक्तियों के बीच संघर्ष बढ़ा। 1761 में पानीपत की तीसरी लड़ाई हुई।</p>
+<p>पानीपत - वही मैदान जहां 1526 में बाबर ने नई सत्ता की शुरुआत की थी। वही मैदान जहां 1556 में मुग़लों ने अपना भविष्य बचाया था।</p>
+<p>लेकिन 1761 में जो लड़ रहे थे, वे मुग़ल नहीं थे। एक तरफ़ अफ़ग़ान दुर्रानी शक्ति थी। दूसरी तरफ़ पेशवा-नेतृत्व वाले मराठा।</p>
+<p>मुग़ल उस लड़ाई के मुख्य दावेदार नहीं थे। यही सबसे बड़ा संकेत था। साम्राज्य का नाम बचा था। मगर इतिहास का केंद्र बदल चुका था।</p>
+<h3>बदलते मालिक, बदलती सत्ता</h3>
+<p>मीर ने देर अठारहवीं सदी में एक हल्की मुस्कान के साथ लिखा - हर रोज़ दुनिया का एक नया मालिक है। क्या शक्ति एक भिखारी है, दर-दर जाती है?</p>
+<p>यह पंक्ति सिर्फ़ कविता नहीं थी। यह समय का इतिहास था।</p>
+<p>मुग़ल राज्य औपचारिक रूप से 1858 तक नाम में बना रहा। उसकी संस्कृति बहुत देर तक जीवित रही। उसकी राजनीतिक भाषा ब्रिटिशों और भारतीय राजकुमारों के लिए काम आती रही। 1857 में भी मलबे से उठकर उसने एक आख़िरी बार राजनीतिक प्रतीक बनने की कोशिश की।</p>
+<p>मगर 18वीं सदी के मध्य तक यह साफ़ हो चुका था - भारत की सत्ता अब दिल्ली की मुट्ठी में नहीं रही। वह कई दिशाओं में बंट चुकी थी।</p>
+<p>और यहीं से शुरू होता है क्षेत्रीय उत्कर्ष।</p>
+<p>दिल्ली का पतन सिर्फ़ अंधेरा नहीं लाया। उसने कई छोटे आसमान खोल दिये। जहां-जहां मुग़ल नियंत्रण कमज़ोर हुआ, वहां-वहां नई शक्तियां उठीं।</p>
+<p>मराठा। अवध। बंगाल। हैदराबाद। जयपुर। मारवाड़। बनारस।</p>
+<p>ये सिर्फ़ राज्यों के नाम नहीं थे। ये नई राजनीतिक कल्पनाएं थीं। हर जगह सत्ता अपने लिए नया रूप खोज रही थी। कहीं मुग़ल रीति अपनाई जा रही थी। कहीं स्थानीय परंपरा को राजकाज में बदला जा रहा था। कहीं धर्म और व्यापार एक साथ आ रहे थे। कहीं जाति को क़ानून की भाषा मिल रही थी।</p>
+<p>मराठाओं को देखिए।</p>
+<p>जो कभी औरंगज़ेब के सबसे बड़े विरोधियों में थे, वही अब मुग़ल राज्य शक्ति के सबसे सीधे उत्तराधिकारी जैसे दिखाई देने लगे। शिवाजी की स्मृति थी। ताराबाई का संघर्ष था, जिन्हें पुर्तगालियों ने मराठाओं की रानी कहा।</p>
+<p>लेकिन अंततः शिवाजी के परिवार की दोनों शाखाओं से शक्ति फिसली। एक तीसरी ताक़त मराठा बैनर के भीतर उठी - ब्राह्मण पेशवा।</p>
+<p>1713 में शाहू ने बालाजी विश्वनाथ को पेशवा नियुक्त किया। दशकों के भीतर बालाजी के वंश ने पश्चिमी भारत के बड़े हिस्से पर नियंत्रण बना लिया।</p>
+<p>पेशवा मराठा शासन में दो परतें थीं। एक परत मुग़ल शैली से प्रभावित थी। दरबार, प्रशासन, जीवन-शैली - इनमें मुग़ल संसार की छाया थी। इतिहासकार क्रिस्टोफर बेली ने लिखा कि 1740 के बाद मराठा नेता मुग़ल जीवन-शैली में ढल चुके थे।</p>
+<p>लेकिन दूसरी परत उनकी महाराष्ट्रीय ब्राह्मण पहचान से आई थी। यहीं सत्ता की भाषा बदलती है।</p>
+<p>1735 में पेशवा-नेतृत्व वाले मराठा राज्य ने आदेश दिया कि ब्राह्मण लड़कियों का विवाह 7 से 10 साल की उम्र के बीच हो - यौवन से पहले।</p>
+<p>जाति का अनुशासन बढ़ा। महारों को दोपहर में पुणे में प्रवेश से रोका गया - इस डर से कि उनकी लंबी परछाईं ऊंची जातियों को अपवित्र न कर दे।</p>
+<p>ग़ैर-ब्राह्मणों को वेद पढ़ने से रोकने के लिए प्रशासन और हिंसा दोनों का सहारा लिया गया।</p>
+<p>देर अठारहवीं सदी की एक मराठा शासक-पत्नी आनंदीबाई ने इसे साफ़ भाषा में कहा - ब्राह्मण शासन। ब्राहमणी दौलत।</p>
+<p>यहां हम सत्ता की एक विचित्र चाल देखते हैं। मराठा शक्ति मुग़ल साम्राज्य की उत्तराधिकारी जैसी बनती है, मगर अपने भीतर ब्राह्मण सामाजिक व्यवस्था को कठोर करती चलती है।</p>
+<h3>क्षेत्रीय सत्ताओं का उभार</h3>
+<p>राजनीति बदलती है। सामाजिक रेखाएं और गहरी होती हैं।</p>
+<p>दक्षिण में, हैदराबाद एक दूसरा संसार बना रहा था।</p>
+<p>1724 में निज़ाम-उल-मुल्क ने गोलकुंडा के पास हैदराबाद में आसफ़ जाही वंश की स्थापना की। यह दक्कन का नया केंद्र था। यहां अलग-अलग पृष्ठभूमियों के लोग दरबार से जुड़ते हैं। फ़ारसी को संरक्षण मिलता है। ईरान और उत्तर भारत से बुद्धिजीवी आते हैं।</p>
+<p>हैदराबाद अठारहवीं सदी की इंडो-फ़ारसी संस्कृति का महानगरीय केंद्र बनता है। एक ऐसा शहर जहां भाषा, सत्ता और स्मृति दक्कन की मिट्टी में नया आकार लेती हैं।</p>
+<p>उत्तर में जयपुर है।</p>
+<p>1727 में सवाई जय सिंह ने जयपुर को नई कछवाहा राजधानी के रूप में बसाया। यह शहर नया था, मगर उसकी कल्पना में मुग़ल शाही संस्कृति की छाप साफ़ थी।</p>
+<p>मुग़ल शैली का विहार-बाग। मुग़ल क़िलों जैसी दीवारें। गुलाबी रंग, जो फ़तेहपुर सीकरी की याद दिलाता है।</p>
+<p>जयपुर एक राजपूत राजधानी थी, लेकिन उसकी शहरी कल्पना में मुग़ल सौंदर्य की प्रतिध्वनि थी। यह अठारहवीं सदी की राजनीति का एक बड़ा सच है - विरोध और अनुकरण साथ-साथ चल रहे थे।</p>
+<p>जय सिंह ने ज्योतिषीय पार्क बनवाया। ब्राह्मण और मुस्लिम दोनों ज्योतिषियों को रखा। धार्मिक संस्थाओं को संरक्षण दिया। हिंदू मंदिरों को भी, और कैथोलिक पादरियों को भी उपहार दिये।</p>
+<p>यह वह समय है जब राजा अपनी दुनिया को सिर्फ़ एक धर्म से नहीं चलाते। वे सत्ता के लिए अनेक परंपराओं, ज्ञान-प्रणालियों और प्रतीकों को साथ रखते हैं।</p>
+<p>लेकिन इसी अठारहवीं सदी में बनारस का एक और जन्म होता है।</p>
+<p>बनारस पुराना शहर था। कम से कम 2,000 साल से बसा हुआ। गंगा के घाट। सीढ़ियां। मंदिर। अनुष्ठान। भक्ति। मृत्यु और मुक्ति की कल्पनाएं।</p>
+<p>लेकिन जिस आधुनिक बनारस को हम जानते हैं, उसकी वास्तुकला की नींव काफ़ी हद तक 1600 के दशक में रखी गई। मुग़ल राजपूत अधिकारियों ने वहां निर्माण कराया। शाही फ़ैशन का असर वहां भी पहुंचा।</p>
+<p>फिर अठारहवीं सदी की शुरुआत और मध्य में बनारस में नए शासक उभरे। क्षेत्रीय रूप से यह अवध का हिस्सा बना। अवध के नवाबों ने 1720 के दशक में मुग़लों से दूरी बनाई। स्थानीय स्तर पर एक ब्राह्मण भूमिहार परिवार ने 1730 के दशक में नियंत्रण हासिल किया। वे बनारस के ज़मींदार बने।</p>
+<p>भूमिहारों ने जयपुर की तरह मुग़ल-शैली के आनंद-बाग के आसपास अपनी राजधानी बनाई। देखिए, बनारस की धार्मिक आभा के नीचे भी राजनीति और वास्तुकला की गहरी परत है।</p>
+<p>1730 से 1770 के दशक के बीच बनारस में उच्च-जाति हिंदू अनुष्ठान तेज़ी से फले। ब्राह्मणों ने इन अनुष्ठानों को संगठित किया। भक्तों ने धन दिया। तीर्थ सिर्फ़ श्रद्धा नहीं था। वह अर्थव्यवस्था भी था।</p>
+<p>कुछ ब्राह्मणों ने बनारस को सचेत रूप से तीर्थस्थल की तरह प्रचारित किया। नागेश भट्ट जैसे विद्वानों ने संस्कृत पाठ लिखे, जिनमें बनारस को ऐसा पवित्र स्थल बताया गया जहां दान, भोज और अनुष्ठान किये जा सकते थे - और इन सबके लिए ब्राह्मण पुरोहितों की निगरानी ज़रूरी थी।</p>
+<h3>पवित्रता और पेशे का रिश्ता</h3>
+<p>यहां पवित्रता और पेशा अलग नहीं थे। धर्म और अर्थ अलग नहीं थे। मुक्ति और प्रबंधन एक ही घाट पर खड़े थे।</p>
+<p>बनारस की प्रतिष्ठा को दूर-दूर के संरक्षकों ने मज़बूत किया। दिल्ली। महाराष्ट्र। बंगाल। मध्य प्रदेश।</p>
+<p>बनारस एक स्थानीय शहर नहीं रहा। वह उपमहाद्वीपीय धार्मिक नेटवर्क का केंद्र बनने लगा।</p>
+<p>मराठा पेशवा इसके सबसे उत्साही समर्थकों में थे। इतना निवेश हुआ कि आधुनिक इतिहासकारों ने अठारहवीं सदी के बनारस को लगभग मराठा राज्य का बाहरी केंद्र कहा। कुछ ने उसे बड़े पैमाने पर मराठाओं की रचना बताया।</p>
+<p>बंगाल की नातोर की रानी भवानी ने बनारस में शिव और दुर्गा को समर्पित मंदिर बनवाए और उन्हें अनुदान दिये। इंदौर की अहिल्याबाई होल्कर ने विश्वनाथ मंदिर का पुनर्निर्माण कराया - उस जगह के पास, जहां एक सदी पहले राजनीतिक प्रतिशोध में मुग़लों ने पुराने मंदिर को नष्ट किया था।</p>
+<p>बनारस सिर्फ़ तीर्थ नहीं था। वह व्यापार का केंद्र भी था।</p>
+<p>शैव तपस्वी रेशम और कपास का निर्यात करते थे। कश्मीरी शालों से लेकर नेपाली दवाओं तक का आयात करते थे। मठ व्यापारिक व्यवस्था में संगठन देते थे।</p>
+<p>यह छवि बहुत महत्त्वपूर्ण है। हम साधु को अक्सर संसार छोड़ने वाला मानते हैं। लेकिन अठारहवीं सदी के बनारस में तपस्वी भी बाज़ार के भीतर हैं। मठ भी व्यापार में है। धर्म भी नेटवर्क है। श्रद्धा भी आवाजाही है।</p>
+<p>फिर 1760 से 1780 के दशक में बनारस की राजनीति बदलती है। भूमिहारों ने गुप्त रूप से ब्रिटिशों से गठजोड़ किया। ब्रिटिशों ने इसी गठजोड़ से शहर के प्रशासन में पैर जमाया।</p>
+<p>भारतीय राजनीति में अलग-अलग उत्पत्ति और धर्म के लोगों से संबंध बनाना कोई नई बात नहीं थी। राजा अक्सर अपने लाभ के लिए ऐसे गठजोड़ करते थे। लेकिन ब्रिटिश शक्ति अलग थी। यह उपनिवेशी शक्ति थी।</p>
+<p>भारतीय शासकों ने कई बार ब्रिटिशों के साथ गठजोड़ किया, लेकिन उसकी क़ीमत अपनी स्वतंत्रता से चुकाई। बनारस में भी यही हुआ। 1781 तक ब्रिटिशों ने इतनी शक्ति जमा कर ली कि बलवंत के बेटे चेतन सिंह को निर्वासित कर दिया गया।</p>
+<p>राजनीतिक नियंत्रण अचानक बदला। लेकिन संस्कृति तुरंत नहीं बदली। ब्रिटिश जल्द ही बनारस का हिस्सा बनने लगे। उन्होंने ब्राह्मण शिक्षा को संरक्षण दिया। 1791 में बनारस संस्कृत कॉलेज की स्थापना की।</p>
+<p>यहां अठारहवीं सदी हमें एक गहरी बात सिखाती है - राजनीतिक सत्ता बदल सकती है, मगर सांस्कृतिक संस्थाएं नई सत्ता को अपने भीतर समा भी सकती हैं। और नई सत्ता भी पुराने वैधता-स्रोतों का इस्तेमाल सीख लेती है।</p>
+<p>अब लौटते हैं मारवाड़ की ओर।</p>
+<p>अठारहवीं सदी में हिंदू और जाति-पहचानें उपमहाद्वीप के कई हिस्सों में नये ढंग से गढ़ी जा रही थीं। यह बात समझना ज़रूरी है कि 'हिंदू' शब्द का अर्थ उस समय आज जैसा स्थिर नहीं था। यह फ़ारसी-अरबी शब्द था। प्राक्-आधुनिक भारत में लोग इसे बहुत कम आत्म-संदर्भ में इस्तेमाल करते थे। 1200 से 1800 के बीच फ़ारसी ग्रंथों में यह शब्द अक्सर हिंद, यानी भारत से जुड़ी भौगोलिक पहचान के अर्थ में आता था।</p>
+<h3>नयी सामाजिक पहचान की तलाश</h3>
+<p>लेकिन अठारहवीं सदी में कुछ जगहों पर यह पहचान नई सामाजिक और राजनीतिक रेखाओं से जुड़ने लगी। मारवाड़ इसका अहम उदाहरण है।</p>
+<p>1765 में विजय सिंह ने कृष्ण-केंद्रित शाकाहारी वल्लभ संप्रदाय में दीक्षा ली। उसी समय उच्च-जाति व्यापारी मारवाड़ के राज्यकाज में अहम होते गए। इन व्यापारियों ने अपनी जाति-प्रथाओं को क़ानून में जगह दिलाने की कोशिश की। इनमें जैन परंपराओं और उच्च-जाति हिंदू मानदंडों दोनों का असर था।</p>
+<p>राठोर राज्य ने निचली जातियों पर उच्च-जाति मानदंडों का दबाव बढ़ाया। जानवरों को ग़ैरक़ानूनी तरीक़े से मारने पर निचली जातियों के लिए कठोर दंड तय किये गए, जबकि वही अपराध उच्च जातियों पर अलग ढंग से देखा जाता था।</p>
+<p>शाकाहारी उच्च-जाति मानदंडों को अपनाने से जाति-रहित समूहों की स्थिति बेहतर नहीं हुई। उलटे सामाजिक अलगाव और बढ़ा।</p>
+<p>1775 में राज्य ने चर्मकारों को ज़बरन हटाया, ताकि उनके घरों और ब्राह्मण घरों के बीच ज़्यादा दूरी बनाई जा सके।</p>
+<p>यहां समाज का नक़्शा सचमुच बदला जा रहा था। जाति सिर्फ़ विचार नहीं थी। वह सड़क थी। घर था। दूरी थी। परछाईं थी। क़ानून था।</p>
+<p>लेकिन अठारहवीं सदी के भारत में सभी लोग जाति और धर्म के संबंध को एक ही तरह नहीं समझते थे। राजस्थान से दो उदाहरण आते हैं।</p>
+<p>1770 के दशक में नाई और मोची समुदायों में अंदरूनी बहस हुई। सवाल यह था कि यदि उनके समुदाय का कोई सदस्य इस्लाम अपना ले, तो क्या वह अब भी अपनी जाति के भीतर माना जाएगा?</p>
+<p>यह सवाल बहुत दिलचस्प है। क्योंकि इससे पता चलता है कि धर्मांतरण के बाद भी जाति गायब नहीं हो जाती थी। समुदाय अपने ढंग से तय कर रहे थे कि सीमा कहां है।</p>
+<p>यही जटिलता आनंद रंगा पिल्लै की डायरी में भी दिखती है। 1745 में पांडिचेरी के पास एक आयोजन हुआ। कनकराय मुदलि ने एक चर्च बनवाया और उसके सम्मान में भोज दिया।</p>
+<p>ब्राह्मण। वेल्लाझा। कोमुट्टी। चेट्टी। सुनार। बुनकर। तेल-व्यापारी। यूरोपीय। ईसाई।</p>
+<p>सबको बुलाया गया। लेकिन भोजन की व्यवस्था जाति और धर्म के संदेहों के हिसाब से अलग-अलग की गई। ब्राह्मणों के लिए ब्राह्मण रसोइए। दूसरी जातियों के लिए अलग स्थान। यूरोपियों का भोजन पांडिचेरी में तैयार होकर आया।</p>
+<p>यह एक साथ आमंत्रण भी था और दूरी भी। मिलना भी था और अलग रहना भी। संपर्क भी था और मर्यादा भी।</p>
+<p>आनंद रंगा पिल्लै ने इस आयोजन की आलोचना की। उन्हें लगा कि हर मत के व्यक्ति को अपने नियमों का पालन करना चाहिए। एक ईसाई को हिंदू प्रथा का अनुकरण क्यों करना चाहिए?</p>
+<p>इस डायरी में हम अठारहवीं सदी की सामाजिक उलझन देखते हैं। लोग साथ हैं, मगर बराबर नहीं। भोज है, मगर अलग-अलग बर्तनों और अलग-अलग रसोइयों के साथ। धर्म बदलता है, जाति बनी रहती है। राजनीति बदलती है, सामाजिक शंका बनी रहती है।</p>
+<p>और इसी समय भाषा का एक नया संसार खुलता है।</p>
+<h3>देशी भाषाओं में साहित्य का उभार</h3>
+<p>अठारहवीं सदी में उपमहाद्वीप भर में देशी साहित्य फला-फूला। उर्दू, सिंधी, पंजाबी - इन भाषाओं में प्रेम, भक्ति, सूफ़ी लालसा और स्थानीय अनुभव नई आवाज़ें पा रहे थे।</p>
+<p>उर्दू को उस समय रेख़्ता कहा जाता था। रेख़्ता - यानी मिश्रित। हिंदवी व्याकरण और फ़ारसी शब्दावली का मेल।</p>
+<p>विद्वान इसकी उत्पत्ति पर पूरी तरह सहमत नहीं हैं, लेकिन एक बड़ा क्षण लगभग 1720 के आसपास आया। वली दखनी का दीवान दक्कन से दिल्ली लाया गया।</p>
+<p>यह घटना सिर्फ़ एक किताब का सफ़र नहीं थी। यह भाषा का उत्तर की तरफ़ लौटना था।</p>
+<p>दखनी - दक्षिण में बनी वह हिंदी-प्रभावित बोली, जो उत्तर भारतीयों के दक्षिण में जाने से जन्मी थी। अब उसी दक्कनी रंग की कविता दिल्ली पहुंचती है और उत्तर में उर्दू कविता की लहर उठती है।</p>
+<p>वली ने कहा - ताज़े ख़यालों का रास्ता कभी बंद नहीं होता। शायरी का दरवाज़ा दिनों के अंत तक खुला रहता है।</p>
+<p>यह अठारहवीं सदी की रचनात्मक आत्मा है। साम्राज्य टूट रहा है, मगर भाषा कह रही है - रास्ता बंद नहीं है।</p>
+<p>शुरुआती उर्दू कवियों ने फ़ारसी से भी लिया, हिंदवी से भी, भक्ति से भी, लोक परंपरा से भी।</p>
+<p>सौदा ने कहा - ज़ुबान कोई भी हो, मायने ख़याल की उत्कृष्टता से बनते हैं। शायरी सिर्फ़ फ़ारसी तक सीमित नहीं।</p>
+<p>यह घोषणा छोटी नहीं थी। यह फ़ारसी प्रभुत्व वाले दरबारी संसार में स्थानीय आवाज़ की प्रतिष्ठा थी।</p>
+<p>कुछ कवियों ने उर्दू को कृष्ण भक्ति की भाषा बनाया। सवंत सिंह नागरीदास ने अपने 'इश्क़ चमन' में कृष्ण को प्रेम के अद्भुत सुंदर रूप में पुकारा।</p>
+<p>दूसरी तरफ़ मुहम्मद अफ़ज़ल की 'बिकट कहानी' लोक भारतीय परंपरा और फ़ारसी कविता को साथ लाती है। बारह महीनों की विरह-कथा। बारिश, जो परंपरा में ठंडक देती है, प्रेम-विरह में आग बन जाती है।</p>
+<p>मित्र, बरसात का मौसम मुझे जलाता है। मेरा पूरा बदन आग में है। काले बादल छा गए हैं, मगर मेरा महबूब नहीं आया।</p>
+<p>यहां मौसम भी इतिहास है। भाषा भी यात्रा है। प्रेम भी सांस्कृतिक मिलन है।</p>
+<p>सूफ़ी कविता पंजाबी और सिंधी में भी फली। बुल्हे शाह। वारिस शाह। हीर और रांझा की प्रेम-कथा। प्रेमी की तड़प, जो दिव्य की लालसा बन जाती है।</p>
+<p>सिंध में यह मिलन और गहरा दिखाई देता है। वहां मुस्लिम समुदाय एक हज़ार साल से मौजूद थे। अठारहवीं सदी के कवि शाह अब्दुल लतीफ़ ने हिंदू योगियों पर कविता लिखी। वह उन्हें आदर्श की तरह देखते हैं। उनकी संगत के बिना जी नहीं सकते।</p>
+<p>उनकी कविता में योगी हैं। आग है। रोशनी है। प्रेम की गर्मी है। वैराग्य है। हिंगलाज की देवी है। द्वारका है। शिव के भक्त हैं। और मार्गदर्शक अली हैं।</p>
+<p>यह दृश्य अद्भुत है। एक सिंधी मुस्लिम सूफ़ी कवि, हिंदू योगियों के वैराग्य में दिव्य मार्ग देखता है। शिव, हिंगलाज, द्वारका और अली - सब एक ही काव्यिक संसार में हैं।</p>
+<h3>सदी का दूसरा चेहरा</h3>
+<p>यह अठारहवीं सदी का दूसरा चेहरा है। एक तरफ़ राज्य जाति की दीवारें ऊंची कर रहा है। दूसरी तरफ़ कविता सीमाएं पार कर रही है। एक तरफ़ सत्ता स्त्री के शरीर पर पहरा लगा रही है। दूसरी तरफ़ भाषा प्रेम को धर्म से बड़ा बना रही है। एक तरफ़ चर्मकारों को ब्राह्मण घरों से दूर बसाया जा रहा है। दूसरी तरफ़ शाह अब्दुल लतीफ़ योगियों के क़दमों के निशान ढूंढ रहे हैं।</p>
+<p>यही भारत है। एक साथ कठोर और तरल। एक साथ विभाजित और जुड़ा हुआ। एक साथ दमनकारी और रचनात्मक।</p>
+<p>अठारहवीं सदी के मध्य तक भारत दर्जनों क्षेत्रीय राज्यों में बंट चुका था। लगभग 1750 तक भारत एकीकृत राजनीतिक इकाई के रूप में मौजूद नहीं था।</p>
+<p>यह समझना बहुत ज़रूरी है। क्योंकि अक्सर हम इतिहास को दिल्ली से पढ़ते हैं। दिल्ली उठी, तो भारत उठा। दिल्ली टूटी, तो भारत टूटा।</p>
+<p>लेकिन अठारहवीं सदी यह सरल कहानी नहीं मानती।</p>
+<p>दिल्ली टूटती है, लेकिन हैदराबाद बनता है। मुग़ल सत्ता घटती है, लेकिन जयपुर बसता है। साम्राज्य बिखरता है, मगर बनारस नए रूप में उठता है। दरबार बदलते हैं, मगर उर्दू जन्म लेती है। राजनीति अस्थिर होती है, मगर सिंधी और पंजाबी सूफ़ी कविता अपने शिखर पर पहुंचती है।</p>
+<p>इस समय व्यापार के नेटवर्क हैं। तीर्थ के नेटवर्क हैं। भाषा के नेटवर्क हैं। संरक्षण के नेटवर्क हैं।</p>
+<p>मारवाड़ से बनारस तक। दक्कन से दिल्ली तक। सिंध से द्वारका तक। महाराष्ट्र से गंगा घाट तक। बंगाल से काशी तक।</p>
+<p>भारत अब एक राजसत्ता में नहीं बंधा, लेकिन संबंधों में बंधा है। रास्तों में बंधा है। धन में, भाषा में, धर्म में, स्मृति में, जाति में, बाज़ार में बंधा है।</p>
+<p>और इसी बिखराव में भविष्य की कई छायाएं दिखाई देती हैं।</p>
+<p>ब्रिटिश अभी हर जगह शासक नहीं बने हैं, लेकिन उनके पैर जमने लगे हैं। बनारस में उनका गठजोड़ दिखता है। स्थानीय शासक सोचते हैं कि वे उन्हें इस्तेमाल करेंगे। लेकिन धीरे-धीरे वे ख़ुद इस्तेमाल होने लगते हैं।</p>
+<p>यह उपनिवेशी शक्ति का पहला पाठ है। वह पहले साझेदार की तरह आती है। फिर मध्यस्थ बनती है। फिर निर्णायक। फिर मालिक।</p>
+<p>लेकिन हमारी कहानी अभी उस मोड़ पर पूरी तरह नहीं पहुंची। अभी हम 1720 से 1780 के बीच हैं। अभी भारत कई आवाज़ों में बोल रहा है।</p>
+<p>एक आवाज़ दिल्ली के टूटे दरबार से आती है। एक बनारस के घाट से। एक पुणे के ब्राह्मण शासन से। एक मारवाड़ के दंड-विधान से। एक हैदराबाद की फ़ारसी महफ़िल से। एक जयपुर के ज्योतिषीय यंत्रों से। एक दाई की जड़ी-बूटियों से। एक स्त्री की चुप्पी से। एक कवि की ज़ुबान से। एक सूफ़ी की पुकार से।</p>
+<p>अठारहवीं सदी हमें बताती है कि इतिहास कभी एक दरवाज़े से नहीं आता। वह कई खिड़कियों से भीतर उतरता है।</p>
+<p>कभी सत्ता के नाम से। कभी पवित्रता के नाम से। कभी व्यापार के नाम से। कभी जाति के नाम से। कभी प्रेम के नाम से। कभी भाषा के नाम से।</p>
+<h3>बिखरता साम्राज्य, नयी शुरुआत</h3>
+<p>मुग़ल साम्राज्य बिखरा। यह सच है।</p>
+<p>लेकिन उसी बिखराव में क्षेत्रीय शक्तियां उठीं। यह भी सच है।</p>
+<p>राज्य ने समाज को कसना शुरू किया। यह भी सच है।</p>
+<p>भाषाओं ने सीमाएं पार करनी शुरू कीं। यह भी सच है।</p>
+<p>बनारस पवित्र शहर बना। लेकिन वह आर्थिक और राजनीतिक निर्माण भी था।</p>
+<p>मराठा शक्ति बढ़ी। लेकिन उसके भीतर ब्राह्मण सत्ता की कठोरता भी बढ़ी।</p>
+<p>हैदराबाद नया सांस्कृतिक केंद्र बना। जयपुर ने मुग़ल सौंदर्य को अपनाकर राजपूत राजधानी बनाई। मारवाड़ ने उच्च-जाति मानदंडों को क़ानून में बदला। उर्दू ने दक्कन और दिल्ली को जोड़ दिया। सिंधी सूफ़ी कविता ने योगियों में दिव्य का रास्ता देखा।</p>
+<p>यह है अठारहवीं सदी का भारत। न पूरी तरह पतन। न पूरी तरह पुनर्जन्म। न केवल अराजकता। न केवल उत्कर्ष।</p>
+<p>यह वह समय है जब पुरानी छत गिर रही है, और लोग अपने-अपने आंगन में नई छतें डाल रहे हैं। कहीं ईंटें लाल हैं। कहीं संगमरमर। कहीं मिट्टी। कहीं शब्द। कहीं नियम। कहीं गीत।</p>
+<p>दिल्ली की टूटी हुई रोशनी अब कई शहरों में बांट दी गई है। मयूर सिंहासन लूटा जा चुका है। लेकिन कविता अभी लूटी नहीं जा सकी। कोहिनूर चला गया है। लेकिन भाषा में नए रत्न चमक रहे हैं। बादशाह कमज़ोर है। लेकिन बनारस, हैदराबाद, जयपुर, पुणे और मारवाड़ अपने-अपने समय को आकार दे रहे हैं।</p>
+<p>और इतिहास की सबसे बड़ी विडंबना शायद यही है - जब एक साम्राज्य मरता है, तो उसके बाद सिर्फ़ ख़ालीपन नहीं आता। उसकी राख में बहुत-सी छोटी आगें जलती हैं।</p>
+<p>कुछ आगें उजाला देती हैं। कुछ आगें जलाती हैं।</p>
+<p>अठारहवीं सदी का भारत इन दोनों को साथ लेकर चलता है।</p>
+<p>यह भारत की कहानी है। और यह कहानी अब हमें उस मोड़ की तरफ़ ले जा रही है, जहां क्षेत्रीय उत्कर्ष के बीच एक नई शक्ति धीरे-धीरे अपनी जगह बना रही है। उसका नाम है - ब्रिटिश सत्ता।</p>
+<p>दिल्ली के बाद अब नज़र सिर्फ़ राजाओं पर नहीं रखनी होगी। कंपनियों पर भी रखनी होगी। व्यापार पर भी। गठजोड़ पर भी। ऋण पर भी। फ़ौज पर भी। और उन छोटे समझौतों पर भी, जिनसे कभी-कभी पूरे देश की दिशा बदल जाती है।</p>
+<p>कहानी अभी ख़त्म नहीं हुई। असल में, अठारहवीं सदी में वह और जटिल हो गई है। और आगे, यही जटिलता भारत के इतिहास को एक नये अंधेरे और एक नये संघर्ष की तरफ़ ले जाएगी।</p>
+    </div>
+  </details>
+</article>
+
+  <div class="chapter-pagenav">
+    <a class="lang-block lb-inline" data-lang="en" href="episode-15.html">&larr; Aurangzeb and Shivaji: Power, Caste and Two Shudra Dynasties</a>
+    <a class="lang-block lb-inline" data-lang="hi" href="episode-15.html">&larr; औरंगज़ेब और शिवाजी: सत्ता, जाति और दो शूद्र वंश</a>
+    <a class="lang-block lb-inline" data-lang="en" href="scripts.html">Read other episodes</a>
+    <a class="lang-block lb-inline" data-lang="hi" href="scripts.html">बाक़ी एपिसोड्स पढ़ें</a>
+    <a class="lang-block lb-inline" data-lang="en" href="episode-17.html">Company Bahadur: From Trade to Empire &rarr;</a>
+    <a class="lang-block lb-inline" data-lang="hi" href="episode-17.html">कंपनी बहादुर: व्यापार से साम्राज्य तक &rarr;</a>
+  </div>
+
+
+
+
+  <div class="scripts-cta">
+    <p class="lang-block lb-block" data-lang="en" style="color:var(--ink-soft);margin-bottom:20px;">More chapters are on their way as new episodes release.</p>
+    <p class="lang-block lb-block" data-lang="hi" style="color:var(--ink-soft);margin-bottom:20px;">नए एपिसोड आने के साथ और अध्याय यहां जुड़ते रहेंगे।</p>
+    <a class="btn lang-block lb-flex" data-lang="en" href="index.html">← Back to home</a>
+    <a class="btn lang-block lb-flex" data-lang="hi" href="index.html">← होम पर वापस जाएं</a>
+  </div>
+</main>
+
+<footer>
+  <div class="lang-block lb-block" data-lang="en">Equal Tales Storyline · <a href="https://www.youtube.com/@ETStoryline" target="_blank" rel="noopener">@ETStoryline</a> · <a href="youtube.html">Videos</a></div>
+  <div class="lang-block lb-block" data-lang="hi">इक्वल टेल्स स्टोरीलाइन · <a href="https://www.youtube.com/@ETStoryline" target="_blank" rel="noopener">@ETStoryline</a> · <a href="youtube.html">वीडियो</a></div>
+</footer>
+
+<script>
+  function setLang(lang){
+    document.body.classList.remove('lang-en','lang-hi');
+    document.body.classList.add('lang-' + lang);
+    document.documentElement.setAttribute('lang', lang);
+    try{ localStorage.setItem('etsLang', lang); }catch(e){}
+    document.querySelectorAll('.lang-switch button').forEach(function(b){
+      b.setAttribute('aria-pressed', b.dataset.lang === lang ? 'true' : 'false');
+    });
+  }
+  document.querySelectorAll('.lang-switch button').forEach(function(b){
+    b.addEventListener('click', function(){ setLang(b.dataset.lang); });
+  });
+  (function init(){
+    var saved = null;
+    try{ saved = localStorage.getItem('etsLang'); }catch(e){}
+    setLang(saved === 'en' ? 'en' : 'hi');
+  })();
+</script>
+
+</body>
+</html>

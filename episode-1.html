@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Meluhha: The Civilization That Never Told Us Its Name | मेलूहा: वह सभ्यता जिसने अपना नाम नहीं बताया | Equal Tales Storyline</title>
+<meta name="description" content="Read Bharat Ki Kahani's episode scripts as full chapters - from the Indus Valley to the dawn of the 20th century.">
+<link rel="icon" type="image/png" href="favicon.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700;900&family=Inter:wght@400;500;600;700&family=Mukta:wght@400;500;600;700&family=Baloo+2:wght@500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --cloud:#F4F7F9;
+    --mist:#E6ECF2;
+    --powder:#D0E1FD;
+    --gold:#C5A059;
+    --gold-dark:#96754A;
+    --ink:#2C3E50;
+    --ink-soft:#5B6B7C;
+    --glass:rgba(255,255,255,.55);
+    --glass-strong:rgba(255,255,255,.72);
+    --glass-border:rgba(255,255,255,.65);
+  }
+  *{box-sizing:border-box;margin:0;padding:0;}
+  html{scroll-behavior:smooth;}
+  body{
+    background:linear-gradient(165deg, var(--cloud) 0%, var(--powder) 55%, var(--mist) 100%);
+    color:var(--ink);font-family:'Inter',sans-serif;line-height:1.75;min-height:100vh;
+  }
+  body.lang-hi{font-family:'Mukta',sans-serif;}
+  h1,h2,h3{font-family:'Playfair Display',serif;font-weight:700;color:var(--ink);}
+  body.lang-hi h1, body.lang-hi h2, body.lang-hi h3{font-family:'Baloo 2',serif;font-weight:700;}
+  a{color:inherit;}
+  img{max-width:100%;display:block;}
+  .wrap{max-width:1120px;margin:0 auto;padding:0 24px;}
+
+  .lang-block{display:none !important;}
+  body.lang-en .lang-block[data-lang="en"].lb-block{display:block !important;}
+  body.lang-hi .lang-block[data-lang="hi"].lb-block{display:block !important;}
+  body.lang-en .lang-block[data-lang="en"].lb-flex{display:flex !important;}
+  body.lang-hi .lang-block[data-lang="hi"].lb-flex{display:flex !important;}
+  body.lang-en .lang-block[data-lang="en"].lb-inline{display:inline !important;}
+  body.lang-hi .lang-block[data-lang="hi"].lb-inline{display:inline !important;}
+  body.lang-en .lang-block[data-lang="en"].lb-grid{display:grid !important;}
+  body.lang-hi .lang-block[data-lang="hi"].lb-grid{display:grid !important;}
+
+  nav{
+    position:sticky;top:0;z-index:50;
+    background:var(--glass);backdrop-filter:blur(16px) saturate(1.2);-webkit-backdrop-filter:blur(16px) saturate(1.2);
+    border-bottom:1px solid var(--glass-border);
+  }
+  nav .wrap{display:flex;align-items:center;justify-content:space-between;padding:14px 24px;gap:16px;}
+  .brand{display:flex;align-items:center;gap:10px;text-decoration:none;}
+  .brand-logo{height:46px;width:auto;flex-shrink:0;border-radius:12px;}
+  .lang-switch{display:flex;border:1.5px solid var(--gold);border-radius:999px;overflow:hidden;background:rgba(255,255,255,.5);}
+  .lang-switch button{border:0;background:transparent;padding:7px 16px;font-weight:700;font-size:.82rem;cursor:pointer;color:var(--gold-dark);}
+  .lang-switch button[aria-pressed="true"]{background:var(--gold);color:#fff;}
+  .nav-links{display:flex;gap:22px;list-style:none;}
+  .nav-links a{font-size:.88rem;font-weight:600;text-decoration:none;}
+  @media(max-width:700px){.nav-links{display:none;}}
+
+  main{padding:70px 24px 100px;}
+  .eyebrow{text-transform:uppercase;letter-spacing:.14em;font-size:.75rem;font-weight:600;color:var(--gold-dark);margin-bottom:14px;}
+  body.lang-hi .eyebrow{text-transform:none;letter-spacing:0;}
+
+  .scripts-hero{max-width:760px;margin:0 auto 48px;text-align:center;}
+  .scripts-hero h1{font-size:clamp(1.7rem,4vw,2.5rem);margin-bottom:16px;}
+  .scripts-hero p{color:var(--ink-soft);font-size:1.05rem;}
+
+  .chapter-index{grid-template-columns:repeat(4,1fr);gap:16px;margin:0 auto 64px;max-width:1000px;}
+  .chapter-index a{
+    display:block;background:var(--glass);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);
+    border:1px solid var(--glass-border);border-radius:16px;padding:18px 16px;
+    text-decoration:none;text-align:center;transition:transform .15s ease,box-shadow .15s ease;
+  }
+  .chapter-index a:hover{transform:translateY(-3px);box-shadow:0 10px 26px rgba(44,62,80,.1);}
+  .idx-num{font-size:.72rem;font-weight:700;color:var(--gold-dark);text-transform:uppercase;letter-spacing:.06em;margin-bottom:6px;}
+  body.lang-hi .idx-num{text-transform:none;letter-spacing:0;}
+  .idx-title{font-size:.9rem;font-weight:600;color:var(--ink);line-height:1.4;}
+  @media(max-width:900px){.chapter-index{grid-template-columns:repeat(2,1fr);}}
+  @media(max-width:560px){.chapter-index{grid-template-columns:1fr;}}
+
+  article.chapter{
+    max-width:800px;margin:0 auto 56px;
+    background:var(--glass-strong);backdrop-filter:blur(18px) saturate(1.1);-webkit-backdrop-filter:blur(18px) saturate(1.1);
+    border:1px solid var(--glass-border);border-radius:24px;padding:44px 40px;
+    box-shadow:0 20px 50px rgba(44,62,80,.08);scroll-margin-top:90px;
+  }
+  .chapter-head{text-align:center;margin-bottom:26px;}
+  .chapter-num{font-size:.78rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--gold-dark);margin-bottom:8px;}
+  body.lang-hi .chapter-num{text-transform:none;letter-spacing:0;font-family:'Mukta',sans-serif;}
+  .chapter-head h2{font-size:clamp(1.3rem,3vw,1.7rem);margin-bottom:12px;}
+  .chapter-dek{color:var(--ink-soft);font-size:1rem;max-width:560px;margin:0 auto 10px;}
+  .chapter-meta{font-size:.8rem;color:var(--gold-dark);font-weight:600;}
+  .chapter-highlights{margin:0 0 24px;display:grid;gap:14px;}
+  .chapter-highlights blockquote{
+    font-family:'Playfair Display',serif;font-style:italic;font-size:1.05rem;line-height:1.6;
+    color:var(--ink);background:rgba(197,160,89,.1);border-left:3px solid var(--gold);
+    padding:16px 20px;border-radius:0 12px 12px 0;
+  }
+  body.lang-hi .chapter-highlights blockquote{font-family:'Baloo 2',serif;font-style:normal;}
+  details.chapter-body{text-align:center;}
+  details.chapter-body summary{
+    cursor:pointer;list-style:none;display:inline-flex;align-items:center;gap:8px;
+    font-weight:700;color:#fff;background:var(--gold);padding:11px 22px;border-radius:999px;
+    font-size:.9rem;box-shadow:0 8px 20px rgba(197,160,89,.3);
+  }
+  details.chapter-body summary::-webkit-details-marker{display:none;}
+  details.chapter-body summary::after{content:'▾';font-size:.8rem;}
+  details.chapter-body[open] summary::after{content:'▴';}
+  details.chapter-body[open] summary{margin-bottom:28px;}
+  .chapter-text{text-align:left;}
+  .chapter-text h3{font-size:1.08rem;color:var(--gold-dark);margin:26px 0 10px;}
+  .chapter-text h3:first-child{margin-top:0;}
+  .chapter-text p{margin-bottom:14px;font-size:1rem;color:var(--ink);}
+  .chapter-lang-note{
+    display:inline-block;margin-bottom:18px;font-size:.78rem;color:var(--gold-dark);
+    background:rgba(197,160,89,.12);padding:5px 14px;border-radius:999px;font-weight:600;
+  }
+  @media(max-width:600px){article.chapter{padding:30px 22px;}}
+
+  .scripts-cta{max-width:640px;margin:0 auto;text-align:center;}
+  .btn{
+    display:inline-flex;align-items:center;gap:8px;padding:12px 26px;border-radius:999px;
+    font-weight:700;text-decoration:none;font-size:.95rem;background:var(--gold);color:#fff;
+    box-shadow:0 10px 24px rgba(197,160,89,.35);
+  }
+
+  footer{padding:40px 0;text-align:center;color:var(--ink-soft);font-size:.85rem;}
+  footer a{color:var(--gold-dark);font-weight:700;text-decoration:none;}
+
+  .chapter-breadcrumb{max-width:840px;margin:28px auto 0;}
+  .chapter-breadcrumb a{font-weight:700;font-size:.85rem;color:var(--gold-dark);text-decoration:none;}
+  .chapter-breadcrumb a:hover{text-decoration:underline;}
+  .chapter-pagenav{max-width:840px;margin:36px auto 0;display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;}
+  .chapter-pagenav a{font-weight:700;font-size:.9rem;padding:10px 16px;border:1.5px solid var(--gold);border-radius:999px;text-decoration:none;color:var(--gold-dark);}
+  .chapter-pagenav a:hover{background:var(--gold);color:#fff;}
+  .chapter-watch-yt{margin:14px 0 4px;}
+  .chapter-watch-yt a{display:inline-flex;align-items:center;gap:8px;background:#FF0000;color:#fff !important;padding:9px 18px;border-radius:999px;font-weight:700;font-size:.85rem;text-decoration:none;}
+  .chapter-watch-yt a:hover{opacity:.9;}
+
+</style>
+</head>
+<body class="lang-hi">
+
+<nav>
+  <div class="wrap">
+    <a class="brand" href="index.html">
+      <img src="logo.png" alt="Equal Tales Storyline" class="brand-logo">
+    </a>
+    <ul class="nav-links lang-block lb-flex" data-lang="en">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="youtube.html">YouTube</a></li>
+    </ul>
+    <ul class="nav-links lang-block lb-flex" data-lang="hi">
+      <li><a href="index.html">होम</a></li>
+      <li><a href="youtube.html">यूट्यूब</a></li>
+    </ul>
+    <div class="lang-switch" role="group" aria-label="Language / भाषा">
+      <button type="button" data-lang="en" aria-pressed="false">EN</button>
+      <button type="button" data-lang="hi" aria-pressed="true">हिं</button>
+    </div>
+  </div>
+</nav>
+
+<main>
+  
+
+
+
+  <div class="chapter-breadcrumb">
+    <a class="lang-block lb-inline" data-lang="en" href="scripts.html">&larr; All chapters</a>
+    <a class="lang-block lb-inline" data-lang="hi" href="scripts.html">&larr; सभी अध्याय</a>
+  </div>
+<article class="chapter" id="chapter-1">
+  <div class="chapter-head">
+    <div class="chapter-num lang-block lb-inline" data-lang="en">Chapter 1</div>
+    <div class="chapter-num lang-block lb-inline" data-lang="hi">अध्याय 1</div>
+    <h2 class="lang-block lb-block" data-lang="en">Meluhha: The Civilization That Never Told Us Its Name</h2>
+    <h2 class="lang-block lb-block" data-lang="hi">मेलूहा: वह सभ्यता जिसने अपना नाम नहीं बताया</h2>
+    <p class="chapter-dek lang-block lb-block" data-lang="en">A civilization that built cities and left behind a script - but never told us its name.</p>
+    <p class="chapter-dek lang-block lb-block" data-lang="hi">एक ऐसी सभ्यता जिसने शहर बनाए, लिपि दी, लेकिन अपना नाम कभी नहीं बताया।</p>
+    <div class="chapter-meta">
+      <span class="lang-block lb-inline" data-lang="en">16 min read</span>
+      <span class="lang-block lb-inline" data-lang="hi">21 मिनट का पाठ</span>
+    </div>
+  </div>
+  <div class="chapter-highlights">
+    <blockquote>“उसने हमें अपनी लिपि तो दी, लेकिन उसकी चाबी नहीं दी। उसने मोहरों पर चिन्ह छोड़े, लेकिन भाषा नहीं खोली।”</blockquote>
+    <blockquote>“मैं मिट्टी में दबी हूं लेकिन समाप्त नहीं, मेरी भाषा तुम नहीं पढ़ पाए लेकिन मेरे शहर बोलते हैं, मेरे नाम खो गए लेकिन मेरे निशान बचे हैं।”</blockquote>
+  </div>
+  <details class="chapter-body" open>
+    <summary>
+      <span class="lang-block lb-inline" data-lang="en">Read the full chapter</span>
+      <span class="lang-block lb-inline" data-lang="hi">पूरा अध्याय पढ़ें</span>
+    </summary>
+    <div class="chapter-text lang-block lb-block" data-lang="en">
+<h3>An Introduction to Meluhha and the Indus Valley Civilization</h3>
+<p>About 4,000 years ago, the people of Mesopotamia spoke of a distant land, a place from which great ships arrived. Those ships carried precious red-orange carnelian stone, timber, beads, perhaps oil, perhaps spices - everything that carried real value in the ancient world.</p>
+<p>The Mesopotamians called this place Meluhha. Today we probably know it by another name - the Indus Valley Civilization. But the great irony of this story is that the Mesopotamians called it Meluhha, we call it the Indus Valley Civilization, and what that civilization called itself, we still do not know.</p>
+<p>Because it gave us its script, but not the key to read it. It left marks on its seals, but never opened its language. It built cities, but left behind no names of kings. It traded across the world, but wrote no autobiography of its own.</p>
+<p>And then one day its cities began to empty. The drains stopped running. The Great Bath fell silent. The seals grew fewer. The script vanished. And India's first great urban civilization slowly sank into the dust of history. This is not just the story of one civilization - it is the story of the first Indians, of the monsoon, of farming, of cities, of trade, of mystery, and of the silence we are still trying to read.</p>
+<h3>The Human Journey, the Monsoon, and Nature's Hand</h3>
+<p>The story of the Indus Civilization does not begin all at once. Behind it lies not just thousands, but hundreds of thousands of years of human wandering. All of our roots trace back, very distantly, to Africa, from where humans spread across the different corners of the world. Several waves of people arrived in the Indian subcontinent too. The earliest Homo sapiens may have reached this land around 120,000 years ago.</p>
+<p>But the people from whom modern Indians partly descend probably arrived in South Asia around 65,000 years ago. India then was nothing like the India we know today. There was no large-scale wheat farming, no cities, no temples, no palaces, no markets, no written language, no empires. People were hunter-gatherers. They walked, they searched, they hunted, they ate wild plants, they read the weather, and they learned to live with nature.</p>
+<p>But there was one thing that even then was shaping India - the monsoon. Every summer, water evaporates from the seas, and moisture drifts northward on the winds. Then it meets the Himalayas, that great wall of mountains formed millions of years ago by the collision of two tectonic plates, and still slowly rising today.</p>
+<p>The clouds strike it, rise, cool, and break into rain. This is South Asia's monsoon - that vast cycle of rainfall which carved rivers, grew forests, made fields, built settlements, and eventually gave birth to cities. The monsoon was never constant - sometimes strong, sometimes weak - but it was always present in India's story.</p>
+<p>Perhaps this is why, to understand India's oldest past, we must read not just its people but its weather. Because civilization here was not built by humans alone - it was built by rivers, by rain, by soil, and by time.</p>
+<h3>Early Settlements and the Art of Bhimbetka</h3>
+<p>Evidence of India's earliest human life is scarce - time has erased much of it. But there are places where the past has preserved its own traces. Near Bhopal, in central India, lies Bhimbetka. People likely passed through here for over 100,000 years, and by around 10,000 BCE its inhabitants had begun painting on its rock shelters.</p>
+<p>Figures of humans and wild animals drawn in red, hunting scenes, running forms - as if some ancient artist were saying, "We were here, we saw, we lived, we remembered." These paintings were not just art; they were perhaps memory, identity, a community's story, and perhaps also a sign that humans are not merely creatures who survive, but creatures who make meaning. They look at the world, and then set it down on stone.</p>
+<p>About 12,000 years ago the last Ice Age ended. The earth warmed, the climate shifted, and in many parts of the world humans took an enormous step. Instead of merely foraging for food, they began to grow it. In India too, between roughly 7000 and 2500 BCE, several communities took up farming and animal husbandry.</p>
+<p>This change was not a simple one - it was one of the greatest revolutions in human life. People now stayed longer in one place. They grew grain, raised animals, built mud houses, made pottery, founded villages, and the pace of life slowly began to change. In the world of the hunter-gatherer, humans followed the seasons; in the world of the farmer, the seasons came to the farmer's door.</p>
+<p>But farming did not bring only food. It brought with it inequality, property, land, storage, anxieties over security, and gradually, social complexity. This was the long process without which the cities of the Indus Valley would never have been possible.</p>
+<h3>Mehrgarh and the Rise of Towns</h3>
+<p>One of the most important early sites of this transformation was Mehrgarh. This settlement, located in present-day Balochistan, Pakistan, tells us that the great cities of the Indus Civilization did not appear overnight - their roots ran very deep. At Mehrgarh, people were already growing wheat and barley before 6000 BCE. They kept goats, sheep and cattle.</p>
+<p>They were building multi-roomed houses. Some house exteriors were decorated in red, or in red, white and black geometric patterns. Clay figurines were made here, pottery was thrown on the wheel, and - most astonishing of all - dental treatment was practised here too. Imagine: thousands of years ago, a small community was not only farming, not only making art, but also trying to understand and treat the human body.</p>
+<p>It is here too that we find the earliest signs of trade. Bright blue lapis lazuli came from Badakhshan in north-eastern Afghanistan. This stone travelled very far, all the way to Mesopotamia. This means that long before the Indus Civilization, South Asia had already begun connecting with the wider world. Routes were forming, things were moving, ideas were moving - and perhaps people too.</p>
+<p>By around 3300 BCE, proto-urban settlements began to emerge across South Asia. These were the settlements that would later become the ancestors of the vast cities of the Indus Valley Civilization. Sites such as Rehman Dheri had fortification walls, town planning, and populations perhaps in the thousands. Places like Kot Diji were also connected to the Indus river.</p>
+<p>In these early towns we begin to see the things that would later define the Indus Civilization - seals, distinctive pottery, bricks of standard proportions. In other words, this civilization did not descend from the sky all at once; it was the result of many centuries of preparation. The foundations of agriculture were thousands of years old, craftsmanship had a long history, trade routes were old - only now was the scale about to change.</p>
+<h3>The Geographic Reach of the Indus Civilization</h3>
+<p>From around 2600 BCE, this world reached a new level. India's first great cities began to be born. The Indus Valley Civilization flourished from roughly 2600 to 1900 BCE - about 700 years. This was no small cultural region; it spread across nearly a million square kilometres. In geographic reach, it was larger than Egypt and Mesopotamia combined.</p>
+<p>Its urban sites were centred mainly around three water sources - the Indus river, the Ghaggar-Hakra river (largely dried up today), and the coastal regions of Gujarat. Among its largest cities were Mohenjo-daro, Harappa, Ganeriwala, Dholavira, Rakhigarhi, and sites such as Lothal and Sutkagen-dor were also part of this world.</p>
+<p>This civilization was not a single city - it was a vast world of cities, towns, trading outposts, farms, artisans, merchants, and perhaps peoples of different languages and faiths. And binding it all together was a shared urban culture - a common way of making bricks, building roads, carving seals, managing water, and keeping cities in order.</p>
+<h3>Remarkable Town Planning and Architecture</h3>
+<p>The first thing that startles anyone looking at the cities of the Indus Civilization is their discipline. Bricks here were often of standardized size. Streets were laid out along the cardinal directions. Some main roads were wide, while residential lanes were narrow enough that you could touch the houses on either side while walking through them.</p>
+<p>Houses had multiple rooms; some were built around courtyards, some rose two storeys high. Cities likely had distinct quarters for artisans. There were also large buildings whose purpose remains unclear even today - were they warehouses, town halls, or some religious or administrative site? We do not know.</p>
+<p>This same problem keeps recurring with the Indus Civilization - so much is present before us, yet the meaning stays blurred. The bricks remain, but the voices are gone; the structures remain, but the names are lost.</p>
+<h3>Water Management and the Great Bath</h3>
+<p>To understand the Indus Civilization, one must understand water. This civilization was built out of water - out of rivers, the monsoon, wells, reservoirs, and drains. Every city developed its own way of handling water. At Dholavira, people used tanks and reservoirs to collect rainwater.</p>
+<p>At Mohenjo-daro, there was a well for every few houses. Today, because of excavation, these wells look like towers, but in their own time they must have been the pulse of the city. The most famous structure is Mohenjo-daro's Great Bath - about 12 metres long, 7 metres wide, built with watertight bricks. Even today we do not know for certain what it was used for. Was it a site for ritual bathing, some social ceremony, or simply a practical arrangement for storing water? But this much is certain - it mattered.</p>
+<p>The priorities of any civilization show up in what it builds. Egypt built pyramids, Mesopotamia built ziggurats, and the Indus Civilization built systems of water management in its cities that were extraordinary for their time. This civilization is perhaps recognized less by grand statues of kings and more by its drains, wells and bathing places - and that is what sets it apart.</p>
+<h3>The Ground Reality of Urban Life, and Inequality</h3>
+<p>But history should not be seen only as a pretty picture. The water systems of the Indus cities were remarkable, but they came with their own problems. Some houses had private indoor bathrooms - a luxury for that time. Floors were made waterproof, with water draining down through sloped channels into street drains. But in some places, toilets were simply pots buried in the ground, which had to be cleaned out regularly.</p>
+<p>In other words, a comfort that was leisure for the elite could be degrading, exhausting labour for someone else. Indus cities in summer must have been foul-smelling - the stench of open drains, crowding, disease, waste, and the labour of cleaning it all. So we should not turn this civilization into a romantic picture of perfect urban planning. It was great, but it was a civilization of human beings. And so it held beauty and inequality both; skill and exploitation both; order and filth both.</p>
+<p>Many people see the Indus Valley Civilization as a peaceful, orderly, almost egalitarian society, because we have found no grand royal tombs as in Egypt, no great scenes of war, no clear statue of a king. But that does not mean the society was equal. Archaeological evidence shows that Indus society had a social hierarchy.</p>
+<p>Many cities were enclosed by walls. Some walls were likely defensive, but some may also have served social segregation. Cities like Mohenjo-daro, Harappa and Dholavira had areas enclosed by separate walls, narrow gateways, and movement that was likely controlled. Some people lived within the city walls, some outside, and their standards of living differed.</p>
+<p>A study of animal bones at Gola Dhoro in Gujarat shows that the diets of those living inside and outside the walls were different. Those inside ate a richer diet. This means that in the Indus Civilization, fine jewellery, private seals, better food, and urban amenities were not shared equally by all. What was the basis of this inequality - lineage, wealth, occupation, gender, language, religion? We do not know. But inequality existed, and looking honestly at history requires admitting this.</p>
+<h3>Art, Craft, and Mysterious Figurines</h3>
+<p>The Indus Civilization is not just a story of bricks and drains - it is also a story of craftsmanship. Its people made beautiful jewellery - red-orange carnelian beads etched with white patterns, shell bangles, clay figurines, bronze objects, toy carts, boats, and animal figures.</p>
+<p>A small white steatite (soapstone) figure found at Mohenjo-daro shows a bearded man. There are ornaments on his forehead and arm, and a decorated shawl over his shoulder. People sometimes call him the 'Priest King', but the truth is, we do not know who he was.</p>
+<p>Another famous figure is the small bronze 'Dancing Girl' - one hand on her hip, confidence in her body, a necklace at her throat, bangles stacked on her arms. Some see her in a dance posture, but here too we must be careful; we can see her pose, but not its meaning. The Indus Civilization keeps teaching us this same lesson, again and again - archaeology gives us things, but not always the voice within them.</p>
+<h3>Seals and the Greatest Mystery of the Script</h3>
+<p>One of the most mysterious objects of the Indus Civilization is its seals. Thousands of seals have been found - small, mostly made of stone, one to five centimetres in size, sometimes square, sometimes rectangular. They carry animals, symbols, and often signs that look like letters. The most mysterious of all is a mythical one-horned creature, which we call the 'unicorn'. It appears again and again on Indus seals.</p>
+<p>But what did it mean - a deity, a clan emblem, a merchant guild, a mark of some profession, or some religious symbol? We do not know. The backs of the seals carried a raised boss through which a cord could be threaded, suggesting people carried them on their person. Seals are found around marketplaces and gateways, in some houses but not all. This suggests they were likely tied to trade, identity, and entry into certain restricted areas. In other words, a seal was not merely an object - it may have been an identity card, a trading signature, a mark of social status, and perhaps a small emblem of authority.</p>
+<p>The greatest mystery of the Indus Civilization is its script. We find writing on several thousand objects, with hundreds of distinct signs, but the problem is that every inscription is very short, most just one or two signs. The longest surviving Indus inscription has only 17 signs. At Dholavira, a large signboard of 10 signs, nearly 3 metres long, has been found.</p>
+<p>But we have no long text, no royal decree, no epic, no temple inscription, and - most importantly - no 'Rosetta Stone'. Egyptian hieroglyphs could be read because the Rosetta Stone carried the same message in three different scripts. No such bilingual or bi-script evidence has ever been found for the Indus script.</p>
+<p>We also do not know what language the Indus people spoke - Dravidian, Munda, some lost language family, several languages, or perhaps these marks were not language at all, but identity signs, symbols, and talismanic marks? Scholars have no consensus. Some things are guessed at, such as the fact that the script was usually written right to left, but it has never been read to this day. And perhaps this is exactly what makes the Indus Civilization so compelling - it stands before us, yet does not speak; it looks back at us, yet does not tell us its name.</p>
+<h3>Global Trade and Ties with Mesopotamia</h3>
+<p>The Indus Valley Civilization was not alone - it was one of four great centres of civilization in the ancient world: Egypt, Mesopotamia, China, and the Indus. The Indus Civilization traded with Mesopotamia - by sea and by land both. The 'Meluhha' referred to in Mesopotamian texts is linked by most scholars to the Indus Civilization. An inscription of Sargon speaks of ships arriving from distant lands, the farthest of them Meluhha.</p>
+<p>Indus merchants sent Mesopotamia sesame oil, timber, beads, animals, lapis lazuli, and perhaps many other things that leave no easy trace in archaeology. Indus carnelian beads have been found in the royal cemetery at Ur. Sumerian texts speak of the prized carnelian that came from Meluhha. Imagine - a bead made by the hands of some artisan in Mohenjo-daro or Harappa, carried thousands of kilometres away and placed in some royal burial in Mesopotamia. The real grandeur of history often hides in things like this - one small bead, and within it, an ocean, trade, languages, roads, and that old human longing to always travel farther.</p>
+<p>It was not only goods that travelled - people did too. A cylinder seal found in Mesopotamia identifies its owner as 'Shu-ilishu: interpreter of Meluhha'. Why would an interpreter be needed? Because the language was different. This means that people from Meluhha, that is, the Indus region, were present in Mesopotamia - perhaps as traders, perhaps as artisans, perhaps as sailors, perhaps as intermediaries.</p>
+<p>An Akkadian text mentions a man named 'Lu-Sunzida', called 'a man of Meluhha'. He pays in silver to have a broken tooth treated. This small detail opens a very large window - 4,000 years ago, a person from the Indian subcontinent was in Mesopotamia, had silver, had a dental problem, sought treatment, and someone wrote it down. History sometimes survives not in empires, but in such small human lives.</p>
+<p>The Indus Civilization did not only trade goods with the outside world - it may have exchanged ideas as well. In the third millennium BCE, Elamite culture flourished in western and south-western Persia. Some scholars believe a possible connection can be traced between the Indus script and proto-Elamite script, though this remains uncertain. But certain similarities appear in symbols and mythological ideas.</p>
+<p>One famous Indus seal shows a horned figure seated and surrounded by animals - the 'Pashupati seal'. Some call him the 'Lord of Animals'; such imagery resembles traditions from further west. But the Indus reshaped these in its own way, localized them - adding the horns of the water buffalo, its own animals, its own symbols, its own imagination. This tells us something important - civilizations are not built in sealed rooms; they meet, borrow, change, adapt, and then create something new. The Indus Civilization was exactly like this - local as much as global; Indian as much as maritime.</p>
+<h3>Causes of Decline and Climate Change</h3>
+<p>Then, somewhere between 1900 and 1700 BCE, this vast urban world began to change. We call it a decline, but decline does not always mean sudden destruction. Sometimes decline is slow, as if a city's breathing gradually grows fainter. The Great Bath at Mohenjo-daro was perhaps out of use as early as 2200 BCE. The city began struggling to maintain its earlier standard of construction.</p>
+<p>After 1900 BCE, conditions worsened further. Drain maintenance began to fail at Harappa and Mohenjo-daro. Dholavira was abandoned twice between 1900 and 1750 BCE. The Indus script grew rare, standardized cubical weights declined, trade shrank, and trading posts like Lothal contracted. A once-glittering network began to loosen. People likely moved eastward - from cities to villages, from a centre toward dispersal.</p>
+<p>Scholars debate the causes of the Indus Civilization's decline, but today many theories centre on climate change. Around 4,000 years ago the monsoon shifted, the climate grew drier, and urban life in north-western India grew harder. Some rivers began drying up - especially the Ghaggar-Hakra - and some rivers changed course, including the Indus itself.</p>
+<p>Think of it - a civilization founded upon water: if the river shifts, if rainfall declines, if fields weaken, how can its cities hold? Some scholars believe climate cannot be the sole cause, since the collapse of so vast a civilization must have had several causes. That is fair - climate change, the breakdown of trade, weakening urban administration, health crises, shifting rivers - all of these likely combined to have an effect.</p>
+<p>But this much is clear: the urban order of the Indus Civilization was gradually losing its balance. The very water that had given birth to these cities - or its absence - may also have caused their end.</p>
+<h3>The End of Cities Versus the Continuity of Culture</h3>
+<p>But we must understand one thing - the decline of the Indus Civilization was not the end of the Indus people. The cities went, the script went, the Great Bath fell silent, the seals grew few, but the people survived, their descendants lived on. They likely moved into different ways of life - some into villages, some into small towns, some eastward, some closer to older rivers. In history, the end of cities is not always the end of life.</p>
+<p>Sometimes, after cities break down, some people's lives can even improve. The Indus cities had disease, crowding, foul drains, social inequality. Leaving the city for rural life may have felt like liberation for some. We often equate civilization with cities, but humans existed before cities, continued after cities, and kept building culture even without cities.</p>
+<p>While the Indus Civilization was breaking down in the north-west, different stories were unfolding in other parts of South Asia. In central and southern India, between roughly 2700 and 1200 BCE, people built vast 'ash mounds'. They burned cow dung and other material at very high temperatures, sometimes above 1200 degrees Celsius.</p>
+<p>Even today, these ash mounds appear as human-made landscapes across the southern Deccan, north-eastern Karnataka, and western Andhra Pradesh. We do not know why people did this - a purification ritual, a community gathering, an act of memory, or a display of power? Perhaps a little of everything. A great fire, the darkness of night, crowds of people, waves of heat, smoke, and a community that returns again and again to give meaning to the same place. This reminds us that India's past is not only the story of the Indus Valley. The Indus was great, but it was not alone; at the very same time, in other places, people were building their own worlds in their own ways.</p>
+<h3>Forgetting, Rediscovery, and What the Civilization Tells Us</h3>
+<p>The cities of the Indus Civilization were largely abandoned by around 1700 BCE, but not everything about it ended. Some things carried forward - the red-orange carnelian beads etched with white patterns remained popular in later South Asia as well. Dice, too, first appear in India in the Indus Civilization, and reappear again in later traditions.</p>
+<p>But much was lost - the Indus script was lost, the world of the unicorn symbol was lost. The cities whose streets, drains and wells once teemed with life sank into the earth. Most significantly, Indian memory itself forgot the Indus Civilization. It was rediscovered much later, in the 19th and 20th centuries.</p>
+<p>Think of it - India's first great urban civilization lay sleeping beneath its own soil for thousands of years. People walked above it - cities rose, kingdoms rose, faiths changed, languages changed, empires came and went - but beneath, in the earth, Mohenjo-daro and Harappa lay silent.</p>
+<p>The Indus Valley Civilization teaches us an uncomfortable truth - history does not always survive in words; sometimes it survives in bricks, in wells, in drains, in beads, in seals, in graves, in sealed bathhouses, and in signs we still cannot read.</p>
+<p>We do not know what the Indus people called their cities, we do not know who their gods were, what their rulers were like, what language they spoke, whom they loved, what they feared, how they understood death, what name they gave the sky, what they prayed to the river. But we know this much - they were remarkable people. They built India's first great cities, they built an extraordinary system of water management, they traded with distant lands, they made beautiful jewellery, seals, and figurines.</p>
+<p>They left behind symbols whose echo still calls to us 4,000 years later. And perhaps this is the greatest allure of the Indus Civilization - it never fully comes into our hands; it stands in half-light, showing us something, hiding a great deal more. It says: "I am buried in the earth, but I am not finished. You could not read my language, but my cities still speak. My names are lost, but my traces remain. I am not the past - I am the question that has run through India from its very beginning to today: who were we? Where did we come from? Why did we build cities? And when those cities broke, how did humanity still survive?"</p>
+<p>The mystery of the Indus Valley Civilization is perhaps not yet fully unlocked, but its very silence is what keeps pulling us back to it. Because sometimes history's deepest voice is exactly the one we still cannot read.</p>
+<p>If you enjoyed this story, next time we will see which direction Indian history turned after the Indus, and how new peoples, new languages and new memories began to reshape this subcontinent.</p>
+    </div>
+    <div class="chapter-text lang-block lb-block" data-lang="hi">
+<h3>अध्याय 1: मेलूहा और सिंधु घाटी सभ्यता का परिचय</h3>
+<p>आज से लगभग 4000 साल पहले मेसोपोटामिया के लोग एक दूर देश का जिक्र करते थे, एक ऐसी जगह जहां से बड़े-बड़े जहाज आते थे। उन जहाजों में लदा होता था कीमती लाल-नारंगी कार्निलियन पत्थर, लकड़ी, मनके, शायद तेल, शायद मसाले और वह सब कुछ जिसकी प्राचीन दुनिया में बड़ी कीमत थी।</p>
+<p>मेसोपोटामिया के लोग इस जगह को कहते थे मेलूहा। आज हम शायद उसे एक और नाम से जानते हैं-सिंधु घाटी सभ्यता। लेकिन इस कहानी की सबसे बड़ी विडंबना यह है कि मेसोपोटामिया के लोग उसे मेलूहा कहते थे, हम उसे सिंधु घाटी सभ्यता कहते हैं, लेकिन वो सभ्यता खुद को क्या कहती थी, यह हम आज तक नहीं जानते।</p>
+<p>क्योंकि उसने हमें अपनी लिपि तो दी, लेकिन उसकी चाबी नहीं दी। उसने मोहरों पर चिन्ह छोड़े, लेकिन भाषा नहीं खोली। उसने शहर बनाए, लेकिन राजाओं के नाम नहीं छोड़े। उसने व्यापार किया, लेकिन अपनी आत्मकथा नहीं लिखी।</p>
+<p>और फिर एक दिन उसके शहर खाली होने लगे, नालियां बंद होने लगी, महास्नानागार सूना पड़ गया, मोहरे कम होती गई, लिपि गायब हो गई और भारत की पहली महान शहरी सभ्यता धीरे-धीरे इतिहास की धूल में दब गई। यह कहानी सिर्फ एक सभ्यता की नहीं है, यह कहानी है पहले हिंदुस्तानियों की, मानसून की, खेती की, शहरों की, व्यापार की, रहस्य की और उस खामोशी की जिसे हम आज भी पढ़ने की कोशिश कर रहे हैं।</p>
+<h3>अध्याय 2: इंसानी यात्रा, मानसून और प्रकृति का प्रभाव</h3>
+<p>सिंधु सभ्यता की कहानी अचानक शुरू नहीं होती। इसके पीछे हजारों नहीं, लाखों साल की इंसानी यात्रा छिपी है। हम सबकी बहुत दूर की जड़े अफ्रीका से जुड़ी हैं, वहीं से इंसान दुनिया के अलग-अलग हिस्सों में फैला। भारतीय उपमहाद्वीप में भी इंसानों की कई लहरें आईं। सबसे शुरुआती होमोसेपियंस शायद लगभग 1,20,000 साल पहले इस धरती तक पहुंचे होंगे।</p>
+<p>लेकिन जिन लोगों से आधुनिक भारतीयों की आंशिक वंश परंपरा जुड़ती है, वे शायद लगभग 65,000 साल पहले दक्षिण एशिया में आए। तब भारत वैसा नहीं था जैसा हम आज जानते हैं। ना गेहूं की बड़ी खेती थी, ना शहर थे, ना मंदिर, ना राजमहल, ना बाजार, ना लिखी हुई भाषा, ना कोई साम्राज्य। लोग शिकारी-संग्राहक थे। वे चलते थे, खोजते थे, शिकार करते थे, जंगली पौधे खाते थे, मौसम को पढ़ते थे और प्रकृति के साथ जीना सीखते थे।</p>
+<p>लेकिन एक चीज थी जो तब भी भारत को आकार देती थी-मानसून। हर साल गर्मियों में समुद्रों से पानी वाष्पित होता है, नमी हवाओं के साथ उत्तर की ओर बढ़ती है। फिर सामने आता है हिमालय, वो महान पर्वत दीवार जो करोड़ों साल पहले दो विवर्तनिक प्लेटों की टक्कर से बनी थी और आज भी धीरे-धीरे ऊपर उठ रही है।</p>
+<p>बादल उससे टकराते हैं, ऊपर उठते हैं, ठंडे होते हैं और फिर बरस पड़ते हैं। यही है दक्षिण एशिया का मॉनसून-बारिश का वो विशाल चक्र जिसने नदियां बनाईं, जंगल बनाए, खेत बनाए, बसावटें बनाईं और अंततः शहरों को जन्म दिया। मॉनसून हमेशा एक जैसा नहीं रहा, कभी वो शक्तिशाली हुआ, कभी कमजोर, लेकिन भारत की कहानी में वो हमेशा मौजूद रहा।</p>
+<p>शायद यही वजह है कि जब हम भारत के सबसे पुराने अतीत को समझना चाहते हैं, तो हमें सिर्फ इंसानों को नहीं, मौसम को भी पढ़ना पड़ता है। क्योंकि यहां सभ्यता सिर्फ मनुष्य ने नहीं बनाई-नदियों ने बनाई, बारिश ने बनाई, मिट्टी ने बनाई और समय ने बनाई।</p>
+<h3>अध्याय 3: शुरुआती बस्तियां और भीमबेटका की कला</h3>
+<p>भारत के शुरुआती इंसानी जीवन के प्रमाण बहुत कम हैं, समय ने बहुत कुछ मिटा दिया है। लेकिन कुछ जगहें ऐसी हैं जहां अतीत ने अपने निशान बचा लिए। मध्य भारत में भोपाल के पास है भीमबेटका। यहां लोग शायद 1 लाख साल पहले से आते-जाते रहे और लगभग 10,000 ईसा पूर्व तक यहां के निवासियों ने चट्टानों पर चित्र बनाने शुरू कर दिए थे।</p>
+<p>लाल रंग से बने इंसान, जंगली जानवर, शिकार के दृश्य, दौड़ती हुई आकृतियां-मानो कोई पुराना कलाकार कह रहा हो, "हम यहां थे, हमने देखा, हमने जिया, हमने याद रखा।" यह चित्र सिर्फ कला नहीं थे, यह शायद स्मृति थी, पहचान थी, समूह की कहानी थी और शायद यह संकेत भी कि मनुष्य सिर्फ जीवित रहने वाला प्राणी नहीं है, वो अर्थ बनाने वाला प्राणी है। वो दुनिया को देखता है और फिर उसे दीवारों पर उतार देता है।</p>
+<p>लगभग 12,000 साल पहले आखिरी हिमयुग समाप्त हुआ। धरती गर्म होने लगी, मौसम बदला और दुनिया के कई हिस्सों में इंसानों ने एक बहुत बड़ा कदम उठाया। उन्होंने सिर्फ भोजन खोजने के बजाय भोजन उगाना शुरू किया। भारत में भी लगभग 7000 से 2500 ईसा पूर्व के बीच कई समुदायों ने खेती और पशुपालन शुरू किया।</p>
+<p>यह बदलाव सरल नहीं था, यह इंसानी जीवन की सबसे बड़ी क्रांतियों में से एक था। अब लोग एक जगह ज्यादा समय तक रहने लगे, वे अनाज उगाने लगे, पशु पालने लगे, मिट्टी के घर बनाने लगे, बर्तन बनाने लगे, गांव बसाने लगे और धीरे-धीरे जीवन की गति बदलने लगी। शिकारी-संग्राहक की दुनिया में इंसान मौसम के पीछे चलता था; किसान की दुनिया में मौसम इंसान के घर तक आता था।</p>
+<p>लेकिन खेती सिर्फ भोजन नहीं लाई, वो साथ लाई असमानता, संपत्ति, जमीन, भंडार, सुरक्षा की चिंता और फिर धीरे-धीरे समाज की जटिलता। यही वो लंबी प्रक्रिया थी जिसके बिना सिंधु घाटी के शहर संभव नहीं थे।</p>
+<h3>अध्याय 4: मेहरगढ़ और नगरों का उदय</h3>
+<p>इस बदलाव की सबसे महत्वपूर्ण शुरुआती जगहों में से एक थी मेहरगढ़। आज के पाकिस्तान के बलूचिस्तान में स्थित यह बस्ती हमें बताती है कि सिंधु सभ्यता के महान शहर अचानक नहीं बने थे, उनकी जड़ें बहुत गहरी थीं। मेहरगढ़ में लोग 6000 ईसा पूर्व से पहले ही गेहूं और जौ उगा रहे थे। वे बकरियां, भेड़ें और मवेशी पाल रहे थे।</p>
+<p>वे बहुकक्षीय घर बना रहे थे। कुछ घरों की बाहरी दीवारें लाल रंग से या लाल, सफेद और काली ज्यामितीय नमूनों से सजाई जाती थी। यहां मिट्टी की मूर्तियां बनती थीं, चाक पर बर्तन बनते थे और सबसे हैरान करने वाली बात-यहां दांतों का इलाज भी किया जाता था। सोचिए, हजारों साल पहले एक छोटा सा समुदाय ना सिर्फ खेती कर रहा था, ना सिर्फ कला बना रहा था, बल्कि मानव शरीर को समझने और उसका उपचार करने की कोशिश भी कर रहा था।</p>
+<p>यहीं से हमें शुरुआती व्यापार के संकेत भी मिलते हैं। उत्तर-पूर्वी अफगानिस्तान के बदखशां से चमकीला नीला लाजवर्ध पत्थर निकलता था। यह पत्थर दूर-दूर तक जाता था, मेसोपोटामिया तक। इसका मतलब है कि सिंधु सभ्यता से बहुत पहले ही दक्षिण एशिया दुनिया से जुड़ने लगा था। राहें बन रही थीं, चीजें चल रही थीं, विचार चल रहे थे और शायद लोग भी।</p>
+<p>लगभग 3300 ईसा पूर्व तक दक्षिण एशिया में आदि-नगर उभरने लगे। यह वे बस्तियां थीं जो बाद में सिंधु घाटी सभ्यता के विशाल नगरों की पूर्वज बनीं। रहमान ढेरी जैसे स्थानों पर किलेबंदी की दीवारें थीं, नगर नियोजन था, शायद कुछ हजार की आबादी थी। कोट दीजी जैसे स्थान भी सिंधु नदी से जुड़े हुए थे।</p>
+<p>इन शुरुआती नगरों में वे चीजें दिखने लगी थीं जो बाद में सिंधु सभ्यता की पहचान बनीं-मोहरें, विशेष मिट्टी के बर्तन, मानक अनुपात की ईंटें। यानी यह सभ्यता अचानक आसमान से नहीं उतरी, यह कई सदियों की तैयारी का परिणाम थी। खेती की बुनियाद हजारों साल पुरानी थी, कारीगरी का अनुभव पुराना था, व्यापार के रास्ते पुराने थे, बस अब पैमाना बदलने वाला था।</p>
+<h3>अध्याय 5: सिंधु सभ्यता का भौगोलिक विस्तार</h3>
+<p>लगभग 2600 ईसा पूर्व से यह दुनिया एक नए स्तर पर पहुंच गई। भारत के पहले महान शहर जन्म लेने लगे। सिंधु घाटी सभ्यता लगभग 2600 से 1900 ईसा पूर्व तक फली-फूली, करीब 700 साल। यह कोई छोटा सांस्कृतिक क्षेत्र नहीं था, यह लगभग 10 लाख वर्ग किलोमीटर में फैली हुई थी। भौगोलिक विस्तार में यह मिस्र और मेसोपोटामिया को मिलाकर भी उनसे बड़ी थी।</p>
+<p>इसके शहरी स्थल मुख्य रूप से तीन जल स्रोतों के आसपास केंद्रित थे-सिंधु नदी, घग्गर-हाकरा नदी (जो आज काफी हद तक सूख चुकी है) और गुजरात के तटीय क्षेत्र। सबसे बड़े नगरों में थे मोहनजोदड़ो, हड़प्पा, लखनजोदड़ो, धौलावीरा, राखीगढ़ी, गनेरीवाला, लोथल और सुतकागेंदूर जैसे स्थल भी इस दुनिया का हिस्सा थे।</p>
+<p>यह सभ्यता सिर्फ एक शहर नहीं थी, यह शहरों, कस्बों, व्यापारिक चौकियों, खेतों, कारीगरों, व्यापारियों और शायद अलग-अलग भाषाओं और आस्थाओं वाले लोगों का विस्तृत संसार थी। और इन सबको जोड़ती थी एक साझा शहरी संस्कृति-एक ऐसा ढंग जिससे लोग ईंट बनाते थे, सड़क बनाते थे, मोहर बनाते थे, जल प्रबंधन करते थे और शहरों को व्यवस्थित रखते थे।</p>
+<h3>अध्याय 6: अद्भुत नगर नियोजन और वास्तुकला</h3>
+<p>सिंधु सभ्यता के शहरों को देखकर सबसे पहले जो बात चौंकाती है, वो है उनका अनुशासन। यहां ईंटों का आकार अक्सर मानकीकृत था। सड़कें दिशाओं के अनुसार बनाई जाती थीं। कुछ मुख्य सड़कें चौड़ी थीं और रिहाइशी गलियां इतनी संकरी कि चलते हुए दोनों तरफ के घरों को छुआ जा सके।</p>
+<p>घरों में कई कमरे होते थे, कुछ घर आंगन के चारों ओर बने थे, कुछ दो मंजिल तक ऊंचे थे। शहरों में कारीगरों के विशेष इलाके रहे होंगे। कुछ बड़े भवन भी थे जिनका उद्देश्य आज तक पूरी तरह साफ नहीं है-क्या वे गोदाम थे, नगर भवन थे, या कोई धार्मिक या प्रशासनिक स्थल? हम नहीं जानते।</p>
+<p>सिंधु सभ्यता के साथ यही समस्या बार-बार सामने आती है-सामने बहुत कुछ है लेकिन अर्थ धुंधला है। ईंटें बची हैं लेकिन आवाजें गुम हैं, ढांचे बचे हैं लेकिन नाम खो गए हैं।</p>
+<h3>अध्याय 7: जल प्रबंधन और महास्नानागार</h3>
+<p>सिंधु सभ्यता को समझने के लिए पानी को समझना जरूरी है। यह सभ्यता पानी से बनी थी-नदियों से, मानसून से, कुओं से, जलाशयों से और नालियों से। हर शहर ने पानी संभालने का अपना तरीका विकसित किया। धौलावीरा में लोग वर्षा जल जमा करने के लिए टंकियों और जलाशयों का इस्तेमाल करते थे।</p>
+<p>मोहनजोदड़ो में हर कुछ घरों पर कुएं थे। आज खुदाई के कारण वे कुएं मीनारों जैसे दिखते हैं, लेकिन अपने समय में वे शहर की धड़कन रहे होंगे। सबसे प्रसिद्ध है मोहनजोदड़ो का महास्नानागार-लगभग 12 मीटर लंबा, 7 मीटर चौड़ा, जलरोधी ईंटों से बना। हम आज भी निश्चित नहीं जानते कि उसका उपयोग क्या था। क्या वो धार्मिक स्नान का स्थल था, कोई सामाजिक अनुष्ठान, या जल संग्रह की कोई व्यावहारिक व्यवस्था? लेकिन इतना निश्चित है कि वो महत्वपूर्ण था।</p>
+<p>किसी भी सभ्यता की प्राथमिकताएं उसके निर्माणों में दिखती हैं। मिस्र ने पिरामिड बनाए, मेसोपोटामिया ने जिकुरात बनाए, सिंधु सभ्यता ने शहरों में पानी की ऐसी व्यवस्था बनाई जो अपने समय के लिए अद्भुत थी। यह सभ्यता शायद राजाओं की विशाल मूर्तियों से कम और नालियों, कुओं और स्नानघरों से अधिक पहचानी जाती है, और यही इसे अलग बनाता है।</p>
+<h3>अध्याय 8: शहरी जीवन की जमीनी हकीकत और असमानता</h3>
+<p>लेकिन इतिहास को सिर्फ सुंदर तस्वीर की तरह नहीं देखना चाहिए। सिंधु शहरों की जल व्यवस्था अद्भुत थी, लेकिन उसमें समस्याएं भी थीं। कुछ घरों में निजी इंडोर स्नानघर थे, यह उस समय के लिए विलासिता थी। फर्श जलरोधी बनाए जाते थे, पानी ढलान से गलियों की नालियों में जाता था। लेकिन शौचालयों में कुछ जगह जमीन में गड़े बर्तन होते थे, जिन्हें नियमित रूप से साफ करना पड़ता था।</p>
+<p>यानी जो सुविधा अभिजात वर्ग के लिए आराम थी, वही किसी दूसरे के लिए अपमानजनक और कठिन श्रम भी हो सकती थी। सिंधु शहर गर्मियों में बदबूदार रहे होंगे-कच्चे नालों की गंध, भीड़भाड़, बीमारी, कूड़ा और सफाई का श्रम। इसलिए हमें इस सभ्यता को सिर्फ परफेक्ट अर्बन प्लानिंग की रोमांटिक तस्वीर में नहीं बदलना चाहिए। यह महान थी, लेकिन यह मनुष्यों की सभ्यता थी। इसलिए इसमें सौंदर्य भी था, असमानता भी; कुशलता भी थी, शोषण भी; व्यवस्था भी थी, गंदगी भी।</p>
+<p>सिंधु घाटी सभ्यता को कई लोग एक शांत, व्यवस्थित, लगभग बराबरी वाले समाज के रूप में देखते हैं, क्योंकि हमें वहां मिस्र जैसे विशाल राजसी मकबरे नहीं मिले, ना बड़े युद्ध दृश्य, ना किसी राजा की स्पष्ट मूर्ति। लेकिन इसका अर्थ यह नहीं कि समाज बराबरी वाला था। पुरातात्विक साक्ष्य बताते हैं कि सिंधु समाज में सामाजिक पदानुक्रम (hierarchy) था।</p>
+<p>कई शहर दीवारों से घिरे थे। कुछ दीवारें रक्षा के लिए रही होंगी, लेकिन कुछ शायद सामाजिक अलगाव के लिए भी थीं। मोहनजोदड़ो, हड़प्पा और धौलावीरा जैसे शहरों में अलग-अलग दीवारों से घिरे क्षेत्र थे, दरवाजे संकरे थे, लोगों की आवाजाही नियंत्रित रही होगी। कुछ लोग शहर की दीवारों के भीतर रहते थे, कुछ बाहर और उनके जीवन स्तर में अंतर था।</p>
+<p>गुजरात के गोला धोरो में जानवरों की हड्डियों के अध्ययन से पता चलता है कि दीवारों के अंदर और बाहर रहने वालों के खानपान में अंतर था। अंदर रहने वाले लोग अधिक समृद्ध आहार लेते थे। इसका मतलब है कि सिंधु सभ्यता में सुंदर गहने, निजी मोहरें, बेहतर भोजन और शहरी सुविधाएं सभी को बराबर नहीं मिली थीं। किस आधार पर असमानता थी-वंश, धन, काम, लिंग, भाषा, धर्म? हम नहीं जानते। लेकिन असमानता थी, और इतिहास को ईमानदारी से देखने के लिए यह स्वीकार करना जरूरी है।</p>
+<h3>अध्याय 9: कला, शिल्प और रहस्यमयी मूर्तियां</h3>
+<p>सिंधु सभ्यता सिर्फ ईंटों और नालियों की कहानी नहीं है, यह कारीगरी की भी कहानी है। यहां के लोग सुंदर गहने बनाते थे-लाल-नारंगी कार्निलियन मनके जिन पर सफेद नमूने उकेरे जाते थे, शंख के कंगन, मिट्टी की मूर्तियां, कांसे की वस्तुएं, खिलौना गाड़ियां, नावें और जानवरों की आकृतियां।</p>
+<p>मोहनजोदड़ो से मिली एक छोटी सी सफेद स्टेटाइट (साबुन का पत्थर) की मूर्ति एक दाढ़ी वाले आदमी को दिखाती है। उसके माथे और हाथ पर जेवर हैं, कंधे पर सजी हुई चादर है। लोग उसे कभी-कभी 'प्रीस्ट किंग' (पुरोहित राजा) कह देते हैं, लेकिन सच यह है कि हम नहीं जानते वो कौन था।</p>
+<p>एक और प्रसिद्ध मूर्ति है कांसे की छोटी लड़की की (डांसिंग गर्ल)-एक हाथ कमर पर, शरीर में आत्मविश्वास, गले में हार, बाहों में कई कंगन। कुछ लोग उसे नृत्य मुद्रा में देखते हैं, लेकिन यहां भी हमें सावधान रहना चाहिए; हम उसकी मुद्रा देख सकते हैं, उसका अर्थ नहीं। सिंधु सभ्यता हमें बार-बार यही सिखाती है-पुरातत्व चीजें देता है, लेकिन उनके भीतर की आवाज हमेशा नहीं देता।</p>
+<h3>अध्याय 10: मोहरें और लिपि का सबसे बड़ा रहस्य</h3>
+<p>सिंधु सभ्यता की सबसे रहस्यमयी वस्तुओं में से एक है उसकी मोहरें। हजारों मोहरें मिली हैं-छोटी-छोटी, अधिकतर पत्थर की, एक से पांच सेंटीमीटर की, कभी चौकोर तो कभी आयताकार। इन पर जानवर बने हैं, चिन्ह बने हैं और अक्सर कुछ अक्षर जैसे संकेत भी। सबसे रहस्यमय है एक पौराणिक एक-सींग वाला प्राणी, जिसे हम 'यूनिकॉर्न' कहते हैं। यह सिंधु मोहरों पर बहुत बार दिखता है।</p>
+<p>लेकिन इसका अर्थ क्या था-देवता, वंश चिन्ह, व्यापारी संस्था, किसी पेशे का प्रतीक, या कोई धार्मिक संकेत? हम नहीं जानते। मोहरों की पीठ पर उभार होता था जिसमें धागा पिरोया जा सकता था, इससे लगता है कि लोग उन्हें अपने साथ रखते थे। मोहरें बाजारों और दरवाजों के आसपास मिलती हैं, कुछ घरों में मिलती हैं लेकिन सभी घरों में नहीं। इससे लगता है कि वे शायद व्यापार, पहचान और कुछ विशेष इलाकों में प्रवेश से जुड़ी रही होंगी। यानी मोहर सिर्फ वस्तु नहीं थी, वो एक पहचान पत्र भी हो सकती थी, एक व्यापारिक हस्ताक्षर, एक सामाजिक दर्जे का संकेत और शायद सत्ता का छोटा सा प्रतीक।</p>
+<p>सिंधु सभ्यता का सबसे बड़ा रहस्य है उसकी लिपि। हमें कई हजार वस्तुओं पर लिखावट मिलती है, सैकड़ों अलग-अलग चिन्ह दिखाई देते हैं, लेकिन समस्या यह है कि सभी लेख बहुत छोटे हैं, अधिकतर बस एक-दो चिन्हों के। सबसे लंबा जीवित सिंधु लेख सिर्फ 17 चिन्हों का है। धौलावीरा में 10 चिन्हों का एक बड़ा साइनबोर्ड मिला है, लगभग 3 मीटर का।</p>
+<p>लेकिन हमारे पास कोई लंबा ग्रंथ नहीं, कोई राजाज्ञा नहीं, कोई महाकाव्य नहीं, कोई मंदिर अभिलेख नहीं और सबसे बड़ी बात-कोई 'रोसेट्टा स्टोन' नहीं। मिस्र की हीरोग्लिफ लिपि इसलिए पढ़ी जा सकी क्योंकि रोसेट्टा स्टोन पर एक ही संदेश तीन अलग लिपियों में था। सिंधु लिपि के साथ ऐसा कोई द्विभाषिक (bilingual) या द्विलिपिक प्रमाण अभी तक नहीं मिला।</p>
+<p>हम यह भी नहीं जानते कि सिंधु लोग कौन सी भाषा बोलते थे-द्रविड़ियन, मुंडा, कोई खोया हुआ भाषा परिवार, कई भाषाएं या फिर क्या यह चिन्ह भाषा नहीं बल्कि पहचान चिन्ह, प्रतीक और ताबीजी संकेत थे? विद्वानों में सहमति नहीं है। कुछ बातों का अंदाजा है, जैसे यह लिपि आमतौर पर दाएं से बाएं लिखी जाती थी, लेकिन पढ़ी आज तक नहीं गई। और शायद यही सिंधु सभ्यता को इतना आकर्षक बनाता है-वो हमारे सामने है, लेकिन बोलती नहीं; वो हमें देखती है, लेकिन अपना नाम नहीं बताती।</p>
+<h3>अध्याय 11: वैश्विक व्यापार और मेसोपोटामिया से संबंध</h3>
+<p>सिंधु घाटी सभ्यता अकेली नहीं थी, यह प्राचीन दुनिया के चार बड़े सभ्यता केंद्रों में से एक थी-मिस्र, मेसोपोटामिया, चीन और सिंधु। सिंधु सभ्यता ने मेसोपोटामिया से व्यापार किया-समुद्र से भी, जमीन से भी। मेसोपोटामिया के ग्रंथों में जिस 'मेलूहा' का जिक्र आता है, उसे अधिकतर विद्वान सिंधु सभ्यता से जोड़ते हैं। सारगॉन के शिलालेख में दूर-दूर से आने वाले जहाजों की बात है, सबसे दूर की जगह मेलूहा।</p>
+<p>सिंधु व्यापारी मेसोपोटामिया को तिल का तेल, लकड़ी, मनके, जानवर, लाजवर्ध और शायद कई ऐसी चीजें भेजते थे जिनके निशान पुरातत्व में आसानी से नहीं बचते। उर की शाही कब्रगाह में सिंधु के कार्निलियन मनके मिले हैं। सुमेरी ग्रंथ मेलूहा से आई बेशकीमती कार्निलियन की बात करते हैं। सोचिए, मोहनजोदड़ो या हड़प्पा की किसी कारीगर के हाथ से बना मनका हजारों किलोमीटर दूर मेसोपोटामिया के किसी शाही दफन में रखा गया। इतिहास की असली भव्यता ऐसी ही चीजों में छिपी होती है-एक छोटा सा मनका, लेकिन उसके भीतर समुद्र है, व्यापार है, भाषाएं हैं, रास्ते हैं और मनुष्यों की वो पुरानी इच्छा है जो हमेशा दूर तक जाना चाहती है।</p>
+<p>सिर्फ सामान ही नहीं गया, लोग भी गए। मेसोपोटामिया में एक बेलनाकार मोहर मिली है जिस पर एक व्यक्ति की पहचान 'शु-इलिशु: मेलूहा का दुभाषिया' के रूप में है। दुभाषिया क्यों चाहिए? क्योंकि भाषा अलग थी। इसका मतलब है कि मेलूहा यानी सिंधु क्षेत्र के लोग मेसोपोटामिया में मौजूद थे-शायद व्यापारी, शायद कारीगर, शायद समुद्री यात्री, शायद मध्यस्थ।</p>
+<p>एक अक्कादी पाठ में 'लूस-सुनजिदा' नाम के व्यक्ति का जिक्र है जिसे 'मेलूहा का आदमी' कहा गया है। वो टूटे हुए दांत का इलाज करवाने के लिए चांदी से भुगतान करता है। यह छोटी सी बात बहुत बड़ी खिड़की खोलती है-4000 साल पहले एक भारतीय उपमहाद्वीपीय व्यक्ति मेसोपोटामिया में था, उसके पास चांदी थी, उसे दांत की समस्या थी, वो इलाज करवाता था और किसी ने उसका उल्लेख लिख दिया। इतिहास कभी-कभी साम्राज्यों में नहीं, ऐसे छोटे मनुष्यों में बचता है।</p>
+<p>सिंधु सभ्यता बाहरी दुनिया से सिर्फ व्यापार नहीं करती थी, शायद विचार भी लेती-देती थी। तीसरी सहस्त्राब्दी ईसा पूर्व में पश्चिम और दक्षिण-पश्चिम फारस में एलामाइट संस्कृति भली-फूली। कुछ विद्वान मानते हैं कि सिंधु लिपि और आदि-एलामाइट लिपि के बीच संभावित संबंध खोजे जा सकते हैं, हालांकि यह अभी निश्चित नहीं है। लेकिन प्रतीकों और पौराणिक विचारों में कुछ समानताएं दिखाई देती हैं।</p>
+<p>सिंधु की एक मशहूर मोहर में एक सींगदार आकृति है जो जानवरों से घिरी हुई बैठी है (पशुपति मोहर)। कुछ लोग उसे 'जानवरों का स्वामी' कहते हैं, ऐसी छवियां पश्चिम की परंपराओं से मिलती-जुलती हैं। लेकिन सिंधु ने उन्हें अपने ढंग से बदला, स्थानीय बनाया-जल भैंसे की सींग जोड़े, अपने जानवर, अपने प्रतीक, अपनी कल्पना शामिल की। यह हमें एक बड़ी बात बताता है-सभ्यताएं बंद कमरों में नहीं बनतीं, वे मिलती हैं, उधार लेती हैं, बदलती हैं, अपनाती हैं और फिर कुछ नया बनाती हैं। सिंधु सभ्यता भी ऐसी ही थी-स्थानीय भी, वैश्विक भी; भारतीय भी, समुद्री भी।</p>
+<h3>अध्याय 12: पतन के कारण और जलवायु परिवर्तन</h3>
+<p>फिर लगभग 1900 से 1700 ईसा पूर्व के बीच यह विशाल शहरी संसार बदलने लगा। इसे हम पतन कहते हैं, लेकिन पतन का मतलब हमेशा अचानक विनाश नहीं होता। कभी-कभी पतन धीमा होता है, जैसे किसी शहर की सांस धीरे-धीरे कम हो जाए। मोहनजोदड़ो में महास्नानागार शायद 2200 ईसा पूर्व से ही उपयोग में नहीं रहा। शहर पहले जैसी निर्माण गुणवत्ता बनाए रखने में संघर्ष करने लगा।</p>
+<p>1900 ईसा पूर्व के बाद हालात और बिगड़ते गए। हड़प्पा और मोहनजोदड़ो में नालियों की देखभाल असफल होने लगी। धौलावीरा को 1900 और 1750 ईसा पूर्व के बीच दो बार छोड़ा गया। सिंधु लिपि दुर्लभ होती गई, मानकीकृत घनाकार बाट कम होते गए, व्यापार घटा, लोथल जैसी व्यापारिक चौकी सिकुड़ गई। एक समय का चमकता नेटवर्क ढीला पड़ने लगा। लोग शायद पूर्व की तरफ बढ़े-शहरों से गांव की ओर, केंद्र से बिखराव की ओर।</p>
+<p>सिंधु सभ्यता के पतन के कारणों पर विद्वानों में बहस है, लेकिन आज कई सिद्धांत जलवायु परिवर्तन पर केंद्रित हैं। लगभग 4000 साल पहले मॉनसून में बदलाव आया, मौसम सूखा हुआ, उत्तर-पश्चिम भारत में शहरी जीवन कठिन होता गया। कुछ नदियां सूखने लगीं-खासकर घग्गर-हाकरा, कुछ नदियों ने अपना रास्ता बदला-सिंधु ने भी।</p>
+<p>सोचिए, एक सभ्यता जिसकी बुनियाद जल पर है, उसके सामने अगर नदी बदल जाए, बारिश कम हो जाए, खेत कमजोर हो जाएं, तो शहर कैसे टिकेंगे? कुछ विद्वान मानते हैं कि जलवायु अकेली वजह नहीं हो सकती, क्योंकि इतनी बड़ी सभ्यता का पतन कई कारणों से हुआ होगा। यह बात ठीक है-जलवायु परिवर्तन, व्यापार का टूटना, शहरी प्रशासन की कमजोरी, स्वास्थ्य संकट, नदियों का बदलना, इन सब ने मिलकर असर किया होगा।</p>
+<p>लेकिन इतना साफ है कि सिंधु सभ्यता की शहरी व्यवस्था धीरे-धीरे अपना संतुलन खो रही थी। जिस पानी ने शहरों को जन्म दिया था, वही पानी या उसकी कमी उनके अंत का कारण भी बन सकता था।</p>
+<h3>अध्याय 13: शहरों का अंत बनाम संस्कृति की निरंतरता</h3>
+<p>लेकिन हमें एक बात समझनी चाहिए-सिंधु सभ्यता का पतन, सिंधु लोगों का अंत नहीं था। शहर गए, लिपि गई, महास्नानागार सूना पड़ा, मोहरे कम हो गईं, लेकिन लोग जीवित रहे, उनके वंशज रहे। वे शायद अलग जीवनशैली में चले गए-कहीं गांवों में, कहीं छोटे कस्बों में, कहीं पूर्व की ओर, कहीं पुरानी नदियों के पास। इतिहास में शहरों का अंत हमेशा जीवन का अंत नहीं होता।</p>
+<p>कभी-कभी शहरों के टूटने के बाद कुछ लोगों का जीवन बेहतर भी हो सकता है। सिंधु शहरों में बीमारियां थीं, भीड़ थी, बदबूदार नालियां थीं, सामाजिक असमानता थी। शहर छोड़कर ग्रामीण जीवन में लौटना कुछ लोगों के लिए मुक्ति भी रहा होगा। हम अक्सर सभ्यता को शहरों से जोड़ते हैं, लेकिन मनुष्य शहरों से पहले भी था, शहरों के बाद भी रहा और शहरों के बिना भी संस्कृति बनाता रहा।</p>
+<p>जब उत्तर-पश्चिम में सिंधु सभ्यता टूट रही थी, दक्षिण एशिया के दूसरे हिस्सों में अलग कहानियां चल रही थीं। मध्य और दक्षिण भारत में 2700 से 1200 ईसा पूर्व के बीच लोगों ने विशाल 'राख के टीले' (Ashmounds) बनाए। यह लोग गाय का गोबर और दूसरी सामग्री बहुत ऊंचे तापमान पर जलाते थे, कभी-कभी तापमान 1200 डिग्री सेल्सियस से भी ऊपर पहुंचता था।</p>
+<p>आज भी दक्षिणी दक्कन, उत्तर-पूर्वी कर्नाटक और पश्चिमी आंध्र प्रदेश में यह राख के टीले मानव-निर्मित परिदृश्य के रूप में दिखाई देते हैं। हम नहीं जानते कि लोग ऐसा क्यों करते थे-सफाई अनुष्ठान, सामुदायिक आयोजन, स्मृति, या शक्ति का प्रदर्शन? शायद सब कुछ थोड़ा-थोड़ा। एक विशाल आग, रात का अंधेरा, लोगों की भीड़, गर्मी की लहर, धुआं और एक समुदाय जो बार-बार लौट कर उसी जगह को अर्थ देता है। यह याद दिलाता है कि भारत का अतीत सिर्फ सिंधु घाटी की कहानी नहीं है। सिंधु महान थी, लेकिन वो अकेली नहीं थी; उसी समय दूसरी जगहों पर भी लोग अपने-अपने ढंग से दुनिया बना रहे थे।</p>
+<h3>अध्याय 14: विस्मृति, पुनर्खोज और सभ्यता का संदेश</h3>
+<p>सिंधु सभ्यता के शहर लगभग 1700 ईसा पूर्व तक काफी हद तक छोड़ दिए गए, लेकिन उसका सब कुछ समाप्त नहीं हुआ। कुछ चीजें आगे चलीं-लाल-नारंगी कार्निलियन मनके जिन पर सफेद नमूने उकेरे गए थे, बाद के दक्षिण एशिया में भी लोकप्रिय रहे। पासे भी सबसे पहले भारत में सिंधु सभ्यता में मिलते हैं और बाद की परंपराओं में फिर दिखाई देते हैं।</p>
+<p>लेकिन बहुत कुछ खो गया-सिंधु लिपि खो गई, यूनिकॉर्न प्रतीक की दुनिया खो गई। वे शहर जिनकी सड़कें, नालियां और कुएं कभी जीवन से भरे थे, मिट्टी में दब गए। सबसे बड़ी बात, भारतीय स्मृति ने भी सिंधु सभ्यता को भुला दिया। उसे बहुत बाद में 19वीं और 20वीं सदी में दोबारा खोजा गया।</p>
+<p>सोचिए, भारत की पहली महान शहरी सभ्यता हजारों साल तक अपनी ही धरती के नीचे सोती रही। लोग उसके ऊपर चलते रहे-शहर बने, राज्य बने, धर्म बदले, भाषाएं बदलीं, साम्राज्य आए और गए, लेकिन नीचे मिट्टी में मोहनजोदड़ो और हड़प्पा चुप पड़ी रहीं।</p>
+<p>सिंधु घाटी सभ्यता हमें एक असहज सच सिखाती है-इतिहास हमेशा शब्दों में नहीं बचता, कभी-कभी वो ईंटों में बचता है, कुओं में, नालियों में, मनकों में, मोहरों में, कब्रों में, बंद पड़े स्नानागारों में और उन संकेतों में जिन्हें हम पढ़ नहीं पाते।</p>
+<p>हम नहीं जानते सिंधु लोग अपने शहरों को क्या कहते थे, हम नहीं जानते उनके देवता कौन थे, उनके शासक कैसे थे, वे कौन सी भाषा बोलते थे, वे किससे प्रेम करते थे, किससे डरते थे, मृत्यु को कैसे समझते थे, आकाश को क्या नाम देते थे, नदी से क्या प्रार्थना करते थे। लेकिन हम इतना जानते हैं कि वे अद्भुत लोग थे। उन्होंने भारत के पहले महान शहर बनाए, उन्होंने जल प्रबंधन की असाधारण प्रणाली बनाई, उन्होंने दूर देशों से व्यापार किया, उन्होंने सुंदर गहने, मोहरे और मूर्तियां बनाईं।</p>
+<p>उन्होंने ऐसे प्रतीक छोड़े जिनकी गूंज 4000 साल बाद भी हमें पुकारती है। और शायद यही सिंधु सभ्यता का सबसे बड़ा आकर्षण है-वो पूरी तरह हमारे हाथ नहीं आती, वो आधी रोशनी में खड़ी है, कुछ दिखाती है, बहुत कुछ छिपाती है। वो कहती है, "मैं मिट्टी में दबी हूं लेकिन समाप्त नहीं, मेरी भाषा तुम नहीं पढ़ पाए लेकिन मेरे शहर बोलते हैं, मेरे नाम खो गए लेकिन मेरे निशान बचे हैं। मैं अतीत नहीं हूं, मैं वो प्रश्न हूं जो भारत की शुरुआत से आज तक चलता आ रहा है-हम कौन थे? हम कहां से आए? हमने शहर क्यों बनाए? और जब वे शहर टूट गए, तब भी मनुष्य कैसे बचा रहा?"</p>
+<p>सिंधु घाटी सभ्यता का रहस्य शायद अभी पूरा नहीं खुला, लेकिन उसकी खामोशी ही हमें बार-बार उसकी ओर लौटने को मजबूर करती है। क्योंकि कभी-कभी इतिहास की सबसे गहरी आवाज वही होती है जिसे हम अभी तक पढ़ नहीं पाए।</p>
+<p>अगर आपको यह कहानी पसंद आई, तो अगली बार हम देखेंगे कि सिंधु के बाद भारतीय इतिहास किस दिशा में मुड़ा और कैसे नए लोग, नई भाषाएं और नई स्मृतियां इस उपमहाद्वीप को बदलने लगीं।</p>
+    </div>
+  </details>
+</article>
+
+  <div class="chapter-pagenav">
+    <a class="lang-block lb-inline" data-lang="en" href="episode-23.html">&larr; 1947-1990: The Country Was Made. But Who Was the Citizen?</a>
+    <a class="lang-block lb-inline" data-lang="hi" href="episode-23.html">&larr; 1947-1990: देश बन गया, नागरिक कौन?</a>
+    <a class="lang-block lb-inline" data-lang="en" href="scripts.html">Read other episodes</a>
+    <a class="lang-block lb-inline" data-lang="hi" href="scripts.html">बाक़ी एपिसोड्स पढ़ें</a>
+    <a class="lang-block lb-inline" data-lang="en" href="episode-2.html">A World Woven Around Fire: The Story of the Vedas and Upanishads &rarr;</a>
+    <a class="lang-block lb-inline" data-lang="hi" href="episode-2.html">आग के इर्द-गिर्द बुनी गई दुनिया: वेदों और उपनिषदों की कहानी &rarr;</a>
+  </div>
+
+
+
+
+  <div class="scripts-cta">
+    <p class="lang-block lb-block" data-lang="en" style="color:var(--ink-soft);margin-bottom:20px;">More chapters are on their way as new episodes release.</p>
+    <p class="lang-block lb-block" data-lang="hi" style="color:var(--ink-soft);margin-bottom:20px;">नए एपिसोड आने के साथ और अध्याय यहां जुड़ते रहेंगे।</p>
+    <a class="btn lang-block lb-flex" data-lang="en" href="index.html">← Back to home</a>
+    <a class="btn lang-block lb-flex" data-lang="hi" href="index.html">← होम पर वापस जाएं</a>
+  </div>
+</main>
+
+<footer>
+  <div class="lang-block lb-block" data-lang="en">Equal Tales Storyline · <a href="https://www.youtube.com/@ETStoryline" target="_blank" rel="noopener">@ETStoryline</a> · <a href="youtube.html">Videos</a></div>
+  <div class="lang-block lb-block" data-lang="hi">इक्वल टेल्स स्टोरीलाइन · <a href="https://www.youtube.com/@ETStoryline" target="_blank" rel="noopener">@ETStoryline</a> · <a href="youtube.html">वीडियो</a></div>
+</footer>
+
+<script>
+  function setLang(lang){
+    document.body.classList.remove('lang-en','lang-hi');
+    document.body.classList.add('lang-' + lang);
+    document.documentElement.setAttribute('lang', lang);
+    try{ localStorage.setItem('etsLang', lang); }catch(e){}
+    document.querySelectorAll('.lang-switch button').forEach(function(b){
+      b.setAttribute('aria-pressed', b.dataset.lang === lang ? 'true' : 'false');
+    });
+  }
+  document.querySelectorAll('.lang-switch button').forEach(function(b){
+    b.addEventListener('click', function(){ setLang(b.dataset.lang); });
+  });
+  (function init(){
+    var saved = null;
+    try{ saved = localStorage.getItem('etsLang'); }catch(e){}
+    setLang(saved === 'en' ? 'en' : 'hi');
+  })();
+</script>
+
+</body>
+</html>

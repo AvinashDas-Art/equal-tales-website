@@ -1,0 +1,711 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Long Fifteenth Century: Betel Leaf, Court and a Shared World | लंबी पंद्रहवीं शताब्दी: पान, दरबार और मिली-जुली दुनिया | Equal Tales Storyline</title>
+<meta name="description" content="Read Bharat Ki Kahani's episode scripts as full chapters - from the Indus Valley to the dawn of the 20th century.">
+<link rel="icon" type="image/png" href="favicon.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700;900&family=Inter:wght@400;500;600;700&family=Mukta:wght@400;500;600;700&family=Baloo+2:wght@500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --cloud:#F4F7F9;
+    --mist:#E6ECF2;
+    --powder:#D0E1FD;
+    --gold:#C5A059;
+    --gold-dark:#96754A;
+    --ink:#2C3E50;
+    --ink-soft:#5B6B7C;
+    --glass:rgba(255,255,255,.55);
+    --glass-strong:rgba(255,255,255,.72);
+    --glass-border:rgba(255,255,255,.65);
+  }
+  *{box-sizing:border-box;margin:0;padding:0;}
+  html{scroll-behavior:smooth;}
+  body{
+    background:linear-gradient(165deg, var(--cloud) 0%, var(--powder) 55%, var(--mist) 100%);
+    color:var(--ink);font-family:'Inter',sans-serif;line-height:1.75;min-height:100vh;
+  }
+  body.lang-hi{font-family:'Mukta',sans-serif;}
+  h1,h2,h3{font-family:'Playfair Display',serif;font-weight:700;color:var(--ink);}
+  body.lang-hi h1, body.lang-hi h2, body.lang-hi h3{font-family:'Baloo 2',serif;font-weight:700;}
+  a{color:inherit;}
+  img{max-width:100%;display:block;}
+  .wrap{max-width:1120px;margin:0 auto;padding:0 24px;}
+
+  .lang-block{display:none !important;}
+  body.lang-en .lang-block[data-lang="en"].lb-block{display:block !important;}
+  body.lang-hi .lang-block[data-lang="hi"].lb-block{display:block !important;}
+  body.lang-en .lang-block[data-lang="en"].lb-flex{display:flex !important;}
+  body.lang-hi .lang-block[data-lang="hi"].lb-flex{display:flex !important;}
+  body.lang-en .lang-block[data-lang="en"].lb-inline{display:inline !important;}
+  body.lang-hi .lang-block[data-lang="hi"].lb-inline{display:inline !important;}
+  body.lang-en .lang-block[data-lang="en"].lb-grid{display:grid !important;}
+  body.lang-hi .lang-block[data-lang="hi"].lb-grid{display:grid !important;}
+
+  nav{
+    position:sticky;top:0;z-index:50;
+    background:var(--glass);backdrop-filter:blur(16px) saturate(1.2);-webkit-backdrop-filter:blur(16px) saturate(1.2);
+    border-bottom:1px solid var(--glass-border);
+  }
+  nav .wrap{display:flex;align-items:center;justify-content:space-between;padding:14px 24px;gap:16px;}
+  .brand{display:flex;align-items:center;gap:10px;text-decoration:none;}
+  .brand-logo{height:46px;width:auto;flex-shrink:0;border-radius:12px;}
+  .lang-switch{display:flex;border:1.5px solid var(--gold);border-radius:999px;overflow:hidden;background:rgba(255,255,255,.5);}
+  .lang-switch button{border:0;background:transparent;padding:7px 16px;font-weight:700;font-size:.82rem;cursor:pointer;color:var(--gold-dark);}
+  .lang-switch button[aria-pressed="true"]{background:var(--gold);color:#fff;}
+  .nav-links{display:flex;gap:22px;list-style:none;}
+  .nav-links a{font-size:.88rem;font-weight:600;text-decoration:none;}
+  @media(max-width:700px){.nav-links{display:none;}}
+
+  main{padding:70px 24px 100px;}
+  .eyebrow{text-transform:uppercase;letter-spacing:.14em;font-size:.75rem;font-weight:600;color:var(--gold-dark);margin-bottom:14px;}
+  body.lang-hi .eyebrow{text-transform:none;letter-spacing:0;}
+
+  .scripts-hero{max-width:760px;margin:0 auto 48px;text-align:center;}
+  .scripts-hero h1{font-size:clamp(1.7rem,4vw,2.5rem);margin-bottom:16px;}
+  .scripts-hero p{color:var(--ink-soft);font-size:1.05rem;}
+
+  .chapter-index{grid-template-columns:repeat(4,1fr);gap:16px;margin:0 auto 64px;max-width:1000px;}
+  .chapter-index a{
+    display:block;background:var(--glass);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);
+    border:1px solid var(--glass-border);border-radius:16px;padding:18px 16px;
+    text-decoration:none;text-align:center;transition:transform .15s ease,box-shadow .15s ease;
+  }
+  .chapter-index a:hover{transform:translateY(-3px);box-shadow:0 10px 26px rgba(44,62,80,.1);}
+  .idx-num{font-size:.72rem;font-weight:700;color:var(--gold-dark);text-transform:uppercase;letter-spacing:.06em;margin-bottom:6px;}
+  body.lang-hi .idx-num{text-transform:none;letter-spacing:0;}
+  .idx-title{font-size:.9rem;font-weight:600;color:var(--ink);line-height:1.4;}
+  @media(max-width:900px){.chapter-index{grid-template-columns:repeat(2,1fr);}}
+  @media(max-width:560px){.chapter-index{grid-template-columns:1fr;}}
+
+  article.chapter{
+    max-width:800px;margin:0 auto 56px;
+    background:var(--glass-strong);backdrop-filter:blur(18px) saturate(1.1);-webkit-backdrop-filter:blur(18px) saturate(1.1);
+    border:1px solid var(--glass-border);border-radius:24px;padding:44px 40px;
+    box-shadow:0 20px 50px rgba(44,62,80,.08);scroll-margin-top:90px;
+  }
+  .chapter-head{text-align:center;margin-bottom:26px;}
+  .chapter-num{font-size:.78rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--gold-dark);margin-bottom:8px;}
+  body.lang-hi .chapter-num{text-transform:none;letter-spacing:0;font-family:'Mukta',sans-serif;}
+  .chapter-head h2{font-size:clamp(1.3rem,3vw,1.7rem);margin-bottom:12px;}
+  .chapter-dek{color:var(--ink-soft);font-size:1rem;max-width:560px;margin:0 auto 10px;}
+  .chapter-meta{font-size:.8rem;color:var(--gold-dark);font-weight:600;}
+  .chapter-highlights{margin:0 0 24px;display:grid;gap:14px;}
+  .chapter-highlights blockquote{
+    font-family:'Playfair Display',serif;font-style:italic;font-size:1.05rem;line-height:1.6;
+    color:var(--ink);background:rgba(197,160,89,.1);border-left:3px solid var(--gold);
+    padding:16px 20px;border-radius:0 12px 12px 0;
+  }
+  body.lang-hi .chapter-highlights blockquote{font-family:'Baloo 2',serif;font-style:normal;}
+  details.chapter-body{text-align:center;}
+  details.chapter-body summary{
+    cursor:pointer;list-style:none;display:inline-flex;align-items:center;gap:8px;
+    font-weight:700;color:#fff;background:var(--gold);padding:11px 22px;border-radius:999px;
+    font-size:.9rem;box-shadow:0 8px 20px rgba(197,160,89,.3);
+  }
+  details.chapter-body summary::-webkit-details-marker{display:none;}
+  details.chapter-body summary::after{content:'▾';font-size:.8rem;}
+  details.chapter-body[open] summary::after{content:'▴';}
+  details.chapter-body[open] summary{margin-bottom:28px;}
+  .chapter-text{text-align:left;}
+  .chapter-text h3{font-size:1.08rem;color:var(--gold-dark);margin:26px 0 10px;}
+  .chapter-text h3:first-child{margin-top:0;}
+  .chapter-text p{margin-bottom:14px;font-size:1rem;color:var(--ink);}
+  .chapter-lang-note{
+    display:inline-block;margin-bottom:18px;font-size:.78rem;color:var(--gold-dark);
+    background:rgba(197,160,89,.12);padding:5px 14px;border-radius:999px;font-weight:600;
+  }
+  @media(max-width:600px){article.chapter{padding:30px 22px;}}
+
+  .scripts-cta{max-width:640px;margin:0 auto;text-align:center;}
+  .btn{
+    display:inline-flex;align-items:center;gap:8px;padding:12px 26px;border-radius:999px;
+    font-weight:700;text-decoration:none;font-size:.95rem;background:var(--gold);color:#fff;
+    box-shadow:0 10px 24px rgba(197,160,89,.35);
+  }
+
+  footer{padding:40px 0;text-align:center;color:var(--ink-soft);font-size:.85rem;}
+  footer a{color:var(--gold-dark);font-weight:700;text-decoration:none;}
+
+  .chapter-breadcrumb{max-width:840px;margin:28px auto 0;}
+  .chapter-breadcrumb a{font-weight:700;font-size:.85rem;color:var(--gold-dark);text-decoration:none;}
+  .chapter-breadcrumb a:hover{text-decoration:underline;}
+  .chapter-pagenav{max-width:840px;margin:36px auto 0;display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;}
+  .chapter-pagenav a{font-weight:700;font-size:.9rem;padding:10px 16px;border:1.5px solid var(--gold);border-radius:999px;text-decoration:none;color:var(--gold-dark);}
+  .chapter-pagenav a:hover{background:var(--gold);color:#fff;}
+  .chapter-watch-yt{margin:14px 0 4px;}
+  .chapter-watch-yt a{display:inline-flex;align-items:center;gap:8px;background:#FF0000;color:#fff !important;padding:9px 18px;border-radius:999px;font-weight:700;font-size:.85rem;text-decoration:none;}
+  .chapter-watch-yt a:hover{opacity:.9;}
+
+</style>
+</head>
+<body class="lang-hi">
+
+<nav>
+  <div class="wrap">
+    <a class="brand" href="index.html">
+      <img src="logo.png" alt="Equal Tales Storyline" class="brand-logo">
+    </a>
+    <ul class="nav-links lang-block lb-flex" data-lang="en">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="youtube.html">YouTube</a></li>
+    </ul>
+    <ul class="nav-links lang-block lb-flex" data-lang="hi">
+      <li><a href="index.html">होम</a></li>
+      <li><a href="youtube.html">यूट्यूब</a></li>
+    </ul>
+    <div class="lang-switch" role="group" aria-label="Language / भाषा">
+      <button type="button" data-lang="en" aria-pressed="false">EN</button>
+      <button type="button" data-lang="hi" aria-pressed="true">हिं</button>
+    </div>
+  </div>
+</nav>
+
+<main>
+  
+
+
+
+  <div class="chapter-breadcrumb">
+    <a class="lang-block lb-inline" data-lang="en" href="scripts.html">&larr; All chapters</a>
+    <a class="lang-block lb-inline" data-lang="hi" href="scripts.html">&larr; सभी अध्याय</a>
+  </div>
+<article class="chapter" id="chapter-11">
+  <div class="chapter-head">
+    <div class="chapter-num lang-block lb-inline" data-lang="en">Chapter 11</div>
+    <div class="chapter-num lang-block lb-inline" data-lang="hi">अध्याय 11</div>
+    <h2 class="lang-block lb-block" data-lang="en">The Long Fifteenth Century: Betel Leaf, Court and a Shared World</h2>
+    <h2 class="lang-block lb-block" data-lang="hi">लंबी पंद्रहवीं शताब्दी: पान, दरबार और मिली-जुली दुनिया</h2>
+    <p class="chapter-dek lang-block lb-block" data-lang="en">A betel leaf, a borrowed throne, a poet who refused to come - the long fifteenth century, one shared world.</p>
+    <p class="chapter-dek lang-block lb-block" data-lang="hi">एक पान का पत्ता, एक उधार का सिंहासन, एक कवि जो आया ही नहीं - लंबी पंद्रहवीं शताब्दी की साझा दुनिया।</p>
+    <div class="chapter-watch-yt"><a class="lang-block lb-inline" data-lang="en" href="https://youtu.be/FWsYyCqK2f8" target="_blank" rel="noopener">Watch this episode on YouTube</a><a class="lang-block lb-inline" data-lang="hi" href="https://youtu.be/FWsYyCqK2f8" target="_blank" rel="noopener">यह एपिसोड यूट्यूब पर देखें</a></div>
+    <div class="chapter-meta">
+      <span class="lang-block lb-inline" data-lang="en">21 min read</span>
+      <span class="lang-block lb-inline" data-lang="hi">21 मिनट का पाठ</span>
+    </div>
+  </div>
+  <div class="chapter-highlights">
+    <blockquote>“भेद मत करो।”</blockquote>
+    <blockquote>“जो लोग साथ रहते हैं, वे हमेशा एक जैसे नहीं होते। और जो अलग दिखते हैं, वे हमेशा पराये नहीं होते।”</blockquote>
+  </div>
+  <details class="chapter-body" open>
+    <summary>
+      <span class="lang-block lb-inline" data-lang="en">Read the full chapter</span>
+      <span class="lang-block lb-inline" data-lang="hi">पूरा अध्याय पढ़ें</span>
+    </summary>
+    <div class="chapter-text lang-block lb-block" data-lang="en">
+<h3>The Beginning of a Long Century</h3>
+<p>Some centuries in history are longer than the calendar.</p>
+<p>They do not begin on any single date. They do not end in any single year either. They form slowly - out of wars, journeys, marketplaces, love, betrayal, language, and memory.</p>
+<p>India's fifteenth century was exactly like this.</p>
+<p>It is not merely the reckoning from 1400 to 1500. It is a long stretch - spreading from roughly 1347 to the early years of 1500. This is why historians call it the 'long fifteenth century'.</p>
+<p>This was the time when Delhi's grip was loosening. Regional kingdoms were rising, each in its own way. The Deccan was building a new world for itself. New capitals were blossoming in north India. Kashmir was on its own separate intellectual path. And the sea, the mountains, the mosque, the temple, the monastery, the court, and the kitchen - all of them were speaking the language of history.</p>
+<p>To understand this century, we must step a little away from the battlefield. Sometimes into the fragrance of betel leaf. Sometimes into a madrasa with turquoise tiles. Sometimes into the faces of Jinas carved on the rocks of Gwalior. Sometimes into the kitchen of Mandu, where a samosa is being made from venison and rosewater. Sometimes into the valley of Kashmir, where a woman-saint is shattering the sleep of both pandits and mullahs.</p>
+<p>Let us begin the story with betel leaf.</p>
+<p>In the 1440s, a traveller named Abdur Razzaq comes from Central Asia to South India. He makes a long journey - passing through mountains, roads, harbours, and courts, he reaches Vijayanagara.</p>
+<p>And there he finds something that does not feel to him like it belongs to a distant land. Paan - the betel leaf.</p>
+<p>That small union of areca nut, lime, and leaf, which leaves colour in the mouth, fills the body with a mild stimulation, and even creates a strange kind of equality in society.</p>
+<p>The old records of paan in India date from the first millennium CE. Perhaps the areca nut came from Southeast Asia. Slowly, paan travelled from India toward the west. By Abdur Razzaq's time, it had come to be regarded, across large parts of the pre-modern Islamic world, as a thing of health, virility, and pleasure.</p>
+<p>But in India, paan was not merely a flavour. It was also a small bridge across social distance.</p>
+<p>In a society where many high-caste people avoided eating with lower castes or outsiders, paan opened a space for sitting together and chewing together.</p>
+<p>A Sanskrit saying, praising paan, states that paan has a million virtues, and only one flaw - that when people rise after sharing it, they must part from their friends.</p>
+<p>In this saying lies hidden the India of the fifteenth century.</p>
+<p>People were different. Religions were different. Languages were different. Castes were different. Courts were different. But many of life's flavours were shared.</p>
+<p>Like paan.</p>
+<h3>Betel Leaf: A Leaf That Became a Bridge</h3>
+<p>The year 1347 descends upon Deccan history like lightning.</p>
+<p>In this very year, two kingdoms emerge - the Bahmani and Vijayanagara. Often they have been set up against each other. One called a Muslim kingdom, the other a Hindu kingdom. But history does not always move along the simple lines we draw.</p>
+<p>Both kingdoms were born of the same political earthquake. The Tughlaqs of Delhi withdrew from the Deccan. A vacuum of power opened up. And into that vacuum, two powers rose.</p>
+<p>The Bahmani. Vijayanagara.</p>
+<p>Historians Richard Eaton and Phillip Wagoner have called them 'political twins'. Listen carefully to this word - twins.</p>
+<p>Because between them there was not only hostility. There was a shared birth. A shared challenge. A shared political language. And, at times, even a shared life.</p>
+<p>The two kingdoms struggled for power for roughly 200 years around the Krishna river and the Raichur doab. The Raichur doab - that fertile land between the Krishna and Tungabhadra rivers, which kept being cut, again and again, by the lines of swords, horses, and ambitions.</p>
+<p>But if we look only at the battles, we lose half the picture.</p>
+<p>Both the Bahmanis and Vijayanagara built courtly culture. Both invested in trade. Both managed diverse populations. Both raised administrative structures. Both looked toward the sea. Both wanted to connect with the world.</p>
+<p>And, most interesting of all - the language, clothing, and symbols of their courts were often not different from each other, but alike.</p>
+<p>The kings of Vijayanagara worshipped Shiva and other Hindu deities. But at court, they did not present themselves merely as a 'Hindu king'. They often used political language much like that of the sultans.</p>
+<p>The rulers of Vijayanagara wore white robes and tall conical caps - a style in which Islamic courtly influence is plainly visible. At the Shiva temple of Lepakshi, images of such courtly attire survive even today.</p>
+<p>Just think of it. On a temple wall, the image of rulers whose clothing carries the sheen of the Islamic court. This was not contradiction. This was the ordinary political language of that time.</p>
+<p>An inscription of 1347 praises Marappa, the founder of Vijayanagara. He is called lord of the eastern, western, and southern oceans. He is called the breaker of the pride of enemy kings. And he is remembered with a title like 'Sultan among Hindu kings'.</p>
+<p>There is something very deep here.</p>
+<p>Today we hear the word 'Hindu' as a religious identity. But at that time this word also carried geographical and cultural meanings. And, even more interesting, in this inscription, Marappa is called not 'Hindu', but 'Sultan'.</p>
+<p>The language of power was moving outside the boundary of religion.</p>
+<h3>1347: The Bahmanis and Vijayanagara, Political Twins</h3>
+<p>Politics never runs on war alone. Sometimes it runs on marriage.</p>
+<p>At the start of the fifteenth century, the Bahmani sultan Tajuddin Firuz married the daughter of Vijayanagara's Devaraya I. This was an extraordinary event. A Muslim ruler of the Deccan was marrying the daughter of a neighbouring non-Muslim emperor.</p>
+<p>And this was not some quietly arranged agreement. Firuz himself went to Vijayanagara. He took part in grand ceremonies for several days.</p>
+<p>In some court, an enemy's daughter could be the bride. In welcoming some royal guest, the very city that might go to war the next decade could be adorned.</p>
+<p>This was not contradiction. This was medieval politics.</p>
+<p>Firuz was multilingual. His harem held women from Telangana, Maharashtra, Gujarat, Rajasthan and Bengal - speaking different languages. The court was not merely a chamber of power. It was a harbour of languages.</p>
+<p>And this flow was not one-sided. Several non-Muslim princesses came into Bahmani royal families. Relationships were built across the walls of religion. Kingdoms drew their borders with the sword, but royal houses also opened routes through relationships.</p>
+<h3>Politics Built Through Marriage</h3>
+<p>The same mixture appears in the armies and elites of the Bahmanis and Vijayanagara.</p>
+<p>Devaraya II enrolled large numbers of Muslims into the Vijayanagara army. Many became officers. Thousands became cavalry and foot soldiers. This was not merely generosity. This was military intelligence.</p>
+<p>Bahmani weapons and war strategies had to be understood. The enemy's strength had to be absorbed into one's own structure.</p>
+<p>But such practical politics has cultural effects too.</p>
+<p>In 1439, a Muslim noble named Ahmad Khan built a mosque in Vijayanagara. Interestingly, this mosque was called a 'dharmashala' - a word usually associated with places of worship or temples. And its structure, too, resembled nearby temples.</p>
+<p>That is, the mosque was not merely a mosque. It was a document of the Deccan's mixed architectural language.</p>
+<p>In one place, namaz was being offered. In its walls was the shadow of local temples. In its name was Sanskrit influence. The power was Vijayanagara's. In the army were Muslims. And the whole scene refused to be confined to a single category.</p>
+<h3>A Mixture of Armies and Courts</h3>
+<p>But there was no equality within this shared world.</p>
+<p>In making history beautiful, we must not hide its harshness.</p>
+<p>The rulers of Vijayanagara presented themselves as upholders of varnashramadharma - that is, the distinctions of caste and stages of life. Later, Krishnadevaraya wrote political maxims in Telugu that repeatedly advise placing Brahmins at the centre of power and administration.</p>
+<p>His reasoning was clear - a king needs Brahmins who understand politics, who obey the king's command, who understand dharma and rules, and who can strengthen the state.</p>
+<p>This shows us the social structure behind Vijayanagara's shine.</p>
+<p>On the other side, Bahmani service gave some opportunity to lower-caste Hindus. Sitadu, born in the village of Rajahmundry in Andhra, made a place for himself in Bahmani rule. He moved within the Deccan, took the name Shitab Khan, but did not change his religion. And he became a Bahmani official.</p>
+<p>This was an extraordinary life. A man of low caste, without changing religion, rising within the Deccani structure of power.</p>
+<p>We do not know what would have happened to him in Vijayanagara. But we know for certain that the social imagination of the two kingdoms was not the same.</p>
+<p>There was a shared culture. But there were also ladders within society. Courts opened up. But not for everyone.</p>
+<h3>Shared Culture, Unequal Society</h3>
+<p>Deccan history is incomplete without the sea.</p>
+<p>Both the Bahmanis and Vijayanagara looked at maritime trade with deep interest. Ties with Delhi had weakened. Distance had grown from the overland world of north India. So the Deccan turned toward the sea.</p>
+<p>The Bahmani state gave importance to ports like Goa, Dabhol and Chaul on the western coast. Goods came from these ports, goods went out, and the breath of power moved through them.</p>
+<p>Among the most essential imports were war-horses. Tens of thousands of horses passed through Bahmani markets. In medieval warfare, the horse was not merely an animal. It was the state's speed. It was the army's spine. It was the engine of political ambition.</p>
+<p>Raw silk came from China. It was spun, dyed and woven at Chaul and Thane. Then it went west, across the Arabian Sea.</p>
+<p>Black glass beads travelled between East Africa and India. The export of cotton cloth from India continued. In Egypt, fragments of Indian woven cloth are found from the fifth to the fifteenth century - that is, a textile relationship spanning more than a thousand years.</p>
+<p>Think of it. A cloth woven in India. Crossed the sea. Survived in the sands of Egypt. And centuries later it came into the historian's hand - as if the sea had pulled an old memory out of its own pocket and set it down.</p>
+<h3>The Sea, Trade, and the Truth of Slave Labour</h3>
+<p>But the sea did not carry only goods. It carried human beings too. Sometimes free. Sometimes forced.</p>
+<p>Both the Bahmanis and Vijayanagara used slave labour. When Krishnadevaraya travelled, slaves accompanied him. When Tajuddin Firuz returned to Gulbarga after his wedding in Vijayanagara, it is said that he took 2,000 male and female slaves with him.</p>
+<p>Migrants like Mahmud Gawan, coming to India from Persia, also brought slaves with them. Beneath the shining buildings of history, many nameless lives lie buried too.</p>
+<p>We do not know their names. We do not know in what language they wept. We do not know what sky they looked upon while crossing the sea. But they are within this story. And without them, this story is incomplete.</p>
+<h3>A Multilingual Deccan</h3>
+<p>The fifteenth-century Deccan was a multilingual region.</p>
+<p>Telugu in some places. Kannada in others. Tamil in others. Marathi in others. Persian at court. Dakhni under Bahmani patronage - that dialect of Hindi in which Punjabi words too were present in large numbers. Sanskrit literature had patronage in Vijayanagara. Local languages had a deep life in the south.</p>
+<p>Within a single region, many voices were speaking.</p>
+<p>Sometimes an inscription carried Persian influence. Sometimes the Maharashtrian tradition of gadhegal stones appeared in both Bahmani and Vijayanagara inscriptions. Sometimes the tales of the Panchatantra returned from Central Asia, having become the Persian 'Kalila wa Dimna'. Abdur Razzaq, seeing Brahmins in Vijayanagara, was reminded of those animal fables.</p>
+<p>The story went out of India. Changed into Persian. Was read in Central Asia. Then returned to India and lit up again in some traveller's memory.</p>
+<p>History's road is not straight. It circles. It returns. It recognizes its own thing again, made new.</p>
+<h3>The Bahmanis and Persia: The Poet Who Did Not Come</h3>
+<p>The relations between the Deccan and Persia are among the most beautiful and most political stories of this century.</p>
+<p>The Bahmani state had been cut off from Delhi. The north-south distance grew further after Timur's 1398 attack on Delhi. Delhi had broken. The south was finding its own separate rhythm.</p>
+<p>The Bahmani sultans reached out toward Persia and Central Asia. They did not want only goods. They wanted scholars. They wanted poets. They wanted artisans. They wanted architects. They wanted prestige.</p>
+<p>It is said that the Bahmani sultan Muhammad II invited the Persian poet Hafiz from Shiraz to come to the Deccan. Hafiz reached the port of Hormuz. Then he stopped.</p>
+<p>Instead of coming to the Deccan, he sent a poem to Gulbarga. Its sentiment was - the promises are magnificent, but how could I leave the garden of my homeland, my wines, and my friends?</p>
+<p>This is an astonishing moment in history. The Deccan is calling Persia. Persia's poet comes as far as the shore of the sea. Then turns back toward his own soil. The wish of power loses. The poet's roots win.</p>
+<p>But not everyone turned back.</p>
+<p>Mahmud Gawan came.</p>
+<p>In 1453, Mahmud Gawan landed on the Konkan coast as a middle-aged Persian merchant. He carried silk. Pearls. Gems. Arabian horses. Turkish and Ethiopian slaves.</p>
+<p>He perhaps wanted to go to Delhi. But Bidar held him back.</p>
+<p>Slowly he became one of the most powerful nobles of the Bahmani Sultanate. He wrote letters to people in Persia, Turkey, Syria, and Iraq. He asked them to come to Bidar. His message was, roughly - India is famous among the world's distinguished people, scholars live here, come.</p>
+<p>He also invited the Persian poet Jami. Jami did not come. But he acknowledged that Gawan had made India an object of envy for the Persian-speaking world.</p>
+<p>That is, Bidar was not merely the Deccan's capital. It was shining on an intellectual map across the Arabian Sea.</p>
+<h3>Mahmud Gawan: Brilliance and a Tragic End</h3>
+<p>Mahmud Gawan's life was as brilliant as his end was tragic.</p>
+<p>The Bahmani court had two factions. One, the old Deccani nobility - whose roots lay in the old politics of Delhi and the Deccan. The other, the newly arrived foreigners - mainly Iranians and Central Asians.</p>
+<p>Factionalism at court kept growing. Sometimes the two groups were even seated separately. When space at the table of power grows scarce, conspiracy begins.</p>
+<p>Some were jealous of Gawan's success. A Deccani and an Ethiopian man conspired together. They created a forged letter in Gawan's name, inviting the king of Odisha to attack Bahmani territory. Then, through bribery and deceit, they had Gawan's own seal-bearer stamp the real seal onto that forged letter.</p>
+<p>When Sultan Muhammad III saw the genuine seal, he believed it to be true. Gawan was charged with treason. And the order was given to behead him.</p>
+<p>It is said that, walking toward his death, Gawan said - the death of an old man like me means nothing, but this will be a loss of empire for your sultanate, and the ruin of your character.</p>
+<p>These words came true, like a prophecy.</p>
+<p>After Gawan's death in 1481, the Bahmani state began to break apart. The court's poison had already seeped into the bones of the state.</p>
+<p>But one legacy of Gawan's still stands in Bidar today - his madrasa.</p>
+<p>Completed in 1472, this vast madrasa recalled Timurid and Khurasani architecture. Its tiles gleamed in white, yellow, and turquoise blue. A Central Asian-style school, on Deccani soil. It held a library of 3,000 books in Persian and Arabic. More than 100 students and 12 professors could reside there.</p>
+<p>This building was a declaration written in stone - the Deccan is no longer merely Delhi's shadow. It is calling the world to itself.</p>
+<h3>A Crumbling Throne, a Crumbling Empire</h3>
+<p>The Bahmani court also looked toward Persia's deep past.</p>
+<p>They took symbols from the Sasanian empire. They adopted the winged crescent. They connected their name to 'Bahman' - that mythical figure who found a place in Firdausi's Shahnameh. They sat upon a turquoise throne - the Takht-i-Firoza.</p>
+<p>But the story of this throne is special.</p>
+<p>It was not merely a thing of Persian imagination. It was made by South Indian artisans. By Telugu craftsmen. On the order of Kapaya Nayaka.</p>
+<p>In fact, this throne was being made for the Tughlaqs. But by the time the throne was completed in 1361, the Tughlaqs had already left the Deccan. So Kapaya Nayaka gifted it to the Bahmanis.</p>
+<p>A frame of black ebony wood. A layer of pure gold. Precious gems. Gleaming turquoise enamel.</p>
+<p>When this throne arrived at the Bahmani court, a festival was celebrated for 40 days. Musicians came from Delhi. The compositions of Amir Khusrau and Amir Hasan were sung. A grand celebration of Indo-Persian culture lit up the Deccan.</p>
+<p>But every shine has its darkness too.</p>
+<p>Every Bahmani ruler added new gems to the throne. Slowly the turquoise surface was hidden. Layer piled upon layer of shine, and the original colour was lost.</p>
+<p>The last Bahmani king, as his power was failing and his treasury emptying, had the throne broken apart for its jewels.</p>
+<p>The kingdom broke too. And so did the throne.</p>
+<p>Five sultanates emerged from Bahmani territory - Ahmadnagar, Bijapur, Berar, Golconda, and Bidar.</p>
+<p>Sometimes empires break exactly like this. First the colour disappears. Then the form. Then the memory.</p>
+<h3>Calicut: The Sea King and the Mappila Community</h3>
+<p>Now let us move from the Deccan to the seashore - Calicut.</p>
+<p>Calicut was a great commercial centre of the Malabar coast. The black pepper trade connected it to the world. This city was known by the sea. Its ruler was called the 'Samudri Raja' - the Sea King.</p>
+<p>Arab merchants came here. Ties formed with local society. Some lower castes adopted Islam. Slowly the Malayalam-speaking Mappila community formed.</p>
+<p>The Mappilas had less in common with Indian Muslim elites. But they shared a great deal with the Nairs. The Nairs were a group of Kerala's Hindu castes, often considered Shudra.</p>
+<p>Both the Mappilas and the Nairs had a tradition of matrilineal inheritance. Both had similarities in dress. Religion was different; social life held closeness.</p>
+<p>This makes one thing clear - identity is not always decided from above. Often, neighbourhood, trade, marriage, dress, inheritance, and language build deeper relationships than religion.</p>
+<h3>The Virashaivas and a Sufi Urs, Shared as One Fair</h3>
+<p>The story of the Virashaiva, or Lingayat, community in Karnataka also blurs boundaries in exactly this way.</p>
+<p>This community was connected to Shiva-devotion in the twelfth century. They criticized temple-based worship. They welcomed followers across the boundaries of caste and gender. By the fifteenth century they were present in monasteries in and around Vijayanagara.</p>
+<p>But the most interesting thing is that they came to worship at a Sufi site that was built after the death of Bahmani sultan Ahmad I.</p>
+<p>Ahmad I was worshipped like a Sufi saint. Lingayat priests took part in his annual urs. They offered worship. They sang verses. They distributed prasad.</p>
+<p>And this urs was fixed not by the Islamic lunar calendar, but by the solar calendar - so that it would coincide with Holi every year.</p>
+<p>Pause and look at this scene.</p>
+<p>A Bahmani sultan. After death, a Sufi saint. Lingayat priests. Worship. Prasad. An urs tied to Holi.</p>
+<p>This is not the story of some modern slogan. This is a life that happened on the ground of the medieval Deccan.</p>
+<h3>Vijayanagara: The Union of Rama, Shiva, and Power</h3>
+<p>Vijayanagara also gave deep patronage to Hindu traditions.</p>
+<p>The Smarta Shaiva tradition received support at Sringeri. Scholars like Sayana came forward, writing an extensive commentary on the Rigveda. This commentary was written roughly 2,500 years after the composition of the Rigveda, yet it still holds influence in Vedic interpretation to this day.</p>
+<p>It is also important to remember that Sayana's Vedic project received royal patronage. Knowledge was not merely a work of the spirit. It was tied to power too.</p>
+<p>The kings of Vijayanagara also made use of the Ramayana. They placed a Rama temple at the centre of their capital for state rituals. That region was connected to Kishkindha - the very southern kingdom where Rama gained his army of monkeys.</p>
+<p>The king issued orders in the name of Virupaksha, that is, Shiva. The identity of sovereign and deity dissolved into one another. Krishnadevaraya built a great gateway at the Virupaksha temple, which was also a memorial to his coronation.</p>
+<p>State, religion, myth and architecture - all of them were climbing the walls together.</p>
+<h3>Timur's Invasion and the Rise of New Cities</h3>
+<p>Now let us turn north.</p>
+<p>In 1398, Timur attacked Delhi. From December 1398 to January 1399, Delhi witnessed indiscriminate plunder, killing, and destruction. Buildings were broken. Tens of thousands of people were killed. The city was left as a shadow of its former self.</p>
+<p>But there is a harsh rule in history - the fall of one capital can pave the way for the rise of other cities.</p>
+<p>People fled Delhi. They began settling in regional centres. Cities like Jaunpur, Gwalior, and Mandu rose. North Indian culture now began speaking not from a single centre, but from many.</p>
+<p>Jaunpur was roughly 700 kilometres south-east of Delhi. Here, Malik Sarwar, a slave from an Ethiopian lineage connected to the Tughlaqs, laid the foundation of an independent dynasty. He was called Malik-e-Sharq - King of the East. And so the dynasty was called Sharqi.</p>
+<p>Jaunpur was a city of diverse religious communities.</p>
+<p>The poet Vidyapati, at the start of the 1400s, drew an astonishing picture of Jaunpur. In his poetry, Hindus and Muslims live together. One gives the call to prayer, another recites the Vedas. One slaughters an animal saying Bismillah, another cuts an animal in a yajna. Some fast during Ramadan, some fast according to astrology. Some offer namaz, some perform puja.</p>
+<p>Vidyapati's tone does not place one above the other. He sees both as two heartbeats of the city's life. Different, but together.</p>
+<p>One more thing matters here. Writing in Apabhramsha, Vidyapati uses the word 'Hindu'. This word slowly enters South Asian languages from Persian and Arabic. In the coming centuries it becomes a word for a broad religious identity.</p>
+<p>That is, words too travel. First they denote geography. Then culture. Then religion. Then politics.</p>
+<h3>Jaunpur: Vidyapati's Shared City-Poetry</h3>
+<p>Gwalior was a great centre of literature and art in the fifteenth century.</p>
+<p>The Tomar rulers looked toward both the mythic past and political history. In the 1430s, the Tomar ruler Dungrendra Singh gave his court poet Vishnudas a challenge - tell how, in the war of the Mahabharata, five Pandavas defeated a hundred Kauravas.</p>
+<p>He gave Vishnudas this challenge along with a betel leaf. This is where the memory of the expression 'bira uthana' - 'taking up the leaf', meaning to accept a challenge - connects.</p>
+<p>Vishnudas completed his Hindi Mahabharata, the Pandava-Charita, in 1435. In 1443 he wrote a Hindi Ramayana.</p>
+<p>Here we see Sanskrit epics descending into a regional language. The court was giving the local tongue the body of an epic. The tale was old. The voice was new.</p>
+<p>Outside the court, the Digambara Jain community in Gwalior was also writing its own memory in stone.</p>
+<p>Between 1440 and 1473, more than 1,500 images of the Tirthankaras were carved onto the rocks of the Gwalior fort. Their oversight was managed by a lay leader like Raidhu, who was also a poet and a great voice of Jain devotion.</p>
+<p>Just imagine it - the rocks of the fort. Political power above. And below, the calm faces of the Tirthankaras carved into stone.</p>
+<p>This art was not devotion alone. It was also a declaration of the future. Raidhu and his companions believed that these images would make Gwalior a sacred Jain site - a site that would remain in memory until the end of the world.</p>
+<h3>Gwalior: The Mahabharata in Hindi, Jain Memory on the Mountain</h3>
+<p>In Mandu, history takes on yet another flavour.</p>
+<p>Mandu, capital of the Malwa Sultanate, more than 800 kilometres south of Delhi, was a world settled on hills where court, art, food, and pleasure all met together.</p>
+<p>In Malwa, in 1411 and 1439, two of the earliest surviving illustrated Indian manuscripts of the Kalpasutra were produced. The Jain tradition flourished here too.</p>
+<p>In 1469, Ghiyathuddin Shah came to power in Mandu. He had a taste for the beautiful things of life - in the literal sense too.</p>
+<p>He sponsored an illustrated cookbook called the Ni'matnama. Made around 1500, this book is a unique document of dishes, medicinal foods, sensuality, health, and courtly life.</p>
+<p>In it is found a recipe for samosas. Finely minced venison. Ghee scented with fenugreek. Saffron. Salt. Cumin. Cloves. Coriander. Musk. Onion. Dried ginger. Rosewater. Then the filling. Then the samosa fried in fragrant ghee.</p>
+<p>This is not merely food. This is Mandu's political-cultural statement.</p>
+<p>In the kitchen is Persian flavour. There are Indian spices. There is courtly comfort. There is medical belief. There is a history of sensuality. And there is the eye of art.</p>
+<p>The Ni'matnama has a long section on paan. It was considered helpful in illness. It was said to give relief from sexual ailments, arthritis, tonsillitis, and stomach troubles.</p>
+<p>That is, our story, which began with paan, returns again to the kitchen of Mandu.</p>
+<p>A leaf, which was in Vijayanagara. Which was in Jaunpur's challenge. Which was in Mandu's medicine. And which was in the cultural memory of all of India.</p>
+<h3>Mandu: A Kitchen That Writes History</h3>
+<p>Now let us go toward Kashmir.</p>
+<p>Kashmir was ringed by mountains. Its geographic position gave it a rhythm somewhat different from the rest of South Asia. But in fifteenth-century Kashmir too, the same questions were arising - religion, language, power, translation, memory, and identity.</p>
+<p>In 1339, the Shah Mir dynasty took power in Kashmir. This dynasty was different, in many ways, from other Indo-Muslim dynasties of the subcontinent.</p>
+<p>The Delhi Sultanate had a practice of elite slavery. The Shah Mirs did not have this.</p>
+<p>Most importantly, they used Sanskrit as the language of state. They gave patronage to Sanskrit-medium Brahmin historians like Jonaraja and Shrivara. These historians were carrying forward Kalhana's Rajatarangini tradition - writing Kashmiri politics as a river of kings.</p>
+<p>The Shah Mirs used Sanskrit on royal tombs. They gave patronage to Sanskrit translations of Persian texts. In 1505, Shrivara made a Sanskrit translation of Jami's Yusuf-wa-Zulaikha - an immensely popular love story of the Persian world.</p>
+<p>Just think of it. A Persian love story, descending into Sanskrit, in Kashmir. An Islamic dynasty giving patronage to Sanskrit historians. Brahmin writers writing the history of Muslim rule.</p>
+<p>History here is not a straight line of a single religion. It is a mountain river - striking against stones, turning, and then flowing onward.</p>
+<p>Queen Gul Khatun supported both Hindu and Muslim communities. Zain-ul-Abidin was remembered for his generous patronage of Sanskrit literature. The Sufi tradition also flourished in Kashmir. Saints like Nund Rishi criticized the Hindu-Muslim divide and spoke with everyone, from common people to elites.</p>
+<p>But among the most extraordinary voices was that of Lalla, Lal Ded.</p>
+<p>A fourteenth-century Kashmiri Shaiva saint. She struck at religious ostentation - at pandits, at idol-worship, at outward ritual alike. Her poetry is among the earliest known lines of the Kashmiri language.</p>
+<p>Her sentiment was - thoughtless people read sacred books the way a caged parrot repeats 'Ram, Ram'. Such reading is like churning water - much labour, no essence.</p>
+<p>Lalla also spoke against the harsh distinction between Hindu and Muslim. Her point was direct - do not make distinctions.</p>
+<p>But such voices are not dear to everyone. Especially not to those whose power rests on distinctions.</p>
+<p>Pre-modern Kashmiri Brahmins did not give Lalla much space in their texts. Perhaps because she criticized high-caste practices. A voice that lives among the people is sometimes kept out of the books.</p>
+<p>But the path of memory is larger than books. Lalla survived. In poetry. Among the people. In the breath of Kashmir.</p>
+<h3>Kashmir: A Persian Love Story Descending Into Sanskrit</h3>
+<p>Kashmir's story is not only one of partnership. It is also a story of tension.</p>
+<p>Jonaraja remembered Suha Bhatta - a Brahmin who adopted Islam and took the name Malik Saifuddin. But Jonaraja did not use his new name. He continued to call him Suha Bhatta.</p>
+<p>This refusal to use a name is politics too.</p>
+<p>Refusing a person's new name, refusing to publicly acknowledge his new religion, binding him to his old identity - this is an attempt at control over memory.</p>
+<p>Jonaraja called Suha Bhatta a man who turned against his own people. In his view, conversion was not merely a religious decision. It was a deep wound within the world of caste and community.</p>
+<p>That is, fifteenth-century India is not merely a bright picture of shared culture. It is also a world of fear, resentment, conversion, memory, and accusation.</p>
+<p>In Kashmir there was conflict within Muslim communities too. Local Kashmiri Muslims and the Sayyids of Baihaqi who had arrived from outside clashed for power. This was something like the tension in the Deccan between the old Deccani nobility and the newly arrived foreigners.</p>
+<p>Religion can be the same. But power still divides.</p>
+<p>This is why the fifteenth century keeps warning us, again and again - reading history along a straight line of Hindu versus Muslim is wrong.</p>
+<p>Sometimes a Hindu ruler adopts the sultan's language. Sometimes a Muslim state gives patronage to Sanskrit history. Sometimes a Lingayat priest worships at a Sufi urs. Sometimes a Jain community has illustrated manuscripts made in a Muslim sultanate's city. Sometimes there is Persian at court, Telugu in the village, Dakhni in the market, Sanskrit in the temple, Malayalam at the port, and Arabic upon the sea.</p>
+<p>But this same century also shows us that shared culture does not mean equality. There was caste. There was slavery. There was court intrigue. There was fear around conversion. There was factionalism within power. And empires broke apart.</p>
+<p>This India was flowing. But it was not innocent.</p>
+<h3>Lalla: Do Not Make Distinctions</h3>
+<p>Perhaps the greatest lesson of the long fifteenth century is this - to understand India, do not look at it in a single colour.</p>
+<p>It is like paan - a mixture of many things. A leaf from somewhere. Areca nut from somewhere. Lime from somewhere. Taste in the mouth. Colour on the lips. A mild intoxication in the body. And memory within society.</p>
+<p>Vijayanagara and the Bahmanis were twin kingdoms - they fought, and they also learned from each other. The Deccan called out to Persia, but gave it a new form in its own soil. In Calicut, the sea was a greater teacher than religion. In Gwalior, the Mahabharata was becoming Hindi, and the mountain was filling with Jain memory. In Mandu, the kitchen was writing history. In Kashmir, Sanskrit, Persian and Kashmiri were looking into each other's eyes.</p>
+<p>And Lalla's voice falls over this entire age like a thin ray of light - do not make distinctions.</p>
+<p>But history also says this - simply saying it is not enough. Because power is always present. It comes through religion. It comes through caste. It comes through the court. It comes through language. It comes through a name. It comes even down to whether or not one accepts someone's name.</p>
+<p>The India of the fifteenth century does not give us a simple conclusion. It gives us the habit of seeing difficultly.</p>
+<p>It tells us that societies are not made of walls. They are made of roads. Of trade. Of food. Of language. Of marriage. Of translation. Of music. Of memory. And of conflict.</p>
+<p>In this century there was no single capital called India. Delhi was wounded. The Deccan was rising. Jaunpur was speaking. Gwalior was carving. Mandu was cooking. Kashmir was translating. Calicut was conversing with the sea.</p>
+<p>India was not one centre. India was a spreading field of many voices.</p>
+<p>And perhaps this is India's greatest story.</p>
+<p>That here, no identity ever walks alone. Every identity touches some other. Sometimes through love. Sometimes through trade. Sometimes through war. Sometimes through fear. Sometimes through poetry.</p>
+<p>In the long fifteenth century, India showed us a difficult truth - those who live together are not always alike. And those who look different are not always strangers.</p>
+<p>Seen through history's eye, even a single leaf of paan can become a document greater than empires.</p>
+<p>Because within it is taste. There is a journey. There is partnership. There is a small friendship, sitting amid the cracks of class and caste.</p>
+<p>And perhaps this is exactly why, in that old saying, paan's greatest flaw was this - after sharing it, one must part from one's friends.</p>
+<p>But what truly becomes shared in history does not fully part ways.</p>
+<p>It survives in language. In brick. In recipe. In the shape of a mosque. In the clothing painted on a temple wall. In the calm faces carved on a fort's rock. In the turquoise tile of some madrasa. In some poet's refusal. In some saint's rebuke.</p>
+<p>And India's story moves on again.</p>
+<p>Toward the next turning. Toward the next century. Toward the next question.</p>
+    </div>
+    <div class="chapter-text lang-block lb-block" data-lang="hi">
+<h3>एक लंबी सदी की शुरुआत</h3>
+<p>## भारत की कहानी - एपिसोड 11</p>
+<p>## लंबी पंद्रहवीं शताब्दी</p>
+<p>इतिहास में कुछ सदियां कैलेंडर से लंबी होती हैं।</p>
+<p>उनकी शुरुआत किसी एक तारीख़ से नहीं होती। उनका अंत भी किसी एक साल में नहीं होता। वे धीरे-धीरे बनती हैं - युद्धों, यात्राओं, बाज़ारों, प्रेम, विश्वासघात, भाषा और स्मृति से।</p>
+<p>भारत की 15वीं शताब्दी ऐसी ही थी।</p>
+<p>यह सिर्फ़ 1400 से 1500 तक की गणना नहीं है। यह एक लंबा दौर है - लगभग 1347 से 1500 के शुरुआती वर्षों तक फैला हुआ। इसीलिए इतिहासकार इसे “लंबी पंद्रहवीं शताब्दी” कहते हैं।</p>
+<p>यह वह समय था, जब दिल्ली की पकड़ ढीली पड़ रही थी। क्षेत्रीय राज्य अपने-अपने ढंग से उभर रहे थे। दक्कन अपने लिए नई दुनिया बना रहा था। उत्तर भारत में नई राजधानियां खिल रही थीं। कश्मीर अपनी अलग बौद्धिक राह पर था। और समुद्र, पहाड़, मस्जिद, मंदिर, मठ, दरबार और रसोई - सब इतिहास की भाषा बोल रहे थे।</p>
+<p>इस सदी को समझने के लिए हमें युद्ध के मैदान से ज़रा हटना होगा। कभी पान की गंध में जाना होगा। कभी फ़ीरोज़ी टाइलों वाले मदरसे में। कभी ग्वालियर की चट्टानों पर उकेरे गये जिनों के चेहरों में। कभी मांडू की रसोई में, जहां हिरन के मांस और गुलाब-जल से समोसा बन रहा है। कभी कश्मीर की घाटी में, जहां एक स्त्री-संत पंडितों और मुल्लाओं - दोनों की नींद तोड़ रही है।</p>
+<p>कहानी की शुरुआत पान से करते हैं।</p>
+<p>1440 के दशक में अब्दुल रज़्ज़ाक नाम का एक यात्री मध्य एशिया से दक्षिण भारत आता है। वह लंबी यात्रा करता है - पहाड़ों, रास्तों, बंदरगाहों, दरबारों से गुज़रता हुआ विजयनगर पहुंचता है।</p>
+<p>और वहां उसे एक ऐसी चीज़ मिलती है, जो उसे दूर देश की नहीं लगती। पान।</p>
+<p>सुपारी, चूना और पत्ते का वह छोटा-सा संगम, जो मुंह में रंग छोड़ता है, शरीर में हल्की उत्तेजना भरता है, और समाज में एक अजीब तरह की बराबरी की जगह भी बना देता है।</p>
+<p>भारत में पान के पुराने रिकॉर्ड पहली सहस्राब्दी ईसवी से मिलते हैं। शायद सुपारी दक्षिण-पूर्व एशिया से आयी थी। धीरे-धीरे पान भारत से पश्चिम की ओर गया। अब्दुल रज़्ज़ाक के समय तक वह प्राक्-आधुनिक इस्लामी दुनिया के बड़े हिस्सों में स्वास्थ्य, मर्दानगी और आनंद की चीज़ माना जाने लगा था।</p>
+<p>लेकिन भारत में पान सिर्फ़ स्वाद नहीं था। वह सामाजिक दूरी के बीच एक छोटा-सा पुल भी था।</p>
+<p>एक ऐसा समाज, जहां ऊंची जाति के बहुत से लोग नीची जातियों या बाहरी लोगों के साथ खाना खाने से बचते थे, वहां पान साथ बैठकर खाने-चबाने की एक जगह खोलता था।</p>
+<p>एक संस्कृत कहावत में पान की तारीफ़ करते हुए कहा गया कि पान में लाखों गुण हैं, बस एक दोष है - जब लोग उसे साझा करके उठते हैं, तो दोस्तों से जुदा होना पड़ता है।</p>
+<p>इस कहावत में 15वीं शताब्दी का भारत छिपा है।</p>
+<p>लोग अलग थे। धर्म अलग थे। भाषाएं अलग थीं। जातियां अलग थीं। दरबार अलग थे। लेकिन जीवन के कई स्वाद साझा थे।</p>
+<p>पान की तरह।</p>
+<h3>पान: एक पत्ता जो पुल बन गया</h3>
+<p>1347 का साल दक्कन के इतिहास में बिजली की तरह उतरता है।</p>
+<p>इसी साल दो राज्य उभरते हैं - बहमनी और विजयनगर। अक्सर उन्हें एक-दूसरे के विरुद्ध खड़ा किया गया है। एक को मुस्लिम राज्य, दूसरे को हिंदू राज्य कहा गया। लेकिन इतिहास हमेशा हमारी बनाई हुई सरल रेखाओं पर नहीं चलता।</p>
+<p>ये दोनों राज्य एक ही राजनीतिक भूकंप से जन्मे थे। दिल्ली के तुग़लक़ दक्कन से पीछे हटे। सत्ता का एक खाली मैदान खुला। और उस मैदान में दो शक्तियां उठीं।</p>
+<p>बहमनी। विजयनगर।</p>
+<p>इतिहासकार रिचर्ड ईटन और फिलिप वैगनर ने उन्हें “राजनीतिक जुड़वां” कहा है। इस शब्द को ध्यान से सुनिए - जुड़वां।</p>
+<p>क्योंकि उनके बीच सिर्फ़ दुश्मनी नहीं थी। साझा जन्म था। साझा चुनौती थी। साझा राजनीतिक भाषा थी। और कभी-कभी साझा जीवन भी।</p>
+<p>दोनों राज्य लगभग 200 साल तक कृष्णा नदी और रायचूर दोआब के आसपास शक्ति के लिए संघर्ष करते रहे। रायचूर दोआब - कृष्णा और तुंगभद्रा नदियों के बीच की वह उपजाऊ ज़मीन, जो तलवारों, घोड़ों और महत्वाकांक्षाओं की लकीरों से बार-बार कटती रही।</p>
+<p>लेकिन अगर हम सिर्फ़ लड़ाइयों को देखें, तो आधी तस्वीर खो देंगे।</p>
+<p>बहमनी और विजयनगर दोनों ने दरबारी संस्कृति बनाई। दोनों ने व्यापार में निवेश किया। दोनों ने विविध आबादी को संभाला। दोनों ने प्रशासनिक ढांचे खड़े किये। दोनों समुद्र की तरफ़ देख रहे थे। दोनों दुनिया से जुड़ना चाहते थे।</p>
+<p>और सबसे रोचक बात - उनके दरबारों की भाषा, कपड़े और प्रतीक अक्सर एक-दूसरे से अलग नहीं, बल्कि मिलते-जुलते थे।</p>
+<p>विजयनगर के राजा शिव और दूसरे हिंदू देवताओं की पूजा करते थे। लेकिन दरबार में वे सिर्फ़ “हिंदू राजा” की तरह पेश नहीं आते थे। वे कई बार सुल्तानों जैसी राजनीतिक भाषा इस्तेमाल करते थे।</p>
+<p>विजयनगर के शासक सफ़ेद अंगरखे और लंबी शंक्वाकार टोपियां पहनते थे - एक ऐसी शैली, जिसमें इस्लामी दरबारी असर साफ़ दिखता था। लेपाक्षी के शिव मंदिर में ऐसे दरबारी परिधानों की छवियां आज भी बची हैं।</p>
+<p>ज़रा सोचिए। मंदिर की दीवार पर ऐसे शासकों की छवि, जिनके कपड़ों में इस्लामी दरबार की चमक है। यह विरोध नहीं था। यह उस समय की सामान्य राजनीतिक भाषा थी।</p>
+<p>1347 के एक शिलालेख में विजयनगर संस्थापक मरप्पा की प्रशंसा की गयी। उसे पूर्वी, पश्चिमी और दक्षिणी महासागरों का स्वामी कहा गया। शत्रु राजाओं का गर्व तोड़ने वाला कहा गया। और उसे “हिंदू राजाओं पर सुल्तान” जैसी उपाधि से याद किया गया।</p>
+<p>यहां बात बहुत गहरी है।</p>
+<p>आज हम “हिंदू” शब्द को एक धार्मिक पहचान की तरह सुनते हैं। लेकिन उस समय इस शब्द में भौगोलिक और सांस्कृतिक अर्थ भी मौजूद थे। और उससे भी ज़्यादा रोचक यह है कि शिलालेख में मरप्पा को “हिंदू” नहीं, “सुल्तान” कहा जा रहा है।</p>
+<p>सत्ता की भाषा धर्म की सीमा से बाहर जा रही थी।</p>
+<h3>1347: बहमनी और विजयनगर, राजनीतिक जुड़वां</h3>
+<p>राजनीति कभी सिर्फ़ युद्ध से नहीं चलती। कभी वह विवाह से चलती है।</p>
+<p>15वीं शताब्दी की शुरुआत में बहमनी सुल्तान ताजुद्दीन फ़िरूज़ ने विजयनगर के देवराय प्रथम की बेटी से शादी की। यह एक असाधारण घटना थी। दक्कन का एक मुस्लिम शासक, पड़ोसी ग़ैर-मुस्लिम सम्राट की बेटी से विवाह कर रहा था।</p>
+<p>और यह कोई चुपचाप हुआ समझौता नहीं था। फ़िरूज़ खुद विजयनगर गया। भव्य समारोहों में कई दिन शामिल रहा।</p>
+<p>किसी दरबार में दुश्मन की बेटी दुल्हन हो सकती थी। किसी शाही मेहमान के स्वागत में वही शहर सज सकता था, जिससे अगले दशक में युद्ध भी हो सकता था।</p>
+<p>यह विरोधाभास नहीं था। यह मध्यकालीन राजनीति थी।</p>
+<p>फ़िरूज़ बहुभाषी था। उसके हरम में तेलंगाना, महाराष्ट्र, गुजरात, राजस्थान और बांग्ला की महिलाएं थीं - अलग-अलग भाषाएं बोलती हुईं। दरबार सिर्फ़ सत्ता का कमरा नहीं था। वह भाषाओं का बंदरगाह था।</p>
+<p>और यह सिलसिला एकतरफ़ा नहीं था। कई ग़ैर-मुस्लिम राजकुमारियां बहमनी शाही परिवारों में आयीं। धर्म की दीवारों के पार रिश्ते बने। राज्य अपनी सीमाएं तलवार से खींचते थे, लेकिन राजघराने रिश्तों से रास्ते भी खोलते थे।</p>
+<h3>विवाह से बनी राजनीति</h3>
+<p>बहमनी और विजयनगर की सेनाओं और अभिजात वर्ग में भी वही मिश्रण दिखता है।</p>
+<p>देवराय द्वितीय ने बड़ी संख्या में मुसलमानों को विजयनगर की सेना में शामिल किया। कई अधिकारी बने। हज़ारों घुड़सवार और पैदल सैनिक बने। यह सिर्फ़ उदारता नहीं थी। यह सैन्य बुद्धिमानी थी।</p>
+<p>बहमनी हथियारों और युद्ध-रणनीतियों को समझना था। दुश्मन की ताक़त को अपने ढांचे में शामिल करना था।</p>
+<p>लेकिन ऐसी व्यावहारिक राजनीति के सांस्कृतिक असर भी होते हैं।</p>
+<p>1439 में अहमद ख़ान नाम के एक मुस्लिम रईस ने विजयनगर में मस्जिद बनवाई। दिलचस्प बात यह है कि उस मस्जिद को “धर्मशाले” कहा गया - यह शब्द आम तौर पर पूजा-स्थान या मंदिरों से जुड़ता था। और उसकी बनावट भी पास के मंदिरों जैसी दिखती थी।</p>
+<p>यानी मस्जिद सिर्फ़ मस्जिद नहीं थी। वह दक्कन की मिली-जुली स्थापत्य भाषा का दस्तावेज़ थी।</p>
+<p>एक जगह नमाज़ हो रही थी। दीवारों में स्थानीय मंदिरों की छाया थी। नाम में संस्कृत-प्रभाव था। सत्ता विजयनगर की थी। सेना में मुसलमान थे। और पूरा दृश्य किसी एक खांचे में क़ैद होने से इंकार कर रहा था।</p>
+<h3>सेनाओं और दरबारों का मिश्रण</h3>
+<p>लेकिन इस साझा संसार में बराबरी नहीं थी।</p>
+<p>इतिहास को सुंदर बनाते हुए हमें उसकी कठोरता छिपानी नहीं चाहिए।</p>
+<p>विजयनगर के शासक खुद को वर्णाश्रमधर्म - यानी जाति और जीवन-चरण के भेद - को संभालने वाला बताते थे। बाद में कृष्णदेवराय ने तेलुगु में राजनीतिक सूत्र लिखे, जिनमें बार-बार ब्राह्मणों को सत्ता और प्रशासन के केंद्र में रखने की सलाह मिलती है।</p>
+<p>उनका तर्क साफ़ था - राजा को ऐसे ब्राह्मण चाहिए, जो राजनीति जानते हों, राजा की आज्ञा मानते हों, धर्म और नियम समझते हों, और राज्य को मज़बूत कर सकें।</p>
+<p>यह हमें विजयनगर की चमक के पीछे की सामाजिक संरचना दिखाता है।</p>
+<p>दूसरी तरफ़ बहमनी सेवा में कुछ निम्न-जाति के हिंदुओं को अवसर मिला। आंध्र के राजापुड़ी गांव में जन्मे सितडु ने बहमनी शासन में जगह बनायी। वे दक्कन के भीतर गये, अपना नाम शिताब ख़ान रखा, लेकिन धर्म नहीं बदला। और बहमनी अधिकारी बने।</p>
+<p>यह एक असाधारण जीवन था। एक निम्न-जाति का आदमी, बिना धर्म बदले, सत्ता की दक्कनी संरचना में ऊपर उठ रहा था।</p>
+<p>हम यह नहीं जानते कि विजयनगर में उनके साथ क्या होता। लेकिन इतना ज़रूर जानते हैं कि दोनों राज्यों की सामाजिक कल्पना एक जैसी नहीं थी।</p>
+<p>साझा संस्कृति थी। लेकिन समाज में सीढ़ियां भी थीं। दरबार खुलते थे। लेकिन हर किसी के लिए नहीं।</p>
+<h3>साझा संस्कृति, असमान समाज</h3>
+<p>दक्कन का इतिहास समुद्र के बिना अधूरा है।</p>
+<p>बहमनी और विजयनगर दोनों ने समुद्री व्यापार को गहरी नज़र से देखा। दिल्ली से संबंध कमज़ोर हो चुके थे। उत्तर भारत की थल-मार्गी दुनिया से दूरी बढ़ी थी। तो दक्कन ने समुद्र की तरफ़ रुख़ किया।</p>
+<p>बहमनी राज्य ने पश्चिमी तट पर गोवा, दाभोल और चौल जैसे बंदरगाहों को महत्व दिया। इन बंदरगाहों से माल आता था, माल जाता था, और सत्ता की सांस चलती थी।</p>
+<p>सबसे ज़रूरी आयातों में युद्ध-घोड़े थे। दसियों हज़ार घोड़े बहमनी बाज़ारों से गुज़रते थे। मध्यकालीन युद्ध में घोड़ा सिर्फ़ जानवर नहीं था। वह राज्य की गति था। सेना की रीढ़ था। राजनीतिक महत्वाकांक्षा का इंजन था।</p>
+<p>चीन से कच्चा रेशम आता था। चौल और थाने में उसे काता, रंगा और बुना जाता था। फिर वह अरब सागर पार पश्चिम की ओर जाता था।</p>
+<p>काले कांच के मनके पूर्वी अफ़्रीका और भारत के बीच घूमते थे। भारत से सूती कपड़े का निर्यात जारी था। मिस्र में पांचवीं से 15वीं शताब्दी तक भारतीय बुने कपड़ों के टुकड़े मिलते हैं - यानी एक हजार साल से ज़्यादा लंबा वस्त्र-संबंध।</p>
+<p>सोचिए। एक कपड़ा भारत में बुना गया। समुद्र पार गया। मिस्र की रेत में बचा रह गया। और सदियों बाद वह इतिहासकार के हाथ में आया - जैसे समुद्र ने अपनी जेब से पुरानी याद निकाल कर रख दी हो।</p>
+<h3>समुद्र, व्यापार और दास-श्रम की सच्चाई</h3>
+<p>लेकिन समुद्र सिर्फ़ माल नहीं ले जाता था। वह मनुष्यों को भी ले जाता था। कभी आज़ाद। कभी मजबूर।</p>
+<p>बहमनी और विजयनगर, दोनों दास-श्रम का उपयोग करते थे। जब कृष्णदेवराय यात्रा करते, दास साथ होते। जब ताजुद्दीन फ़िरूज़ विजयनगर में अपनी शादी के बाद लौटे, तो कहा जाता है कि वे 2,000 नर और मादा दास अपने साथ गुलबर्ग ले गये।</p>
+<p>महमूद गवां जैसे प्रवासी फ़ारस से भारत आते समय अपने साथ दास भी लाये। इतिहास की चमकदार इमारतों की नींव में कई बेनाम जीवन भी दबे हैं।</p>
+<p>हम उनके नाम नहीं जानते। वे किस भाषा में रोते थे, नहीं जानते। समुद्र पार करते समय वे किस आकाश को देखते थे, नहीं जानते। लेकिन वे इस कहानी में हैं। और उनके बिना यह कहानी अधूरी है।</p>
+<h3>एक बहुभाषी दक्कन</h3>
+<p>15वीं शताब्दी का दक्कन एक बहुभाषी प्रदेश था।</p>
+<p>कहीं तेलुगु। कहीं कन्नड़। कहीं तमिल। कहीं मराठी। दरबार में फ़ारसी। बहमनी संरक्षण में दखनी - हिंदी की वह बोली, जिसमें पंजाबी शब्द भी बड़ी संख्या में थे। विजयनगर में संस्कृत साहित्य को संरक्षण। दक्षिण में स्थानीय भाषाओं का गहरा जीवन।</p>
+<p>एक ही प्रदेश में कई आवाज़ें बोल रही थीं।</p>
+<p>कभी शिलालेख फ़ारसी असर लिये हुए थे। कभी गधेगल पत्थर की महाराष्ट्र की परंपरा बहमनी और विजयनगर दोनों शिलालेखों में दिख जाती थी। कभी पंचतंत्र की कथाएं फ़ारसी “कलीला-व-दिम्ना” बनकर मध्य एशिया से लौटती थीं। अब्दुल रज़्ज़ाक विजयनगर में ब्राह्मणों को देखकर उन पशु-कथाओं को याद करता था।</p>
+<p>कहानी भारत से बाहर गयी। फ़ारसी में बदली। मध्य एशिया में पढ़ी गयी। फिर भारत लौटकर किसी यात्री की स्मृति में चमक उठी।</p>
+<p>इतिहास का रास्ता सीधा नहीं होता। वह चक्कर लगाता है। लौटता है। अपनी ही चीज़ को नया बनाकर पहचानता है।</p>
+<h3>बहमनी और फ़ारस: कवि जो नहीं आया</h3>
+<p>दक्कन और फ़ारस के संबंध इस सदी की सबसे सुंदर और सबसे राजनीतिक कहानियों में से एक हैं।</p>
+<p>बहमनी राज्य दिल्ली से कट चुका था। उत्तर-दक्षिण की दूरी तैमूर के 1398 के दिल्ली हमले के बाद और बढ़ी। दिल्ली टूट चुकी थी। दक्षिण अपनी अलग लय पकड़ रहा था।</p>
+<p>बहमनी सुल्तानों ने फ़ारस और मध्य एशिया की तरफ़ हाथ बढ़ाया। वे सिर्फ़ सामान नहीं चाहते थे। वे विद्वान चाहते थे। कवि चाहते थे। कारीगर चाहते थे। वास्तुकार चाहते थे। प्रतिष्ठा चाहते थे।</p>
+<p>कहा जाता है कि बहमनी सुल्तान मुहम्मद द्वितीय ने फ़ारसी कवि हाफ़िज़ को शीराज़ से दक्कन आने का निमंत्रण दिया। हाफ़िज़ हुर्मुज़ बंदरगाह तक पहुंचे। फिर रुक गये।</p>
+<p>उन्होंने दक्कन आने के बजाय गुलबर्ग को कविता भेजी। भाव यह था - वादे बहुत शानदार हैं, लेकिन मैं अपनी जन्मभूमि का बाग़, अपनी शराबें और अपने दोस्त कैसे छोड़ दूं?</p>
+<p>इतिहास में यह एक अद्भुत क्षण है। दक्कन फ़ारस को बुला रहा है। फ़ारस का कवि समंदर के किनारे तक आता है। फिर अपनी मिट्टी की ओर लौट जाता है। सत्ता की इच्छा हारती है। कवि की जड़ जीतती है।</p>
+<p>लेकिन हर कोई नहीं लौटा।</p>
+<p>महमूद गवां आये।</p>
+<p>1453 में महमूद गवां एक मध्यम आयु के फ़ारसी व्यापारी के रूप में कोंकण तट पर उतरे। उनके पास रेशम था। मोती थे। रत्न थे। अरबी घोड़े थे। तुर्की और इथियोपियाई दास थे।</p>
+<p>वे शायद दिल्ली जाना चाहते थे। लेकिन बीदर ने उन्हें रोक लिया।</p>
+<p>धीरे-धीरे वे बहमनी सल्तनत के सबसे शक्तिशाली अभिजातों में शामिल हो गये। उन्होंने फ़ारस, तुर्की, सीरिया और इराक़ में लोगों को पत्र लिखे। उन्हें बीदर आने को कहा। उनका संदेश लगभग यह था - भारत दुनिया के प्रतिष्ठित लोगों में मशहूर है, यहां विद्वान रहते हैं, आओ।</p>
+<p>उन्होंने फ़ारसी कवि जामी को भी बुलाया। जामी नहीं आये। लेकिन उन्होंने मान लिया कि गवां ने भारत को फ़ारसी-भाषी दुनिया की ईर्ष्या का कारण बना दिया था।</p>
+<p>यानी बीदर सिर्फ़ दक्कन की राजधानी नहीं था। वह अरब सागर पार एक बौद्धिक नक़्शे पर चमक रहा था।</p>
+<h3>महमूद गवां: चमक और दुखद अंत</h3>
+<p>महमूद गवां का जीवन जितना चमकदार था, उनका अंत उतना ही दुखद।</p>
+<p>बहमनी दरबार में दो गुट थे। एक पुराने दक्कनी अभिजात - जिनकी जड़ें दिल्ली और दक्कन की पुरानी राजनीति में थीं। दूसरे नए आए विदेशी - मुख्यतः ईरानी और मध्य एशियाई।</p>
+<p>दरबार में गुटबाज़ी बढ़ती गयी। कभी-कभी दोनों समूह अलग बैठाये जाते थे। शक्ति की मेज़ पर जगह कम पड़ने लगती है, तो षड्यंत्र शुरू होता है।</p>
+<p>गवां की सफलता से कुछ लोग जलते थे। एक दक्कनी और एक इथियोपियाई व्यक्ति ने मिलकर जाल रचा। उन्होंने गवां के नाम से एक जाली चिट्ठी बनायी, जिसमें उड़ीसा के राजा को बहमनी भूमि पर हमला करने का निमंत्रण था। फिर गवां के मुहर-वाहक को रिश्वत और धोखे से उस जाली पत्र पर असली मुहर लगवा ली।</p>
+<p>जब सुल्तान मुहम्मद तृतीय ने असली मुहर देखी, तो उसे सच मान लिया। गवां पर राजद्रोह का आरोप लगा। और उनका सिर क़लम करने का आदेश दे दिया गया।</p>
+<p>कहा जाता है, मृत्यु की ओर चलते हुए गवां ने कहा - मेरे जैसे बूढ़े की मौत से कुछ नहीं, लेकिन यह आपकी सल्तनत के लिए एक साम्राज्य का नुक़सान और आपके चरित्र की बर्बादी होगी।</p>
+<p>ये शब्द भविष्य की तरह निकले।</p>
+<p>1481 में गवां की मृत्यु के बाद बहमनी राज्य टूटने लगा। दरबार का ज़हर राज्य की हड्डियों में उतर चुका था।</p>
+<p>लेकिन गवां की एक विरासत आज भी बीदर में खड़ी है - उनका मदरसा।</p>
+<p>1472 में पूरा हुआ यह विशाल मदरसा तैमूरी और ख़ुरासानी स्थापत्य की याद दिलाता था। उसकी टाइलें सफ़ेद, पीली और फ़ीरोज़ी नीले रंगों में चमकती थीं। एक मध्य एशियाई शैली का स्कूल, दक्कन की मिट्टी पर। उसमें फ़ारसी और अरबी की 3,000 किताबों वाला पुस्तकालय था। 100 से अधिक छात्र और 12 प्रोफ़ेसर वहां रह सकते थे।</p>
+<p>यह इमारत पत्थर में लिखी हुई घोषणा थी - दक्कन अब सिर्फ़ दिल्ली की परछाई नहीं है। वह अपने लिए दुनिया बुला रहा है।</p>
+<h3>टूटता हुआ सिंहासन, टूटता हुआ साम्राज्य</h3>
+<p>बहमनी दरबार फ़ारस के गहरे अतीत की ओर भी देखता था।</p>
+<p>उन्होंने सासानी साम्राज्य से प्रतीक लिये। पंखदार अर्धचंद्र को अपनाया। अपने नाम को “बहमन” से जोड़ा - वह पौराणिक चरित्र जिसे फ़िरदौसी की शाहनामा में जगह मिली। वे फ़ीरोज़ी सिंहासन पर बैठे - तख़्त-इ फ़िरोज़ा।</p>
+<p>लेकिन इस सिंहासन की कहानी ख़ास है।</p>
+<p>यह सिर्फ़ फ़ारसी कल्पना की चीज़ नहीं थी। इसे दक्षिण भारतीय कारीगरों ने बनाया था। तेलुगु कारीगरों ने। कपाया नायक के आदेश पर।</p>
+<p>असल में यह सिंहासन तुग़लक़ों के लिए बनाया जा रहा था। लेकिन जब 1361 में सिंहासन तैयार हुआ, तब तक तुग़लक़ दक्कन से जा चुके थे। तो कपाया नायक ने उसे बहमनियों को उपहार दे दिया।</p>
+<p>काली इबोनी लकड़ी का फ्रेम। शुद्ध सोने की परत। क़ीमती रत्न। फ़ीरोज़ी चमकता हुआ इनेमल।</p>
+<p>जब यह सिंहासन बहमनी दरबार में आया, तो 40 दिनों तक उत्सव मनाया गया। दिल्ली से संगीतकार आये। अमीर ख़ुसरो और अमीर हसन की रचनाएं गायी गयीं। इंडो-पर्शियन संस्कृति का एक भव्य उत्सव दक्कन में जगमगा उठा।</p>
+<p>लेकिन हर चमक का एक अंधेरा भी होता है।</p>
+<p>हर बहमनी शासक ने सिंहासन में नए रत्न जोड़े। धीरे-धीरे फ़ीरोज़ी सतह छिप गयी। चमक पर चमक चढ़ती गयी, और असली रंग खो गया।</p>
+<p>अंतिम बहमनी राजा, जब शक्ति खो रहा था और ख़ज़ाना खाली हो रहा था, तो सिंहासन को रत्नों के लिए तोड़ दिया गया।</p>
+<p>राज्य भी टूट गया। सिंहासन भी।</p>
+<p>बहमनी भूमि से पांच सल्तनतें निकलीं - अहमदनगर, बीजापुर, बेरार, गोलकुंडा और बीदर।</p>
+<p>कभी-कभी साम्राज्य ऐसे ही टूटते हैं। पहले रंग गायब होता है। फिर रूप। फिर स्मृति।</p>
+<h3>कालीकट: समुद्री राजा और मोपिला समुदाय</h3>
+<p>अब दक्कन से समुद्र किनारे चलते हैं - कालीकट।</p>
+<p>कालीकट मलाबार तट का बड़ा वाणिज्यिक केंद्र था। काली मिर्च का व्यापार इसे दुनिया से जोड़ता था। यह शहर समुद्र से पहचाना जाता था। इसके शासक “समुद्री राजा” कहे जाते थे।</p>
+<p>यहां अरब व्यापारी आये। स्थानीय समाज से रिश्ते बने। कुछ निम्न जातियों ने इस्लाम अपनाया। धीरे-धीरे मलयालम बोलने वाला मोपिला समुदाय बना।</p>
+<p>मोपिलाओं में भारतीय मुस्लिम अभिजातों से कम समानता थी। लेकिन नायरों से बहुत कुछ मिलता था। नायर केरल की हिंदू जातियों का एक समूह थे, जिन्हें अक्सर शूद्र माना जाता था।</p>
+<p>मोपिला और नायर - दोनों में मातृवंशीय विरासत की परंपरा थी। दोनों की पोशाक में समानता थी। धर्म अलग था, सामाजिक जीवन में नज़दीकियां थीं।</p>
+<p>इससे एक बात साफ़ होती है - पहचान हमेशा ऊपर से तय नहीं होती। कई बार पड़ोस, व्यापार, विवाह, पोशाक, विरासत और भाषा, धर्म से ज़्यादा गहरे रिश्ते बना देते हैं।</p>
+<h3>वीरशैव और सूफ़ी उर्स का साझा मेला</h3>
+<p>कर्नाटक में वीरशैव या लिंगायत समुदाय की कहानी भी इसी तरह सीमा-रेखाओं को धुंधला करती है।</p>
+<p>यह समुदाय 12वीं शताब्दी में शिव-भक्ति से जुड़ा था। उन्होंने मंदिर-आधारित पूजा की आलोचना की। जाति और लिंग की सीमाओं के पार अनुयायियों का स्वागत किया। 15वीं शताब्दी तक वे विजयनगर और उसके आसपास मठों में मौजूद थे।</p>
+<p>लेकिन सबसे रोचक बात यह है कि वे बहमनी सुल्तान अहमद प्रथम की मृत्यु के बाद बने सूफ़ी स्थल पर पूजा करने लगे।</p>
+<p>अहमद प्रथम को एक सूफ़ी संत की तरह पूजा गया। लिंगायत पुजारी उनके सालाना उर्स में शामिल होते थे। वे पूजा चढ़ाते थे। श्लोक गाते थे। प्रसाद बांटते थे।</p>
+<p>और यह उर्स इस्लामी चंद्र कैलेंडर से नहीं, सौर कैलेंडर से तय होता था - ताकि हर साल होली के साथ मेल खाए।</p>
+<p>यह दृश्य ज़रा ठहरकर देखिए।</p>
+<p>एक बहमनी सुल्तान। मृत्यु के बाद सूफ़ी संत। लिंगायत पुजारी। पूजा। प्रसाद। होली के साथ जुड़ा उर्स।</p>
+<p>यह किसी आधुनिक नारे की कहानी नहीं है। यह मध्यकालीन दक्कन की ज़मीन पर घटा हुआ जीवन है।</p>
+<h3>विजयनगर: राम, शिव और सत्ता का मेल</h3>
+<p>विजयनगर ने हिंदू परंपराओं को भी गहरे ढंग से संरक्षण दिया।</p>
+<p>श्रृंगेरी में स्मार्त शैव परंपरा को समर्थन मिला। सायण जैसे विद्वान सामने आये, जिन्होंने ऋग्वेद पर विस्तृत टिप्पणी लिखी। यह टिप्पणी ऋग्वेद की रचना के लगभग 2,500 साल बाद लिखी गयी, फिर भी आज तक वैदिक व्याख्या में प्रभाव रखती है।</p>
+<p>यह भी याद रखना ज़रूरी है कि सायण की वैदिक परियोजना को शाही संरक्षण मिला। ज्ञान सिर्फ़ आत्मा का काम नहीं था। वह सत्ता से भी जुड़ा था।</p>
+<p>विजयनगर राजाओं ने रामायण का भी इस्तेमाल किया। उन्होंने अपनी राजधानी के केंद्र में राज्य अनुष्ठानों के लिए राम मंदिर रखा। उस क्षेत्र को किष्किंधा से जोड़ा गया - वही दक्षिणी राज्य जहां राम को वानर-सेना मिली थी।</p>
+<p>राजा विरुपाक्ष, यानी शिव, के नाम पर आदेश जारी करते थे। संप्रभु और देवता की पहचान एक-दूसरे में घुलती थी। कृष्णदेवराय ने विरुपाक्ष मंदिर में विशाल प्रवेश द्वार बनवाया, जो उनके राज्याभिषेक की स्मृति भी था।</p>
+<p>राज्य, धर्म, मिथक और स्थापत्य - सब एक साथ दीवारों पर चढ़ रहे थे।</p>
+<h3>तैमूर का हमला और नए शहरों का उदय</h3>
+<p>अब उत्तर की ओर चलते हैं।</p>
+<p>1398 में तैमूर ने दिल्ली पर हमला किया। दिसंबर 1398 से जनवरी 1399 तक दिल्ली ने अंधाधुंध लूट, हत्या और विनाश देखा। इमारतें टूट गयीं। दसियों हज़ार लोग मारे गये। शहर अपने पूर्व रूप की छाया बनकर रह गया।</p>
+<p>लेकिन इतिहास का एक क्रूर नियम है - एक राजधानी का पतन दूसरे शहरों के उदय का रास्ता बन सकता है।</p>
+<p>दिल्ली से लोग भागे। क्षेत्रीय केंद्रों में बसने लगे। जौनपुर, ग्वालियर, मांडू जैसे शहर उभरे। उत्तर भारत की संस्कृति अब एक ही केंद्र से नहीं, कई केंद्रों से बोलने लगी।</p>
+<p>जौनपुर दिल्ली से लगभग 700 किलोमीटर दक्षिण-पूर्व में था। यहां तुग़लक़ों से जुड़े एक इथियोपियाई वंश के दास मलिक सरवर ने स्वतंत्र राजवंश की नींव रखी। उन्हें मलिक-ए-शर्क़ - पूर्व का राजा - कहा गया। इसलिए राजवंश शर्क़ी कहलाया।</p>
+<p>जौनपुर विविध धार्मिक समुदायों का शहर था।</p>
+<p>कवि विद्यापति ने 1400 के दशक की शुरुआत में जौनपुर का एक अद्भुत चित्र खींचा। उनकी कविता में हिंदू और मुसलमान साथ रहते हैं। एक अज़ान देता है, दूसरा वेद पढ़ता है। एक बिस्मिल्लाह कहकर जानवर ज़बह करता है, दूसरा यज्ञ में पशु काटता है। कुछ रमज़ान में रोज़ा रखते हैं, कुछ ज्योतिष के अनुसार उपवास करते हैं। कुछ नमाज़ पढ़ते हैं, कुछ पूजा करते हैं।</p>
+<p>विद्यापति का स्वर किसी एक को दूसरे से ऊपर नहीं रखता। वे दोनों को शहर के जीवन की दो धड़कनों की तरह देखते हैं। अलग, लेकिन साथ।</p>
+<p>यहां एक और बात अहम है। विद्यापति अपभ्रंश में लिखते हुए “हिंदू” शब्द इस्तेमाल करते हैं। यह शब्द फ़ारसी और अरबी से दक्षिण एशियाई भाषाओं में धीरे-धीरे आता है। अगली सदियों में यह एक व्यापक धार्मिक पहचान का शब्द बनता है।</p>
+<p>यानी शब्द भी यात्रा करते हैं। पहले भूगोल बताते हैं। फिर संस्कृति। फिर धर्म। फिर राजनीति।</p>
+<h3>जौनपुर: विद्यापति की साझा शहर-कविता</h3>
+<p>ग्वालियर 15वीं शताब्दी में साहित्य और कला का बड़ा केंद्र था।</p>
+<p>तोमर शासकों ने पौराणिक अतीत और राजनीतिक इतिहास, दोनों की तरफ़ देखा। 1430 के दशक में तोमर शासक डुंगरेंद्र सिंह ने अपने दरबारी कवि विष्णुदास को एक चुनौती दी - बताओ, महाभारत युद्ध में पांच पांडवों ने 100 कौरवों को कैसे हराया?</p>
+<p>उन्होंने विष्णुदास को पान का पत्ता देकर यह चुनौती दी। यहीं से “बीड़ा उठाना” जैसी अभिव्यक्ति की स्मृति जुड़ती है - पान लेना, यानी चुनौती स्वीकार करना।</p>
+<p>विष्णुदास ने 1435 में अपनी हिंदी महाभारत, पांडव-चरित, पूरी की। 1443 में उन्होंने हिंदी रामायण लिखी।</p>
+<p>यहां हम संस्कृत महाकाव्यों को क्षेत्रीय भाषा में उतरते देखते हैं। दरबार स्थानीय भाषा को महाकाव्य का शरीर दे रहा था। कथा पुरानी थी। आवाज़ नयी थी।</p>
+<p>दरबार के बाहर ग्वालियर में दिगंबर जैन समुदाय भी अपनी स्मृति पत्थर पर लिख रहा था।</p>
+<p>1440 से 1473 के बीच ग्वालियर क़िले की चट्टानों पर 1,500 से अधिक तीर्थंकर छवियां उकेरी गयीं। इनकी देखरेख राइधु जैसे गृहस्थ नेता ने की, जो कवि भी थे और जैन भक्ति की बड़ी आवाज़ भी।</p>
+<p>कल्पना कीजिए - क़िले की चट्टानें। राजनीतिक शक्ति ऊपर। और नीचे पत्थर में तराशे गये तीर्थंकरों के शांत चेहरे।</p>
+<p>यह कला सिर्फ़ भक्ति नहीं थी। यह भविष्य की घोषणा भी थी। राइधु और उनके साथियों का विश्वास था कि ये प्रतिमाएं ग्वालियर को पवित्र जैन स्थल बनायेंगी - ऐसा स्थल, जो दुनिया के अंत तक स्मृति में रहेगा।</p>
+<h3>ग्वालियर: महाभारत हिंदी में, पहाड़ पर जैन स्मृति</h3>
+<p>मांडू में इतिहास एक और स्वाद लेता है।</p>
+<p>मालवा सल्तनत की राजधानी मांडू, दिल्ली से 800 किलोमीटर से ज़्यादा दक्षिण में, पहाड़ियों पर बसा हुआ वह संसार था, जहां दरबार, कला, भोजन और सुख एक साथ मिलते हैं।</p>
+<p>मालवा में 1411 और 1439 में कल्पसूत्र की दो शुरुआती जीवित भारतीय सचित्र पांडुलिपियां तैयार हुईं। जैन परंपरा यहां भी फल-फूल रही थी।</p>
+<p>1469 में गियासुद्दीन शाह मांडू की सत्ता में आये। उन्हें जीवन की सुंदर चीज़ों का स्वाद था - शाब्दिक अर्थ में भी।</p>
+<p>उन्होंने नि'मतनामा नाम की एक सचित्र रसोई-किताब प्रायोजित की। लगभग 1500 के आसपास बनी यह किताब व्यंजनों, औषधीय खाद्य पदार्थों, कामुकता, स्वास्थ्य और दरबारी जीवन का अनोखा दस्तावेज़ है।</p>
+<p>इसमें समोसे की रेसिपी मिलती है। हिरन का महीन कीमा। मेथी से सुगंधित घी। केसर। नमक। जीरा। लौंग। धनिया। कस्तूरी। प्याज़। सूखी अदरक। गुलाब-जल। फिर भरावन। फिर सुगंधित घी में तला हुआ समोसा।</p>
+<p>यह सिर्फ़ खाना नहीं है। यह मांडू का राजनीतिक-सांस्कृतिक बयान है।</p>
+<p>रसोई में फ़ारसी स्वाद है। भारतीय मसाले हैं। दरबारी आराम है। चिकित्सा का विश्वास है। कामुकता का इतिहास है। और कला की आंख है।</p>
+<p>नि'मतनामा में पान पर लंबा खंड है। उसे बीमारी में मददगार माना गया। यौन रोग, गठिया, टॉन्सिलाइटिस और पेट की तकलीफ़ों से राहत देने वाला बताया गया।</p>
+<p>यानी पान से शुरू हुई हमारी कहानी मांडू की रसोई में फिर लौट आती है।</p>
+<p>एक पत्ता, जो विजयनगर में था। जौनपुर की चुनौती में था। मांडू की दवा में था। और पूरे भारत की सांस्कृतिक स्मृति में था।</p>
+<h3>मांडू: रसोई जो इतिहास लिखती है</h3>
+<p>अब कश्मीर की ओर चलते हैं।</p>
+<p>कश्मीर पहाड़ों से घिरा था। उसकी भौगोलिक स्थिति ने उसे दक्षिण एशिया के बाकी हिस्सों से कुछ अलग लय दी। लेकिन 15वीं शताब्दी के कश्मीर में भी वही प्रश्न उठ रहे थे - धर्म, भाषा, सत्ता, अनुवाद, स्मृति और पहचान।</p>
+<p>1339 में शाह मीर वंश ने कश्मीर में सत्ता संभाली। यह राजवंश उपमहाद्वीप के अन्य इंडो-मुस्लिम राजवंशों से कई तरह अलग था।</p>
+<p>दिल्ली सल्तनत में कुलीन दासता की प्रथा थी। शाह मीरों में ऐसा नहीं था।</p>
+<p>सबसे बड़ी बात - उन्होंने संस्कृत को राज्य की भाषा के रूप में इस्तेमाल किया। जोनराज और श्रीवर जैसे संस्कृत-माध्यम ब्राह्मण इतिहासकारों को संरक्षण दिया। ये इतिहासकार कल्हण की राजतरंगिणी परंपरा को आगे बढ़ा रहे थे - कश्मीरी राजनीति को राजाओं की नदी की तरह लिखते हुए।</p>
+<p>शाह मीरों ने शाही कब्रों पर संस्कृत का इस्तेमाल किया। फ़ारसी ग्रंथों के संस्कृत अनुवादों को संरक्षण दिया। 1505 में श्रीवर ने जामी की युसुफ़-व-ज़ुलेख़ा का संस्कृत अनुवाद किया - यह फ़ारसी दुनिया की अत्यंत लोकप्रिय प्रेम-कथा थी।</p>
+<p>ज़रा सोचिए। एक फ़ारसी प्रेम-कथा, कश्मीर में संस्कृत में उतर रही है। इस्लामी राजवंश संस्कृत इतिहासकारों को संरक्षण दे रहा है। ब्राह्मण लेखक मुस्लिम शासन का इतिहास लिख रहे हैं।</p>
+<p>इतिहास यहां किसी एक धर्म की सीधी रेखा नहीं है। यह एक पहाड़ी नदी है - पत्थरों से टकराती, मुड़ती, फिर आगे बहती।</p>
+<p>रानी गुल ख़ातून ने हिंदू और मुस्लिम दोनों समुदायों को समर्थन दिया। ज़ैन-उल-आबिदीन संस्कृत साहित्य के उदार संरक्षण के लिए याद किये गये। कश्मीर में सूफ़ी परंपरा भी फली। नुंद ऋषि जैसे संत हिंदू-मुस्लिम विभाजन की आलोचना करते थे और आम लोगों से लेकर अभिजातों तक, सब से संवाद करते थे।</p>
+<p>लेकिन सबसे असाधारण आवाज़ों में से एक थीं - लल्ला। लल देद।</p>
+<p>14वीं शताब्दी की कश्मीरी शैव संत। वे धार्मिक दिखावे पर चोट करती थीं। पंडितों पर भी, मूर्ति-पूजा पर भी, बाहरी कर्मकांड पर भी। उनकी कविता कश्मीरी भाषा की सबसे पुरानी ज्ञात पंक्तियों में आती है।</p>
+<p>उनका भाव था - विचारहीन लोग पवित्र किताबें ऐसे पढ़ते हैं जैसे पिंजरे में तोता “राम, राम” दोहराता है। ऐसा पढ़ना पानी मथने जैसा है - श्रम बहुत, सार कुछ नहीं।</p>
+<p>लल्ला हिंदू और मुसलमान के कठोर भेद के ख़िलाफ़ भी बोलती थीं। उनकी बात सीधी थी - भेद मत करो।</p>
+<p>लेकिन ऐसी आवाज़ें सभी को प्रिय नहीं होतीं। ख़ासकर उन लोगों को नहीं, जिनकी शक्ति भेद पर टिकी हो।</p>
+<p>प्राक्-आधुनिक कश्मीरी ब्राह्मणों ने अपने ग्रंथों में लल्ला को बहुत जगह नहीं दी। शायद इसलिए कि वे ऊंची जाति की प्रथाओं की आलोचना करती थीं। जो आवाज़ जनता के बीच रहती है, वह कभी-कभी किताबों से बाहर रख दी जाती है।</p>
+<p>लेकिन स्मृति का रास्ता किताबों से बड़ा होता है। लल्ला बच गयीं। कविता में। लोक में। कश्मीर की सांस में।</p>
+<h3>कश्मीर: संस्कृत में उतरती फ़ारसी प्रेम-कथा</h3>
+<p>कश्मीर की कहानी सिर्फ़ साझेदारी की नहीं है। वह तनाव की भी कहानी है।</p>
+<p>जोनराज ने सुहा भट्ट को याद किया - एक ब्राह्मण, जिसने इस्लाम अपनाया और मलिक सैफ़उद्दीन नाम लिया। लेकिन जोनराज ने उनके नए नाम का उपयोग नहीं किया। उन्होंने उन्हें सुहा भट्ट ही कहा।</p>
+<p>यह नाम न लेना भी राजनीति है।</p>
+<p>किसी मनुष्य के नए नाम को अस्वीकार करना, उसके नए धर्म को सार्वजनिक रूप से स्वीकार न करना, उसे पुरानी पहचान में बांध देना - यह स्मृति पर नियंत्रण की कोशिश है।</p>
+<p>जोनराज ने सुहा भट्ट को अपने लोगों के विरुद्ध मुड़ने वाला व्यक्ति कहा। उनकी दृष्टि में धर्मांतरण सिर्फ़ धार्मिक निर्णय नहीं था। वह जाति और समुदाय की दुनिया में एक गहरी चोट था।</p>
+<p>यानी 15वीं शताब्दी का भारत सिर्फ़ साझा संस्कृति का उजला चित्र नहीं है। यह भय, आक्रोश, धर्मांतरण, स्मृति और आरोपों का भी संसार है।</p>
+<p>कश्मीर में मुस्लिम समुदायों के भीतर भी संघर्ष था। स्थानीय कश्मीरी मुसलमान और बाहर से आये बैहाक़ी सैयद सत्ता के लिए टकराते थे। यह कुछ वैसा ही तनाव था जैसा दक्कन में पुराने दक्कनी अभिजातों और नए विदेशी प्रवासियों के बीच था।</p>
+<p>धर्म समान हो सकता है। लेकिन सत्ता फिर भी बांट देती है।</p>
+<p>इसलिए 15वीं शताब्दी हमें बार-बार सावधान करती है - इतिहास को हिंदू बनाम मुसलमान की सीधी रेखा में पढ़ना ग़लत है।</p>
+<p>कभी हिंदू शासक सुल्तान की भाषा अपनाता है। कभी मुस्लिम राज्य संस्कृत इतिहास को संरक्षण देता है। कभी लिंगायत पुजारी सूफ़ी उर्स में पूजा करता है। कभी जैन समुदाय मुस्लिम सल्तनत के शहर में सचित्र पांडुलिपियां बनवाता है। कभी दरबार में फ़ारसी है, गांव में तेलुगु, बाज़ार में दखनी, मंदिर में संस्कृत, बंदरगाह पर मलयालम, और समुद्र पर अरबी।</p>
+<p>लेकिन यही सदी यह भी दिखाती है कि साझा संस्कृति का मतलब बराबरी नहीं होता। जाति थी। दासता थी। दरबारी षड्यंत्र था। धर्मांतरण पर डर था। सत्ता के भीतर गुटबाज़ी थी। और साम्राज्य टूटते थे।</p>
+<p>यह भारत बहता हुआ था। लेकिन निर्दोष नहीं था।</p>
+<h3>लल्ला: भेद मत करो</h3>
+<p>लंबी पंद्रहवीं शताब्दी की सबसे बड़ी सीख शायद यही है कि भारत को समझना हो, तो उसे एक रंग में मत देखिए।</p>
+<p>वह पान की तरह है - कई चीज़ों का मिश्रण। एक पत्ता कहीं से। सुपारी कहीं से। चूना कहीं से। स्वाद मुंह में। रंग होंठों पर। नशा शरीर में। और स्मृति समाज में।</p>
+<p>विजयनगर और बहमनी जुड़वां राज्य थे - लड़ते भी थे, सीखते भी थे। दक्कन फ़ारस को बुलाता था, लेकिन अपनी मिट्टी में उसे नया रूप देता था। कालीकट में समुद्र धर्म से बड़ा शिक्षक था। ग्वालियर में महाभारत हिंदी बनता था, और पहाड़ जैन स्मृति से भर जाता था। मांडू में रसोई इतिहास लिखती थी। कश्मीर में संस्कृत, फ़ारसी और कश्मीरी एक-दूसरे की आंखों में देख रहे थे।</p>
+<p>और लल्ला की आवाज़ उस पूरे युग के ऊपर जैसे एक पतली रोशनी की तरह गिरती है - भेद मत करो।</p>
+<p>लेकिन इतिहास यह भी कहता है - केवल यह कहना काफ़ी नहीं। क्योंकि शक्ति हमेशा मौजूद रहती है। वह धर्म में आती है। जाति में आती है। दरबार में आती है। भाषा में आती है। नाम में आती है। किसी के नाम को स्वीकार करने या न करने तक में आती है।</p>
+<p>15वीं शताब्दी का भारत हमें सरल निष्कर्ष नहीं देता। वह हमें कठिन देखने की आदत देता है।</p>
+<p>वह बताता है कि समाज दीवारों से नहीं बनते। वे रास्तों से बनते हैं। व्यापार से। भोजन से। भाषा से। विवाह से। अनुवाद से। संगीत से। स्मृति से। और संघर्ष से।</p>
+<p>इस सदी में कोई एक राजधानी भारत नहीं थी। दिल्ली घायल थी। दक्कन उठ रहा था। जौनपुर बोल रहा था। ग्वालियर तराश रहा था। मांडू पका रहा था। कश्मीर अनुवाद कर रहा था। कालीकट समुद्र से बात कर रहा था।</p>
+<p>भारत एक केंद्र नहीं था। भारत कई आवाज़ों का फैलता हुआ मैदान था।</p>
+<p>और शायद यही भारत की सबसे बड़ी कहानी है।</p>
+<p>कि यहां कोई भी पहचान अकेली नहीं चलती। हर पहचान किसी दूसरी से छूती है। कभी प्रेम से। कभी व्यापार से। कभी युद्ध से। कभी भय से। कभी कविता से।</p>
+<p>लंबी पंद्रहवीं शताब्दी में भारत ने हमें एक कठिन सच दिखाया - जो लोग साथ रहते हैं, वे हमेशा एक जैसे नहीं होते। और जो अलग दिखते हैं, वे हमेशा पराये नहीं होते।</p>
+<p>इतिहास की आंख से देखें, तो पान का एक पत्ता भी साम्राज्यों से बड़ा दस्तावेज़ बन सकता है।</p>
+<p>क्योंकि उसमें स्वाद है। यात्रा है। साझेदारी है। वर्ग और जाति की दरारों के बीच बैठी हुई छोटी-सी दोस्ती है।</p>
+<p>और शायद इसीलिए उस पुरानी कहावत में पान का सबसे बड़ा दोष यह था - उसे साझा करने के बाद दोस्तों से जुदा होना पड़ता है।</p>
+<p>लेकिन इतिहास में जो सचमुच साझा हो जाता है, वह पूरी तरह जुदा नहीं होता।</p>
+<p>वह भाषा में बचा रहता है। ईंट में। रेसिपी में। मस्जिद की आकृति में। मंदिर की दीवार पर बने कपड़ों में। क़िले की चट्टान पर उकेरे गये शांत चेहरों में। किसी मदरसे की फ़ीरोज़ी टाइल में। किसी कवि के इंकार में। किसी संत की फटकार में।</p>
+<p>और भारत की कहानी फिर आगे बढ़ती है।</p>
+<p>अगले मोड़ की ओर। अगली सदी की ओर। अगले प्रश्न की ओर।</p>
+    </div>
+  </details>
+</article>
+
+  <div class="chapter-pagenav">
+    <a class="lang-block lb-inline" data-lang="en" href="episode-10.html">&larr; Indo-Persian Delhi: Sultanate, Shrine and a Queen's Rebellion</a>
+    <a class="lang-block lb-inline" data-lang="hi" href="episode-10.html">&larr; इंडो-पर्शियन दिल्ली: सल्तनत, दरगाह और एक रानी की बग़ावत</a>
+    <a class="lang-block lb-inline" data-lang="en" href="scripts.html">Read other episodes</a>
+    <a class="lang-block lb-inline" data-lang="hi" href="scripts.html">बाक़ी एपिसोड्स पढ़ें</a>
+    <a class="lang-block lb-inline" data-lang="en" href="episode-12.html">India in 1500: Bhakti, Babur and the Portuguese Paradox &rarr;</a>
+    <a class="lang-block lb-inline" data-lang="hi" href="episode-12.html">1500 का भारत: भक्ति, बाबर और पुर्तगाली विरोधाभास &rarr;</a>
+  </div>
+
+
+
+
+  <div class="scripts-cta">
+    <p class="lang-block lb-block" data-lang="en" style="color:var(--ink-soft);margin-bottom:20px;">More chapters are on their way as new episodes release.</p>
+    <p class="lang-block lb-block" data-lang="hi" style="color:var(--ink-soft);margin-bottom:20px;">नए एपिसोड आने के साथ और अध्याय यहां जुड़ते रहेंगे।</p>
+    <a class="btn lang-block lb-flex" data-lang="en" href="index.html">← Back to home</a>
+    <a class="btn lang-block lb-flex" data-lang="hi" href="index.html">← होम पर वापस जाएं</a>
+  </div>
+</main>
+
+<footer>
+  <div class="lang-block lb-block" data-lang="en">Equal Tales Storyline · <a href="https://www.youtube.com/@ETStoryline" target="_blank" rel="noopener">@ETStoryline</a> · <a href="youtube.html">Videos</a></div>
+  <div class="lang-block lb-block" data-lang="hi">इक्वल टेल्स स्टोरीलाइन · <a href="https://www.youtube.com/@ETStoryline" target="_blank" rel="noopener">@ETStoryline</a> · <a href="youtube.html">वीडियो</a></div>
+</footer>
+
+<script>
+  function setLang(lang){
+    document.body.classList.remove('lang-en','lang-hi');
+    document.body.classList.add('lang-' + lang);
+    document.documentElement.setAttribute('lang', lang);
+    try{ localStorage.setItem('etsLang', lang); }catch(e){}
+    document.querySelectorAll('.lang-switch button').forEach(function(b){
+      b.setAttribute('aria-pressed', b.dataset.lang === lang ? 'true' : 'false');
+    });
+  }
+  document.querySelectorAll('.lang-switch button').forEach(function(b){
+    b.addEventListener('click', function(){ setLang(b.dataset.lang); });
+  });
+  (function init(){
+    var saved = null;
+    try{ saved = localStorage.getItem('etsLang'); }catch(e){}
+    setLang(saved === 'en' ? 'en' : 'hi');
+  })();
+</script>
+
+</body>
+</html>

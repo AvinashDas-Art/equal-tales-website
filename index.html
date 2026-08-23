@@ -1,0 +1,424 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Equal Tales Storyline | इक्वल टेल्स स्टोरीलाइन</title>
+<meta name="description" content="Equal Tales Entertainment - the studio and storyteller behind Equal Tales Storyline. Avinash Das, his films, his team, and the press.">
+<link rel="icon" type="image/png" href="favicon.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Oswald:wght@400;500;600;700&family=Inter:wght@400;500;600;700&family=Mukta:wght@400;500;600;700&family=Baloo+2:wght@500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --o-top:#ffa06a; --o-mid:#ffbb8c; --o-cream:#ffe9c8;
+    --red:#ff4438; --red-soft:#ff7a54; --ink:#241f1c; --ink-soft:#5c554e;
+    --cyan:#6cc9db; --line:rgba(36,31,28,.22);
+    --glass:rgba(255,255,255,.4); --glass-strong:rgba(255,255,255,.6); --glass-border:rgba(255,255,255,.55);
+  }
+  *{box-sizing:border-box;margin:0;padding:0;}
+  html{scroll-behavior:smooth;}
+  body{background:var(--o-cream);color:var(--ink);font-family:'Oswald',sans-serif;line-height:1.7;}
+  body.lang-hi{font-family:'Mukta',sans-serif;}
+  a{color:inherit;} img{max-width:100%;display:block;}
+  .wrap{max-width:1160px;margin:0 auto;padding:0 24px;}
+
+  .lang-block{display:none !important;}
+  body.lang-en .lang-block[data-lang="en"].lb-block{display:block !important;}
+  body.lang-hi .lang-block[data-lang="hi"].lb-block{display:block !important;}
+  body.lang-en .lang-block[data-lang="en"].lb-flex{display:flex !important;}
+  body.lang-hi .lang-block[data-lang="hi"].lb-flex{display:flex !important;}
+  body.lang-en .lang-block[data-lang="en"].lb-grid{display:grid !important;}
+  body.lang-hi .lang-block[data-lang="hi"].lb-grid{display:grid !important;}
+  body.lang-en .lang-block[data-lang="en"].lb-inline{display:inline !important;}
+  body.lang-hi .lang-block[data-lang="hi"].lb-inline{display:inline !important;}
+
+  /* Type helpers - EN uses bold condensed display type, HI uses Baloo2 (no caps/small-caps, Devanagari has no case) */
+  .ete-h{font-family:'Anton',sans-serif;font-weight:400;font-variant:small-caps;letter-spacing:.02em;font-size:clamp(1.7rem,4vw,2.6rem);color:var(--red);line-height:1.15;}
+  .ete-h-hi{font-family:'Baloo 2',serif;font-weight:800;font-size:clamp(1.6rem,4vw,2.3rem);color:var(--red);line-height:1.3;}
+  .ete-h-white{font-family:'Anton',sans-serif;font-weight:400;font-variant:small-caps;letter-spacing:.03em;font-size:clamp(2.2rem,6vw,3.6rem);color:#fff;line-height:1.1;}
+  .ete-h-white-hi{font-family:'Baloo 2',serif;font-weight:800;font-size:clamp(1.9rem,5vw,2.8rem);color:#fff;line-height:1.2;}
+  .ete-h2-dark{font-family:'Anton',sans-serif;font-weight:400;font-variant:small-caps;letter-spacing:.02em;font-size:clamp(1.9rem,4.5vw,2.8rem);color:var(--ink);line-height:1.15;margin-bottom:18px;}
+  .ete-h2-dark-hi{font-family:'Baloo 2',serif;font-weight:800;font-size:clamp(1.7rem,4vw,2.4rem);color:var(--ink);line-height:1.3;margin-bottom:18px;}
+  .ete-body{font-family:'Oswald',sans-serif;font-weight:600;letter-spacing:.01em;color:var(--ink);font-size:.98rem;}
+  .ete-body-hi{font-family:'Mukta',sans-serif;font-weight:600;color:var(--ink);font-size:1.05rem;}
+  .ete-body-normal{font-family:'Oswald',sans-serif;font-weight:500;color:var(--ink);font-size:.96rem;}
+  .ete-body-normal-hi{font-family:'Mukta',sans-serif;font-weight:500;color:var(--ink);font-size:1rem;}
+  .ete-label{font-family:'Oswald',sans-serif;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:var(--red-soft);font-size:.9rem;margin-bottom:10px;}
+  .ete-label-hi{font-family:'Baloo 2',sans-serif;font-weight:700;color:var(--red-soft);font-size:1rem;margin-bottom:10px;}
+
+  nav{position:sticky;top:0;z-index:50;background:var(--glass);backdrop-filter:blur(16px) saturate(1.2);-webkit-backdrop-filter:blur(16px) saturate(1.2);border-bottom:1px solid var(--glass-border);}
+  nav .wrap{display:flex;align-items:center;justify-content:space-between;padding:14px 24px;gap:16px;}
+  .brand{display:flex;align-items:center;gap:10px;text-decoration:none;}
+  .brand-logo{height:46px;width:auto;flex-shrink:0;border-radius:12px;}
+  .nav-links{display:flex;gap:22px;list-style:none;}
+  .nav-links a{font-size:.88rem;font-weight:600;text-decoration:none;font-family:'Inter',sans-serif;}
+  body.lang-hi .nav-links a{font-family:'Mukta',sans-serif;}
+  @media(max-width:700px){.nav-links{display:none;}}
+  .lang-switch{display:flex;border:1.5px solid var(--red);border-radius:999px;overflow:hidden;background:rgba(255,255,255,.5);}
+  .lang-switch button{border:0;background:transparent;padding:7px 16px;font-weight:700;font-size:.82rem;cursor:pointer;color:var(--red);font-family:'Inter',sans-serif;}
+  .lang-switch button[aria-pressed="true"]{background:var(--red);color:#fff;}
+
+  .ete-section{padding:70px 0;background:linear-gradient(180deg, var(--o-top) 0%, var(--o-mid) 45%, var(--o-cream) 100%);}
+
+  /* HERO */
+  .ete-hero{padding:48px 0;background:linear-gradient(180deg, var(--o-top) 0%, var(--o-mid) 45%, var(--o-cream) 100%);overflow:hidden;}
+  .ete-hero .wrap{display:flex;align-items:center;gap:44px;}
+  .ete-hero-left{flex:1 1 400px;max-width:500px;}
+  .ete-logo{height:100px;width:auto;margin-bottom:22px;}
+  .ete-sticker{width:fit-content;background:var(--red);color:#ffc9c2;font-family:'Anton',sans-serif;font-weight:400;font-variant:small-caps;font-size:clamp(1.8rem,4.2vw,3rem);line-height:1.25;padding:22px 30px;border-radius:28px 28px 28px 4px;box-shadow:0 14px 30px rgba(255,68,56,.28);}
+  .ete-sticker-hi{width:fit-content;background:var(--red);color:#ffd9d4;font-family:'Baloo 2',serif;font-weight:800;font-size:clamp(1.6rem,4vw,2.5rem);line-height:1.4;padding:22px 30px;border-radius:28px 28px 28px 4px;box-shadow:0 14px 30px rgba(255,68,56,.28);}
+  .ete-hero-photo-wrap{flex:1 1 380px;min-width:0;display:flex;align-items:center;justify-content:center;}
+  .ete-hero-photo{width:100%;height:auto;max-height:540px;object-fit:contain;}
+  @media(max-width:800px){
+    .ete-hero .wrap{flex-direction:column;text-align:center;}
+    .ete-hero-left{max-width:100%;}
+    .ete-sticker,.ete-sticker-hi{margin-left:auto;margin-right:auto;}
+    .ete-logo{margin-left:auto;margin-right:auto;}
+    .ete-hero-photo{max-height:340px;}
+  }
+
+  /* UNIVERSE */
+  .ete-universe-grid{display:grid;grid-template-columns:400px 1fr;gap:56px;align-items:center;}
+  @media(max-width:960px){.ete-universe-grid{grid-template-columns:1fr;}}
+  .ete-illustration{width:100%;max-width:400px;margin-top:28px;border-radius:10px;box-shadow:0 20px 45px rgba(36,31,28,.18);}
+  @media(max-width:960px){.ete-illustration{max-width:320px;margin-left:auto;margin-right:auto;display:block;}}
+
+  /* DIRECTOR */
+  .ete-director-grid{display:grid;grid-template-columns:.9fr 1.2fr;gap:48px;align-items:center;}
+  @media(max-width:860px){.ete-director-grid{grid-template-columns:1fr;}}
+  .ete-director-photo{border-radius:18px;width:100%;max-width:380px;margin:0 auto;display:block;}
+  .ete-bio-block{border-top:1.5px solid var(--line);padding:22px 0;}
+  .ete-bio-block:first-child{border-top:0;padding-top:0;}
+
+  /* PURPOSE */
+  .ete-purpose-grid{display:grid;grid-template-columns:1fr 1fr;gap:56px;}
+  @media(max-width:860px){.ete-purpose-grid{grid-template-columns:1fr;}}
+  .ete-value-item{border-top:1px solid var(--line);padding:16px 0;}
+  .ete-value-item:first-child{border-top:0;padding-top:0;}
+  .ete-value-item h4{font-family:'Oswald',sans-serif;font-weight:700;font-size:1.02rem;color:var(--ink);margin-bottom:6px;}
+  body.lang-hi .ete-value-item h4{font-family:'Baloo 2',sans-serif;}
+  .ete-value-item p{color:var(--ink-soft);font-size:.92rem;font-family:'Oswald',sans-serif;font-weight:500;}
+  body.lang-hi .ete-value-item p{font-family:'Mukta',sans-serif;text-transform:none;font-size:.98rem;}
+
+  /* WORK */
+  .ete-work-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:34px 30px;margin-top:44px;}
+  @media(max-width:900px){.ete-work-grid{grid-template-columns:repeat(2,1fr);}}
+  @media(max-width:600px){.ete-work-grid{grid-template-columns:1fr;}}
+  .ete-work-card{display:block;text-decoration:none;color:inherit;}
+  .ete-work-yr{color:var(--red);font-weight:700;font-size:.85rem;font-family:'Oswald',sans-serif;}
+  .ete-work-title{color:var(--red-soft);font-weight:700;font-size:1.05rem;font-family:'Oswald',sans-serif;margin-bottom:10px;}
+  .ete-work-media{aspect-ratio:16/9;border-radius:6px;overflow:hidden;background-size:cover;background-position:center;background-color:#1b1b1b;position:relative;width:100%;}
+  video.ete-work-media{object-fit:cover;}
+  .ete-work-fallback{display:flex;align-items:center;justify-content:center;color:#fff;font-family:'Anton',sans-serif;font-variant:small-caps;font-size:1.3rem;text-align:center;padding:14px;background:linear-gradient(135deg,#3a2a1f,#7a4a2c);}
+  a.ete-work-card:hover .ete-work-media::after{opacity:1;}
+  a.ete-work-card .ete-work-media::after{content:"▶";position:absolute;inset:0;display:flex;align-items:center;justify-content:center;color:#fff;font-size:1.4rem;background:rgba(0,0,0,.15);opacity:0;transition:opacity .2s;}
+  .ete-work-card p{margin-top:12px;color:var(--ink);font-size:.9rem;font-family:'Oswald',sans-serif;font-weight:500;}
+  body.lang-hi .ete-work-card p{font-family:'Mukta',sans-serif;font-size:.97rem;}
+
+  /* LUMINARIES */
+  .ete-lum-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:36px 48px;margin-top:44px;}
+  @media(max-width:760px){.ete-lum-grid{grid-template-columns:1fr;}}
+  .ete-lum-item{display:grid;grid-template-columns:110px 1fr;gap:20px;align-items:start;}
+  @media(max-width:460px){.ete-lum-item{grid-template-columns:1fr;}}
+  .ete-lum-photo{width:110px;height:130px;object-fit:cover;border-radius:12px;}
+  @media(max-width:460px){.ete-lum-photo{width:100%;height:180px;}}
+  .ete-lum-item h4{font-family:'Oswald',sans-serif;font-weight:700;font-size:1.05rem;color:var(--red);margin-bottom:1px;}
+  body.lang-hi .ete-lum-item h4{font-family:'Baloo 2',sans-serif;}
+  .ete-lum-item .role{font-size:.85rem;color:var(--red-soft);font-weight:600;margin-bottom:10px;font-family:'Oswald',sans-serif;text-transform:uppercase;}
+  body.lang-hi .ete-lum-item .role{font-family:'Mukta',sans-serif;text-transform:none;}
+  .ete-lum-item p{color:var(--ink);font-size:.9rem;font-family:'Oswald',sans-serif;font-weight:500;}
+  body.lang-hi .ete-lum-item p{font-family:'Mukta',sans-serif;font-size:.97rem;}
+
+  /* PRESS */
+  .ete-press-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:28px;margin-top:44px;}
+  .ete-press-card{display:flex;flex-direction:column;}
+  .ete-press-media{aspect-ratio:16/10;border-radius:8px;background:linear-gradient(135deg,#3a2a24,#6b4130);margin-bottom:16px;}
+  .ete-press-card h4{font-family:'Oswald',sans-serif;font-weight:700;font-size:1rem;color:var(--red);margin-bottom:6px;text-decoration:none;}
+  body.lang-hi .ete-press-card h4{font-family:'Baloo 2',sans-serif;}
+  .ete-press-source{font-family:'Oswald',sans-serif;font-weight:600;font-size:.8rem;color:var(--ink);text-transform:uppercase;margin-bottom:10px;}
+  body.lang-hi .ete-press-source{font-family:'Mukta',sans-serif;text-transform:none;}
+  .ete-press-card p{font-size:.88rem;color:var(--ink);font-family:'Oswald',sans-serif;font-weight:500;margin-bottom:16px;flex:1;}
+  body.lang-hi .ete-press-card p{font-family:'Mukta',sans-serif;font-size:.95rem;}
+  .ete-read-more{align-self:flex-start;border:1.5px solid rgba(108,201,219,.55);border-radius:8px;padding:9px 20px;font-size:.88rem;font-weight:700;color:var(--red);text-decoration:underline;font-family:'Oswald',sans-serif;}
+  body.lang-hi .ete-read-more{font-family:'Mukta',sans-serif;}
+
+  /* CONTACT */
+  .ete-contact-banner{width:100%;aspect-ratio:16/9;object-fit:cover;object-position:center 12%;filter:grayscale(1) contrast(1.05) brightness(.9);border-radius:2px;}
+  .ete-contact-box{max-width:1160px;margin:0 auto;border:1px solid var(--line);border-radius:4px;padding:36px;margin-top:0;text-align:right;}
+  .ete-cyan{font-family:'Oswald',sans-serif;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:var(--cyan);font-size:.85rem;margin-bottom:8px;}
+  .ete-cyan-hi{font-family:'Baloo 2',sans-serif;font-weight:700;color:var(--cyan);font-size:.95rem;margin-bottom:8px;}
+  .ete-red-link{color:var(--red-soft);font-weight:700;font-family:'Oswald',sans-serif;text-decoration:none;font-size:1.02rem;}
+  .ete-red-text{color:var(--red-soft);font-weight:700;font-family:'Oswald',sans-serif;font-size:.98rem;line-height:1.6;margin-top:2px;}
+  body.lang-hi .ete-red-text, body.lang-hi .ete-red-link{font-family:'Mukta',sans-serif;}
+  .ete-home-link{display:inline-block;margin-top:24px;font-size:.85rem;font-weight:700;color:var(--ink-soft);text-decoration:underline;font-family:'Inter',sans-serif;}
+  body.lang-hi .ete-home-link{font-family:'Mukta',sans-serif;}
+
+  footer{padding:36px 0;text-align:center;color:var(--ink-soft);font-size:.85rem;background:var(--o-cream);font-family:'Inter',sans-serif;}
+  body.lang-hi footer{font-family:'Mukta',sans-serif;}
+  footer a{color:var(--red-soft);font-weight:700;text-decoration:none;}
+</style>
+</head>
+<body class="lang-hi">
+
+<nav>
+  <div class="wrap">
+    <a class="brand" href="index.html"><img src="logo.png" alt="Equal Tales Storyline" class="brand-logo"></a>
+    <ul class="nav-links lang-block lb-flex" data-lang="en">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="scripts.html">Scripts</a></li>
+      <li><a href="youtube.html">YouTube</a></li>
+    </ul>
+    <ul class="nav-links lang-block lb-flex" data-lang="hi">
+      <li><a href="index.html">होम</a></li>
+      <li><a href="scripts.html">स्क्रिप्ट्स</a></li>
+      <li><a href="youtube.html">यूट्यूब</a></li>
+    </ul>
+    <div class="lang-switch" role="group" aria-label="Language / भाषा">
+      <button type="button" data-lang="en" aria-pressed="false">EN</button>
+      <button type="button" data-lang="hi" aria-pressed="true">हिं</button>
+    </div>
+  </div>
+</nav>
+
+<header class="ete-hero">
+  <div class="wrap">
+    <div class="ete-hero-left">
+      <img class="ete-logo" src="ete-logo.png" alt="Equal Tales Entertainment">
+      <div class="ete-hero-text">
+        <div class="ete-sticker lang-block lb-block" data-lang="en">Let's Craft<br>A New Tale<br>Together</div>
+        <div class="ete-sticker-hi lang-block lb-block" data-lang="hi">आइए, मिलकर<br>एक नई कहानी<br>गढ़ें</div>
+      </div>
+    </div>
+    <div class="ete-hero-photo-wrap"><img class="ete-hero-photo" src="hero-director.png" alt="Avinash Das on set"></div>
+  </div>
+</header>
+
+<section id="universe" class="ete-section">
+  <div class="wrap ete-universe-grid">
+    <div>
+      <h2 class="ete-h lang-block lb-block" data-lang="en">Step into the Cinematic Universe of ETE</h2>
+      <h2 class="ete-h-hi lang-block lb-block" data-lang="hi">ईटीई की सिनेमाई दुनिया में आपका स्वागत है</h2>
+      <video class="ete-illustration" autoplay muted loop playsinline poster="ete-illustration.png">
+        <source src="ete-animated-logo.mp4" type="video/mp4">
+      </video>
+    </div>
+    <div>
+      <p class="ete-body lang-block lb-block" data-lang="en">At Equal Tales Entertainment, we master the art of storytelling, exploring every corner of narratives to craft cinema that resonates. We believe in delving deep into the audience's psyche, weaving emotions and authenticity into each frame. With every project, we aim to redefine the power of meaningful and revolutionary storytelling, ensuring that no story remains untold.</p>
+      <p class="ete-body-hi lang-block lb-block" data-lang="hi">इक्वल टेल्स एंटरटेनमेंट में, हम कहानी कहने की कला में महारत हासिल करते हैं, ऐसा सिनेमा गढ़ने के लिए हर बारीकी को टटोलते हैं जो दर्शकों के दिल तक पहुंचे। हमारा मानना है कि दर्शकों के मन की गहराई में उतरकर ही हर फ्रेम में भावना और सच्चाई बुनी जा सकती है। हर प्रोजेक्ट के साथ, हमारा मक़सद है सार्थक और क्रांतिकारी कहानी-कहन की ताक़त को फिर से परिभाषित करना, ताकि कोई भी कहानी अनकही न रह जाए।</p>
+    </div>
+  </div>
+</section>
+
+<section id="director" class="ete-section">
+  <div class="wrap ete-director-grid">
+    <img class="ete-director-photo" src="director-portrait.png" alt="Avinash Das">
+    <div>
+      <div class="ete-bio-block">
+        <div class="ete-label lang-block lb-block" data-lang="en">The Director</div>
+        <div class="ete-label-hi lang-block lb-block" data-lang="hi">निर्देशक</div>
+        <p class="ete-body lang-block lb-block" data-lang="en">Avinash Das is an acclaimed filmmaker and storyteller known for crafting compelling narratives rooted in social realism and human emotion. With a career spanning journalism and filmmaking, he has been associated with impactful projects such as Satyamev Jayate with Aamir Khan, the critically acclaimed film Anaarkali of Aarah, the Netflix series She, and the suspenseful Raat Baaki Hai. Avinash Das's work resonates with audiences for its authenticity, bold themes, and a unique ability to address socio-political issues through engaging storytelling.</p>
+        <p class="ete-body-hi lang-block lb-block" data-lang="hi">अविनाश दास एक जाने-माने फ़िल्ममेकर और कहानीकार हैं, जो सामाजिक यथार्थ और मानवीय भावनाओं में गहरे पैठी हुई कहानियां गढ़ने के लिए जाने जाते हैं। पत्रकारिता से फ़िल्ममेकिंग तक फैले अपने करियर में वे आमिर ख़ान के साथ सत्यमेव जयते, समीक्षकों द्वारा सराही गई फ़िल्म अनारकली ऑफ़ आरा, नेटफ्लिक्स की सीरीज़ शी, और रोमांचक रात बाक़ी है जैसे प्रभावशाली प्रोजेक्ट्स से जुड़े रहे हैं। अविनाश दास का काम अपनी सच्चाई, साहसिक विषयों और सामाजिक-राजनीतिक मुद्दों को दिलचस्प कहानी-कहन के ज़रिए उठाने की अनूठी क्षमता के लिए दर्शकों से गहरा जुड़ाव बनाता है।</p>
+      </div>
+      <div class="ete-bio-block">
+        <div class="ete-label lang-block lb-block" data-lang="en">Approach</div>
+        <div class="ete-label-hi lang-block lb-block" data-lang="hi">दृष्टिकोण</div>
+        <p class="ete-body lang-block lb-block" data-lang="en">Equal Tales Entertainment is dedicated to crafting impactful cinema and digital content that bridges entertainment and social relevance. With a focus on authentic storytelling, we spotlight underrepresented voices, challenge societal norms, and present universal themes with a contemporary lens. Our vision is to nurture fresh talent, celebrate diversity, and create narratives that inspire, provoke thought, and connect with audiences across generations, setting new benchmarks in the world of storytelling.</p>
+        <p class="ete-body-hi lang-block lb-block" data-lang="hi">इक्वल टेल्स एंटरटेनमेंट प्रभावशाली सिनेमा और डिजिटल कंटेंट गढ़ने के लिए समर्पित है, जो मनोरंजन और सामाजिक सरोकार के बीच पुल बनाता है। सच्ची कहानी-कहन पर ध्यान देते हुए, हम कम सुनी गई आवाज़ों को सामने लाते हैं, सामाजिक मान्यताओं को चुनौती देते हैं, और सार्वभौमिक विषयों को समकालीन नज़रिए से पेश करते हैं। हमारा विज़न है नई प्रतिभाओं को संवारना, विविधता का उत्सव मनाना, और ऐसी कहानियां रचना जो प्रेरित करें, सोचने पर मजबूर करें, और पीढ़ियों के दर्शकों से जुड़ें - कहानी-कहन की दुनिया में नए मानक स्थापित करते हुए।</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="purpose" class="ete-section">
+  <div class="wrap ete-purpose-grid">
+    <div>
+      <div class="lang-block lb-block" data-lang="en">
+        <h2 class="ete-h2-dark">Purpose &amp; Vision</h2>
+        <p class="ete-body">Equal Tales Entertainment was established to explore every aspect of cinema and redefine storytelling for a modern audience. Our mission is to identify the unspoken desires of viewers, curate stories that resonate deeply, and bring them to life with authenticity and creativity. We believe in transforming ideas into impactful narratives that engage, inspire, and entertain, bridging the gap between content and the audience's true expectations.</p>
+      </div>
+      <div class="lang-block lb-block" data-lang="hi">
+        <h2 class="ete-h2-dark-hi">उद्देश्य और विज़न</h2>
+        <p class="ete-body-hi">इक्वल टेल्स एंटरटेनमेंट की स्थापना सिनेमा के हर पहलू को टटोलने और आधुनिक दर्शकों के लिए कहानी-कहन को फिर से परिभाषित करने के लिए हुई थी। हमारा मक़सद है दर्शकों की अनकही इच्छाओं को पहचानना, गहराई से जुड़ने वाली कहानियां चुनना, और उन्हें सच्चाई और रचनात्मकता के साथ जीवंत करना। हम विचारों को प्रभावशाली कहानियों में बदलने में विश्वास रखते हैं जो जोड़ें, प्रेरित करें और मनोरंजन करें - कंटेंट और दर्शकों की असली उम्मीदों के बीच की दूरी को पाटते हुए।</p>
+      </div>
+    </div>
+    <div>
+      <div class="lang-block lb-block" data-lang="en">
+        <div class="ete-value-item"><h4>Story Discovery</h4><p>Unearth untold and authentic stories from diverse cultures and communities.</p></div>
+        <div class="ete-value-item"><h4>Creative Development</h4><p>Craft innovative stories blending traditional values with modern techniques.</p></div>
+        <div class="ete-value-item"><h4>Audience Engagement</h4><p>Create content that entertains and connects emotionally with viewers.</p></div>
+        <div class="ete-value-item"><h4>Cinematic Excellence</h4><p>Deliver high-quality productions with a commitment to artistic integrity.</p></div>
+      </div>
+      <div class="lang-block lb-block" data-lang="hi">
+        <div class="ete-value-item"><h4>कहानी की खोज</h4><p>विविध संस्कृतियों और समुदायों से अनकही और सच्ची कहानियां खोजना।</p></div>
+        <div class="ete-value-item"><h4>रचनात्मक विकास</h4><p>पारंपरिक मूल्यों को आधुनिक तकनीक के साथ मिलाकर नवाचारी कहानियां गढ़ना।</p></div>
+        <div class="ete-value-item"><h4>दर्शक जुड़ाव</h4><p>ऐसा कंटेंट बनाना जो मनोरंजन करे और दर्शकों से भावनात्मक रूप से जुड़े।</p></div>
+        <div class="ete-value-item"><h4>सिनेमाई उत्कृष्टता</h4><p>कलात्मक ईमानदारी के प्रति प्रतिबद्धता के साथ उच्च गुणवत्ता वाली प्रस्तुतियां देना।</p></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="work" class="ete-section">
+  <div class="wrap">
+    <h2 class="ete-h-white lang-block lb-block" data-lang="en" style="text-align:right;">Body of Work</h2>
+    <h2 class="ete-h-white-hi lang-block lb-block" data-lang="hi" style="text-align:right;">काम की झलक</h2>
+
+    <div class="ete-work-grid lang-block lb-grid" data-lang="en">
+      <a class="ete-work-card" href="https://youtu.be/jHFT_PdLh20" target="_blank" rel="noopener">
+        <div class="ete-work-yr">2017</div><div class="ete-work-title">Anaarkali of Aarah</div>
+        <div class="ete-work-media" style="background-image:url('https://img.youtube.com/vi/jHFT_PdLh20/hqdefault.jpg')"></div>
+        <p>A pathbreaking film that boldly highlights a woman's fight for dignity in a patriarchal society. Acclaimed as one of the best films of the year, it stands as a powerful feminist statement in Indian cinema.</p>
+      </a>
+      <a class="ete-work-card" href="https://youtu.be/WPlXILGpOFk" target="_blank" rel="noopener">
+        <div class="ete-work-yr">2020</div><div class="ete-work-title">She</div>
+        <div class="ete-work-media" style="background-image:url('https://img.youtube.com/vi/WPlXILGpOFk/hqdefault.jpg')"></div>
+        <p>Streaming on Netflix, a gripping exploration of women's sexuality and empowerment. Its bold narrative and layered storytelling redefined the portrayal of complex female characters on screen.</p>
+      </a>
+      <a class="ete-work-card" href="https://youtu.be/02uIFAZzDnQ" target="_blank" rel="noopener">
+        <div class="ete-work-yr">2021</div><div class="ete-work-title">Raat Baaki Hai</div>
+        <div class="ete-work-media" style="background-image:url('https://img.youtube.com/vi/02uIFAZzDnQ/hqdefault.jpg')"></div>
+        <p>A suspenseful psychological thriller streaming on ZEE5. Set on a mysterious night, it unravels secrets and betrayal with a noir-inspired narrative that keeps viewers hooked.</p>
+      </a>
+      <a class="ete-work-card" href="https://youtu.be/naYa9Nm8Dys" target="_blank" rel="noopener">
+        <div class="ete-work-yr">2021</div><div class="ete-work-title">Runaway Lugaai</div>
+        <div class="ete-work-media" style="background-image:url('https://img.youtube.com/vi/naYa9Nm8Dys/hqdefault.jpg')"></div>
+        <p>A lighthearted and entertaining series combining humor, drama and the complexities of relationships, weaving love, betrayal and self-discovery with quirky humor.</p>
+      </a>
+      <div class="ete-work-card">
+        <div class="ete-work-yr">2023</div><div class="ete-work-title">Munuren</div>
+        <video class="ete-work-media" controls preload="metadata" poster="munuren-poster.jpg">
+          <source src="Munuren%20Trailer.mp4" type="video/mp4">
+        </video>
+        <p>A deeply moving film portraying the rich yet challenging lives of Jharkhand's tribal communities - an extraordinary tale of resilience, capturing indigenous culture with authenticity and grace.</p>
+      </div>
+      <a class="ete-work-card" href="https://youtu.be/rqRfTQmn9PY" target="_blank" rel="noopener">
+        <div class="ete-work-yr">2025</div><div class="ete-work-title">In Galiyon Mein</div>
+        <div class="ete-work-media" style="background-image:url('https://img.youtube.com/vi/rqRfTQmn9PY/hqdefault.jpg')"></div>
+        <p>A beautifully crafted musical and political film celebrating communal harmony - soulful music and poignant storytelling delivering a message of unity and togetherness.</p>
+      </a>
+    </div>
+
+    <div class="ete-work-grid lang-block lb-grid" data-lang="hi">
+      <a class="ete-work-card" href="https://youtu.be/jHFT_PdLh20" target="_blank" rel="noopener">
+        <div class="ete-work-yr">2017</div><div class="ete-work-title">अनारकली ऑफ़ आरा</div>
+        <div class="ete-work-media" style="background-image:url('https://img.youtube.com/vi/jHFT_PdLh20/hqdefault.jpg')"></div>
+        <p>एक अग्रणी फ़िल्म जो पितृसत्तात्मक समाज में एक महिला की गरिमा की लड़ाई को साहसपूर्वक सामने लाती है। साल की सबसे सराही गई फ़िल्मों में शुमार, यह भारतीय सिनेमा में एक सशक्त स्त्रीवादी बयान है।</p>
+      </a>
+      <a class="ete-work-card" href="https://youtu.be/WPlXILGpOFk" target="_blank" rel="noopener">
+        <div class="ete-work-yr">2020</div><div class="ete-work-title">शी</div>
+        <div class="ete-work-media" style="background-image:url('https://img.youtube.com/vi/WPlXILGpOFk/hqdefault.jpg')"></div>
+        <p>नेटफ्लिक्स पर स्ट्रीम होने वाली यह सीरीज़ महिलाओं की कामुकता और सशक्तीकरण की एक गहन पड़ताल है, जिसने पर्दे पर जटिल स्त्री किरदारों की प्रस्तुति को फिर से पारिभाषित किया।</p>
+      </a>
+      <a class="ete-work-card" href="https://youtu.be/02uIFAZzDnQ" target="_blank" rel="noopener">
+        <div class="ete-work-yr">2021</div><div class="ete-work-title">रात बाक़ी है</div>
+        <div class="ete-work-media" style="background-image:url('https://img.youtube.com/vi/02uIFAZzDnQ/hqdefault.jpg')"></div>
+        <p>ज़ी5 पर स्ट्रीम होने वाली एक रोमांचक मनोवैज्ञानिक थ्रिलर। एक रहस्यमयी रात पर आधारित, यह नॉयर-प्रेरित कथा के साथ राज़ और विश्वासघात की परतें खोलती है।</p>
+      </a>
+      <a class="ete-work-card" href="https://youtu.be/naYa9Nm8Dys" target="_blank" rel="noopener">
+        <div class="ete-work-yr">2021</div><div class="ete-work-title">रनअवे लुगाई</div>
+        <div class="ete-work-media" style="background-image:url('https://img.youtube.com/vi/naYa9Nm8Dys/hqdefault.jpg')"></div>
+        <p>हास्य, ड्रामा और रिश्तों की जटिलताओं को साथ लेकर चलने वाली एक हल्की-फुल्की सीरीज़, जो प्रेम, विश्वासघात और आत्म-खोज की कहानी बुनती है।</p>
+      </a>
+      <div class="ete-work-card">
+        <div class="ete-work-yr">2023</div><div class="ete-work-title">मुनुरेन</div>
+        <video class="ete-work-media" controls preload="metadata" poster="munuren-poster.jpg">
+          <source src="Munuren%20Trailer.mp4" type="video/mp4">
+        </video>
+        <p>झारखंड के आदिवासी समुदायों के समृद्ध लेकिन चुनौतीपूर्ण जीवन को दर्शाती एक गहराई से छूने वाली फ़िल्म - लचीलेपन और मानवता की एक असाधारण कहानी।</p>
+      </div>
+      <a class="ete-work-card" href="https://youtu.be/rqRfTQmn9PY" target="_blank" rel="noopener">
+        <div class="ete-work-yr">2025</div><div class="ete-work-title">इन गलियों में</div>
+        <div class="ete-work-media" style="background-image:url('https://img.youtube.com/vi/rqRfTQmn9PY/hqdefault.jpg')"></div>
+        <p>सांप्रदायिक सौहार्द का उत्सव मनाती एक ख़ूबसूरती से गढ़ी गई संगीतमय-राजनीतिक फ़िल्म, जो एकता और साथ रहने का सशक्त संदेश देती है।</p>
+      </a>
+    </div>
+  </div>
+</section>
+
+<section id="luminaries" class="ete-section">
+  <div class="wrap">
+    <h2 class="ete-h lang-block lb-block" data-lang="en">Guiding Luminaries of ETE</h2>
+    <h2 class="ete-h-hi lang-block lb-block" data-lang="hi">ईटीई के मार्गदर्शक</h2>
+
+    <div class="ete-lum-grid lang-block lb-grid" data-lang="en">
+      <div class="ete-lum-item"><img class="ete-lum-photo" src="Arvind%20Kannabiran.JPG" alt="Arvind Kannabiran"><div><h4>Arvind Kannabiran</h4><div class="role">Cinematographer</div><p>An accomplished cinematographer, Arvind Kannabiran is known for his evocative visual language and strong sense of realism. His work seamlessly blends natural light with textured compositions that deepen emotional impact. His camera work is marked by restraint, authenticity, and a deep commitment to serving the narrative.</p></div></div>
+      <div class="ete-lum-item"><img class="ete-lum-photo" src="Jabeen%20Merchant.jpg" alt="Jabeen Merchant"><div><h4>Jabeen Merchant</h4><div class="role">Editor</div><p>An accomplished film editor, Jabeen Merchant is known for her sharp narrative sense and deep engagement with story structure. Her work spans fiction and non-fiction, moving across documentaries, features, and long-form storytelling. Her editing is marked by clarity, sensitivity, and a collaborative approach to shaping complex narratives.</p></div></div>
+      <div class="ete-lum-item"><img class="ete-lum-photo" src="Ajay%20Brahmatmaj.jpg" alt="Ajay Brahmatmaj"><div><h4>Ajay Brahmatmaj</h4><div class="role">Journalist</div><p>Ajay Brahmatmaj is a veteran Indian film critic, journalist, and author with decades of experience writing on cinema. He has contributed extensively to major Hindi publications and played a key role in shaping critical discourse on popular and art cinema. His writing is known for its clarity and strong engagement with narrative and performance.</p></div></div>
+      <div class="ete-lum-item"><img class="ete-lum-photo" src="Swapnil%20Kant%20Dixit.jpeg" alt="Swapnil Kant Dixit"><div><h4>Swapnil Kant Dixit</h4><div class="role">Strategist</div><p>Swapnil Kant Dixit is a strategist and co-founder of Jagriti Yatra, a national leadership journey connecting young changemakers across India. A management graduate from the University of California, Berkeley, he works across entrepreneurship and social initiatives. His work focuses on social change and long-term impact.</p></div></div>
+    </div>
+    <div class="ete-lum-grid lang-block lb-grid" data-lang="hi">
+      <div class="ete-lum-item"><img class="ete-lum-photo" src="Arvind%20Kannabiran.JPG" alt="अरविंद कन्नाबिरन"><div><h4>अरविंद कन्नाबिरन</h4><div class="role">छायाकार</div><p>एक कुशल छायाकार, अरविंद कन्नाबिरन अपनी भावप्रवण दृश्य-भाषा और यथार्थ की गहरी समझ के लिए जाने जाते हैं। उनका काम प्राकृतिक रोशनी को बनावट भरी फ़्रेमिंग के साथ इस क़दर मिलाता है कि भावनात्मक असर और गहरा हो जाता है। उनकी कैमरावर्क संयम, सच्चाई और कहानी की सेवा के प्रति गहरी प्रतिबद्धता के लिए पहचानी जाती है।</p></div></div>
+      <div class="ete-lum-item"><img class="ete-lum-photo" src="Jabeen%20Merchant.jpg" alt="जबीन मर्चेंट"><div><h4>जबीन मर्चेंट</h4><div class="role">संपादक</div><p>एक कुशल फ़िल्म संपादक, जबीन मर्चेंट अपनी पैनी कथा-समझ और कहानी की बुनावट से गहरे जुड़ाव के लिए जानी जाती हैं। उनका काम फ़िक्शन और नॉन-फ़िक्शन दोनों में फैला है - डॉक्युमेंट्री, फ़ीचर फ़िल्मों और लंबी कहानियों तक। उनकी एडिटिंग स्पष्टता, संवेदनशीलता और जटिल कथाओं को गढ़ने के सहयोगात्मक तरीक़े के लिए पहचानी जाती है।</p></div></div>
+      <div class="ete-lum-item"><img class="ete-lum-photo" src="Ajay%20Brahmatmaj.jpg" alt="अजय ब्रह्मात्मज"><div><h4>अजय ब्रह्मात्मज</h4><div class="role">पत्रकार</div><p>अजय ब्रह्मात्मज हिंदी सिनेमा पर दशकों के अनुभव वाले वरिष्ठ फ़िल्म समीक्षक, पत्रकार और लेखक हैं। उन्होंने प्रमुख हिंदी प्रकाशनों में व्यापक योगदान दिया है और लोकप्रिय व कला-सिनेमा दोनों पर आलोचनात्मक विमर्श गढ़ने में अहम भूमिका निभाई है। उनका लेखन अपनी स्पष्टता और कथा व अभिनय से गहरे जुड़ाव के लिए जाना जाता है।</p></div></div>
+      <div class="ete-lum-item"><img class="ete-lum-photo" src="Swapnil%20Kant%20Dixit.jpeg" alt="स्वप्निल कांत दीक्षित"><div><h4>स्वप्निल कांत दीक्षित</h4><div class="role">रणनीतिकार</div><p>स्वप्निल कांत दीक्षित एक रणनीतिकार और जागृति यात्रा के सह-संस्थापक हैं - एक राष्ट्रीय नेतृत्व यात्रा जो भारत भर के युवा बदलावकर्ताओं को जोड़ती है। यूनिवर्सिटी ऑफ़ कैलिफ़ोर्निया, बर्कले से प्रबंधन स्नातक, वे उद्यमिता और सामाजिक पहलों के क्षेत्र में काम करते हैं। उनका काम सामाजिक बदलाव और दीर्घकालिक असर पर केंद्रित है।</p></div></div>
+    </div>
+  </div>
+</section>
+
+<section id="press" class="ete-section">
+  <div class="wrap">
+    <h2 class="ete-h lang-block lb-block" data-lang="en">Press</h2>
+    <h2 class="ete-h-hi lang-block lb-block" data-lang="hi">प्रेस में</h2>
+
+    <div class="ete-press-grid lang-block lb-grid" data-lang="en">
+      <div class="ete-press-card"><div class="ete-press-media"></div><h4>Avinash Das: Have entered Bollywood to tell stories, not for glamour</h4><div class="ete-press-source">The Times of India</div><p>In this interview, Avinash Das discusses his transition from journalism to filmmaking and his focus on storytelling over glamour.</p><a class="ete-read-more" href="https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/avinash-das-have-entered-bollywood-to-tell-stories-not-for-glamour/articleshow/57649358.cms" target="_blank" rel="noopener">Read more</a></div>
+      <div class="ete-press-card"><div class="ete-press-media"></div><h4>Anaarkali of Aarah: How this film subverts patriarchy in Bollywood</h4><div class="ete-press-source">Hindustan Times</div><p>This article reviews 'Anaarkali of Aarah', directed by Avinash Das, highlighting its bold narrative and feminist themes.</p><a class="ete-read-more" href="https://www.hindustantimes.com/bollywood/anaarkali-of-aarah-how-this-swara-bhaskar-film-subverts-patriarchy-in-bollywood/story-Gdfjcn0Oc7zPeaOqvfQhMN.html" target="_blank" rel="noopener">Read more</a></div>
+      <div class="ete-press-card"><div class="ete-press-media"></div><h4>Women like Anaarkali of Aarah are taken for granted</h4><div class="ete-press-source">The Indian Express</div><p>In this piece, Avinash Das talks about the inspiration behind his film and the societal issues it addresses.</p><a class="ete-read-more" href="https://indianexpress.com/article/entertainment/bollywood/women-like-anaarkali-of-aarah-are-taken-for-granted-director-avinash-das-swara-bhaskar-4563362/" target="_blank" rel="noopener">Read more</a></div>
+      <div class="ete-press-card"><div class="ete-press-media"></div><h4>If you believe in what you show on screen you can never go wrong</h4><div class="ete-press-source">The Indian Express</div><p>An interview where Avinash Das shares insights into his filmmaking philosophy and the challenges he faces.</p><a class="ete-read-more" href="https://indianexpress.com/videos/entertainment-video/if-you-believe-in-what-you-show-on-screen-you-can-never-go-wrong-avinash-das/" target="_blank" rel="noopener">Read more</a></div>
+    </div>
+    <div class="ete-press-grid lang-block lb-grid" data-lang="hi">
+      <div class="ete-press-card"><div class="ete-press-media"></div><h4>अविनाश दास: चमक-दमक के लिए नहीं, कहानियां कहने के लिए बॉलीवुड में आया हूं</h4><div class="ete-press-source">द टाइम्स ऑफ़ इंडिया</div><p>इस इंटरव्यू में अविनाश दास पत्रकारिता से फ़िल्ममेकिंग तक के अपने सफ़र और चमक-दमक की जगह कहानी-कहन पर अपने फ़ोकस पर बात करते हैं।</p><a class="ete-read-more" href="https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/avinash-das-have-entered-bollywood-to-tell-stories-not-for-glamour/articleshow/57649358.cms" target="_blank" rel="noopener">पूरा पढ़ें</a></div>
+      <div class="ete-press-card"><div class="ete-press-media"></div><h4>अनारकली ऑफ़ आरा: यह फ़िल्म बॉलीवुड में पितृसत्ता को कैसे चुनौती देती है</h4><div class="ete-press-source">हिंदुस्तान टाइम्स</div><p>यह लेख अविनाश दास की निर्देशित फ़िल्म 'अनारकली ऑफ़ आरा' की समीक्षा करता है, जो इसकी साहसिक कथा और स्त्रीवादी विषयों को रेखांकित करता है।</p><a class="ete-read-more" href="https://www.hindustantimes.com/bollywood/anaarkali-of-aarah-how-this-swara-bhaskar-film-subverts-patriarchy-in-bollywood/story-Gdfjcn0Oc7zPeaOqvfQhMN.html" target="_blank" rel="noopener">पूरा पढ़ें</a></div>
+      <div class="ete-press-card"><div class="ete-press-media"></div><h4>अनारकली ऑफ़ आरा जैसी महिलाओं को हल्के में लिया जाता है</h4><div class="ete-press-source">द इंडियन एक्सप्रेस</div><p>इस लेख में अविनाश दास अपनी फ़िल्म के पीछे की प्रेरणा और उसमें उठाए गए सामाजिक मुद्दों पर बात करते हैं।</p><a class="ete-read-more" href="https://indianexpress.com/article/entertainment/bollywood/women-like-anaarkali-of-aarah-are-taken-for-granted-director-avinash-das-swara-bhaskar-4563362/" target="_blank" rel="noopener">पूरा पढ़ें</a></div>
+      <div class="ete-press-card"><div class="ete-press-media"></div><h4>अगर आप पर्दे पर जो दिखाते हैं उस पर यक़ीन रखते हैं, तो कभी ग़लत नहीं हो सकते</h4><div class="ete-press-source">द इंडियन एक्सप्रेस</div><p>इस इंटरव्यू में अविनाश दास अपनी फ़िल्ममेकिंग सोच और सामने आने वाली चुनौतियों के बारे में बताते हैं।</p><a class="ete-read-more" href="https://indianexpress.com/videos/entertainment-video/if-you-believe-in-what-you-show-on-screen-you-can-never-go-wrong-avinash-das/" target="_blank" rel="noopener">पूरा पढ़ें</a></div>
+    </div>
+  </div>
+</section>
+
+<section id="contact" class="ete-section">
+  <div class="wrap">
+    <img class="ete-contact-banner" src="229b717e-1a33-46d1-8fc5-600d486bd92a.JPG" alt="">
+  </div>
+  <div class="wrap" style="margin-top:36px;">
+    <div class="ete-contact-box">
+      <div class="ete-cyan lang-block lb-block" data-lang="en">Contact</div>
+      <div class="ete-cyan-hi lang-block lb-block" data-lang="hi">संपर्क</div>
+      <a class="ete-red-link" href="mailto:equaltales@gmail.com">equaltales@gmail.com</a>
+
+      <div class="ete-cyan lang-block lb-block" data-lang="en" style="margin-top:22px;">Address</div>
+      <div class="ete-cyan-hi lang-block lb-block" data-lang="hi" style="margin-top:22px;">पता</div>
+      <div class="ete-red-text">Equal Tales Entertainment PVT LTD<br>2G, Krishna Kutir, Sagrika CHS, Behind SBI<br>Juhu Tara Road, Juhu<br>Mumbai 400049</div>
+
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="lang-block lb-block" data-lang="en">Equal Tales Storyline · <a href="https://www.youtube.com/@ETStoryline" target="_blank" rel="noopener">@ETStoryline</a> · <a href="youtube.html">Videos</a></div>
+  <div class="lang-block lb-block" data-lang="hi">इक्वल टेल्स स्टोरीलाइन · <a href="https://www.youtube.com/@ETStoryline" target="_blank" rel="noopener">@ETStoryline</a> · <a href="youtube.html">वीडियो</a></div>
+</footer>
+
+<script>
+  function setLang(lang){
+    document.body.classList.remove('lang-en','lang-hi');
+    document.body.classList.add('lang-' + lang);
+    document.documentElement.setAttribute('lang', lang);
+    try{ localStorage.setItem('etsLang', lang); }catch(e){}
+    document.querySelectorAll('.lang-switch button').forEach(function(b){
+      b.setAttribute('aria-pressed', b.dataset.lang === lang ? 'true' : 'false');
+    });
+  }
+  document.querySelectorAll('.lang-switch button').forEach(function(b){
+    b.addEventListener('click', function(){ setLang(b.dataset.lang); });
+  });
+  (function init(){
+    var saved = null;
+    try{ saved = localStorage.getItem('etsLang'); }catch(e){}
+    setLang(saved === 'en' ? 'en' : 'hi');
+  })();
+</script>
+
+</body>
+</html>

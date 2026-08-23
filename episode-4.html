@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Remorse Carved in Stone: The Story of Emperor Ashoka | पत्थर पर लिखा पश्चाताप: सम्राट अशोक की कहानी | Equal Tales Storyline</title>
+<meta name="description" content="Read Bharat Ki Kahani's episode scripts as full chapters - from the Indus Valley to the dawn of the 20th century.">
+<link rel="icon" type="image/png" href="favicon.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700;900&family=Inter:wght@400;500;600;700&family=Mukta:wght@400;500;600;700&family=Baloo+2:wght@500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --cloud:#F4F7F9;
+    --mist:#E6ECF2;
+    --powder:#D0E1FD;
+    --gold:#C5A059;
+    --gold-dark:#96754A;
+    --ink:#2C3E50;
+    --ink-soft:#5B6B7C;
+    --glass:rgba(255,255,255,.55);
+    --glass-strong:rgba(255,255,255,.72);
+    --glass-border:rgba(255,255,255,.65);
+  }
+  *{box-sizing:border-box;margin:0;padding:0;}
+  html{scroll-behavior:smooth;}
+  body{
+    background:linear-gradient(165deg, var(--cloud) 0%, var(--powder) 55%, var(--mist) 100%);
+    color:var(--ink);font-family:'Inter',sans-serif;line-height:1.75;min-height:100vh;
+  }
+  body.lang-hi{font-family:'Mukta',sans-serif;}
+  h1,h2,h3{font-family:'Playfair Display',serif;font-weight:700;color:var(--ink);}
+  body.lang-hi h1, body.lang-hi h2, body.lang-hi h3{font-family:'Baloo 2',serif;font-weight:700;}
+  a{color:inherit;}
+  img{max-width:100%;display:block;}
+  .wrap{max-width:1120px;margin:0 auto;padding:0 24px;}
+
+  .lang-block{display:none !important;}
+  body.lang-en .lang-block[data-lang="en"].lb-block{display:block !important;}
+  body.lang-hi .lang-block[data-lang="hi"].lb-block{display:block !important;}
+  body.lang-en .lang-block[data-lang="en"].lb-flex{display:flex !important;}
+  body.lang-hi .lang-block[data-lang="hi"].lb-flex{display:flex !important;}
+  body.lang-en .lang-block[data-lang="en"].lb-inline{display:inline !important;}
+  body.lang-hi .lang-block[data-lang="hi"].lb-inline{display:inline !important;}
+  body.lang-en .lang-block[data-lang="en"].lb-grid{display:grid !important;}
+  body.lang-hi .lang-block[data-lang="hi"].lb-grid{display:grid !important;}
+
+  nav{
+    position:sticky;top:0;z-index:50;
+    background:var(--glass);backdrop-filter:blur(16px) saturate(1.2);-webkit-backdrop-filter:blur(16px) saturate(1.2);
+    border-bottom:1px solid var(--glass-border);
+  }
+  nav .wrap{display:flex;align-items:center;justify-content:space-between;padding:14px 24px;gap:16px;}
+  .brand{display:flex;align-items:center;gap:10px;text-decoration:none;}
+  .brand-logo{height:46px;width:auto;flex-shrink:0;border-radius:12px;}
+  .lang-switch{display:flex;border:1.5px solid var(--gold);border-radius:999px;overflow:hidden;background:rgba(255,255,255,.5);}
+  .lang-switch button{border:0;background:transparent;padding:7px 16px;font-weight:700;font-size:.82rem;cursor:pointer;color:var(--gold-dark);}
+  .lang-switch button[aria-pressed="true"]{background:var(--gold);color:#fff;}
+  .nav-links{display:flex;gap:22px;list-style:none;}
+  .nav-links a{font-size:.88rem;font-weight:600;text-decoration:none;}
+  @media(max-width:700px){.nav-links{display:none;}}
+
+  main{padding:70px 24px 100px;}
+  .eyebrow{text-transform:uppercase;letter-spacing:.14em;font-size:.75rem;font-weight:600;color:var(--gold-dark);margin-bottom:14px;}
+  body.lang-hi .eyebrow{text-transform:none;letter-spacing:0;}
+
+  .scripts-hero{max-width:760px;margin:0 auto 48px;text-align:center;}
+  .scripts-hero h1{font-size:clamp(1.7rem,4vw,2.5rem);margin-bottom:16px;}
+  .scripts-hero p{color:var(--ink-soft);font-size:1.05rem;}
+
+  .chapter-index{grid-template-columns:repeat(4,1fr);gap:16px;margin:0 auto 64px;max-width:1000px;}
+  .chapter-index a{
+    display:block;background:var(--glass);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);
+    border:1px solid var(--glass-border);border-radius:16px;padding:18px 16px;
+    text-decoration:none;text-align:center;transition:transform .15s ease,box-shadow .15s ease;
+  }
+  .chapter-index a:hover{transform:translateY(-3px);box-shadow:0 10px 26px rgba(44,62,80,.1);}
+  .idx-num{font-size:.72rem;font-weight:700;color:var(--gold-dark);text-transform:uppercase;letter-spacing:.06em;margin-bottom:6px;}
+  body.lang-hi .idx-num{text-transform:none;letter-spacing:0;}
+  .idx-title{font-size:.9rem;font-weight:600;color:var(--ink);line-height:1.4;}
+  @media(max-width:900px){.chapter-index{grid-template-columns:repeat(2,1fr);}}
+  @media(max-width:560px){.chapter-index{grid-template-columns:1fr;}}
+
+  article.chapter{
+    max-width:800px;margin:0 auto 56px;
+    background:var(--glass-strong);backdrop-filter:blur(18px) saturate(1.1);-webkit-backdrop-filter:blur(18px) saturate(1.1);
+    border:1px solid var(--glass-border);border-radius:24px;padding:44px 40px;
+    box-shadow:0 20px 50px rgba(44,62,80,.08);scroll-margin-top:90px;
+  }
+  .chapter-head{text-align:center;margin-bottom:26px;}
+  .chapter-num{font-size:.78rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--gold-dark);margin-bottom:8px;}
+  body.lang-hi .chapter-num{text-transform:none;letter-spacing:0;font-family:'Mukta',sans-serif;}
+  .chapter-head h2{font-size:clamp(1.3rem,3vw,1.7rem);margin-bottom:12px;}
+  .chapter-dek{color:var(--ink-soft);font-size:1rem;max-width:560px;margin:0 auto 10px;}
+  .chapter-meta{font-size:.8rem;color:var(--gold-dark);font-weight:600;}
+  .chapter-highlights{margin:0 0 24px;display:grid;gap:14px;}
+  .chapter-highlights blockquote{
+    font-family:'Playfair Display',serif;font-style:italic;font-size:1.05rem;line-height:1.6;
+    color:var(--ink);background:rgba(197,160,89,.1);border-left:3px solid var(--gold);
+    padding:16px 20px;border-radius:0 12px 12px 0;
+  }
+  body.lang-hi .chapter-highlights blockquote{font-family:'Baloo 2',serif;font-style:normal;}
+  details.chapter-body{text-align:center;}
+  details.chapter-body summary{
+    cursor:pointer;list-style:none;display:inline-flex;align-items:center;gap:8px;
+    font-weight:700;color:#fff;background:var(--gold);padding:11px 22px;border-radius:999px;
+    font-size:.9rem;box-shadow:0 8px 20px rgba(197,160,89,.3);
+  }
+  details.chapter-body summary::-webkit-details-marker{display:none;}
+  details.chapter-body summary::after{content:'▾';font-size:.8rem;}
+  details.chapter-body[open] summary::after{content:'▴';}
+  details.chapter-body[open] summary{margin-bottom:28px;}
+  .chapter-text{text-align:left;}
+  .chapter-text h3{font-size:1.08rem;color:var(--gold-dark);margin:26px 0 10px;}
+  .chapter-text h3:first-child{margin-top:0;}
+  .chapter-text p{margin-bottom:14px;font-size:1rem;color:var(--ink);}
+  .chapter-lang-note{
+    display:inline-block;margin-bottom:18px;font-size:.78rem;color:var(--gold-dark);
+    background:rgba(197,160,89,.12);padding:5px 14px;border-radius:999px;font-weight:600;
+  }
+  @media(max-width:600px){article.chapter{padding:30px 22px;}}
+
+  .scripts-cta{max-width:640px;margin:0 auto;text-align:center;}
+  .btn{
+    display:inline-flex;align-items:center;gap:8px;padding:12px 26px;border-radius:999px;
+    font-weight:700;text-decoration:none;font-size:.95rem;background:var(--gold);color:#fff;
+    box-shadow:0 10px 24px rgba(197,160,89,.35);
+  }
+
+  footer{padding:40px 0;text-align:center;color:var(--ink-soft);font-size:.85rem;}
+  footer a{color:var(--gold-dark);font-weight:700;text-decoration:none;}
+
+  .chapter-breadcrumb{max-width:840px;margin:28px auto 0;}
+  .chapter-breadcrumb a{font-weight:700;font-size:.85rem;color:var(--gold-dark);text-decoration:none;}
+  .chapter-breadcrumb a:hover{text-decoration:underline;}
+  .chapter-pagenav{max-width:840px;margin:36px auto 0;display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;}
+  .chapter-pagenav a{font-weight:700;font-size:.9rem;padding:10px 16px;border:1.5px solid var(--gold);border-radius:999px;text-decoration:none;color:var(--gold-dark);}
+  .chapter-pagenav a:hover{background:var(--gold);color:#fff;}
+  .chapter-watch-yt{margin:14px 0 4px;}
+  .chapter-watch-yt a{display:inline-flex;align-items:center;gap:8px;background:#FF0000;color:#fff !important;padding:9px 18px;border-radius:999px;font-weight:700;font-size:.85rem;text-decoration:none;}
+  .chapter-watch-yt a:hover{opacity:.9;}
+
+</style>
+</head>
+<body class="lang-hi">
+
+<nav>
+  <div class="wrap">
+    <a class="brand" href="index.html">
+      <img src="logo.png" alt="Equal Tales Storyline" class="brand-logo">
+    </a>
+    <ul class="nav-links lang-block lb-flex" data-lang="en">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="youtube.html">YouTube</a></li>
+    </ul>
+    <ul class="nav-links lang-block lb-flex" data-lang="hi">
+      <li><a href="index.html">होम</a></li>
+      <li><a href="youtube.html">यूट्यूब</a></li>
+    </ul>
+    <div class="lang-switch" role="group" aria-label="Language / भाषा">
+      <button type="button" data-lang="en" aria-pressed="false">EN</button>
+      <button type="button" data-lang="hi" aria-pressed="true">हिं</button>
+    </div>
+  </div>
+</nav>
+
+<main>
+  
+
+
+
+  <div class="chapter-breadcrumb">
+    <a class="lang-block lb-inline" data-lang="en" href="scripts.html">&larr; All chapters</a>
+    <a class="lang-block lb-inline" data-lang="hi" href="scripts.html">&larr; सभी अध्याय</a>
+  </div>
+<article class="chapter" id="chapter-4">
+  <div class="chapter-head">
+    <div class="chapter-num lang-block lb-inline" data-lang="en">Chapter 4</div>
+    <div class="chapter-num lang-block lb-inline" data-lang="hi">अध्याय 4</div>
+    <h2 class="lang-block lb-block" data-lang="en">Remorse Carved in Stone: The Story of Emperor Ashoka</h2>
+    <h2 class="lang-block lb-block" data-lang="hi">पत्थर पर लिखा पश्चाताप: सम्राट अशोक की कहानी</h2>
+    <p class="chapter-dek lang-block lb-block" data-lang="en">A conqueror king who carved his remorse into stone instead of his triumph.</p>
+    <p class="chapter-dek lang-block lb-block" data-lang="hi">एक विजेता राजा, जिसने अपनी जीत की जगह अपना पश्चाताप पत्थर पर लिखवाया।</p>
+    <div class="chapter-meta">
+      <span class="lang-block lb-inline" data-lang="en">13 min read</span>
+      <span class="lang-block lb-inline" data-lang="hi">16 मिनट का पाठ</span>
+    </div>
+  </div>
+  <div class="chapter-highlights">
+    <blockquote>“उन्होंने पत्थर पर अपना घमंड नहीं, अपना पश्चाताप लिखवाया।”</blockquote>
+    <blockquote>“अच्छाई करना कठिन है और अच्छाई की शुरुआत करना भी कठिन है।” - अशोक का शिलालेख</blockquote>
+  </div>
+  <details class="chapter-body" open>
+    <summary>
+      <span class="lang-block lb-inline" data-lang="en">Read the full chapter</span>
+      <span class="lang-block lb-inline" data-lang="hi">पूरा अध्याय पढ़ें</span>
+    </summary>
+    <div class="chapter-text lang-block lb-block" data-lang="en">
+<h3>Emperor Ashoka, and Remorse Carved Upon Stone</h3>
+<p>History has known many kings who won wars, but how many kings, having won, felt remorse over their own victory? Ashoka had an army, had elephants, had highways, had forts, and an empire larger than Rome or Athens; yet his greatest legacy was not any war - his greatest legacy was a restlessness carved upon stone, the voice of an emperor saying, "My victory has left me unsettled."</p>
+<p>"To do good is hard, and to begin doing good is hard too." These words, carved in stone in the third century BCE, did not come from some poet, did not emerge from some ascetic's cave; they were the words of an emperor. An emperor who had an army, had elephants, had officials, had highways, had forts, and an empire that rose from the plains of the Ganga and spread to the hills of the north-west.</p>
+<p>But this emperor did not leave behind, after himself, mere tales of conquest; he did not leave golden palaces bearing his name; he did not have his arrogance at crushing enemies carved onto stone - he had his remorse carved onto stone instead. His name was Ashoka. Indian history has seen many kings - some founded cities, some won wars, some built temples and stupas, some tried to immortalize their lineages; but Ashoka is among the rare kings whose own voice remains with us even today.</p>
+<p>More than 2,000 years have passed; capitals have crumbled into dust, dynasties have broken apart, languages have changed, the names of gods have changed, the names of capitals have changed, the banks of rivers have shifted; yet Ashoka's words still breathe upon rocks and pillars. Those words are command, and confession too; politics, and religion too; and, here and there, the restlessness of a human being awakening within a king.</p>
+<h3>Pataliputra, Chandragupta Maurya, and the Seleucid Treaty (The Trade of Elephants)</h3>
+<p>To understand Ashoka, we must first understand the empire in whose vast shadow he stood. We must return to Pataliputra - today's Patna. But in the fourth and third centuries BCE, this city was not merely a town - it was the beating centre of power. Settled near the Ganga and Son rivers, ringed by wooden walls, protected by moats, and connected by roads stretching far and wide.</p>
+<p>It was here that Chandragupta Maurya laid the foundation of the Mauryan empire. Chandragupta removed the Nandas - the dynasty that had held Magadha. Magadha had already been powerful before, but Chandragupta changed its direction. Earlier, powers from the north-west had descended from the Indus toward the Ganga; Chandragupta reversed this route. He marched from Pataliputra westward - crossing forests, plains, rivers and grasslands, toward the Indus. With him marched a vast army - archers, cavalry, infantry, and elephants.</p>
+<p>Near the Indus, Chandragupta came face to face with the Seleucid empire - that Greek power which, after Alexander's death, was staking its claim over large parts of Asia. Whether war occurred or not, history does not say clearly, but diplomacy proved more enduring than swords. The Seleucids ceded some of their eastern territories to the Mauryas - parts of present-day Afghanistan and Pakistan; in return, Chandragupta gave them 500 elephants.</p>
+<p>500 elephants - imagine it! Vast creatures, dust rising beneath their feet, adorned with ropes and bells, under the control of mahouts, marching westward. To the world beyond the Indian subcontinent, the elephant was not merely an animal - it was a walking mountain of war. After this treaty, Seleucid envoys arrived at Pataliputra, the most famous among them being Megasthenes. Through his eyes, we get our first glimpse of the Mauryan capital.</p>
+<p>Pataliputra was vast, sprawling, and astonishingly grand. Ringed by wooden walls with slits for shooting arrows, and a moat in front - for defence, and for the city's drainage too. The walls, built of sal wood, were so strong that even centuries later, when people around Patna dug wells, their spades would sometimes strike against those very ancient walls. History sometimes returns exactly like this - from within the earth, suddenly, onto some farmer's spade.</p>
+<p>Pataliputra was among the largest cities of its time - larger than Rome, far larger than Athens. This was not merely a capital - it was a system. There were officials here, there were roads, there were wells, there were milestones marking distance. The Mauryan empire did not merely conquer land - it built roads, measured, recorded, and stood up administration.</p>
+<h3>Bindusara and Ashoka's Violent Accession to the Throne</h3>
+<p>Relations between the Mauryas and the Seleucids continued. Elephants went west; perhaps tigers went too; in return came dried fruits, wine, luxury goods, and news of Greek learning. After Chandragupta came Bindusara, and after Bindusara, his son Ashoka steps onto the stage of history.</p>
+<p>Ashoka's beginning is shrouded in mist. We know that after Bindusara's death, power eventually reached Ashoka, but whether that path was straight or passed through blood remains uncertain. Later stories speak of conflict between brothers, speak of violence for the throne. These stories do not agree with each other, but in the history of South Asian dynasties, succession was rarely peaceful.</p>
+<p>Often, before reaching the throne, princes had to pass through the very corridors of the palace where the shadow of their own blood relations fell. Whatever the truth in Ashoka's case, given his later language, this memory seems to run deep. The king who would go on to grieve over the violence of the state may himself have climbed the violent steps of power.</p>
+<h3>Stones That Speak: The Prakrit Language and the Brahmi Script</h3>
+<p>Ashoka ruled for roughly 36 years, and the greatest feature of his reign was not merely that he was the emperor of a vast empire; his extraordinariness lay in the fact that he spoke directly to his empire. He had his words carved onto rocks and stone pillars. Across India, Pakistan, Afghanistan and Nepal - wherever Mauryan power reached - stones began to speak.</p>
+<p>These inscriptions were sometimes small, sometimes large; some on rock faces, some on extremely polished pillars. The pillars were so massive that their weight equalled several elephants. A carved capital above, smooth stone below - as if power itself had stood up against time. But the true strength of these pillars lay not in their size - it lay in their voice.</p>
+<p>Ashoka had most of his edicts written in the Prakrit language and the Brahmi script, not in Sanskrit - not in the language that was mainly the prestige tongue of the Brahmanical tradition. He chose a language that could reach the wider society. In the north-west, he had Greek and Aramaic used as well. This was not merely administrative convenience - it was a deep understanding of empire; a state runs not on army alone, a state runs on language too.</p>
+<p>And it is upon these very stones that, for the first time in the Indian subcontinent, a king speaks to us in his own voice. He says - "I am like this, I did this, I made this mistake, I want those who come after me to learn from it." This moment is extraordinary in history.</p>
+<h3>The Turn Toward Buddhism, and the Universal Policy of 'Dhamma'</h3>
+<p>In Ashoka's early edicts, he speaks of his religious life. He tells us that he had been a lay Buddhist for more than two and a half years, but in the first year he made no special progress. Then he drew closer to the Buddhist Sangha and grew more devoted. This sentence is astonishing - an emperor admitting the slow pace of his own spiritual life. He is saying - "I did not change suddenly, I changed gradually." This is not the language of a conqueror; this is the language of practice.</p>
+<p>Ashoka travelled to Lumbini, where the Buddha was born. He gave importance to Buddhist sites, he even intervened in matters of discipline within the Buddhist Sangha; but it would not be enough to simply call him a Buddhist king. He did not tell his subjects that everyone should become Buddhist. He gave patronage to many religious traditions - he built caves for the Ajivikas, spoke of honouring Brahmins and Shramanas alike, and drew different communities into his moral message.</p>
+<p>His greatest political and moral project was not merely the state propagation of Buddhism - his project was 'Dhamma'. Dhamma meant a moral life. Dhamma meant compassion, restraint, respect for parents, honour for elders, justice toward servants and slaves, kindness toward living beings, and an effort to reduce violence.</p>
+<p>This was connected to Buddhist dhamma, but was not entirely the same thing. It was a shared moral language forged by an emperor for his vast, diverse, and unequal empire. Ashoka, as if for the first time, imagined that a state is not merely a structure of taxation, army and punishment; a state can also ask its people how they treat one another.</p>
+<h3>The Devastating Kalinga War, and the Emperor's Anguish</h3>
+<p>But the decisive moment of Ashoka's life was yet to come - that moment was Kalinga. Kalinga was that land of eastern India (the region around present-day Odisha and Andhra) - connected to maritime trade, independent, prosperous, and of immense strategic importance to the Mauryan empire. In the eighth year of Ashoka's reign, the Mauryan army marched upon Kalinga.</p>
+<p>Imagine that campaign - an army advancing south-east from Pataliputra, rows of elephants, the march of soldiers, dust, smoke, city gates, fleeing people, wounded bodies, burning houses; and, at the end, that silence which settles once a war ends, when the victors count, and the defeated search for their dead.</p>
+<p>Ashoka himself wrote that in Kalinga a hundred and fifty thousand people were taken captive, a hundred thousand were killed, and many more died afterward. These figures are rounded; historians read them with caution; but one thing is beyond dispute - in Kalinga, Mauryan power wrought heavy devastation. In Indian history, kings have often described their victories with pride - trampling enemies, humbling cities, defeating kings - this was the familiar tone of royal language.</p>
+<p>But Ashoka did something else - he grieved over his own victory. He said that after conquering Kalinga, the Beloved of the Gods felt remorse, felt deep regret, because conquering a free people had required killing, death, and deportation. This sentence opens a deep crack in the history of kingship - an emperor saying, "My victory has left me unsettled."</p>
+<p>And Ashoka's grief was not confined to the battlefield alone; he says - "When people are killed, it is not only they who die; their parents grieve, their friends grieve, their teachers, servants, relatives, and acquaintances are all wounded. Even those who survive are shattered by the suffering of their loved ones." This is a description of war in which one sees not the enemy, but the human being. Ashoka understood that violence does not merely kill the body - it breaks relationships, wounds memory, and leaves pain lingering in the veins of society for a long time.</p>
+<p>After Kalinga, Ashoka declared - "True victory is the victory of Dhamma." In place of the drums of war, the sound of Dhamma - in place of bherighosha, the sound of battle drums, dhammaghosha, the sound of the Dhamma. Imagine - the very empire whose elephants had marched upon Kalinga was now having carved upon its stones that the voice of morality is greater than the voice of war.</p>
+<h3>The Royal Rod Versus Compassion: The Practical Limits of Dhamma</h3>
+<p>But it is easy, and dangerous, to turn history into a neat and tidy story. Ashoka did not become a fully non-violent emperor; he remained a king - he had an army, he had punishment, he had administration, he had borders. Addressing forest peoples, he reminded them of his power to punish. In other words, the limits of Dhamma came to a halt exactly where the state felt itself challenged.</p>
+<p>This is history's harsh reality - Ashoka's remorse was real, but the empire remained an empire nonetheless. There was compassion, but there was also the royal rod; there was morality, but there was also the harshness of power. Ashoka's Dhamma was not merely opposition to war - it wanted to descend into everyday life. It said - serve your parents, honour your elders, respect Brahmins and Shramanas, treat slaves and servants well, cause as little harm as possible to living beings, avoid unnecessary violence, and give more importance to moral conduct than to ritual.</p>
+<p>This Dhamma was for everyone - for the Brahmin, for the Shramana, for the householder, for the official, and for the people of the frontier regions too. This is precisely what makes it extraordinary. In the Brahmanical tradition, dharma often varied according to caste, gender and station in life; Ashoka's Dhamma sought to build a broad moral language - it said that, simply by virtue of being human, certain responsibilities belong to everyone.</p>
+<p>Ashoka also tried to reduce the slaughter of animals. He wrote that formerly, countless animals were killed daily in the royal kitchen, and now this number had been greatly reduced. He spoke of banning sacrifice, prohibited the killing of many creatures. A king who deliberates even over the violence in his own kitchen - this is a rare sight in the ancient world.</p>
+<p>But did people follow him? Not everywhere. In Kandahar and the Afghan regions, where old traditions of meat-eating existed, Ashoka's vegetarian insistence may have seemed strange. In Maski in Karnataka, where there were gold mines and local deities had their own world, people likely continued living by their own customs. An empire can write commands upon stone, but human beings, in their homes, kitchens, gods and habits, are often more unyielding than stone itself.</p>
+<p>And yet Ashoka tried. He undertook journeys, but these were not the old royal hunting expeditions - they were Dhamma journeys. He met elders, met priests and ascetics, spoke with village people, and explained Dhamma to them. An emperor who steps away from the hunting field onto the path of dialogue - this image shines differently in Indian history.</p>
+<h3>The Girnar Dam, the Lion Capital of Sarnath, and Symbols of Modern India</h3>
+<p>Ashoka left behind not only words; he left his mark on the physical world too - wells, rest houses, highways, public works, dams. The Mauryan empire understood the needs of water, travel, trade, and administration. The dam built at Girnar in Gujarat was an example of this broad vision; its mark still stands in the land today, like a memory.</p>
+<p>Then there were the pillars - polished, massive, richly crafted. The Lion Capital of Sarnath, in which four lions stand back to back, would go on to become the state emblem of modern India. The Dharma Chakra came to rest upon India's tricolour. This is history's strange and profound cycle - an ancient emperor, who had the victory of Dhamma carved upon stone, returned 2,000 years later within the symbols of a modern republic.</p>
+<p>Ashoka's pillars survived even after the Mauryan period; people worshipped them, wrote new inscriptions upon them. Some pillars were worshipped like Shiva lingas; some were carried by later kings to their own capitals. In Delhi, Firoz Shah Tughlaq had Ashoka's pillars brought with great effort, and in the colonial period, in some places, fragments of those very pillars were used to build roads. See the irony of history - the very stone on which an emperor had humanity's message carved once became gravel for an imperial road.</p>
+<h3>James Prinsep's Rediscovery of the Script, and Ashoka's Memory in the Buddhist Tradition</h3>
+<p>Then came the nineteenth century. In 1837, James Prinsep deciphered the Brahmi script - the script that had been forgotten for centuries. And suddenly the stones began to speak again. Ashoka's voice, silent for so long, once more became an active part of Indian history - as if the door of a chamber sealed for 2,000 years had opened.</p>
+<p>Later Buddhist traditions remembered Ashoka as the great protector of the faith. In these stories he became the king who carried the Buddha's message far and wide - from Sri Lanka to Central Asia and China, the memory of Ashoka circulated through the Buddhist world. But the historian must be careful here.</p>
+<p>That Ashoka supported Buddhism is clear; he intervened in matters of discipline within the Buddhist Sangha, gave instructions for monks and nuns, honoured Buddhist sites; but to say that the spread of Buddhism happened solely because of Ashoka would be a claim larger than the evidence supports. In many places, Buddhist communities were built through the efforts of merchants, monks, nuns, local donors, and small groups.</p>
+<p>On pottery found at Tissamaharama on the southern coast of Sri Lanka, we find women's names - Tissa, Gupta, Sudhi, Anuradha - who supported the community of nuns. This reminds us of something essential - kings matter in history, but history is not made of kings alone; sometimes history hides even in a woman's name written on a small piece of pottery.</p>
+<h3>The End of the Mauryan Empire and Ashoka's Enduring Legacy (Conclusion)</h3>
+<p>Ashoka wanted his sons, grandsons, and great-grandsons to follow Dhamma. He wanted future rulers not to desire new conquest; and if they did conquer, to practise mercy and light punishment. But empires do not endure on moral wishes alone. Ashoka died around 232 BCE, and after him the Mauryan empire weakened rapidly. Succession grew unstable, the line of kings grew blurred.</p>
+<p>And roughly 50 years later, the last Mauryan ruler, Brihadratha, was killed by his own Brahmin commander, Pushyamitra Shunga. The Shunga dynasty began. The Mauryan empire departed, but Ashoka did not. The political body of the empire broke apart, but its voice in stone survived.</p>
+<p>Ashoka's greatest legacy was perhaps not his empire - not the walls of Pataliputra, not the army of elephants, not the roads, not the dams. His greatest legacy was the voice of a king who placed power before moral questions. He brought Dhamma to the centre of Indian political and religious language. 'Dharma', which had once stood at the margins of the Vedic tradition, would go on to become one of the most important concepts in Indian thought; Ashoka is an essential part of the story of this transformation.</p>
+<p>He also showed that a ruler can speak to history without hiding his own crimes. He can warn those who come after him; he can say - "I waged war, I saw what war does, and now I want you to learn from it." This does not mean Ashoka was a pacifist in the modern sense - no, he was the king of an empire. He had an army, had punishment, had borders, had the harshness of power. Toward forest peoples, his language was one of warning more than compassion.</p>
+<p>Not everyone followed his Dhamma policy; his successors did not carry it forward; but greatness in history does not always come from perfection. Sometimes it comes from the very crack where power recognizes itself, where victory grows uneasy at its own noise, where a king, for the first time, sees the tears of the defeated. Ashoka's greatness lies exactly here - he was a conqueror, yet grew uncomfortable with conquest; he was an emperor, yet spoke in the language of morality. He carved onto stone not his pride, but his remorse.</p>
+<p>Today, when we look at the lions of Sarnath, see the Dharma Chakra on the tricolour, see the Mauryan symbol on the rupee, we are not merely looking at the memory of an ancient king; we are looking at the memory of India's long-running debate - between state and morality, between power and compassion, between conquest and remorse. Ashoka's pillars still stand - some broken, some moved, some read again, some perhaps still hidden within the earth.</p>
+<p>And this question still floats in the air - have we fully heard Ashoka, or does some voice still remain within the stones, waiting to speak again someday in the future? Because history never truly ends; it sleeps within rocks, hides within scripts, sometimes returns in the digging of a well, sometimes upon some broken pillar, and sometimes in an emperor's sentence - "To do good is hard, and to begin doing good is hard too."</p>
+    </div>
+    <div class="chapter-text lang-block lb-block" data-lang="hi">
+<h3>अध्याय 1: सम्राट अशोक और पत्थरों पर खुदा पश्चाताप</h3>
+<p>इतिहास में बहुत से राजा हुए जिन्होंने युद्ध जीते, लेकिन कितने राजा ऐसे हुए जिन्होंने जीतने के बाद अपनी ही जीत पर पछतावा किया? अशोक के पास सेना थी, हाथी थे, राजमार्ग थे, किले थे और एक ऐसा साम्राज्य था जो रोम और एथेंस से भी बड़ा था; लेकिन उसकी सबसे बड़ी विरासत कोई युद्ध नहीं थी, उसकी सबसे बड़ी विरासत थी पत्थर पर लिखी हुई एक बेचैनी-एक सम्राट की आवाज जो कह रही थी, "मेरी विजय ने मुझे व्याकुल कर दिया।"</p>
+<p>"अच्छाई करना कठिन है और अच्छाई की शुरुआत करना भी कठिन है।" तीसरी शताब्दी ईसा पूर्व में पत्थर पर खुदे हुए यह शब्द किसी कवि के नहीं थे, वे किसी सन्यासी की गुफा से नहीं निकले थे; वे एक सम्राट के शब्द थे। एक ऐसे सम्राट के जिसके पास सेना थी, हाथी थे, अधिकारी थे, राजमार्ग थे, किले थे और एक ऐसा साम्राज्य था जो गंगा के मैदानों से उठकर उत्तर-पश्चिम की पहाड़ियों तक फैल गया था।</p>
+<p>लेकिन उस सम्राट ने अपने बाद केवल विजय की कथाएं नहीं छोड़ीं, उसने अपने नाम के स्वर्ण महल नहीं छोड़े, उसने पत्थरों पर शत्रुओं को कुचलने का अहंकार नहीं लिखवाया; उसने पत्थरों पर अपना पश्चाताप लिखवाया। उसका नाम था अशोक। भारतीय इतिहास में अनेक राजा आए, कुछ ने नगर बसाए, कुछ ने युद्ध जीते, कुछ ने मंदिर और स्तूप बनकाए, कुछ ने अपनी वंशावलियां अमर करने की कोशिश की; लेकिन अशोक उन विरल राजाओं में हैं जिनकी अपनी आवाज आज भी हमारे पास है।</p>
+<p>2000 साल से अधिक समय बीत गया, राजधानियां मिट्टी में मिल गईं, राजवंश टूट गए, भाषाएं बदलीं, देवताओं के नाम बदले, राजधानियों के नाम बदले, नदियों के किनारे बदल गए; लेकिन अशोक के शब्द अब भी चट्टानों और स्तंभों पर सांस लेते हैं। वे शब्द आदेश भी हैं, स्वीकारोक्ति भी; राजनीति भी, धर्म भी और कहीं-कहीं एक राजा के भीतर जागते मनुष्य की बेचैनी भी।</p>
+<h3>अध्याय 2: पाटलिपुत्र, चंद्रगुप्त मौर्य और सेल्यूसिड संधि (हाथियों का व्यापार)</h3>
+<p>अशोक को समझने के लिए हमें पहले उस साम्राज्य को समझना होगा जिसकी विशाल छाया में वे खड़े थे। हमें लौटना होगा पाटलिपुत्र की ओर-आज का पटना। लेकिन चौथी और तीसरी शताब्दी ईसा पूर्व में यह शहर केवल एक नगर नहीं था, यह शक्ति का धड़कता हुआ केंद्र था। गंगा और सोन नदियों के पास बसा हुआ, लकड़ी की दीवारों से घिरा, खाइयों से सुरक्षित और दूर-दूर तक फैले रास्तों से जुड़ा हुआ।</p>
+<p>यहीं से चंद्रगुप्त मौर्य ने मौर्य साम्राज्य की नींव रखी। चंद्रगुप्त ने नंदों को हटाया-उस वंश को जिसने मगध पर अधिकार किया था। मगध पहले भी शक्तिशाली था पर चंद्रगुप्त ने उसकी दिशा बदल दी। पहले उत्तर-पश्चिम की शक्तियां सिंधु से गंगा की ओर उतरती थीं, चंद्रगुप्त ने यह रास्ता उलट दिया। वे पाटलिपुत्र से पश्चिम की ओर चले-जंगलों, मैदानों, नदियों और घास के बिस्तरों को पार करते हुए सिंधु की दिशा में। उनके साथ थी एक विशाल सेना-धनुर्धारी, घुड़सवार, पैदल सैनिक और हाथी।</p>
+<p>सिंधु के पास चंद्रगुप्त का सामना हुआ सेल्यूसिड साम्राज्य से-उस यूनानी शक्ति से जो सिकंदर की मृत्यु के बाद एशिया के बड़े हिस्सों पर अपना दावा कर रही थी। युद्ध हुआ या नहीं इतिहास स्पष्ट नहीं कहता पर तलवारों से अधिक टिकाऊ सिद्ध हुई कूटनीति। सेल्यूसिडो ने अपने कुछ पूर्वी प्रदेश मौर्यों को सौंप दिए-आज के अफगानिस्तान और पाकिस्तान के हिस्से; बदले में चंद्रगुप्त ने उन्हें 500 हाथी दिए।</p>
+<p>500 हाथी, कल्पना कीजिए! धूल उड़ाते हुए महावतों के नियंत्रण में रस्सियों और घंटियों से सजे हुए विराट जीव पश्चिम की ओर जा रहे हैं। भारतीय उपमहाद्वीप से बाहर की दुनिया के लिए हाथी केवल पशु नहीं था, वह युद्ध का चलता हुआ पहाड़ था। इसी संधि के बाद सेल्यूसिड राजदूत पाटलिपुत्र पहुंचे, उनमें सबसे प्रसिद्ध था मेगस्थनीज। उसकी आंखों से हमें पहली बार मौर्य राजधानी की झलक मिलती है।</p>
+<p>पाटलिपुत्र लंबा-चौड़ा और आश्चर्यजनक रूप से विशाल था। लकड़ी की दीवारों से घिरा, दीवारों में तीर चलाने के छेद, सामने खाई रक्षा के लिए भी और शहर के मलजल के लिए भी। साल की लकड़ी से बनी हुई दीवारें इतनी मजबूत थीं कि सदियों बाद भी पटना के आसपास जब लोग कुएं खोदते तो उनकी कुदालें कभी-कभी उन्हीं प्राचीन दीवारों से टकरा जाती थीं। इतिहास कभी-कभी ऐसे ही लौटता है-मिट्टी के भीतर से किसी किसान की कुदाल पर अचानक।</p>
+<p>पाटलिपुत्र अपने समय के सबसे बड़े नगरों में था-रोम से बड़ा, एथेंस से कहीं बड़ा। यह केवल राजधानी नहीं थी, यह एक व्यवस्था थी। यहां अधिकारी थे, सड़कें थीं, कुएं थे, दूरी बताने वाले पत्थर थे। मौर्य साम्राज्य केवल भूमि नहीं जीतता था, वो रास्ते बनाता था, मापता था, दर्ज करता था, प्रशासन खड़ा करता था।</p>
+<h3>अध्याय 3: बिंदुसार और अशोक का हिंसक राज्यारोहण</h3>
+<p>मौर्यों और सेल्यूसिडो के बीच संबंध जारी रहे। हाथी गए, शायद बाघ भी गए; बदले में आईं सूखे मेवे, शराब, विलास की चीजें और यूनानी ज्ञान की खबरें। चंद्रगुप्त के बाद बिंदुसार आए और बिंदुसार के बाद इतिहास के मंच पर आते हैं उनके पुत्र अशोक।</p>
+<p>अशोक का आरंभ धुंध से भरा है। हम जानते हैं कि बिंदुसार की मृत्यु के बाद सत्ता अंततः अशोक तक पहुंची, पर यह रास्ता सीधा था या रक्त से होकर गुजरा-यह निश्चित नहीं। बाद की कथाएं भाईयों के बीच संघर्ष की बात करती हैं, सिंहासन के लिए हिंसा की बात करती हैं। यह कथाएं एक दूसरे से मेल नहीं खातीं पर दक्षिण एशियाई राजवंशों के इतिहास में उत्तराधिकार अक्सर शांत नहीं रहा।</p>
+<p>कई बार सिंहासन तक पहुंचने से पहले राजकुमारों को महल के उन्हीं गलियारों से गुजरना पड़ता था जहां उनके अपने रक्त संबंधों की छाया पड़ी होती थी। अशोक के मामले में सच जो भी रहा हो, उनकी बाद की भाषा को देखते हुए यह स्मृति अधिक गहरी लगती है। वो राजा जिसने आगे चलकर राज्य की हिंसा पर दुख जताया, शायद स्वयं भी सत्ता की हिंसक सीढ़ियों से होकर आया था।</p>
+<h3>अध्याय 4: पत्थरों का बोलना: प्राकृत भाषा और ब्राह्मी लिपि</h3>
+<p>अशोक ने लगभग 36 वर्ष शासन किया और उनके शासन की सबसे बड़ी विशेषता केवल यह नहीं थी कि वे एक विशाल साम्राज्य के सम्राट थे; उनकी असाधारणता इस बात में थी कि उन्होंने अपने साम्राज्य से संवाद किया। उन्होंने चट्टानों और पत्थर के स्तंभों पर अपने शब्द खुदवाए। भारत, पाकिस्तान, अफगानिस्तान और नेपाल तक, जहां-जहां मौर्य शक्ति पहुंची, वहां-पैसे पत्थर बोलने लगे।</p>
+<p>यह शिलालेख छोटे भी थे, बड़े भी; कुछ चट्टानों पर, कुछ अत्यंत चमकदार स्तंभों पर। स्तंभ इतने विशाल कि उनका वजन कई हाथियों के बराबर था। ऊपर नक्काशीदार शीर्ष, नीचे चिकना पत्थर-मानो सत्ता ने स्वयं को समय के विरुद्ध खड़ा कर दिया हो। लेकिन इन स्तंभों की असली शक्ति उनके आकार में नहीं थी, उनकी शक्ति उनकी आवाज में थी।</p>
+<p>अशोक ने अधिकांश शिलालेख प्राकृत भाषा और ब्राह्मी लिपि में लिखवाए, संस्कृत में नहीं। उस भाषा में नहीं जो मुख्यतः ब्राह्मणीय परंपरा की प्रतिष्ठित भाषा थी। उन्होंने ऐसी भाषा चुनी जो व्यापक समाज तक पहुंच सके। उत्तर-पश्चिम में उन्होंने यूनानी और अरामी का भी इस्तेमाल कराया। यह केवल प्रशासनिक सुविधा नहीं थी, यह साम्राज्य की गहरी समझ थी; राज्य केवल सेना से नहीं चलता, राज्य भाषा से भी चलता है।</p>
+<p>और इन्हीं पत्थरों पर पहली बार भारतीय उपमहाद्वीप में एक राजा अपनी आवाज में हमसे बात करता है। वो कहता है-"मैं ऐसा हूं, मैंने यह किया, मुझसे भूल हुई, मैं चाहता हूं कि मेरे बाद आने वाले लोग इससे सीखें।" इतिहास में यह क्षण असाधारण है।</p>
+<h3>अध्याय 5: बौद्ध धर्म से जुड़ाव और 'धम्म' की सार्वभौमिक नीति</h3>
+<p>अशोक के शुरुआती शिलालेखों में वे अपने धार्मिक जीवन की बात करते हैं। वे बताते हैं कि वे ढाई वर्ष से अधिक समय से बौद्ध गृहस्थ थे, पर पहले वर्ष में उन्होंने विशेष प्रगति नहीं की। फिर वे बौद्ध संघ के निकट आए और अधिक उत्साही हुए। यह वाक्य अद्भुत है-एक सम्राट अपने आध्यात्मिक जीवन की धीमी गति स्वीकार कर रहा है। वो कह रहा है-"मैं अचानक नहीं बदला, मैं धीरे-धीरे बदला।" यह विजेता की भाषा नहीं है, यह साधना की भाषा है।</p>
+<p>अशोक ने लुंबिनी की यात्रा की जहां बुद्ध का जन्म हुआ था। उन्होंने बौद्ध स्थलों को महत्व दिया, उन्होंने बौद्ध संघ में अनुशासन को लेकर हस्तक्षेप भी किया; लेकिन उन्हें केवल बौद्ध राजा कह देना पर्याप्त नहीं होगा। उन्होंने अपनी प्रजा से यह नहीं कहा कि सब बौद्ध बन जाएं। उन्होंने कई धार्मिक परंपराओं को संरक्षण दिया-आजीवकों के लिए गुफाएं बनवाईं, ब्राह्मणों और श्रमणों का सम्मान करने की बात की, अलग-अलग समुदायों को अपने नैतिक संदेश में शामिल किया।</p>
+<p>उनकी सबसे बड़ी राजनीतिक और नैतिक परियोजना बौद्ध धर्म का राजकीय प्रचार भर नहीं थी, उनकी परियोजना थी-'धम्म'। धम्म यानी नैतिक जीवन। धम्म यानी करुणा, संयम, माता-पिता का आदर, बुजुर्गों का सम्मान, सेवकों और दासों के प्रति न्याय, प्राणियों के प्रति दया और हिंसा को कम करने की कोशिश।</p>
+<p>यह बौद्ध धम्म से जुड़ा था पर पूरी तरह वही नहीं था। यह एक सम्राट द्वारा अपने विशाल, विविध और असमान साम्राज्य के लिए गढ़ी गई साझा नैतिक भाषा थी। अशोक ने जैसे पहली बार यह कल्पना की कि राज्य केवल कर, सेना और दंड का ढांचा नहीं है; राज्य अपने लोगों से यह भी पूछ सकता है कि वे एक दूसरे के साथ कैसा व्यवहार करते हैं।</p>
+<h3>अध्याय 6: कलिंग युद्ध का भारी विनाश और सम्राट की व्याकुलता</h3>
+<p>लेकिन अशोक के जीवन का निर्णायक क्षण अभी आना बाकी था, वो क्षण था-कलिंग। कलिंग पूर्वी भारत की वो भूमि (आज के उड़ीसा और आंध्र के आसपास का क्षेत्र)-समुद्री व्यापार से जुड़ा हुआ स्वतंत्र, समृद्ध और मौर्य साम्राज्य के लिए रणनीतिक रूप से अत्यंत महत्वपूर्ण। अशोक के शासन के आठवें वर्ष में मौर्य सेना कलिंग पर चढ़ी।</p>
+<p>कल्पना कीजिए उस अभियान को-पाटलिपुत्र से दक्षिण-पूर्व की ओर बढ़ती सेना, हाथियों की पंक्तियां, सैनिकों की चाल, धूल, धुआं, नगरों के द्वार, भागते लोग, घायल शरीर, जलते घर; और अंत में वो सन्नाटा जो युद्ध समाप्त होने के बाद उतरता है, जब विजेता गिनती करते हैं और पराजित अपने मृतकों को खोजते हैं।</p>
+<p>अशोक ने स्वयं लिखा कि कलिंग में डेढ़ लाख लोगों को बंदी बनाया गया, 1 लाख लोग मारे गए और उससे भी अधिक बाद में मरे। यह संख्याएं गोल हैं, इतिहासकार इन्हें सावधानी से पढ़ते हैं; पर एक बात निर्विवाद है-कलिंग में मौर्य शक्ति ने भारी विनाश किया। भारतीय इतिहास में राजाओं ने अपनी विजयों का वर्णन अक्सर गर्व से किया है-शत्रुओं को रौंदना, नगरों को झुकाना, राजाओं को परास्त करना, यह शाही भाषा का परिचित स्वर था।</p>
+<p>लेकिन अशोक ने कुछ और किया, उन्होंने अपनी विजय पर दुख जताया। उन्होंने कहा कि कलिंग को जीतने के बाद देवों के प्रिय को पश्चाताप हुआ, उन्हें गहरा खेद हुआ क्योंकि एक स्वतंत्र लोगों को जीतने के लिए हत्या, मृत्यु और निर्वासन आवश्यक हुए। यह वाक्य राजकीय इतिहास में एक गहरी दरार खोलता है-एक सम्राट कह रहा है, "मेरी विजय ने मुझे व्याकुल किया।"</p>
+<p>और अशोक का दुख केवल युद्धभूमि तक सीमित नहीं है, वे कहते हैं-"जब लोग मारे जाते हैं तो केवल वे नहीं मरते, उनके माता-पिता दुखी होते हैं, उनके मित्र दुखी होते हैं, उनके गुरु, सेवक, संबंधी, परिचित सब घायल होते हैं। जो स्वयं बच जाते हैं, वे भी अपने प्रियजनों के दुख से टूट जाते हैं।" यह युद्ध का ऐसा वर्णन है जिसमें शत्रु नहीं, मनुष्य दिखाई देता है। अशोक ने समझा कि हिंसा केवल शरीर नहीं मारती, वो रिश्तों को तोड़ती है, स्मृतियों को घायल करती है, समाज की नसों में लंबे समय तक दर्द छोड़ जाती है।</p>
+<p>कलिंग के बाद अशोक ने घोषणा की-"असली विजय धम्म की विजय है।" युद्ध के नगाड़ों की जगह धम्म की ध्वनि-भेरीघोष की जगह धम्मघोष। कल्पना कीजिए, वही साम्राज्य जिसके हाथी कलिंग पर चढ़े थे, अब अपने पत्थरों पर लिखवा रहा है कि युद्ध की आवाज से बड़ी आवाज नैतिकता की है।</p>
+<h3>अध्याय 7: राजदंड बनाम करुणा: धम्म की व्यावहारिक सीमाएं</h3>
+<p>लेकिन इतिहास को साफ-सुथरी कथा बना देना आसान है और खतरनाक भी। अशोक पूर्ण अहिंसक सम्राट नहीं बने थे; वे अब भी राजा थे, उनके पास सेना थी, दंड था, प्रशासन था, सीमाएं थीं। वन निवासियों को संबोधित करते हुए उन्होंने उन्हें अपनी दंड देने की शक्ति याद दिलाई। यानी धम्म की सीमा वहीं आकर ठहर जाती थी जहां राज्य को चुनौती महसूस होती थी।</p>
+<p>यही इतिहास का कठोर यथार्थ है-अशोक का पश्चाताप वास्तविक था, लेकिन साम्राज्य फिर भी साम्राज्य था। करुणा थी पर राजदंड भी था, नैतिकता थी पर सत्ता की कठोरता भी। अशोक का धम्म केवल युद्ध विरोध नहीं था, वो रोजमर्रा के जीवन में उतरना चाहता था। वो कहता था-माता-पिता की सेवा करो, बुजुर्गों का आदर करो, ब्राह्मणों और श्रमणों का सम्मान करो, दासों और सेवकों के साथ अच्छा व्यवहार करो, जीवों को कम से कम हानि पहुंचाओ, अनावश्यक हिंसा से बचो, कर्मकांड से अधिक महत्व नैतिक आचरण को दो।</p>
+<p>यह धम्म सबके लिए था-ब्राह्मण के लिए भी, श्रमण के लिए भी, गृहस्थ के लिए भी, अधिकारी के लिए भी, सीमांत प्रदेशों के लोगों के लिए भी। यही बात इसे असाधारण बनाती है। ब्राह्मणीय परंपरा में धर्म अक्सर जाति, लिंग और जीवन स्थिति के अनुसार बदलता था; अशोक का धम्म एक व्यापक नैतिक भाषा बनाना चाहता था, वो कहता था कि मनुष्य होने के नाते कुछ दायित्व सबके हैं।</p>
+<p>अशोक ने पशुहत्या कम करने की भी कोशिश की। उन्होंने लिखा कि पहले राजकीय रसोई में प्रतिदिन असंख्य पशु मारे जाते थे, अब यह संख्या बहुत घटा दी गई है। उन्होंने बलि पर रोक लगाने की बात की, कई जीवों की हत्या निषिद्ध की। एक राजा जो अपनी रसोई की हिंसा पर भी विचार कर रहा है, यह प्राचीन विश्व में विरल दृश्य है।</p>
+<p>लेकिन क्या लोगों ने उनकी बात मानी? हर जगह नहीं। कंधार और अफगान प्रदेशों में जहां मांसाहार की पुरानी परंपराएं थीं, अशोक का शाकाहारवादी आग्रह शायद अजीब लगा होगा। कर्नाटक के मस्की में जहां सोने की खदानें थीं और स्थानीय देवताओं की अपनी दुनिया थी, लोग शायद अपने ही रीति-रिवाजों में जीते रहे। साम्राज्य पत्थर पर आदेश लिख सकता है, पर मनुष्य अपने घरों, रसोइयों, देवताओं और आदतों में कई बार पत्थर से भी अधिक दृढ़ होता है।</p>
+<p>फिर भी अशोक ने कोशिश की, उन्होंने यात्राएं कीं पर वे राजाओं की पुरानी शिकार यात्राएं नहीं थीं, वे धम्म यात्राएं थीं। वे बुजुर्गों से मिले, पुरोहितों और तपस्वियों से मिले, गांव के लोगों से बातचीत की, उन्हें धम्म के बारे में समझाया। एक सम्राट जो शिकार के मैदान से हटकर संवाद की राह पर चलता है, यह छवि भारतीय इतिहास में अलग चमकती है।</p>
+<h3>अध्याय 8: गिरनार बांध, सारनाथ का सिंह शीर्ष और आधुनिक भारत के प्रतीक</h3>
+<p>अशोक ने केवल शब्द नहीं छोड़े, उन्होंने भौतिक दुनिया पर भी छाप छोड़ी-कुएं, विश्राम गृह, राजमार्ग, सार्वजनिक निर्माण, बांध। मौर्य साम्राज्य ने पानी, यात्रा, व्यापार और प्रशासन की जरूरतों को समझा। गुजरात के गिरनार में बना बांध इसी व्यापक दृष्टि का उदाहरण था; भूमि में उसका चिन्ह आज भी स्मृति की तरह मौजूद है।</p>
+<p>फिर वे स्तंभ थे-चमकदार, विशाल, शिल्प संपन्न। सारनाथ का सिंह शीर्ष, जिसमें चार सिंह पीठ से पीठ मिलाकर खड़े हैं, आगे चलकर आधुनिक भारत का राजचिन्ह बना। धर्मचक्र भारत के तिरंगे पर आया। यह इतिहास का विचित्र और गहरा चक्र है-एक प्राचीन सम्राट जिसने धम्म की विजय की बात पत्थरों पर लिखवाई थी, 2000 साल बाद एक आधुनिक गणराज्य के प्रतीकों में लौट आया।</p>
+<p>अशोक के स्तंभ मौर्य काल के बाद भी जीवित रहे, लोगों ने उन्हें पूजा, उन पर नए शिलालेख लिखे। कुछ स्तंभ शिवलिंग की तरह पूजे गए, कुछ को बाद के राजाओं ने अपनी राजधानियों में पहुंचाया। दिल्ली में फिरोजशाह तुगलक ने अशोक के स्तंभों को बड़ी मेहनत से मंगवाया और औपनिवेशिक दौर में कहीं-कहीं उन्हीं स्तंभों के टुकड़े सड़क बनाने में इस्तेमाल हुए। इतिहास की विडंबना देखिए-जिस पत्थर पर एक सम्राट ने मानवता की बात लिखवाई थी, वो कभी साम्राज्यवादी सड़क की गिट्टी बन गया।</p>
+<h3>अध्याय 9: जेम्स प्रिंसेप द्वारा लिपि की पुनर्खोज और बौद्ध परंपरा में अशोक की स्मृति</h3>
+<p>फिर 19वीं शताब्दी आई। 1837 में जेम्स प्रिंसेप ने ब्राह्मी लिपि पढ़ ली-वो लिपि जिसे सदियों से पढ़ना भुला दिया गया था। और अचानक पत्थर फिर बोलने लगे। अशोक की आवाज जो लंबे समय से मौन थी, फिर भारतीय इतिहास का सक्रिय हिस्सा बन गई; मानो 2000 साल पुराने बंद कक्ष का द्वार खुल गया हो।</p>
+<p>बाद की बौद्ध परंपराओं ने अशोक को महान धर्म रक्षक के रूप में याद किया। कथाओं में वे वो राजा बने जिसने बुद्ध के संदेश को दूर-दूर तक पहुंचाया-श्रीलंका से मध्य एशिया और चीन तक बौद्ध संसार में अशोक की स्मृति घूमती रही। लेकिन इतिहासकार को यहां सावधान रहना पड़ता है।</p>
+<p>अशोक ने बौद्ध धर्म का समर्थन किया यह स्पष्ट है, उन्होंने बौद्ध संघ में अनुशासन को लेकर हस्तक्षेप किया, भिक्षुओं और भिक्षुणियों के लिए निर्देश दिए, बौद्ध स्थलों को सम्मान दिया; पर यह कहना कि बौद्ध धर्म का विस्तार केवल अशोक के कारण हुआ, प्रमाणों से अधिक बड़ा दावा होगा। कई जगहों पर बौद्ध समुदाय व्यापारियों, भिक्षुओं, भिक्षुणियों, स्थानीय दानदाताओं और छोटे समूहों के प्रयास से बने।</p>
+<p>श्रीलंका के दक्षिणी तट पर तिसमहाराम से मिले मिट्टी के बर्तनों पर स्त्रियों के नाम मिलते हैं-तिस्या, गुप्ता, सुधी, अनुराधा, जिन्होंने भिक्षुणियों के समुदाय का समर्थन किया। यह हमें एक जरूरी बात याद दिलाता है-राजा इतिहास में महत्वपूर्ण होते हैं, लेकिन इतिहास केवल राजाओं से नहीं बनता; कभी-कभी इतिहास मिट्टी के एक छोटे बर्तन पर लिखी किसी स्त्री के नाम में भी छिपा होता है।</p>
+<h3>अध्याय 10: मौर्य साम्राज्य का अंत और अशोक की स्थायी विरासत (निष्कर्ष)</h3>
+<p>अशोक चाहते थे कि उनके बेटे, पोते और परपोते धम्म का पालन करें। वे चाहते थे कि आने वाले शासक नई विजय की इच्छा ना करें, अगर जीतें भी तो दया और हल्के दंड का पालन करें। लेकिन साम्राज्य नैतिक इच्छाओं से नहीं टिकते। अशोक की मृत्यु 232 ईसा पूर्व के आसपास हुई, उनके बाद मौर्य साम्राज्य तेजी से कमजोर हुआ। उत्तराधिकार अस्थिर हो गया, राजाओं की श्रृंखला धुंधली पड़ गई।</p>
+<p>और लगभग 50 वर्ष बाद अंतिम मौर्य शासक बृहद्रथ की हत्या उसके ही ब्राह्मण सेनापति पुष्यमित्र शुंग ने कर दी। शुंग वंश की शुरुआत हुई। मौर्य साम्राज्य चला गया, पर अशोक नहीं गए। साम्राज्य की राजनीतिक देह टूट गई, लेकिन उसकी पत्थर की आवाज बची रही।</p>
+<p>अशोक की सबसे बड़ी विरासत शायद उनका साम्राज्य नहीं था-ना पाटलिपुत्र की दीवारें, ना हाथियों की सेना, ना सड़कें, ना बांध। उनकी सबसे बड़ी विरासत थी एक राजा की वो आवाज जिसने सत्ता को नैतिक प्रश्नों के सामने खड़ा किया। उन्होंने धम्म को भारतीय राजनीतिक और धार्मिक भाषा के केंद्र में ला दिया। 'धर्म' जो वैदिक परंपराओं में कभी हाशिए पर था, आगे चलकर भारतीय विचार की सबसे महत्वपूर्ण अवधारणाओं में से एक बना; अशोक इस परिवर्तन की कहानी का अनिवार्य हिस्सा हैं।</p>
+<p>उन्होंने यह भी दिखाया कि एक शासक अपने अपराधों को छिपाए बिना इतिहास से बात कर सकता है। वो अपने बाद आने वालों को चेतावनी दे सकता है, वो कह सकता है-"मैंने युद्ध किया, मैंने देखा कि युद्ध क्या करता है और अब मैं चाहता हूं कि तुम इससे सीखो।" इसका अर्थ यह नहीं कि अशोक आधुनिक अर्थों में शांतिवादी थे, नहीं, वे एक साम्राज्य के राजा थे। उनके पास सेना थी, दंड था, सीमाएं थीं, सत्ता की कठोरता थी। वन निवासियों के लिए उनकी भाषा करुणा से अधिक चेतावनी की भाषा थी।</p>
+<p>उनकी धम्म नीति को सबने नहीं माना, उनके उत्तराधिकारियों ने उसे नहीं निभाया; लेकिन इतिहास में महानता हमेशा पूर्णता से नहीं आती। कभी-कभी वह उस दरार से आती है जहां शक्ति स्वयं को पहचानती है, जहां विजय अपने ही शोर से बेचैन हो उठती है, जहां राजा पहली बार पराजितों के आंसू देखता है। अशोक की महानता इसी में है-वे विजेता थे पर विजय से असहज हुए, वे सम्राट थे पर नैतिकता की भाषा में बोले। उन्होंने पत्थर पर अपना घमंड नहीं, अपना पश्चाताप लिखवाया।</p>
+<p>आज जब हम सारनाथ के सिंह देखते हैं, तिरंगे पर धर्मचक्र देखते हैं, रुपए पर मौर्य प्रतीक देखते हैं, तो हम केवल एक प्राचीन राजा की स्मृति नहीं देखते; हम भारत की उस लंबी बहस की स्मृति देखते हैं-राज्य और नैतिकता के बीच, शक्ति और करुणा के बीच, विजय और पश्चाताप के बीच। अशोक के स्तंभ अब भी खड़े हैं-कुछ टूटे हुए, कुछ हटाए गए, कुछ फिर से पढ़े गए, कुछ शायद अब भी मिट्टी के भीतर छिपे हैं।</p>
+<p>और यह प्रश्न अब भी हवा में तैरता है-क्या हमने अशोक को पूरा सुन लिया है या पत्थरों के भीतर अभी भी कोई आवाज बची है जो भविष्य के किसी दिन फिर बोलेगी? क्योंकि इतिहास कभी सचमुच समाप्त नहीं होता; वह चट्टानों में सोता है, लिपियों में छिपता है, कभी किसी कुएं की खुदाई में लौट आता है, कभी किसी टूटे स्तंभ पर और कभी एक सम्राट के वाक्य में-"अच्छाई करना कठिन है और अच्छाई की शुरुआत करना भी कठिन है।"</p>
+    </div>
+  </details>
+</article>
+
+  <div class="chapter-pagenav">
+    <a class="lang-block lb-inline" data-lang="en" href="episode-3.html">&larr; When India Questioned Itself: The Age of Magadha, Buddha and Mahavira</a>
+    <a class="lang-block lb-inline" data-lang="hi" href="episode-3.html">&larr; जब भारत ने खुद से सवाल पूछे: मगध, बुद्ध और महावीर का दौर</a>
+    <a class="lang-block lb-inline" data-lang="en" href="scripts.html">Read other episodes</a>
+    <a class="lang-block lb-inline" data-lang="hi" href="scripts.html">बाक़ी एपिसोड्स पढ़ें</a>
+    <a class="lang-block lb-inline" data-lang="en" href="episode-5.html">An India Built of Water and Wind: A Sailor's Tale on the Silk Route &rarr;</a>
+    <a class="lang-block lb-inline" data-lang="hi" href="episode-5.html">पानी और हवा से बना भारत: सिल्क रूट पर एक नाविक की कहानी &rarr;</a>
+  </div>
+
+
+
+
+  <div class="scripts-cta">
+    <p class="lang-block lb-block" data-lang="en" style="color:var(--ink-soft);margin-bottom:20px;">More chapters are on their way as new episodes release.</p>
+    <p class="lang-block lb-block" data-lang="hi" style="color:var(--ink-soft);margin-bottom:20px;">नए एपिसोड आने के साथ और अध्याय यहां जुड़ते रहेंगे।</p>
+    <a class="btn lang-block lb-flex" data-lang="en" href="index.html">← Back to home</a>
+    <a class="btn lang-block lb-flex" data-lang="hi" href="index.html">← होम पर वापस जाएं</a>
+  </div>
+</main>
+
+<footer>
+  <div class="lang-block lb-block" data-lang="en">Equal Tales Storyline · <a href="https://www.youtube.com/@ETStoryline" target="_blank" rel="noopener">@ETStoryline</a> · <a href="youtube.html">Videos</a></div>
+  <div class="lang-block lb-block" data-lang="hi">इक्वल टेल्स स्टोरीलाइन · <a href="https://www.youtube.com/@ETStoryline" target="_blank" rel="noopener">@ETStoryline</a> · <a href="youtube.html">वीडियो</a></div>
+</footer>
+
+<script>
+  function setLang(lang){
+    document.body.classList.remove('lang-en','lang-hi');
+    document.body.classList.add('lang-' + lang);
+    document.documentElement.setAttribute('lang', lang);
+    try{ localStorage.setItem('etsLang', lang); }catch(e){}
+    document.querySelectorAll('.lang-switch button').forEach(function(b){
+      b.setAttribute('aria-pressed', b.dataset.lang === lang ? 'true' : 'false');
+    });
+  }
+  document.querySelectorAll('.lang-switch button').forEach(function(b){
+    b.addEventListener('click', function(){ setLang(b.dataset.lang); });
+  });
+  (function init(){
+    var saved = null;
+    try{ saved = localStorage.getItem('etsLang'); }catch(e){}
+    setLang(saved === 'en' ? 'en' : 'hi');
+  })();
+</script>
+
+</body>
+</html>

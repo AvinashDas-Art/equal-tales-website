@@ -1,0 +1,559 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>1857: The Sepoy Revolt and the Rise of the British Raj | 1857: सिपाही विद्रोह और ब्रिटिश राज का उदय | Equal Tales Storyline</title>
+<meta name="description" content="Read Bharat Ki Kahani's episode scripts as full chapters - from the Indus Valley to the dawn of the 20th century.">
+<link rel="icon" type="image/png" href="favicon.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700;900&family=Inter:wght@400;500;600;700&family=Mukta:wght@400;500;600;700&family=Baloo+2:wght@500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --cloud:#F4F7F9;
+    --mist:#E6ECF2;
+    --powder:#D0E1FD;
+    --gold:#C5A059;
+    --gold-dark:#96754A;
+    --ink:#2C3E50;
+    --ink-soft:#5B6B7C;
+    --glass:rgba(255,255,255,.55);
+    --glass-strong:rgba(255,255,255,.72);
+    --glass-border:rgba(255,255,255,.65);
+  }
+  *{box-sizing:border-box;margin:0;padding:0;}
+  html{scroll-behavior:smooth;}
+  body{
+    background:linear-gradient(165deg, var(--cloud) 0%, var(--powder) 55%, var(--mist) 100%);
+    color:var(--ink);font-family:'Inter',sans-serif;line-height:1.75;min-height:100vh;
+  }
+  body.lang-hi{font-family:'Mukta',sans-serif;}
+  h1,h2,h3{font-family:'Playfair Display',serif;font-weight:700;color:var(--ink);}
+  body.lang-hi h1, body.lang-hi h2, body.lang-hi h3{font-family:'Baloo 2',serif;font-weight:700;}
+  a{color:inherit;}
+  img{max-width:100%;display:block;}
+  .wrap{max-width:1120px;margin:0 auto;padding:0 24px;}
+
+  .lang-block{display:none !important;}
+  body.lang-en .lang-block[data-lang="en"].lb-block{display:block !important;}
+  body.lang-hi .lang-block[data-lang="hi"].lb-block{display:block !important;}
+  body.lang-en .lang-block[data-lang="en"].lb-flex{display:flex !important;}
+  body.lang-hi .lang-block[data-lang="hi"].lb-flex{display:flex !important;}
+  body.lang-en .lang-block[data-lang="en"].lb-inline{display:inline !important;}
+  body.lang-hi .lang-block[data-lang="hi"].lb-inline{display:inline !important;}
+  body.lang-en .lang-block[data-lang="en"].lb-grid{display:grid !important;}
+  body.lang-hi .lang-block[data-lang="hi"].lb-grid{display:grid !important;}
+
+  nav{
+    position:sticky;top:0;z-index:50;
+    background:var(--glass);backdrop-filter:blur(16px) saturate(1.2);-webkit-backdrop-filter:blur(16px) saturate(1.2);
+    border-bottom:1px solid var(--glass-border);
+  }
+  nav .wrap{display:flex;align-items:center;justify-content:space-between;padding:14px 24px;gap:16px;}
+  .brand{display:flex;align-items:center;gap:10px;text-decoration:none;}
+  .brand-logo{height:46px;width:auto;flex-shrink:0;border-radius:12px;}
+  .lang-switch{display:flex;border:1.5px solid var(--gold);border-radius:999px;overflow:hidden;background:rgba(255,255,255,.5);}
+  .lang-switch button{border:0;background:transparent;padding:7px 16px;font-weight:700;font-size:.82rem;cursor:pointer;color:var(--gold-dark);}
+  .lang-switch button[aria-pressed="true"]{background:var(--gold);color:#fff;}
+  .nav-links{display:flex;gap:22px;list-style:none;}
+  .nav-links a{font-size:.88rem;font-weight:600;text-decoration:none;}
+  @media(max-width:700px){.nav-links{display:none;}}
+
+  main{padding:70px 24px 100px;}
+  .eyebrow{text-transform:uppercase;letter-spacing:.14em;font-size:.75rem;font-weight:600;color:var(--gold-dark);margin-bottom:14px;}
+  body.lang-hi .eyebrow{text-transform:none;letter-spacing:0;}
+
+  .scripts-hero{max-width:760px;margin:0 auto 48px;text-align:center;}
+  .scripts-hero h1{font-size:clamp(1.7rem,4vw,2.5rem);margin-bottom:16px;}
+  .scripts-hero p{color:var(--ink-soft);font-size:1.05rem;}
+
+  .chapter-index{grid-template-columns:repeat(4,1fr);gap:16px;margin:0 auto 64px;max-width:1000px;}
+  .chapter-index a{
+    display:block;background:var(--glass);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);
+    border:1px solid var(--glass-border);border-radius:16px;padding:18px 16px;
+    text-decoration:none;text-align:center;transition:transform .15s ease,box-shadow .15s ease;
+  }
+  .chapter-index a:hover{transform:translateY(-3px);box-shadow:0 10px 26px rgba(44,62,80,.1);}
+  .idx-num{font-size:.72rem;font-weight:700;color:var(--gold-dark);text-transform:uppercase;letter-spacing:.06em;margin-bottom:6px;}
+  body.lang-hi .idx-num{text-transform:none;letter-spacing:0;}
+  .idx-title{font-size:.9rem;font-weight:600;color:var(--ink);line-height:1.4;}
+  @media(max-width:900px){.chapter-index{grid-template-columns:repeat(2,1fr);}}
+  @media(max-width:560px){.chapter-index{grid-template-columns:1fr;}}
+
+  article.chapter{
+    max-width:800px;margin:0 auto 56px;
+    background:var(--glass-strong);backdrop-filter:blur(18px) saturate(1.1);-webkit-backdrop-filter:blur(18px) saturate(1.1);
+    border:1px solid var(--glass-border);border-radius:24px;padding:44px 40px;
+    box-shadow:0 20px 50px rgba(44,62,80,.08);scroll-margin-top:90px;
+  }
+  .chapter-head{text-align:center;margin-bottom:26px;}
+  .chapter-num{font-size:.78rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--gold-dark);margin-bottom:8px;}
+  body.lang-hi .chapter-num{text-transform:none;letter-spacing:0;font-family:'Mukta',sans-serif;}
+  .chapter-head h2{font-size:clamp(1.3rem,3vw,1.7rem);margin-bottom:12px;}
+  .chapter-dek{color:var(--ink-soft);font-size:1rem;max-width:560px;margin:0 auto 10px;}
+  .chapter-meta{font-size:.8rem;color:var(--gold-dark);font-weight:600;}
+  .chapter-highlights{margin:0 0 24px;display:grid;gap:14px;}
+  .chapter-highlights blockquote{
+    font-family:'Playfair Display',serif;font-style:italic;font-size:1.05rem;line-height:1.6;
+    color:var(--ink);background:rgba(197,160,89,.1);border-left:3px solid var(--gold);
+    padding:16px 20px;border-radius:0 12px 12px 0;
+  }
+  body.lang-hi .chapter-highlights blockquote{font-family:'Baloo 2',serif;font-style:normal;}
+  details.chapter-body{text-align:center;}
+  details.chapter-body summary{
+    cursor:pointer;list-style:none;display:inline-flex;align-items:center;gap:8px;
+    font-weight:700;color:#fff;background:var(--gold);padding:11px 22px;border-radius:999px;
+    font-size:.9rem;box-shadow:0 8px 20px rgba(197,160,89,.3);
+  }
+  details.chapter-body summary::-webkit-details-marker{display:none;}
+  details.chapter-body summary::after{content:'▾';font-size:.8rem;}
+  details.chapter-body[open] summary::after{content:'▴';}
+  details.chapter-body[open] summary{margin-bottom:28px;}
+  .chapter-text{text-align:left;}
+  .chapter-text h3{font-size:1.08rem;color:var(--gold-dark);margin:26px 0 10px;}
+  .chapter-text h3:first-child{margin-top:0;}
+  .chapter-text p{margin-bottom:14px;font-size:1rem;color:var(--ink);}
+  .chapter-lang-note{
+    display:inline-block;margin-bottom:18px;font-size:.78rem;color:var(--gold-dark);
+    background:rgba(197,160,89,.12);padding:5px 14px;border-radius:999px;font-weight:600;
+  }
+  @media(max-width:600px){article.chapter{padding:30px 22px;}}
+
+  .scripts-cta{max-width:640px;margin:0 auto;text-align:center;}
+  .btn{
+    display:inline-flex;align-items:center;gap:8px;padding:12px 26px;border-radius:999px;
+    font-weight:700;text-decoration:none;font-size:.95rem;background:var(--gold);color:#fff;
+    box-shadow:0 10px 24px rgba(197,160,89,.35);
+  }
+
+  footer{padding:40px 0;text-align:center;color:var(--ink-soft);font-size:.85rem;}
+  footer a{color:var(--gold-dark);font-weight:700;text-decoration:none;}
+
+  .chapter-breadcrumb{max-width:840px;margin:28px auto 0;}
+  .chapter-breadcrumb a{font-weight:700;font-size:.85rem;color:var(--gold-dark);text-decoration:none;}
+  .chapter-breadcrumb a:hover{text-decoration:underline;}
+  .chapter-pagenav{max-width:840px;margin:36px auto 0;display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;}
+  .chapter-pagenav a{font-weight:700;font-size:.9rem;padding:10px 16px;border:1.5px solid var(--gold);border-radius:999px;text-decoration:none;color:var(--gold-dark);}
+  .chapter-pagenav a:hover{background:var(--gold);color:#fff;}
+  .chapter-watch-yt{margin:14px 0 4px;}
+  .chapter-watch-yt a{display:inline-flex;align-items:center;gap:8px;background:#FF0000;color:#fff !important;padding:9px 18px;border-radius:999px;font-weight:700;font-size:.85rem;text-decoration:none;}
+  .chapter-watch-yt a:hover{opacity:.9;}
+
+</style>
+</head>
+<body class="lang-hi">
+
+<nav>
+  <div class="wrap">
+    <a class="brand" href="index.html">
+      <img src="logo.png" alt="Equal Tales Storyline" class="brand-logo">
+    </a>
+    <ul class="nav-links lang-block lb-flex" data-lang="en">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="youtube.html">YouTube</a></li>
+    </ul>
+    <ul class="nav-links lang-block lb-flex" data-lang="hi">
+      <li><a href="index.html">होम</a></li>
+      <li><a href="youtube.html">यूट्यूब</a></li>
+    </ul>
+    <div class="lang-switch" role="group" aria-label="Language / भाषा">
+      <button type="button" data-lang="en" aria-pressed="false">EN</button>
+      <button type="button" data-lang="hi" aria-pressed="true">हिं</button>
+    </div>
+  </div>
+</nav>
+
+<main>
+  
+
+
+
+  <div class="chapter-breadcrumb">
+    <a class="lang-block lb-inline" data-lang="en" href="scripts.html">&larr; All chapters</a>
+    <a class="lang-block lb-inline" data-lang="hi" href="scripts.html">&larr; सभी अध्याय</a>
+  </div>
+<article class="chapter" id="chapter-18">
+  <div class="chapter-head">
+    <div class="chapter-num lang-block lb-inline" data-lang="en">Chapter 18</div>
+    <div class="chapter-num lang-block lb-inline" data-lang="hi">अध्याय 18</div>
+    <h2 class="lang-block lb-block" data-lang="en">1857: The Sepoy Revolt and the Rise of the British Raj</h2>
+    <h2 class="lang-block lb-block" data-lang="hi">1857: सिपाही विद्रोह और ब्रिटिश राज का उदय</h2>
+    <p class="chapter-dek lang-block lb-block" data-lang="en">The uprising that turned a trading company's end into an empire's beginning.</p>
+    <p class="chapter-dek lang-block lb-block" data-lang="hi">वह बग़ावत, जिसने एक व्यापारिक कंपनी के अंत को एक साम्राज्य की शुरुआत में बदल दिया।</p>
+    <div class="chapter-watch-yt"><a class="lang-block lb-inline" data-lang="en" href="https://youtu.be/K-ekfGaJd1U" target="_blank" rel="noopener">Watch this episode on YouTube</a><a class="lang-block lb-inline" data-lang="hi" href="https://youtu.be/K-ekfGaJd1U" target="_blank" rel="noopener">यह एपिसोड यूट्यूब पर देखें</a></div>
+    <div class="chapter-meta">
+      <span class="lang-block lb-inline" data-lang="en">17 min read</span>
+      <span class="lang-block lb-inline" data-lang="hi">17 मिनट का पाठ</span>
+    </div>
+  </div>
+  <div class="chapter-highlights">
+    <blockquote>“1857 में भारत ने सिर्फ़ सैनिकों को नहीं देखा।”</blockquote>
+    <blockquote>“लेकिन स्मृति कभी पूरी तरह वश में नहीं आती।”</blockquote>
+  </div>
+  <details class="chapter-body" open>
+    <summary>
+      <span class="lang-block lb-inline" data-lang="en">Read the full chapter</span>
+      <span class="lang-block lb-inline" data-lang="hi">पूरा अध्याय पढ़ें</span>
+    </summary>
+    <div class="chapter-text lang-block lb-block" data-lang="en">
+<h3>A Prophecy in Red</h3>
+<p>At the start of 1857, India was not a calm map. It was a paper on which someone had, for a long time, been pressing down and drawing lines. Somewhere there were the old seals of princely states, somewhere the Company's new signature. Somewhere there was music in the courts, somewhere restlessness in the cantonments. Somewhere there were gatherings of courtesans, somewhere whispers over cartridges.</p>
+<p>In Calcutta's English-Indian press, that year, an ominous sentence was recorded - 'Everything will turn red.'</p>
+<p>That sentence carried no single meaning. Red could be the colour of blood. Red could be the colour of the sepoys' uniforms. Red could be the colour of British maps, on which their territories kept spreading in pinkish-red.</p>
+<p>Within one sentence lay hidden three futures. Rebellion. Army. Empire.</p>
+<p>And, strangely, all three came true.</p>
+<p>In 1857 came the Sepoy Mutiny. In 1858, East India Company rule ended. And that same year, the British Crown established its direct rule over India.</p>
+<p>But this fire did not light suddenly. Embers had been gathering beneath it for a long time. This was not merely a question of cartridges. It was a question of land, of honour, of religion, of language, of wages, of race, of princely states, and of that restlessness which had been slowly filling the chest of all of north India.</p>
+<h3>The Gloves Were Off</h3>
+<p>In the last decades of the East India Company, the game had changed.</p>
+<p>First there was trade. Then came the army. Then debt. Then treaties. Then the Resident. Then advice. Then pressure. Then annexation.</p>
+<p>Between 1835 and 1857, the Company sharpened its old methods further. Pressure on Indian princes increased. British Residents sat in the courts. Alliances formed with local merchants and factions. And where no path was found, some new doctrine was discovered.</p>
+<p>One such doctrine was - the Doctrine of Lapse.</p>
+<p>It was said that Indian states without a male heir acceptable by the Company's reckoning would be absorbed into the Company. This was less law, more the hunger of empire.</p>
+<p>The name most connected with this policy is Governor-General Lord Dalhousie. Between 1848 and 1856, he ran, as it were, the tip of red ink across India's map. Satara, Nagpur, Jhansi and many small princely states went into the Company's belly. It is said Dalhousie annexed roughly a quarter of a million square miles of the subcontinent - no British officer before him had expanded so much.</p>
+<p>But states are not merely land. They are memory. They are courts. They are shrines and mosques. They are culture. And sometimes, an entire dynasty's whole wound comes to rest upon a single child's face.</p>
+<p>This is exactly what happened in Punjab.</p>
+<h3>Punjab - The Echo of a Lion, and a Child's Silence</h3>
+<p>The foundation of the Sikh kingdom was laid in 1799, when the young Ranjit Singh seized Lahore. That very Lahore which had once been a gleaming capital of the Mughal world. In 1801 he became Maharaja of Punjab. Then, for roughly 38 years, he built a state in which many layers of old Hindustani politics remained alive.</p>
+<p>Ranjit Singh was not merely a Sikh ruler. He was also heir to that legacy in which state, religion, and patronage dissolved into one another. He married Sikh, Hindu, and Muslim women. He built a mosque and madrasa in Lahore in the name of his Muslim wife, Moran. He gave patronage to the Golden Temple of Amritsar. He sometimes even praised Aurangzeb. He held the Kohinoor diamond - that stone which had once been a symbol of Mughal sovereignty, which Nadir Shah had carried out of India, and which now belonged to the Lion of Punjab.</p>
+<p>Ranjit Singh's kingdom was powerful, but the Company was taking a longer breath than he was.</p>
+<p>In 1839, Ranjit Singh died. After him, succession troubles grew. Eventually, four-year-old Dalip Singh sat upon the throne. A child prince. A crown, larger than its own weight. A dynasty, around which the Company's gaze kept tightening.</p>
+<p>Dalip Singh's mother was Maharani Jind Kaur. Jind ruled as regent. She recognized British intent. She did not wish to become a puppet running from behind the curtain.</p>
+<p>British Resident Henry Lawrence advised her to keep purdah, and only occasionally see to state affairs from behind the veil.</p>
+<p>Jind rejected this advice. Her answer was - as long as the Maharaja is sovereign of his kingdom, it is as though I myself am sovereign.</p>
+<p>This sentence was not merely a mother's sentence. It was the direct posture of female politics before colonial power.</p>
+<p>But the Company did not like such voices.</p>
+<p>In 1847, Jind was sent into exile. She was separated from her nine-year-old son. In 1849, the Company defeated the Sikh armies. The child prince Dalip Singh was made to sign a treaty of annexation. And in that treaty, not only rule was lost, but objects of legacy too.</p>
+<p>The Kohinoor diamond. Ranjit Singh's golden throne. And then Dalip Singh himself.</p>
+<p>He was taken to England. Given a 17,000-acre estate in Suffolk. He gained land, but his birthland was snatched away. He gained comfort, but his memory became homeless.</p>
+<h3>Awadh - A Cherry, a Culture, an Insult</h3>
+<p>Now let us move to the Ganga plain.</p>
+<p>Awadh. Fertile land. Nawabi culture. Lucknow's evenings. Mushairas. Marsiyas. The crowds of Muharram. Gatherings of courtesans. Roads. Press. Steamboats. And a culture the Company could not understand in the language of administration alone.</p>
+<p>From 1722 to 1856, Shia Nawabs ruled Awadh. As Mughal power weakened, this kingdom became independent in practice - as many eighteenth-century kingdoms built their own new worlds in their own way.</p>
+<p>Awadh's culture flourished greatly in the first half of the nineteenth century. In Lucknow, courtesans were not merely women who entertained. They were living institutions of music, dance, refinement, and urban culture. Some were very wealthy. Men went to mushairas, where fresh Urdu verses were heard. Hindus and Muslims alike took part in Shia festivals. The rites of Muharram were not merely religious - they were the city's collective memory too. Nawab Wajid Ali Shah was a great patron of art, dance, and music.</p>
+<p>But the Company's gaze was not on culture. Its gaze was on the state.</p>
+<p>In 1851, Dalhousie called Awadh a cherry - one that would, someday, fall into our mouths.</p>
+<p>How strange a thing. An entire kingdom, with its fields, artisans, poets, courtesans, roads, mournings and songs - in an imperialist's eye, merely a fruit. A fruit ripe to fall.</p>
+<p>In 1856, the Company seized Awadh. The excuse was that Wajid Ali Shah had failed to reform his rule.</p>
+<p>Wajid Ali Shah answered. He published his case in Calcutta. His argument was direct - if crime is the excuse, then the crimes committed in my territory are in a ratio of one to ten compared with the crimes occurring in Company territories.</p>
+<p>But empire does not stop for an excuse. It manufactures excuses. And then buries an entire geography beneath them.</p>
+<p>The annexation of Awadh was not merely a political event. It was preparation for an emotional explosion. This very region would become, in 1857, one of the most fervent grounds of rebellion.</p>
+<h3>The Printing Press - When Paper Caught Fire</h3>
+<p>Nineteenth-century India was not merely an India of army and fort. It was also an India of print.</p>
+<p>From the 1830s, lithography spread rapidly. Older typographic presses already existed, but lithography was cheap, portable, and could easily print the scripts of Indian languages.</p>
+<p>Agra, Banaras, Bombay, Calcutta, Delhi, Kanpur, Lucknow, Madras - everywhere, communities began printing their views.</p>
+<p>In 1832, Tulsidas's Ramayana was printed. In 1848, an Urdu translation of the Quran was printed. Christian missionaries printed their tracts. Indians printed rebuttal pamphlets. Religion was no longer only in the temple, mosque, church, or assembly. It had descended onto paper. Debate could now travel. A pamphlet could change hands. Words had become faster than the police, and more durable than rumour.</p>
+<p>One scholar has called this the tract war.</p>
+<p>And indeed, this was a battle of words. On religion, on caste, on power, on employment, on language. Earlier, ideas travelled by voice. Now they began travelling on printed paper.</p>
+<p>This very printing press would also become the voice of the rebels in 1857. Documents like the Azamgarh Proclamation were the product of this very world. Colonial rule watched the press spread. Then, one day, this very press printed the language of rebellion.</p>
+<h3>English - A New Metropolitan Tongue</h3>
+<p>Along with printing, one more thing was spreading - English.</p>
+<p>English never became the language of the majority in India. But in the nineteenth century, it began taking the very place Persian once held - the language of power, of employment, of elite aspiration.</p>
+<p>There was also strong demand for English education within Indian society. In the late 1820s and early 1830s, the Company began English-medium education in Indian colleges. In 1835 came the English Education Act. After this, the official support given to Indian classical languages like Persian and Sanskrit declined, and English gained priority.</p>
+<p>But language never comes alone. It brings with it food, socializing, argument, employment, prestige, and crisis too.</p>
+<p>Take the example of Mohan Lal Zutshi. He was a Kashmiri Brahmin. In the late 1820s, he was counted among the first students to study English at the Old Delhi College. He was accused of losing his caste because he ate with the English and stepped outside Aryavarta - the region understood to be the Brahmanical boundary of India. He faced the crisis of religious ostracism throughout his life. Instead, he adopted Islam.</p>
+<p>This story is not of a single individual alone. It is a crack-filled mirror of that age, in which English, caste, food, the sea, religion, and identity were all colliding with one another.</p>
+<p>In this very context, Dalip Singh's story returns again. That same child prince of Punjab. Taken to England. Made Christian. Given a landowning life there. But memory never comes fully under control.</p>
+<p>In the 1880s, prophecies spread in Punjab that someone would lead the Sikhs against British rule. Some thought it was Dalip Singh. Dalip Singh too heard this call. In 1886 he wished to return to India and be initiated into the Khalsa. British police arrested him in Aden. Later he lived in Europe and, until the end of his life, remained connected with activities against British rule. He even tried to seek Russian help to free his countrymen from the shackles of British rule.</p>
+<p>A child, whom the Company had wanted to quiet by taking him to England, returned to India again in memory.</p>
+<h3>Greased Cartridges, and Very Old Wounds</h3>
+<p>The 1857 rebellion began with a rumour, but it was not merely a rumour.</p>
+<p>The Company was about to give sepoys the Enfield rifle. The cartridges of these rifles had to be bitten open by mouth before use. At the start of 1857, word began spreading among sepoys that these cartridges were greased with pig fat and cow fat.</p>
+<p>For Muslim sepoys, there was the question of pork. For upper-caste Hindu sepoys, there was the question of cow and caste. The cartridge suddenly stopped being merely part of the gun. It became a question of religion, body, and honour.</p>
+<p>At Barrackpore, Mangal Pandey was the first to raise open objection to this. He was a Brahmin sepoy. His argument was that taking such animal products into the mouth would destroy his caste. In March 1857 he took up arms against a British officer. He was tried immediately and hanged.</p>
+<p>But an execution does not always spread fear. Sometimes it cracks the wall of fear itself.</p>
+<p>In May 1857, Muslim cavalrymen at Meerut rebelled. This time, the fire was not going to stop.</p>
+<p>But we must remember - this is not a story that begins with cartridges and ends with cartridges. The cartridge was merely the spark.</p>
+<p>The gunpowder had been gathering for a long time.</p>
+<p>British racism toward Indians. The drain of wealth. Callousness in the handling of famines. The humiliation of Indian rulers. The forcible annexation of princely states. Fear of interference in religion. The aggression of Christian missionaries. Low pay, low respect, and keeping Indians away from high positions.</p>
+<p>These grievances were not separate. Together, they had become the restlessness of a geography that the Company thought, by its own reckoning, was calm.</p>
+<h3>When Mutiny Became Uprising</h3>
+<p>In the spring of 1857, when some sepoys attacked their British commanders, it looked like a military mutiny. But within a few weeks, it was no longer merely a cantonment matter.</p>
+<p>The sepoys of the Bengal Presidency joined violent resistance against Company rule. Then many sections of civil society were drawn into this upheaval - deposed rulers, tribal communities, prisoners, courtesans, cities, towns, marketplaces.</p>
+<p>On May 21, 1857, an English-medium newspaper in Calcutta wrote - this is no longer a mutiny, but an uprising.</p>
+<p>This sentence matters. Because the sepoy mutiny was no longer merely an event of broken military discipline. It was becoming a political imagination.</p>
+<p>And even before 1857, India was not silent. The Vellore Mutiny had already happened in 1806, in which roughly 100 British were killed. In the 1850s, communities like the Bhils, Santals, and Savaras had already risen against British power. Central India, eastern India, Odisha - all of these were also burning in their own embers of colonial discontent.</p>
+<p>1857 was the greatest explosion of this fire.</p>
+<h3>Delhi, Kanpur, Lucknow - Three Burning Centres</h3>
+<p>After May 1857, rebel sepoys gathered at the great centres of north India. Kanpur. Delhi. Lucknow.</p>
+<p>Everywhere, the face of the rebellion was different.</p>
+<p>In Kanpur, leadership was taken up by Nana Sahib. He was one of the three adopted sons of the last Maratha Peshwa. In Delhi, rebel sepoys made the 80-year-old Mughal emperor Bahadur Shah Zafar their symbol. In Lucknow, where the rebellion continued until March 1858, the deposed Nawab Wajid Ali Shah's 11-year-old son Birjis Qadr was seated on the throne. His mother, Hazrat Mahal, became regent.</p>
+<p>See how poignant this scene is.</p>
+<p>An old emperor in Delhi. A child in Lucknow. An exiled prince in Punjab's memory. And, amid all of this, rebel sepoys, pamphlets, rumours, seals, swords, guns, and claims to protect religion.</p>
+<p>Bahadur Shah Zafar held no real power. The Mughal empire survived in name. But in history, sometimes even a name becomes a weapon. Zafar's name gave the rebels a shared umbrella. It was such a seal of the past, upon which the present wrote its own rebellion.</p>
+<p>Hazrat Mahal's presence in Lucknow was just as significant. From within the very Nawabi power that the English had deposed, a woman took up a political place. The child sat on the throne, but the spine of resistance became his mother.</p>
+<p>In 1857, India did not see only soldiers. It saw queens, begums, children, old emperors, prisoners, courtesans, and ordinary citizens all coming to the centre of history.</p>
+<h3>The Azamgarh Proclamation - The Voice of the Pamphlet</h3>
+<p>The rebels did not act with sword and gun alone. They also used the printed word.</p>
+<p>In August 1857, the Azamgarh Proclamation was issued. In September it was published in the Delhi Gazette. This is an important document of the rebel language of that time.</p>
+<p>It said that the people of Hindustan - whether Hindu or Muslim - were being ruined under English tyranny and oppression. An appeal was made to wealthy people and old royal families to stake their lives and property for the welfare of the people.</p>
+<p>The proclamation also spoke to government employees and sepoys. It said that natives working in British service received little respect, little pay, and no influence. All positions of profit and honour were given to the English.</p>
+<p>Then it speaks in religious language. Those who fall fighting against the English will go to heaven. Those who die fighting for the English will go to hell.</p>
+<p>This language may seem harsh, violent, and unstable to us today. And it was. But within it is recorded the pain, humiliation, and heat of anger of that time. This proclamation tells us that, in the rebels' eyes, this was not merely a question of employment. It was a question of religion, honour, livelihood, power, and identity.</p>
+<p>An Urdu pamphlet printed in Lucknow appealed to Hindus and Muslims, women and men, to stand against the English in the name of protecting their respective faiths.</p>
+<p>One rebel said - all black men are one. This is a matter of faith. Why should we lose our religion?</p>
+<p>In this sentence there is racial experience too. Religious fear too. Shared humiliation too. The 1857 rebellion does not speak in the clean language of some modern nationalism. It speaks in fragmented, religious, dynastic, local, military, and emotional languages. This is exactly its historical complexity.</p>
+<h3>Violence - The Darkness of Rebellion</h3>
+<p>The story of 1857 does not contain only valour. It also contains terrible violence.</p>
+<p>At Kanpur, in June 1857, several hundred British departing were slaughtered. In July, the remaining British women and children were also killed, and their bodies thrown into a well. In Lucknow, the British and loyal sepoys took shelter in a cluster of buildings called the Residency and were besieged for months.</p>
+<p>The rebels' violence was real. Civilians were killed. Women and children were killed. The line between mercy and rage was erased in many places.</p>
+<p>But British retaliatory violence afterward was equally merciless, and at times even more organized and collective.</p>
+<p>In September 1857, British soldiers, with the help of Sikh sepoys, Punjabi, Gorkha and Kashmiri soldiers, retook Delhi. After this, repression began.</p>
+<p>People were made to stand in the streets of Delhi and shot. One company commander literally called it killing. Mughal princes were beheaded. Many were hanged. Of those who survived, some were taken across the black waters to the Andamans, where the British revived an old penal colony.</p>
+<p>Delhi's Jama Masjid was desecrated. Pork was cooked within it. It was also urinated in.</p>
+<p>Urdu writer Muhammad Zakaullah wrote - Delhi became hell.</p>
+<p>In this one sentence lies the collapse of a city. Not just of buildings. Of language. Of refinement. Of markets. Of courts. Of a Delhi that had been ravaged many times before, but had always risen again. After 1857 it rose again too, but not as before.</p>
+<h3>A Trial in the Red Fort</h3>
+<p>In 1858, the British made three great decisions.</p>
+<p>First - the Mughal dynasty was ended. Second - East India Company rule ended. Third - the British Crown established direct rule over India.</p>
+<p>These changes began with the trial and exile of Bahadur Shah Zafar.</p>
+<p>The trial was held in Delhi's Red Fort. This was the very Red Fort that Mughal power had built. Now, in that very fort, the last symbol of the Mughal dynasty was put in the dock.</p>
+<p>This was not merely a judicial proceeding. It was theatre. Political theatre. Power turned into a stage the very place where the emperor once sat.</p>
+<p>The prosecution presented Zafar as the centre of a Muslim conspiracy. It was said that he was the head of the Muhammadan faith in India, and therefore responsible for a Muslim conspiracy.</p>
+<p>This charge, too, was the footfall of future politics. British power began reading the mixed, tangled, Hindu-Muslim-military-dynastic rebellion of 1857 in a particular religious shape.</p>
+<p>Zafar was found guilty. He was exiled to Burma. The Mughal dynasty came to an end.</p>
+<p>There was a time when the power of Hindustan spoke in Persian farmans, Mughal seals, and royal canopies. Now that same power would speak in the proclamation of England's Queen.</p>
+<h3>The End of the Company, the Arrival of the Crown</h3>
+<p>The Government of India Act of 1858 was passed. East India Company rule ended. That Company, which had arrived by way of spices, cloth, and trade, was now removed from the stage of history. But the structure it had built remained. Its violent expansion remained. Its administrative machine remained. Its army, its lands, its laws, its fear - all of it passed into the name of the Crown.</p>
+<p>In November 1858, Queen Victoria's Proclamation was issued. It was published in English and several Indian languages. For roughly the next 90 years, the tone of British imperial language and policy in India would be set by this proclamation.</p>
+<p>The proclamation said that India's government was now being taken into the British Crown's own hand. The treaties and promises made with the Company would be honoured. The British did not wish to expand their existing territories. The rights, dignity, and honour of Indian princes would be respected. No one would have Christianity forced upon them. No one would be troubled for their religious belief or worship. The protection of law would be equal for all. Opportunities in government service would be based on merit, beyond caste or creed. Indians' attachment to land would be understood. Once peace returned, industry, public utility, and governance would be run for the benefit of the subjects.</p>
+<p>The language of the proclamation was of mercy, justice, and peace. But behind it lay the blood of 1857. The Red Fort. The well of Kanpur. The lanes of Delhi. The prisoners heading toward the Andamans. And that Company, which built an empire in India, but now drowned in the very storm it had made.</p>
+<h3>Promises, Fear, and New Policy</h3>
+<p>Queen Victoria's Proclamation formally distanced itself from Dalhousie's aggressive policy. It was now said that the British would no longer simply swallow princely states. Now the rights and dignity of princes would be respected. Now there would be no interference in religion.</p>
+<p>This mercy did not come suddenly. It came out of fear.</p>
+<p>1857 had shown the British that even a rumour about a cartridge could shake an empire. Even the fear of touching religion could break an army. Humiliating and continually annexing Indian princely states does not give lasting peace - it produces an anger that waits for its chance.</p>
+<p>So, after 1858, British policy changed. Open expansion decreased. Princely states were kept under control, but the haste to swallow everyone was stopped. A promise was made of non-interference in religion. The language of rule was made to sound just.</p>
+<p>But there is a distance between language and rule. The proclamation held equality, but power stayed in British hands. The proclamation held merit, but English dominance persisted in high positions. The proclamation held secular protection, but the interpretation of 1857 kept deepening lines of religious suspicion.</p>
+<p>The British Raj presented itself as distinct from the Company. But its foundation was laid on the very ground the Company had built.</p>
+<h3>The Map of the British Raj</h3>
+<p>After 1858, India enters a new political structure.</p>
+<p>The British Raj directly rules roughly 63 percent of the subcontinent's land and 78 percent of its population. The rest remained under the control of Indian princes. Roughly two-fifths of the land remained under hundreds of local princes and a few princesses.</p>
+<p>This was a dual India. On one side, territories under direct British rule. On the other, princely states, which had their own sovereignty, but were not free of British influence.</p>
+<p>Influence in the princely states was relatively restrained, but technological and cultural changes reached there too. The printing press. English education. New administrative language. New legal structures. The politics of new identities.</p>
+<p>In 1876, Victoria formally adopted the title Empress of India. In place of Company Bahadur, now was the Empress's rule.</p>
+<p>But for the people of India, the question remained the same - whose rule is it? Whose land is it? Whose honour is it? On whose side does the law stand? And whose voice will be recorded in history?</p>
+<h3>Identities Were Being Remade</h3>
+<p>Between 1857 and 1858, India did not see only a change of power. It saw the reconstruction of identities.</p>
+<p>Who was the sepoy? What was religion? What was caste? Who was the king? Who were the subjects? What did the memory of a Muslim ruler mean? In what language did Hindus and Muslims together speak against the English? And how did the English read that language?</p>
+<p>The press turned religion into debate. English education changed the aspirations of the elite. The annexation of princely states broke the security of old dynasties. Conversion and missionary activity created unease in society. The cartridge rumour turned the body into politics. The repression of Delhi turned the city into a monument. The Queen's Proclamation gave the empire the language of mercy.</p>
+<p>The early decades of the British Raj would stand exactly upon these very cracks.</p>
+<p>From here, India's history enters a new chapter. Now there is no Company, but there is the world the Company built. There are no Mughals, but there is Mughal memory. There are princely states, but the Crown's shadow lies over them. There is religion, but now it will also be recorded in printed pamphlets, courts, schools, and administrative categories. There is English, but within it lies both employment and distance. There are princes, but their sovereignty is incomplete. There are subjects, but their name has not yet become 'citizen'.</p>
+<h3>The Final Scene - The Colour Red Returns Again</h3>
+<p>Return to that first sentence - 'Everything will turn red.'</p>
+<p>In 1857, truly, much turned red.</p>
+<p>Blood turned red on the streets. Uniforms in the cantonments were red. On maps, British territories kept spreading in pinkish-red. In the Red Fort, the last Mughal emperor was put on trial. Lucknow's fire, Kanpur's screams, Delhi's ash - all of it dissolved into that colour.</p>
+<p>But history's colour is never just one.</p>
+<p>Red was not merely the colour of blood. It was also the colour of warning. It was also the ink of empire. It was also the colour of that memory which does not fade.</p>
+<p>1857 was defeated - this is easy to say. But 1857 forced the British empire to change. The Company had to step back. The Crown had to come forward directly. A promise had to be made of non-interference in religion. Policy toward princely states had to change. India could no longer simply be run as merely a trading property.</p>
+<p>So do not look at 1857 only as defeat. It is like a broken bridge. On one end of which stands Company Bahadur, and on the other, the British Raj. In between are falling people. Burning cities. Deposed dynasties. Printed pamphlets. The call of religion. And the weary shadow of an old poet-emperor.</p>
+<p>This is India's story. The story of that moment when the empire of trade turned into the empire of the Crown. The story of that fire, which turned Delhi into hell. The story of that proclamation, which laid the foundation of rule in the language of mercy. And the story of that country, which, even amid defeat, repression, and humiliation, was searching for its next voice.</p>
+<p>Because history never ends. It reaches its hand into the ashes and searches for the next letter.</p>
+<p>And India - it had not yet stopped speaking.</p>
+    </div>
+    <div class="chapter-text lang-block lb-block" data-lang="hi">
+<h3>लाल रंग की भविष्यवाणी</h3>
+<p>1857 की शुरुआत में भारत एक शांत नक़्शा नहीं था। वह एक ऐसा काग़ज़ था, जिस पर किसी ने बहुत देर से दबाव डाल कर रेखाएं खींची थीं। कहीं रियासतों की पुरानी मुहरें थीं, कहीं कंपनी के नए दस्तख़त। कहीं दरबारों में संगीत था, कहीं छावनियों में बेचैनी। कहीं तवायफ़ों की महफ़िलें थीं, कहीं कारतूसों पर फुसफुसाहट।</p>
+<p>कलकत्ता के अंग्रेज़ी-भारतीय प्रेस में उस साल एक अशुभ वाक्य दर्ज हुआ - “सब कुछ लाल हो जाएगा।”</p>
+<p>उस वाक्य में कोई एक अर्थ नहीं था। लाल रंग ख़ून का भी हो सकता था। लाल रंग सिपाहियों की वर्दी का भी हो सकता था। लाल रंग ब्रिटिश नक़्शों का भी हो सकता था, जिनमें उनके इलाक़े गुलाबी-लाल रंग से फैलते चले जाते थे।</p>
+<p>एक ही वाक्य में तीन भविष्य छिपे थे। विद्रोह। सेना। साम्राज्य।</p>
+<p>और अजीब बात यह है कि तीनों सच निकले।</p>
+<p>1857 में सिपाही विद्रोह हुआ। 1858 में ईस्ट इंडिया कंपनी की सत्ता समाप्त हुई। और उसी साल ब्रिटिश ताज ने भारत पर अपना सीधा राज क़ायम किया।</p>
+<p>लेकिन यह आग अचानक नहीं लगी थी। इसके नीचे बहुत दिनों से अंगारे जमा हो रहे थे। यह सिर्फ़ कारतूस का सवाल नहीं था। यह सवाल था ज़मीन का, इज़्ज़त का, धर्म का, भाषा का, वेतन का, नस्ल का, रियासतों का, और उस बेचैनी का जो धीरे-धीरे पूरे उत्तर भारत की छाती में भरती जा रही थी।</p>
+<h3>दस्ताने उतर चुके थे</h3>
+<p>ईस्ट इंडिया कंपनी के आख़िरी दशकों में खेल बदल गया था।</p>
+<p>पहले व्यापार था। फिर फ़ौज आयी। फिर क़र्ज़। फिर संधियां। फिर रेज़िडेंट। फिर सलाह। फिर दबाव। फिर विलय।</p>
+<p>1835 से 1857 के बीच कंपनी ने अपने पुराने तरीक़े और तेज़ कर दिये। भारतीय राजकुमारों पर दबाव बढ़ाया गया। दरबारों में ब्रिटिश रेज़िडेंट बैठे। स्थानीय व्यापारियों और गुटों से गठजोड़ हुए। और जब कोई रास्ता नहीं मिलता था, तो कोई नया सिद्धांत खोज लिया जाता था।</p>
+<p>ऐसा ही एक सिद्धांत था - विलय का सिद्धांत।</p>
+<p>कहा गया कि जिन भारतीय राज्यों में कंपनी के हिसाब से स्वीकार्य पुरुष उत्तराधिकारी नहीं होगा, वे राज्य कंपनी में मिला लिये जाएंगे। यह क़ानून कम, साम्राज्य की भूख ज़्यादा था।</p>
+<p>इस नीति से सबसे अधिक जुड़ा नाम है गवर्नर-जनरल लॉर्ड डलहौज़ी का। 1848 से 1856 के बीच उसने भारत के नक़्शे पर जैसे लाल स्याही की नोक चला दी। सतारा, नागपुर, झांसी और कई छोटी रियासतें कंपनी के पेट में चली गयीं। कहा जाता है कि डलहौज़ी ने उपमहाद्वीप के लगभग एक चौथाई मिलियन वर्गमील पर क़ब्ज़ा किया - उससे पहले किसी ब्रिटिश अधिकारी ने इतना विस्तार नहीं किया था।</p>
+<p>लेकिन राज्य सिर्फ़ ज़मीन नहीं होते। वे स्मृति होते हैं। दरबार होते हैं। देवस्थान और मस्जिदें होती हैं। तहज़ीब होती है। और कभी-कभी, एक राजवंश की सारी चोट एक बच्चे के चेहरे पर आकर टिक जाती है।</p>
+<p>पंजाब में ऐसा ही हुआ।</p>
+<h3>पंजाब - शेर की गूंज और बच्चे की ख़ामोशी</h3>
+<p>सिख राज्य की नींव 1799 में रखी गयी थी, जब किशोर रणजीत सिंह ने लाहौर पर क़ब्ज़ा किया। वही लाहौर, जो कभी मुग़ल दुनिया की एक चमकती राजधानी था। 1801 में वे पंजाब के महाराजा बने। फिर लगभग 38 साल तक उन्होंने एक ऐसा राज्य खड़ा किया, जिसमें पुरानी हिंदुस्तानी राजनीति की बहुत-सी परतें जीवित थीं।</p>
+<p>रणजीत सिंह सिर्फ़ सिख शासक नहीं थे। वे उस विरासत के वारिस भी थे जिसमें राज्य, धर्म और संरक्षण एक-दूसरे में घुले रहते थे। उन्होंने सिख, हिंदू और मुस्लिम महिलाओं से विवाह किया। अपनी मुस्लिम पत्नी मोरन के नाम पर लाहौर में मस्जिद और मदरसा बनवाया। अमृतसर के स्वर्ण मंदिर को संरक्षण दिया। कभी-कभी औरंगज़ेब की प्रशंसा भी की। उनके पास कोहिनूर हीरा था - वह पत्थर, जो मुग़ल संप्रभुता का प्रतीक रह चुका था, जिसे नादिर शाह भारत से ले गया था, और जो अब पंजाब के शेर के पास था।</p>
+<p>रणजीत सिंह का राज्य ताक़तवर था, लेकिन कंपनी उससे भी लंबी सांस लेकर चल रही थी।</p>
+<p>1839 में रणजीत सिंह की मृत्यु हुई। उसके बाद उत्तराधिकार की उलझनें बढ़ीं। आख़िरकार चार साल का दलीप सिंह गद्दी पर बैठा। एक बाल-राजकुमार। एक ताज, जो अपने ही भार से बड़ा था। एक राजवंश, जिसके चारों ओर कंपनी की निगाहें कसती जा रही थीं।</p>
+<p>दलीप सिंह की मां थीं महारानी जिंदन कौर। जिंदन ने रीजेंट के रूप में शासन संभाला। उन्होंने ब्रिटिश इरादों को पहचाना। वे पर्दे के पीछे से चलने वाली कठपुतली नहीं बनना चाहती थीं।</p>
+<p>ब्रिटिश रेज़िडेंट हेनरी लॉरेंस ने उन्हें सलाह दी कि वे पर्दा करें, बस कभी-कभी परदे के पीछे से राज्य का कामकाज देखें।</p>
+<p>जिंदन ने इस सलाह को ठुकरा दिया। उनका जवाब था - जब तक महाराजा अपने राज्य के संप्रभु हैं, यह ऐसा है जैसे मैं ख़ुद संप्रभु हूं।</p>
+<p>यह वाक्य सिर्फ़ एक मां का वाक्य नहीं था। यह औपनिवेशिक सत्ता के सामने स्त्री-राजनीति की सीधी मुद्रा थी।</p>
+<p>लेकिन कंपनी को ऐसी आवाज़ें पसंद नहीं थीं।</p>
+<p>1847 में जिंदन को निर्वासन में भेज दिया गया। उन्हें उनके नौ साल के बेटे से अलग कर दिया गया। 1849 में कंपनी ने सिख सेनाओं को हरा दिया। बाल-राजकुमार दलीप सिंह से विलय की संधि पर दस्तख़त करवाए गए। और उस संधि में सिर्फ़ शासन नहीं गया, एक विरासत की वस्तुएं भी चली गयीं।</p>
+<p>कोहिनूर हीरा। रणजीत सिंह का सुनहरा सिंहासन। और फिर ख़ुद दलीप सिंह।</p>
+<p>उसे इंग्लैंड ले जाया गया। सफ़ोक में 17,000 एकड़ की संपत्ति दी गयी। ज़मीन मिली, लेकिन जन्मभूमि छीन ली गयी। आराम मिला, लेकिन स्मृति बेघर हो गयी।</p>
+<h3>अवध - एक चेरी, एक तहज़ीब, एक अपमान</h3>
+<p>अब चलिए गंगा के मैदान में।</p>
+<p>अवध। उपजाऊ ज़मीन। नवाबी तहज़ीब। लखनऊ की शामें। मुशायरे। मर्सिये। मुहर्रम की भीड़। तवायफ़ों की महफ़िलें। सड़कें। प्रेस। स्टीमबोट। और एक ऐसी संस्कृति, जिसे कंपनी सिर्फ़ प्रशासन की भाषा में नहीं समझ सकती थी।</p>
+<p>1722 से 1856 तक अवध पर शिया नवाबों का शासन रहा। मुग़ल सत्ता के कमज़ोर होते ही यह राज्य व्यवहार में स्वतंत्र हो गया था। जैसे 18वीं सदी के कई राज्यों ने अपने-अपने ढंग से नयी दुनिया बनायी।</p>
+<p>अवध की संस्कृति 19वीं सदी के पहले हिस्से में खूब फली। लखनऊ में तवायफ़ें सिर्फ़ मनोरंजन करने वाली महिलाएं नहीं थीं। वे संगीत, नृत्य, अदब और शहरी संस्कृति की जीवित संस्थाएं थीं। कुछ बहुत धनी थीं। पुरुष मुशायरों में जाते थे, जहां ताज़ा उर्दू अशआर सुने जाते थे। हिंदू और मुसलमान, दोनों शिया उत्सवों में शामिल होते थे। मुहर्रम की रस्में सिर्फ़ मज़हबी नहीं, शहर की सामूहिक स्मृति भी थीं। नवाब वाजिद अली शाह कला, नृत्य और संगीत के बड़े संरक्षक थे।</p>
+<p>लेकिन कंपनी की नज़र तहज़ीब पर नहीं थी। उसकी नज़र राज्य पर थी।</p>
+<p>1851 में डलहौज़ी ने अवध को एक चेरी कहा - जो किसी दिन हमारे मुंह में आ गिरेगी।</p>
+<p>कितनी अजीब बात है। एक पूरा राज्य, अपने खेतों, कारीगरों, कवियों, तवायफ़ों, सड़कों, मातमों और गीतों के साथ - किसी साम्राज्यवादी की नज़र में बस एक फल था। पक कर गिरने वाला फल।</p>
+<p>1856 में कंपनी ने अवध को हड़प लिया। बहाना था कि वाजिद अली शाह शासन में सुधार नहीं कर सके।</p>
+<p>वाजिद अली शाह ने जवाब दिया। उन्होंने कलकत्ता में अपना पक्ष प्रकाशित किया। उनका तर्क सीधा था - अगर अपराध ही बहाना है, तो मेरे इलाक़े में किए गए अपराध कंपनी के क्षेत्रों में हुए अपराधों के मुक़ाबले एक से दस के अनुपात में हैं।</p>
+<p>लेकिन साम्राज्य बहाने से नहीं रुकता। वह बहाने बनाता है। और फिर उनके नीचे पूरा भूगोल दबा देता है।</p>
+<p>अवध का विलय सिर्फ़ एक राजनैतिक घटना नहीं था। यह एक भावनात्मक विस्फोट की तैयारी थी। यही क्षेत्र 1857 में विद्रोह की सबसे उग्र ज़मीनों में से एक बनेगा।</p>
+<h3>छापाख़ाना - जब काग़ज़ ने आग पकड़ी</h3>
+<p>19वीं सदी का भारत सिर्फ़ फ़ौज और क़िले का भारत नहीं था। यह छपाई का भी भारत था।</p>
+<p>1830 के दशक से लिथोग्राफी तेज़ी से फैली। पुराने टाइपोग्राफिक प्रेस पहले से मौजूद थे, लेकिन लिथोग्राफी सस्ती थी, पोर्टेबल थी, और भारतीय भाषाओं की लिखावट को सहजता से छाप सकती थी।</p>
+<p>आगरा, बनारस, बंबई, कलकत्ता, दिल्ली, कानपुर, लखनऊ, मद्रास - जगह-जगह समुदायों ने अपने विचार छापने शुरू किये।</p>
+<p>1832 में तुलसीदास की रामायण छपी। 1848 में क़ुरान का उर्दू अनुवाद छपा। ईसाई मिशनरियों ने अपने प्रचार-पत्र छापे। भारतीयों ने जवाबी पर्चे छापे। धर्म अब सिर्फ़ मंदिर, मस्जिद, गिरजाघर या सभा में नहीं था। वह काग़ज़ पर उतर आया था। बहस अब यात्रा कर सकती थी। पर्चा हाथ बदल सकता था। शब्द, पुलिस से तेज़ और अफ़वाह से ज़्यादा टिकाऊ हो गया था।</p>
+<p>एक विद्वान ने इसे ट्रैक्ट युद्ध कहा है।</p>
+<p>और सचमुच, यह शब्दों की लड़ाई थी। धर्म पर, जाति पर, सत्ता पर, नौकरी पर, भाषा पर। पहले विचार आवाज़ में चलते थे। अब वे छपे हुए काग़ज़ पर चलने लगे।</p>
+<p>यही छापाख़ाना 1857 में विद्रोहियों की आवाज़ भी बनेगा। आज़मगढ़ घोषणापत्र जैसे दस्तावेज़ इसी संसार की उपज थे। औपनिवेशिक शासन ने प्रेस को फैलते देखा। फिर एक दिन उसी प्रेस ने विद्रोह की भाषा छाप दी।</p>
+<h3>अंग्रेज़ी - एक नयी महानगरीय जुबान</h3>
+<p>छपाई के साथ एक और चीज़ फैल रही थी - अंग्रेज़ी।</p>
+<p>भारत में अंग्रेज़ी कभी बहुसंख्यक लोगों की भाषा नहीं बनी। लेकिन 19वीं सदी में उसने वही जगह पकड़नी शुरू की जो कभी फ़ारसी की थी - सत्ता की, रोज़गार की, अभिजात आकांक्षा की भाषा।</p>
+<p>भारतीय समाज में अंग्रेज़ी शिक्षा की मांग भी मज़बूत थी। 1820 के दशक के आख़िर और 1830 के दशक की शुरुआत में कंपनी ने भारतीय कॉलेजों में अंग्रेज़ी माध्यम की शिक्षा शुरू की। 1835 में अंग्रेज़ी शिक्षा अधिनियम आया। इसके बाद फ़ारसी और संस्कृत जैसी भारतीय शास्त्रीय भाषाओं को मिलने वाला आधिकारिक समर्थन कम हुआ और अंग्रेज़ी को प्राथमिकता मिली।</p>
+<p>लेकिन भाषा कभी अकेली नहीं आती। वह अपने साथ खान-पान, मेल-जोल, तर्क, नौकरी, प्रतिष्ठा और संकट भी लाती है।</p>
+<p>मोहन लाल ज़ुत्शी का उदाहरण देखिए। वे कश्मीरी ब्राह्मण थे। 1820 के दशक के आख़िर में ओल्ड दिल्ली कॉलेज में अंग्रेज़ी पढ़ने वाले पहले छात्रों में गिने जाते थे। अंग्रेज़ों के साथ खाना खाने और भारत की ब्राह्मणीय सीमा समझे जाने वाले आर्यावर्त से बाहर जाने के कारण उन पर जाति खोने का आरोप लगा। उनके सामने जीवन भर धार्मिक बहिष्कार का संकट था। उन्होंने इसके बजाय इस्लाम अपनाया।</p>
+<p>यह कहानी सिर्फ़ एक व्यक्ति की नहीं है। यह उस दौर का दरार-भरा आईना है, जिसमें अंग्रेज़ी, जाति, भोजन, समुद्र, धर्म और पहचान सब एक-दूसरे से टकरा रहे थे।</p>
+<p>इसी क्रम में दलीप सिंह की कहानी फिर लौटती है। पंजाब का वही बाल-राजकुमार। इंग्लैंड ले जाया गया। ईसाई बनाया गया। वहां भूमि-स्वामी जीवन मिला। लेकिन स्मृति कभी पूरी तरह वश में नहीं आती।</p>
+<p>1880 के दशक में पंजाब में भविष्यवाणियां फैलीं कि कोई व्यक्ति सिखों को ब्रिटिश शासन के विरुद्ध नेतृत्व देगा। कुछ लोगों ने सोचा, वह दलीप सिंह हैं। दलीप सिंह ने भी इस पुकार को सुना। 1886 में वे भारत लौटकर खालसा में दीक्षित होना चाहते थे। ब्रिटिश पुलिस ने उन्हें एडन में गिरफ़्तार कर लिया। बाद में वे यूरोप में रहे और जीवन के आख़िर तक ब्रिटिश शासन के विरुद्ध गतिविधियों से जुड़े रहे। उन्होंने अपने देशवासियों को ब्रिटिश शासन की बेड़ियों से मुक्त करने के लिए रूसी मदद तक मांगने की कोशिश की।</p>
+<p>एक बच्चा, जिसे कंपनी ने इंग्लैंड ले जाकर शांत कर देना चाहा था, स्मृति में फिर भारत लौट आया।</p>
+<h3>चर्बी लगे कारतूस और बहुत पुराने घाव</h3>
+<p>1857 का विद्रोह एक अफ़वाह से शुरू हुआ, लेकिन वह सिर्फ़ अफ़वाह नहीं था।</p>
+<p>कंपनी सिपाहियों को एनफ़ील्ड राइफ़ल देने वाली थी। इन राइफ़लों के कारतूसों को इस्तेमाल से पहले मुंह से काटना पड़ता था। 1857 की शुरुआत में सिपाहियों के बीच यह बात फैलने लगी कि इन कारतूसों पर सूअर की चर्बी और गाय की चर्बी लगी है।</p>
+<p>मुसलमान सिपाहियों के लिए सूअर का सवाल था। ऊंची जाति के हिंदू सिपाहियों के लिए गाय और जाति का सवाल था। कारतूस अचानक बंदूक़ का हिस्सा नहीं रहा। वह धर्म, शरीर और अपमान का सवाल बन गया।</p>
+<p>बैरकपुर में मंगल पांडे ने सबसे पहले इस पर खुली आपत्ति उठाई। वे ब्राह्मण सिपाही थे। उनका कहना था कि ऐसे पशु-उत्पादों को मुंह में लेने से उनकी जाति नष्ट हो जाएगी। मार्च 1857 में उन्होंने एक ब्रिटिश अधिकारी के विरुद्ध हथियार उठाया। उन पर तुरंत मुक़दमा चला और उन्हें फांसी दे दी गयी।</p>
+<p>लेकिन फांसी कभी-कभी डर नहीं फैलाती। कभी-कभी वह डर की दीवार में दरार डाल देती है।</p>
+<p>मई 1857 में मेरठ के मुस्लिम घुड़सवारों ने विद्रोह किया। इस बार आग रुकने वाली नहीं थी।</p>
+<p>लेकिन हमें याद रखना चाहिए - यह कारतूसों से शुरू होकर कारतूसों पर ख़त्म होने वाली कहानी नहीं है। कारतूस सिर्फ़ चिनगारी था।</p>
+<p>बारूद बहुत पहले से जमा था।</p>
+<p>भारतीयों के प्रति ब्रिटिश नस्लवाद। धन की निकासी। अकालों की देखरेख में निष्ठुरता। भारतीय शासकों का अपमान। रियासतों का जबरन अधिग्रहण। धर्म में हस्तक्षेप का डर। ईसाई मिशनरियों की आक्रामकता। कम वेतन, कम सम्मान, और ऊंचे पदों से भारतीयों को दूर रखना।</p>
+<p>ये सब शिकायतें अलग-अलग नहीं थीं। ये मिल कर उस भूगोल की बेचैनी बन चुकी थीं, जिसे कंपनी अपने हिसाब से शांत समझ रही थी।</p>
+<h3>जब विद्रोह बग़ावत बन गया</h3>
+<p>1857 के वसंत में जब कुछ सिपाहियों ने अपने ब्रिटिश कमांडरों पर हमला किया, तो यह एक सैन्य विद्रोह लगा। लेकिन कुछ ही हफ़्तों में यह सिर्फ़ छावनी की घटना नहीं रहा।</p>
+<p>बंगाल प्रेसीडेंसी के सिपाही कंपनी शासन के विरुद्ध हिंसक प्रतिरोध में शामिल हो गये। फिर नागरिक समाज के कई वर्ग इस उथल-पुथल में खिंचते चले गये - अपदस्थ शासक, जनजातीय समुदाय, क़ैदी, तवायफ़ें, शहर, क़स्बे, बाज़ार।</p>
+<p>21 मई 1857 को कलकत्ता के एक अंग्रेज़ी-माध्यम अख़बार ने लिखा - यह अब विद्रोह नहीं है, बल्कि एक बग़ावत है।</p>
+<p>यह वाक्य महत्वपूर्ण है। क्योंकि सिपाही विद्रोह अब सैनिक अनुशासन टूटने की घटना नहीं था। वह राजनीतिक कल्पना बन रहा था।</p>
+<p>और 1857 से पहले भी भारत चुप नहीं था। 1806 में वेल्लोर विद्रोह हो चुका था, जिसमें लगभग 100 ब्रिटिश मारे गये। 1850 के दशक में भील, संथाल और सावर जैसे समुदाय ब्रिटिश सत्ता के ख़िलाफ़ उठ चुके थे। मध्य भारत, पूर्वी भारत, ओडिशा - ये सब भी उपनिवेशी असंतोष की अपनी-अपनी आंच में थे।</p>
+<p>1857 इस आंच का सबसे बड़ा विस्फोट था।</p>
+<h3>दिल्ली, कानपुर, लखनऊ - तीन जलते हुए केंद्र</h3>
+<p>मई 1857 के बाद विद्रोही सिपाही उत्तर भारत के बड़े केंद्रों में जमा हुए। कानपुर। दिल्ली। लखनऊ।</p>
+<p>हर जगह विद्रोह का चेहरा अलग था।</p>
+<p>कानपुर में नेतृत्व नाना साहब ने संभाला। वे आख़िरी मराठा पेशवा के तीन दत्तक पुत्रों में से एक थे। दिल्ली में विद्रोही सिपाहियों ने 80 साल के बुज़ुर्ग मुग़ल सम्राट बहादुर शाह ज़फ़र को प्रतीक बनाया। लखनऊ में, जहां विद्रोह मार्च 1858 तक फैला रहा, अपदस्थ नवाब वाजिद अली शाह के 11 साल के बेटे बिरजिस क़द्र को सिंहासन पर बैठाया गया। उनकी मां हज़रत महल रीजेंट बनीं।</p>
+<p>देखिए, यह दृश्य कितना मार्मिक है।</p>
+<p>दिल्ली में एक बूढ़ा बादशाह। लखनऊ में एक बच्चा। पंजाब की स्मृति में एक निर्वासित राजकुमार। और इन सबके बीच विद्रोही सिपाही, पर्चे, अफ़वाहें, मुहरें, तलवारें, बंदूक़ें, और धर्म की रक्षा के दावे।</p>
+<p>बहादुर शाह ज़फ़र के पास वास्तविक सत्ता नहीं थी। मुग़ल साम्राज्य नाम में बचा था। लेकिन इतिहास में कभी-कभी नाम भी हथियार बन जाता है। ज़फ़र का नाम विद्रोहियों को एक साझा छतरी देता था। वह अतीत की ऐसी मुहर थी, जिस पर वर्तमान ने अपनी बग़ावत लिख दी।</p>
+<p>लखनऊ में हज़रत महल की उपस्थिति भी उतनी ही महत्वपूर्ण थी। अंग्रेज़ों ने जिस नवाबी सत्ता को अपदस्थ किया था, उसके भीतर से एक स्त्री ने राजनीतिक जगह ग्रहण की। बच्चा सिंहासन पर था, लेकिन प्रतिरोध की रीढ़ उसकी मां बनी।</p>
+<p>1857 में भारत ने सिर्फ़ सैनिकों को नहीं देखा। उसने रानियों, बेगमों, बच्चों, बूढ़े बादशाहों, क़ैदियों, तवायफ़ों और आम शहरियों को भी इतिहास के केंद्र में आते देखा।</p>
+<h3>आज़मगढ़ घोषणापत्र - पर्चे की आवाज़</h3>
+<p>विद्रोहियों ने सिर्फ़ तलवार और बंदूक़ से काम नहीं लिया। उन्होंने छपे हुए शब्द का भी इस्तेमाल किया।</p>
+<p>अगस्त 1857 में आज़मगढ़ घोषणापत्र जारी हुआ। सितंबर में वह दिल्ली गज़ट में प्रकाशित हुआ। यह उस दौर की विद्रोही भाषा का एक महत्वपूर्ण दस्तावेज़ है।</p>
+<p>इसमें कहा गया कि हिंदुस्तान के लोग - चाहे हिंदू हों या मुसलमान - अंग्रेज़ों के अत्याचार और ज़ुल्म के अधीन बर्बाद हो रहे हैं। धनी लोगों और पुराने शाही परिवारों से अपील की गयी कि वे जनता की भलाई के लिए अपनी जान और संपत्ति दांव पर लगाएं।</p>
+<p>घोषणापत्र सरकारी कर्मचारियों और सिपाहियों से भी बात करता था। उसमें कहा गया कि ब्रिटिश सेवा में काम करने वाले देसी लोगों को कम सम्मान, कम वेतन और कोई प्रभाव नहीं मिलता। लाभ और सम्मान के सारे पद अंग्रेज़ों को दिए जाते हैं।</p>
+<p>फिर यह धार्मिक भाषा में बात करता है। जो अंग्रेज़ों के विरुद्ध लड़ते हुए गिरेंगे, वे स्वर्ग जाएंगे। जो अंग्रेज़ों के लिए लड़ते हुए मारे जाएंगे, वे नरक जाएंगे।</p>
+<p>आज हमें यह भाषा कठोर, हिंसक और अस्थिर लग सकती है। और थी भी। लेकिन इसमें उस समय की पीड़ा, अपमान और क्रोध की गर्मी दर्ज है। यह घोषणापत्र बताता है कि विद्रोहियों की नज़र में यह सिर्फ़ नौकरी का सवाल नहीं था। यह धर्म, सम्मान, रोज़ी, सत्ता और अस्मिता का सवाल था।</p>
+<p>लखनऊ में छपे एक उर्दू पर्चे में हिंदुओं और मुसलमानों, स्त्रियों और पुरुषों से अपने-अपने दीन और धरम की रक्षा के नाम पर अंग्रेज़ों के विरुद्ध खड़े होने की अपील की गयी।</p>
+<p>एक विद्रोही ने कहा - सभी काले आदमी एक हैं। यह दीन का मामला है। हम अपना धर्म क्यों खोएं?</p>
+<p>इस वाक्य में नस्लीय अनुभव भी है। धार्मिक डर भी। साझा अपमान भी। 1857 का विद्रोह किसी आधुनिक राष्ट्रवाद की साफ़-सुथरी भाषा में नहीं बोलता। वह टूटी हुई, धार्मिक, राजवंशी, स्थानीय, सैन्य और भावनात्मक भाषाओं में बोलता है। यही उसकी ऐतिहासिक जटिलता है।</p>
+<h3>हिंसा - बग़ावत का अंधेरा</h3>
+<p>1857 की कहानी में केवल वीरता नहीं है। उसमें भयावह हिंसा भी है।</p>
+<p>कानपुर में जून 1857 में कई सौ निकलते हुए ब्रिटिशों का वध किया गया। जुलाई में बची हुई ब्रिटिश महिलाओं और बच्चों की भी हत्या हुई, और उनके शव कुएं में फेंके गये। लखनऊ में ब्रिटिश और वफ़ादार सिपाहियों ने रेज़िडेंसी नामक इमारतों के समूह में शरण ली और महीनों घिरे रहे।</p>
+<p>विद्रोहियों की हिंसा वास्तविक थी। नागरिक मारे गये। औरतें और बच्चे मारे गये। दया और क्रोध के बीच की रेखा कई जगह मिट गयी।</p>
+<p>लेकिन इसके बाद ब्रिटिश बदले की हिंसा भी उतनी ही निर्दय, कई बार उससे भी अधिक संगठित और सामूहिक थी।</p>
+<p>सितंबर 1857 में ब्रिटिश सैनिकों ने सिख सिपाहियों, पंजाबी, गोरखा और कश्मीरी सैनिकों की मदद से दिल्ली फिर से ले ली। इसके बाद दमन शुरू हुआ।</p>
+<p>दिल्ली की सड़कों पर लोगों को खड़ा करके गोली मारी गयी। एक कंपनी कमांडर ने इसे शाब्दिक रूप से हत्या कहा। मुग़ल राजकुमारों के सिर काटे गये। कई लोगों को फांसी दी गयी। जो बचे, उनमें से कुछ को काला पानी पार अंडमान ले जाया गया, जहां ब्रिटिशों ने एक पुरानी दंड-उपनिवेश को फिर जीवित किया।</p>
+<p>दिल्ली की जामा मस्जिद का अपमान किया गया। उसमें सूअर का मांस पकाया गया। अलग से पेशाब भी किया गया।</p>
+<p>उर्दू लेखक मुहम्मद ज़काउल्लाह ने लिखा - दिल्ली जहन्नुम बन गयी।</p>
+<p>इस एक वाक्य में शहर का ढहना है। सिर्फ़ इमारतों का नहीं। भाषा का। अदब का। बाज़ारों का। दरबारों का। एक ऐसी दिल्ली का, जो पहले भी कई बार उजड़ी थी, लेकिन हर बार फिर उठी थी। 1857 के बाद वह उठी भी, लेकिन पहले जैसी नहीं।</p>
+<h3>लाल क़िले में एक मुक़दमा</h3>
+<p>1858 में ब्रिटिशों ने तीन बड़े फ़ैसले किये।</p>
+<p>पहला - मुग़ल वंश समाप्त किया गया। दूसरा - ईस्ट इंडिया कंपनी का शासन ख़त्म हुआ। तीसरा - ब्रिटिश ताज ने भारत पर सीधा शासन स्थापित किया।</p>
+<p>इन बदलावों की शुरुआत बहादुर शाह ज़फ़र के मुक़दमे और निर्वासन से हुई।</p>
+<p>मुक़दमा दिल्ली के लाल क़िले में रखा गया। यह वही लाल क़िला था जिसे मुग़ल सत्ता ने बनाया था। अब उसी क़िले में मुग़ल वंश के आख़िरी प्रतीक को कटघरे में खड़ा किया गया।</p>
+<p>यह सिर्फ़ न्याय की कार्यवाही नहीं थी। यह नाटक था। राजनीतिक रंगमंच। सत्ता ने उसी जगह को मंच बनाया, जहां कभी बादशाह बैठता था।</p>
+<p>अभियोजन ने ज़फ़र को एक मुसलमान षड्यंत्र के केंद्र की तरह पेश किया। कहा गया कि वे भारत में मुहम्मदी आस्था के प्रमुख हैं और इसलिए मुस्लिम षड्यंत्र के लिए ज़िम्मेदार हैं।</p>
+<p>यह आरोप भी भविष्य की राजनीति की आहट था। 1857 की मिश्रित, उलझी हुई, हिंदू-मुस्लिम-सैन्य-राजवंशी बग़ावत को ब्रिटिश सत्ता ने एक ख़ास धार्मिक शक्ल में पढ़ना शुरू किया।</p>
+<p>ज़फ़र को दोषी ठहराया गया। उन्हें बर्मा निर्वासित कर दिया गया। मुग़ल वंश का अंत हो गया।</p>
+<p>एक समय था जब हिंदुस्तान की सत्ता फ़ारसी फ़रमानों, मुग़ल मुहरों और शाही छतरों में बोलती थी। अब वही सत्ता इंग्लैंड की महारानी की घोषणा में बोलेगी।</p>
+<h3>कंपनी का अंत, ताज का आगमन</h3>
+<p>1858 का भारत सरकार अधिनियम आया। ईस्ट इंडिया कंपनी का राज समाप्त हुआ। वह कंपनी, जो मसालों, कपड़ों और व्यापार के रास्ते आयी थी, अब इतिहास के मंच से हटायी गयी। लेकिन उसका बनाया हुआ ढांचा बचा रहा। उसका हिंसक विस्तार बचा रहा। उसकी प्रशासनिक मशीन बची रही। उसकी सेना, उसकी ज़मीनें, उसके क़ानून, उसका डर - सब ताज के नाम में चले गये।</p>
+<p>नवंबर 1858 में रानी विक्टोरिया की घोषणा जारी हुई। यह अंग्रेज़ी और कई भारतीय भाषाओं में प्रकाशित हुई। अगले लगभग 90 साल तक भारत में ब्रिटिश साम्राज्य की भाषा और नीति का स्वर इस घोषणा से तय होगा।</p>
+<p>घोषणा में कहा गया कि भारत की सरकार अब ब्रिटिश ताज अपने हाथ में लेता है। कंपनी से हुई संधियों और वचनों का पालन किया जाएगा। ब्रिटिश अपने मौजूदा क्षेत्रों का विस्तार नहीं चाहते। भारतीय राजकुमारों के अधिकार, गरिमा और सम्मान का आदर किया जाएगा। किसी पर ईसाई धर्म नहीं थोपा जाएगा। किसी को उसके धार्मिक विश्वास या पूजा के कारण परेशान नहीं किया जाएगा। क़ानून की सुरक्षा सबको समान रूप से मिलेगी। सरकारी सेवाओं में जाति या मत से परे योग्यता के आधार पर अवसर मिलेंगे। भूमि से भारतीयों के लगाव को समझा जाएगा। शांति लौटने पर उद्योग, सार्वजनिक उपयोगिता और शासन को प्रजा के लाभ के लिए चलाया जाएगा।</p>
+<p>घोषणा की भाषा दया, न्याय और शांति की थी। लेकिन उसके पीछे 1857 का ख़ून था। लाल क़िला था। कानपुर का कुआं था। दिल्ली की गलियां थीं। अंडमान की तरफ़ जाते क़ैदी थे। और वह कंपनी थी, जिसने भारत में साम्राज्य बनाया, मगर अब अपने ही बनाए हुए तूफ़ान में डूब गयी।</p>
+<h3>वादे, डर और नयी नीति</h3>
+<p>रानी विक्टोरिया की घोषणा ने डलहौज़ी की आक्रामक नीति से एक औपचारिक दूरी बनायी। अब कहा गया कि ब्रिटिश आगे रियासतों को यूं ही नहीं निगलेंगे। अब राजकुमारों के अधिकार और गरिमा का सम्मान किया जाएगा। अब धर्म में दख़ल नहीं होगा।</p>
+<p>यह दया अचानक नहीं आयी थी। यह डर से निकली थी।</p>
+<p>1857 ने ब्रिटिशों को दिखा दिया था कि कारतूस की अफ़वाह भी साम्राज्य को हिला सकती है। धर्म को छूने की आशंका भी फ़ौज को तोड़ सकती है। भारतीय रियासतों को अपमानित करना और लगातार हड़पना स्थायी शांति नहीं देता, वह मौक़े की प्रतीक्षा करता हुआ क्रोध पैदा करता है।</p>
+<p>इसलिए 1858 के बाद ब्रिटिश नीति बदली। खुला विस्तार कम हुआ। रियासतों को नियंत्रित रखा गया, लेकिन सबको निगलने की जल्दबाज़ी रोकी गयी। धर्म में दख़ल न करने का वादा किया गया। शासन की भाषा को न्यायपूर्ण बनाया गया।</p>
+<p>लेकिन भाषा और शासन में दूरी होती है। घोषणा में समानता थी, लेकिन सत्ता ब्रिटिशों के हाथ रही। घोषणा में योग्यता थी, लेकिन ऊंचे पदों पर अंग्रेज़ी प्रभुत्व बना रहा। घोषणा में धर्म-निरपेक्ष सुरक्षा थी, लेकिन 1857 की व्याख्या में धार्मिक शक की रेखाएं गहरी होती गयीं।</p>
+<p>ब्रिटिश राज ने ख़ुद को कंपनी से अलग दिखाया। लेकिन उसकी नींव कंपनी की ही ज़मीन पर रखी गयी थी।</p>
+<h3>ब्रिटिश राज का नक़्शा</h3>
+<p>1858 के बाद भारत एक नये राजनीतिक ढांचे में प्रवेश करता है।</p>
+<p>ब्रिटिश राज उपमहाद्वीप की लगभग 63 प्रतिशत भूमि और 78 प्रतिशत आबादी पर प्रत्यक्ष शासन करता है। बाकी इलाक़े भारतीय राजकुमारों के नियंत्रण में रहे। भूमि का लगभग दो-पांचवां हिस्सा सैकड़ों स्थानीय राजकुमारों और कुछ राजकुमारियों के अधीन रहा।</p>
+<p>यह दोहरा भारत था। एक तरफ़ सीधे ब्रिटिश शासन वाले प्रदेश। दूसरी तरफ़ रियासतें, जिनकी अपनी राजसत्ता थी, लेकिन ब्रिटिश प्रभाव से मुक्त नहीं थीं।</p>
+<p>रियासतों में प्रभाव अपेक्षाकृत संयमित था, मगर तकनीकी और सांस्कृतिक बदलाव वहां भी पहुंचे। छापाख़ाना। अंग्रेज़ी शिक्षा। नयी प्रशासनिक भाषा। नये क़ानूनी ढांचे। नयी पहचानों की राजनीति।</p>
+<p>1876 में विक्टोरिया ने औपचारिक रूप से भारत की महारानी की उपाधि अपनायी। कंपनी बहादुर की जगह अब महारानी का राज था।</p>
+<p>लेकिन भारत की जनता के लिए सवाल वही रहा - राज किसका है? ज़मीन किसकी है? सम्मान किसका है? क़ानून किसके पक्ष में खड़ा है? और इतिहास में किसकी आवाज़ दर्ज की जाएगी?</p>
+<h3>पहचानें फिर से बन रही थीं</h3>
+<p>1857 और 1858 के बीच भारत ने सिर्फ़ सत्ता-परिवर्तन नहीं देखा। उसने पहचानों का पुनर्निर्माण देखा।</p>
+<p>सिपाही कौन था? धर्म क्या था? जाति क्या थी? राजा कौन था? प्रजा कौन थी? मुसलमान शासक की स्मृति का क्या अर्थ था? हिंदू और मुसलमान एक साथ किस भाषा में अंग्रेज़ों के विरुद्ध बोलते थे? और अंग्रेज़ उस भाषा को कैसे पढ़ते थे?</p>
+<p>प्रेस ने धर्म को बहस में बदला। अंग्रेज़ी शिक्षा ने अभिजात वर्ग की आकांक्षाएं बदलीं। रियासतों के विलय ने पुराने राजवंशों की सुरक्षा तोड़ी। धर्मांतरण और मिशनरी सक्रियता ने समाज में बेचैनी पैदा की। कारतूस की अफ़वाह ने शरीर को राजनीति में बदल दिया। दिल्ली के दमन ने शहर को स्मारक बना दिया। रानी की घोषणा ने साम्राज्य को दया की भाषा दी।</p>
+<p>ब्रिटिश राज के शुरुआती दशक इन्हीं दरारों पर खड़े होंगे।</p>
+<p>यहां से भारत का इतिहास एक नए अध्याय में प्रवेश करता है। अब कंपनी नहीं है, मगर कंपनी की बनाई दुनिया है। मुग़ल नहीं हैं, मगर मुग़ल स्मृति है। रियासतें हैं, मगर उनके ऊपर ताज की छाया है। धर्म है, मगर अब वह छपे हुए पर्चों, अदालतों, स्कूलों और प्रशासनिक श्रेणियों में भी दर्ज होगा। अंग्रेज़ी है, लेकिन उसके भीतर रोज़गार भी है और दूरी भी। राजकुमार हैं, मगर उनकी संप्रभुता अधूरी है। प्रजा है, मगर उसका नाम अभी नागरिक नहीं हुआ है।</p>
+<h3>आख़िरी दृश्य - लाल रंग फिर लौटता है</h3>
+<p>उस पहले वाक्य पर लौटिए - “सब कुछ लाल हो जाएगा।”</p>
+<p>1857 में सचमुच बहुत कुछ लाल हुआ।</p>
+<p>सड़कों पर ख़ून लाल हुआ। छावनियों में वर्दियां लाल थीं। नक़्शों पर ब्रिटिश इलाक़े लाल-गुलाबी फैलते गये। लाल क़िले में आख़िरी मुग़ल बादशाह पर मुक़दमा चला। लखनऊ की आग, कानपुर की चीख़, दिल्ली की राख - सब उस रंग में घुलते चले गये।</p>
+<p>लेकिन इतिहास का रंग कभी एक नहीं होता।</p>
+<p>लाल सिर्फ़ ख़ून का रंग नहीं था। वह चेतावनी का रंग भी था। वह साम्राज्य की स्याही भी थी। वह उस स्मृति का रंग भी था जो मिटती नहीं।</p>
+<p>1857 हार गया - यह कहना आसान है। लेकिन 1857 ने ब्रिटिश साम्राज्य को बदलने पर मजबूर किया। कंपनी को हटना पड़ा। ताज को सीधे सामने आना पड़ा। धर्म में दख़ल न करने का वादा करना पड़ा। रियासतों पर नीति बदलनी पड़ी। भारत को अब सिर्फ़ व्यापारिक संपत्ति की तरह नहीं चलाया जा सकता था।</p>
+<p>इसलिए 1857 को केवल पराजय की तरह मत देखिए। वह एक टूटे हुए पुल की तरह है। जिसके एक छोर पर कंपनी बहादुर खड़ी है, और दूसरे छोर पर ब्रिटिश राज। बीच में गिरते हुए लोग हैं। जलते हुए शहर हैं। अपदस्थ राजवंश हैं। छपे हुए पर्चे हैं। धर्म की पुकार है। और एक बूढ़े शायर-बादशाह की थकी हुई परछाई है।</p>
+<p>यह भारत की कहानी है। कहानी उस पल की, जब व्यापार का साम्राज्य ताज के साम्राज्य में बदल गया। कहानी उस आग की, जिसने दिल्ली को जहन्नुम बना दिया। कहानी उस घोषणा की, जिसने दया की भाषा में राज की नींव रखी। और कहानी उस देश की, जो हार, दमन और अपमान के बीच भी अपनी अगली आवाज़ खोज रहा था।</p>
+<p>क्योंकि इतिहास कभी ख़त्म नहीं होता। वह राख में हाथ डाल कर अगला अक्षर खोजता है।</p>
+<p>और भारत - वह अभी बोलना बंद नहीं हुआ था।</p>
+    </div>
+  </details>
+</article>
+
+  <div class="chapter-pagenav">
+    <a class="lang-block lb-inline" data-lang="en" href="episode-17.html">&larr; Company Bahadur: From Trade to Empire</a>
+    <a class="lang-block lb-inline" data-lang="hi" href="episode-17.html">&larr; कंपनी बहादुर: व्यापार से साम्राज्य तक</a>
+    <a class="lang-block lb-inline" data-lang="en" href="scripts.html">Read other episodes</a>
+    <a class="lang-block lb-inline" data-lang="hi" href="scripts.html">बाक़ी एपिसोड्स पढ़ें</a>
+    <a class="lang-block lb-inline" data-lang="en" href="episode-19.html">Knowing India and Indians: 1860 to 1900 &rarr;</a>
+    <a class="lang-block lb-inline" data-lang="hi" href="episode-19.html">भारत और भारतीयों को जानना: 1860 से 1900 तक &rarr;</a>
+  </div>
+
+
+
+
+  <div class="scripts-cta">
+    <p class="lang-block lb-block" data-lang="en" style="color:var(--ink-soft);margin-bottom:20px;">More chapters are on their way as new episodes release.</p>
+    <p class="lang-block lb-block" data-lang="hi" style="color:var(--ink-soft);margin-bottom:20px;">नए एपिसोड आने के साथ और अध्याय यहां जुड़ते रहेंगे।</p>
+    <a class="btn lang-block lb-flex" data-lang="en" href="index.html">← Back to home</a>
+    <a class="btn lang-block lb-flex" data-lang="hi" href="index.html">← होम पर वापस जाएं</a>
+  </div>
+</main>
+
+<footer>
+  <div class="lang-block lb-block" data-lang="en">Equal Tales Storyline · <a href="https://www.youtube.com/@ETStoryline" target="_blank" rel="noopener">@ETStoryline</a> · <a href="youtube.html">Videos</a></div>
+  <div class="lang-block lb-block" data-lang="hi">इक्वल टेल्स स्टोरीलाइन · <a href="https://www.youtube.com/@ETStoryline" target="_blank" rel="noopener">@ETStoryline</a> · <a href="youtube.html">वीडियो</a></div>
+</footer>
+
+<script>
+  function setLang(lang){
+    document.body.classList.remove('lang-en','lang-hi');
+    document.body.classList.add('lang-' + lang);
+    document.documentElement.setAttribute('lang', lang);
+    try{ localStorage.setItem('etsLang', lang); }catch(e){}
+    document.querySelectorAll('.lang-switch button').forEach(function(b){
+      b.setAttribute('aria-pressed', b.dataset.lang === lang ? 'true' : 'false');
+    });
+  }
+  document.querySelectorAll('.lang-switch button').forEach(function(b){
+    b.addEventListener('click', function(){ setLang(b.dataset.lang); });
+  });
+  (function init(){
+    var saved = null;
+    try{ saved = localStorage.getItem('etsLang'); }catch(e){}
+    setLang(saved === 'en' ? 'en' : 'hi');
+  })();
+</script>
+
+</body>
+</html>

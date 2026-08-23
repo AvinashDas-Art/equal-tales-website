@@ -1,0 +1,862 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Aurangzeb and Shivaji: Power, Caste and Two Shudra Dynasties | औरंगज़ेब और शिवाजी: सत्ता, जाति और दो शूद्र वंश | Equal Tales Storyline</title>
+<meta name="description" content="Read Bharat Ki Kahani's episode scripts as full chapters - from the Indus Valley to the dawn of the 20th century.">
+<link rel="icon" type="image/png" href="favicon.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700;900&family=Inter:wght@400;500;600;700&family=Mukta:wght@400;500;600;700&family=Baloo+2:wght@500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --cloud:#F4F7F9;
+    --mist:#E6ECF2;
+    --powder:#D0E1FD;
+    --gold:#C5A059;
+    --gold-dark:#96754A;
+    --ink:#2C3E50;
+    --ink-soft:#5B6B7C;
+    --glass:rgba(255,255,255,.55);
+    --glass-strong:rgba(255,255,255,.72);
+    --glass-border:rgba(255,255,255,.65);
+  }
+  *{box-sizing:border-box;margin:0;padding:0;}
+  html{scroll-behavior:smooth;}
+  body{
+    background:linear-gradient(165deg, var(--cloud) 0%, var(--powder) 55%, var(--mist) 100%);
+    color:var(--ink);font-family:'Inter',sans-serif;line-height:1.75;min-height:100vh;
+  }
+  body.lang-hi{font-family:'Mukta',sans-serif;}
+  h1,h2,h3{font-family:'Playfair Display',serif;font-weight:700;color:var(--ink);}
+  body.lang-hi h1, body.lang-hi h2, body.lang-hi h3{font-family:'Baloo 2',serif;font-weight:700;}
+  a{color:inherit;}
+  img{max-width:100%;display:block;}
+  .wrap{max-width:1120px;margin:0 auto;padding:0 24px;}
+
+  .lang-block{display:none !important;}
+  body.lang-en .lang-block[data-lang="en"].lb-block{display:block !important;}
+  body.lang-hi .lang-block[data-lang="hi"].lb-block{display:block !important;}
+  body.lang-en .lang-block[data-lang="en"].lb-flex{display:flex !important;}
+  body.lang-hi .lang-block[data-lang="hi"].lb-flex{display:flex !important;}
+  body.lang-en .lang-block[data-lang="en"].lb-inline{display:inline !important;}
+  body.lang-hi .lang-block[data-lang="hi"].lb-inline{display:inline !important;}
+  body.lang-en .lang-block[data-lang="en"].lb-grid{display:grid !important;}
+  body.lang-hi .lang-block[data-lang="hi"].lb-grid{display:grid !important;}
+
+  nav{
+    position:sticky;top:0;z-index:50;
+    background:var(--glass);backdrop-filter:blur(16px) saturate(1.2);-webkit-backdrop-filter:blur(16px) saturate(1.2);
+    border-bottom:1px solid var(--glass-border);
+  }
+  nav .wrap{display:flex;align-items:center;justify-content:space-between;padding:14px 24px;gap:16px;}
+  .brand{display:flex;align-items:center;gap:10px;text-decoration:none;}
+  .brand-logo{height:46px;width:auto;flex-shrink:0;border-radius:12px;}
+  .lang-switch{display:flex;border:1.5px solid var(--gold);border-radius:999px;overflow:hidden;background:rgba(255,255,255,.5);}
+  .lang-switch button{border:0;background:transparent;padding:7px 16px;font-weight:700;font-size:.82rem;cursor:pointer;color:var(--gold-dark);}
+  .lang-switch button[aria-pressed="true"]{background:var(--gold);color:#fff;}
+  .nav-links{display:flex;gap:22px;list-style:none;}
+  .nav-links a{font-size:.88rem;font-weight:600;text-decoration:none;}
+  @media(max-width:700px){.nav-links{display:none;}}
+
+  main{padding:70px 24px 100px;}
+  .eyebrow{text-transform:uppercase;letter-spacing:.14em;font-size:.75rem;font-weight:600;color:var(--gold-dark);margin-bottom:14px;}
+  body.lang-hi .eyebrow{text-transform:none;letter-spacing:0;}
+
+  .scripts-hero{max-width:760px;margin:0 auto 48px;text-align:center;}
+  .scripts-hero h1{font-size:clamp(1.7rem,4vw,2.5rem);margin-bottom:16px;}
+  .scripts-hero p{color:var(--ink-soft);font-size:1.05rem;}
+
+  .chapter-index{grid-template-columns:repeat(4,1fr);gap:16px;margin:0 auto 64px;max-width:1000px;}
+  .chapter-index a{
+    display:block;background:var(--glass);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);
+    border:1px solid var(--glass-border);border-radius:16px;padding:18px 16px;
+    text-decoration:none;text-align:center;transition:transform .15s ease,box-shadow .15s ease;
+  }
+  .chapter-index a:hover{transform:translateY(-3px);box-shadow:0 10px 26px rgba(44,62,80,.1);}
+  .idx-num{font-size:.72rem;font-weight:700;color:var(--gold-dark);text-transform:uppercase;letter-spacing:.06em;margin-bottom:6px;}
+  body.lang-hi .idx-num{text-transform:none;letter-spacing:0;}
+  .idx-title{font-size:.9rem;font-weight:600;color:var(--ink);line-height:1.4;}
+  @media(max-width:900px){.chapter-index{grid-template-columns:repeat(2,1fr);}}
+  @media(max-width:560px){.chapter-index{grid-template-columns:1fr;}}
+
+  article.chapter{
+    max-width:800px;margin:0 auto 56px;
+    background:var(--glass-strong);backdrop-filter:blur(18px) saturate(1.1);-webkit-backdrop-filter:blur(18px) saturate(1.1);
+    border:1px solid var(--glass-border);border-radius:24px;padding:44px 40px;
+    box-shadow:0 20px 50px rgba(44,62,80,.08);scroll-margin-top:90px;
+  }
+  .chapter-head{text-align:center;margin-bottom:26px;}
+  .chapter-num{font-size:.78rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--gold-dark);margin-bottom:8px;}
+  body.lang-hi .chapter-num{text-transform:none;letter-spacing:0;font-family:'Mukta',sans-serif;}
+  .chapter-head h2{font-size:clamp(1.3rem,3vw,1.7rem);margin-bottom:12px;}
+  .chapter-dek{color:var(--ink-soft);font-size:1rem;max-width:560px;margin:0 auto 10px;}
+  .chapter-meta{font-size:.8rem;color:var(--gold-dark);font-weight:600;}
+  .chapter-highlights{margin:0 0 24px;display:grid;gap:14px;}
+  .chapter-highlights blockquote{
+    font-family:'Playfair Display',serif;font-style:italic;font-size:1.05rem;line-height:1.6;
+    color:var(--ink);background:rgba(197,160,89,.1);border-left:3px solid var(--gold);
+    padding:16px 20px;border-radius:0 12px 12px 0;
+  }
+  body.lang-hi .chapter-highlights blockquote{font-family:'Baloo 2',serif;font-style:normal;}
+  details.chapter-body{text-align:center;}
+  details.chapter-body summary{
+    cursor:pointer;list-style:none;display:inline-flex;align-items:center;gap:8px;
+    font-weight:700;color:#fff;background:var(--gold);padding:11px 22px;border-radius:999px;
+    font-size:.9rem;box-shadow:0 8px 20px rgba(197,160,89,.3);
+  }
+  details.chapter-body summary::-webkit-details-marker{display:none;}
+  details.chapter-body summary::after{content:'▾';font-size:.8rem;}
+  details.chapter-body[open] summary::after{content:'▴';}
+  details.chapter-body[open] summary{margin-bottom:28px;}
+  .chapter-text{text-align:left;}
+  .chapter-text h3{font-size:1.08rem;color:var(--gold-dark);margin:26px 0 10px;}
+  .chapter-text h3:first-child{margin-top:0;}
+  .chapter-text p{margin-bottom:14px;font-size:1rem;color:var(--ink);}
+  .chapter-lang-note{
+    display:inline-block;margin-bottom:18px;font-size:.78rem;color:var(--gold-dark);
+    background:rgba(197,160,89,.12);padding:5px 14px;border-radius:999px;font-weight:600;
+  }
+  @media(max-width:600px){article.chapter{padding:30px 22px;}}
+
+  .scripts-cta{max-width:640px;margin:0 auto;text-align:center;}
+  .btn{
+    display:inline-flex;align-items:center;gap:8px;padding:12px 26px;border-radius:999px;
+    font-weight:700;text-decoration:none;font-size:.95rem;background:var(--gold);color:#fff;
+    box-shadow:0 10px 24px rgba(197,160,89,.35);
+  }
+
+  footer{padding:40px 0;text-align:center;color:var(--ink-soft);font-size:.85rem;}
+  footer a{color:var(--gold-dark);font-weight:700;text-decoration:none;}
+
+  .chapter-breadcrumb{max-width:840px;margin:28px auto 0;}
+  .chapter-breadcrumb a{font-weight:700;font-size:.85rem;color:var(--gold-dark);text-decoration:none;}
+  .chapter-breadcrumb a:hover{text-decoration:underline;}
+  .chapter-pagenav{max-width:840px;margin:36px auto 0;display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;}
+  .chapter-pagenav a{font-weight:700;font-size:.9rem;padding:10px 16px;border:1.5px solid var(--gold);border-radius:999px;text-decoration:none;color:var(--gold-dark);}
+  .chapter-pagenav a:hover{background:var(--gold);color:#fff;}
+  .chapter-watch-yt{margin:14px 0 4px;}
+  .chapter-watch-yt a{display:inline-flex;align-items:center;gap:8px;background:#FF0000;color:#fff !important;padding:9px 18px;border-radius:999px;font-weight:700;font-size:.85rem;text-decoration:none;}
+  .chapter-watch-yt a:hover{opacity:.9;}
+
+</style>
+</head>
+<body class="lang-hi">
+
+<nav>
+  <div class="wrap">
+    <a class="brand" href="index.html">
+      <img src="logo.png" alt="Equal Tales Storyline" class="brand-logo">
+    </a>
+    <ul class="nav-links lang-block lb-flex" data-lang="en">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="youtube.html">YouTube</a></li>
+    </ul>
+    <ul class="nav-links lang-block lb-flex" data-lang="hi">
+      <li><a href="index.html">होम</a></li>
+      <li><a href="youtube.html">यूट्यूब</a></li>
+    </ul>
+    <div class="lang-switch" role="group" aria-label="Language / भाषा">
+      <button type="button" data-lang="en" aria-pressed="false">EN</button>
+      <button type="button" data-lang="hi" aria-pressed="true">हिं</button>
+    </div>
+  </div>
+</nav>
+
+<main>
+  
+
+
+
+  <div class="chapter-breadcrumb">
+    <a class="lang-block lb-inline" data-lang="en" href="scripts.html">&larr; All chapters</a>
+    <a class="lang-block lb-inline" data-lang="hi" href="scripts.html">&larr; सभी अध्याय</a>
+  </div>
+<article class="chapter" id="chapter-15">
+  <div class="chapter-head">
+    <div class="chapter-num lang-block lb-inline" data-lang="en">Chapter 15</div>
+    <div class="chapter-num lang-block lb-inline" data-lang="hi">अध्याय 15</div>
+    <h2 class="lang-block lb-block" data-lang="en">Aurangzeb and Shivaji: Power, Caste and Two Shudra Dynasties</h2>
+    <h2 class="lang-block lb-block" data-lang="hi">औरंगज़ेब और शिवाजी: सत्ता, जाति और दो शूद्र वंश</h2>
+    <p class="chapter-dek lang-block lb-block" data-lang="en">A deeply religious emperor, a strategist who crowned himself despite his caste, and a century that refuses simple answers.</p>
+    <p class="chapter-dek lang-block lb-block" data-lang="hi">एक गहरे धार्मिक बादशाह, एक रणनीतिकार जिसने जाति की परवाह किए बिना ख़ुद को ताज पहनाया, और एक सदी जो आसान जवाब नहीं देती।</p>
+    <div class="chapter-watch-yt"><a class="lang-block lb-inline" data-lang="en" href="https://youtu.be/JtUYvWdJrXs" target="_blank" rel="noopener">Watch this episode on YouTube</a><a class="lang-block lb-inline" data-lang="hi" href="https://youtu.be/JtUYvWdJrXs" target="_blank" rel="noopener">यह एपिसोड यूट्यूब पर देखें</a></div>
+    <div class="chapter-meta">
+      <span class="lang-block lb-inline" data-lang="en">19 min read</span>
+      <span class="lang-block lb-inline" data-lang="hi">20 मिनट का पाठ</span>
+    </div>
+  </div>
+  <div class="chapter-highlights">
+    <blockquote>“इतिहास ऐसे ही कठिन लोगों से भरा है।”</blockquote>
+    <blockquote>“यहां जाति एक भारत-व्यापी ऐतिहासिक घटना की तरह उभरती है।”</blockquote>
+  </div>
+  <details class="chapter-body" open>
+    <summary>
+      <span class="lang-block lb-inline" data-lang="en">Read the full chapter</span>
+      <span class="lang-block lb-inline" data-lang="hi">पूरा अध्याय पढ़ें</span>
+    </summary>
+    <div class="chapter-text lang-block lb-block" data-lang="en">
+<h3>The Journey of News, and the World of the Seventeenth Century</h3>
+<p>In seventeenth-century India, news travelled on foot.</p>
+<p>Ink fell onto paper. Daily reports were prepared. Newsletters were written. Letters were sealed. And then runners set out - relying on dust, sweat, and breath.</p>
+<p>From Delhi to Lahore. From Agra to Raigad. From Raigad to the hill forts of the Deccan.</p>
+<p>Somewhere a prince has fallen ill. Somewhere a governor has rebelled. Somewhere a temple has been razed. Somewhere a fort is breaking from hunger. Somewhere a new king is searching for an old lineage for himself.</p>
+<p>History sometimes changes very slowly. But news always runs fast.</p>
+<p>And 17th-century India was full of exactly such running news.</p>
+<p>This is the time when the Mughal empire appears in its greatest form. In terms of land, in terms of population, in terms of wealth and administration - it had become the largest Indian empire yet.</p>
+<p>And at the centre of this empire sat one man - Aurangzeb Alamgir.</p>
+<p>His reign ran from 1658 to 1707. Nearly 50 years.</p>
+<p>His empire held more than 3.2 million square kilometres of territory. Parts of today's India, Pakistan, Afghanistan and Bangladesh fell within it. Roughly 150 million people lived under his rule - more than the total population of Europe at that time.</p>
+<p>Cities like Agra and Delhi were not merely of a few hundred thousand, but metropolises with populations well above half a million.</p>
+<p>The empire was so vast that, looking at its map, a person feels - this is the very pinnacle of power.</p>
+<p>But this is history's most dangerous illusion.</p>
+<p>What appears at its peak has often already begun cracking from within, at that very same time.</p>
+<h3>Aurangzeb: A Story That Began With Struggle</h3>
+<p>Aurangzeb's story does not begin like a king's - it begins like a struggle.</p>
+<p>In the autumn of 1657, news spreads from Agra that Shah Jahan is gravely ill.</p>
+<p>Shah Jahan - that very emperor in whose age Mughal splendour shone in the whiteness of marble and the language of royal architecture.</p>
+<p>But the news of his illness opened an old door within the empire.</p>
+<p>In Mughal tradition, there was no clear line of succession. The throne went to whichever son could defeat the rest.</p>
+<p>Shah Jahan had four adult sons - Dara Shukoh, Shuja, Aurangzeb, and Murad. Each had a claim. Each had an army. Each had his own ambition.</p>
+<p>Jahanara warned Aurangzeb. She said - do not do this. The fruit of such an act is disgrace and ruin.</p>
+<p>But the hunger for power often does not understand the language of relationships.</p>
+<p>There was a Persian saying - takht ya takhta. Either the throne, or the grave.</p>
+<p>And exactly this happened.</p>
+<p>Brother stood against brother. The dynasty was no longer a family - it became a battlefield.</p>
+<p>In 1658, the Battle of Samugarh became decisive. Dara Shukoh is defeated. Aurangzeb advances.</p>
+<p>Murad is first taken along as an ally, then arrested through deceit, having been plied with wine. Later he is executed.</p>
+<p>Shah Shuja flees toward Burma and vanishes into exile.</p>
+<p>Dara Shukoh, after a final resistance, is captured. Brought to Delhi. And, by Aurangzeb's order, beheaded.</p>
+<p>The road to the empire's throne was paved with blood. And this blood was not only that of war. It was the blood of family.</p>
+<h3>The Real Challenge After Defeating His Brothers</h3>
+<p>But Aurangzeb's real problem began after defeating his brothers.</p>
+<p>Because Shah Jahan had not died.</p>
+<p>He had recovered from his illness.</p>
+<p>This means Aurangzeb had not merely defeated his brothers. He had also forcibly removed his own father from power.</p>
+<p>In Mughal history, the killing of brothers was nothing new. In Timurid politics it existed almost like a cruel rule. But deposing one's father - this was a different matter.</p>
+<p>In the eyes of Islamic law, this was an act that caused deep unease.</p>
+<p>The empire's chief qazi refused to read the Friday khutba in Aurangzeb's name. Aurangzeb had him removed from his post.</p>
+<p>Here we see something very important.</p>
+<p>Aurangzeb is often understood along a straight line - as if he were a ruler who acted only from religion. But in the real world of power, he also uses religion, and, when necessary, clashes with religious authority itself.</p>
+<p>For him, politics was not merely a question of faith. Politics was a question of power.</p>
+<p>And power needed legitimacy.</p>
+<p>So, in May 1659, his grand coronation took place.</p>
+<p>The royal treasuries opened. Gold and silver were distributed. Courtiers received positions. Poets, musicians, religious men, servants, and nobles received gifts. Aurangzeb had himself weighed against gold - a rite also connected to old Hindu kingship.</p>
+<p>This scene is very interesting.</p>
+<p>On one hand he wants to connect his rule to Islamic legitimacy. On the other, he also adopts those old rites of Indian kingship through which subjects see the image of a generous king.</p>
+<p>An empire does not run on decree alone. An empire also runs on spectacle.</p>
+<p>The weight of gold, the charity distributed among the people, the sound of the khutba, the bowed courtiers, the gleaming court - all of this was part of the theatre of power.</p>
+<h3>A Deeply Religious Emperor</h3>
+<p>Aurangzeb was deeply religious.</p>
+<p>He was Muslim, and used the language of Islam, Sufi ties, and mystical beliefs to strengthen his kingship.</p>
+<p>When a terrible flood came, he had written prayers cast into the water. He remained connected to the Chishti order. He kept visiting Muinuddin Chishti's dargah in Ajmer. And after his death, he wished to be buried within a Chishti dargah in Khuldabad, Maharashtra.</p>
+<p>The intellectual imprint of his rule was different too.</p>
+<p>In Akbar's time, the translation of Sanskrit texts into Persian happened on a large scale. Brahmin and Mughal scholars worked together. There was a shared court of knowledge.</p>
+<p>In Aurangzeb's time, the greatest intellectual work became - the Fatawa-i Alamgiri.</p>
+<p>A vast compilation of Hanafi legal rulings. Written in Arabic. Translated into Persian. Dozens of ulema worked on it for 8 years.</p>
+<p>Here too the difference is clear.</p>
+<p>Akbar's court looks toward translation. Aurangzeb's court looks toward law.</p>
+<p>In Akbar's world there was the shine of dialogue. In Aurangzeb's, the rigour of order.</p>
+<p>But we should stop here too, before rushing to simplify history.</p>
+<p>Because music did not die in Aurangzeb's time.</p>
+<p>He reduced some court ceremonies. He ended the jharokha darshan (the balcony appearance) - perhaps understanding that displaying the royal body before the public could also be dangerous. Shah Jahan's illness had upset the balance of power.</p>
+<p>Court musicians were removed or placed elsewhere. But this did not result in music ending. Rather, music spread into the smaller courts of princes and nobles.</p>
+<p>And in this very period, Indo-Persian writers wrote more musical texts than in the previous 500 years combined.</p>
+<p>Sometimes what is expelled from the court does not die. It begins blooming in other courtyards.</p>
+<h3>The Obsession With the Deccan</h3>
+<p>But Aurangzeb's real obsession was - the Deccan.</p>
+<p>The Deccan was the dream the Mughals had long held. The southern sultanates, hill forts, fertile land, trade, diamonds, horses, ports, taxes - all of it called out to the empire's hunger.</p>
+<p>Aurangzeb made this Mughal ambition real.</p>
+<p>But the price of this was paid not only by the treasury. It was paid by human beings.</p>
+<p>The siege of Bijapur lasted 15 months - from 1685 to 1686. The army sat upon the city like time itself. Grain grew scarce. Disease spread. People broke. Behind the shine of royal victory lay hidden the devastation of the local population.</p>
+<p>The next year came Golconda.</p>
+<p>For 8 months the fort was deprived of food, medicine, and water. Then, one night, a door was left open - through bribery. Mughal soldiers entered. Before them stood an enemy army, hungry, sick, suffering from cholera.</p>
+<p>Within hours, Golconda was in Mughal hands.</p>
+<p>In the history books, this is a victory. In people's memory, it must also have been hunger, thirst, and stench.</p>
+<h3>The Twenty-Year Southern Campaign</h3>
+<p>After 1687, Aurangzeb kept moving through South India for nearly 20 years.</p>
+<p>Sometimes before some fort. Sometimes in some camp. Sometimes on some mountain path. Sometimes amid fields burned after some Maratha raid.</p>
+<p>Both Mughals and Marathas adopted a scorched-earth strategy. Crops were burned. Villages emptied. Hunger spread. Disease travelled.</p>
+<p>On paper, the empire was vast. On the ground, the man was hungry.</p>
+<p>Aurangzeb was growing old. The empire was expanding. But control was shrinking.</p>
+<p>This is history's second great illusion.</p>
+<p>Every victory does not bring control.</p>
+<p>Sometimes victory only brings long exhaustion.</p>
+<h3>Aurangzeb and His Hindu Subjects</h3>
+<p>Now comes the question - Aurangzeb and Hindus.</p>
+<p>Today's politics has made this question so noisy that both the real darkness and the real light of the 17th century get blurred.</p>
+<p>In Aurangzeb's empire there were Muslims. Hindus. Sikhs. Jains. Christians. Different castes. Different regions. Different traditions.</p>
+<p>And it is important to understand that, at that time, many people did not identify themselves as 'Hindu' the way people do today. They were identified by their caste, region, sect, lineage, or local tradition.</p>
+<p>Aurangzeb had no single, straightforward 'Hindu policy'.</p>
+<p>He treated different communities differently - often based on the interests of the state.</p>
+<p>There were Rajput women in his own family. The Mughal family had, for generations, formed marriage ties with Rajput royal houses.</p>
+<p>Hindu women came into his life too. In 1653, in Burhanpur, he fell in love upon seeing Hirabai Zainabadi. It is said she was plucking mangoes from a mango tree. A prince sees her - and in an instant, the man of power becomes a helpless lover.</p>
+<p>Hirabai was a dancer and musician. Their relationship was brief. She died young. Aurangzeb was shattered.</p>
+<p>He said that grief at home gives the heart no rest. It is better to weep alone in the wilderness.</p>
+<p>Such moments are rare in history, where the private darkness within a harsh ruler becomes visible.</p>
+<p>But private love does not change the policy of an empire.</p>
+<p>And the world of policy keeps its own separate account.</p>
+<h3>Hindu Officials at Court</h3>
+<p>Aurangzeb placed Hindus in state positions.</p>
+<p>Kayasthas, Rajputs, and other elite Hindu groups found a place in his rule. He remembered his finance minister, Raja Raghunath, even after his death. Contemporaries said no one ran the imperial treasury better than Hindus.</p>
+<p>Because of the Deccan conquest, the share of Hindus in the Mughal imperial elite also grew. Compared to the three Mughal rulers after Akbar, this percentage grew by up to 50 percent under Aurangzeb.</p>
+<p>So did Aurangzeb protect temples?</p>
+<p>In many cases, yes.</p>
+<p>There were thousands of Hindu and Jain temples in the Mughal empire. Generally, they were left alone.</p>
+<p>Aurangzeb ordered the officials of Banaras that local Brahmins and Hindus should not be unlawfully harassed, so that they could remain in their traditional places and pray for the stability of the empire.</p>
+<p>Looking at the temples of Ellora, he praised their beauty. He called them a miracle of divine artistry.</p>
+<p>But did Aurangzeb break temples?</p>
+<p>Yes.</p>
+<p>And this is exactly the complexity.</p>
+<p>Across his long reign, he ordered the damage or destruction of roughly a dozen Hindu and Jain temples.</p>
+<p>But these orders were generally connected to political conflicts. Temples were not merely places of worship. They were also centres of local power, wealth, honour, and community identity.</p>
+<p>The 1669 order to destroy Banaras's Vishwanath temple came amid a rebellion of local zamindars. In 1670, Mathura's Keshava Deva temple was demolished during Jat rebellions.</p>
+<p>Here we must remember another old Indian tradition. Targeting religious symbols to display dominance over political enemies was not only a Mughal practice. Hindu dynasties like the Chalukyas and Pallavas had done this before too.</p>
+<p>But when royal violence falls upon a religious site, the language too becomes religious.</p>
+<p>Mughal writings carry language like 'kafir', 'jihad', and the victory of Islam. On the other side, Rajput texts too speak the language of religious anger - the language of burning the Quran, breaking mosques, oaths to save the Vedas and Puranas.</p>
+<p>This does not mean politics disappeared. It means politics borrowed the fire of religion.</p>
+<h3>Jizya: A Controversial Decision</h3>
+<p>One of Aurangzeb's most controversial decisions was the return of the jizya in 1679.</p>
+<p>Akbar had suspended it in 1564. Jizya was a discriminatory tax levied on non-Muslims. Aurangzeb reimposed it.</p>
+<p>Why?</p>
+<p>Perhaps the empire's financial troubles. Perhaps to satisfy the ulema. Perhaps both.</p>
+<p>But there was opposition too.</p>
+<p>Jahanara opposed it. Rajput leaders opposed it. One letter described the jizya as placing further burden upon a hungry people. The letter said that the once-glorious Timurids were now, as it were, snatching away even beggars' bowls.</p>
+<p>A tax is not merely economic policy.</p>
+<p>A tax tells you how the state views your dignity.</p>
+<h3>Toward Punjab</h3>
+<p>Now let us go toward Punjab.</p>
+<p>In 1672, Aurangzeb led the Mughal army against the Satnamis. The Satnamis were an armed movement of low-caste people. They carried religious energy, and social rebellion too.</p>
+<p>Aurangzeb did not send only an army against them. He had prayers and magical figures inscribed on banners. Magic against magic. Talisman alongside the sword.</p>
+<p>In the same way, the Mughal state also turned harsh in the matter of the Sikhs. Aurangzeb himself was not personally involved in the attack, but he gave his approval to the 1675 execution of the ninth Sikh Guru, Tegh Bahadur.</p>
+<p>But here again, the same point.</p>
+<p>Aurangzeb did not show harshness only toward Hindu or Sikh groups. Some Islamic communities too suffered persecution.</p>
+<p>The massacre of Mahdavis in Gujarat. The repeated harassment of the Bohras, that is, the Shia Ismaili community.</p>
+<p>And yet, when someone demanded that Shias be barred from Mughal service, Aurangzeb refused.</p>
+<p>His response is extraordinary.</p>
+<p>He said - what connection do worldly matters have with religion? What right does bigotry have to interfere in administrative work? Your religion is yours, mine is mine. If this rule were accepted, I would have to remove Rajputs and their followers too. Wise people oppose removing capable officials from their posts.</p>
+<p>Here we see Aurangzeb's other face.</p>
+<p>Religious as an individual. Opportunistic as an emperor. Sometimes harsh. Sometimes practical. Sometimes speaking the language of justice. Sometimes the hunger of power.</p>
+<p>History is full of exactly such difficult people.</p>
+<h3>Shivaji's Entrance</h3>
+<p>And now, entering this story, comes Shivaji.</p>
+<p>In central India and the western Deccan, the Maratha Bhonsle family, in the latter half of the 17th century, was rising as an independent power.</p>
+<p>The Bhonsles were widely considered Shudra.</p>
+<p>This matters because, in this very period, many Shudra groups begin to appear more clearly in history - the Reddys in Andhra, the Jats in Punjab and around it, the Patels in Gujarat, the Nairs in Malabar.</p>
+<p>Shahji's son Shivaji was born in 1630.</p>
+<p>His life is not merely a story of fighting the Mughals or Bijapur. It is also a story of caste and kingship.</p>
+<p>Shivaji crafted a new royal identity, separate from his family history. He declared himself a Kshatriya ruler of a north Indian Rajput lineage.</p>
+<p>This is a very deep matter.</p>
+<p>On one hand, he was challenging Mughal power. On the other, he felt he needed a Rajput-Kshatriya identity for royal legitimacy.</p>
+<p>This means the idea of Rajput power was so appealing that even a ruler fighting the Mughals sought his own legitimacy in that very language.</p>
+<h3>An Extraordinary Strategist</h3>
+<p>Shivaji was an extraordinary strategist.</p>
+<p>Like other rulers of his time, he used every available means to gain power.</p>
+<p>His 1659 meeting with Afzal Khan is the most dramatic example of this.</p>
+<p>It was a supposed truce. Both came to meet. Neither trusted the other. Both came with hidden weapons.</p>
+<p>Shivaji had hidden an iron claw (bagh nakh) in his fist. Within the meeting itself, an attack took place. Afzal Khan was killed.</p>
+<p>This event was recorded in Maratha memory as courage and cunning. In the enemy's eyes, deceit. In his own people's eyes, wisdom and valour.</p>
+<p>In history, the event remains the same. Its meaning keeps changing.</p>
+<p>Shivaji's soldiers were agile. They knew the hills, valleys, and paths. They excelled at guerrilla warfare. They repeatedly outwitted the heavy Mughal army.</p>
+<p>The Mughal empire was like an elephant. Maratha warfare was like the wind.</p>
+<p>An elephant can break a path. Wind finds its own way.</p>
+<h3>The Coronation of the Chhatrapati, and the Question of Caste</h3>
+<p>In 1674, Shivaji decided to declare himself Chhatrapati.</p>
+<p>But now a bigger problem than the sword appeared - caste.</p>
+<p>Coronation required being Kshatriya. But the Bhonsles were not counted among the 96 elite Maratha families who claimed Rajput lineage.</p>
+<p>They were considered 'Shesh Maratha' - that is, people who could not claim twice-born (dvija) status.</p>
+<p>In simple terms, Shivaji's contemporaries considered him a 'rising Shudra'.</p>
+<p>Here we see politics' nakedest truth.</p>
+<p>You can conquer forts. You can defeat armies. You can collect taxes. You can raise your flag.</p>
+<p>But society asks - where were you born?</p>
+<p>Shivaji did not ignore this question. He found a ritual solution to it.</p>
+<p>Gagabhatta came from Banaras. A Brahmin scholar. He prepared a caste-recovery ceremony for Shivaji.</p>
+<p>'Changing caste' was not considered possible. So it was said that Shivaji's true Kshatriya identity was being restored.</p>
+<p>Rituals continued for weeks. The sacred thread (yajnopavita) was conferred. Purification took place. With Vedic mantras, Shivaji was remarried to his own wives.</p>
+<p>And then, at the coronation, Shivaji ascended an ornate throne - a throne covered with the skins of tigers and wild animals.</p>
+<p>This scene was not merely a scene of kingship.</p>
+<p>It was a political construction. A royal staging that turned a warrior called Shudra into a Kshatriya emperor.</p>
+<p>Gagabhatta received a heavy fee - more than a hundred thousand gold coins and gifts from the Bhonsle treasury. Brahmins were given gold, silver, copper, ghee, food, and cows.</p>
+<p>The coronation was expensive. So expensive that afterward, surrounding regions were raided. New taxes were imposed. A 'sinhasana-patti', that is, a coronation tax, was also levied.</p>
+<p>Here we see that legitimacy too demands revenue.</p>
+<p>Becoming king requires not only a crown. The cost of that crown is also collected from the people.</p>
+<h3>After the Coronation</h3>
+<p>But Shivaji's coronation was not final either.</p>
+<p>Tantric Brahmins objected. A Tantric Brahmin named Nischal Puri said that this ritual was not sufficient. So a second ritual took place - according to Tantric norms.</p>
+<p>One king. Two coronations. Two Brahmanical claims. Different religious authorities over a single power.</p>
+<p>In his final years, Shivaji promoted Sanskrit and neo-classical ideas connected to caste.</p>
+<p>He sponsored the Rajavyavaharakosha - a vocabulary of royal institutions. It gave Sanskrit equivalents for 1,500 Indo-Persian administrative terms.</p>
+<p>It is worth noting - Sanskrit was not the everyday language of governance. Persian was the primary language of administration. But Shivaji wanted to build a new and rigorous language of Kshatriya rule.</p>
+<p>This was not merely the translation of words.</p>
+<p>It was the translation of the soul of power.</p>
+<p>An attempt to move from the Persian court toward Sanskrit legitimacy.</p>
+<p>A new state was having its birth-chart written for itself in an old language.</p>
+<h3>The Nayaka Powers of the South</h3>
+<p>Now let us go toward the south - the regions of Karnataka and Tamil Nadu.</p>
+<p>Here lies the story of the Nayaka kings.</p>
+<p>From the mid-16th century to the start of the 18th, different Nayaka lineages ruled as Shudra sovereigns.</p>
+<p>They were of Telugu origin. Earlier, military commanders under Vijayanagara rule. As Vijayanagara's power waned, the Nayakas built their own dynasties.</p>
+<p>Madurai. Thanjavur. Gingee.</p>
+<p>These three major branches deeply transformed the political and cultural life of South India.</p>
+<p>The difference between Shivaji and the Nayaka kings is very interesting.</p>
+<p>Shivaji found the solution to the problem of being considered Shudra in a Kshatriya identity. The Nayaka kings did not hide their Shudra identity. They made it a celebration.</p>
+<p>Chemakura Venkatakavi wrote Telugu poetry for Raghunatha Nayaka of Thanjavur.</p>
+<p>He described his patron as born from the feet of Vishnu.</p>
+<p>This was an inversion of the very Vedic conception in which Brahmins are considered born from the head, Kshatriyas from the arms, Vaishyas from the thighs, and Shudras from the feet.</p>
+<p>In the original conception, the feet meant being below. Meant serving. Meant being lowly.</p>
+<p>But Chemakura said - if the Nayakas are born from the feet of Vishnu, then they are kin to the Ganga. Because the Ganga too is believed to be born from the feet of Vishnu.</p>
+<p>This is astonishing literary politics.</p>
+<p>Taking the very symbol made to show you as low, and lifting it up to become your own crown.</p>
+<h3>Madurai: Power Hidden Within Festivals</h3>
+<p>The Nayaka kings of Madurai also turned festivals into the language of royal power.</p>
+<p>In Tirumalai Nayaka's time there were two separate events.</p>
+<p>One - the annual journey of Vishnu toward the Vaigai river. The other - the wedding festival of Meenakshi and Sundareshwar, that is, Shiva.</p>
+<p>The Nayakas joined these two stories. A new interpretation was built, that Vishnu is Meenakshi's brother, and misses her wedding.</p>
+<p>Now the greatest festival centred on the wedding of Meenakshi and Shiva. And the Nayaka kings made themselves part of the political and religious world of this wedding.</p>
+<p>The Meenakshi temple complex spread across 14 urban acres. Much of its construction happened in the Nayaka period.</p>
+<p>Here religion, city, and power dissolve into one another.</p>
+<p>The temple no longer remains merely a place of worship. It becomes the beating heart of the city. It becomes the stage of royal power. It becomes the spectacle through which the public sees which mythic world the king draws his legitimacy from.</p>
+<p>Nilakantha Dikshita, praising Meenakshi's eyes, wrote that the old fish (a pun on 'Meenakshi', fish-eyed) that used to search for the Vedas is now tired. Now praise belongs to those eyes, which all the Vedas look upon.</p>
+<p>This line is not mere devotion.</p>
+<p>It brings a local goddess to the centre of the greater mythic cosmos.</p>
+<p>A regional tradition says - do not keep me at the margin anymore. Look at me. See the Vedas within my eyes.</p>
+<h3>Another India</h3>
+<p>In this way, the 17th century shows us another India.</p>
+<p>This India is not only that of emperors. It is the India of people fighting caste, bending caste, using caste, wounded by caste.</p>
+<p>In the early modern period, caste-oppressed communities begin to appear more clearly in history.</p>
+<p>The structure of caste was very old. Varna and jati had both long been present in society. Brahmanical dharmashastra had tried to present it as a virtuous, permanent, and unchangeable part of dharma.</p>
+<p>But society never runs on texts alone.</p>
+<p>People change. Communities rise. Bhakti movements raise questions. Shudra groups grow powerful. The doors of ritual are knocked upon.</p>
+<p>Between the 14th and 17th centuries, dozens of dharmashastra texts focused on ways to include Shudras in Hindu ritual life.</p>
+<p>This did not happen out of compassion. It happened from social pressure.</p>
+<p>When those called lower rise, those above have to rewrite their own rules.</p>
+<p>Sometimes rules loosen. Sometimes new walls are built. Sometimes a new ritual is crafted. Sometimes an old myth is given new meaning.</p>
+<h3>Dalit Voices and Literature</h3>
+<p>Dalit communities too appear in the literature of this period - though their voice, in fully independent form, is very rarely found.</p>
+<p>Around 1700, a short Telugu play attributed to Shahji is found - 'Mai Li Jao' (Take Me).</p>
+<p>In it there is a Brahmin who desires a Dalit woman. That woman is a Matangi. She says - we are untouchable. Touching us makes you impure. We are Madiga. We work with leather. Our huts are on the east side of the village. Everyone insults us. You are a Brahmin. Do not speak to us.</p>
+<p>This is not merely dialogue. It is a map of social distance.</p>
+<p>Even within the village there is an 'east direction', where certain people live. They are part of the village, and yet outside the village. Their labour is necessary, their touch is called impure.</p>
+<p>The Brahmin character tries to invert this distance - but cunningly. He bends her words in favour of his own desire.</p>
+<p>He says - if you should not be touched, then you are as pure as fire. If you are beyond caste, you should be the highest of all. If you work with hides, are you then separate from Shiva?</p>
+<p>Here Sanskrit, scripture, religion - all are pressed into the service of desire.</p>
+<p>The play delivers a sharp comment on Brahmin hypocrisy.</p>
+<p>At one point the Brahmin admits that we Brahmins ourselves made the rules, invented dharma, and there is no dharma greater than fulfilling a Brahmin's need.</p>
+<p>This is satire. Harsh. Uncomfortable. Unsettling.</p>
+<p>But the Dalit woman's own wish?</p>
+<p>It is almost absent.</p>
+<p>Her husband decides that she should sleep with the Brahmin. No one asks what she herself wants.</p>
+<p>In the end she says to Shiva - a woman who has lost her honour is worse than dead. Save me, I am in agony.</p>
+<p>Here caste and gender appear together.</p>
+<p>She is not only Dalit. She is also a woman. And so her body becomes the field of others' decisions.</p>
+<p>In history, often, the most decisions are taken over the lives of those whose voice is heard the least.</p>
+<h3>The Boundaries of Caste Beyond Religion</h3>
+<p>Caste was not confined to Hindu society alone.</p>
+<p>In and around 17th-century India, non-Hindu communities too were affected by the structure of caste.</p>
+<p>In 1595, a Hindi poet named Narottam wrote that the Muslims of the earth too have many castes.</p>
+<p>Christian groups in Portuguese Goa competed with one another within a caste hierarchy until the start of the 18th century.</p>
+<p>Indian Jewish communities of Kerala and Maharashtra were also organized by caste.</p>
+<p>Here, caste emerges as a pan-Indian historical phenomenon.</p>
+<p>Religion may change. Missionaries may arrive from across the sea. There may be a Persian court. The Quran, the Puranas, the Bible - all may be present together.</p>
+<p>But social habits are often more stubborn even than religion.</p>
+<p>Caste was exactly such a stubborn structure.</p>
+<p>It was in the temple. It was in the court. It was in the village. It was in poetry. It was in marriage. It was in the kitchen. It was in the body. It was in touch.</p>
+<p>And history's great work is exactly this - it tells us that power does not lie with the king alone. Power also lies in the Brahmin's word. In the rite of coronation. In the door of the temple. In the tax. And in the question of whose touch is sacred, whose impure.</p>
+<h3>Returning to Aurangzeb</h3>
+<p>Now let us return to Aurangzeb.</p>
+<p>His age was increasing. The wars of the Deccan were growing longer. The spread of the empire was turning into exhaustion.</p>
+<p>In 1707, Aurangzeb died. Age 88.</p>
+<p>News of his death again travelled by runners and horsemen. Just as news of Shah Jahan's illness once had.</p>
+<p>The message reached the empire's corners - the emperor has died.</p>
+<p>At first, everything seemed the same as before.</p>
+<p>Then the same old Mughal rule. A war of succession among the living sons. Muazzam won. Killing his two brothers in battle, he became Bahadur Shah.</p>
+<p>But by now, times had changed.</p>
+<p>Bahadur Shah could not fully quell the Jats, Sikhs, and other rebellions. After him came a whirlwind-like succession of Mughal emperors - some ruling for only a few months.</p>
+<p>Throughout his life, Aurangzeb had tried to bind political power to the centre.</p>
+<p>But in death, his legacy became fragmentation.</p>
+<p>This is history's third great illusion.</p>
+<p>A man thinks he holds the empire in his own hand. But sometimes that very hand grips the empire so tightly that it begins slipping through the fingers like sand.</p>
+<h3>Lessons and Conclusion</h3>
+<p>What does 17th-century India teach us?</p>
+<p>It teaches us that empires are not built on maps alone. They are built in postal routes, taxes, forts, betrayals, rituals, hunger, and memories.</p>
+<p>Aurangzeb's empire was vast - but within its vastness was insecurity.</p>
+<p>Shivaji's kingdom was new - but its new power needed a certificate from old caste.</p>
+<p>The Nayaka kings were Shudra - but they crafted legitimacy, not shame, from the word Shudra.</p>
+<p>The Dalit woman appears in the play - but without her own wish.</p>
+<p>The jizya tax returned - and the state's harshness fell upon people already suffering from hunger.</p>
+<p>Temples were sometimes safe, sometimes broken in political punishment.</p>
+<p>Music left the court - and spread into smaller courts.</p>
+<p>Festivals changed - and the soul of the city changed.</p>
+<p>Language changed - Sanskrit forms were sought for Persian words.</p>
+<p>And through all of this, news kept running.</p>
+<p>Runners kept connecting the empire with their own feet. Sentences written on paper kept travelling far and wide. Somewhere in a fort, someone opened a door. Somewhere at a court, someone refused to read the khutba. Somewhere a Brahmin made some king a Kshatriya. Somewhere a poet, calling a Shudra born from the feet of Vishnu, made him kin to the Ganga. Somewhere a Dalit woman said - do not speak to me, I am untouchable. And somewhere, news of an old emperor's death closed the door on an entire age.</p>
+<p>But in history, no door truly closes.</p>
+<p>What began after Aurangzeb's death was not merely Mughal decline. It was the dawn of the long 18th century.</p>
+<p>A time when regional powers would rise. The Marathas would spread. Sikh power would grow. Jats, nawabs, governors, merchants, and European companies would craft a new politics.</p>
+<p>India's story would no longer run from one centre. There would be many centres. Many languages. Many claims. Many ruptures.</p>
+<p>And perhaps this is India's greatest historical truth.</p>
+<p>This country was not made of a single voice. It is made of the collision, harmony, silence, and cry of countless voices.</p>
+<p>And in this dark, brilliant, restless time of the 17th century, we see -</p>
+<p>The empire is at its peak. Kingship is searching for its caste. Shudra kings are writing their own dignity. A Dalit woman is speaking in her anguish. And history is preparing for its next turn.</p>
+<p>This is India's story.</p>
+<p>And this story has not ended yet.</p>
+    </div>
+    <div class="chapter-text lang-block lb-block" data-lang="hi">
+<h3>ख़बरों का सफ़र और सत्रहवीं सदी की दुनिया</h3>
+<p>भारत की कहानी : Ep 15 औरंगज़ेब का साम्राज्य, शिवाजी की जाति-चिंता और दो शूद्र वंशों की कहानी</p>
+<p>सत्रहवीं सदी के भारत में ख़बरें पैरों से चलती थीं।</p>
+<p>काग़ज़ पर स्याही उतरती थी। रोज़ की रिपोर्टें तैयार होती थीं। अख़बारात लिखे जाते थे। चिट्ठियां मुहरबंद होती थीं। और फिर दौड़ाक निकल पड़ते थे - धूल, पसीने और सांस के भरोसे।</p>
+<p>दिल्ली से लाहौर। आगरा से रायगढ़। रायगढ़ से दक्कन के पहाड़ी क़िलों तक।</p>
+<p>कहीं कोई राजकुमार बीमार पड़ा है। कहीं किसी सूबेदार ने बग़ावत की है। कहीं कोई मंदिर गिराया गया है। कहीं कोई क़िला भूख से टूट रहा है। कहीं कोई नया राजा अपने लिए पुराना वंश खोज रहा है।</p>
+<p>इतिहास कभी-कभी बहुत धीरे बदलता है। लेकिन ख़बरें हमेशा जल्दी भागती हैं।</p>
+<p>और 17वीं सदी का भारत ऐसी ही भागती हुई ख़बरों से भरा हुआ था।</p>
+<p>यह वह समय है, जब मुग़ल साम्राज्य अपनी सबसे बड़ी शक्ल में दिखाई देता है। ज़मीन के लिहाज़ से, आबादी के लिहाज़ से, दौलत और प्रशासन के लिहाज़ से - यह अब तक का सबसे विशाल भारतीय साम्राज्य बन चुका था।</p>
+<p>और इस साम्राज्य के केंद्र में बैठा था एक आदमी - औरंगज़ेब आलमगीर।</p>
+<p>उसका राज 1658 से 1707 तक चला। लगभग 50 साल।</p>
+<p>उसके साम्राज्य में 32 लाख वर्ग किलोमीटर से ज़्यादा इलाक़ा था। आज के भारत, पाकिस्तान, अफ़ग़ानिस्तान और बांग्लादेश के हिस्से उसमें आते थे। क़रीब 15 करोड़ लोग उसके राज में रहते थे - उस दौर के यूरोप की कुल आबादी से भी ज़्यादा।</p>
+<p>आगरा और दिल्ली जैसे शहर आधे-आधे लाख नहीं, बल्कि पांच-पांच लाख से ऊपर की आबादी वाले महानगर थे।</p>
+<p>इतना बड़ा साम्राज्य था कि उसका नक़्शा देखते हुए आदमी को लगता है - यह शक्ति की पराकाष्ठा है।</p>
+<p>लेकिन इतिहास का सबसे ख़तरनाक भ्रम यही है।</p>
+<p>जो चीज़ अपने चरम पर दिखती है, अक्सर उसके भीतर टूटन भी उसी समय शुरू हो चुकी होती है।</p>
+<h3>औरंगज़ेब: संघर्ष से शुरू हुई कहानी</h3>
+<p>औरंगज़ेब की कहानी एक राजा की तरह नहीं, एक संघर्ष की तरह शुरू होती है।</p>
+<p>1657 की शरद ऋतु में आगरा से ख़बर फैलती है कि शाहजहां बहुत बीमार हैं।</p>
+<p>शाहजहां - वही सम्राट, जिनके दौर में मुग़ल वैभव संगमरमर की सफ़ेदी और शाही वास्तु की भाषा में चमक रहा था।</p>
+<p>लेकिन बीमारी की ख़बर ने साम्राज्य के भीतर एक पुराना दरवाज़ा खोल दिया।</p>
+<p>मुग़ल परंपरा में कोई साफ़ उत्तराधिकारी तय नहीं था। तख़्त उस बेटे को मिलता था, जो बाक़ी बेटों को हरा सके।</p>
+<p>शाहजहां के 4 वयस्क बेटे थे - दारा शुकोह, शुजा, औरंगज़ेब और मुराद। हर एक के पास दावा था। हर एक के पास सेना थी। हर एक के पास अपनी महत्वाकांक्षा थी।</p>
+<p>जहांआरा ने औरंगज़ेब को चेताया। उन्होंने कहा - ऐसा मत करो। ऐसे काम का फल बदनामी और बर्बादी होता है।</p>
+<p>लेकिन सत्ता की भूख अक्सर रिश्तों की भाषा नहीं समझती।</p>
+<p>फ़ारसी कहावत थी - या तख़्त, या तख़्ता। या सिंहासन, या क़ब्र।</p>
+<p>और यही हुआ।</p>
+<p>भाई भाई के सामने खड़ा हुआ। राजवंश परिवार नहीं रहा, युद्धभूमि बन गया।</p>
+<p>1658 में समुगढ़ की लड़ाई निर्णायक बनी। दारा शुकोह हारते हैं। औरंगज़ेब आगे बढ़ते हैं।</p>
+<p>मुराद को पहले साथ लिया जाता है, फिर धोखे से शराब पिलाकर गिरफ़्तार किया जाता है। बाद में उसकी हत्या होती है।</p>
+<p>शाह शुजा बर्मा की ओर भागता है और निर्वासन में गुम हो जाता है।</p>
+<p>दारा शुकोह आख़िरी प्रतिरोध के बाद पकड़े जाते हैं। दिल्ली लाए जाते हैं। और औरंगज़ेब के आदेश से उनका सिर क़लम कर दिया जाता है।</p>
+<p>साम्राज्य के सिंहासन तक पहुंचने वाली राह पर ख़ून था। और यह ख़ून सिर्फ़ युद्ध का नहीं था। यह परिवार का ख़ून था।</p>
+<h3>भाइयों को हराने के बाद की असली चुनौती</h3>
+<p>लेकिन औरंगज़ेब की असली समस्या भाइयों से जीतने के बाद शुरू हुई।</p>
+<p>क्योंकि शाहजहां मरे नहीं थे।</p>
+<p>वे बीमारी से उबर आए थे।</p>
+<p>मतलब यह कि औरंगज़ेब ने सिर्फ़ भाइयों को नहीं हराया था। उन्होंने अपने पिता को भी ज़बरन सत्ता से हटाया था।</p>
+<p>मुग़ल इतिहास में भाइयों की हत्या नई बात नहीं थी। तैमूरी राजनीति में यह जैसे एक क्रूर नियम की तरह मौजूद थी। लेकिन पिता को गद्दी से उतारना - यह अलग मामला था।</p>
+<p>इस्लामी क़ानून की नज़र में यह गहरी बेचैनी पैदा करने वाला काम था।</p>
+<p>साम्राज्य के मुख्य क़ाज़ी ने औरंगज़ेब के नाम पर जुमे का ख़ुत्बा पढ़ने से मना कर दिया। औरंगज़ेब ने उन्हें पद से हटवा दिया।</p>
+<p>यहां हम एक बहुत अहम चीज़ देखते हैं।</p>
+<p>औरंगज़ेब को अक्सर एक सीधी रेखा में समझ लिया जाता है - जैसे वह सिर्फ़ धर्म से चलने वाला शासक था। लेकिन सत्ता की असली दुनिया में वह धर्म को भी इस्तेमाल करता है, और ज़रूरत पड़ने पर धार्मिक प्रतिष्ठा से टकराता भी है।</p>
+<p>राजनीति उसके लिए सिर्फ़ ईमान का सवाल नहीं थी। राजनीति शक्ति का सवाल थी।</p>
+<p>और शक्ति को वैधता चाहिए थी।</p>
+<p>इसलिए मई 1659 में उसका भव्य राज्याभिषेक हुआ।</p>
+<p>शाही ख़ज़ाने खुले। सोना-चांदी बांटा गया। दरबारियों को पद मिले। कवियों, संगीतकारों, धार्मिक पुरुषों, सेवकों और रईसों को उपहार मिले। औरंगज़ेब ने ख़ुद को सोने से तौलवाया - वह रस्म जो पुराने हिंदू राजत्व से भी जुड़ी थी।</p>
+<p>यह दृश्य बहुत दिलचस्प है।</p>
+<p>एक तरफ़ वह अपने शासन को इस्लामी वैधता से जोड़ना चाहता है। दूसरी तरफ़ वह भारतीय राजसत्ता की उन पुरानी रस्मों को भी अपनाता है, जिनसे प्रजा को उदार राजा का दृश्य दिखता है।</p>
+<p>साम्राज्य सिर्फ़ फ़रमान से नहीं चलता। साम्राज्य दृश्य से भी चलता है।</p>
+<p>सोने का भार, जनता में बांटा गया दान, ख़ुत्बे की आवाज़, झुके हुए दरबारी, चमकता हुआ दरबार - ये सब सत्ता के थिएटर का हिस्सा थे।</p>
+<h3>एक गहरे धार्मिक बादशाह</h3>
+<p>औरंगज़ेब गहरे धार्मिक थे।</p>
+<p>वे मुसलमान थे, और अपने राजत्व को मज़बूत करने के लिए इस्लाम की भाषा, सूफ़ी संबंधों और तिलिस्मी विश्वासों का इस्तेमाल करते थे।</p>
+<p>जब भयावह बाढ़ आई, तो उन्होंने लिखी हुई दुआएं पानी में डलवाईं। वे चिश्ती सिलसिले से जुड़े रहे। अजमेर में मुइनुद्दीन चिश्ती की दरगाह पर जाते रहे। और अपनी मृत्यु के बाद उन्होंने महाराष्ट्र के ख़ुल्दाबाद में एक चिश्ती दरगाह के भीतर दफ़न होना चाहा।</p>
+<p>उनके शासन की बौद्धिक छाप भी अलग थी।</p>
+<p>अकबर के दौर में संस्कृत ग्रंथों का फ़ारसी में अनुवाद बड़े पैमाने पर हुआ था। ब्राह्मण और मुग़ल विद्वान साथ काम करते थे। ज्ञान का एक साझा दरबार था।</p>
+<p>औरंगज़ेब के दौर में सबसे बड़ा बौद्धिक काम बना - फ़तावा-इ आलमगीरी।</p>
+<p>हनफ़ी क़ानून के फ़ैसलों का विशाल संकलन। अरबी में लिखा गया। फ़ारसी में अनुवाद हुआ। दर्जनों उलेमाओं ने 8 साल तक इस पर काम किया।</p>
+<p>यहां भी फर्क़ साफ़ है।</p>
+<p>अकबर का दरबार अनुवाद की तरफ़ देखता है। औरंगज़ेब का दरबार क़ानून की तरफ़।</p>
+<p>अकबर के यहां संवाद की चमक थी। औरंगज़ेब के यहां व्यवस्था की कठोरता।</p>
+<p>लेकिन इतिहास को सरल बनाने की जल्दी हमें यहां भी रोकनी चाहिए।</p>
+<p>क्योंकि औरंगज़ेब के दौर में संगीत मर नहीं गया।</p>
+<p>उन्होंने दरबार के कुछ समारोह घटाए। झरोखा दर्शन बंद किया - शायद यह समझते हुए कि जनता के सामने शाही शरीर दिखाना ख़तरनाक भी हो सकता है। शाहजहां की बीमारी ने सत्ता-संतुलन बिगाड़ दिया था।</p>
+<p>दरबारी संगीतकारों को हटाया या अलग जगह लगाया गया। लेकिन इसका नतीजा यह नहीं हुआ कि संगीत ख़त्म हो गया। बल्कि संगीत राजकुमारों और रईसों के छोटे दरबारों में फैल गया।</p>
+<p>और इसी दौर में इंडो-फ़ारसी लेखकों ने पिछले 500 सालों की तुलना में ज़्यादा संगीत-ग्रंथ लिखे।</p>
+<p>कभी-कभी दरबार से निकाली गई चीज़ मरती नहीं। वह दूसरे आंगनों में फूलने लगती है।</p>
+<h3>दक्कन का जुनून</h3>
+<p>लेकिन औरंगज़ेब का असली जुनून था - दक्कन।</p>
+<p>दक्कन वह सपना था, जिसे मुग़ल लंबे समय से देख रहे थे। दक्षिण की सल्तनतें, पहाड़ी क़िले, उपजाऊ ज़मीन, व्यापार, हीरे, घोड़े, बंदरगाह, कर - सब कुछ साम्राज्य की भूख को बुलाता था।</p>
+<p>औरंगज़ेब ने इस मुग़ल महत्वाकांक्षा को सच किया।</p>
+<p>लेकिन इसकी क़ीमत सिर्फ़ ख़ज़ाने ने नहीं चुकाई। इंसानों ने चुकाई।</p>
+<p>बीजापुर की घेराबंदी 15 महीने चली - 1685 से 1686 तक। शहर पर समय की तरह सेना बैठ गई। अनाज कम हुआ। बीमारी फैली। लोग टूटे। शाही विजय की चमक के पीछे स्थानीय आबादी की तबाही छिपी रही।</p>
+<p>अगले साल गोलकुंडा आया।</p>
+<p>8 महीने तक क़िला भोजन, दवा और पानी से वंचित रहा। फिर एक रात एक दरवाज़ा खुला रह गया - रिश्वत से। मुग़ल सैनिक भीतर घुसे। भूखे, बीमार, हैज़े से पीड़ित दुश्मन के सामने साम्राज्य की सेना खड़ी थी।</p>
+<p>घंटों में गोलकुंडा मुग़लों के हाथ में था।</p>
+<p>इतिहास की किताबों में यह विजय है। लोगों की स्मृति में यह भूख, प्यास और गंध भी रही होगी।</p>
+<h3>बीस साल का दक्षिणी अभियान</h3>
+<p>1687 के बाद औरंगज़ेब लगभग 20 साल दक्षिण भारत में घूमते रहे।</p>
+<p>कभी किसी क़िले के सामने। कभी किसी शिविर में। कभी किसी पहाड़ी रास्ते पर। कभी किसी मराठा छापे के बाद जले हुए खेतों के बीच।</p>
+<p>मुग़ल और मराठा दोनों ने झुलसी धरती की रणनीति अपनाई। फ़सलें जलाई गईं। गांव ख़ाली हुए। भूख फैली। बीमारी चली।</p>
+<p>काग़ज़ पर साम्राज्य बड़ा था। ज़मीन पर आदमी भूखा था।</p>
+<p>औरंगज़ेब बूढ़े हो रहे थे। साम्राज्य फैल रहा था। लेकिन नियंत्रण सिकुड़ता जा रहा था।</p>
+<p>यह इतिहास का दूसरा बड़ा भ्रम है।</p>
+<p>हर विजय नियंत्रण नहीं देती।</p>
+<p>कभी-कभी विजय सिर्फ़ लंबी थकान देती है।</p>
+<h3>औरंगज़ेब और हिंदू प्रजा</h3>
+<p>अब सवाल आता है - औरंगज़ेब और हिंदू।</p>
+<p>आज की राजनीति ने इस सवाल को इतना शोरगुल भरा बना दिया है कि 17वीं सदी का असल अंधेरा और उजाला दोनों धुंधले पड़ जाते हैं।</p>
+<p>औरंगज़ेब के साम्राज्य में मुसलमान थे। हिंदू थे। सिख थे। जैन थे। ईसाई थे। अलग-अलग जातियां थीं। अलग-अलग इलाक़े थे। अलग-अलग परंपराएं थीं।</p>
+<p>और यह बात समझना ज़रूरी है कि उस समय बहुत से लोग ख़ुद को आज की तरह “हिंदू” कहकर नहीं पहचानते थे। वे अपनी जाति, क्षेत्र, संप्रदाय, कुल या स्थानीय परंपरा से पहचाने जाते थे।</p>
+<p>औरंगज़ेब की कोई एक सीधी “हिंदू नीति” नहीं थी।</p>
+<p>उन्होंने अलग-अलग समुदायों से अलग-अलग तरह से व्यवहार किया - अक्सर राज्य-हित देखकर।</p>
+<p>उनके परिवार में राजपूत महिलाएं थीं। मुग़ल परिवार पीढ़ियों से राजपूत राजघरानों से वैवाहिक संबंध बना चुका था।</p>
+<p>उनके जीवन में हिंदू स्त्रियां भी आईं। 1653 में बुरहानपुर में हीराबाई ज़ैनाबादी को देखकर वे प्रेम में पड़ गए। कहा जाता है, वह आम के पेड़ से आम तोड़ रही थीं। एक बादशाहज़ादा उन्हें देखता है - और क्षण भर में सत्ता का आदमी एक असहाय प्रेमी बन जाता है।</p>
+<p>हीराबाई एक नर्तकी और संगीतज्ञ थीं। उनका संबंध छोटा रहा। वह जल्दी मर गईं। औरंगज़ेब टूट गए।</p>
+<p>उन्होंने कहा कि घर में ग़म दिल को आराम नहीं देता। जंगल में अकेले रोना बेहतर है।</p>
+<p>इतिहास में ऐसे क्षण कम मिलते हैं, जहां एक कठोर शासक के भीतर का निजी अंधेरा दिखाई देता है।</p>
+<p>लेकिन निजी प्रेम साम्राज्य की नीति नहीं बदलता।</p>
+<p>और नीति का संसार अपना अलग हिसाब रखता है।</p>
+<h3>दरबार में हिंदू अधिकारी</h3>
+<p>औरंगज़ेब ने हिंदुओं को राज्य पदों पर रखा।</p>
+<p>कायस्थों, राजपूतों और दूसरे अभिजात हिंदू समूहों को उनके शासन में जगह मिली। उनके वित्त-मंत्री राजा रघुनाथ को वे उनकी मृत्यु के बाद भी याद करते थे। समकालीन लोग कहते थे कि शाही वित्त चलाने में हिंदुओं से बेहतर कोई नहीं।</p>
+<p>दक्कन विजय के कारण मुग़ल शाही अभिजात वर्ग में हिंदुओं की हिस्सेदारी भी बढ़ी। अकबर के बाद के 3 मुग़ल शासकों की तुलना में औरंगज़ेब के अधीन यह प्रतिशत 50 प्रतिशत तक बढ़ा।</p>
+<p>तो क्या औरंगज़ेब ने मंदिरों की रक्षा की?</p>
+<p>कई मामलों में, हां।</p>
+<p>मुग़ल साम्राज्य में हज़ारों हिंदू और जैन मंदिर थे। आम तौर पर उन्हें अकेला छोड़ दिया गया।</p>
+<p>बनारस के अधिकारियों को औरंगज़ेब ने आदेश दिया कि स्थानीय ब्राह्मणों और हिंदुओं को ग़ैरक़ानूनी ढंग से परेशान न किया जाए, ताकि वे अपनी परंपरागत जगह पर रह सकें और साम्राज्य की स्थिरता के लिए प्रार्थना कर सकें।</p>
+<p>एलोरा के मंदिरों को देखकर उन्होंने उनकी सुंदरता की तारीफ़ की। उन्हें दिव्य कलाकार के काम का चमत्कार कहा।</p>
+<p>लेकिन क्या औरंगज़ेब ने मंदिर तोड़े?</p>
+<p>हां।</p>
+<p>और यही जटिलता है।</p>
+<p>अपने लंबे शासन में उन्होंने लगभग एक दर्जन हिंदू और जैन मंदिरों को नुक़सान पहुंचाने या नष्ट करने का आदेश दिया।</p>
+<p>लेकिन ये आदेश आम तौर पर राजनीतिक संघर्षों से जुड़े थे। मंदिर सिर्फ़ पूजा की जगह नहीं थे। वे स्थानीय शक्ति, संपत्ति, मान-सम्मान और समुदाय की पहचान के केंद्र भी थे।</p>
+<p>1669 में बनारस का विश्वनाथ मंदिर नष्ट करने का आदेश स्थानीय ज़मींदारों के विद्रोह के बीच आया। 1670 में मथुरा का केशवदेव मंदिर जाट विद्रोहों के समय गिराया गया।</p>
+<p>यहां हमें एक और पुरानी भारतीय परंपरा याद रखनी चाहिए। राजनीतिक दुश्मनों पर वर्चस्व दिखाने के लिए धार्मिक प्रतीकों को निशाना बनाना सिर्फ़ मुग़लों की चीज़ नहीं थी। चालुक्य और पल्लव जैसे हिंदू राजवंश भी पहले यह कर चुके थे।</p>
+<p>लेकिन जब शाही हिंसा धार्मिक जगह पर गिरती है, तो भाषा भी धार्मिक हो जाती है।</p>
+<p>मुग़ल लेखन में “काफ़िर”, “जिहाद” और इस्लाम की जीत जैसी भाषा आती है। दूसरी तरफ़ राजपूत ग्रंथ भी धार्मिक क्रोध की भाषा बोलते हैं - क़ुरान जलाने, मस्जिद तोड़ने, वेद और पुराण बचाने की शपथ वाली भाषा।</p>
+<p>मतलब यह नहीं कि राजनीति ग़ायब हो गई। मतलब यह कि राजनीति ने धर्म की आग उधार ले ली।</p>
+<h3>जज़िया: एक विवादास्पद फ़ैसला</h3>
+<p>औरंगज़ेब का सबसे विवादास्पद निर्णयों में एक था - 1679 में जज़िया की वापसी।</p>
+<p>अकबर ने 1564 में इसे निलंबित कर दिया था। जज़िया ग़ैर-मुसलमानों पर लगने वाला भेदभावपूर्ण कर था। औरंगज़ेब ने इसे फिर लागू किया।</p>
+<p>क्यों?</p>
+<p>शायद साम्राज्य की वित्तीय मुश्किलें थीं। शायद उलेमाओं को संतुष्ट करना था। शायद दोनों।</p>
+<p>लेकिन विरोध भी हुआ।</p>
+<p>जहांआरा ने विरोध किया। राजपूत नेताओं ने विरोध किया। एक पत्र में जज़िया को भूखे लोगों पर और बोझ डालने वाला बताया गया। पत्र में कहा गया कि एक समय के गौरवशाली तैमूरी अब जैसे भिखारियों के कटोरे तक छीन रहे हैं।</p>
+<p>कर सिर्फ़ आर्थिक नीति नहीं होता।</p>
+<p>कर बताता है कि राज्य आपकी गरिमा को कैसे देखता है।</p>
+<h3>पंजाब की ओर</h3>
+<p>अब पंजाब की ओर चलते हैं।</p>
+<p>1672 में औरंगज़ेब ने सतनामियों के ख़िलाफ़ मुग़ल सेना का नेतृत्व किया। सतनामी एक निम्न-जाति का सशस्त्र आंदोलन था। उनमें धार्मिक उर्जा भी थी, सामाजिक विद्रोह भी।</p>
+<p>औरंगज़ेब ने उनके विरुद्ध सिर्फ़ सेना नहीं भेजी। उन्होंने बैनरों पर दुआएं और जादुई आकृतियां लिखवाईं। जादू के सामने जादू। तलवार के साथ तिलिस्म।</p>
+<p>इसी तरह सिखों के मामले में भी मुग़ल राज्य कठोर हुआ। औरंगज़ेब ख़ुद व्यक्तिगत रूप से हमले में शामिल नहीं थे, लेकिन 1675 में नौवें सिख गुरु, तेग़ बहादुर की हत्या को उनकी मंज़ूरी मिली।</p>
+<p>लेकिन यहां फिर वही बात।</p>
+<p>औरंगज़ेब ने सिर्फ़ हिंदू या सिख समूहों से कठोरता नहीं दिखाई। कुछ इस्लामी समुदायों पर भी अत्याचार हुआ।</p>
+<p>गुजरात में महदवियों का नरसंहार। बोहरों, यानी शिया इस्माइली समुदाय को बार-बार परेशान किया जाना।</p>
+<p>फिर भी, जब किसी ने मुग़ल सेवा से शियाओं पर रोक लगाने की मांग की, औरंगज़ेब ने मना किया।</p>
+<p>उनका जवाब असाधारण है।</p>
+<p>उन्होंने कहा - सांसारिक मामलों का धर्म से क्या संबंध? प्रशासनिक कामों में कट्टरता को दख़ल देने का अधिकार क्या है? तुम्हारे लिए तुम्हारा धर्म, मेरे लिए मेरा। अगर यह नियम मान लिया जाए, तो मुझे राजपूतों और उनके अनुयायियों को भी हटाना पड़ेगा। समझदार लोग सक्षम अधिकारियों को पद से हटाने का विरोध करते हैं।</p>
+<p>यहां औरंगज़ेब का दूसरा चेहरा दिखता है।</p>
+<p>व्यक्ति के रूप में धार्मिक। सम्राट के रूप में अवसरवादी। कभी कठोर। कभी व्यावहारिक। कभी न्याय की भाषा में। कभी सत्ता की भूख में।</p>
+<p>इतिहास ऐसे ही कठिन लोगों से भरा है।</p>
+<h3>शिवाजी का प्रवेश</h3>
+<p>और अब इस कहानी में प्रवेश करते हैं शिवाजी।</p>
+<p>मध्य भारत और पश्चिमी दक्कन में मराठा भोंसले परिवार 17वीं सदी के उत्तरार्ध में एक स्वतंत्र शक्ति की तरह उभर रहा था।</p>
+<p>भोंसले व्यापक रूप से शूद्र माने जाते थे।</p>
+<p>यह बात इसलिए महत्वपूर्ण है क्योंकि इसी दौर में कई शूद्र समूह इतिहास में ज़्यादा साफ़ दिखाई देने लगते हैं - आंध्र में रेड्डी, पंजाब और आसपास जाट, गुजरात में पटेल, मालाबार में नायर।</p>
+<p>शाहजी के बेटे शिवाजी 1630 में पैदा हुए।</p>
+<p>उनका जीवन सिर्फ़ मुग़लों या बीजापुर से लड़ाई की कहानी नहीं है। वह जाति और राजसत्ता की कहानी भी है।</p>
+<p>शिवाजी ने अपने पारिवारिक इतिहास से अलग एक नई शाही पहचान गढ़ी। उन्होंने ख़ुद को उत्तरी भारतीय राजपूत वंश का क्षत्रिय शासक घोषित किया।</p>
+<p>यह बहुत गहरी बात है।</p>
+<p>एक तरफ़ वह मुग़ल शक्ति को चुनौती दे रहे थे। दूसरी तरफ़ उन्हें शाही वैधता के लिए राजपूत-क्षत्रिय पहचान की ज़रूरत लग रही थी।</p>
+<p>मतलब राजपूत सत्ता का विचार इतना आकर्षक था कि मुग़लों से लड़ने वाला शासक भी उसी भाषा में अपनी वैधता खोजता है।</p>
+<h3>एक असाधारण रणनीतिकार</h3>
+<p>शिवाजी असाधारण रणनीतिकार थे।</p>
+<p>वे अपने समय के दूसरे शासकों की तरह सत्ता पाने के लिए हर उपलब्ध साधन का इस्तेमाल करते थे।</p>
+<p>1659 में अफ़ज़ल ख़ान से उनकी मुलाक़ात इसका सबसे नाटकीय उदाहरण है।</p>
+<p>कथित युद्धविराम था। दोनों मिलने आए। दोनों को एक-दूसरे पर भरोसा नहीं था। दोनों हथियार छिपाकर आए।</p>
+<p>शिवाजी ने अपनी मुट्ठी में लोहे का पंजा छिपाया था। मुलाक़ात के भीतर ही हमला हुआ। अफ़ज़ल ख़ान मारा गया।</p>
+<p>यह घटना मराठा स्मृति में साहस और चतुराई की तरह दर्ज हुई। दुश्मन की नज़र में धोखा। अपने लोगों की नज़र में बुद्धि और वीरता।</p>
+<p>इतिहास में घटना वही रहती है। अर्थ बदलता रहता है।</p>
+<p>शिवाजी के सैनिक फुर्तीले थे। पहाड़ियों, घाटियों और रास्तों को जानते थे। वे गुरिल्ला युद्ध में माहिर थे। भारी-भरकम मुग़ल सेना को बार-बार छकाते थे।</p>
+<p>मुग़ल साम्राज्य हाथी जैसा था। मराठा युद्धकला हवा जैसी।</p>
+<p>हाथी रास्ता तोड़ सकता है। हवा रास्ता खोज लेती है।</p>
+<h3>छत्रपति की ताजपोशी और जाति का सवाल</h3>
+<p>1674 में शिवाजी ने ख़ुद को छत्रपति घोषित करने का फ़ैसला किया।</p>
+<p>लेकिन अब तलवार से बड़ी समस्या सामने आई - जाति।</p>
+<p>राज्याभिषेक के लिए क्षत्रिय होना ज़रूरी था। लेकिन भोंसले उन 96 कुलीन मराठा परिवारों में नहीं गिने जाते थे जो राजपूत वंश का दावा करते थे।</p>
+<p>उन्हें “शेष मराठा” माना जाता था - यानी वे लोग जो द्विज दर्जे का दावा नहीं कर सकते।</p>
+<p>सरल भाषा में, शिवाजी को उनके समकालीन “ऊपर उठने वाला शूद्र” मानते थे।</p>
+<p>यहां राजनीति की सबसे नंगी सच्चाई दिखती है।</p>
+<p>आप क़िले जीत सकते हैं। आप सेनाएं हरा सकते हैं। आप कर वसूल सकते हैं। आप अपना झंडा फहरा सकते हैं।</p>
+<p>लेकिन समाज पूछता है - तुम्हारा जन्म कहां हुआ?</p>
+<p>शिवाजी ने इस प्रश्न को अनदेखा नहीं किया। उन्होंने उसका अनुष्ठानिक समाधान खोजा।</p>
+<p>बनारस से गागाभट्ट आए। ब्राह्मण विद्वान। उन्होंने शिवाजी के लिए जाति-पुनर्प्राप्ति समारोह तैयार किया।</p>
+<p>“जाति बदलना” संभव नहीं माना जाता था। इसलिए कहा गया कि शिवाजी की असली क्षत्रिय पहचान वापस लाई जा रही है।</p>
+<p>हफ़्तों तक अनुष्ठान चले। यज्ञोपवीत धारण कराया गया। शुद्धिकरण हुआ। वैदिक मंत्रों के साथ शिवाजी का अपनी पत्नियों से फिर विवाह कराया गया।</p>
+<p>और फिर राज्याभिषेक में शिवाजी अलंकृत सिंहासन पर चढ़े - बाघों और जंगली जानवरों की खालों से ढके सिंहासन पर।</p>
+<p>यह दृश्य सिर्फ़ राजा का दृश्य नहीं था।</p>
+<p>यह एक राजनीतिक निर्माण था। एक शूद्र कहे जाने वाले योद्धा को क्षत्रिय सम्राट में बदलने का शाही मंचन।</p>
+<p>गागाभट्ट को भारी दक्षिणा मिली - भोंसले ख़ज़ाने से एक लाख से ज़्यादा सोने के सिक्के और उपहार। ब्राह्मणों को सोना, चांदी, तांबा, घी, भोजन और गायें दी गईं।</p>
+<p>राज्याभिषेक महंगा था। इतना महंगा कि बाद में आसपास के इलाक़ों पर छापे पड़े। नए कर लगाए गए। सिंहासन-पट्टी, यानी राज्याभिषेक कर भी लगा।</p>
+<p>यहां हम देखते हैं कि वैधता भी राजस्व मांगती है।</p>
+<p>राजा बनने के लिए सिर्फ़ मुकुट नहीं चाहिए। उस मुकुट की क़ीमत भी जनता से वसूल होती है।</p>
+<h3>राज्याभिषेक के बाद</h3>
+<p>लेकिन शिवाजी का राज्याभिषेक भी अंतिम नहीं था।</p>
+<p>तांत्रिक ब्राह्मणों ने आपत्ति की। निश्चल पुरी नाम के तांत्रिक ब्राह्मण ने कहा कि यह अनुष्ठान पर्याप्त नहीं। फिर एक दूसरा अनुष्ठान हुआ - तांत्रिक मानदंडों के अनुसार।</p>
+<p>एक राजा। दो राज्याभिषेक। दो ब्राह्मणीय दावे। एक ही सत्ता पर अलग-अलग धार्मिक अधिकार।</p>
+<p>शिवाजी ने अपने अंतिम वर्षों में संस्कृत और जाति से जुड़े नव-शास्त्रीय विचारों को बढ़ावा दिया।</p>
+<p>उन्होंने राजव्यवहारकोश का संरक्षण किया - शाही संस्थाओं की शब्दावली। इसमें 1,500 इंडो-फ़ारसी प्रशासनिक शब्दों के संस्कृत समानार्थी दिए गए।</p>
+<p>ध्यान देने की बात है - संस्कृत रोज़मर्रा की शासन भाषा नहीं थी। फ़ारसी ही प्रशासन की प्रमुख भाषा थी। लेकिन शिवाजी क्षत्रिय शासन की एक नई और कठोर भाषा बनाना चाहते थे।</p>
+<p>यह सिर्फ़ शब्दों का अनुवाद नहीं था।</p>
+<p>यह सत्ता की आत्मा का अनुवाद था।</p>
+<p>फ़ारसी दरबार से संस्कृत वैधता की ओर जाने की कोशिश।</p>
+<p>एक नया राज्य अपने लिए पुरानी भाषा में जन्मपत्री लिखवा रहा था।</p>
+<h3>दक्षिण की नायक सत्ताएं</h3>
+<p>अब हम दक्षिण की ओर चलते हैं - कर्नाटक और तमिलनाडु के इलाक़ों में।</p>
+<p>यहां नायक राजाओं की कहानी है।</p>
+<p>16वीं सदी के मध्य से 18वीं सदी की शुरुआत तक अलग-अलग नायक वंशों ने शूद्र संप्रभुओं के रूप में राज किया।</p>
+<p>वे तेलुगु मूल के थे। पहले विजयनगर शासन के अधीन सैन्य प्रमुख थे। जैसे-जैसे विजयनगर की शक्ति कम हुई, नायकों ने अपने राजवंश बनाए।</p>
+<p>मदुरै। तंजावुर। जिंजी।</p>
+<p>इन तीन प्रमुख शाखाओं ने दक्षिण भारत के राजनीतिक और सांस्कृतिक जीवन को गहराई से बदला।</p>
+<p>शिवाजी और नायक राजाओं में फर्क़ बहुत दिलचस्प है।</p>
+<p>शिवाजी ने शूद्र माने जाने की समस्या का हल क्षत्रिय पहचान में खोजा। नायक राजाओं ने शूद्र पहचान को छिपाया नहीं। उन्होंने उसका उत्सव बनाया।</p>
+<p>तंजावुर के रघुनाथ नायक के लिए चेमकूर वेंकटकवि ने तेलुगु कविता लिखी।</p>
+<p>उन्होंने अपने संरक्षक को विष्णु के पैरों से पैदा हुआ बताया।</p>
+<p>यह उसी वैदिक कल्पना को उलट देना था जिसमें ब्राह्मण सिर से, क्षत्रिय भुजाओं से, वैश्य जांघों से और शूद्र पैरों से पैदा हुए माने जाते हैं।</p>
+<p>मूल कल्पना में पैरों का अर्थ नीचे होना था। सेवा करना था। हीन होना था।</p>
+<p>लेकिन चेमकूर ने कहा - अगर नायक विष्णु के पैरों से पैदा हुए हैं, तो वे गंगा के रिश्तेदार हैं। क्योंकि गंगा भी विष्णु के पैरों से जन्मी मानी जाती है।</p>
+<p>यह साहित्य की अद्भुत राजनीति है।</p>
+<p>जो प्रतीक आपको नीचे दिखाने के लिए बनाया गया था, उसी को उठाकर अपने सिर का मुकुट बना लेना।</p>
+<h3>मदुरै: त्योहारों में छिपी सत्ता</h3>
+<p>मदुरै के नायक राजाओं ने त्योहारों को भी राजसत्ता की भाषा में बदला।</p>
+<p>तिरुमलाई नायक के समय 2 अलग आयोजन थे।</p>
+<p>एक - विष्णु की वैकाई नदी की ओर वार्षिक यात्रा। दूसरा - मीनाक्षी और सुंदरेश्वर, यानी शिव, के विवाह का उत्सव।</p>
+<p>नायकों ने इन दोनों कथाओं को जोड़ा। नई व्याख्या बनी कि विष्णु मीनाक्षी के भाई हैं और उनकी शादी छूट जाती है।</p>
+<p>अब सबसे बड़ा उत्सव मीनाक्षी और शिव के विवाह पर केंद्रित हो गया। और नायक राजाओं ने ख़ुद को इस विवाह की राजनीतिक और धार्मिक दुनिया का हिस्सा बनाया।</p>
+<p>मीनाक्षी मंदिर परिसर 14 शहरी एकड़ में फैला था। उसका बहुत सा निर्माण नायक काल में हुआ।</p>
+<p>यहां धर्म, शहर और सत्ता एक-दूसरे में घुलते हैं।</p>
+<p>मंदिर सिर्फ़ पूजा की जगह नहीं रहता। वह शहर का धड़कता हुआ हृदय बन जाता है। वह राजसत्ता का मंच बन जाता है। वह जनता के लिए दृश्य बनता है कि राजा किस पौराणिक संसार से अपनी वैधता ले रहा है।</p>
+<p>निलकंठ दीक्षित ने मीनाक्षी की आंखों की प्रशंसा करते हुए लिखा कि पुरानी मछली थक गई है, जो वेदों को खोजती फिरती थी। अब प्रशंसा उन आंखों की है, जिन्हें सारे वेद देखते हैं।</p>
+<p>यह पंक्ति सिर्फ़ भक्ति नहीं है।</p>
+<p>यह स्थानीय देवी को बड़े पौराणिक ब्रह्मांड के केंद्र में ला देती है।</p>
+<p>एक क्षेत्रीय परंपरा कहती है - अब मुझे हाशिये पर मत रखो। मुझे देखो। मेरी आंखों में वेदों को देखो।</p>
+<h3>एक और भारत</h3>
+<p>इस तरह 17वीं सदी हमें एक और भारत दिखाती है।</p>
+<p>यह भारत सिर्फ़ बादशाहों का नहीं है। यह जाति से लड़ते, जाति को मोड़ते, जाति का इस्तेमाल करते, जाति से घायल होते लोगों का भारत है।</p>
+<p>प्रारंभिक आधुनिक काल में जाति-उत्पीड़ित समुदाय इतिहास में ज़्यादा साफ़ दिखाई देने लगते हैं।</p>
+<p>जाति का ढांचा बहुत पुराना था। वर्ण और जाति दोनों लंबे समय से समाज में मौजूद थे। ब्राह्मणीय धर्मशास्त्र ने इसे धर्म का पुण्य, स्थायी और अपरिवर्तनीय हिस्सा बताने की कोशिश की थी।</p>
+<p>लेकिन समाज कभी सिर्फ़ ग्रंथों से नहीं चलता।</p>
+<p>लोग बदलते हैं। समुदाय उठते हैं। भक्ति आंदोलनों से सवाल उठते हैं। शूद्र समूह शक्तिशाली होते हैं। अनुष्ठान के दरवाज़े खटखटाए जाते हैं।</p>
+<p>14वीं से 17वीं सदी के बीच दर्जनों धर्मशास्त्र ग्रंथ शूद्रों को हिंदू अनुष्ठानिक जीवन में शामिल करने के तरीक़ों पर केंद्रित हुए।</p>
+<p>यह दया से नहीं हुआ। यह सामाजिक दबाव से हुआ।</p>
+<p>जब नीचे कहलाने वाले लोग ऊपर उठते हैं, तो ऊपर वालों को अपने नियम फिर से लिखने पड़ते हैं।</p>
+<p>कभी नियम ढीले होते हैं। कभी नई दीवारें बनती हैं। कभी नया अनुष्ठान गढ़ा जाता है। कभी पुराने मिथक का नया अर्थ निकाला जाता है।</p>
+<h3>दलित आवाज़ें और साहित्य</h3>
+<p>दलित समुदाय भी इस दौर में साहित्य में दिखते हैं - हालांकि उनकी आवाज़ पूरी तरह स्वतंत्र रूप में बहुत कम मिलती है।</p>
+<p>लगभग 1700 के आसपास शाहजी के नाम से एक छोटा तेलुगु नाटक मिलता है - “माई ली जाओ”।</p>
+<p>इसमें एक ब्राह्मण है, जो एक दलित स्त्री के प्रति कामना रखता है। वह स्त्री मतंगी है। वह कहती है - हम अछूत हैं। हमें छूने से तुम अशुद्ध हो जाते हो। हम मादिगा हैं। चमड़े का काम करते हैं। हमारी झोपड़ियां गांव के पूर्व में हैं। सब हमारा अपमान करते हैं। तुम ब्राह्मण हो। हमसे बात मत करो।</p>
+<p>यह सिर्फ़ संवाद नहीं है। यह समाज की दूरी का नक़्शा है।</p>
+<p>गांव के भीतर भी एक पूर्व दिशा है, जहां कुछ लोग रहते हैं। वे गांव का हिस्सा हैं, फिर भी गांव से बाहर हैं। उनका श्रम ज़रूरी है, उनका स्पर्श अपवित्र कहा जाता है।</p>
+<p>ब्राह्मण पात्र इस दूरी को उलटने की कोशिश करता है - लेकिन चालाकी से। वह उसके शब्दों को अपने काम के पक्ष में मोड़ता है।</p>
+<p>वह कहता है - अगर तुम्हें छूना नहीं चाहिए, तो तुम आग की तरह शुद्ध हो। अगर तुम जाति से परे हो, तो तुम सबसे ऊंची होनी चाहिए। अगर तुम खालों से काम करती हो, तो क्या तुम शिव से अलग हो?</p>
+<p>यहां संस्कृत, शास्त्र, धर्म - सब कामना की सेवा में लगाए जाते हैं।</p>
+<p>नाटक ब्राह्मण पाखंड पर तीखी टिप्पणी करता है।</p>
+<p>एक जगह ब्राह्मण मानता है कि हम ब्राह्मणों ने ही नियम बनाए हैं, धर्म का आविष्कार किया है, और ब्राह्मण की ज़रूरत पूरी करने से बड़ा कोई धर्म नहीं।</p>
+<p>यह व्यंग्य है। कठोर। असुविधाजनक। बेचैन कर देने वाला।</p>
+<p>लेकिन दलित स्त्री की अपनी इच्छा?</p>
+<p>वह लगभग ग़ायब है।</p>
+<p>उसका पति फ़ैसला करता है कि वह ब्राह्मण के साथ सोए। वह ख़ुद क्या चाहती है, कोई नहीं पूछता।</p>
+<p>अंत में वह शिव से कहती है - जिस स्त्री ने अपना सम्मान खो दिया, वह मरी हुई से भी बुरी है। मुझे बचाओ, मुझे तकलीफ़ है।</p>
+<p>यहां जाति और लिंग एक साथ दिखाई देते हैं।</p>
+<p>वह सिर्फ़ दलित नहीं है। वह स्त्री भी है। और इसलिए उसका शरीर दूसरों के निर्णयों का मैदान बन जाता है।</p>
+<p>इतिहास में कई बार जिनकी आवाज़ सबसे कम सुनाई देती है, उनके जीवन पर सबसे ज़्यादा फ़ैसले लिए जाते हैं।</p>
+<h3>जाति की सीमाएं धर्म से परे</h3>
+<p>जाति सिर्फ़ हिंदू समाज तक सीमित नहीं रही।</p>
+<p>17वीं सदी और उसके आसपास के भारत में ग़ैर-हिंदू समुदाय भी जाति के ढांचे से प्रभावित थे।</p>
+<p>1595 में एक हिंदी कवि नरोत्तम ने लिखा कि पृथ्वी के मुसलमानों की भी कई जातियां हैं।</p>
+<p>पुर्तगाली गोवा में ईसाई समूह 18वीं सदी की शुरुआत तक जाति पदानुक्रम में एक-दूसरे से प्रतिस्पर्धा करते थे।</p>
+<p>केरल और महाराष्ट्र के भारतीय यहूदी समुदाय भी जाति से संगठित थे।</p>
+<p>यहां जाति एक भारत-व्यापी ऐतिहासिक घटना की तरह उभरती है।</p>
+<p>धर्म बदल सकता है। समुद्र पार से मिशनरी आ सकते हैं। फ़ारसी दरबार हो सकता है। क़ुरान, पुराण, बाइबिल - सब साथ मौजूद हो सकते हैं।</p>
+<p>लेकिन सामाजिक आदतें कई बार धर्म से भी ज़्यादा जिद्दी होती हैं।</p>
+<p>जाति ऐसी ही जिद्दी संरचना थी।</p>
+<p>वह मंदिर में थी। दरबार में थी। गांव में थी। कविता में थी। विवाह में थी। रसोई में थी। देह में थी। स्पर्श में थी।</p>
+<p>और इतिहास का बड़ा काम यही है - वह हमें बताता है कि सत्ता सिर्फ़ राजा के पास नहीं होती। सत्ता ब्राह्मण के शब्द में भी होती है। राज्याभिषेक की रस्म में भी। मंदिर के दरवाज़े में भी। कर में भी। और इस बात में भी कि किसका स्पर्श पवित्र है, किसका अपवित्र।</p>
+<h3>औरंगज़ेब की ओर लौटते हुए</h3>
+<p>अब लौटते हैं औरंगज़ेब की ओर।</p>
+<p>उनकी उम्र बढ़ रही थी। दक्कन की लड़ाइयां लंबी होती जा रही थीं। साम्राज्य का फैलाव थकान में बदल रहा था।</p>
+<p>1707 में औरंगज़ेब की मृत्यु हुई। उम्र 88 साल।</p>
+<p>मृत्यु की ख़बर फिर दौड़ाकों और घुड़सवारों से निकली। जैसे कभी शाहजहां की बीमारी की ख़बर निकली थी।</p>
+<p>साम्राज्य के कोनों में संदेश पहुंचा - बादशाह मर गया।</p>
+<p>पहले सब कुछ जैसे पुराना ही लगा।</p>
+<p>फिर वही मुग़ल नियम। जीवित बेटों में उत्तराधिकार युद्ध। मुअज़्ज़म जीता। अपने 2 भाइयों को युद्ध में मारकर बहादुर शाह बना।</p>
+<p>लेकिन अब समय बदल चुका था।</p>
+<p>बहादुर शाह जाटों, सिखों और दूसरे विद्रोहों को पूरी तरह शांत नहीं कर सका। उसके बाद मुग़ल सम्राटों की एक बवंडर जैसी कड़ी चली - कुछ ने कुछ महीनों ही राज किया।</p>
+<p>औरंगज़ेब ने जीवन भर राजनीतिक शक्ति को केंद्र में बांधने की कोशिश की।</p>
+<p>लेकिन मृत्यु में उनकी विरासत बिखराव बनी।</p>
+<p>यह इतिहास का तीसरा बड़ा भ्रम है।</p>
+<p>कोई आदमी सोचता है कि वह साम्राज्य को अपने हाथ में पकड़ रहा है। लेकिन कभी-कभी वही हाथ साम्राज्य को इतना कस देता है कि वह उंगलियों के बीच से रेत की तरह फिसलने लगता है।</p>
+<h3>सीख और निष्कर्ष</h3>
+<p>17वीं सदी का भारत हमें क्या सिखाता है?</p>
+<p>यह सिखाता है कि साम्राज्य सिर्फ़ नक़्शे पर नहीं बनते। वे डाक-राहों, करों, क़िलों, विश्वासघातों, अनुष्ठानों, भूख और स्मृतियों में बनते हैं।</p>
+<p>औरंगज़ेब का साम्राज्य विशाल था - मगर उसकी विशालता में असुरक्षा थी।</p>
+<p>शिवाजी का राज्य नया था - मगर उसकी नयी शक्ति को पुरानी जाति से प्रमाणपत्र चाहिए था।</p>
+<p>नायक राजा शूद्र थे - मगर उन्होंने शूद्र शब्द से शर्म नहीं, वैधता गढ़ी।</p>
+<p>दलित स्त्री नाटक में आई - मगर अपनी इच्छा के बिना।</p>
+<p>जज़िया कर लौटा - और भूख से पीड़ित लोगों पर राज्य की कठोरता उतर आई।</p>
+<p>मंदिर कभी सुरक्षित रहे, कभी राजनीतिक दंड में टूटे।</p>
+<p>संगीत दरबार से निकला - और छोटे दरबारों में फैल गया।</p>
+<p>त्योहार बदले - और शहर की आत्मा बदल गई।</p>
+<p>भाषा बदली - फ़ारसी शब्दों के संस्कृत रूप खोजे गए।</p>
+<p>और इस सबके बीच ख़बरें दौड़ती रहीं।</p>
+<p>दौड़ाक अपने पैरों से साम्राज्य को जोड़ते रहे। काग़ज़ पर लिखे वाक्य दूर-दूर तक जाते रहे। किसी क़िले में किसी ने दरवाज़ा खोला। किसी दरबार में किसी ने ख़ुत्बा पढ़ने से मना किया। किसी ब्राह्मण ने किसी राजा को क्षत्रिय बनाया। किसी कवि ने शूद्र को विष्णु के पैरों से जन्मा बताकर गंगा का रिश्तेदार बना दिया। किसी दलित स्त्री ने कहा - मुझसे बात मत करो, मैं अछूत हूं। और किसी बूढ़े बादशाह की मौत की ख़बर ने एक पूरे युग का दरवाज़ा बंद कर दिया।</p>
+<p>लेकिन इतिहास में कोई दरवाज़ा सचमुच बंद नहीं होता।</p>
+<p>औरंगज़ेब की मृत्यु के बाद जो शुरू हुआ, वह सिर्फ़ मुग़ल पतन नहीं था। वह लंबी 18वीं सदी का सूर्योदय था।</p>
+<p>एक ऐसा समय, जब क्षेत्रीय शक्तियां उठेंगी। मराठे फैलेंगे। सिख शक्ति बढ़ेगी। जाट, नवाब, सूबेदार, व्यापारी और यूरोपीय कंपनियां नई राजनीति रचेंगी।</p>
+<p>भारत की कहानी अब एक केंद्र से नहीं चलेगी। कई केंद्र होंगे। कई भाषाएं होंगी। कई दावे होंगे। कई टूटनें होंगी।</p>
+<p>और शायद यही भारत की सबसे बड़ी ऐतिहासिक सच्चाई है।</p>
+<p>यह देश एक आवाज़ से नहीं बना। यह असंख्य आवाज़ों की टकराहट, संगति, चुप्पी और पुकार से बना है।</p>
+<p>और 17वीं सदी के इस अंधेरे, चमकदार, बेचैन समय में हम देखते हैं -</p>
+<p>साम्राज्य अपने चरम पर है। राजत्व अपनी जाति खोज रहा है। शूद्र राजा अपनी गरिमा लिख रहे हैं। दलित स्त्री अपनी तकलीफ़ में बोल रही है। और इतिहास अपने अगले मोड़ की तैयारी कर रहा है।</p>
+<p>यह भारत की कहानी है।</p>
+<p>और यह कहानी अभी ख़त्म नहीं हुई।</p>
+    </div>
+  </details>
+</article>
+
+  <div class="chapter-pagenav">
+    <a class="lang-block lb-inline" data-lang="en" href="episode-14.html">&larr; The 17th Century: Faith, Wealth, Court and the Taj Mahal</a>
+    <a class="lang-block lb-inline" data-lang="hi" href="episode-14.html">&larr; 17वीं सदी: धर्म, धन, दरबार और ताजमहल</a>
+    <a class="lang-block lb-inline" data-lang="en" href="scripts.html">Read other episodes</a>
+    <a class="lang-block lb-inline" data-lang="hi" href="scripts.html">बाक़ी एपिसोड्स पढ़ें</a>
+    <a class="lang-block lb-inline" data-lang="en" href="episode-16.html">Regional Rise: New Powers Amid a Crumbling Empire (1720-1780) &rarr;</a>
+    <a class="lang-block lb-inline" data-lang="hi" href="episode-16.html">क्षेत्रीय उत्कर्ष: बिखरते साम्राज्य के बीच नयी सत्ताएं (1720-1780) &rarr;</a>
+  </div>
+
+
+
+
+  <div class="scripts-cta">
+    <p class="lang-block lb-block" data-lang="en" style="color:var(--ink-soft);margin-bottom:20px;">More chapters are on their way as new episodes release.</p>
+    <p class="lang-block lb-block" data-lang="hi" style="color:var(--ink-soft);margin-bottom:20px;">नए एपिसोड आने के साथ और अध्याय यहां जुड़ते रहेंगे।</p>
+    <a class="btn lang-block lb-flex" data-lang="en" href="index.html">← Back to home</a>
+    <a class="btn lang-block lb-flex" data-lang="hi" href="index.html">← होम पर वापस जाएं</a>
+  </div>
+</main>
+
+<footer>
+  <div class="lang-block lb-block" data-lang="en">Equal Tales Storyline · <a href="https://www.youtube.com/@ETStoryline" target="_blank" rel="noopener">@ETStoryline</a> · <a href="youtube.html">Videos</a></div>
+  <div class="lang-block lb-block" data-lang="hi">इक्वल टेल्स स्टोरीलाइन · <a href="https://www.youtube.com/@ETStoryline" target="_blank" rel="noopener">@ETStoryline</a> · <a href="youtube.html">वीडियो</a></div>
+</footer>
+
+<script>
+  function setLang(lang){
+    document.body.classList.remove('lang-en','lang-hi');
+    document.body.classList.add('lang-' + lang);
+    document.documentElement.setAttribute('lang', lang);
+    try{ localStorage.setItem('etsLang', lang); }catch(e){}
+    document.querySelectorAll('.lang-switch button').forEach(function(b){
+      b.setAttribute('aria-pressed', b.dataset.lang === lang ? 'true' : 'false');
+    });
+  }
+  document.querySelectorAll('.lang-switch button').forEach(function(b){
+    b.addEventListener('click', function(){ setLang(b.dataset.lang); });
+  });
+  (function init(){
+    var saved = null;
+    try{ saved = localStorage.getItem('etsLang'); }catch(e){}
+    setLang(saved === 'en' ? 'en' : 'hi');
+  })();
+</script>
+
+</body>
+</html>

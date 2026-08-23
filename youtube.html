@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>YouTube | Equal Tales Storyline</title>
+<meta name="description" content="Watch Equal Tales Storyline on YouTube (@ETStoryline) - Bharat Ki Kahani, chapter by chapter, in video.">
+<link rel="icon" type="image/png" href="favicon.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700;900&family=Inter:wght@400;500;600;700&family=Mukta:wght@400;500;600;700&family=Baloo+2:wght@500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --cloud:#F4F7F9;
+    --mist:#E6ECF2;
+    --powder:#D0E1FD;
+    --gold:#C5A059;
+    --gold-dark:#96754A;
+    --ink:#2C3E50;
+    --ink-soft:#5B6B7C;
+    --glass:rgba(255,255,255,.55);
+    --glass-strong:rgba(255,255,255,.72);
+    --glass-border:rgba(255,255,255,.65);
+  }
+  *{box-sizing:border-box;margin:0;padding:0;}
+  html{scroll-behavior:smooth;}
+  body{
+    background:linear-gradient(165deg, var(--cloud) 0%, var(--powder) 55%, var(--mist) 100%);
+    color:var(--ink);font-family:'Inter',sans-serif;line-height:1.75;min-height:100vh;
+  }
+  body.lang-hi{font-family:'Mukta',sans-serif;}
+  h1,h2,h3{font-family:'Playfair Display',serif;font-weight:700;color:var(--ink);}
+  body.lang-hi h1, body.lang-hi h2, body.lang-hi h3{font-family:'Baloo 2',serif;font-weight:700;}
+  a{color:inherit;}
+  img{max-width:100%;display:block;}
+  .wrap{max-width:1120px;margin:0 auto;padding:0 24px;}
+
+  .lang-block{display:none !important;}
+  body.lang-en .lang-block[data-lang="en"].lb-block{display:block !important;}
+  body.lang-hi .lang-block[data-lang="hi"].lb-block{display:block !important;}
+  body.lang-en .lang-block[data-lang="en"].lb-flex{display:flex !important;}
+  body.lang-hi .lang-block[data-lang="hi"].lb-flex{display:flex !important;}
+  body.lang-en .lang-block[data-lang="en"].lb-inline{display:inline !important;}
+  body.lang-hi .lang-block[data-lang="hi"].lb-inline{display:inline !important;}
+  body.lang-en .lang-block[data-lang="en"].lb-grid{display:grid !important;}
+  body.lang-hi .lang-block[data-lang="hi"].lb-grid{display:grid !important;}
+
+  nav{
+    position:sticky;top:0;z-index:50;
+    background:var(--glass);backdrop-filter:blur(16px) saturate(1.2);-webkit-backdrop-filter:blur(16px) saturate(1.2);
+    border-bottom:1px solid var(--glass-border);
+  }
+  nav .wrap{display:flex;align-items:center;justify-content:space-between;padding:14px 24px;gap:16px;}
+  .brand{display:flex;align-items:center;gap:10px;text-decoration:none;}
+  .brand-logo{height:46px;width:auto;flex-shrink:0;border-radius:12px;}
+  .lang-switch{display:flex;border:1.5px solid var(--gold);border-radius:999px;overflow:hidden;background:rgba(255,255,255,.5);}
+  .lang-switch button{border:0;background:transparent;padding:7px 16px;font-weight:700;font-size:.82rem;cursor:pointer;color:var(--gold-dark);}
+  .lang-switch button[aria-pressed="true"]{background:var(--gold);color:#fff;}
+  .nav-links{display:flex;gap:22px;list-style:none;}
+  .nav-links a{font-size:.88rem;font-weight:600;text-decoration:none;}
+  @media(max-width:700px){.nav-links{display:none;}}
+
+  main{padding:70px 24px 100px;}
+  .eyebrow{text-transform:uppercase;letter-spacing:.14em;font-size:.75rem;font-weight:600;color:var(--gold-dark);margin-bottom:14px;}
+  body.lang-hi .eyebrow{text-transform:none;letter-spacing:0;}
+
+  .yt-hero{max-width:760px;margin:0 auto 48px;text-align:center;}
+  .yt-hero h1{font-size:clamp(1.7rem,4vw,2.5rem);margin-bottom:16px;}
+  .yt-hero p{color:var(--ink-soft);font-size:1.05rem;}
+  .yt-subscribe{
+    display:inline-flex;align-items:center;gap:8px;margin-top:22px;
+    background:#FF0000;color:#fff !important;padding:11px 24px;border-radius:999px;
+    font-weight:700;font-size:.9rem;text-decoration:none;
+  }
+  .yt-subscribe:hover{opacity:.9;}
+
+  /* VIDEO GALLERY GRID -------------------------------------------------
+     3 columns on desktop, 2 on tablet, 1 on mobile. Each .yt-card holds
+     one responsive 16:9 embed. See the template comment near the end of
+     the grid for how to add a new video. */
+  .yt-grid{
+    display:grid;grid-template-columns:repeat(3,1fr);gap:28px;
+    max-width:1120px;margin:0 auto;
+  }
+  @media(max-width:920px){.yt-grid{grid-template-columns:repeat(2,1fr);}}
+  @media(max-width:600px){.yt-grid{grid-template-columns:1fr;}}
+
+  .yt-card{
+    background:var(--glass-strong);backdrop-filter:blur(18px) saturate(1.1);-webkit-backdrop-filter:blur(18px) saturate(1.1);
+    border:1px solid var(--glass-border);border-radius:20px;overflow:hidden;
+    box-shadow:0 16px 40px rgba(44,62,80,.08);
+    display:flex;flex-direction:column;
+  }
+  /* Responsive 16:9 aspect-ratio box for the iframe */
+  .yt-embed{position:relative;width:100%;padding-top:56.25%;background:#000;}
+  .yt-embed iframe{position:absolute;inset:0;width:100%;height:100%;border:0;}
+
+  .yt-card-body{padding:16px 18px 20px;}
+  .yt-card-num{font-size:.72rem;font-weight:700;color:var(--gold-dark);text-transform:uppercase;letter-spacing:.06em;margin-bottom:6px;}
+  body.lang-hi .yt-card-num{text-transform:none;letter-spacing:0;}
+  .yt-card-title{font-size:.98rem;line-height:1.4;margin-bottom:10px;}
+  .yt-card-link{font-size:.82rem;font-weight:700;color:var(--gold-dark);text-decoration:none;}
+  .yt-card-link:hover{text-decoration:underline;}
+
+  footer{padding:40px 0;text-align:center;color:var(--ink-soft);font-size:.85rem;}
+  footer a{color:var(--gold-dark);font-weight:700;text-decoration:none;}
+</style>
+</head>
+<body class="lang-hi">
+
+<nav>
+  <div class="wrap">
+    <a class="brand" href="index.html">
+      <img src="logo.png" alt="Equal Tales Storyline" class="brand-logo">
+    </a>
+    <ul class="nav-links lang-block lb-flex" data-lang="en">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="scripts.html">Scripts</a></li>
+    </ul>
+    <ul class="nav-links lang-block lb-flex" data-lang="hi">
+      <li><a href="index.html">होम</a></li>
+      <li><a href="scripts.html">स्क्रिप्ट्स</a></li>
+    </ul>
+    <div class="lang-switch" role="group" aria-label="Language / भाषा">
+      <button type="button" data-lang="en" aria-pressed="false">EN</button>
+      <button type="button" data-lang="hi" aria-pressed="true">हिं</button>
+    </div>
+  </div>
+</nav>
+
+<main>
+  <div class="yt-hero">
+    <div class="eyebrow lang-block lb-block" data-lang="en">Bharat Ki Kahani, chapter by chapter</div>
+    <div class="eyebrow lang-block lb-block" data-lang="hi">भारत की कहानी, अध्याय दर अध्याय</div>
+    <h1 class="lang-block lb-block" data-lang="en">Watch on YouTube</h1>
+    <h1 class="lang-block lb-block" data-lang="hi">यूट्यूब पर देखें</h1>
+    <p class="lang-block lb-block" data-lang="en">Every chapter of Bharat Ki Kahani, as a film - straight from the Equal Tales Storyline channel. Subscribe to catch new episodes as they release.</p>
+    <p class="lang-block lb-block" data-lang="hi">भारत की कहानी का हर अध्याय, फ़िल्म के रूप में - सीधे इक्वल टेल्स स्टोरीलाइन चैनल से। नए एपिसोड के लिए सब्सक्राइब करें।</p>
+    <a class="yt-subscribe lang-block lb-flex" data-lang="en" href="https://www.youtube.com/@ETStoryline" target="_blank" rel="noopener">&#9658; Subscribe on YouTube</a>
+    <a class="yt-subscribe lang-block lb-flex" data-lang="hi" href="https://www.youtube.com/@ETStoryline" target="_blank" rel="noopener">&#9658; यूट्यूब पर सब्सक्राइब करें</a>
+  </div>
+
+  <div class="yt-grid">
+      <div class="yt-card">
+        <div class="yt-embed">
+          <iframe src="https://www.youtube.com/embed/nkkQZwBdanE" title="1947-1990: The Country Was Made. But Who Was the Citizen?" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
+        <div class="yt-card-body">
+          <div class="yt-card-num">Chapter 23</div>
+          <h3 class="yt-card-title lang-block lb-block" data-lang="en">1947-1990: The Country Was Made. But Who Was the Citizen?</h3>
+          <h3 class="yt-card-title lang-block lb-block" data-lang="hi">1947-1990: देश बन गया, नागरिक कौन?</h3>
+          <a class="yt-card-link lang-block lb-inline" data-lang="en" href="episode-23.html">Read this chapter &rarr;</a>
+          <a class="yt-card-link lang-block lb-inline" data-lang="hi" href="episode-23.html">यह अध्याय पढ़ें &rarr;</a>
+        </div>
+      </div>
+      <div class="yt-card">
+        <div class="yt-embed">
+          <iframe src="https://www.youtube.com/embed/AJz9KcEweA0" title="1947: One Country, Two Borders, and a Million Uprooted Lives" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
+        <div class="yt-card-body">
+          <div class="yt-card-num">Chapter 22</div>
+          <h3 class="yt-card-title lang-block lb-block" data-lang="en">1947: One Country, Two Borders, and a Million Uprooted Lives</h3>
+          <h3 class="yt-card-title lang-block lb-block" data-lang="hi">1947: एक देश, दो सरहदें और लाखों बेघर लोग</h3>
+          <a class="yt-card-link lang-block lb-inline" data-lang="en" href="episode-22.html">Read this chapter &rarr;</a>
+          <a class="yt-card-link lang-block lb-inline" data-lang="hi" href="episode-22.html">यह अध्याय पढ़ें &rarr;</a>
+        </div>
+      </div>
+      <div class="yt-card">
+        <div class="yt-embed">
+          <iframe src="https://www.youtube.com/embed/hdBZwl1MaTw" title="Whose Freedom? The Fight for Nation, Religion and Equality" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
+        <div class="yt-card-body">
+          <div class="yt-card-num">Chapter 21</div>
+          <h3 class="yt-card-title lang-block lb-block" data-lang="en">Whose Freedom? The Fight for Nation, Religion and Equality</h3>
+          <h3 class="yt-card-title lang-block lb-block" data-lang="hi">आज़ादी किसकी? राष्ट्र, धर्म और बराबरी की लड़ाई</h3>
+          <a class="yt-card-link lang-block lb-inline" data-lang="en" href="episode-21.html">Read this chapter &rarr;</a>
+          <a class="yt-card-link lang-block lb-inline" data-lang="hi" href="episode-21.html">यह अध्याय पढ़ें &rarr;</a>
+        </div>
+      </div>
+      <div class="yt-card">
+        <div class="yt-embed">
+          <iframe src="https://www.youtube.com/embed/zZpPC1e32Ww" title="Indians on the Move: 1880 to 1920" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
+        <div class="yt-card-body">
+          <div class="yt-card-num">Chapter 20</div>
+          <h3 class="yt-card-title lang-block lb-block" data-lang="en">Indians on the Move: 1880 to 1920</h3>
+          <h3 class="yt-card-title lang-block lb-block" data-lang="hi">चलते-फिरते भारतीय: 1880 से 1920 तक</h3>
+          <a class="yt-card-link lang-block lb-inline" data-lang="en" href="episode-20.html">Read this chapter &rarr;</a>
+          <a class="yt-card-link lang-block lb-inline" data-lang="hi" href="episode-20.html">यह अध्याय पढ़ें &rarr;</a>
+        </div>
+      </div>
+      <div class="yt-card">
+        <div class="yt-embed">
+          <iframe src="https://www.youtube.com/embed/z8g29csr3LQ" title="Knowing India and Indians: 1860 to 1900" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
+        <div class="yt-card-body">
+          <div class="yt-card-num">Chapter 19</div>
+          <h3 class="yt-card-title lang-block lb-block" data-lang="en">Knowing India and Indians: 1860 to 1900</h3>
+          <h3 class="yt-card-title lang-block lb-block" data-lang="hi">भारत और भारतीयों को जानना: 1860 से 1900 तक</h3>
+          <a class="yt-card-link lang-block lb-inline" data-lang="en" href="episode-19.html">Read this chapter &rarr;</a>
+          <a class="yt-card-link lang-block lb-inline" data-lang="hi" href="episode-19.html">यह अध्याय पढ़ें &rarr;</a>
+        </div>
+      </div>
+      <div class="yt-card">
+        <div class="yt-embed">
+          <iframe src="https://www.youtube.com/embed/K-ekfGaJd1U" title="1857: The Sepoy Revolt and the Rise of the British Raj" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
+        <div class="yt-card-body">
+          <div class="yt-card-num">Chapter 18</div>
+          <h3 class="yt-card-title lang-block lb-block" data-lang="en">1857: The Sepoy Revolt and the Rise of the British Raj</h3>
+          <h3 class="yt-card-title lang-block lb-block" data-lang="hi">1857: सिपाही विद्रोह और ब्रिटिश राज का उदय</h3>
+          <a class="yt-card-link lang-block lb-inline" data-lang="en" href="episode-18.html">Read this chapter &rarr;</a>
+          <a class="yt-card-link lang-block lb-inline" data-lang="hi" href="episode-18.html">यह अध्याय पढ़ें &rarr;</a>
+        </div>
+      </div>
+      <div class="yt-card">
+        <div class="yt-embed">
+          <iframe src="https://www.youtube.com/embed/ak0thnLRhUc" title="Company Bahadur: From Trade to Empire" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
+        <div class="yt-card-body">
+          <div class="yt-card-num">Chapter 17</div>
+          <h3 class="yt-card-title lang-block lb-block" data-lang="en">Company Bahadur: From Trade to Empire</h3>
+          <h3 class="yt-card-title lang-block lb-block" data-lang="hi">कंपनी बहादुर: व्यापार से साम्राज्य तक</h3>
+          <a class="yt-card-link lang-block lb-inline" data-lang="en" href="episode-17.html">Read this chapter &rarr;</a>
+          <a class="yt-card-link lang-block lb-inline" data-lang="hi" href="episode-17.html">यह अध्याय पढ़ें &rarr;</a>
+        </div>
+      </div>
+      <div class="yt-card">
+        <div class="yt-embed">
+          <iframe src="https://www.youtube.com/embed/4y93cQNndWU" title="Regional Rise: New Powers Amid a Crumbling Empire (1720-1780)" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
+        <div class="yt-card-body">
+          <div class="yt-card-num">Chapter 16</div>
+          <h3 class="yt-card-title lang-block lb-block" data-lang="en">Regional Rise: New Powers Amid a Crumbling Empire (1720-1780)</h3>
+          <h3 class="yt-card-title lang-block lb-block" data-lang="hi">क्षेत्रीय उत्कर्ष: बिखरते साम्राज्य के बीच नयी सत्ताएं (1720-1780)</h3>
+          <a class="yt-card-link lang-block lb-inline" data-lang="en" href="episode-16.html">Read this chapter &rarr;</a>
+          <a class="yt-card-link lang-block lb-inline" data-lang="hi" href="episode-16.html">यह अध्याय पढ़ें &rarr;</a>
+        </div>
+      </div>
+      <div class="yt-card">
+        <div class="yt-embed">
+          <iframe src="https://www.youtube.com/embed/JtUYvWdJrXs" title="Aurangzeb and Shivaji: Power, Caste and Two Shudra Dynasties" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
+        <div class="yt-card-body">
+          <div class="yt-card-num">Chapter 15</div>
+          <h3 class="yt-card-title lang-block lb-block" data-lang="en">Aurangzeb and Shivaji: Power, Caste and Two Shudra Dynasties</h3>
+          <h3 class="yt-card-title lang-block lb-block" data-lang="hi">औरंगज़ेब और शिवाजी: सत्ता, जाति और दो शूद्र वंश</h3>
+          <a class="yt-card-link lang-block lb-inline" data-lang="en" href="episode-15.html">Read this chapter &rarr;</a>
+          <a class="yt-card-link lang-block lb-inline" data-lang="hi" href="episode-15.html">यह अध्याय पढ़ें &rarr;</a>
+        </div>
+      </div>
+      <div class="yt-card">
+        <div class="yt-embed">
+          <iframe src="https://www.youtube.com/embed/jYxEba8RZqw" title="The 17th Century: Faith, Wealth, Court and the Taj Mahal" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
+        <div class="yt-card-body">
+          <div class="yt-card-num">Chapter 14</div>
+          <h3 class="yt-card-title lang-block lb-block" data-lang="en">The 17th Century: Faith, Wealth, Court and the Taj Mahal</h3>
+          <h3 class="yt-card-title lang-block lb-block" data-lang="hi">17वीं सदी: धर्म, धन, दरबार और ताजमहल</h3>
+          <a class="yt-card-link lang-block lb-inline" data-lang="en" href="episode-14.html">Read this chapter &rarr;</a>
+          <a class="yt-card-link lang-block lb-inline" data-lang="hi" href="episode-14.html">यह अध्याय पढ़ें &rarr;</a>
+        </div>
+      </div>
+      <div class="yt-card">
+        <div class="yt-embed">
+          <iframe src="https://www.youtube.com/embed/-5MfZLbnlmA" title="Akbar: The Emperor Born Under the Stars" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
+        <div class="yt-card-body">
+          <div class="yt-card-num">Chapter 13</div>
+          <h3 class="yt-card-title lang-block lb-block" data-lang="en">Akbar: The Emperor Born Under the Stars</h3>
+          <h3 class="yt-card-title lang-block lb-block" data-lang="hi">अकबर: तारों के नीचे जन्मा बादशाह</h3>
+          <a class="yt-card-link lang-block lb-inline" data-lang="en" href="episode-13.html">Read this chapter &rarr;</a>
+          <a class="yt-card-link lang-block lb-inline" data-lang="hi" href="episode-13.html">यह अध्याय पढ़ें &rarr;</a>
+        </div>
+      </div>
+      <div class="yt-card">
+        <div class="yt-embed">
+          <iframe src="https://www.youtube.com/embed/PxFrdHa41CM" title="India in 1500: Bhakti, Babur and the Portuguese Paradox" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
+        <div class="yt-card-body">
+          <div class="yt-card-num">Chapter 12</div>
+          <h3 class="yt-card-title lang-block lb-block" data-lang="en">India in 1500: Bhakti, Babur and the Portuguese Paradox</h3>
+          <h3 class="yt-card-title lang-block lb-block" data-lang="hi">1500 का भारत: भक्ति, बाबर और पुर्तगाली विरोधाभास</h3>
+          <a class="yt-card-link lang-block lb-inline" data-lang="en" href="episode-12.html">Read this chapter &rarr;</a>
+          <a class="yt-card-link lang-block lb-inline" data-lang="hi" href="episode-12.html">यह अध्याय पढ़ें &rarr;</a>
+        </div>
+      </div>
+      <div class="yt-card">
+        <div class="yt-embed">
+          <iframe src="https://www.youtube.com/embed/FWsYyCqK2f8" title="The Long Fifteenth Century: Betel Leaf, Court and a Shared World" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
+        <div class="yt-card-body">
+          <div class="yt-card-num">Chapter 11</div>
+          <h3 class="yt-card-title lang-block lb-block" data-lang="en">The Long Fifteenth Century: Betel Leaf, Court and a Shared World</h3>
+          <h3 class="yt-card-title lang-block lb-block" data-lang="hi">लंबी पंद्रहवीं शताब्दी: पान, दरबार और मिली-जुली दुनिया</h3>
+          <a class="yt-card-link lang-block lb-inline" data-lang="en" href="episode-11.html">Read this chapter &rarr;</a>
+          <a class="yt-card-link lang-block lb-inline" data-lang="hi" href="episode-11.html">यह अध्याय पढ़ें &rarr;</a>
+        </div>
+      </div>
+
+      <!-- ============================================================
+           TEMPLATE: copy this block to add a new video to the gallery.
+           1. Replace YOUTUBE_VIDEO_ID (two places) with the new video's
+              YouTube ID - the part after "v=" or after "youtu.be/" in
+              its URL, e.g. https://youtu.be/dQw4w9WgXcQ -> dQw4w9WgXcQ.
+           2. Replace EPISODE_TITLE_EN / EPISODE_TITLE_HI with the
+              episode's bilingual title.
+           3. Replace CHAPTER_NUMBER with the chapter number, and
+              episode-N.html with the matching script page (or delete
+              the two "Read this chapter" links if there's no script
+              page for this video yet).
+           4. Paste the block right after this comment, above the
+              closing tag of .yt-grid, to keep newest-first order.
+
+      <div class="yt-card">
+        <div class="yt-embed">
+          <iframe src="https://www.youtube.com/embed/YOUTUBE_VIDEO_ID" title="EPISODE_TITLE_EN" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
+        <div class="yt-card-body">
+          <div class="yt-card-num">Chapter CHAPTER_NUMBER</div>
+          <h3 class="yt-card-title lang-block lb-block" data-lang="en">EPISODE_TITLE_EN</h3>
+          <h3 class="yt-card-title lang-block lb-block" data-lang="hi">EPISODE_TITLE_HI</h3>
+          <a class="yt-card-link lang-block lb-inline" data-lang="en" href="episode-N.html">Read this chapter &rarr;</a>
+          <a class="yt-card-link lang-block lb-inline" data-lang="hi" href="episode-N.html">यह अध्याय पढ़ें &rarr;</a>
+        </div>
+      </div>
+
+      ============================================================ -->
+  </div>
+</main>
+
+<footer>
+  <div class="lang-block lb-block" data-lang="en">Equal Tales Storyline · <a href="https://www.youtube.com/@ETStoryline" target="_blank" rel="noopener">@ETStoryline</a></div>
+  <div class="lang-block lb-block" data-lang="hi">इक्वल टेल्स स्टोरीलाइन · <a href="https://www.youtube.com/@ETStoryline" target="_blank" rel="noopener">@ETStoryline</a></div>
+</footer>
+
+<script>
+  function setLang(lang){
+    document.body.classList.remove('lang-en','lang-hi');
+    document.body.classList.add('lang-' + lang);
+    document.documentElement.setAttribute('lang', lang);
+    try{ localStorage.setItem('etsLang', lang); }catch(e){}
+    document.querySelectorAll('.lang-switch button').forEach(function(b){
+      b.setAttribute('aria-pressed', b.dataset.lang === lang ? 'true' : 'false');
+    });
+  }
+  document.querySelectorAll('.lang-switch button').forEach(function(b){
+    b.addEventListener('click', function(){ setLang(b.dataset.lang); });
+  });
+  (function init(){
+    var saved = null;
+    try{ saved = localStorage.getItem('etsLang'); }catch(e){}
+    setLang(saved === 'en' ? 'en' : 'hi');
+  })();
+</script>
+
+</body>
+</html>

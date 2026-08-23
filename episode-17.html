@@ -1,0 +1,647 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Company Bahadur: From Trade to Empire | कंपनी बहादुर: व्यापार से साम्राज्य तक | Equal Tales Storyline</title>
+<meta name="description" content="Read Bharat Ki Kahani's episode scripts as full chapters - from the Indus Valley to the dawn of the 20th century.">
+<link rel="icon" type="image/png" href="favicon.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700;900&family=Inter:wght@400;500;600;700&family=Mukta:wght@400;500;600;700&family=Baloo+2:wght@500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --cloud:#F4F7F9;
+    --mist:#E6ECF2;
+    --powder:#D0E1FD;
+    --gold:#C5A059;
+    --gold-dark:#96754A;
+    --ink:#2C3E50;
+    --ink-soft:#5B6B7C;
+    --glass:rgba(255,255,255,.55);
+    --glass-strong:rgba(255,255,255,.72);
+    --glass-border:rgba(255,255,255,.65);
+  }
+  *{box-sizing:border-box;margin:0;padding:0;}
+  html{scroll-behavior:smooth;}
+  body{
+    background:linear-gradient(165deg, var(--cloud) 0%, var(--powder) 55%, var(--mist) 100%);
+    color:var(--ink);font-family:'Inter',sans-serif;line-height:1.75;min-height:100vh;
+  }
+  body.lang-hi{font-family:'Mukta',sans-serif;}
+  h1,h2,h3{font-family:'Playfair Display',serif;font-weight:700;color:var(--ink);}
+  body.lang-hi h1, body.lang-hi h2, body.lang-hi h3{font-family:'Baloo 2',serif;font-weight:700;}
+  a{color:inherit;}
+  img{max-width:100%;display:block;}
+  .wrap{max-width:1120px;margin:0 auto;padding:0 24px;}
+
+  .lang-block{display:none !important;}
+  body.lang-en .lang-block[data-lang="en"].lb-block{display:block !important;}
+  body.lang-hi .lang-block[data-lang="hi"].lb-block{display:block !important;}
+  body.lang-en .lang-block[data-lang="en"].lb-flex{display:flex !important;}
+  body.lang-hi .lang-block[data-lang="hi"].lb-flex{display:flex !important;}
+  body.lang-en .lang-block[data-lang="en"].lb-inline{display:inline !important;}
+  body.lang-hi .lang-block[data-lang="hi"].lb-inline{display:inline !important;}
+  body.lang-en .lang-block[data-lang="en"].lb-grid{display:grid !important;}
+  body.lang-hi .lang-block[data-lang="hi"].lb-grid{display:grid !important;}
+
+  nav{
+    position:sticky;top:0;z-index:50;
+    background:var(--glass);backdrop-filter:blur(16px) saturate(1.2);-webkit-backdrop-filter:blur(16px) saturate(1.2);
+    border-bottom:1px solid var(--glass-border);
+  }
+  nav .wrap{display:flex;align-items:center;justify-content:space-between;padding:14px 24px;gap:16px;}
+  .brand{display:flex;align-items:center;gap:10px;text-decoration:none;}
+  .brand-logo{height:46px;width:auto;flex-shrink:0;border-radius:12px;}
+  .lang-switch{display:flex;border:1.5px solid var(--gold);border-radius:999px;overflow:hidden;background:rgba(255,255,255,.5);}
+  .lang-switch button{border:0;background:transparent;padding:7px 16px;font-weight:700;font-size:.82rem;cursor:pointer;color:var(--gold-dark);}
+  .lang-switch button[aria-pressed="true"]{background:var(--gold);color:#fff;}
+  .nav-links{display:flex;gap:22px;list-style:none;}
+  .nav-links a{font-size:.88rem;font-weight:600;text-decoration:none;}
+  @media(max-width:700px){.nav-links{display:none;}}
+
+  main{padding:70px 24px 100px;}
+  .eyebrow{text-transform:uppercase;letter-spacing:.14em;font-size:.75rem;font-weight:600;color:var(--gold-dark);margin-bottom:14px;}
+  body.lang-hi .eyebrow{text-transform:none;letter-spacing:0;}
+
+  .scripts-hero{max-width:760px;margin:0 auto 48px;text-align:center;}
+  .scripts-hero h1{font-size:clamp(1.7rem,4vw,2.5rem);margin-bottom:16px;}
+  .scripts-hero p{color:var(--ink-soft);font-size:1.05rem;}
+
+  .chapter-index{grid-template-columns:repeat(4,1fr);gap:16px;margin:0 auto 64px;max-width:1000px;}
+  .chapter-index a{
+    display:block;background:var(--glass);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);
+    border:1px solid var(--glass-border);border-radius:16px;padding:18px 16px;
+    text-decoration:none;text-align:center;transition:transform .15s ease,box-shadow .15s ease;
+  }
+  .chapter-index a:hover{transform:translateY(-3px);box-shadow:0 10px 26px rgba(44,62,80,.1);}
+  .idx-num{font-size:.72rem;font-weight:700;color:var(--gold-dark);text-transform:uppercase;letter-spacing:.06em;margin-bottom:6px;}
+  body.lang-hi .idx-num{text-transform:none;letter-spacing:0;}
+  .idx-title{font-size:.9rem;font-weight:600;color:var(--ink);line-height:1.4;}
+  @media(max-width:900px){.chapter-index{grid-template-columns:repeat(2,1fr);}}
+  @media(max-width:560px){.chapter-index{grid-template-columns:1fr;}}
+
+  article.chapter{
+    max-width:800px;margin:0 auto 56px;
+    background:var(--glass-strong);backdrop-filter:blur(18px) saturate(1.1);-webkit-backdrop-filter:blur(18px) saturate(1.1);
+    border:1px solid var(--glass-border);border-radius:24px;padding:44px 40px;
+    box-shadow:0 20px 50px rgba(44,62,80,.08);scroll-margin-top:90px;
+  }
+  .chapter-head{text-align:center;margin-bottom:26px;}
+  .chapter-num{font-size:.78rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--gold-dark);margin-bottom:8px;}
+  body.lang-hi .chapter-num{text-transform:none;letter-spacing:0;font-family:'Mukta',sans-serif;}
+  .chapter-head h2{font-size:clamp(1.3rem,3vw,1.7rem);margin-bottom:12px;}
+  .chapter-dek{color:var(--ink-soft);font-size:1rem;max-width:560px;margin:0 auto 10px;}
+  .chapter-meta{font-size:.8rem;color:var(--gold-dark);font-weight:600;}
+  .chapter-highlights{margin:0 0 24px;display:grid;gap:14px;}
+  .chapter-highlights blockquote{
+    font-family:'Playfair Display',serif;font-style:italic;font-size:1.05rem;line-height:1.6;
+    color:var(--ink);background:rgba(197,160,89,.1);border-left:3px solid var(--gold);
+    padding:16px 20px;border-radius:0 12px 12px 0;
+  }
+  body.lang-hi .chapter-highlights blockquote{font-family:'Baloo 2',serif;font-style:normal;}
+  details.chapter-body{text-align:center;}
+  details.chapter-body summary{
+    cursor:pointer;list-style:none;display:inline-flex;align-items:center;gap:8px;
+    font-weight:700;color:#fff;background:var(--gold);padding:11px 22px;border-radius:999px;
+    font-size:.9rem;box-shadow:0 8px 20px rgba(197,160,89,.3);
+  }
+  details.chapter-body summary::-webkit-details-marker{display:none;}
+  details.chapter-body summary::after{content:'▾';font-size:.8rem;}
+  details.chapter-body[open] summary::after{content:'▴';}
+  details.chapter-body[open] summary{margin-bottom:28px;}
+  .chapter-text{text-align:left;}
+  .chapter-text h3{font-size:1.08rem;color:var(--gold-dark);margin:26px 0 10px;}
+  .chapter-text h3:first-child{margin-top:0;}
+  .chapter-text p{margin-bottom:14px;font-size:1rem;color:var(--ink);}
+  .chapter-lang-note{
+    display:inline-block;margin-bottom:18px;font-size:.78rem;color:var(--gold-dark);
+    background:rgba(197,160,89,.12);padding:5px 14px;border-radius:999px;font-weight:600;
+  }
+  @media(max-width:600px){article.chapter{padding:30px 22px;}}
+
+  .scripts-cta{max-width:640px;margin:0 auto;text-align:center;}
+  .btn{
+    display:inline-flex;align-items:center;gap:8px;padding:12px 26px;border-radius:999px;
+    font-weight:700;text-decoration:none;font-size:.95rem;background:var(--gold);color:#fff;
+    box-shadow:0 10px 24px rgba(197,160,89,.35);
+  }
+
+  footer{padding:40px 0;text-align:center;color:var(--ink-soft);font-size:.85rem;}
+  footer a{color:var(--gold-dark);font-weight:700;text-decoration:none;}
+
+  .chapter-breadcrumb{max-width:840px;margin:28px auto 0;}
+  .chapter-breadcrumb a{font-weight:700;font-size:.85rem;color:var(--gold-dark);text-decoration:none;}
+  .chapter-breadcrumb a:hover{text-decoration:underline;}
+  .chapter-pagenav{max-width:840px;margin:36px auto 0;display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;}
+  .chapter-pagenav a{font-weight:700;font-size:.9rem;padding:10px 16px;border:1.5px solid var(--gold);border-radius:999px;text-decoration:none;color:var(--gold-dark);}
+  .chapter-pagenav a:hover{background:var(--gold);color:#fff;}
+  .chapter-watch-yt{margin:14px 0 4px;}
+  .chapter-watch-yt a{display:inline-flex;align-items:center;gap:8px;background:#FF0000;color:#fff !important;padding:9px 18px;border-radius:999px;font-weight:700;font-size:.85rem;text-decoration:none;}
+  .chapter-watch-yt a:hover{opacity:.9;}
+
+</style>
+</head>
+<body class="lang-hi">
+
+<nav>
+  <div class="wrap">
+    <a class="brand" href="index.html">
+      <img src="logo.png" alt="Equal Tales Storyline" class="brand-logo">
+    </a>
+    <ul class="nav-links lang-block lb-flex" data-lang="en">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="youtube.html">YouTube</a></li>
+    </ul>
+    <ul class="nav-links lang-block lb-flex" data-lang="hi">
+      <li><a href="index.html">होम</a></li>
+      <li><a href="youtube.html">यूट्यूब</a></li>
+    </ul>
+    <div class="lang-switch" role="group" aria-label="Language / भाषा">
+      <button type="button" data-lang="en" aria-pressed="false">EN</button>
+      <button type="button" data-lang="hi" aria-pressed="true">हिं</button>
+    </div>
+  </div>
+</nav>
+
+<main>
+  
+
+
+
+  <div class="chapter-breadcrumb">
+    <a class="lang-block lb-inline" data-lang="en" href="scripts.html">&larr; All chapters</a>
+    <a class="lang-block lb-inline" data-lang="hi" href="scripts.html">&larr; सभी अध्याय</a>
+  </div>
+<article class="chapter" id="chapter-17">
+  <div class="chapter-head">
+    <div class="chapter-num lang-block lb-inline" data-lang="en">Chapter 17</div>
+    <div class="chapter-num lang-block lb-inline" data-lang="hi">अध्याय 17</div>
+    <h2 class="lang-block lb-block" data-lang="en">Company Bahadur: From Trade to Empire</h2>
+    <h2 class="lang-block lb-block" data-lang="hi">कंपनी बहादुर: व्यापार से साम्राज्य तक</h2>
+    <p class="chapter-dek lang-block lb-block" data-lang="en">A trading company that arrived for profit, and stayed to rule an empire.</p>
+    <p class="chapter-dek lang-block lb-block" data-lang="hi">मुनाफ़े के लिए आई एक व्यापारिक कंपनी, जो आख़िर में एक साम्राज्य चलाने लगी।</p>
+    <div class="chapter-watch-yt"><a class="lang-block lb-inline" data-lang="en" href="https://youtu.be/ak0thnLRhUc" target="_blank" rel="noopener">Watch this episode on YouTube</a><a class="lang-block lb-inline" data-lang="hi" href="https://youtu.be/ak0thnLRhUc" target="_blank" rel="noopener">यह एपिसोड यूट्यूब पर देखें</a></div>
+    <div class="chapter-meta">
+      <span class="lang-block lb-inline" data-lang="en">19 min read</span>
+      <span class="lang-block lb-inline" data-lang="hi">20 मिनट का पाठ</span>
+    </div>
+  </div>
+  <div class="chapter-highlights">
+    <blockquote>“कंपनी व्यापार से शुरू हुई थी।”</blockquote>
+    <blockquote>“यहीं से आधुनिक भारत की एक कठिन यात्रा शुरू होती है।”</blockquote>
+  </div>
+  <details class="chapter-body" open>
+    <summary>
+      <span class="lang-block lb-inline" data-lang="en">Read the full chapter</span>
+      <span class="lang-block lb-inline" data-lang="hi">पूरा अध्याय पढ़ें</span>
+    </summary>
+    <div class="chapter-text lang-block lb-block" data-lang="en">
+<h3>The Morning of January 1, 1809</h3>
+<p>January 1, 1809.</p>
+<p>Bhagalpur, settled on the banks of the Ganga in Bihar. Picture a cold afternoon. There is dust on the road. A palanquin is coming from somewhere. Its door is nearly shut, so the dust does not reach the man sitting within.</p>
+<p>Sitting in that palanquin is Rammohan Roy.</p>
+<p>A man within whom many worlds live together. Born in the 1770s into a Brahmin family. The family had long served the Mughals. Education in Sanskrit too. In Persian too. In Arabic too. And employment - in the British East India Company.</p>
+<p>That is, within a single life, the old Mughal court, the world of scriptures, Islamic language-culture, and the new rule of the British Company - all had come to sit together.</p>
+<p>That day, Rammohan Roy's palanquin passed before a British Collector. He did not salute the Collector. Perhaps he did not even see him. The palanquin's door was shut. To keep out the dust.</p>
+<p>But a local Company officer did not notice that the palanquin was shut. All he saw was that an Indian had not saluted him.</p>
+<p>And he flared up.</p>
+<p>He hurled abuses. Language which Rammohan Roy later, in an English letter to the Governor-General, called 'very indecent' and 'insolent'. He filed a complaint. He demanded redress for the injury done to his character.</p>
+<p>And, strangely, he received justice. The Collector received a light punishment.</p>
+<p>This small scene is not merely a story of insult. It is the door into that new India, in which everything was tangled together.</p>
+<p>The Indian elite wanted Company employment. British officers looked down upon Indians. Indians also sought justice within that very British system. And the relationship of power was not straightforward - it was a tangled web of insult, employment, complaint, law, language, and expectation.</p>
+<p>This very web was named - Company rule.</p>
+<p>British colonialism had two great phases. The first - Company rule, from 1757 to 1858. The second - the British Raj, from 1858 to 1947.</p>
+<p>Today's story is of the first phase. Up to roughly 1835. By that time, this trading company had risen from modest coastal outposts and slowly begun swallowing many of India's small independent kingdoms.</p>
+<p>But at the start, it was not so large.</p>
+<p>It had come by sea. It sat at the ports. It made deals. And it waited.</p>
+<p>The British came late among the European colonial powers in South Asia. Before them, Portuguese rule had already come to Goa. The Dutch had already come to Sri Lanka. The French were present in Pondicherry.</p>
+<p>The British East India Company was established in 1600. England's Queen Elizabeth I gave a group of English merchants a charter for trade in Asia. This was the very time of Akbar's reign in India.</p>
+<h3>On Paper, Only Trade</h3>
+<p>On paper, this was trade. But from the start, one more thing was tied to trade - the right to govern its own employees.</p>
+<p>And power often arrives just like this. First it only asks for order. Then it asks for security. Then it demands law. Then it keeps an army. Then it takes revenue. Then it says - now governance too is mine.</p>
+<p>In the early eighteenth century, the Company was confined to a few Indian ports. Three cities later became the centres of its presidencies - Madras, Bombay, and Calcutta.</p>
+<p>Madras was founded in 1639. Bombay came out of Portuguese control in the 1660s. Calcutta was settled in the 1680s.</p>
+<p>These cities were not merely marks on a map. They were laboratories of a new India.</p>
+<p>All three cities grew alongside Company rule. People came to them from villages and small towns. Someone wanted a job. Someone wanted trade. Someone wanted protection. Someone wanted fortune.</p>
+<p>By 1800, roughly a quarter of a million people lived in Calcutta. Between 150,000 and 200,000 in Madras and Bombay.</p>
+<p>There were new voices in the lanes of these cities - Bengali babus, Parsi merchants, Madrasi labourers, European officers, Indian soldiers, munshis, interpreters, banias, artisans, collectors, pens, registers, seals.</p>
+<p>The Company's empire was built by the sword, but not by the sword alone. It was built by the port. Built by debt. Built by intrigue. Built by the army. Built by revenue. And built by Indian cooperation too.</p>
+<p>The great turning point of the story came in Bengal.</p>
+<p>Bengal, at that time, was a prosperous province. Fertile land, trade, rivers, ports, cloth, wealth. The Company understood that, to hold power in India, buying goods alone was not enough. It needed revenue. That is, wealth rising from the field. The share drawn from the farmer's produce. The income arriving from the soil.</p>
+<p>The first step was removing the Nawab of Bengal, Sirajuddaula.</p>
+<p>This was not merely an English-versus-Indian war. Local merchants had a role in it. There were great financial houses like the Jagat Seths. There were discontented generals like Mir Jafar. Sirajuddaula did not seem favourable to them for their business interests. Mir Jafar wanted power. The Company wanted opportunity.</p>
+<p>June 1757. Roughly 150 kilometres north of Calcutta. A place - Plassey.</p>
+<p>History books call this the Battle of Plassey. But within it, betrayal was no less than war.</p>
+<p>Robert Clive had roughly 3,000 men. Two-thirds of these were Indian soldiers - sepoys. Sirajuddaula had an army of roughly 50,000. In numbers, the Nawab was far superior. But wars are not won by numbers alone.</p>
+<p>Mir Jafar stood apart with his soldiers. Rain came. The Nawab's gunpowder got wet. His army scattered. And Clive's sepoy-dominated army won.</p>
+<p>Plassey was not merely the defeat of Bengal. It became the symbol of the beginning of Company rule in India.</p>
+<h3>1764: The Beginning of Real Power</h3>
+<p>But the Company's power gained real strength in 1764.</p>
+<p>Buxar. A bloodier conflict. The Company's army included Europeans, and sepoys too. Facing them was the combined power of the Nawabs of Bengal and Awadh, and Mughal soldiers too.</p>
+<p>A quarter of the Company's soldiers were killed or gravely wounded. But the Company won.</p>
+<p>The next year, the Mughals signed a treaty. The Company received the right of revenue collection in Bengal - the Diwani.</p>
+<p>This word is small - Diwani. But this word turned trade into governance.</p>
+<p>Now the Company was not merely buying goods. Now it was taking income from the fields. Now it could control salt. Now it could build a monopoly over opium. Now it could bind together farmer, merchant, zamindar, court, and army - all in one ledger.</p>
+<p>The meaning of colonial rule was exactly this - the exploitation of the colony and the profit of the metropole.</p>
+<p>A salt monopoly was established in Bihar and Bengal in 1772. An opium monopoly in 1773. Large quantities of opium were sent to China. Between the 1770s and 1813, the Company enforced trade monopolies across India.</p>
+<p>At that time, one Indian, watching the British presence in Bengal, said - from this country, lakh upon lakh has been drawn out.</p>
+<p>This sentence was not written in the language of ledgers. This is the voice of dry soil. This is the voice of wealth rising from the field. This is the voice of that wealth which left the village, left the city, reached the port, boarded the ship, and then never returned to that same farmer's courtyard.</p>
+<p>And then came famine.</p>
+<p>In 1768 and 1769, the monsoon in Bengal was scant. After this, from 1769 to 1770, famine and a smallpox epidemic shattered life.</p>
+<p>The Company did nothing to reduce human suffering. Modern historians estimate that 15 to 20 percent of Bengal's population died in this famine.</p>
+<p>This number is not merely a number. Behind every percentage are villages. Empty homes. Half-ripened crops. Vessels fallen upon the soil. And people of whom no record remains.</p>
+<p>Before this, Bengal had faced bad harvests. A crisis had come in 1737 and 1738 too. Then, Mughal and local rulers bought grain, gave loans, allowed delayed revenue payment. That is, the state did not consider hunger merely a shortfall of revenue. It also understood it as a human crisis.</p>
+<p>But the Company did not do this. Attempts to collect revenue even from starving farmers continued.</p>
+<p>It is here that the face of Company rule becomes clear. There is law. There is the Collector. There is the register. But before hunger, there is no humanity.</p>
+<p>This story is not only of the British. Indians are present everywhere in it too.</p>
+<h3>A Hundred Years of Colonial Reckoning</h3>
+<p>Over more than a hundred years of Company rule, Indians remained part of this colonial enterprise in many roles. Soldiers. Informants. Revenue collectors. Slaves. Merchants. Munshis. Interpreters. Collaborators. Opponents.</p>
+<p>The response of various regional rulers and communities differed - sometimes resistance, sometimes compromise, sometimes waiting, sometimes reversal.</p>
+<p>One of the Company's most famous opponents was Tipu Sultan.</p>
+<p>Mysore. South India. Tipu Sultan's rule lasted from 1782 to 1799. His father, Hyder Ali, had carried out a successful coup against the Wodeyar dynasty in 1761.</p>
+<p>It would be unjust to history to confine Tipu Sultan to a single religious identity. His rule sat within Indian political traditions. Ties with Sufi lineages. Financial support to Hindu temples. And, alongside this, firm resistance to British influence.</p>
+<p>His name meant - Tiger. And this tiger was not merely in the name. It was within his political imagination too.</p>
+<p>In 1797, he recorded a dream in his dream-diary. A dream of the early morning hours. Raghunath Rao, a Maratha agent, comes before him and says - the English have suffered a heavy defeat in Europe and are now on the verge of leaving Bengal. Tipu answers - this is good news. I too will send soldiers and money. If it be God's will, the Christians will be driven out of India.</p>
+<p>It was a dream, but that dream shows the hidden map within Tipu's politics. He did not consider the Company merely a trading institution. He considered it a power that had to be driven out of India.</p>
+<p>In 1799, Company soldiers killed Tipu Sultan. Mysore was conquered.</p>
+<p>In the Mysore palace, the British found a strange war trophy - a life-sized tiger, mauling a British soldier. Inside it was an organ. When played, the soldier's arms move in agony, and he groans.</p>
+<p>This was Tipu's Tiger.</p>
+<p>Made to display Tipu's power. The British took it to England. Today it still sits in London's Victoria and Albert Museum.</p>
+<p>That object is a sign of a strange reversal. The tiger that, in Mysore, mocked British power, became, in Britain, a sign of British conquest. In history, objects too become prisoners. Their meaning too is exiled.</p>
+<p>Now let us return toward the Company's army.</p>
+<p>Indian soldiers were called sepoys, from the Persian word 'sipahi'. And the vast majority of the Company's armies consisted of Indian sepoys.</p>
+<p>This matters a great deal.</p>
+<p>Among the 'British' casualties often spoken of in India, a large number were often, in fact, Indian sepoys. In nearly every major Company battle, Indian sepoys outnumbered the British.</p>
+<p>So the question arises - why did Indians fight for the Company?</p>
+<h3>The Question of Livelihood</h3>
+<p>One answer is livelihood. The Company paid on time. It made reliable payments. It gave a means to support a family.</p>
+<p>For some people it became a family profession. Some communities came to be seen, and constructed, as martial communities - like the Nepali Gorkhas and Punjabi Sikhs. Some young men also had enthusiasm, as seen in the life of Dean Mahomet.</p>
+<p>But not wages alone. The Company also adopted a policy of accommodating soldiers' religious, cultural, and regional preferences.</p>
+<p>Caste-based preferences were often accepted in arrangements for food and lodging. This made possible large participation by Brahmins and Rajputs. One scholar said there was a deliberate attempt to build a kind of upper-caste Hindu sanctuary within the army.</p>
+<p>Look at this scene.</p>
+<p>On one side is the Company's modern army - gun, discipline, wages, uniform. On the other, within that very army, is caste's kitchen, separate utensils, separate cooking spaces, concern for purity. Colonial modernity and the caste system moving side by side.</p>
+<p>Company rule did not arrive by wiping out the old world entirely. It used many old things. It gave many a new name. It made many harsher still.</p>
+<p>There were sepoys on the battlefield. Munshis in the cities. Revenue collectors in the villages. And, on the roads, runners, spies, informants.</p>
+<p>Indian runners and spies gave the Company's men politically useful information. These networks rested on old Mughal connections, merchant contacts, and families.</p>
+<p>An empire does not run on cannon alone. An empire also runs on news. Who at which court is displeased. Which general can be bought. By which route supplies will come. Which zamindar has not paid tax. Which city will break, and when. In which language a decree must be written. Which pandit to ask about law. Which maulvi for a fatwa.</p>
+<p>To conquer India, the Company had to read India. And from this was born - Orientalist knowledge.</p>
+<p>During Company rule, British officials and intellectuals prepared knowledge about India by consulting Indians. This knowledge did not remain only in libraries. It shaped the life of colonial India.</p>
+<p>Among the British there were differing views on Indian education and language.</p>
+<p>On one side were people like Robert Clive, who did not even attempt to learn any Asian language. On the other were Warren Hastings, who spoke Persian and Urdu. William Jones, who worked with Indian pandits to translate Sanskrit and Persian texts.</p>
+<p>But within this world of knowledge, admiration and arrogance lived side by side.</p>
+<p>The most notorious example is Thomas Macaulay's 1835 'Minute on Education'. Macaulay said he had no knowledge of Sanskrit or Arabic. And yet he claimed that a single shelf of a good European library was worth the whole native literature of India and Arabia.</p>
+<h3>Not Merely an Opinion</h3>
+<p>This was not merely an opinion. This was the language of power.</p>
+<p>It was saying - I can decide your worth without even properly knowing you.</p>
+<p>But the Orientalist world before Macaulay was something else too. At the end of the eighteenth century, British Orientalists became enchanted with Brahmanical Sanskrit literature. They prepared an English translation of the Bhagavad Gita in 1785. The Hitopadesha in 1787. Kalidasa's Shakuntala in 1789. Jayadeva's Gitagovinda in 1792.</p>
+<p>These translations built a new Indian past in Europe. A classical collection of Sanskrit texts was prepared. But this past too was a curated past.</p>
+<p>Translators like William Jones adapted texts according to their own cultural norms. The more erotic parts of Shakuntala and the Gitagovinda were removed. That is, India was presented before Europe - but sifted through the sieve of European propriety.</p>
+<p>Jones's Shakuntala went on to be translated into more than a dozen European languages.</p>
+<p>Imagine it - an Indian play, going from Sanskrit into English, then spreading into many languages of Europe. But changing a little with every journey. Something surviving. Something cut. Something gaining new meaning.</p>
+<p>Knowledge is never neutral. Especially when power is writing it.</p>
+<p>The British investment in Sanskrit Brahmanical texts came into law too. And here its effect ran very deep.</p>
+<p>Nathaniel Halhed, with Warren Hastings's support and working with 11 Bengali Brahmin pandits, prepared, in 1776, the 'Code of Gentoo Laws'.</p>
+<p>This book built a Brahmanical law that was kept strictly separate from Islamic law. It was separate from Mughal judicial contexts. The British began keeping Hindu and Muslim laws in separate compartments.</p>
+<p>This had far-reaching consequences. This division spread into every field of legal life in colonial India.</p>
+<p>They arranged India's past in similar compartments.</p>
+<p>Up to roughly 1200 CE - Hindu rule. Then until the 1750s - Muslim rule. Then - British rule.</p>
+<p>History was placed into three boxes. As if the complexity of millennia could be filed away in some clerk's cupboard.</p>
+<p>Indo-Muslim rulers were repeatedly maligned. Why? So that British rule would look better by comparison.</p>
+<p>This was the very historical view that deepened the Hindu-Muslim divide as the dominant feature of Indian society. From the start of the nineteenth century, Orientalist knowledge became a help in shaping this divide.</p>
+<p>The same happened in the field of language.</p>
+<p>Both the British and missionaries had an interest in Indian vernacular languages. But their interest also changed these languages.</p>
+<p>North of Calcutta was Serampore - a Danish colony, where missionaries could work with greater freedom. Between 1800 and 1830, the Serampore Press published more than 210,000 volumes in 40 languages.</p>
+<h3>The New World of Printing</h3>
+<p>The world of printing was opening up. Languages were descending onto paper. Sounds were being locked into letters. And languages that had been spoken, sung, and recited for centuries were now turning into printed books.</p>
+<p>But with printing also came classification.</p>
+<p>John Gilchrist is credited with the idea that later transformed the linguistic politics of north India - the idea of dividing Hindi and Urdu into separate languages on the basis of script. Devanagari for Hindi. Perso-Arabic script for Urdu.</p>
+<p>A language that, in everyday life, remained intermingled, began being placed into separate boxes in offices and curricula.</p>
+<p>The Company's knowledge was not built from libraries alone. It was built from journeys too.</p>
+<p>Colin Mackenzie travelled through parts of South India. He relied on Indian assistants for translation, ethnographic notes, and practical arrangements - such as the Kavali brothers.</p>
+<p>In Rajasthan, James Tod learned about Rajput history. He later published, in three volumes, the 'Annals and Antiquities of Rajasthan'. He was assisted by an artist named Ghasi and a Jain yati named Gyanchandra.</p>
+<p>That is, British knowledge was not British alone. Behind it were Indian pandits. Munshis. Artists. Yatis. Interpreters. Local memories. Genealogies. Old documents.</p>
+<p>And yet the name on the book was often the Englishman's alone. The empire of knowledge, too, works like power. One person appears to write, but behind him are countless invisible hands.</p>
+<p>In 1785, William Jones, in his second annual address to the Asiatic Society of Bengal, noted similarities between Sanskrit, Greek, and Latin. He was not the first to see this relationship within India. Before him, Arzu had recognized this. But Jones popularized this knowledge. Later, linguistic study drew inspiration from it.</p>
+<p>In the 1810s, a clear theory of Dravidian languages emerged.</p>
+<p>These discoveries remain, even today, part of the foundation of our collective understanding of South Asian history. That is, colonial knowledge was not merely oppressive. It also became useful. But we can only understand its meaning by looking at both its use and its birth together.</p>
+<p>This very knowledge also changed the way Indians thought about themselves.</p>
+<p>About religion too.</p>
+<p>From the late eighteenth century, some Hindus began demanding great changes in religious practice. These movements arose in Bengal. Because there, British presence was strong, and a new bhadralok was forming - the urban Hindu elite.</p>
+<p>Hindu reformers said that religion should become more rational, just, and modern. Questions were raised about idol worship. There was talk of removing caste. Demands rose to end sati, that is, widow-burning. There was advocacy for expanding access to education.</p>
+<h3>The Birth of the Word 'Hinduism'</h3>
+<p>At this same time, the word 'Hinduism' also came into being. With this spelling, the word is first attested in the 1780s.</p>
+<p>This matters a great deal.</p>
+<p>The 'Hinduism' we see today as a vast umbrella was, at this time, also being formed as a new category. Within it were placed communities like the Lingayats and Vaishnavas, who, for a long time, had considered themselves distinct. This created competing views about proper Hindu thought and conduct.</p>
+<p>Rammohan Roy was at the centre of this change.</p>
+<p>He was a Company employee. A Brahmin. A reformer. And the first Hindu to write about 'Hinduism'. In 1828 he founded the Brahmo Samaj.</p>
+<p>In 1816, in the introduction to the Ishopanishad, he wrote something very sharp.</p>
+<p>He said that a large part of Hindu conduct had become tied to a particular manner of eating. If a person deviated even slightly from dietary rules, then, even if his character were pure in other respects, he would face harsh condemnation and social ostracism. Conversely, if a person followed this dietary rule, then crimes like murder, theft, or false testimony did not become a cause of social stigma. A minor offering to a Brahmin and some passive ritual were considered atonement. And the offender was then freed.</p>
+<p>For Rammohan Roy, this was a matter of pain. He called idol worship destructive. He spoke of the enlightened worship of one God. And he urged a return toward moral principle - do unto others as you would have them do unto you.</p>
+<p>Here appears a man who is searching for the language of reform from within scripture itself. He also knows the language of the West. He also knows the Perso-Arabic world. He also knows Sanskrit tradition. And also the administrative system of Company rule.</p>
+<p>From the palanquin of Bhagalpur to the preface of the Ishopanishad, Rammohan Roy is the face of that India which is bearing insult, and also reasoning; also taking employment, and also writing protest; also demanding reform.</p>
+<p>The debate over sati brought forward another great question of this new age.</p>
+<p>Sati was rare in colonial India. But in the British imagination, it began taking up a very large space as a terrifying practice. Hindu reformers too opposed it. At the start of the nineteenth century, they joined with the Company to demand a ban on sati.</p>
+<p>But other Hindus opposed this vigorously. The debate was not merely about sati. The larger question was - should a colonial government interfere in social and religious practices?</p>
+<p>This question kept returning throughout British colonial rule. When a foreign power speaks the language of reform, there can be justice within it, and also the arrogance of rule. And when a society, within itself, opposes reform, it can be called protecting tradition, and it can also be protecting injustice.</p>
+<h3>The Blurred Line Between Right and Wrong</h3>
+<p>History's hardest places are exactly those where right and wrong do not divide along clear lines. Where a reformer also seeks help from colonial power. Where colonial power, in the name of reform, also shows itself morally superior. Where a society averts its eyes from the violence within itself. And where the voice of victims is often heard least in the debate.</p>
+<p>Meanwhile, in Delhi, the Mughals remained.</p>
+<p>But in what form?</p>
+<p>Confined to one part of Shahjahanabad. Sitting in the shadow of old splendour. Like living, breathing museum specimens. For the curiosity of European travellers.</p>
+<p>Emma Roberts wrote of a scene meeting Akbar Shah II. She described the king as shrunken, without dignity. The throne, or the pavilion of the Great Mughal, was of white marble, beautifully carved, inlaid with gold. But the king himself sat cross-legged on cushions. He made no impression of great splendour. He was often wrapped in shawls. European strangers saw only a few valuable ornaments.</p>
+<p>This scene carries a sorrowful colour of India's history.</p>
+<p>The marble survives. The gold inlay survives. The currency of the court survives. But the power does not survive.</p>
+<p>The Company did not entirely eliminate Akbar Shah II and his successor, Bahadur Shah Zafar. Because their presence proved useful.</p>
+<p>On one hand, they could be displayed like symbols of an old age, so the British could further polish their own 'modernity'. On the other, the Company still depended on Mughal ruling culture.</p>
+<p>Coins were minted in the Mughal ruler's name. In Persian. That is, power was changing, but the language of legitimacy was still being borrowed from the old court.</p>
+<p>Company rule was new, but it needed the seal of the old Mughal world. It wanted to conquer India, but by borrowing India's own old political language.</p>
+<p>It is exactly this tangle that Delhi's town-crier spoke like a mantra in the mid-nineteenth century -</p>
+<p>The people belong to God. The rule belongs to the king. And control belongs to Company Bahadur.</p>
+<p>This was not merely a saying. This was a map of shattered authority.</p>
+<p>God above. King in name. Company in control.</p>
+<p>But such divided authority does not last. The saying soon grew old. Because history, going forward, would break even this temporary balance.</p>
+<p>The story of Company Bahadur is therefore not merely the story of the English. It is also the story of Indian cooperation. Of Indian resistance too. Of Indian adaptation too. Of Indian humiliation too. Of Indian intellect too.</p>
+<p>All of this appears in Rammohan Roy's palanquin. It appears on the field of Plassey. It appears in the blood of Buxar. It appears in the famine of Bengal. It appears in Tipu's Tiger. It appears in the kitchen of the sepoys. It appears in the press of Serampore. It appears in the Sanskrit pages spread on William Jones's table. It appears in Macaulay's arrogance. It appears in Rammohan Roy's reform. And it appears too in the shawls of Delhi's old Mughal emperor.</p>
+<h3>From Trade to Empire</h3>
+<p>The Company began with trade. But it learned that wealth does not come from the market alone. Wealth comes from the field. It comes from tax. It comes from salt. It comes from opium. It comes from law. And it comes from those people whose labour is recorded in the ledger, but not their name.</p>
+<p>The Company did not merely conquer India. It read India. It classified it. It divided languages. It separated laws. It gave religions names. It placed history into eras. And then it said - now this is knowledge.</p>
+<p>But the distance between knowledge and rule was very small.</p>
+<p>Whoever defined language, defined communities. Whoever wrote law, divided society. Whoever placed the past into 'Hindu', 'Muslim', and 'British' rule, also sowed seeds into the politics of the India to come.</p>
+<p>And yet, in this story, Indians are not merely victims. They are participants too. They are writers. They are soldiers. They are pandits. They are merchants. They are reformers. They are rebels. They are translators. They are wage-earners. They are dreamers.</p>
+<p>Sometimes writing a complaint like Rammohan Roy. Sometimes, like Tipu, imagining, in a dream-diary, driving the English out of India. Sometimes becoming sepoys in the Company's army. Sometimes becoming pandits and interpreting law. Sometimes, like the artist Ghasi, lending a hand to history's visual memory. Sometimes, like the Jain yati Gyanchandra, explaining the Rajput past to some English writer.</p>
+<p>History is never written in a single colour. In the century of Company Bahadur, India was not black and white. It was made of dust, metal, blood, paper, salt, opium, Sanskrit, Persian, English, Urdu, Devanagari, scripture, register, and hunger.</p>
+<p>This was the time when ports began becoming capitals. Merchants began becoming officers. Officers began becoming rulers. The Mughal name remained on coins. The Company came into control. And Indian society began thinking about itself in new words.</p>
+<p>Company Bahadur did not merely take territory. It changed imagination too. India too began seeing itself in a new mirror - sometimes in self-defence, sometimes in the restlessness of reform, sometimes after insult, sometimes with reasoning.</p>
+<p>And perhaps the deepest image of this age is no war at all.</p>
+<p>Not Plassey. Not Buxar. Not Mysore.</p>
+<p>Perhaps the deepest image is - a palanquin moving on the road at Bhagalpur.</p>
+<p>Rammohan Roy sitting inside the palanquin. The door shut to keep out the dust. A British Collector outside. A missing salute. An insult. A letter. A complaint. A light punishment.</p>
+<p>An entire age is contained within so small an event.</p>
+<p>There is old aristocracy. There is new employment. There is colonial arrogance. There is a legal path. There is the fire of insult. And there is also this one man's insistence that my character will not be made smaller by your abuse.</p>
+<h3>The Difficult Journey of Modern India</h3>
+<p>It is from exactly here that a difficult journey of modern India begins.</p>
+<p>In which the rule is foreign, but the language is that of many Indians. Power belongs to the Company, but Indians are in the army. Law is colonial, but the pandits are Indian. History is being written by an Englishman, but Indians are providing the sources. Reform is being demanded by Indians, but the colonial state wants to turn it into its own moral splendour.</p>
+<p>This is not a straightforward story. This is a tangled weave.</p>
+<p>The India of Company Bahadur was exactly like this - a ledger in one hand, a gun in the other. Sanskrit texts on one table, the revenue register on another. Bengal's famine on one side, Calcutta's growing population on the other. Tipu's Tiger on one side, London's museum on the other. The old Mughal emperor on one side, the Company's seal on the other. The call for reform on one side, the politics of classification on the other.</p>
+<p>And amid all of this, India was changing.</p>
+<p>This change did not happen suddenly. It came slowly. First by ship. Then by warehouse. Then by fort. Then by army. Then by collector. Then by law. Then by school. Then by book. Then by language. Then, finally, into our own minds.</p>
+<p>The India that Company Bahadur built deeply influenced the India to come. After 1858 would come the Raj. But before that, this was the age of the Company - when a trading institution had taken on the shape of an empire.</p>
+<p>Qalandar Bakhsh's lines capture this age almost like a taunt -</p>
+<p>He who once sold reeds and carved wood now commands an army - raising his flag upon that very reed.</p>
+<p>This was Company Bahadur.</p>
+<p>A trading name. A military power. A revenue machine. A knowledge-factory. A colonial state.</p>
+<p>And in India's story, this is the turning point where history steps down from the sea and sits in an office. Where the sound of the seal becomes more dangerous than the sound of the sword. Where empire calls itself law. Where plunder calls itself order. Where, even after insult, a man writes a letter. Where, even after defeat, dreams are still written down. Where, even after hunger, a reckoning is still demanded. And where an old emperor still sits - king in name, but control lying elsewhere.</p>
+<p>This is India's story. And this story has not ended yet.</p>
+    </div>
+    <div class="chapter-text lang-block lb-block" data-lang="hi">
+<h3>1 जनवरी 1809 की सुबह</h3>
+<p># भारत की कहानी - एपिसोड 17</p>
+<p>## कंपनी बहादुर</p>
+<p>1 जनवरी 1809।</p>
+<p>बिहार में गंगा के किनारे बसा भागलपुर। एक सर्द दोपहर की कल्पना कीजिए। रास्ते पर धूल है। कहीं से पालकी आ रही है। पालकी का दरवाज़ा लगभग बंद है, ताकि भीतर बैठे आदमी तक धूल न पहुंचे।</p>
+<p>उस पालकी में बैठे हैं राममोहन राय।</p>
+<p>एक ऐसे आदमी, जिसके भीतर कई संसार साथ रहते हैं। जन्म 1770 के दशक में एक ब्राह्मण परिवार में। परिवार ने लंबे समय तक मुग़लों की सेवा की। शिक्षा संस्कृत में भी। फ़ारसी में भी। अरबी में भी। और नौकरी - ब्रिटिश ईस्ट इंडिया कंपनी में।</p>
+<p>यानी एक ही जीवन में पुराना मुग़ल दरबार, शास्त्रों की दुनिया, इस्लामी भाषा-संस्कृति और ब्रिटिश कंपनी का नया शासन - सब आकर बैठ गए थे।</p>
+<p>उस दिन राममोहन राय की पालकी एक ब्रिटिश कलेक्टर के सामने से गुज़री। उन्होंने कलेक्टर को सलाम नहीं किया। शायद देखा ही नहीं। पालकी का दरवाज़ा बंद था। धूल रोकने के लिए।</p>
+<p>लेकिन कंपनी के एक स्थानीय अफ़सर को यह नज़र नहीं आया कि पालकी बंद थी। उसे सिर्फ़ इतना दिखा कि एक भारतीय ने उसे सलाम नहीं किया।</p>
+<p>और वह भड़क उठा।</p>
+<p>गालियां दीं। ऐसी भाषा, जिसे राममोहन राय ने बाद में गवर्नर-जनरल को लिखे एक अंग्रेज़ी पत्र में “बहुत अशोभनीय” और “अभद्र” कहा। उन्होंने शिकायत की। अपने चरित्र को पहुंची चोट का प्रतिकार मांगा।</p>
+<p>और अजीब बात यह है कि उन्हें न्याय मिला। कलेक्टर को हल्का दंड मिला।</p>
+<p>यह छोटा-सा दृश्य सिर्फ़ अपमान की कहानी नहीं है। यह उस नए भारत का दरवाज़ा है, जिसमें सब कुछ उलझा हुआ था।</p>
+<p>भारतीय अभिजात वर्ग कंपनी की नौकरी चाहता था। ब्रिटिश अफ़सर भारतीयों को नीची निगाह से देखते थे। भारतीय उसी ब्रिटिश व्यवस्था के भीतर न्याय भी तलाशते थे। और सत्ता का रिश्ता सीधा नहीं था - वह अपमान, रोज़गार, शिकायत, क़ानून, भाषा और उम्मीदों का एक उलझा हुआ जाल था।</p>
+<p>इसी जाल का नाम था - कंपनी शासन।</p>
+<p>ब्रिटिश उपनिवेशवाद के दो बड़े चरण थे। पहला - कंपनी शासन, 1757 से 1858 तक। दूसरा - ब्रिटिश राज, 1858 से 1947 तक।</p>
+<p>आज की कहानी पहले चरण की है। लगभग 1835 तक की। उस समय तक यह व्यापारी कंपनी मामूली तटीय ठिकानों से उठकर धीरे-धीरे भारत के कई छोटे-छोटे स्वतंत्र राज्यों को निगलने लगी थी।</p>
+<p>लेकिन शुरुआत में वह इतनी बड़ी नहीं थी।</p>
+<p>वह समुद्र से आई थी। बंदरगाहों पर बैठी थी। सौदे करती थी। और इंतज़ार करती थी।</p>
+<p>ब्रिटिश दक्षिण एशिया में यूरोपीय औपनिवेशिक ताक़तों में देर से आए। इससे पहले गोवा में पुर्तगाली शासन आ चुका था। श्रीलंका में डच आ चुके थे। पांडिचेरी में फ़्रांसीसी मौजूद थे।</p>
+<p>ब्रिटिश ईस्ट इंडिया कंपनी की स्थापना 1600 में हुई। इंग्लैंड की रानी एलिज़ाबेथ प्रथम ने अंग्रेज़ व्यापारियों के एक समूह को एशिया में व्यापार का चार्टर दिया। यह वही समय था जब भारत में अकबर का दौर था।</p>
+<h3>काग़ज़ पर सिर्फ़ व्यापार</h3>
+<p>काग़ज़ पर यह व्यापार था। लेकिन व्यापार के साथ एक और बात शुरू से जुड़ी थी - अपने कर्मचारियों पर शासन करने का अधिकार।</p>
+<p>और सत्ता कई बार ऐसे ही आती है। पहले वह सिर्फ़ व्यवस्था मांगती है। फिर सुरक्षा मांगती है। फिर क़ानून मांगती है। फिर सेना रखती है। फिर राजस्व लेती है। फिर कहती है - अब शासन भी मेरा।</p>
+<p>शुरुआती अठारहवीं सदी में कंपनी कुछ भारतीय बंदरगाहों तक सीमित थी। तीन शहर आगे चलकर उसकी प्रेसीडेंसी के केंद्र बने - मद्रास, बंबई और कलकत्ता।</p>
+<p>मद्रास की स्थापना 1639 में हुई। बंबई 1660 के दशक में पुर्तगाली नियंत्रण से निकला। कलकत्ता 1680 के दशक में बसा।</p>
+<p>ये शहर सिर्फ़ नक़्शे पर निशान नहीं थे। ये नए भारत की प्रयोगशालाएं थे।</p>
+<p>कंपनी शासन के साथ ये तीनों शहर बढ़े। लोग गांवों और छोटे कस्बों से इनकी तरफ़ आए। किसी को नौकरी चाहिए थी। किसी को व्यापार। किसी को बचाव। किसी को भाग्य।</p>
+<p>1800 तक कलकत्ता में लगभग ढाई लाख लोग रहते थे। मद्रास और बंबई में डेढ़ से 2 लाख के बीच।</p>
+<p>शहरों की गलियों में नई आवाज़ें थीं - बंगाली बाबू, पारसी व्यापारी, मद्रासी मज़दूर, यूरोपीय अफ़सर, भारतीय सिपाही, मुंशी, दुभाषिए, बनिया, कारीगर, कलेक्टर, क़लम, रजिस्टर, मुहर।</p>
+<p>कंपनी का साम्राज्य तलवार से बना, लेकिन सिर्फ़ तलवार से नहीं। वह बंदरगाह से बना। क़र्ज़ से बना। साज़िश से बना। सेना से बना। राजस्व से बना। और भारतीय सहयोग से भी बना।</p>
+<p>कहानी का बड़ा मोड़ बंगाल में आया।</p>
+<p>बंगाल उस समय समृद्ध प्रांत था। उपजाऊ ज़मीन, व्यापार, नदियां, बंदरगाह, कपड़ा, धन। कंपनी ने समझ लिया कि अगर भारत में शक्ति चाहिए, तो सिर्फ़ माल ख़रीदना काफ़ी नहीं। राजस्व चाहिए। यानी खेत से उठता धन। किसान की उपज से निकलता हिस्सा। मिट्टी से आती आमदनी।</p>
+<p>पहला क़दम था बंगाल के नवाब सिराजुद्दौला को हटाना।</p>
+<p>यह सिर्फ़ अंग्रेज़ बनाम भारतीय युद्ध नहीं था। इसमें स्थानीय व्यापारियों की भूमिका थी। जगत सेठ जैसे बड़े वित्तीय घराने थे। मीर जाफ़र जैसे असंतुष्ट सेनापति थे। सिराजुद्दौला उन्हें अपने व्यापारिक हितों के लिए अनुकूल नहीं लगते थे। मीर जाफ़र सत्ता चाहता था। कंपनी अवसर चाहती थी।</p>
+<p>जून 1757। कलकत्ता से लगभग 150 किलोमीटर उत्तर। एक जगह - प्लासी।</p>
+<p>इतिहास की किताबों में इसे प्लासी की लड़ाई कहा जाता है। लेकिन इसके भीतर युद्ध जितना था, विश्वासघात उससे कम नहीं था।</p>
+<p>रॉबर्ट क्लाइव के पास लगभग 3,000 आदमी थे। इनमें दो-तिहाई भारतीय सैनिक थे - सिपाही। सिराजुद्दौला के पास लगभग 50,000 की सेना थी। संख्या में नवाब भारी थे। लेकिन युद्ध सिर्फ़ संख्या से नहीं जीते जाते।</p>
+<p>मीर जाफ़र अपने सैनिकों के साथ अलग खड़ा रहा। बारिश हुई। नवाब का बारूद भीग गया। सेना बिखर गई। और क्लाइव की सिपाही-प्रधान सेना जीत गई।</p>
+<p>प्लासी सिर्फ़ बंगाल की हार नहीं थी। वह भारत में कंपनी शासन की शुरुआत का प्रतीक बन गई।</p>
+<h3>1764: असली ताक़त की शुरुआत</h3>
+<p>लेकिन कंपनी की शक्ति को असली मज़बूती 1764 में मिली।</p>
+<p>बक्सर। एक अधिक रक्तरंजित संघर्ष। कंपनी की सेना में यूरोपीय भी थे, सिपाही भी। सामने बंगाल और अवध के नवाबों की संयुक्त ताक़त थी, मुग़ल सैनिक भी थे।</p>
+<p>कंपनी के एक चौथाई सैनिक मारे गए या गंभीर रूप से घायल हुए। लेकिन कंपनी जीती।</p>
+<p>अगले साल मुग़लों ने संधि पर हस्ताक्षर किए। कंपनी को बंगाल में राजस्व संग्रह का अधिकार मिला - दीवानी।</p>
+<p>यह शब्द छोटा है - दीवानी। लेकिन इस शब्द ने व्यापार को शासन में बदल दिया।</p>
+<p>अब कंपनी सिर्फ़ सामान नहीं ख़रीदती थी। अब वह खेतों से आय लेती थी। अब वह नमक पर नियंत्रण कर सकती थी। अब अफ़ीम पर एकाधिकार बना सकती थी। अब वह किसान, व्यापारी, ज़मींदार, अदालत और सेना - सबको एक खाते में जोड़ सकती थी।</p>
+<p>उपनिवेशी शासन का अर्थ ही था - उपनिवेश का शोषण और महानगर का लाभ।</p>
+<p>बिहार और बंगाल में 1772 में नमक एकाधिकार स्थापित किया गया। 1773 में अफ़ीम एकाधिकार। बड़ी मात्रा में अफ़ीम चीन भेजी गई। 1770 के दशक से 1813 के बीच कंपनी ने भारत में व्यापारिक एकाधिकार लागू किए।</p>
+<p>उस दौर में एक भारतीय ने बंगाल में ब्रिटिश उपस्थिति को देखते हुए कहा - इस देश से लाखों के ऊपर लाख बाहर निकाले गए हैं।</p>
+<p>यह वाक्य खाता-बही की भाषा में नहीं लिखा गया। यह सूखी मिट्टी की आवाज़ है। यह खेत से उठते धन की आवाज़ है। यह उस धन की आवाज़ है जो गांव से निकला, शहर से निकला, बंदरगाह तक गया, जहाज़ पर चढ़ा और फिर लौटकर उसी किसान के आंगन में नहीं आया।</p>
+<p>और फिर आया अकाल।</p>
+<p>1768 और 1769 में बंगाल में मानसून कम रहा। इसके बाद 1769 से 1770 तक अकाल और चेचक की महामारी ने जनजीवन तोड़ दिया।</p>
+<p>कंपनी ने मानवीय पीड़ा कम करने के लिए कुछ नहीं किया। आधुनिक इतिहासकारों का अनुमान है कि बंगाल की आबादी का 15 से 20 प्रतिशत इस अकाल में मारा गया।</p>
+<p>यह संख्या सिर्फ़ संख्या नहीं। हर प्रतिशत के पीछे गांव हैं। खाली घर हैं। अधपकी फ़सलें हैं। मिट्टी पर गिरे बर्तन हैं। और वे लोग हैं जिनकी कोई तहरीर नहीं बची।</p>
+<p>इससे पहले बंगाल में ख़राब फ़सलें आई थीं। 1737 और 1738 में भी संकट आया था। तब मुग़ल और स्थानीय शासकों ने अनाज ख़रीदा, ऋण दिए, राजस्व भुगतान देर से करने की अनुमति दी। यानी राज्य ने भूख को सिर्फ़ राजस्व की कमी नहीं माना। उसे इंसानी संकट भी समझा।</p>
+<p>लेकिन कंपनी ने ऐसा नहीं किया। भूखे किसानों से भी राजस्व वसूलने की कोशिश चलती रही।</p>
+<p>यहीं से कंपनी शासन का चेहरा साफ़ दिखता है। क़ानून है। कलेक्टर है। रजिस्टर है। मगर भूख के सामने मनुष्यता नहीं है।</p>
+<p>यह कहानी सिर्फ़ ब्रिटिशों की नहीं है। इसमें भारतीय भी हर जगह हैं।</p>
+<h3>सौ साल का उपनिवेशी हिसाब</h3>
+<p>कंपनी शासन के सौ से ज़्यादा वर्षों में भारतीय इस उपनिवेशी उद्यम के कई हिस्सों में शामिल रहे। सैनिक। मुख़बिर। राजस्व संग्राहक। दास। व्यापारी। मुंशी। दुभाषिए। सहयोगी। विरोधी।</p>
+<p>कई क्षेत्रीय शासकों और समुदायों की प्रतिक्रिया अलग-अलग थी। कभी विरोध, कभी समझौता, कभी इंतज़ार, कभी पलटाव।</p>
+<p>कंपनी के सबसे प्रसिद्ध विरोधियों में से एक थे टीपू सुल्तान।</p>
+<p>मैसूर। दक्षिण भारत। टीपू सुल्तान का शासन 1782 से 1799 तक रहा। उनके पिता हैदर अली ने 1761 में वोडेयार राजवंश के विरुद्ध सफल तख़्ता-पलट किया था।</p>
+<p>टीपू सुल्तान को सिर्फ़ एक धार्मिक पहचान में बांधना इतिहास के साथ अन्याय होगा। उनका शासन भारतीय राजनीतिक परंपराओं के भीतर था। सूफ़ी वंशों से संबंध। हिंदू मंदिरों को आर्थिक सहायता। और साथ ही ब्रिटिश प्रभाव का दृढ़ विरोध।</p>
+<p>उनके नाम का अर्थ था - बाघ। और यह बाघ सिर्फ़ नाम में नहीं था। उनकी राजनीतिक कल्पना में भी था।</p>
+<p>1797 में उन्होंने अपनी स्वप्न-डायरी में एक सपना दर्ज किया। सुबह के शुरुआती घंटों का सपना। रघुनाथ राव, एक मराठा एजेंट, उनके सामने आते हैं और कहते हैं - अंग्रेज़ यूरोप में भारी हार खा चुके हैं और अब बंगाल छोड़ने के कगार पर हैं। टीपू जवाब देते हैं - यह अच्छी बात है। मैं भी सैनिक और धन भेजूंगा। अगर ईश्वर की इच्छा हो, तो ईसाई भारत से निकाले जाएंगे।</p>
+<p>सपना था, लेकिन वह सपना टीपू की राजनीति का भीतर छिपा नक़्शा दिखाता है। वह कंपनी को सिर्फ़ एक व्यापारी संस्था नहीं समझते थे। वह उसे ऐसी ताक़त मानते थे जिसे भारत से बाहर करना होगा।</p>
+<p>1799 में कंपनी सैनिकों ने टीपू सुल्तान को मार दिया। मैसूर जीत लिया गया।</p>
+<p>मैसूर महल में ब्रिटिशों को एक विचित्र युद्ध-ट्रॉफी मिली - एक आदमकद बाघ, जो एक ब्रिटिश सैनिक को चबा रहा है। उसके भीतर एक ऑर्गन था। उसे बजाया जाए, तो सैनिक की बांहें पीड़ा में हिलती हैं, और वह कराहता है।</p>
+<p>यह था टीपू का बाघ।</p>
+<p>टीपू की शक्ति दिखाने के लिए बना। ब्रिटिश उसे इंग्लैंड ले गए। आज भी वह लंदन के विक्टोरिया और अल्बर्ट संग्रहालय में रखा है।</p>
+<p>वह वस्तु एक अजीब पलटाव की निशानी है। जो बाघ मैसूर में ब्रिटिश सत्ता का मज़ाक था, वही ब्रिटेन में ब्रिटिश विजय की निशानी बन गया। इतिहास में वस्तुएं भी क़ैदी बनती हैं। उनका अर्थ भी निर्वासित हो जाता है।</p>
+<p>अब लौटते हैं कंपनी की सेना की ओर।</p>
+<p>भारतीय सैनिकों को फ़ारसी शब्द “सिपाही” से सिपाही कहा जाता था। और कंपनी की सेनाओं का विशाल बहुमत भारतीय सिपाहियों का था।</p>
+<p>यह बात बहुत ज़रूरी है।</p>
+<p>भारत में जिन “ब्रिटिश” हताहतों की बात की जाती है, उनमें अक्सर बड़ी संख्या भारतीय सिपाहियों की होती थी। कंपनी की लगभग हर बड़ी लड़ाई में भारतीय सिपाही ब्रिटिशों से संख्या में ज़्यादा थे।</p>
+<p>तो सवाल उठता है - भारतीयों ने कंपनी के लिए क्यों लड़ा?</p>
+<h3>रोज़ी-रोटी का सवाल</h3>
+<p>एक जवाब रोज़ी-रोटी है। कंपनी समय पर वेतन देती थी। भरोसेमंद भुगतान करती थी। परिवार चलाने का साधन देती थी।</p>
+<p>कुछ लोगों के लिए यह पारिवारिक पेशा बन गया था। कुछ समुदायों को आगे चलकर लड़ाकू समुदाय के रूप में देखा और गढ़ा गया - जैसे नेपाली गोरखा और पंजाबी सिख। कुछ युवाओं में उत्साह भी था, जैसे डीन महोमद के जीवन में दिखता है।</p>
+<p>लेकिन सिर्फ़ वेतन नहीं। कंपनी ने सैनिकों की धार्मिक, सांस्कृतिक और क्षेत्रीय प्राथमिकताओं को समायोजित करने की नीति भी अपनाई।</p>
+<p>खाने और रहने की व्यवस्था में जाति-आधारित आग्रहों को अक्सर स्वीकार किया गया। इससे ब्राह्मणों और राजपूतों की बड़ी भागीदारी संभव हुई। एक विद्वान ने कहा कि सेना के भीतर एक तरह का उच्च-जाति हिंदू अभयारण्य बनाने का जानबूझकर प्रयास था।</p>
+<p>यह दृश्य देखिए।</p>
+<p>एक तरफ़ कंपनी की आधुनिक सेना है - बंदूक, अनुशासन, वेतन, वर्दी। दूसरी तरफ़ उसी सेना के भीतर जाति की रसोई है, अलग बर्तन हैं, अलग पकाने की जगह है, शुद्धता की चिंता है। औपनिवेशिक आधुनिकता और जाति-व्यवस्था साथ-साथ चल रही हैं।</p>
+<p>कंपनी शासन पुरानी दुनिया को पूरी तरह मिटाकर नहीं आया। उसने कई पुरानी चीज़ों का इस्तेमाल किया। कई को नया नाम दिया। कई को और कठोर बना दिया।</p>
+<p>युद्ध के मैदान में सिपाही थे। शहरों में मुंशी थे। गांवों में राजस्व संग्राहक। और रास्तों पर दौड़ाक, जासूस, मुख़बिर।</p>
+<p>भारतीय दौड़ाकों और जासूसों ने कंपनी के पुरुषों को राजनीतिक रूप से उपयोगी जानकारी दी। ये नेटवर्क पुराने मुग़ल संबंधों, व्यापारी संपर्कों और परिवारों पर टिके थे।</p>
+<p>साम्राज्य सिर्फ़ तोप से नहीं चलता। साम्राज्य ख़बर से भी चलता है। किस दरबार में कौन नाराज़ है। कौन सेनापति बिक सकता है। किस रास्ते से रसद आएगी। किस ज़मींदार ने कर नहीं दिया। कौन शहर कब टूटेगा। किस भाषा में फ़रमान लिखना है। किस पंडित से क़ानून पूछना है। किस मौलवी से फ़तवा।</p>
+<p>कंपनी को भारत जीतने के लिए भारत को पढ़ना पड़ा। और इसी से जन्म हुआ - ओरिएंटलिस्ट ज्ञान का।</p>
+<p>कंपनी शासन के दौरान ब्रिटिश अधिकारियों और बुद्धिजीवियों ने भारतीयों से परामर्श करके भारत के बारे में ज्ञान तैयार किया। यह ज्ञान सिर्फ़ पुस्तकालयों में नहीं रहा। इसने औपनिवेशिक भारत के जीवन को आकार दिया।</p>
+<p>ब्रिटिशों के भीतर भारतीय शिक्षा और भाषा को लेकर अलग-अलग दृष्टियां थीं।</p>
+<p>एक ओर रॉबर्ट क्लाइव जैसे लोग थे, जिन्होंने कोई एशियाई भाषा सीखने की कोशिश तक नहीं की। दूसरी ओर वॉरेन हेस्टिंग्स थे, जो फ़ारसी और उर्दू बोलते थे। विलियम जोन्स थे, जिन्होंने संस्कृत और फ़ारसी ग्रंथों का अनुवाद करने के लिए भारतीय पंडितों के साथ काम किया।</p>
+<p>लेकिन इस ज्ञान की दुनिया में प्रशंसा और अहंकार दोनों साथ रहते थे।</p>
+<p>सबसे बदनाम उदाहरण थॉमस मैकॉले का 1835 का “शिक्षा पर मिनट” है। मैकॉले ने कहा कि उन्हें संस्कृत या अरबी का ज्ञान नहीं है। फिर भी उन्होंने दावा किया कि एक अच्छे यूरोपीय पुस्तकालय की एक अकेली शेल्फ़ भारत और अरब के पूरे देशी साहित्य के बराबर है।</p>
+<h3>सिर्फ़ एक राय नहीं</h3>
+<p>यह सिर्फ़ एक राय नहीं थी। यह सत्ता की भाषा थी।</p>
+<p>वह कह रही थी - मैं तुम्हें ठीक से जाने बिना भी तुम्हारा मूल्य तय कर सकता हूं।</p>
+<p>लेकिन मैकॉले से पहले का ओरिएंटलिस्ट संसार कुछ और भी था। अठारहवीं सदी के अंत में ब्रिटिश ओरिएंटलिस्ट ब्राह्मणीय संस्कृत साहित्य से मोहित हुए। उन्होंने भगवद्गीता का अंग्रेज़ी अनुवाद 1785 में तैयार किया। हितोपदेश 1787 में। कालिदास की शकुंतला 1789 में। जयदेव की गीतगोविंद 1792 में।</p>
+<p>इन अनुवादों ने यूरोप में एक नया भारतीय अतीत बनाया। संस्कृत ग्रंथों का एक शास्त्रीय संग्रह तैयार हुआ। लेकिन यह अतीत भी छांटा गया अतीत था।</p>
+<p>विलियम जोन्स जैसे अनुवादकों ने अपने सांस्कृतिक मानदंडों के अनुसार ग्रंथों को रूपांतरित किया। शकुंतला और गीतगोविंद के अधिक कामुक हिस्सों को हटाया गया। यानी भारत को यूरोप के सामने पेश किया गया - लेकिन यूरोपीय शुचिता-बोध की छन्नी से छानकर।</p>
+<p>जोन्स की शकुंतला आगे चलकर एक दर्जन से अधिक यूरोपीय भाषाओं में अनुवादित हुई।</p>
+<p>कल्पना कीजिए - एक भारतीय नाटक, संस्कृत से अंग्रेज़ी में जाता है, फिर यूरोप की कई भाषाओं में फैलता है। लेकिन हर यात्रा में थोड़ा बदलता है। कुछ बचता है। कुछ कटता है। कुछ नया अर्थ पाता है।</p>
+<p>ज्ञान कभी निष्पक्ष नहीं होता। ख़ासकर जब उसे सत्ता लिख रही हो।</p>
+<p>ब्रिटिशों का संस्कृत ब्राह्मणीय ग्रंथों में निवेश क़ानून में भी आया। और यहां इसका असर बहुत गहरा हुआ।</p>
+<p>नथानियल हेल्हेड ने, वॉरेन हेस्टिंग्स के समर्थन से और बंगाल के 11 ब्राह्मण पंडितों के साथ काम करके, 1776 में “जेंटू क़ानून का संहिता” तैयार किया।</p>
+<p>इस पुस्तक ने एक ऐसा ब्राह्मणीय क़ानून बनाया, जिसे इस्लामी क़ानून से कड़ाई से अलग रखा गया। यह मुग़ल न्यायिक संदर्भों से अलग था। ब्रिटिशों ने हिंदू और मुसलमान क़ानूनों को अलग-अलग खानों में रखना शुरू किया।</p>
+<p>इसके व्यापक परिणाम हुए। औपनिवेशिक भारत में क़ानूनी जीवन के हर क्षेत्र में यह विभाजन फैल गया।</p>
+<p>भारत का अतीत भी उन्होंने इसी तरह खानों में रखा।</p>
+<p>लगभग 1200 ईसवी तक - हिंदू शासन। फिर 1750 के दशक तक - मुस्लिम शासन। फिर - ब्रिटिश शासन।</p>
+<p>इतिहास को तीन डिब्बों में रख दिया गया। जैसे सहस्राब्दियों की जटिलता किसी दफ़्तरी अलमारी में फ़ाइल बनकर रखी जा सकती हो।</p>
+<p>बार-बार इंडो-मुस्लिम शासकों को बदनाम किया गया। क्यों? ताकि ब्रिटिश शासन तुलना में बेहतर दिखे।</p>
+<p>यह वही इतिहास-दृष्टि थी, जिसने हिंदू-मुस्लिम विभाजन को भारतीय समाज की प्रमुख विशेषता के रूप में और गहरा किया। उन्नीसवीं सदी की शुरुआत से ओरिएंटलिस्ट ज्ञान इस विभाजन को आकार देने में मददगार बना।</p>
+<p>भाषा के क्षेत्र में भी यही हुआ।</p>
+<p>ब्रिटिश और मिशनरी दोनों भारतीय देशी भाषाओं में रुचि रखते थे। लेकिन उनकी रुचि ने इन भाषाओं को बदला भी।</p>
+<p>कलकत्ता के उत्तर में सेरामपोर था - एक डेनिश उपनिवेश, जहां मिशनरी अधिक स्वतंत्रता से काम कर सकते थे। 1800 से 1830 के बीच सेरामपोर प्रेस ने 40 भाषाओं में 2 लाख 10 हज़ार से अधिक खंड प्रकाशित किए।</p>
+<h3>छपाई की नयी दुनिया</h3>
+<p>छपाई का संसार खुल रहा था। काग़ज़ पर भाषाएं उतर रही थीं। ध्वनियां अक्षरों में बंद हो रही थीं। और जो भाषाएं सदियों से बोली, गाई, सुनाई जाती थीं, वे अब मुद्रित पुस्तकों में बदल रही थीं।</p>
+<p>लेकिन छपाई के साथ वर्गीकरण भी आया।</p>
+<p>जॉन गिलक्रिस्ट को उस विचार का श्रेय दिया जाता है जिसने आगे चलकर उत्तर भारत की भाषाई राजनीति को बदल दिया - हिंदी और उर्दू को लिपि के आधार पर अलग-अलग भाषाओं में विभाजित करने का विचार। हिंदी के लिए देवनागरी। उर्दू के लिए फ़ारसी-अरबी लिपि।</p>
+<p>भाषा, जो रोज़मर्रा में मिलती-जुलती रहती है, दफ़्तर और पाठ्यक्रम में अलग-अलग बक्सों में रखी जाने लगी।</p>
+<p>कंपनी का ज्ञान सिर्फ़ पुस्तकालयों से नहीं बना। वह यात्राओं से भी बना।</p>
+<p>कोलिन मैकेंज़ी दक्षिण भारत के कुछ हिस्सों में गए। उन्होंने अनुवाद, नृवंशविज्ञान संबंधी टिप्पणियों और व्यावहारिक व्यवस्थाओं के लिए भारतीय सहायकों पर भरोसा किया - जैसे काव्वली बंधु।</p>
+<p>राजस्थान में जेम्स टॉड ने राजपूत इतिहास के बारे में सीखा। उन्होंने बाद में तीन खंडों में “राजस्थान की इतिहास और पुरावशेष” प्रकाशित की। उनकी सहायता घसी नाम के कलाकार और ज्ञानचंद्र नाम के जैन यति ने की।</p>
+<p>यानी ब्रिटिश ज्ञान अकेले ब्रिटिश नहीं था। उसके पीछे भारतीय पंडित थे। मुंशी थे। कलाकार थे। यति थे। दुभाषिए थे। स्थानीय स्मृतियां थीं। वंशावलियां थीं। पुराने दस्तावेज़ थे।</p>
+<p>फिर भी किताब पर नाम अक्सर अंग्रेज़ का रहा। ज्ञान का साम्राज्य भी सत्ता की तरह काम करता है। एक व्यक्ति लिखता दिखता है, लेकिन उसके पीछे अनगिनत अदृश्य हाथ लगे होते हैं।</p>
+<p>1785 में विलियम जोन्स ने एशियाटिक सोसाइटी ऑफ़ बंगाल के अपने दूसरे वार्षिकोत्सव भाषण में संस्कृत, ग्रीक और लैटिन के बीच समानताएं नोट कीं। वे भारत में यह संबंध देखने वाले पहले व्यक्ति नहीं थे। उनसे पहले आरज़ू ने यह बात पहचानी थी। लेकिन जोन्स ने इस ज्ञान को लोकप्रिय किया। आगे भाषाई अध्ययन को इससे प्रेरणा मिली।</p>
+<p>1810 के दशक में द्राविड़ भाषाओं का स्पष्ट सिद्धांत उभरा।</p>
+<p>ये खोजें आज भी दक्षिण एशियाई इतिहास की हमारी सामूहिक समझ की नींव में मौजूद हैं। यानी औपनिवेशिक ज्ञान सिर्फ़ दमनकारी नहीं था। वह उपयोगी भी हुआ। लेकिन उसका उपयोग और उसका जन्म - दोनों को साथ देखकर ही हम उसके अर्थ को समझ सकते हैं।</p>
+<p>इसी ज्ञान ने भारतीयों के अपने बारे में सोचने के तरीक़े को भी बदला।</p>
+<p>धर्म को लेकर भी।</p>
+<p>देर अठारहवीं सदी से कुछ हिंदुओं ने धार्मिक प्रथाओं में बड़े बदलाव की मांग शुरू की। ये आंदोलन बंगाल में उभरे। क्योंकि वहां ब्रिटिश उपस्थिति मज़बूत थी, और एक नया भद्रलोक बन रहा था - शहरी हिंदू अभिजात वर्ग।</p>
+<p>हिंदू सुधारकों ने कहा कि धर्म को अधिक तर्कसंगत, न्यायसंगत और आधुनिक होना चाहिए। मूर्ति-पूजा पर सवाल उठे। जाति हटाने की बात हुई। सती, यानी विधवा-दाह, समाप्त करने की मांग उठी। शिक्षा तक पहुंच बढ़ाने की वकालत हुई।</p>
+<h3>'हिंदूइज़्म' शब्द का जन्म</h3>
+<p>इसी समय “हिंदूइज़्म” शब्द भी आया। इस वर्तनी के साथ यह शब्द पहली बार 1780 के दशक में प्रमाणित हुआ।</p>
+<p>यह बहुत महत्त्वपूर्ण है।</p>
+<p>आज जिस “हिंदू धर्म” को हम एक विशाल छतरी की तरह देखते हैं, वह इस समय एक नई श्रेणी के रूप में बन भी रहा था। इसके भीतर लिंगायत और वैष्णव जैसे समुदाय भी रखे गए, जो लंबे समय तक अपने को अलग मानते रहे थे। इससे उचित हिंदू विचार और आचरण को लेकर प्रतिस्पर्धी दृष्टियां पैदा हुईं।</p>
+<p>राममोहन राय इस बदलाव के केंद्र में थे।</p>
+<p>वे कंपनी-कर्मचारी थे। ब्राह्मण थे। सुधारक थे। और “हिंदूइज़्म” के बारे में लिखने वाले पहले हिंदू थे। 1828 में उन्होंने ब्रह्म समाज की स्थापना की।</p>
+<p>1816 में ईशोपनिषद के परिचय में उन्होंने एक बहुत तीखी बात लिखी।</p>
+<p>उन्होंने कहा कि हिंदू आचरण का बड़ा हिस्सा भोजन की विशेष पद्धति से जुड़ गया है। अगर कोई व्यक्ति आहार संबंधी नियम से थोड़ा भी हट जाए, तो भले उसका चरित्र अन्य बातों में शुद्ध हो, उसे कठोर निंदा और समाज से बहिष्कार झेलना पड़ता है। इसके उलट अगर कोई व्यक्ति इस आहार-नियम का पालन करता है, तो हत्या, चोरी या झूठी गवाही जैसे अपराध भी सामाजिक कलंक का कारण नहीं बनते। एक ब्राह्मण को मामूली भेंट और कुछ निष्क्रिय अनुष्ठान प्रायश्चित माने जाते हैं। और अपराधी फिर मुक्त हो जाता है।</p>
+<p>राममोहन राय के लिए यह दर्द का विषय था। उन्होंने मूर्ति-पूजा को घातक कहा। एक ईश्वर की प्रबुद्ध पूजा की बात की। और नैतिक सिद्धांत की तरफ़ लौटने का आग्रह किया - दूसरों के साथ वैसा करो, जैसा तुम चाहते हो कि तुम्हारे साथ हो।</p>
+<p>यहां एक आदमी दिखता है जो शास्त्र के भीतर से सुधार की भाषा खोज रहा है। वह पश्चिम की भाषा भी जानता है। फ़ारसी-अरबी की दुनिया भी जानता है। संस्कृत परंपरा भी जानता है। और कंपनी राज की प्रशासनिक व्यवस्था भी।</p>
+<p>भागलपुर की पालकी से लेकर ईशोपनिषद की भूमिका तक, राममोहन राय उस भारत का चेहरा हैं जो अपमान भी झेल रहा है, तर्क भी कर रहा है, नौकरी भी कर रहा है, विरोध भी लिख रहा है, सुधार भी मांग रहा है।</p>
+<p>सती पर बहस ने इस नए दौर का एक और बड़ा सवाल सामने रखा।</p>
+<p>सती औपनिवेशिक भारत में दुर्लभ थी। लेकिन ब्रिटिश कल्पना में यह एक भयावह प्रथा के रूप में बहुत बड़ी जगह लेने लगी। हिंदू सुधारक भी इसके विरोध में थे। उन्नीसवीं सदी की शुरुआत में उन्होंने कंपनी के साथ मिलकर सती पर प्रतिबंध लगाने की मांग की।</p>
+<p>लेकिन अन्य हिंदुओं ने इसका ज़ोरदार विरोध किया। बहस सिर्फ़ सती की नहीं थी। सवाल बड़ा था - क्या औपनिवेशिक सरकार को सामाजिक और धार्मिक प्रथाओं में दख़ल देना चाहिए?</p>
+<p>यह सवाल पूरे ब्रिटिश औपनिवेशिक शासन में बार-बार लौटता रहा। जब विदेशी सत्ता सुधार की भाषा बोलती है, तो उसके भीतर न्याय भी हो सकता है और शासन का अहंकार भी। और जब कोई समाज अपने भीतर सुधार का विरोध करता है, तो वह परंपरा की रक्षा भी कह सकता है और अन्याय की रक्षा भी कर सकता है।</p>
+<h3>सही-ग़लत की धुंधली रेखा</h3>
+<p>इतिहास की सबसे कठिन जगहें वही हैं जहां सही और ग़लत साफ़ रेखाओं में नहीं बंटते। जहां एक सुधारक उपनिवेशी सत्ता से मदद भी मांगता है। जहां उपनिवेशी सत्ता सुधार के नाम पर अपने को नैतिक रूप से ऊंचा भी दिखाती है। जहां समाज अपने भीतर की हिंसा से आंख चुराता है। और जहां पीड़ितों की आवाज़ अक्सर बहस में सबसे कम सुनाई देती है।</p>
+<p>उधर दिल्ली में मुग़ल बचे हुए थे।</p>
+<p>लेकिन किस रूप में?</p>
+<p>शाहजहानाबाद के एक हिस्से में सीमित। पुराने वैभव की छाया में बैठे हुए। जैसे जीते-जागते संग्रहालय के नमूने। यूरोपीय यात्रियों की जिज्ञासा के लिए।</p>
+<p>एम्मा रॉबर्ट्स ने अकबर शाह द्वितीय से मिलने का दृश्य लिखा। राजा को उन्होंने सिकुड़ा हुआ, गरिमा से रहित बताया। सिंहासन या महान मुग़ल का मंडप सफ़ेद संगमरमर का था, सुंदर उकेरा गया, सोने से जड़ा हुआ। लेकिन राजा स्वयं तकियों पर पालथी मारकर बैठे थे। बड़े वैभव का प्रभाव नहीं डालते थे। अक्सर शालों में लिपटे रहते थे। यूरोपीय अजनबियों को बस कुछ मूल्यवान आभूषण दिखते थे।</p>
+<p>यह दृश्य भारत के इतिहास का एक उदास रंग है।</p>
+<p>संगमरमर बचा है। सोने की जड़ाई बची है। दरबार की मुद्रा बची है। लेकिन शक्ति नहीं बची।</p>
+<p>कंपनी ने अकबर शाह द्वितीय और उनके उत्तराधिकारी बहादुर शाह ज़फ़र को पूरी तरह ख़त्म नहीं किया। क्योंकि उनकी उपस्थिति काम आती थी।</p>
+<p>एक तरफ़ उन्हें पुराने ज़माने के प्रतीक की तरह दिखाया जा सकता था, ताकि ब्रिटिश अपनी “आधुनिकता” को और चमका सकें। दूसरी तरफ़ कंपनी अभी भी मुग़ल शासन-संस्कृति पर निर्भर थी।</p>
+<p>सिक्के मुग़ल शासक के नाम पर ढलते थे। फ़ारसी में ढलते थे। यानी सत्ता बदल रही थी, मगर वैधता की भाषा अभी भी पुराने दरबार से ली जा रही थी।</p>
+<p>कंपनी का शासन नया था, लेकिन उसे पुराने मुग़ल संसार की मुहर चाहिए थी। वह भारत को जीतना चाहती थी, मगर भारत की पुरानी राजनीतिक भाषा उधार लेकर।</p>
+<p>इसी उलझन को दिल्ली का मुनादी करने वाला उन्नीसवीं सदी के मध्य में एक मंत्र की तरह बोलता था -</p>
+<p>लोग ईश्वर के हैं। शासन राजा का है। और नियंत्रण कंपनी बहादुर का।</p>
+<p>यह सिर्फ़ कहावत नहीं थी। यह टूटे हुए अधिकार का नक़्शा था।</p>
+<p>ईश्वर ऊपर। राजा नाम में। कंपनी नियंत्रण में।</p>
+<p>लेकिन ऐसा बंटा हुआ अधिकार टिकता नहीं। कहावत जल्द पुरानी पड़ गई। क्योंकि इतिहास आगे चलकर इस अस्थायी संतुलन को भी तोड़ देगा।</p>
+<p>कंपनी बहादुर की कहानी इसलिए सिर्फ़ अंग्रेज़ों की कहानी नहीं है। यह भारतीय सहयोग की कहानी भी है। भारतीय प्रतिरोध की भी। भारतीय अनुकूलन की भी। भारतीय अपमान की भी। भारतीय बुद्धि की भी।</p>
+<p>राममोहन राय की पालकी में यह सब दिखता है। प्लासी के मैदान में यह दिखता है। बक्सर के रक्त में यह दिखता है। बंगाल के अकाल में यह दिखता है। टीपू के बाघ में यह दिखता है। सिपाहियों की रसोई में यह दिखता है। सेरामपोर के प्रेस में यह दिखता है। विलियम जोन्स की मेज़ पर फैले संस्कृत पन्नों में यह दिखता है। मैकॉले के अहंकार में यह दिखता है। राममोहन राय के सुधार में यह दिखता है। और दिल्ली के बूढ़े मुग़ल बादशाह की शालों में भी।</p>
+<h3>व्यापार से साम्राज्य तक</h3>
+<p>कंपनी व्यापार से शुरू हुई थी। लेकिन उसने सीखा कि धन सिर्फ़ बाज़ार से नहीं आता। धन खेत से आता है। कर से आता है। नमक से आता है। अफ़ीम से आता है। क़ानून से आता है। और उन लोगों से आता है जिनकी मेहनत खाते में दर्ज होती है, नाम नहीं।</p>
+<p>कंपनी ने भारत को सिर्फ़ जीता नहीं। उसने भारत को पढ़ा। वर्गीकृत किया। भाषाओं को बांटा। क़ानूनों को अलग किया। धर्मों को नाम दिए। इतिहास को कालखंडों में रखा। और फिर कहा - अब यह ज्ञान है।</p>
+<p>लेकिन ज्ञान और शासन के बीच की दूरी बहुत कम थी।</p>
+<p>जिसने भाषा को परिभाषित किया, उसने समुदायों को परिभाषित किया। जिसने क़ानून लिखा, उसने समाज को बांटा। जिसने अतीत को “हिंदू”, “मुस्लिम” और “ब्रिटिश” शासन में रखा, उसने आने वाले भारत की राजनीति में भी बीज बो दिए।</p>
+<p>फिर भी इस कहानी में भारतीय सिर्फ़ पीड़ित नहीं हैं। वे भागीदार भी हैं। वे लेखक हैं। वे सैनिक हैं। वे पंडित हैं। वे व्यापारी हैं। वे सुधारक हैं। वे विद्रोही हैं। वे अनुवादक हैं। वे वेतनभोगी हैं। वे सपने देखने वाले हैं।</p>
+<p>कभी राममोहन राय की तरह शिकायत लिखते हैं। कभी टीपू की तरह स्वप्न-डायरी में अंग्रेज़ों को भारत से बाहर निकालने की कल्पना करते हैं। कभी कंपनी की सेना में सिपाही बनते हैं। कभी पंडित बनकर क़ानून की व्याख्या करते हैं। कभी कलाकार घसी की तरह इतिहास की दृश्य-स्मृति में हाथ बंटाते हैं। कभी ज्ञानचंद्र जैसे जैन यति बनकर किसी अंग्रेज़ लेखक को राजपूत अतीत समझाते हैं।</p>
+<p>इतिहास किसी एक रंग में नहीं लिखा जाता। कंपनी बहादुर की सदी में भारत काला-सफ़ेद नहीं था। वह धूल, धातु, ख़ून, काग़ज़, नमक, अफ़ीम, संस्कृत, फ़ारसी, अंग्रेज़ी, उर्दू, देवनागरी, शास्त्र, रजिस्टर और भूख से बना था।</p>
+<p>यह वह समय था जब बंदरगाह राजधानी बनने लगे। व्यापारी अफ़सर बनने लगे। अफ़सर शासक बनने लगे। मुग़ल नाम सिक्कों पर रह गया। कंपनी नियंत्रण में आ गई। और भारतीय समाज अपने बारे में नए शब्दों में सोचने लगा।</p>
+<p>कंपनी बहादुर ने सिर्फ़ इलाक़े नहीं लिए। उसने कल्पना भी बदली। भारत ने भी अपने को नए आईने में देखना शुरू किया - कभी आत्मरक्षा में, कभी सुधार की बेचैनी में, कभी अपमान के बाद, कभी तर्क के साथ।</p>
+<p>और शायद इसी दौर की सबसे गहरी छवि कोई युद्ध नहीं है।</p>
+<p>न प्लासी। न बक्सर। न मैसूर।</p>
+<p>शायद सबसे गहरी छवि है - भागलपुर की सड़क पर चलती एक पालकी।</p>
+<p>पालकी के भीतर बैठे राममोहन राय। दरवाज़ा धूल से बचाने के लिए बंद। बाहर ब्रिटिश कलेक्टर। एक सलाम न होना। एक अपमान। एक पत्र। एक शिकायत। एक हल्का दंड।</p>
+<p>इतनी-सी घटना में पूरा समय समाया है।</p>
+<p>पुरानी अभिजातता है। नई नौकरी है। औपनिवेशिक अहंकार है। क़ानूनी रास्ता है। अपमान की आग है। और एक आदमी की यह ज़िद भी कि मेरा चरित्र तुम्हारी गाली से छोटा नहीं हो जाएगा।</p>
+<h3>आधुनिक भारत की कठिन यात्रा</h3>
+<p>यहीं से आधुनिक भारत की एक कठिन यात्रा शुरू होती है।</p>
+<p>जिसमें शासन विदेशी है, लेकिन भाषा कई भारतीयों की है। सत्ता कंपनी की है, लेकिन सेना में भारतीय हैं। क़ानून औपनिवेशिक है, लेकिन पंडित भारतीय हैं। इतिहास अंग्रेज़ लिख रहा है, लेकिन स्रोत भारतीय दे रहे हैं। सुधार भारतीय मांग रहे हैं, लेकिन औपनिवेशिक राज्य उसे अपने नैतिक वैभव में बदलना चाहता है।</p>
+<p>यह सीधी कहानी नहीं है। यह एक उलझा हुआ ताना-बाना है।</p>
+<p>कंपनी बहादुर का भारत ऐसा ही था - एक हाथ में खाता-बही, दूसरे में बंदूक। एक मेज़ पर संस्कृत ग्रंथ, दूसरी पर राजस्व रजिस्टर। एक तरफ़ बंगाल का अकाल, दूसरी तरफ़ कलकत्ता की बढ़ती आबादी। एक तरफ़ टीपू का बाघ, दूसरी तरफ़ लंदन का संग्रहालय। एक तरफ़ बूढ़ा मुग़ल बादशाह, दूसरी तरफ़ कंपनी की मुहर। एक तरफ़ सुधार की पुकार, दूसरी तरफ़ वर्गीकरण की राजनीति।</p>
+<p>और इस सबके बीच भारत बदल रहा था।</p>
+<p>यह बदलाव अचानक नहीं हुआ। यह धीरे-धीरे आया। पहले जहाज़ से। फिर गोदाम से। फिर क़िले से। फिर सेना से। फिर कलेक्टर से। फिर क़ानून से। फिर स्कूल से। फिर किताब से। फिर भाषा से। फिर हमारे अपने दिमाग़ तक।</p>
+<p>कंपनी बहादुर ने जिस भारत को बनाया, उसने आने वाले भारत को गहरे रूप से प्रभावित किया। 1858 के बाद राज आएगा। लेकिन उससे पहले यह कंपनी का युग था - जब एक व्यापारी संस्था ने साम्राज्य की शक्ल ले ली थी।</p>
+<p>क़लंदर बख़्श की पंक्तियां इस दौर को जैसे ताने की तरह पकड़ती हैं -</p>
+<p>जो कभी नरकट बेचता और लकड़ी तराशता था, अब सेना की कमान करता है - उसी नरकट पर झंडा फहराकर।</p>
+<p>यही कंपनी बहादुर थी।</p>
+<p>एक व्यापारी नाम। एक सैन्य शक्ति। एक राजस्व मशीन। एक ज्ञान-कारख़ाना। एक औपनिवेशिक राज्य।</p>
+<p>और भारत की कहानी में यह वह मोड़ है, जहां इतिहास समुद्र से उतरकर दफ़्तर में बैठ जाता है। जहां तलवार की आवाज़ से ज़्यादा ख़तरनाक हो जाती है मुहर की आवाज़। जहां साम्राज्य अपने को क़ानून कहता है। जहां लूट अपने को व्यवस्था कहती है। जहां अपमान के बाद भी एक आदमी पत्र लिखता है। जहां पराजय के बाद भी सपने लिखे जाते हैं। जहां भूख के बाद भी हिसाब मांगा जाता है। और जहां एक पुराना बादशाह अब भी बैठा है - नाम में राजा, लेकिन नियंत्रण कहीं और।</p>
+<p>यह भारत की कहानी है। और यह कहानी अभी ख़त्म नहीं हुई।</p>
+    </div>
+  </details>
+</article>
+
+  <div class="chapter-pagenav">
+    <a class="lang-block lb-inline" data-lang="en" href="episode-16.html">&larr; Regional Rise: New Powers Amid a Crumbling Empire (1720-1780)</a>
+    <a class="lang-block lb-inline" data-lang="hi" href="episode-16.html">&larr; क्षेत्रीय उत्कर्ष: बिखरते साम्राज्य के बीच नयी सत्ताएं (1720-1780)</a>
+    <a class="lang-block lb-inline" data-lang="en" href="scripts.html">Read other episodes</a>
+    <a class="lang-block lb-inline" data-lang="hi" href="scripts.html">बाक़ी एपिसोड्स पढ़ें</a>
+    <a class="lang-block lb-inline" data-lang="en" href="episode-18.html">1857: The Sepoy Revolt and the Rise of the British Raj &rarr;</a>
+    <a class="lang-block lb-inline" data-lang="hi" href="episode-18.html">1857: सिपाही विद्रोह और ब्रिटिश राज का उदय &rarr;</a>
+  </div>
+
+
+
+
+  <div class="scripts-cta">
+    <p class="lang-block lb-block" data-lang="en" style="color:var(--ink-soft);margin-bottom:20px;">More chapters are on their way as new episodes release.</p>
+    <p class="lang-block lb-block" data-lang="hi" style="color:var(--ink-soft);margin-bottom:20px;">नए एपिसोड आने के साथ और अध्याय यहां जुड़ते रहेंगे।</p>
+    <a class="btn lang-block lb-flex" data-lang="en" href="index.html">← Back to home</a>
+    <a class="btn lang-block lb-flex" data-lang="hi" href="index.html">← होम पर वापस जाएं</a>
+  </div>
+</main>
+
+<footer>
+  <div class="lang-block lb-block" data-lang="en">Equal Tales Storyline · <a href="https://www.youtube.com/@ETStoryline" target="_blank" rel="noopener">@ETStoryline</a> · <a href="youtube.html">Videos</a></div>
+  <div class="lang-block lb-block" data-lang="hi">इक्वल टेल्स स्टोरीलाइन · <a href="https://www.youtube.com/@ETStoryline" target="_blank" rel="noopener">@ETStoryline</a> · <a href="youtube.html">वीडियो</a></div>
+</footer>
+
+<script>
+  function setLang(lang){
+    document.body.classList.remove('lang-en','lang-hi');
+    document.body.classList.add('lang-' + lang);
+    document.documentElement.setAttribute('lang', lang);
+    try{ localStorage.setItem('etsLang', lang); }catch(e){}
+    document.querySelectorAll('.lang-switch button').forEach(function(b){
+      b.setAttribute('aria-pressed', b.dataset.lang === lang ? 'true' : 'false');
+    });
+  }
+  document.querySelectorAll('.lang-switch button').forEach(function(b){
+    b.addEventListener('click', function(){ setLang(b.dataset.lang); });
+  });
+  (function init(){
+    var saved = null;
+    try{ saved = localStorage.getItem('etsLang'); }catch(e){}
+    setLang(saved === 'en' ? 'en' : 'hi');
+  })();
+</script>
+
+</body>
+</html>

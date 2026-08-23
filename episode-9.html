@@ -1,0 +1,840 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Temple, Sea and Power: The Story of the Chola Empire | मंदिर, समुद्र और सत्ता: चोल साम्राज्य की कहानी | Equal Tales Storyline</title>
+<meta name="description" content="Read Bharat Ki Kahani's episode scripts as full chapters - from the Indus Valley to the dawn of the 20th century.">
+<link rel="icon" type="image/png" href="favicon.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700;900&family=Inter:wght@400;500;600;700&family=Mukta:wght@400;500;600;700&family=Baloo+2:wght@500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --cloud:#F4F7F9;
+    --mist:#E6ECF2;
+    --powder:#D0E1FD;
+    --gold:#C5A059;
+    --gold-dark:#96754A;
+    --ink:#2C3E50;
+    --ink-soft:#5B6B7C;
+    --glass:rgba(255,255,255,.55);
+    --glass-strong:rgba(255,255,255,.72);
+    --glass-border:rgba(255,255,255,.65);
+  }
+  *{box-sizing:border-box;margin:0;padding:0;}
+  html{scroll-behavior:smooth;}
+  body{
+    background:linear-gradient(165deg, var(--cloud) 0%, var(--powder) 55%, var(--mist) 100%);
+    color:var(--ink);font-family:'Inter',sans-serif;line-height:1.75;min-height:100vh;
+  }
+  body.lang-hi{font-family:'Mukta',sans-serif;}
+  h1,h2,h3{font-family:'Playfair Display',serif;font-weight:700;color:var(--ink);}
+  body.lang-hi h1, body.lang-hi h2, body.lang-hi h3{font-family:'Baloo 2',serif;font-weight:700;}
+  a{color:inherit;}
+  img{max-width:100%;display:block;}
+  .wrap{max-width:1120px;margin:0 auto;padding:0 24px;}
+
+  .lang-block{display:none !important;}
+  body.lang-en .lang-block[data-lang="en"].lb-block{display:block !important;}
+  body.lang-hi .lang-block[data-lang="hi"].lb-block{display:block !important;}
+  body.lang-en .lang-block[data-lang="en"].lb-flex{display:flex !important;}
+  body.lang-hi .lang-block[data-lang="hi"].lb-flex{display:flex !important;}
+  body.lang-en .lang-block[data-lang="en"].lb-inline{display:inline !important;}
+  body.lang-hi .lang-block[data-lang="hi"].lb-inline{display:inline !important;}
+  body.lang-en .lang-block[data-lang="en"].lb-grid{display:grid !important;}
+  body.lang-hi .lang-block[data-lang="hi"].lb-grid{display:grid !important;}
+
+  nav{
+    position:sticky;top:0;z-index:50;
+    background:var(--glass);backdrop-filter:blur(16px) saturate(1.2);-webkit-backdrop-filter:blur(16px) saturate(1.2);
+    border-bottom:1px solid var(--glass-border);
+  }
+  nav .wrap{display:flex;align-items:center;justify-content:space-between;padding:14px 24px;gap:16px;}
+  .brand{display:flex;align-items:center;gap:10px;text-decoration:none;}
+  .brand-logo{height:46px;width:auto;flex-shrink:0;border-radius:12px;}
+  .lang-switch{display:flex;border:1.5px solid var(--gold);border-radius:999px;overflow:hidden;background:rgba(255,255,255,.5);}
+  .lang-switch button{border:0;background:transparent;padding:7px 16px;font-weight:700;font-size:.82rem;cursor:pointer;color:var(--gold-dark);}
+  .lang-switch button[aria-pressed="true"]{background:var(--gold);color:#fff;}
+  .nav-links{display:flex;gap:22px;list-style:none;}
+  .nav-links a{font-size:.88rem;font-weight:600;text-decoration:none;}
+  @media(max-width:700px){.nav-links{display:none;}}
+
+  main{padding:70px 24px 100px;}
+  .eyebrow{text-transform:uppercase;letter-spacing:.14em;font-size:.75rem;font-weight:600;color:var(--gold-dark);margin-bottom:14px;}
+  body.lang-hi .eyebrow{text-transform:none;letter-spacing:0;}
+
+  .scripts-hero{max-width:760px;margin:0 auto 48px;text-align:center;}
+  .scripts-hero h1{font-size:clamp(1.7rem,4vw,2.5rem);margin-bottom:16px;}
+  .scripts-hero p{color:var(--ink-soft);font-size:1.05rem;}
+
+  .chapter-index{grid-template-columns:repeat(4,1fr);gap:16px;margin:0 auto 64px;max-width:1000px;}
+  .chapter-index a{
+    display:block;background:var(--glass);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);
+    border:1px solid var(--glass-border);border-radius:16px;padding:18px 16px;
+    text-decoration:none;text-align:center;transition:transform .15s ease,box-shadow .15s ease;
+  }
+  .chapter-index a:hover{transform:translateY(-3px);box-shadow:0 10px 26px rgba(44,62,80,.1);}
+  .idx-num{font-size:.72rem;font-weight:700;color:var(--gold-dark);text-transform:uppercase;letter-spacing:.06em;margin-bottom:6px;}
+  body.lang-hi .idx-num{text-transform:none;letter-spacing:0;}
+  .idx-title{font-size:.9rem;font-weight:600;color:var(--ink);line-height:1.4;}
+  @media(max-width:900px){.chapter-index{grid-template-columns:repeat(2,1fr);}}
+  @media(max-width:560px){.chapter-index{grid-template-columns:1fr;}}
+
+  article.chapter{
+    max-width:800px;margin:0 auto 56px;
+    background:var(--glass-strong);backdrop-filter:blur(18px) saturate(1.1);-webkit-backdrop-filter:blur(18px) saturate(1.1);
+    border:1px solid var(--glass-border);border-radius:24px;padding:44px 40px;
+    box-shadow:0 20px 50px rgba(44,62,80,.08);scroll-margin-top:90px;
+  }
+  .chapter-head{text-align:center;margin-bottom:26px;}
+  .chapter-num{font-size:.78rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--gold-dark);margin-bottom:8px;}
+  body.lang-hi .chapter-num{text-transform:none;letter-spacing:0;font-family:'Mukta',sans-serif;}
+  .chapter-head h2{font-size:clamp(1.3rem,3vw,1.7rem);margin-bottom:12px;}
+  .chapter-dek{color:var(--ink-soft);font-size:1rem;max-width:560px;margin:0 auto 10px;}
+  .chapter-meta{font-size:.8rem;color:var(--gold-dark);font-weight:600;}
+  .chapter-highlights{margin:0 0 24px;display:grid;gap:14px;}
+  .chapter-highlights blockquote{
+    font-family:'Playfair Display',serif;font-style:italic;font-size:1.05rem;line-height:1.6;
+    color:var(--ink);background:rgba(197,160,89,.1);border-left:3px solid var(--gold);
+    padding:16px 20px;border-radius:0 12px 12px 0;
+  }
+  body.lang-hi .chapter-highlights blockquote{font-family:'Baloo 2',serif;font-style:normal;}
+  details.chapter-body{text-align:center;}
+  details.chapter-body summary{
+    cursor:pointer;list-style:none;display:inline-flex;align-items:center;gap:8px;
+    font-weight:700;color:#fff;background:var(--gold);padding:11px 22px;border-radius:999px;
+    font-size:.9rem;box-shadow:0 8px 20px rgba(197,160,89,.3);
+  }
+  details.chapter-body summary::-webkit-details-marker{display:none;}
+  details.chapter-body summary::after{content:'▾';font-size:.8rem;}
+  details.chapter-body[open] summary::after{content:'▴';}
+  details.chapter-body[open] summary{margin-bottom:28px;}
+  .chapter-text{text-align:left;}
+  .chapter-text h3{font-size:1.08rem;color:var(--gold-dark);margin:26px 0 10px;}
+  .chapter-text h3:first-child{margin-top:0;}
+  .chapter-text p{margin-bottom:14px;font-size:1rem;color:var(--ink);}
+  .chapter-lang-note{
+    display:inline-block;margin-bottom:18px;font-size:.78rem;color:var(--gold-dark);
+    background:rgba(197,160,89,.12);padding:5px 14px;border-radius:999px;font-weight:600;
+  }
+  @media(max-width:600px){article.chapter{padding:30px 22px;}}
+
+  .scripts-cta{max-width:640px;margin:0 auto;text-align:center;}
+  .btn{
+    display:inline-flex;align-items:center;gap:8px;padding:12px 26px;border-radius:999px;
+    font-weight:700;text-decoration:none;font-size:.95rem;background:var(--gold);color:#fff;
+    box-shadow:0 10px 24px rgba(197,160,89,.35);
+  }
+
+  footer{padding:40px 0;text-align:center;color:var(--ink-soft);font-size:.85rem;}
+  footer a{color:var(--gold-dark);font-weight:700;text-decoration:none;}
+
+  .chapter-breadcrumb{max-width:840px;margin:28px auto 0;}
+  .chapter-breadcrumb a{font-weight:700;font-size:.85rem;color:var(--gold-dark);text-decoration:none;}
+  .chapter-breadcrumb a:hover{text-decoration:underline;}
+  .chapter-pagenav{max-width:840px;margin:36px auto 0;display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;}
+  .chapter-pagenav a{font-weight:700;font-size:.9rem;padding:10px 16px;border:1.5px solid var(--gold);border-radius:999px;text-decoration:none;color:var(--gold-dark);}
+  .chapter-pagenav a:hover{background:var(--gold);color:#fff;}
+  .chapter-watch-yt{margin:14px 0 4px;}
+  .chapter-watch-yt a{display:inline-flex;align-items:center;gap:8px;background:#FF0000;color:#fff !important;padding:9px 18px;border-radius:999px;font-weight:700;font-size:.85rem;text-decoration:none;}
+  .chapter-watch-yt a:hover{opacity:.9;}
+
+</style>
+</head>
+<body class="lang-hi">
+
+<nav>
+  <div class="wrap">
+    <a class="brand" href="index.html">
+      <img src="logo.png" alt="Equal Tales Storyline" class="brand-logo">
+    </a>
+    <ul class="nav-links lang-block lb-flex" data-lang="en">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="youtube.html">YouTube</a></li>
+    </ul>
+    <ul class="nav-links lang-block lb-flex" data-lang="hi">
+      <li><a href="index.html">होम</a></li>
+      <li><a href="youtube.html">यूट्यूब</a></li>
+    </ul>
+    <div class="lang-switch" role="group" aria-label="Language / भाषा">
+      <button type="button" data-lang="en" aria-pressed="false">EN</button>
+      <button type="button" data-lang="hi" aria-pressed="true">हिं</button>
+    </div>
+  </div>
+</nav>
+
+<main>
+  
+
+
+
+  <div class="chapter-breadcrumb">
+    <a class="lang-block lb-inline" data-lang="en" href="scripts.html">&larr; All chapters</a>
+    <a class="lang-block lb-inline" data-lang="hi" href="scripts.html">&larr; सभी अध्याय</a>
+  </div>
+<article class="chapter" id="chapter-9">
+  <div class="chapter-head">
+    <div class="chapter-num lang-block lb-inline" data-lang="en">Chapter 9</div>
+    <div class="chapter-num lang-block lb-inline" data-lang="hi">अध्याय 9</div>
+    <h2 class="lang-block lb-block" data-lang="en">Temple, Sea and Power: The Story of the Chola Empire</h2>
+    <h2 class="lang-block lb-block" data-lang="hi">मंदिर, समुद्र और सत्ता: चोल साम्राज्य की कहानी</h2>
+    <p class="chapter-dek lang-block lb-block" data-lang="en">How South India's temple kings turned stone into power, and the sea into a highway.</p>
+    <p class="chapter-dek lang-block lb-block" data-lang="hi">दक्षिण भारत के मंदिरों, चोल राजाओं और समुद्र पार जाती व्यापारिक ताक़त की कहानी।</p>
+    <div class="chapter-meta">
+      <span class="lang-block lb-inline" data-lang="en">20 min read</span>
+      <span class="lang-block lb-inline" data-lang="hi">20 मिनट का पाठ</span>
+    </div>
+  </div>
+  <div class="chapter-highlights">
+    <blockquote>“इतिहास यहां काग़ज़ पर नहीं, पत्थर पर सांस लेता है।”</blockquote>
+    <blockquote>“मध्यकालीन दक्षिण भारत की कहानी ऐसी ही है - बड़े मंदिरों और छोटे दुखों की कहानी।”</blockquote>
+  </div>
+  <details class="chapter-body" open>
+    <summary>
+      <span class="lang-block lb-inline" data-lang="en">Read the full chapter</span>
+      <span class="lang-block lb-inline" data-lang="hi">पूरा अध्याय पढ़ें</span>
+    </summary>
+    <div class="chapter-text lang-block lb-block" data-lang="en">
+<h3>Beginning</h3>
+<p>There is a flower.</p>
+<p>There is a faint smile on the face.</p>
+<p>And before it stands someone whose very silence unsettles the heart.</p>
+<p>In the ninth century, on the rocks of Sigiriya in Sri Lanka, some unnamed person carved lines much like these. He was looking at a painted woman - drawn on the rock, beautiful, silent, still. He was asking her - you have a flower in your hand, a smile on your face, so why do you not say something sweet to me?</p>
+<p>History is often written in the voice of kings. In inscriptions, kings speak. In donation charters, conquerors speak. On temple walls, power speaks.</p>
+<p>But sometimes, on stone, some unnamed lover speaks too.</p>
+<p>And then we understand that medieval South India was not only the story of empires. It was the whole world of the human being - love, war, trade, temple, slavery, poetry, tax, sea, sculpture, hunger, devotion, and power.</p>
+<p>In this episode we will travel through South India between the seventh and thirteenth centuries. Especially through that geography which the Cholas transformed. A power that rose from the delta of the Kaveri made Thanjavur its capital, turned temples into a language of statecraft, set foot in Sri Lanka, sent ships as far as Sumatra, and brought the water of the Ganga south to give its splendour a new name.</p>
+<p>But within the shine of this splendour there are many shadows too.</p>
+<p>Because history must be read not only by the lamp of victory, but also by the ashes of the defeated.</p>
+<h3>1. A Temple, Two Priests, and the Face of Power</h3>
+<p>In the 1230s, in a Shiva temple in Tamil Nadu, there were two Brahmin priests.</p>
+<p>Their work was to perform worship. To serve the deity. To manage the temple's affairs.</p>
+<p>But they tampered with the temple's accounts. They stole money from the temple's income. One stole a jewel from the goddess's image and gave it to his mistress. They treated people of the lower orders harshly. When a servant asked for his daily ration, he was locked up in solitary confinement.</p>
+<p>Not only that - royal messengers were beaten, dunked in water, and the temple refused to pay state taxes.</p>
+<p>In the end, temple trustees, Shaiva devotees, and local people together declared the two of them guilty. The crime was not merely theft. The crime was against Shiva - sacrilege against the god. The crime was against the king - treason against the state.</p>
+<p>The two of them were expelled from the temple. Their property was confiscated.</p>
+<p>This incident sounds like some crime story, but in truth it shows us the face of the greatest institution of medieval South India - the temple.</p>
+<p>The temple was not merely a place of lamps, bells, and flowers.</p>
+<p>It was an economic institution.</p>
+<p>It was a social institution.</p>
+<p>It was a political institution.</p>
+<p>It was a place where there were gods, and there were donations; there was land, and there was tax; there was employment, and there was power, and there was exploitation too.</p>
+<p>If we are to understand the Chola age, we cannot stand before the temple and look only at its spire. We must read the letters carved on its walls. We must also look at the hands that raised the stone. At the farmers too, whose taxes lit the lamps. At the slaves too, who worked the fields. And at the artisans too, through whose hands the gods began to breathe in bronze.</p>
+<h3>2. The Rise of the Cholas: From the Kaveri to an Empire</h3>
+<p>The Chola dynasty re-emerges in a new form around 850 CE. A man named Vijayalaya seized Thanjavur. His origins are not entirely clear. But he picked up an old, glorious name from Tamil Sangam literature - Chola.</p>
+<p>In history, names too are weapons.</p>
+<p>Sometimes the sword conquers land, sometimes a name conquers memory.</p>
+<p>Vijayalaya gave his rule the prestige of the past through the name Chola. His heartland was the Kaveri delta - fertile, rich in water, full of paddy. This region could be called Tamil Nadu's rice bowl.</p>
+<p>But fertile land, even as it gives life, also awakens hunger for power.</p>
+<p>The new Cholas fought wars with neighbouring dynasties - for land, glory, and wealth. The beginning was not easy. In 948-949, at the Battle of Takkolam, the Cholas were badly defeated by the Rashtrakutas. The Chola crown prince Rajaditya was seated on an elephant. An arrow came, and he was killed on the spot.</p>
+<p>Picture it - the battlefield, the crown prince seated on the elephant's back, the screams of soldiers, and an arrow that pierces not only a body, but tears through a dynasty's confidence as well.</p>
+<p>A tenth-century tsunami on the southern coast may also have caused heavy damage. But in history, some dynasties do not end by falling - falling only makes them harder.</p>
+<p>The Cholas made a comeback.</p>
+<p>And in the eleventh century, under Rajaraja I and his son Rajendra I, Chola power reached its peak.</p>
+<p>We know most about the Cholas from inscriptions. Thousands of inscriptions survive in Sanskrit and Tamil. More than 13,000 on temple walls alone.</p>
+<p>History does not breathe on paper here - it breathes in stone.</p>
+<h3>3. The Language of Victory, and the Voice of the Defeated</h3>
+<p>The Cholas described their military glory in shining language. The king performs a digvijaya - a conquest of the four directions. He draws the line of his power across the earth. In the inscriptions the words echo - victory, splendour, donation, dharma, deity.</p>
+<p>But every victory has a second side.</p>
+<p>An inscription of 1007-1008 carries criticism of Rajaraja I's northern Karnataka campaign. It records that the Chola army trampled the land, killed women, children, and Brahmins, took women captive, and destroyed the caste order.</p>
+<p>Sri Lankan historians called the Cholas blood-sucking demons.</p>
+<p>The very dynasty that presents itself on its own walls as protector of dharma becomes, in someone else's memory, a devastating invader.</p>
+<p>This is history's truth.</p>
+<p>The very same event is a campaign from the victor's side, and a catastrophe from the defeated's.</p>
+<p>The Cholas were not alone in violence. Pre-modern Indian dynasties often resorted to violence for power. But the Cholas were exceptional in their success. Their influence reached from South India to Sri Lanka, the Maldives, toward Bengal, and as far as Sumatra.</p>
+<h3>4. Sri Lanka, the Maldives, and the Politics of the Sea</h3>
+<p>Rajaraja I took control of the northern parts of Sri Lanka and the Maldive islands. Rajendra I launched raids toward Sumatra and the Malay Peninsula around 1025.</p>
+<p>Sri Lanka was not merely a nearby island. It was a crossroads of maritime trade. Great revenue could be had there from import duties. There were pearl-fishing zones. There were copper reserves. These were in demand in Chola India.</p>
+<p>The Cholas held control over the northern part of Sri Lanka for roughly 75 years - from the 990s to 1070.</p>
+<p>Then the north of Sri Lanka slipped out of Chola control. An interesting alliance between Lanka and Burma played a role in this. King Vijayabahu I of Polonnaruwa sought help from King Anawrahta of Pagan. This is considered the earliest known example of a Sri Lankan political initiative toward a Southeast Asian power.</p>
+<p>Here another point opens up.</p>
+<p>South India, Sri Lanka, Burma - these were not separate geographies. The sea did not separate them. The sea joined them.</p>
+<p>In the centuries that followed, a cultural exchange of monks, relics, and manuscripts continued between Burma and Sri Lanka.</p>
+<p>Seen through history's eye, the Bay of Bengal and the Indian Ocean are not empty stretches of water. They are routes. Routes of memory. Routes of trade. Routes of religion. Routes of power.</p>
+<h3>5. Temple Plunder: Religion, Power, and Political Humiliation</h3>
+<p>The Cholas did not attack only kingdoms. They raided temples too. They carried off images of deities. They installed them in their own temples.</p>
+<p>Hearing this today, we immediately understand it as religious violence. But in pre-modern India the matter was more complex.</p>
+<p>In South Asia, the temple and the image were also an expression of political authority.</p>
+<p>An attack on a temple was not considered merely an attack on a deity. It was an attack on the prestige of the king who was that deity's protector.</p>
+<p>In the seventh century, the Pallavas plundered an image of Ganesha from the Chalukyas. The Chalukyas carried off images of goddesses from north India. In the ninth century, the Pandya king Srimara Srivallabha raided Sri Lanka and seized wealth, including a golden Buddha. A few decades later, a Sinhalese ruler sent an army into South India and took the Buddha image back.</p>
+<p>That is, temple plunder was not the story of one religion or one community. It was the language of power.</p>
+<p>In the early eleventh century, Rajendra I seized images of Durga, Shiva, Nandi, Ganesha, and Kali from the Chalukyas, the Kalingas, and the Palas. Those images were placed in Chola temples.</p>
+<p>The message was - your gods are now witnesses to our victory. Your prestige now rests upon our royal stage.</p>
+<p>In 1022, Rajendra I sent his army north - to bring the water of the Ganga. The army travelled roughly 1,600 kilometres from Thanjavur. It passed through several kingdoms. There were clashes. Kings were defeated. Then the water of the Ganga was brought south.</p>
+<p>The Ganga is both a river and a goddess.</p>
+<p>Bringing the water of the Ganga was not merely bringing water. It was drawing the sanctity of north Indian kingship southward. Even before this, the Chalukyas and Rashtrakutas had made similar claims of symbolically bringing the Ganga-Yamuna south.</p>
+<p>Sometimes power announces itself not by the sword, but by water.</p>
+<h3>6. The Gap in the North: Mahmud of Ghazni and Somnath</h3>
+<p>Only a few years after Rajendra's army's Ganga-water campaign, in 1025-1026, Mahmud of Ghazni raided the Somnath temple in Gujarat.</p>
+<p>The distance in both events was similar - roughly 1,600 kilometres. Both targeted a religious symbol. Both carried political and economic significance.</p>
+<p>Mahmud did not attack only Hindu temples. Along with Jain and Hindu temples, he also attacked cities with Muslim populations, such as Rayy. His larger target was wealth. He targeted many cities of north India.</p>
+<p>Interestingly, surviving Brahmanical or other Hindu sources from that time carry almost no mention of Mahmud's raids. A Jain poet, Dhanapala, mentioned Mahmud, mainly to show that Mahmud could not fully damage an image of Mahavira.</p>
+<p>That is, in the Indian perspective of that time, Mahmud's raids were perhaps not recorded as as great a turning point as later memory made them out to be.</p>
+<p>But this moment mattered, because Muslim political powers were entering the subcontinent beyond Sindh.</p>
+<p>Mahmud of Ghazni's courtly world was a mixture of Persian, Arabic, Turkic, and Islamic culture. His court included poets like Firdausi, whose Shahnameh is among the foundational works of Persian literature. It included scholars like Al-Biruni, who wrote about India in Arabic.</p>
+<p>In 1027-1028, Mahmud had Sanskrit-Arabic coins minted in Lahore. On one side was the Islamic declaration in Arabic. On the other, a loose Sanskrit translation in the Sharada script. Muhammad was explained through a word like 'avatara'.</p>
+<p>This coin tells us that in history, identities do not always build walls. Often they become two faces of the very same metal.</p>
+<p>Al-Biruni read India with deep interest. He learned Sanskrit. He wrote on Hindu deities, cosmology, dharmashastra, and festivals. But he also considered India fundamentally different from himself. He wrote that the people of Al-Hind differ from us in every matter - in language, in religion, and in custom.</p>
+<p>Al-Biruni wants to understand, but does not want to adopt.</p>
+<p>He observes, he records, he interprets - but he maintains distance.</p>
+<p>This too is a relationship in history - the relationship of closeness and distance.</p>
+<h3>7. The Chola Temple: The Height of Power in Stone</h3>
+<p>Now let us return south again.</p>
+<p>The Pallavas built the Kailasanathar temple at Kanchipuram and the rock-cut monuments of Mahabalipuram in the seventh century. But temple-building reached a new height in the age of the Cholas.</p>
+<p>The Rajarajeshwaram temple of Thanjavur - completed by Rajaraja I in 1010 - was a structure that touched the sky of its time. Its height reaches 216 feet. Even a thousand years later, standing before it, a person feels as though a mountain stands in stone.</p>
+<p>But this temple was not only for Shiva.</p>
+<p>It was for Rajaraja too.</p>
+<p>Chola temples were named after their royal patrons. The Thanjavur temple has hundreds of inscriptions. They record donations, taxes, financial arrangements, royal history, and administration.</p>
+<p>When the temple was completed, it received 60 bronze images in donation. Roughly a third from the king, a third from the royal family, and a third from Chola officials.</p>
+<p>The temple was the home of the deity, but it was also the public manifesto of the empire.</p>
+<p>Its height said - behold our power.</p>
+<p>Its walls said - read our order.</p>
+<p>Its sculptures said - accept our beauty.</p>
+<p>And its taxes said - the people have paid the price of this splendour.</p>
+<h3>8. Whom Were the Temples For?</h3>
+<p>Art historian Vidya Dehejia argues that temples built by aristocrats, court officials, wealthy women, or Brahmins were built to be admired within their own elite circle. They showed the world of gods and kingship - not the world of the ordinary citizen.</p>
+<p>This point matters a great deal.</p>
+<p>Today we look at a temple and think it must always have been a space open to all. But in medieval South India, the world of the great temples was centred on the elite.</p>
+<p>Rituals were in the hands of Brahmin priests. This brought them power, wealth, and prestige.</p>
+<p>Running temples required vast resources. The Cholas directed villages to give their taxes directly to temples. Such villages were called devadana - that is, a gift to the deity. But in reality, the wealth went to the temple's elite.</p>
+<p>Sometimes temples distributed rice and vegetables on festival days. But even this distribution was mostly limited to temple employees and devotees.</p>
+<p>And then history shows us moments where the temple's shadow feels not cool, but harsh.</p>
+<p>Some villagers had to sell their land to temples to pay fines.</p>
+<p>Some people of the lower orders sold themselves to temples.</p>
+<p>A woman named Nambanambi Kadugal Nangai sold herself, her daughter, her grandson, his children, and others to a temple at Malaperumballam.</p>
+<p>In 1201, a man watched his children dying of hunger. He sold himself and his two daughters to a temple at Tiruppanburam.</p>
+<p>On one side, a 216-foot stone spire.</p>
+<p>On the other, a father defeated by hunger.</p>
+<p>History's eye sees both at once.</p>
+<p>And it is only then that we understand that a civilization's greatness cannot be measured by its monuments alone. It is also measured by the condition in which its weakest people were living.</p>
+<h3>9. Slavery and the Lines of Society</h3>
+<p>Slavery existed in medieval South India. The Chola historian Nilakanta Sastri drew attention, in the inscriptions, to one of the most abhorrent forms of private property in human beings.</p>
+<p>Slaves were called adimai. They worked in the fields. Paddy played a large role in the Chola economy, and paddy demands labour. The field, the water, the transplanting, the harvesting - all of it requires many hands.</p>
+<p>Slaves worked in private homes. They also did domestic labour in temples. Their owners could be Brahmins, could be military commanders, could be political dynasties, could be merchants, and could be temples themselves.</p>
+<p>Today we often remember the Cholas through vast temples and bronze images of a dancing Shiva. But in that same age, slavery existed too.</p>
+<p>The shine of civilization and the shackles of labour were moving side by side.</p>
+<p>Brahmin communities moved from the north toward Tamil Nadu in the first millennium. They received royal land grants. By the tenth century they had become influential landowners in South India.</p>
+<p>Brahmin villages were called brahmadeya. Social stratification was perhaps lesser in non-Brahmin villages of the ninth-tenth centuries. Perhaps this is why, in the early eleventh century, the Cholas directed non-Brahmins to sell their land within Brahmin villages.</p>
+<p>Power is not built by war alone.</p>
+<p>It is built by the lines of land.</p>
+<p>Who owns the field.</p>
+<p>Who owns the temple.</p>
+<p>Who owns the scripture.</p>
+<p>Who owns the labour.</p>
+<p>And who owns only his body, which he may sell in times of hunger.</p>
+<h3>10. Women: Donation, Boundary, and Inequality</h3>
+<p>Elite women in medieval South India had some options, but these too were limited.</p>
+<p>A Chalukya queen had the Rani ki Vav stepwell built in Gujarat around 1085. Chola royal women donated sculptures. Between the eighth and thirteenth centuries, elite women in Tamil Nadu gave donations to temples and religious institutions.</p>
+<p>But this was far less than that of men.</p>
+<p>A woman's presence is there, but it is limited.</p>
+<p>She can give donations, if she comes from the elite.</p>
+<p>She can gain religious prestige, if she has resources.</p>
+<p>But society's larger structure lies in the hands of men and Brahmanical power.</p>
+<p>In history, women are often relegated to footnotes. But when we look closely, they speak from between the walls - in donation charters, in vows, in poems, and sometimes in rebellion.</p>
+<p>Later in this episode we will hear the voices of Akka Mahadevi and Sule Sankavva - voices that rise not from the temple steps, but from a fire within.</p>
+<h3>11. Gods Dancing in Bronze</h3>
+<p>Among the most astonishing artistic achievements of the Chola age are its bronze sculptures.</p>
+<p>In South India, bronze sculptures began to be cast in the eighth century. Between the ninth and thirteenth centuries, this art reached a deep refinement under the Cholas.</p>
+<p>These bronzes were generally 90 to 95 percent copper. Hence they were heavy. They were made using the lost-wax technique. The wax mould broke, so every image was unique. No two were ever exactly alike.</p>
+<p>The most famous form is that of the dancing Shiva - Nataraja.</p>
+<p>This form was popularized by the tenth-century queen Sembiyan. Shiva dances upon a dwarf who symbolizes ignorance. His matted locks whirl. Rhythm is in his hands. A ring of fire surrounds him.</p>
+<p>Time is burning.</p>
+<p>Creation is dancing.</p>
+<p>Destruction is within that same dance, and so is creation.</p>
+<p>Chola artists did not make only Shiva. They also made Vishnu, the Buddha, and many other figures. Images of Karaikkal Ammaiyar are also made - the elderly, emaciated Shaiva saint who prayed to Shiva to remove the burden of her flesh, so she could watch his dance forever.</p>
+<p>Today, in museums, these bronzes are often kept unadorned - bare, gleaming, still.</p>
+<p>But in their religious context they did not appear this way. They were adorned with flowers, silk garments, jewels, and ornaments. Their purpose was not merely art. They invited the deity in.</p>
+<p>In processions, many bronzes were brought out. Some images had rings, so they could be lifted or tied to a palanquin.</p>
+<p>Devotees did not come to look at the sculpture.</p>
+<p>They came for darshan.</p>
+<p>Darshan does not mean merely the devotee seeing the deity. It is a two-way seeing. The devotee sees the deity, the deity sees the devotee.</p>
+<p>In this one moment, the boundary between stone, metal, and flesh melts away for a while.</p>
+<h3>12. Khajuraho and the Walls of Pleasure</h3>
+<p>Outside South India, at this very time, in central India, the Chandela dynasty built the temples of Khajuraho.</p>
+<p>Built between the tenth and eleventh centuries, these temples include Jain, Sun, Vishnu, and Shiva temples. On their outer walls are deities, women, and erotic scenes too.</p>
+<p>Today, people are often startled seeing Khajuraho's erotic depictions. But in pre-modern Hindu traditions, kama - that is, sensory pleasure - was one of life's ideals.</p>
+<p>The eleventh-century architectural text 'Shilpaprakasha' states that a place devoid of erotic images is a place that should be abandoned.</p>
+<p>That is, these images were not in some hidden corner. They were on the outer wall of the temple. They marked the sacred space itself.</p>
+<p>In the medieval world, there was not the kind of wall between the sacred and the erotic that modern morality often builds.</p>
+<p>The twelfth-century mathematician Bhaskara gave a mathematics problem in his Lilavati. A necklace breaks during lovemaking. Some pearls fall on the floor, some on the bed, some the woman catches, some the lover catches, and 6 pearls remain on the string. How many pearls were there in total?</p>
+<p>The answer is 30.</p>
+<p>But that question is not merely mathematics. It is a scene - a necklace breaking in the heat of love, scattering pearls, and a story of the body hidden within numbers.</p>
+<p>In history, sometimes even mathematics becomes poetry.</p>
+<h3>13. The Virashaivas: Devotion Outside the Temple</h3>
+<p>Now let us turn to the religious stream that opened, on questions of caste and gender, a path different from its time - the Virashaivas, also called Lingayats.</p>
+<p>Virashaiva means - a fierce devotee of Shiva.</p>
+<p>This community kept some distance from temple-based worship. It included people from different caste backgrounds, and women. Leadership, still, was in the hands of the elite, upper-caste, men. But the world of followers was far more mixed.</p>
+<p>Among the most famous early Virashaivas is the name of Basavanna. He was also connected, in the twelfth century, to the Kalachuri treasury.</p>
+<p>The poetry of the Virashaivas was called vachana - short, sharp, direct utterances.</p>
+<p>Among more than 200 vachana-writers of the twelfth and thirteenth centuries, women and people of the lower castes appear prominently.</p>
+<p>Hear the voice of Akka Mahadevi.</p>
+<p>She says - the husband is within, the lover is without. I cannot manage both. This world and that other, I cannot manage both. My beloved is the one who has neither birth nor death, neither form nor limit. He alone is my husband. As for the rest, husbands who die and rot, throw them into the kitchen fire.</p>
+<p>This is not merely a spiritual statement.</p>
+<p>It is a challenge to the domestic order.</p>
+<p>It is a woman's claim to choose her own body, her own love, her own god.</p>
+<p>The voice of Sule Sankavva is different still. She speaks of her old life - as a courtesan. In her words there is the marketplace too, the body too, fear too, and a vow made before Shiva too.</p>
+<p>In these vachanas, the language does not sit at the height of Sanskrit. It comes in Kannada - more direct, more human, more breathing.</p>
+<p>In this very period, literature in the vernacular languages of South India was advancing rapidly. Writing in Kannada existed from the late first millennium. Nannaya is considered the first Telugu poet, who wrote the Telugu Mahabharata in the eleventh century.</p>
+<p>In this respect South India was ahead of the north. In the north, the great flowering of vernacular literature comes later.</p>
+<h3>14. Merchant Guilds: Power Sailing Upon the Sea</h3>
+<p>Trade flourished in medieval South India. Powerful merchant guilds played a great role in this.</p>
+<p>The most notable was the Ainnurruvar, or Ayyavole - a merchant guild of Tamil origin, active by the eleventh century from South India all the way to Sumatra.</p>
+<p>These merchants described themselves in language fit for kings. A Kannada record of 1135 compares the Ainnurruvar to Rama, Arjuna, Bhishma, Bhima, Yudhishthira, Sahadeva, Indra, Kama, and Surya.</p>
+<p>Merchants did not carry only goods. They carried prestige too. They gave donations to temples. They supported Vaishnava, Shaiva, Jain, Buddhist, and Muslim groups.</p>
+<p>Their network included Hindus and Jains from different caste backgrounds.</p>
+<p>The relationship between Chola power and Tamil merchant guilds was deep. There was mutual benefit, and mutual support.</p>
+<p>There was trade between Sumatra's Srivijaya dynasty and the Cholas. But the Srivijayas tried, in Chinese records, to present the Cholas as their subordinates. Perhaps they also tried to levy tolls on Tamil merchants heading to China in the Straits of Malacca.</p>
+<p>In 1025, Rajendra I sent ships to protect merchant interests. A Chola invasion struck Srivijaya's cities in the Malay Peninsula, the Nicobars, and Sumatra. In this campaign, a naval fleet assembled from merchant ships also played its part.</p>
+<p>Here the Chola empire appears to us in maritime form.</p>
+<p>The waters of the Kaveri have now met the sea.</p>
+<p>King and merchant unfurl their sails into the same wind.</p>
+<h3>15. China, Quanzhou, and the Tamil Shiva Temple</h3>
+<p>In the following centuries, Tamil trade with China kept growing. In the thirteenth century the Cholas declined, but trade continued.</p>
+<p>Marco Polo visited the Chinese port city of Quanzhou in the late 1200s. He wrote that Indian ships came bearing spices, precious stones, pearls, and other goods.</p>
+<p>The Tamil community in Quanzhou built a Shiva temple in 1281. There was an inscription there in both Tamil and Chinese. It also carried a reference to the Mongol ruler of the time, Kublai Khan.</p>
+<p>This scene is astonishing.</p>
+<p>A Chinese port.</p>
+<p>The shadow of the Mongol empire.</p>
+<p>Tamil merchants.</p>
+<p>A temple of Shiva.</p>
+<p>Tamil and Chinese script.</p>
+<p>And the sea, which joins all of this together.</p>
+<p>History's most interesting moments happen at borders - where no single language stays alone, no single deity stays only in its own country, no merchant remains only a merchant. He becomes a carrier of culture.</p>
+<h3>16. India's Shadow in Southeast Asia</h3>
+<p>Elements of Indian culture and religions kept spreading through Southeast Asia.</p>
+<p>Hindu artefacts have been found in southern Vietnam - hundreds of small golden plaques of deities. In Cambodia, the twelfth-century ruler Suryavarman II built the vast temple complex of Angkor Wat. He had diplomatic relations with the Cholas.</p>
+<p>In Java, a local version of the Ramayana was written in the tenth century. It was based on the Sanskrit Rama story, but transformed within Javanese contexts. This story could be read as the victory of a local king, and also as the Shaiva tradition's victory over Buddhism.</p>
+<p>One thing becomes clear from this.</p>
+<p>The stories that travelled out of India did not remain unchanged.</p>
+<p>Wherever they arrived, they took root again in that new soil.</p>
+<p>When the Ramayana reached Java, it no longer remained only the story of Ayodhya. It became Java's story too.</p>
+<p>This is exactly the journey of culture.</p>
+<p>It spreads, it breaks, it changes, and then it is born again in a new form.</p>
+<h3>17. Sigiriya: The People's Poetry Written on Rock</h3>
+<p>In Sigiriya, Sri Lanka, a public literary culture flourished between the eighth and ninth centuries.</p>
+<p>Sigiriya was a vast palace complex. In the fifth century, beautiful murals of women had been painted on the rock. Later it became something like a tourist site.</p>
+<p>Roughly 700 visitors, from kings to merchants, carved lines of Sinhala poetry onto the rock.</p>
+<p>They looked at the painted women and wrote. Someone spoke of their beauty. Someone answered a poem written earlier. Someone borrowed a word, someone else tried to improve upon it.</p>
+<p>This was a kind of ancient comment section - on stone.</p>
+<p>Where people came, saw, were moved, and left behind their own line.</p>
+<p>One verse says - this rock of Sigiriya captivates the minds of the many who have climbed it.</p>
+<p>This is exactly where we began this episode - with that unnamed poet, asking the painted woman why, with a flower in her hand and a smile on her face, she does not say something sweet to him.</p>
+<p>Amid history's vast structures, this question seems very small.</p>
+<p>But the truth is that it is exactly this small question that makes history human.</p>
+<h3>18. The Malabar Coast: Arabs, Jews, Persians and Indians</h3>
+<p>Now let us turn toward the south-western coast - Malabar.</p>
+<p>By the ninth century, Arab-Muslim, Jewish, Persian, and Indian communities were present on the Malabar coast. Sometimes one group had control over a particular trade, such as Arabs being important in the horse trade. Sometimes partnerships were formed.</p>
+<p>The Geniza documents tell us some such stories from the twelfth century. These are a vast collection of documents found in Egypt, which also give us information about Jewish merchants connected with India.</p>
+<p>One story is that of Abraham Ben Yiju.</p>
+<p>In the autumn of 1132 he was at Mangalore on the Malabar coast. He freed an enslaved woman named Ashu. He gave her the Hebrew name Berakha and married her.</p>
+<p>This marriage was made possible by trade ties spread across the Arabian Sea. But it was also unusual.</p>
+<p>Abraham lived in India for years. He ran a bronze workshop making custom orders for clients in Aden. Ashu gave birth to three children. One of them died in infancy or childhood.</p>
+<p>When the couple later went to Aden, they received a cold welcome. Some Jewish people considered this cross-cultural marriage, between a former master and a former slave, illegitimate.</p>
+<p>This story opens up several boundaries at once - caste, religion, sea, trade, slavery, marriage, and community acceptance.</p>
+<p>History here belongs to no king.</p>
+<p>It belongs to a couple.</p>
+<p>It belongs to a woman, who was a slave, who was freed, who received a new name, who married, who had children, and whom the world, even so, never fully accepted.</p>
+<p>The story of medieval South India is exactly this - a story of great temples and small sorrows.</p>
+<h3>19. The End of the Cholas: Buried Bronzes and Insecurity</h3>
+<p>In the thirteenth century, turmoil increased in Tamil Nadu.</p>
+<p>In the 1200s, many temples imposed strict rules on their administrators. This was a sign of growing corruption within temples. Recall, this very episode began with two corrupt priests.</p>
+<p>Many Chola bronzes were buried in this very period. Some still emerge from the soil today - turned green from centuries in damp earth.</p>
+<p>Why might they have been buried?</p>
+<p>Perhaps out of fear.</p>
+<p>Perhaps to protect them from plunder.</p>
+<p>Perhaps because of political instability.</p>
+<p>Chola power kept shrinking around Thanjavur. In 1279 the Chola dynasty formally came to an end, absorbed by the Pandyas.</p>
+<p>Dynasties rise. Dynasties fall.</p>
+<p>This is not extraordinary.</p>
+<p>But the burying of the images gives us a sign of the insecurity of the people of that time. They were hiding gods in the earth, the way a mother hides a child in the darkness and says - stay quiet for now, the times are not right.</p>
+<p>In history, decline is not only the kings' alone.</p>
+<p>It lives in the worry of the artisans.</p>
+<p>It lives in the strategy of the priests.</p>
+<p>It lives in the fear of devotees.</p>
+<p>And it lives in the green-turned skin of those images, which, centuries later, come back out of the earth.</p>
+<h3>Closing</h3>
+<p>So this was the picture of medieval South India.</p>
+<p>The delta of the Kaveri, where paddy grew.</p>
+<p>The temple of Thanjavur, which was power's declaration in stone.</p>
+<p>The Chola army, which went north to bring the water of the Ganga.</p>
+<p>The Chola ships, which reached Sumatra.</p>
+<p>Sri Lanka, desired for its trade and its pearls.</p>
+<p>The temple, where there were gods, and there were taxes too.</p>
+<p>The bronze Shiva, dancing within a ring of fire.</p>
+<p>The slave, working in the fields and in the temples.</p>
+<p>Akka Mahadevi, who speaks of throwing the world's husbands into the fire.</p>
+<p>The unnamed poet of Sigiriya, questioning the painted woman in love.</p>
+<p>The Tamil Shiva temple of Quanzhou, where China, Tamil, Shiva, and Kublai Khan meet within a single inscription.</p>
+<p>And those bronzes buried in the earth, which tell us that even within a civilization's greatness, fear resides.</p>
+<p>This episode places us, in India's story, before a hard truth.</p>
+<p>The past we love is not only an object of pride. It is also a subject for scrutiny.</p>
+<p>The Cholas built temples - astonishing.</p>
+<p>They raised art to great heights - extraordinary.</p>
+<p>They extended trade and power across the sea - significant.</p>
+<p>But within that very world there was slavery. There was hunger. There was the harshness of caste. There were limits placed upon women. There was corruption within temples. Images of gods were plundered like trophies of war.</p>
+<p>To love history, one must see it whole.</p>
+<p>Its peaks too.</p>
+<p>Its shadows too.</p>
+<p>Because India's story is not written in a single colour.</p>
+<p>Sometimes it is the gleam of bronze.</p>
+<p>Sometimes it is a god turned green, buried in damp earth.</p>
+<p>Sometimes it is a sail opening upon the sea.</p>
+<p>Sometimes it is a father trying to save his children amid hunger.</p>
+<p>Sometimes it is an inscription carved on a temple wall.</p>
+<p>And sometimes it is that unnamed question written on the rock of Sigiriya -</p>
+<p>You have a flower in your hand.</p>
+<p>There is a smile on your face.</p>
+<p>Then why do you not say something sweet to me?</p>
+<p>Perhaps history is like this too.</p>
+<p>It stands before us - beautiful, silent, mysterious.</p>
+<p>And we keep asking it, again and again -</p>
+<p>What was the truth?</p>
+    </div>
+    <div class="chapter-text lang-block lb-block" data-lang="hi">
+<h3>शुरुआत</h3>
+<p>एक फूल है।</p>
+<p>चेहरे पर हल्की मुस्कान है।</p>
+<p>और सामने कोई ऐसा है, जिसकी ख़ामोशी भी दिल को बेचैन कर देती है।</p>
+<p>9वीं शताब्दी में श्रीलंका के सिगिरिया की चट्टानों पर किसी अनाम इंसान ने कुछ ऐसी ही पंक्तियां उकेरी थीं। वह किसी चित्रित स्त्री को देख रहा था - चट्टान पर बनी हुई, सुंदर, मौन, स्थिर। वह उससे पूछ रहा था - तुम्हारे हाथ में फूल है, चेहरे पर मुस्कान है, फिर तुम मुझसे कोई मीठी बात क्यों नहीं कहती?</p>
+<p>इतिहास अक्सर राजाओं की आवाज़ में लिखा जाता है। शिलालेखों में राजा बोलते हैं। दान-पत्रों में विजेता बोलते हैं। मंदिर की दीवारों पर सत्ता बोलती है।</p>
+<p>लेकिन कभी-कभी पत्थर पर कोई अनाम प्रेमी भी बोल उठता है।</p>
+<p>और तब हमें समझ में आता है कि मध्यकालीन दक्षिण भारत सिर्फ़ साम्राज्यों की कहानी नहीं था। यह मनुष्य की पूरी दुनिया थी - प्रेम, युद्ध, व्यापार, मंदिर, दासता, कविता, कर, समुद्र, मूर्तियां, भूख, भक्ति और सत्ता की दुनिया।</p>
+<p>इस एपिसोड में हम 7वीं से 13वीं शताब्दी के बीच के दक्षिण भारत में जाएंगे। ख़ासकर उस भूगोल में, जिसे चोलों ने बदला। कावेरी के डेल्टा से उठी एक शक्ति ने तंजावुर को राजधानी बनाया, मंदिरों को राजकीय भाषा में बदल दिया, श्रीलंका तक कदम रखा, सुमात्रा तक जहाज़ भेजे और गंगा का जल दक्षिण लाकर अपने वैभव का नया नाम रखा।</p>
+<p>लेकिन इस वैभव की चमक में बहुत-सी छायाएं भी हैं।</p>
+<p>क्योंकि इतिहास को सिर्फ़ विजय के दीप से नहीं, पराजितों की राख से भी पढ़ना पड़ता है।</p>
+<h3>1. एक मंदिर, दो पुजारी और सत्ता का चेहरा</h3>
+<p>1230 के दशक में तमिलनाडु के एक शिव-मंदिर में दो ब्राह्मण पुजारी थे।</p>
+<p>उनका काम पूजा करना था। देवता की सेवा करना था। मंदिर की व्यवस्था संभालना था।</p>
+<p>लेकिन उन्होंने मंदिर के हिसाब-किताब में हेराफेरी की। मंदिर की आय से पैसा चुराया। एक ने देवी की मूर्ति से रत्न चुराकर अपनी प्रेमिका को दे दिया। निचले वर्गों के साथ कठोर बर्ताव किया। एक नौकर ने अपनी रोज़ की खुराक मांगी, तो उसे अकेले क़ैद कर दिया गया।</p>
+<p>इतना ही नहीं - राजकीय दूतों को मारा गया, डुबोया गया, और राज्य-कर देने से इनकार किया गया।</p>
+<p>आख़िरकार मंदिर-न्यासियों, शैव भक्तों और स्थानीय लोगों ने मिलकर उन दोनों को दोषी ठहराया। अपराध सिर्फ़ चोरी का नहीं था। अपराध शिव के विरुद्ध था - शिवद्रोह। अपराध राजा के विरुद्ध था - राजद्रोह।</p>
+<p>उन दोनों को मंदिर से निकाला गया। संपत्ति ज़ब्त कर ली गई।</p>
+<p>यह घटना किसी अपराध-कथा की तरह सुनाई देती है, लेकिन असल में यह हमें मध्यकालीन दक्षिण भारत की सबसे बड़ी संस्था का चेहरा दिखाती है - मंदिर का।</p>
+<p>मंदिर सिर्फ़ आरती, दीप, घंटी और फूल की जगह नहीं था।</p>
+<p>वह आर्थिक संस्था था।</p>
+<p>वह सामाजिक संस्था था।</p>
+<p>वह राजनीतिक संस्था था।</p>
+<p>वह ऐसी जगह थी जहां देवता भी थे, दान भी था, ज़मीन भी थी, कर भी था, रोज़गार भी था, शक्ति भी थी और शोषण भी।</p>
+<p>अगर हमें चोल युग को समझना है, तो मंदिर के सामने खड़े होकर सिर्फ़ शिखर नहीं देखना होगा। हमें दीवार पर खुदे अक्षर पढ़ने होंगे। हमें उन हाथों को भी देखना होगा जिन्होंने पत्थर उठाये। उन किसानों को भी, जिनके कर से दीप जलते थे। उन दासों को भी, जिन्होंने खेतों में काम किया। और उन कारीगरों को भी, जिनके हाथों से कांसे में देवता सांस लेने लगे।</p>
+<h3>2. चोलों का उदय: कावेरी से साम्राज्य तक</h3>
+<p>चोल राजवंश लगभग 850 ईसवी के आसपास एक नये रूप में उभरता है। विजयालय नाम के एक व्यक्ति ने तंजावुर पर अधिकार किया। उनकी उत्पत्ति साफ़ नहीं है। लेकिन उन्होंने तमिल संगम साहित्य से एक पुराने गौरवपूर्ण नाम को उठाया - चोल।</p>
+<p>इतिहास में नाम भी हथियार होते हैं।</p>
+<p>कभी तलवार ज़मीन जीतती है, कभी नाम स्मृति जीतता है।</p>
+<p>विजयालय ने चोल नाम से अपने शासन को अतीत की प्रतिष्ठा दी। उनका हृदय-क्षेत्र था कावेरी डेल्टा - उपजाऊ, जल-समृद्ध, धान से भरा। यह इलाक़ा तमिलनाडु का चावल-कटोरा कहा जा सकता है।</p>
+<p>लेकिन उपजाऊ ज़मीन जितनी जीवन देती है, उतनी ही सत्ता की भूख भी जगाती है।</p>
+<p>नए चोलों ने पड़ोसी राजवंशों से युद्ध किये। भूमि, यश और धन के लिए। शुरुआत आसान नहीं थी। 948-949 में तक्कोलम की लड़ाई में चोलों को राष्ट्रकूटों ने बुरी तरह हराया। चोल युवराज राजादित्य हाथी पर बैठे थे। एक तीर आया और वह वहीं मारे गये।</p>
+<p>कल्पना कीजिए - युद्ध का मैदान, हाथी की पीठ पर बैठा युवराज, सैनिकों की चीत्कार, और एक तीर जो सिर्फ़ शरीर नहीं भेदता, राजवंश के आत्मविश्वास को भी चीर देता है।</p>
+<p>दक्षिणी समुद्र-तट पर 10वीं शताब्दी की एक सुनामी ने भी भारी नुक़सान पहुंचाया होगा। लेकिन इतिहास में कुछ राजवंश गिरकर ख़त्म नहीं होते, वे गिरकर और कठोर हो जाते हैं।</p>
+<p>चोलों ने वापसी की।</p>
+<p>और 11वीं शताब्दी में राजराज प्रथम और उनके बेटे राजेंद्र प्रथम के समय चोल शक्ति अपने चरम पर पहुंची।</p>
+<p>हम चोलों के बारे में सबसे ज़्यादा शिलालेखों से जानते हैं। संस्कृत और तमिल में हज़ारों शिलालेख बचे हैं। अकेले मंदिर की दीवारों पर 13,000 से अधिक।</p>
+<p>इतिहास यहां काग़ज़ पर नहीं, पत्थर पर सांस लेता है।</p>
+<h3>3. विजय की भाषा और पराजितों की आवाज़</h3>
+<p>चोल अपने सैन्य वैभव का वर्णन चमकदार भाषा में करते थे। राजा दिग्विजय करता है - चारों दिशाओं की विजय। वह पृथ्वी पर अपनी शक्ति की रेखा खींचता है। शिलालेखों में शब्द गूंजते हैं - विजय, वैभव, दान, धर्म, देवता।</p>
+<p>लेकिन हर विजय की एक दूसरी तरफ़ भी होती है।</p>
+<p>1007-1008 के एक शिलालेख में राजराज प्रथम के उत्तरी कर्नाटक अभियान की आलोचना मिलती है। उसमें चोल सेना के बारे में लिखा गया कि उसने भूमि रौंदी, महिलाओं, बच्चों और ब्राह्मणों की हत्या की, महिलाओं को बंदी बनाया और जाति-व्यवस्था को नष्ट किया।</p>
+<p>श्रीलंकाई इतिहासकारों ने चोलों को खून चूसने वाले पिशाच कहा।</p>
+<p>वही राजवंश, जो अपनी दीवारों पर ख़ुद को धर्मरक्षक दिखाता है, किसी और की स्मृति में विनाशकारी आक्रमणकारी बन जाता है।</p>
+<p>यही इतिहास का सच है।</p>
+<p>एक ही घटना विजेता की तरफ़ से अभियान है, पराजित की तरफ़ से आपदा।</p>
+<p>चोल हिंसा में अकेले नहीं थे। प्राक्-आधुनिक भारतीय राजवंश अक्सर शक्ति के लिए हिंसा का सहारा लेते थे। लेकिन चोल अपनी सफलता में असाधारण थे। उनका असर दक्षिण भारत से श्रीलंका, मालदीव, बंगाल की दिशा और सुमात्रा तक गया।</p>
+<h3>4. श्रीलंका, मालदीव और समुद्र की राजनीति</h3>
+<p>राजराज प्रथम ने श्रीलंका के उत्तरी हिस्सों और मालदीव द्वीपों पर अधिकार किया। राजेंद्र प्रथम ने लगभग 1025 में सुमात्रा और मलय प्रायद्वीप की तरफ़ छापे मारे।</p>
+<p>श्रीलंका सिर्फ़ पास का द्वीप नहीं था। वह समुद्री व्यापार का चौराहा था। वहां से आयात-कर की बड़ी आय मिल सकती थी। मोती-मत्स्य क्षेत्र थे। तांबे के भंडार थे। चोल भारत में इनकी मांग थी।</p>
+<p>चोलों ने श्रीलंका के उत्तरी हिस्से पर लगभग 75 साल तक नियंत्रण बनाए रखा - 990 के दशक से 1070 तक।</p>
+<p>फिर श्रीलंका का उत्तर चोल नियंत्रण से बाहर गया। इसमें लंका और बर्मा के बीच एक दिलचस्प गठबंधन की भूमिका थी। पोलोनरुवा के राजा विजयबाहु प्रथम ने पागन के राजा अनावराता से मदद मांगी। यह दक्षिण-पूर्व एशियाई सत्ता की तरफ़ श्रीलंकाई राजनीतिक पहल का सबसे पहला ज्ञात उदाहरण माना जाता है।</p>
+<p>यहां एक और बात खुलती है।</p>
+<p>दक्षिण भारत, श्रीलंका, बर्मा - ये अलग-अलग भूगोल नहीं थे। समुद्र इन्हें अलग नहीं करता था। समुद्र इन्हें जोड़ता था।</p>
+<p>बाद की सदियों में बर्मा और श्रीलंका के बीच भिक्षुओं, अवशेषों और पांडुलिपियों का सांस्कृतिक आदान-प्रदान चलता रहा।</p>
+<p>इतिहास की आंख से देखें, तो बंगाल की खाड़ी और हिंद महासागर पानी की ख़ाली जगह नहीं हैं। वे रास्ते हैं। स्मृति के रास्ते। व्यापार के रास्ते। धर्म के रास्ते। सत्ता के रास्ते।</p>
+<h3>5. मंदिर-लूट: धर्म, सत्ता और राजनीतिक अपमान</h3>
+<p>चोलों ने सिर्फ़ राज्यों पर हमला नहीं किया। उन्होंने मंदिरों पर भी छापे मारे। देव-मूर्तियां उठाईं। उन्हें अपने मंदिरों में स्थापित किया।</p>
+<p>आज यह बात सुनकर हम तुरंत इसे धार्मिक हिंसा की तरह समझते हैं। लेकिन प्राक्-आधुनिक भारत में मामला अधिक जटिल था।</p>
+<p>दक्षिण एशिया में मंदिर और मूर्ति राजनीतिक अधिकार की अभिव्यक्ति भी थे।</p>
+<p>मंदिर पर हमला सिर्फ़ देवता पर हमला नहीं माना जाता था। वह उस राजा की प्रतिष्ठा पर हमला था, जो उस देवता का संरक्षक था।</p>
+<p>7वीं शताब्दी में पल्लवों ने चालुक्यों से गणेश की मूर्ति लूटी। चालुक्यों ने उत्तरी भारत से देवियों की मूर्तियां उठाईं। 9वीं शताब्दी में पांड्य राजा श्रीमार श्रीवल्लभ ने श्रीलंका पर छापा मारकर धन छीना, जिसमें सोने का बुद्ध भी शामिल था। कुछ दशक बाद एक सिंहाली शासक ने दक्षिण भारत में सेना भेजकर बुद्ध-मूर्ति वापस ले ली।</p>
+<p>यानी मंदिर-लूट किसी एक धर्म या एक समुदाय की कहानी नहीं थी। यह सत्ता की भाषा थी।</p>
+<p>11वीं शताब्दी की शुरुआत में राजेंद्र प्रथम ने चालुक्यों, कलिंगों और पालों से दुर्गा, शिव, नंदी, गणेश और काली की मूर्तियां छीनीं। उन मूर्तियों को चोल मंदिरों में रखा गया।</p>
+<p>इसका संदेश था - तुम्हारे देवता अब हमारी विजय के साक्षी हैं। तुम्हारी प्रतिष्ठा अब हमारे राजकीय मंच पर रखी है।</p>
+<p>1022 में राजेंद्र प्रथम ने अपनी सेना को उत्तर भेजा - गंगा का जल लाने के लिए। सेना ने तंजावुर से लगभग 1,600 किलोमीटर की यात्रा की। कई राज्यों से गुज़री। झड़पें हुईं। राजाओं को हराया गया। फिर गंगा का जल दक्षिण लाया गया।</p>
+<p>गंगा नदी भी है, देवी भी है।</p>
+<p>गंगा का जल लाना सिर्फ़ पानी लाना नहीं था। यह उत्तर भारतीय राजत्व की पवित्रता को दक्षिण में खींच लाना था। इससे पहले चालुक्य और राष्ट्रकूट भी गंगा-यमुना को प्रतीक की तरह दक्षिण लाने का दावा कर चुके थे।</p>
+<p>सत्ता कभी-कभी तलवार से नहीं, जल से अपनी घोषणा करती है।</p>
+<h3>6. उत्तर का अंतराल: महमूद ग़ज़नवी और सोमनाथ</h3>
+<p>राजेंद्र की सेना के गंगा-जल अभियान के कुछ ही साल बाद, 1025-1026 में ग़ज़ना के महमूद ने गुजरात के सोमनाथ मंदिर पर छापा मारा।</p>
+<p>दोनों घटनाओं में दूरी एक जैसी थी - लगभग 1,600 किलोमीटर। दोनों में एक धार्मिक प्रतीक को निशाना बनाया गया। दोनों में राजनीतिक और आर्थिक महत्व था।</p>
+<p>महमूद ने सिर्फ़ हिंदू मंदिरों पर हमला नहीं किया। उसने जैन और हिंदू मंदिरों के साथ-साथ मुस्लिम आबादी वाले शहरों पर भी हमला किया, जैसे रय। उसका बड़ा लक्ष्य धन था। उसने उत्तर भारत के कई शहरों को निशाना बनाया।</p>
+<p>दिलचस्प बात यह है कि उस समय के जीवित ब्राह्मणीय या अन्य हिंदू स्रोतों में महमूद के हमलों का लगभग कोई उल्लेख नहीं मिलता। एक जैन कवि धनपाल ने महमूद का उल्लेख किया, वह भी मुख्यतः यह दिखाने के लिए कि महमूद महावीर की मूर्ति को पूरी तरह नुक़सान नहीं पहुंचा सका।</p>
+<p>यानी अपने समय के भारतीय परिप्रेक्ष्य में महमूद के छापे शायद उतने बड़े मोड़ की तरह दर्ज नहीं हुए, जितना बाद की स्मृति में उन्हें बना दिया गया।</p>
+<p>लेकिन यह क्षण अहम था, क्योंकि मुस्लिम राजनीतिक शक्तियां सिंध से आगे उपमहाद्वीप में प्रवेश कर रही थीं।</p>
+<p>महमूद ग़ज़ना की दरबारी दुनिया फ़ारसी, अरबी, तुर्की और इस्लामी संस्कृति का मिश्रण थी। उसके दरबार में फ़िरदौसी जैसे कवि थे, जिनकी शाहनामा फ़ारसी साहित्य की बुनियादी रचनाओं में है। अल-बिरूनी जैसे विद्वान थे, जिन्होंने भारत पर अरबी में लिखा।</p>
+<p>महमूद ने 1027-1028 में लाहौर में संस्कृत-अरबी सिक्के ढलवाए। एक तरफ़ अरबी में इस्लामी घोषणा थी। दूसरी तरफ़ शारदा लिपि में संस्कृत में उसका ढीला अनुवाद। मुहम्मद को अवतार जैसे शब्द से समझाया गया।</p>
+<p>यह सिक्का हमें बताता है कि इतिहास में पहचानें हमेशा दीवार नहीं बनातीं। कई बार वे एक ही धातु के दो पहलू बनती हैं।</p>
+<p>अल-बिरूनी ने भारत को गहरी दिलचस्पी से पढ़ा। उसने संस्कृत सीखी। हिंदू देवताओं, ब्रह्मांड-विज्ञान, धर्मशास्त्र और त्योहारों पर लिखा। लेकिन उसने भारत को अपने से मूल रूप से अलग भी माना। उसने लिखा कि अल-हिंद के लोग हर मामले में हमसे अलग हैं - भाषा, धर्म और रीति-रिवाज में।</p>
+<p>अल-बिरूनी समझना चाहता है, लेकिन अपनाना नहीं चाहता।</p>
+<p>वह देखता है, दर्ज करता है, व्याख्या करता है - लेकिन दूरी बनाए रखता है।</p>
+<p>इतिहास में यह भी एक रिश्ता है - निकटता और दूरी का रिश्ता।</p>
+<h3>7. चोल मंदिर: पत्थर में सत्ता की ऊंचाई</h3>
+<p>अब फिर दक्षिण लौटते हैं।</p>
+<p>पल्लवों ने 7वीं शताब्दी में कांचीपुरम का कैलासनाथर मंदिर और महाबलीपुरम की शैल-रचनाएं बनवाईं। लेकिन मंदिर-निर्माण चोलों के समय एक नयी ऊंचाई तक पहुंचा।</p>
+<p>तंजावुर का राजराजेश्वरम मंदिर - जिसे राजराज प्रथम ने 1010 में पूरा कराया - अपने समय का आकाश छूता ढांचा था। इसकी ऊंचाई 216 फ़ुट तक जाती है। एक हज़ार साल बाद भी उसके सामने खड़े होकर आदमी को लगता है कि पत्थर में कोई पर्वत खड़ा है।</p>
+<p>लेकिन यह मंदिर सिर्फ़ शिव के लिए नहीं था।</p>
+<p>यह राजराज के लिए भी था।</p>
+<p>चोल मंदिरों का नाम उनके राजकीय संरक्षकों के नाम पर रखा गया। तंजावुर के मंदिर में सैकड़ों शिलालेख हैं। उनमें दान, कर, वित्तीय व्यवस्था, राजकीय इतिहास और प्रशासन दर्ज हैं।</p>
+<p>जब मंदिर पूरा हुआ, उसे 60 कांसे की मूर्तियां दान में मिलीं। लगभग एक-तिहाई राजा से, एक-तिहाई शाही परिवार से और एक-तिहाई चोल अधिकारियों से।</p>
+<p>मंदिर देवता का घर था, मगर साथ ही साम्राज्य का सार्वजनिक घोषणापत्र भी था।</p>
+<p>उसकी ऊंचाई कहती थी - हमारी सत्ता देखो।</p>
+<p>उसकी दीवारें कहती थीं - हमारी व्यवस्था पढ़ो।</p>
+<p>उसकी मूर्तियां कहती थीं - हमारा सौंदर्य मानो।</p>
+<p>और उसके कर कहते थे - इस वैभव की क़ीमत जनता ने चुकाई है।</p>
+<h3>8. मंदिर किसके लिए थे?</h3>
+<p>कला-इतिहासकार विद्या देहेजिया का तर्क है कि अभिजात लोगों, दरबारी अधिकारियों, धनी महिलाओं या ब्राह्मणों के बनाए मंदिर अपने ही अभिजात दायरे में सराहे जाने के लिए बने थे। वे देवताओं और राजत्व की दुनिया दिखाते थे - साधारण नागरिक की दुनिया नहीं।</p>
+<p>यह बात बहुत ज़रूरी है।</p>
+<p>हम आज मंदिर देखते हैं और सोचते हैं कि वह हमेशा सबके लिए खुली जगह रही होगी। लेकिन मध्यकालीन दक्षिण भारत में बड़े मंदिरों का संसार अभिजात केंद्रित था।</p>
+<p>अनुष्ठान ब्राह्मण पुजारियों के हाथ में थे। इससे उन्हें शक्ति मिली, धन मिला, प्रतिष्ठा मिली।</p>
+<p>मंदिरों को चलाने के लिए भारी संसाधन चाहिए थे। चोलों ने गांवों को निर्देश दिया कि वे अपने कर सीधे मंदिरों को दें। ऐसे गांवों को देवदान कहा जाता था - यानी ईश्वर को दान। लेकिन असल में धन मंदिर-अभिजात वर्ग के पास जाता था।</p>
+<p>कभी-कभी मंदिर उत्सव के दिनों में चावल और सब्ज़ियां बांटते थे। लेकिन यह वितरण भी अधिकतर मंदिर कर्मचारियों और भक्तों के इर्द-गिर्द था।</p>
+<p>और फिर इतिहास हमें ऐसे क्षण दिखाता है जहां मंदिर की छाया बहुत ठंडी नहीं, बहुत कठोर लगती है।</p>
+<p>कुछ ग्रामीणों को जुर्माने चुकाने के लिए अपनी ज़मीन मंदिरों को बेचनी पड़ी।</p>
+<p>कुछ निम्न-वर्गीय लोगों ने ख़ुद को मंदिरों को बेच दिया।</p>
+<p>नंबनंबी कडुगल नंगाई नाम की एक स्त्री ने ख़ुद को, अपनी बेटी, अपने पोते, उसके बच्चों और अन्य लोगों को मालपेरुंबल्लम के एक मंदिर को बेच दिया।</p>
+<p>1201 में एक आदमी अपने बच्चों को भूख से मरता देख रहा था। उसने ख़ुद को और अपनी दो बेटियों को तिरुपांबुरम के एक मंदिर को बेच दिया।</p>
+<p>एक तरफ़ पत्थर का 216 फ़ुट ऊंचा शिखर।</p>
+<p>दूसरी तरफ़ भूख से हारता हुआ पिता।</p>
+<p>इतिहास की आंख दोनों को एक साथ देखती है।</p>
+<p>और तभी समझ में आता है कि किसी सभ्यता की महानता सिर्फ़ उसके स्मारकों से नहीं नापी जा सकती। वह इस बात से भी नापी जाती है कि उसके सबसे कमज़ोर लोग किस हालत में जी रहे थे।</p>
+<h3>9. दासता और समाज की रेखाएं</h3>
+<p>मध्यकालीन दक्षिण भारत में दासता मौजूद थी। चोलों के इतिहासकार नीलकंठ शास्त्री ने शिलालेखों में मानव प्राणियों में निजी संपत्ति के सबसे जघन्य रूप की तरफ़ ध्यान दिलाया था।</p>
+<p>दासों को अदिमै कहा जाता था। वे खेतों में काम करते थे। चोलों की अर्थव्यवस्था में धान की बड़ी भूमिका थी और धान श्रम मांगता है। खेत, पानी, रोपाई, कटाई - सबके लिए बहुत हाथ चाहिए।</p>
+<p>दास निजी घरों में काम करते थे। मंदिरों में भी घरेलू श्रम करते थे। उनके मालिक ब्राह्मण भी हो सकते थे, सैन्य प्रमुख भी, राजनीतिक राजवंश भी, व्यापारी भी और मंदिर भी।</p>
+<p>आज हम चोलों को अक्सर विशाल मंदिरों और नृत्य करते शिव की कांसे की मूर्तियों से याद करते हैं। लेकिन उसी युग में दासता भी थी।</p>
+<p>सभ्यता की चमक और श्रम की बेड़ियां साथ-साथ चल रही थीं।</p>
+<p>ब्राह्मण समुदाय पहली सहस्राब्दी में उत्तर से तमिलनाडु की तरफ़ आए। उन्हें शाही भूमि-अनुदान मिले। 10वीं शताब्दी तक वे दक्षिण भारत में प्रभावशाली भू-स्वामी बन गये।</p>
+<p>ब्राह्मण गांवों को ब्राह्मदेय कहा गया। 9वीं-10वीं शताब्दी के ग़ैर-ब्राह्मण गांवों में सामाजिक स्तरीकरण शायद कम था। शायद यही कारण था कि चोलों ने 11वीं शताब्दी की शुरुआत में ग़ैर-ब्राह्मणों को ब्राह्मण गांवों के भीतर अपनी ज़मीन बेचने का निर्देश दिया।</p>
+<p>सत्ता सिर्फ़ युद्ध से नहीं बनती।</p>
+<p>वह ज़मीन की रेखाओं से बनती है।</p>
+<p>किसके पास खेत है।</p>
+<p>किसके पास मंदिर है।</p>
+<p>किसके पास शास्त्र है।</p>
+<p>किसके पास श्रम है।</p>
+<p>और किसके पास सिर्फ़ शरीर है, जिसे वह भूख के समय बेच सकता है।</p>
+<h3>10. स्त्रियां: दान, सीमा और असमानता</h3>
+<p>मध्यकालीन दक्षिण भारत में अभिजात महिलाओं के पास कुछ विकल्प थे, लेकिन वे भी सीमित थे।</p>
+<p>चालुक्य रानी ने लगभग 1085 में गुजरात में रानी की वाव का निर्माण कराया। चोल शाही महिलाओं ने मूर्तियां दान कीं। 8वीं से 13वीं शताब्दी के बीच तमिलनाडु में अभिजात महिलाओं ने मंदिरों और धार्मिक संस्थाओं को दान दिये।</p>
+<p>लेकिन पुरुषों की तुलना में यह बहुत कम था।</p>
+<p>स्त्री की उपस्थिति है, लेकिन सीमित है।</p>
+<p>वह दान दे सकती है, अगर वह अभिजात वर्ग से आती है।</p>
+<p>वह धार्मिक प्रतिष्ठा हासिल कर सकती है, अगर उसके पास संसाधन हैं।</p>
+<p>लेकिन समाज की बड़ी संरचना पुरुषों और ब्राह्मणीय शक्ति के हाथ में है।</p>
+<p>इतिहास में स्त्रियां अक्सर फ़ुटनोट की तरह रख दी जाती हैं। लेकिन जब हम ध्यान से देखते हैं, तो वे दीवारों के बीच से बोलती हैं - दान-पत्रों में, वचनों में, कविताओं में, कभी-कभी विद्रोह में।</p>
+<p>इस एपिसोड में आगे हम अक्का महादेवी और सुलेसंकव्वा की आवाज़ सुनेंगे - ऐसी आवाज़ें, जो मंदिर की सीढ़ियों से नहीं, भीतर की आग से उठती हैं।</p>
+<h3>11. कांसे में नाचते देवता</h3>
+<p>चोल युग की सबसे अद्भुत कलात्मक उपलब्धियों में कांसे की मूर्तियां आती हैं।</p>
+<p>दक्षिण भारत में 8वीं शताब्दी में कांसे की मूर्तियां ढलनी शुरू हुईं। 9वीं से 13वीं शताब्दी के बीच यह कला चोलों के अधीन गहरी परिष्कृति तक पहुंची।</p>
+<p>ये कांसे आम तौर पर 90 से 95 प्रतिशत तांबे के होते थे। इसलिए भारी होते थे। इन्हें लॉस्ट-वैक्स तकनीक से बनाया जाता था। मोम का सांचा टूटता था, इसलिए हर मूर्ति अनन्य होती थी। कोई दूसरी ठीक वैसी नहीं।</p>
+<p>सबसे प्रसिद्ध रूप है नृत्य करते शिव का - नटराज।</p>
+<p>यह रूप 10वीं शताब्दी की रानी सेम्बियन ने लोकप्रिय किया। शिव अज्ञान के प्रतीक बौने पर नृत्य कर रहे हैं। उनकी जटाएं घूम रही हैं। हाथों में लय है। चारों ओर अग्नि का वलय है।</p>
+<p>समय जल रहा है।</p>
+<p>सृष्टि नाच रही है।</p>
+<p>विनाश भी उसी नृत्य में है और सृजन भी।</p>
+<p>चोल कलाकारों ने सिर्फ़ शिव नहीं बनाये। विष्णु, बुद्ध और कई अन्य आकृतियां भी बनाईं। करैक्काल अम्मैयार की मूर्तियां भी बनती हैं - वह वृद्ध, क्षीण शैव संत, जिसने शिव से अपने शरीर का बोझ हटाने की प्रार्थना की, ताकि वह हमेशा उनका नृत्य देख सके।</p>
+<p>आज संग्रहालयों में ये कांसे अक्सर बिना सजावट के रखे जाते हैं - ख़ाली, चमकते हुए, स्थिर।</p>
+<p>लेकिन अपने धार्मिक संदर्भ में वे ऐसे नहीं दिखते थे। उन्हें फूलों, रेशमी वस्त्रों, रत्नों और आभूषणों से सजाया जाता था। उनका उद्देश्य सिर्फ़ कला नहीं था। वे देवता को आमंत्रित करते थे।</p>
+<p>जुलूसों में कई कांसे बाहर निकाले जाते थे। कुछ मूर्तियों में छल्ले होते थे, ताकि उन्हें उठाया जा सके या पालकी से बांधा जा सके।</p>
+<p>भक्त मूर्ति को देखने नहीं आते थे।</p>
+<p>वे दर्शन करने आते थे।</p>
+<p>दर्शन का अर्थ सिर्फ़ भक्त का देवता को देखना नहीं है। यह दो तरफ़ा देखना है। भक्त देवता को देखता है, देवता भक्त को देखता है।</p>
+<p>इस एक क्षण में पत्थर, धातु और शरीर के बीच की सीमा थोड़ी देर के लिए पिघल जाती है।</p>
+<h3>12. खजुराहो और सुख की दीवारें</h3>
+<p>दक्षिण भारत से बाहर, इसी समय मध्य भारत में चंदेल राजवंश ने खजुराहो के मंदिरों का निर्माण कराया।</p>
+<p>10वीं और 11वीं शताब्दी के बीच बने इन मंदिरों में जैन, सूर्य, विष्णु और शिव मंदिर शामिल हैं। उनकी बाहरी दीवारों पर देवता हैं, स्त्रियां हैं, और कामुक दृश्य भी हैं।</p>
+<p>आज खजुराहो के कामुक चित्रणों को देखकर लोग अक्सर चौंकते हैं। लेकिन प्राक्-आधुनिक हिंदू परंपराओं में काम - यानी इंद्रिय सुख - जीवन के आदर्शों में से एक था।</p>
+<p>11वीं शताब्दी के शिल्पप्रकाश नाम के वास्तुकला-ग्रंथ में कहा गया कि कामुक छवियों से रहित स्थान ऐसा स्थान है जिसे छोड़ देना चाहिए।</p>
+<p>यानी ये छवियां किसी छुपे हुए कोने में नहीं थीं। वे मंदिर की बाहरी दीवार पर थीं। वे धार्मिक स्थान को ही चिह्नित करती थीं।</p>
+<p>मध्यकालीन संसार में पवित्र और कामुक के बीच वैसी दीवार नहीं थी, जैसी आधुनिक नैतिकता अक्सर बनाती है।</p>
+<p>भास्कर नाम के 12वीं शताब्दी के गणितज्ञ ने अपनी लीलावती में एक गणित-समस्या दी। एक हार प्रेम करते समय टूट जाता है। कुछ मोती फ़र्श पर गिरते हैं, कुछ बिस्तर पर, कुछ स्त्री बचाती है, कुछ प्रेमी पकड़ता है, और 6 मोती हार में बचे रहते हैं। कुल मोती कितने थे?</p>
+<p>उत्तर है 30।</p>
+<p>लेकिन वह सवाल सिर्फ़ गणित नहीं है। वह एक दृश्य है - प्रेम की गर्मी में टूटता हुआ हार, बिखरते मोती, और संख्याओं के भीतर छुपी हुई देह की कहानी।</p>
+<p>इतिहास में कभी-कभी गणित भी कविता बन जाता है।</p>
+<h3>13. वीरशैव: मंदिर से बाहर की भक्ति</h3>
+<p>अब उस धार्मिक धारा की तरफ़ चलें जिसने जाति और लिंग के सवालों पर अपने समय से अलग रास्ता खोला - वीरशैव, जिन्हें लिंगायत भी कहा जाता है।</p>
+<p>वीरशैव का अर्थ है - शिव का उग्र भक्त।</p>
+<p>यह समुदाय मंदिर-आधारित पूजा से कुछ दूरी रखता था। इसमें अलग-अलग जाति पृष्ठभूमियों के लोग और महिलाएं शामिल थीं। नेतृत्व फिर भी अभिजात, उच्च-जाति, पुरुषों के हाथ में था। लेकिन अनुयायियों की दुनिया अधिक मिश्रित थी।</p>
+<p>सबसे प्रसिद्ध शुरुआती वीरशैवों में बसवण्ण का नाम आता है। वे 12वीं शताब्दी में कलचुरि कोषागार से भी जुड़े थे।</p>
+<p>वीरशैवों की कविता को वचन कहा गया - छोटे, तीखे, सीधे उद्गार।</p>
+<p>12वीं और 13वीं शताब्दी के 200 से अधिक वचन-लेखकों में महिलाएं और निम्न-जाति के लोग अच्छी तरह दिखते हैं।</p>
+<p>अक्का महादेवी की आवाज़ सुनिए।</p>
+<p>वह कहती हैं - पति भीतर है, प्रेमी बाहर है। मैं दोनों को नहीं संभाल सकती। यह दुनिया और वह दूसरी, दोनों को नहीं संभाल सकती। मेरा प्रिय वह है, जिसका न जन्म है, न मृत्यु, न रूप, न सीमा। वही मेरा पति है। बाक़ी पति जो मरते और सड़ते हैं, उन्हें रसोई की आग में झोंक दो।</p>
+<p>यह सिर्फ़ आध्यात्मिक वाक्य नहीं है।</p>
+<p>यह घरेलू व्यवस्था को चुनौती है।</p>
+<p>यह स्त्री का अपना शरीर, अपना प्रेम, अपना ईश्वर चुनने का दावा है।</p>
+<p>सुलेसंकव्वा की आवाज़ और भी अलग है। वह अपने पुराने जीवन - वेश्या के रूप में - के बारे में बोलती हैं। उनके शब्दों में बाज़ार भी है, देह भी है, डर भी है, और शिव के सामने दिया गया वचन भी।</p>
+<p>इन वचनों में भाषा संस्कृत की ऊंचाई पर नहीं बैठी। यह कन्नड़ में आती है - ज़्यादा सीधी, ज़्यादा मानवीय, ज़्यादा सांस लेती हुई।</p>
+<p>दक्षिण भारत में देशी भाषाओं का साहित्य इसी दौर में तेज़ी से आगे बढ़ रहा था। कन्नड़ में लेखन देर-पहली सहस्राब्दी से था। नन्नय को पहला तेलुगु कवि माना जाता है, जिन्होंने 11वीं शताब्दी में तेलुगु महाभारत लिखी।</p>
+<p>इस मामले में दक्षिण भारत उत्तर से आगे था। उत्तर में देशी साहित्य का बड़ा विकास बाद में आता है।</p>
+<h3>14. व्यापारी-संघ: समुद्र पर चलती हुई शक्ति</h3>
+<p>मध्यकालीन दक्षिण भारत में व्यापार फला-फूला। इसमें शक्तिशाली व्यापारी-संघों की बड़ी भूमिका थी।</p>
+<p>सबसे उल्लेखनीय था अइनूर्रुवर या अय्यावोले - तमिल मूल का व्यापारी-संघ, जो 11वीं शताब्दी तक दक्षिण भारत से लेकर सुमात्रा तक सक्रिय था।</p>
+<p>ये व्यापारी ख़ुद को राजाओं जैसी भाषा में बयान करते थे। 1135 के एक कन्नड़ रिकॉर्ड में अइनूर्रुवर की तुलना राम, अर्जुन, भीष्म, भीम, युधिष्ठिर, सहदेव, इंद्र, काम और सूर्य से की गई।</p>
+<p>व्यापारी सिर्फ़ माल नहीं ढोते थे। वे प्रतिष्ठा भी ढोते थे। वे मंदिरों को दान देते थे। वैष्णव, शैव, जैन, बौद्ध और मुस्लिम समूहों को समर्थन देते थे।</p>
+<p>उनके नेटवर्क में अलग-अलग जाति पृष्ठभूमि के हिंदू और जैन शामिल थे।</p>
+<p>चोल शक्ति और तमिल व्यापारी-संघों का रिश्ता गहरा था। एक-दूसरे से लाभ भी था, सहारा भी।</p>
+<p>सुमात्रा के श्रीविजय राजवंश और चोलों के बीच व्यापार था। लेकिन श्रीविजयों ने चीनी संदर्भों में चोलों को अपना अधीन बताने की कोशिश की। शायद उन्होंने चीन जाने वाले तमिल व्यापारियों से मलक्का की खाड़ी में लेवी वसूलने की भी कोशिश की।</p>
+<p>1025 में राजेंद्र प्रथम ने व्यापारी हितों की रक्षा के लिए जहाज़ भेजे। मलय प्रायद्वीप, निकोबार और सुमात्रा में श्रीविजय के शहरों पर चोल आक्रमण हुआ। इस अभियान में व्यापारी जहाज़ों से जुटाया नौसैनिक बेड़ा भी काम आया।</p>
+<p>यहां चोल साम्राज्य हमें समुद्री रूप में दिखता है।</p>
+<p>कावेरी का जल अब समुद्र से मिल चुका है।</p>
+<p>राजा और व्यापारी एक ही हवा में पाल खोल रहे हैं।</p>
+<h3>15. चीन, क्वानझू और तमिल शिव-मंदिर</h3>
+<p>आगे की सदियों में चीन के साथ तमिल व्यापार बढ़ता रहा। 13वीं शताब्दी में चोलों का पतन हुआ, लेकिन व्यापार चलता रहा।</p>
+<p>मार्को पोलो ने 1200 के दशक के अंत में चीनी बंदरगाह शहर क्वानझू का दौरा किया। उसने लिखा कि भारतीय जहाज़ मसाले, क़ीमती पत्थर, मोती और अन्य सामान लेकर आते थे।</p>
+<p>क्वानझू में तमिल समुदाय ने 1281 में एक शिव-मंदिर बनवाया। वहां तमिल और चीनी - दोनों भाषाओं में शिलालेख था। उसमें उस समय के मंगोल शासक कुबलई खान का भी संदर्भ था।</p>
+<p>यह दृश्य अद्भुत है।</p>
+<p>चीन का बंदरगाह।</p>
+<p>मंगोल साम्राज्य की छाया।</p>
+<p>तमिल व्यापारी।</p>
+<p>शिव का मंदिर।</p>
+<p>तमिल और चीनी अक्षर।</p>
+<p>और समुद्र, जो इन सबको जोड़ता है।</p>
+<p>इतिहास की सबसे दिलचस्प बातें सीमाओं पर होती हैं - जहां कोई भाषा अकेली नहीं रहती, कोई देवता सिर्फ़ अपने देश में नहीं रहता, कोई व्यापारी सिर्फ़ व्यापारी नहीं रहता। वह संस्कृति का वाहक बन जाता है।</p>
+<h3>16. दक्षिण-पूर्व एशिया में भारत की परछाईं</h3>
+<p>भारतीय संस्कृति और धर्मों के तत्व दक्षिण-पूर्व एशिया में फैलते रहे।</p>
+<p>दक्षिणी वियतनाम में हिंदू कलाकृतियां मिली हैं - देवताओं के सैकड़ों छोटे सुनहरे पट्टे। कम्बोडिया में 12वीं शताब्दी के शासक सूर्यवर्मन द्वितीय ने अंगकोर वाट का विशाल मंदिर-परिसर बनवाया। उनके चोलों से राजनयिक संबंध थे।</p>
+<p>जावा में 10वीं शताब्दी में रामायण का स्थानीय रूप लिखा गया। वह संस्कृत रामकथा पर आधारित था, लेकिन जावानी संदर्भों में बदला गया। यह कहानी स्थानीय राजा की विजय की तरह भी पढ़ी जा सकती थी, और शैव परंपरा की बौद्ध धर्म पर विजय की तरह भी।</p>
+<p>इससे एक बात साफ़ होती है।</p>
+<p>भारत से बाहर गई कथाएं ज्यों की त्यों नहीं रहीं।</p>
+<p>वे जहां पहुंचीं, वहां की मिट्टी में फिर से उगीं।</p>
+<p>रामायण जब जावा पहुंची, तो वह सिर्फ़ अयोध्या की कहानी नहीं रही। वह जावा की भी कहानी बन गई।</p>
+<p>यही संस्कृति का सफ़र है।</p>
+<p>वह फैलती है, टूटती है, बदलती है, फिर नये रूप में जन्म लेती है।</p>
+<h3>17. सिगिरिया: चट्टान पर लिखी हुई जनता की कविता</h3>
+<p>श्रीलंका के सिगिरिया में 8वीं और 9वीं शताब्दी के बीच सार्वजनिक साहित्यिक संस्कृति फली-फूली।</p>
+<p>सिगिरिया एक विशाल महल-परिसर था। 5वीं शताब्दी में चट्टान पर सुंदर स्त्रियों के भित्तिचित्र बने थे। बाद में यह एक पर्यटन-स्थल जैसा बन गया।</p>
+<p>राजाओं से लेकर व्यापारियों तक लगभग 700 आगंतुकों ने चट्टान पर सिंहाली कविता की पंक्तियां उकेरीं।</p>
+<p>वे चित्रित स्त्रियों को देखते थे और लिखते थे। कोई उनकी सुंदरता पर बोलता था। कोई किसी पहले लिखी कविता को जवाब देता था। कोई शब्द उधार लेता था, कोई उसे बेहतर बनाने की कोशिश करता था।</p>
+<p>यह एक तरह का प्राचीन कमेंट सेक्शन था - पत्थर पर।</p>
+<p>जहां लोग आए, देखा, प्रभावित हुए और अपनी पंक्ति छोड़ गये।</p>
+<p>एक श्लोक कहता है - सिहिगिरि की यह चट्टान उन बहुत लोगों के मन को लुभाती है जो इस पर चढ़े हैं।</p>
+<p>यहीं से हमने इस एपिसोड की शुरुआत की थी - उस अनाम कवि से, जो चित्रित स्त्री से पूछता है कि तुम्हारे हाथ में फूल है, चेहरे पर मुस्कान है, फिर तुम मीठी बात क्यों नहीं कहती?</p>
+<p>इतिहास की विराट संरचनाओं के बीच यह सवाल बहुत छोटा लगता है।</p>
+<p>लेकिन सच तो यह है कि यही छोटा सवाल इतिहास को मानवीय बनाता है।</p>
+<h3>18. मलाबार तट: अरब, यहूदी, फ़ारसी और भारतीय</h3>
+<p>अब दक्षिण-पश्चिमी तट की तरफ़ चलते हैं - मलाबार।</p>
+<p>9वीं शताब्दी तक मलाबार तट पर अरब-मुस्लिम, यहूदी, फ़ारसी और भारतीय समुदाय मौजूद थे। कभी किसी एक समूह का किसी व्यापार पर नियंत्रण होता था, जैसे अरब घोड़े के व्यापार में महत्वपूर्ण थे। कभी साझेदारियां बनती थीं।</p>
+<p>गेनिज़ा दस्तावेज़ हमें 12वीं शताब्दी की कुछ ऐसी ही कहानियां बताते हैं। ये मिस्र में मिले दस्तावेज़ों का विशाल संग्रह है, जिसमें भारत से जुड़े यहूदी व्यापारियों की जानकारी भी मिलती है।</p>
+<p>एक कहानी है अब्राहम बेन यिजू की।</p>
+<p>1132 की शरद ऋतु में वह मलाबार तट पर मंगलौर में था। उसने अशु नाम की एक दास स्त्री को मुक्त किया। उसे यहूदी नाम बेरखा दिया और उससे विवाह किया।</p>
+<p>यह विवाह अरब सागर के आर-पार फैले व्यापार-संबंधों से संभव हुआ। लेकिन यह असामान्य भी था।</p>
+<p>अब्राहम भारत में वर्षों तक रहा। वह एडेन के ग्राहकों के लिए कस्टम ऑर्डर बनाने वाला कांसा-कारखाना चलाता था। अशु ने तीन बच्चों को जन्म दिया। उनमें से एक की मृत्यु शैशव या बचपन में हो गई।</p>
+<p>जब यह दंपति बाद में एडेन गया, तो उन्हें ठंडा स्वागत मिला। कुछ यहूदी लोगों ने पूर्व-मालिक और पूर्व-दास से जुड़े इस पार-सांस्कृतिक विवाह को नाजायज़ माना।</p>
+<p>यह कहानी कई सीमाएं एक साथ खोलती है - जाति, धर्म, समुद्र, व्यापार, दासता, विवाह और समुदाय की स्वीकृति।</p>
+<p>इतिहास यहां किसी राजा का नहीं है।</p>
+<p>यह एक दंपति का है।</p>
+<p>एक स्त्री का है, जो दास थी, मुक्त हुई, नया नाम मिला, विवाह हुआ, बच्चे हुए, और फिर भी दुनिया ने उसे पूरी तरह स्वीकार नहीं किया।</p>
+<p>मध्यकालीन दक्षिण भारत की कहानी ऐसी ही है - बड़े मंदिरों और छोटे दुखों की कहानी।</p>
+<h3>19. चोलों का अंत: दफ़न कांसे और असुरक्षा</h3>
+<p>13वीं शताब्दी में तमिलनाडु में उथल-पुथल बढ़ी।</p>
+<p>1200 के दशक में कई मंदिरों ने अपने प्रशासकों पर सख़्त नियम लगाए। यह मंदिरों में भ्रष्टाचार बढ़ने का संकेत था। याद कीजिए, इसी एपिसोड की शुरुआत दो भ्रष्ट पुजारियों से हुई थी।</p>
+<p>कई चोल कांसे इसी दौर में दफ़नाये गये। कुछ आज भी मिट्टी से निकलते हैं - सदियों तक गीली मिट्टी में रहने से हरे पड़ गये।</p>
+<p>क्यों दफ़नाये गये होंगे?</p>
+<p>शायद भय से।</p>
+<p>शायद लूट से बचाने के लिए।</p>
+<p>शायद राजनीतिक अस्थिरता के कारण।</p>
+<p>चोल शक्ति तंजावुर के आसपास सिकुड़ती गई। 1279 में चोल राजवंश आधिकारिक रूप से समाप्त हो गया, जब पांड्यों ने उसे अपने भीतर समा लिया।</p>
+<p>राजवंश उठते हैं। राजवंश गिरते हैं।</p>
+<p>यह असाधारण नहीं है।</p>
+<p>लेकिन मूर्तियों का दफ़नाया जाना हमें उस समय के लोगों की असुरक्षा का संकेत देता है। वे देवताओं को मिट्टी में छुपा रहे थे, जैसे कोई मां बच्चे को अंधेरे में छुपाकर कहती है - अभी चुप रहो, समय ठीक नहीं है।</p>
+<p>इतिहास में पतन सिर्फ़ राजाओं का नहीं होता।</p>
+<p>वह शिल्पियों की चिंता में होता है।</p>
+<p>पुजारियों की रणनीति में होता है।</p>
+<p>भक्तों के डर में होता है।</p>
+<p>और उन मूर्तियों की हरी पड़ चुकी त्वचा में होता है, जो सदियों बाद धरती से बाहर आती हैं।</p>
+<h3>समापन</h3>
+<p>तो यह था मध्यकालीन दक्षिण भारत का दृश्य।</p>
+<p>कावेरी का डेल्टा, जहां धान उगता था।</p>
+<p>तंजावुर का मंदिर, जो पत्थर में सत्ता की घोषणा था।</p>
+<p>चोल सेना, जो गंगा का जल लाने उत्तर तक गई।</p>
+<p>चोल जहाज़, जो सुमात्रा तक पहुंचे।</p>
+<p>श्रीलंका, जिसे व्यापार और मोती के कारण चाहा गया।</p>
+<p>मंदिर, जहां देवता भी थे और कर भी।</p>
+<p>कांसे के शिव, जो अग्नि के वलय में नाचते हैं।</p>
+<p>दास, जो खेतों और मंदिरों में काम करते हैं।</p>
+<p>अक्का महादेवी, जो संसार के पति को आग में झोंक देने की बात करती हैं।</p>
+<p>सिगिरिया का अनाम कवि, जो चित्रित स्त्री से प्रेम में सवाल करता है।</p>
+<p>क्वानझू का तमिल शिव-मंदिर, जहां चीन, तमिल, शिव और कुबलई खान एक ही शिलालेख में मिलते हैं।</p>
+<p>और मिट्टी में दफ़न वे कांसे, जो हमें बताते हैं कि सभ्यता की महानता के भीतर भी भय रहता है।</p>
+<p>भारत की कहानी में यह एपिसोड हमें एक कठिन सच के सामने खड़ा करता है।</p>
+<p>हम जिस अतीत से प्रेम करते हैं, वह सिर्फ़ गर्व का पात्र नहीं है। वह जांच का विषय भी है।</p>
+<p>चोलों ने मंदिर बनाये - अद्भुत।</p>
+<p>उन्होंने कला को ऊंचाई दी - असाधारण।</p>
+<p>उन्होंने समुद्र पार व्यापार और शक्ति का विस्तार किया - महत्वपूर्ण।</p>
+<p>लेकिन उसी संसार में दासता थी। भूख थी। जाति की कठोरता थी। स्त्री की सीमाएं थीं। मंदिरों में भ्रष्टाचार था। देव-मूर्तियां युद्ध-ट्रॉफी की तरह लूटी जाती थीं।</p>
+<p>इतिहास को प्रेम करना है, तो उसे पूरा देखना होगा।</p>
+<p>उसके शिखर भी।</p>
+<p>उसकी छाया भी।</p>
+<p>क्योंकि भारत की कहानी किसी एक रंग में नहीं लिखी गई।</p>
+<p>यह कभी कांसे की चमक है।</p>
+<p>कभी गीली मिट्टी में दबा हरा पड़ चुका देवता।</p>
+<p>कभी समुद्र पर खुलती पाल है।</p>
+<p>कभी भूख में अपने बच्चों को बचाने की कोशिश करता पिता।</p>
+<p>कभी मंदिर की दीवार पर खुदा शिलालेख।</p>
+<p>और कभी सिगिरिया की चट्टान पर लिखा वह अनाम प्रश्न -</p>
+<p>तुम्हारे हाथ में फूल है।</p>
+<p>चेहरे पर मुस्कान है।</p>
+<p>फिर तुम मुझसे मीठी बात क्यों नहीं कहती?</p>
+<p>शायद इतिहास भी ऐसा ही है।</p>
+<p>वह हमारे सामने खड़ा है - सुंदर, मौन, रहस्यमय।</p>
+<p>और हम उससे बार-बार पूछते हैं -</p>
+<p>सच क्या था?</p>
+    </div>
+  </details>
+</article>
+
+  <div class="chapter-pagenav">
+    <a class="lang-block lb-inline" data-lang="en" href="episode-8.html">&larr; Don't Judge Without the Whole Truth: India's Journey from Nalanda to Baghdad</a>
+    <a class="lang-block lb-inline" data-lang="hi" href="episode-8.html">&larr; बिना पूरा सच जाने फैसला मत करो: नालंदा से बग़दाद तक भारत की यात्रा</a>
+    <a class="lang-block lb-inline" data-lang="en" href="scripts.html">Read other episodes</a>
+    <a class="lang-block lb-inline" data-lang="hi" href="scripts.html">बाक़ी एपिसोड्स पढ़ें</a>
+    <a class="lang-block lb-inline" data-lang="en" href="episode-10.html">Indo-Persian Delhi: Sultanate, Shrine and a Queen's Rebellion &rarr;</a>
+    <a class="lang-block lb-inline" data-lang="hi" href="episode-10.html">इंडो-पर्शियन दिल्ली: सल्तनत, दरगाह और एक रानी की बग़ावत &rarr;</a>
+  </div>
+
+
+
+
+  <div class="scripts-cta">
+    <p class="lang-block lb-block" data-lang="en" style="color:var(--ink-soft);margin-bottom:20px;">More chapters are on their way as new episodes release.</p>
+    <p class="lang-block lb-block" data-lang="hi" style="color:var(--ink-soft);margin-bottom:20px;">नए एपिसोड आने के साथ और अध्याय यहां जुड़ते रहेंगे।</p>
+    <a class="btn lang-block lb-flex" data-lang="en" href="index.html">← Back to home</a>
+    <a class="btn lang-block lb-flex" data-lang="hi" href="index.html">← होम पर वापस जाएं</a>
+  </div>
+</main>
+
+<footer>
+  <div class="lang-block lb-block" data-lang="en">Equal Tales Storyline · <a href="https://www.youtube.com/@ETStoryline" target="_blank" rel="noopener">@ETStoryline</a> · <a href="youtube.html">Videos</a></div>
+  <div class="lang-block lb-block" data-lang="hi">इक्वल टेल्स स्टोरीलाइन · <a href="https://www.youtube.com/@ETStoryline" target="_blank" rel="noopener">@ETStoryline</a> · <a href="youtube.html">वीडियो</a></div>
+</footer>
+
+<script>
+  function setLang(lang){
+    document.body.classList.remove('lang-en','lang-hi');
+    document.body.classList.add('lang-' + lang);
+    document.documentElement.setAttribute('lang', lang);
+    try{ localStorage.setItem('etsLang', lang); }catch(e){}
+    document.querySelectorAll('.lang-switch button').forEach(function(b){
+      b.setAttribute('aria-pressed', b.dataset.lang === lang ? 'true' : 'false');
+    });
+  }
+  document.querySelectorAll('.lang-switch button').forEach(function(b){
+    b.addEventListener('click', function(){ setLang(b.dataset.lang); });
+  });
+  (function init(){
+    var saved = null;
+    try{ saved = localStorage.getItem('etsLang'); }catch(e){}
+    setLang(saved === 'en' ? 'en' : 'hi');
+  })();
+</script>
+
+</body>
+</html>
