@@ -20,6 +20,8 @@ window.FILMS_DATA = [
     type: "youtube",
     videoId: "_jebuKnAfus",
     thumbnailUrl: "https://img.youtube.com/vi/_jebuKnAfus/maxresdefault.jpg",
+    posterUrl: "assets/images/poster-anaarkali.jpg",
+    heroBackdropUrl: "assets/images/hero-anaarkali.jpg",
     year: 2017,
     flagship: true,
     logline: "When a powerful university vice-chancellor humiliates her on stage, a folk singer refuses to back down.",

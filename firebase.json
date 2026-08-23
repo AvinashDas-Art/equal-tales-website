@@ -1,0 +1,12 @@
+{
+  "hosting": {
+    "site": "equal-tales-storyline",
+    "public": ".",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**",
+      "_to_delete/**"
+    ]
+  }
+}

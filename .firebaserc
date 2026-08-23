@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "equal-tales-storyline"
+  },
+  "targets": {
+    "equal-tales-storyline": {
+      "hosting": {
+        "equal-tales-storyline": [
+          "equal-tales-storyline"
+        ]
+      }
+    }
+  }
+}

@@ -322,7 +322,7 @@
   var flagship = DATA.find(function(f){ return f.flagship; }) || DATA[0];
   if(flagship){
     document.getElementById('hero').style.backgroundImage =
-      "url('" + (flagship.thumbnailUrl || '') + "')";
+      "url('" + (flagship.heroBackdropUrl || flagship.thumbnailUrl || '') + "')";
     document.getElementById('heroTitle').textContent = flagship.title;
     document.getElementById('heroLogline').textContent = flagship.logline || flagship.synopsis || '';
     document.getElementById('heroMeta').textContent =
@@ -342,11 +342,15 @@
     var img = document.createElement('img');
     img.loading = 'lazy';
     img.alt = film.title + (film.subtitle ? ' — ' + film.subtitle : '');
-    img.src = film.thumbnailUrl;
-    img.addEventListener('error', function onErr(){
-      img.removeEventListener('error', onErr);
-      img.src = 'https://img.youtube.com/vi/' + film.videoId + '/hqdefault.jpg';
-    });
+    if(film.posterUrl){
+      img.src = film.posterUrl;
+    } else {
+      img.src = film.thumbnailUrl;
+      img.addEventListener('error', function onErr(){
+        img.removeEventListener('error', onErr);
+        img.src = 'https://img.youtube.com/vi/' + film.videoId + '/hqdefault.jpg';
+      });
+    }
     return img;
   }
 
