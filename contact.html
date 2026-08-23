@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Contact | Equal Tales Entertainment</title>
+<meta name="description" content="Get in touch with Equal Tales Entertainment — Avinash Das's studio behind Anaarkali of Aarah, She, Raat Baaki Hai and Equal Tales Storyline.">
+<link rel="icon" type="image/png" href="favicon.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;500;600;700;800&family=Mukta:wght@400;500;600;700&family=Baloo+2:wght@500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --void:#0a0a0a; --panel:#141414; --line:rgba(255,255,255,.09);
+    --gold:#c5a059; --gold-bright:#e9cb8a; --white:#f5f2ec; --grey:#a8a29a; --grey-dim:#6b665f;
+  }
+  *{box-sizing:border-box;margin:0;padding:0;}
+  body{background:var(--void);color:var(--white);font-family:'Inter',sans-serif;line-height:1.7;min-height:100vh;display:flex;flex-direction:column;}
+  body.lang-hi{font-family:'Mukta',sans-serif;}
+  a{color:inherit;text-decoration:none;}
+  img{max-width:100%;display:block;}
+  .wrap{max-width:1320px;margin:0 auto;padding:0 28px;}
+  .display{font-family:'Bebas Neue',sans-serif;letter-spacing:.03em;}
+
+  .lang-block{display:none !important;}
+  body.lang-en .lang-block[data-lang="en"].lb-block{display:block !important;}
+  body.lang-hi .lang-block[data-lang="hi"].lb-block{display:block !important;}
+  body.lang-en .lang-block[data-lang="en"].lb-flex{display:flex !important;}
+  body.lang-hi .lang-block[data-lang="hi"].lb-flex{display:flex !important;}
+
+  .site-nav{position:sticky;top:0;z-index:200;background:rgba(10,10,10,.9);backdrop-filter:blur(14px) saturate(1.3);-webkit-backdrop-filter:blur(14px) saturate(1.3);border-bottom:1px solid var(--line);padding:14px 0;}
+  .site-nav .wrap{display:flex;align-items:center;justify-content:space-between;gap:20px;}
+  .brand{display:flex;align-items:center;gap:12px;}
+  .brand img{height:40px;width:auto;border-radius:8px;}
+  .brand span{font-family:'Bebas Neue',sans-serif;letter-spacing:.08em;font-size:1.1rem;}
+  .nav-links{display:flex;gap:30px;list-style:none;}
+  .nav-links a{font-size:.8rem;font-weight:600;text-transform:uppercase;letter-spacing:.1em;color:var(--grey);}
+  .nav-links a:hover,.nav-links a.active{color:var(--gold-bright);}
+  .nav-right{display:flex;align-items:center;gap:16px;}
+  .nav-toggle{display:none;flex-direction:column;gap:5px;background:none;border:0;cursor:pointer;padding:8px;}
+  .nav-toggle span{width:22px;height:2px;background:var(--white);display:block;}
+  .lang-switch{display:flex;border:1.5px solid var(--gold);border-radius:999px;overflow:hidden;}
+  .lang-switch button{border:0;background:transparent;padding:6px 14px;font-weight:700;font-size:.76rem;cursor:pointer;color:var(--gold-bright);}
+  .lang-switch button[aria-pressed="true"]{background:var(--gold);color:#141414;}
+  @media(max-width:860px){
+    .nav-links{position:fixed;inset:0;top:0;background:var(--void);flex-direction:column;align-items:center;justify-content:center;gap:26px;transform:translateY(-100%);transition:transform .35s ease;z-index:190;}
+    .nav-links.open{transform:translateY(0);}
+    .nav-links a{font-size:1.25rem;}
+    .nav-toggle{display:flex;position:relative;z-index:201;}
+  }
+
+  main{flex:1;display:flex;align-items:center;padding:70px 0;}
+  .contact-grid{display:grid;grid-template-columns:1fr 1fr;gap:60px;width:100%;}
+  @media(max-width:820px){.contact-grid{grid-template-columns:1fr;}}
+  .eyebrow{font-size:.78rem;font-weight:700;letter-spacing:.2em;text-transform:uppercase;color:var(--gold);margin-bottom:14px;}
+  .eyebrow-hi{font-family:'Baloo 2',sans-serif;font-weight:700;color:var(--gold);font-size:.95rem;margin-bottom:14px;}
+  h1{font-size:clamp(2.2rem,5.5vw,3.4rem);}
+  h1.hi{font-family:'Baloo 2',serif;font-weight:800;font-size:clamp(1.9rem,4.6vw,2.7rem);}
+  .lead{margin-top:16px;color:var(--grey);font-size:1.02rem;max-width:460px;}
+  .contact-list{margin-top:34px;}
+  .contact-item{border-top:1px solid var(--line);padding:20px 0;}
+  .contact-item:first-child{border-top:0;padding-top:0;}
+  .contact-item h5{font-size:.72rem;text-transform:uppercase;letter-spacing:.12em;color:var(--gold);margin-bottom:8px;}
+  body.lang-hi .contact-item h5{font-family:'Baloo 2',sans-serif;text-transform:none;}
+  .contact-item a, .contact-item address{font-size:1.05rem;font-style:normal;color:var(--white);}
+  .contact-item a:hover{color:var(--gold-bright);}
+  address{line-height:1.6;color:var(--grey);font-size:.95rem !important;}
+
+  .panel{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:40px;}
+  .panel h3{font-family:'Bebas Neue',sans-serif;font-size:1.6rem;letter-spacing:.02em;margin-bottom:12px;}
+  .panel p{color:var(--grey);font-size:.94rem;margin-bottom:22px;}
+  .btn{display:inline-flex;align-items:center;gap:10px;padding:14px 26px;border-radius:3px;font-weight:700;font-size:.82rem;text-transform:uppercase;letter-spacing:.1em;background:var(--gold);color:#161310;}
+  .btn:hover{background:var(--gold-bright);}
+  .social-row{margin-top:28px;display:flex;gap:16px;}
+  .social-row a{border:1px solid var(--line);border-radius:999px;padding:9px 18px;font-size:.8rem;font-weight:600;color:var(--grey);}
+  .social-row a:hover{border-color:var(--gold);color:var(--gold-bright);}
+
+  footer{padding:30px 0;text-align:center;color:var(--grey-dim);font-size:.85rem;border-top:1px solid var(--line);}
+  footer a{color:var(--gold-bright);font-weight:700;}
+</style>
+</head>
+<body class="lang-en">
+
+<nav class="site-nav">
+  <div class="wrap">
+    <a class="brand" href="index.html">
+      <img src="ete-logo.png" alt="Equal Tales Entertainment">
+      <span>EQUAL TALES</span>
+    </a>
+    <ul class="nav-links" id="navLinks">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="scripts.html">Storyline</a></li>
+      <li><a href="youtube.html">YouTube</a></li>
+      <li><a href="contact.html" class="active">Contact</a></li>
+    </ul>
+    <div class="nav-right">
+      <div class="lang-switch" role="group" aria-label="Language / भाषा">
+        <button type="button" data-lang="en" aria-pressed="true">EN</button>
+        <button type="button" data-lang="hi" aria-pressed="false">हिं</button>
+      </div>
+      <button class="nav-toggle" id="navToggle" aria-label="Menu" aria-expanded="false"><span></span><span></span><span></span></button>
+    </div>
+  </div>
+</nav>
+
+<main>
+  <div class="wrap contact-grid">
+    <div>
+      <div class="eyebrow lang-block lb-block" data-lang="en">Get In Touch</div>
+      <div class="eyebrow-hi lang-block lb-block" data-lang="hi">संपर्क करें</div>
+      <h1 class="display lang-block lb-block" data-lang="en">Let's Talk</h1>
+      <h1 class="hi lang-block lb-block" data-lang="hi">बात करते हैं</h1>
+      <p class="lead lang-block lb-block" data-lang="en">For collaborations, press, screenings, or just to say hello — reach out any time.</p>
+      <p class="lead lang-block lb-block" data-lang="hi" style="font-family:'Mukta',sans-serif;">सहयोग, प्रेस, स्क्रीनिंग या बस नमस्ते कहने के लिए — कभी भी संपर्क करें।</p>
+
+      <div class="contact-list">
+        <div class="contact-item">
+          <h5 class="lang-block lb-block" data-lang="en">Email</h5>
+          <h5 class="lang-block lb-block" data-lang="hi">ईमेल</h5>
+          <a href="mailto:equaltales@gmail.com">equaltales@gmail.com</a>
+        </div>
+        <div class="contact-item">
+          <h5 class="lang-block lb-block" data-lang="en">Address</h5>
+          <h5 class="lang-block lb-block" data-lang="hi">पता</h5>
+          <address class="lang-block lb-block" data-lang="en">Equal Tales Entertainment Pvt Ltd<br>2G, Krishna Kutir, Sagrika CHS, Behind SBI<br>Juhu Tara Road, Juhu, Mumbai 400049</address>
+          <address class="lang-block lb-block" data-lang="hi" style="font-family:'Mukta',sans-serif;">इक्वल टेल्स एंटरटेनमेंट प्राइवेट लिमिटेड<br>2G, कृष्णा कुटीर, सागरिका सीएचएस, एसबीआई के पीछे<br>जुहू तारा रोड, जुहू, मुंबई 400049</address>
+        </div>
+      </div>
+
+      <div class="social-row">
+        <a href="https://www.youtube.com/@ETStoryline" target="_blank" rel="noopener">YouTube · @ETStoryline</a>
+      </div>
+    </div>
+
+    <div class="panel">
+      <h3 class="lang-block lb-block" data-lang="en">Press &amp; Screener Requests</h3>
+      <h3 class="lang-block lb-block" data-lang="hi" style="font-family:'Baloo 2',serif;font-weight:800;">प्रेस और स्क्रीनर अनुरोध</h3>
+      <p class="lang-block lb-block" data-lang="en">Looking for a screener of a project on the private festival circuit, a press kit, or an interview? Send a short note and we'll get back to you.</p>
+      <p class="lang-block lb-block" data-lang="hi" style="font-family:'Mukta',sans-serif;">प्राइवेट फ़ेस्टिवल सर्किट प्रोजेक्ट का स्क्रीनर, प्रेस किट या इंटरव्यू चाहिए? एक छोटा नोट भेजें, हम जल्द जवाब देंगे।</p>
+      <a class="btn" href="mailto:avinashdasfilmsgmail.com@gmail.com?subject=Press%20%2F%20Screener%20Request">
+        <span class="lang-block lb-flex" data-lang="en">Send a Request</span>
+        <span class="lang-block lb-flex" data-lang="hi">अनुरोध भेजें</span>
+      </a>
+    </div>
+  </div>
+</main>
+
+<footer>
+  <div class="lang-block lb-block" data-lang="en">Equal Tales Entertainment · <a href="index.html">Home</a> · <a href="about.html">About</a></div>
+  <div class="lang-block lb-block" data-lang="hi">इक्वल टेल्स एंटरटेनमेंट · <a href="index.html">होम</a> · <a href="about.html">परिचय</a></div>
+</footer>
+
+<script>
+  var navToggle = document.getElementById('navToggle');
+  var navLinks = document.getElementById('navLinks');
+  navToggle.addEventListener('click', function(){
+    var open = navLinks.classList.toggle('open');
+    navToggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+  });
+  function setLang(lang){
+    document.body.classList.remove('lang-en','lang-hi');
+    document.body.classList.add('lang-' + lang);
+    document.documentElement.setAttribute('lang', lang);
+    try{ localStorage.setItem('etsLang', lang); }catch(e){}
+    document.querySelectorAll('.lang-switch button').forEach(function(b){
+      b.setAttribute('aria-pressed', b.dataset.lang === lang ? 'true' : 'false');
+    });
+  }
+  document.querySelectorAll('.lang-switch button').forEach(function(b){
+    b.addEventListener('click', function(){ setLang(b.dataset.lang); });
+  });
+  (function init(){
+    var saved = null;
+    try{ saved = localStorage.getItem('etsLang'); }catch(e){}
+    setLang(saved === 'hi' ? 'hi' : 'en');
+  })();
+</script>
+</body>
+</html>
