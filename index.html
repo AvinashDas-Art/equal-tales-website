@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Equal Tales Entertainment | Films, Series &amp; Stories by Avinash Das</title>
-<meta name="description" content="The complete filmography of Avinash Das and Equal Tales Entertainment — Anaarkali of Aarah, She, Raat Baaki Hai, Runaway Lugaai, Inn Galiyon Mein, Munuren and more.">
+<meta name="description" content="The complete filmography of Avinash Das and Equal Tales Entertainment: Anaarkali of Aarah, She, Raat Baaki Hai, Runaway Lugaai, Inn Galiyon Mein, Munuren and more.">
 <link rel="icon" type="image/png" href="favicon.png">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -53,13 +53,15 @@
 
   /* ---------- HERO ---------- */
   /* Background layering, back to front: native <video poster> (z:0, shows the poster
-     frame instantly and until/unless the mp4 loads) -> gradient vignettes (z:1) ->
-     content (z:2). */
+     frame instantly and until/unless the mp4 loads) -> radial vignette + gradient
+     overlays (z:1) -> content (z:2). */
   .hero{position:relative;width:100vw;min-height:100vh;display:flex;align-items:flex-end;overflow:hidden;background-size:cover;background-position:center 18%;}
   .hero-video-bg{
     position:absolute;inset:0;z-index:0;width:100%;height:100%;
     object-fit:cover;object-position:center 18%;pointer-events:none;
   }
+  .hero-vignette{content:"";position:absolute;inset:0;z-index:1;pointer-events:none;
+    background:radial-gradient(ellipse 80% 75% at 50% 45%, transparent 30%, rgba(7,7,7,.5) 68%, rgba(7,7,7,.94) 100%);}
   .hero::before{content:"";position:absolute;inset:0;z-index:1;background:linear-gradient(0deg, var(--void) 0%, rgba(7,7,7,.55) 32%, rgba(7,7,7,.15) 58%, rgba(7,7,7,.05) 100%);}
   .hero::after{content:"";position:absolute;inset:0;z-index:1;background:linear-gradient(100deg, rgba(7,7,7,.95) 0%, rgba(7,7,7,.6) 30%, rgba(7,7,7,.1) 62%, transparent 85%);}
   .hero-content{position:relative;z-index:2;padding:0 0 100px;max-width:900px;}
@@ -84,6 +86,23 @@
   .section-eyebrow .rule{width:44px;height:2px;background:var(--gold);}
   .section-eyebrow span{font-size:.76rem;font-weight:700;letter-spacing:.24em;text-transform:uppercase;color:var(--gold);}
   .section-title{font-size:clamp(2.1rem,4vw,3rem);color:var(--white);}
+
+  /* ---------- CINEMA DISPATCHES PREVIEW ---------- */
+  #dispatches{padding:76px 0 20px;}
+  .dispatches-head{display:flex;align-items:flex-end;justify-content:space-between;flex-wrap:wrap;gap:20px;}
+  .dispatch-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:24px;}
+  .dispatch-card{display:block;background:var(--panel);border:1px solid var(--line);border-radius:6px;overflow:hidden;transition:transform .3s cubic-bezier(.2,.8,.3,1), border-color .3s ease, box-shadow .3s ease;}
+  .dispatch-card:hover{transform:translateY(-4px);border-color:rgba(197,160,89,.5);box-shadow:0 20px 44px rgba(0,0,0,.5);}
+  .dispatch-card .thumb{aspect-ratio:16/9;background:#000;overflow:hidden;}
+  .dispatch-card .thumb img{width:100%;height:100%;object-fit:cover;}
+  .dispatch-card .body{padding:20px 22px 24px;}
+  .dispatch-card .cat{display:inline-block;font-size:.62rem;font-weight:800;text-transform:uppercase;letter-spacing:.1em;color:var(--gold-bright);background:rgba(197,160,89,.12);border:1px solid rgba(197,160,89,.4);border-radius:999px;padding:5px 12px;margin-bottom:12px;}
+  .dispatch-card h3{font-family:'Bebas Neue',sans-serif;font-size:1.15rem;letter-spacing:.02em;text-transform:uppercase;color:var(--white);line-height:1.25;margin-bottom:10px;
+    display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;}
+  .dispatch-card .meta{font-size:.7rem;color:var(--grey-dim);text-transform:uppercase;letter-spacing:.06em;padding-top:12px;border-top:1px solid var(--line);}
+  .dispatch-card .meta .pub{color:var(--gold);}
+  @media(max-width:900px){.dispatch-grid{grid-template-columns:repeat(2,1fr);}.dispatch-card:nth-child(3){display:none;}}
+  @media(max-width:600px){.dispatch-grid{grid-template-columns:1fr;}.dispatch-card:nth-child(2){display:none;}}
 
   .tabs{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:52px;border-bottom:1px solid var(--line);padding-bottom:24px;}
   .tab{background:transparent;border:1px solid var(--line);color:var(--grey);padding:11px 22px;border-radius:2px;font-size:.74rem;font-weight:700;text-transform:uppercase;letter-spacing:.12em;cursor:pointer;transition:all .2s;}
@@ -223,8 +242,9 @@
     poster="assets/images/hero-anaarkali.jpg">
     <source src="assets/videos/hero-loop.mp4" type="video/mp4">
   </video>
+  <div class="hero-vignette" aria-hidden="true"></div>
   <div class="wrap hero-content">
-    <div class="hero-kicker"><div class="rule"></div><span>Equal Tales Entertainment presents</span></div>
+    <div class="hero-kicker"><div class="rule"></div><span>An Avinash Das Film</span></div>
     <h1 class="display hero-title" id="heroTitle">&nbsp;</h1>
     <p class="hero-logline" id="heroLogline"></p>
     <div class="hero-meta" id="heroMeta"></div>
@@ -237,6 +257,19 @@
     </div>
   </div>
 </header>
+
+<section id="dispatches">
+  <div class="wrap">
+    <div class="section-head dispatches-head">
+      <div>
+        <div class="section-eyebrow"><div class="rule"></div><span>Cinema Dispatches</span></div>
+        <h2 class="display section-title">Latest Cinema Dispatches</h2>
+      </div>
+      <a class="btn btn-ghost" href="reviews.html">View All Reviews →</a>
+    </div>
+    <div class="dispatch-grid" id="dispatchGrid"></div>
+  </div>
+</section>
 
 <section id="showcase">
   <div class="wrap">
@@ -254,7 +287,7 @@
   <div class="wrap cta-grid">
     <div class="cta-card">
       <div class="display">Bharat Ki Kahani</div>
-      <p>A serialized bilingual storytelling project — chapter by chapter, the story of a nation. Read the scripts, in Hindi and English.</p>
+      <p>A serialized bilingual storytelling project · chapter by chapter, the story of a nation. Read the scripts, in Hindi and English.</p>
       <a class="link" href="scripts.html">Read the Storyline →</a>
     </div>
     <div class="cta-card">
@@ -270,7 +303,7 @@
     <div class="footer-grid">
       <div class="footer-brand">
         <img src="ete-logo.png" alt="Equal Tales Entertainment">
-        <p>Equal Tales Entertainment Pvt Ltd — cinema and digital storytelling rooted in social realism and authenticity.</p>
+        <p>Equal Tales Entertainment Pvt Ltd · cinema and digital storytelling rooted in social realism and authenticity.</p>
       </div>
       <div class="footer-links">
         <div class="footer-col">
@@ -316,6 +349,36 @@
   var CAT_ORDER = ["Feature Films","Series & Originals","Documentaries & Shorts","Private Screeners"];
   var CATS = ["All Works"].concat(CAT_ORDER);
 
+  /* ---- Cinema Dispatches preview (3 most recent, from data/reviews.json) ---- */
+  (function loadDispatchPreview(){
+    var grid = document.getElementById('dispatchGrid');
+    if(!grid) return;
+    fetch('data/reviews.json?v=' + Date.now())
+      .then(function(res){ if(!res.ok) throw new Error('HTTP ' + res.status); return res.json(); })
+      .then(function(data){
+        var items = (data.reviews || []).slice(0, 3);
+        if(!items.length){ document.getElementById('dispatches').style.display = 'none'; return; }
+        grid.innerHTML = items.map(function(r){
+          var img = r.image || 'ete-illustration.png';
+          var date = '';
+          try{ date = new Date(r.date).toLocaleDateString('en-US', {day:'numeric', month:'short', year:'numeric'}); }catch(e){}
+          return '' +
+            '<a class="dispatch-card" href="' + r.link + '" target="_blank" rel="noopener">' +
+              '<div class="thumb"><img src="' + img + '" alt="" loading="lazy" onerror="this.src=\'ete-illustration.png\'"></div>' +
+              '<div class="body">' +
+                '<span class="cat">' + r.category + '</span>' +
+                '<h3>' + r.title + '</h3>' +
+                '<div class="meta"><span class="pub">' + r.publisher + '</span> · ' + date + '</div>' +
+              '</div>' +
+            '</a>';
+        }).join('');
+      })
+      .catch(function(err){
+        document.getElementById('dispatches').style.display = 'none';
+        console.error('dispatch preview load failed:', err);
+      });
+  })();
+
   /* ---- Nav scroll + mobile toggle ---- */
   var nav = document.getElementById('siteNav');
   window.addEventListener('scroll', function(){
@@ -355,7 +418,7 @@
   function thumbImg(film){
     var img = document.createElement('img');
     img.loading = 'lazy';
-    img.alt = film.title + (film.subtitle ? ' — ' + film.subtitle : '');
+    img.alt = film.title + (film.subtitle ? ' · ' + film.subtitle : '');
     if(film.posterUrl){
       img.src = film.posterUrl;
     } else {
@@ -569,7 +632,7 @@
         '<span>Watch Now</span></button>';
     } else {
       actions = '<a class="btn btn-solid" href="mailto:' + film.contactEmail + '?subject=' +
-        encodeURIComponent('Screener Request — ' + film.title) + '">Request Screener Access</a>';
+        encodeURIComponent('Screener Request: ' + film.title) + '">Request Screener Access</a>';
     }
 
     detailCard.innerHTML =
