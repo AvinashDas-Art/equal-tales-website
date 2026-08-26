@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Reviews &amp; Dispatches | Equal Tales Entertainment</title>
+<meta name="description" content="Global and Indian cinema reviews and dispatches, aggregated from The Hindu, The Guardian, Variety, RogerEbert.com, IndieWire and more — curated by Equal Tales Entertainment.">
+<link rel="icon" type="image/png" href="favicon.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+  tailwind.config = {
+    theme: {
+      extend: {
+        colors: {
+          void: '#070707', panel: '#131313', panel2: '#19170f',
+          gold: '#c5a059', goldbright: '#eccb87',
+          grey: '#9d978d', greydim: '#666059',
+        },
+        fontFamily: {
+          display: ['Bebas Neue', 'sans-serif'],
+          sans: ['Inter', 'sans-serif'],
+        },
+      },
+    },
+  };
+</script>
+<style>
+  /* Nav/footer are hand-rolled to match index.html/about.html exactly (this
+     page mixes that shared chrome with Tailwind utilities for the feed itself,
+     per the brief asking for Tailwind specifically on the review cards). */
+  :root{
+    --void:#070707; --panel:#131313; --panel-2:#19170f; --line:rgba(255,255,255,.08);
+    --gold:#c5a059; --gold-bright:#eccb87; --white:#f5f2ec; --grey:#9d978d; --grey-dim:#666059;
+    --gutter:28px; --content-max:1320px;
+  }
+  *{box-sizing:border-box;margin:0;padding:0;}
+  html{scroll-behavior:smooth;}
+  body{background:var(--void);color:var(--white);font-family:'Inter',sans-serif;line-height:1.6;overflow-x:hidden;}
+  img{max-width:100%;display:block;}
+  a{color:inherit;text-decoration:none;}
+  .wrap{max-width:var(--content-max);margin:0 auto;padding:0 var(--gutter);}
+  .display{font-family:'Bebas Neue',sans-serif;letter-spacing:.03em;}
+  ::selection{background:var(--gold);color:#141414;}
+
+  .site-nav{position:fixed;top:0;left:0;right:0;z-index:200;padding:20px 0;transition:padding .3s ease;}
+  .site-nav::before{content:"";position:absolute;inset:0;z-index:-1;background:rgba(7,7,7,.4);backdrop-filter:blur(12px) saturate(1.3);-webkit-backdrop-filter:blur(12px) saturate(1.3);border-bottom:1px solid rgba(255,255,255,.05);transition:background .3s ease, box-shadow .3s ease, border-color .3s ease;}
+  .site-nav.scrolled{padding:14px 0;}
+  .site-nav.scrolled::before{background:rgba(7,7,7,.88);box-shadow:0 4px 30px rgba(0,0,0,.45);border-color:var(--line);}
+  .site-nav .wrap{display:flex;align-items:center;justify-content:space-between;gap:20px;}
+  .brand{display:flex;align-items:center;gap:12px;}
+  .brand img{height:40px;width:auto;border-radius:8px;}
+  .brand span{font-family:'Bebas Neue',sans-serif;letter-spacing:.12em;font-size:1.1rem;color:var(--white);}
+  .nav-links{display:flex;gap:36px;list-style:none;}
+  .nav-links a{font-size:.78rem;font-weight:700;text-transform:uppercase;letter-spacing:.16em;color:var(--grey);transition:color .2s;}
+  .nav-links a:hover, .nav-links a.active{color:var(--gold-bright);}
+  .nav-toggle{display:none;flex-direction:column;gap:5px;background:none;border:0;cursor:pointer;padding:8px;}
+  .nav-toggle span{width:24px;height:2px;background:var(--white);display:block;}
+  @media(max-width:860px){
+    .nav-links{position:fixed;inset:0;top:0;background:var(--void);flex-direction:column;align-items:center;justify-content:center;gap:32px;transform:translateY(-100%);transition:transform .35s ease;z-index:190;}
+    .nav-links.open{transform:translateY(0);}
+    .nav-links a{font-size:1.3rem;}
+    .nav-toggle{display:flex;position:relative;z-index:201;}
+  }
+
+  footer{padding:60px 0 34px;}
+  .footer-grid{display:flex;justify-content:space-between;gap:30px;flex-wrap:wrap;padding-bottom:32px;border-bottom:1px solid var(--line);}
+  .footer-brand img{height:38px;margin-bottom:14px;}
+  .footer-brand p{color:var(--grey-dim);font-size:.85rem;max-width:280px;}
+  .footer-links{display:flex;gap:60px;flex-wrap:wrap;}
+  .footer-col h5{font-size:.7rem;text-transform:uppercase;letter-spacing:.14em;color:var(--gold);margin-bottom:14px;}
+  .footer-col a{display:block;color:var(--grey);font-size:.88rem;margin-bottom:10px;transition:color .2s;}
+  .footer-col a:hover{color:var(--white);}
+  .footer-bottom{padding-top:24px;display:flex;justify-content:space-between;flex-wrap:wrap;gap:10px;color:var(--grey-dim);font-size:.78rem;}
+  .footer-bottom a{color:var(--grey-dim);text-decoration:underline;}
+
+  .tab-btn{transition:all .2s ease;}
+  .tab-btn.active{background:var(--gold);border-color:var(--gold);color:#141210;}
+  .review-card{transition:transform .3s cubic-bezier(.2,.8,.3,1), box-shadow .3s ease, border-color .3s ease;}
+  .review-card:hover{transform:translateY(-4px);border-color:rgba(197,160,89,.5);box-shadow:0 20px 44px rgba(0,0,0,.5);}
+  .quote-clamp{display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden;}
+  .title-clamp{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;}
+</style>
+</head>
+<body>
+
+<nav class="site-nav" id="siteNav">
+  <div class="wrap">
+    <a class="brand" href="index.html">
+      <img src="ete-logo.png" alt="Equal Tales Entertainment">
+      <span>EQUAL TALES</span>
+    </a>
+    <ul class="nav-links" id="navLinks">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="index.html#showcase">Films</a></li>
+      <li><a href="reviews.html" class="active">Reviews</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="scripts.html">Scripts</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+    <button class="nav-toggle" id="navToggle" aria-label="Menu" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</nav>
+
+<header class="pt-40 pb-14 px-6 border-b border-white/10">
+  <div class="wrap">
+    <div class="flex items-center gap-3 mb-4">
+      <div class="w-11 h-0.5 bg-gold"></div>
+      <span class="text-gold text-xs font-bold tracking-[.24em] uppercase">Equal Tales Entertainment presents</span>
+    </div>
+    <h1 class="display text-5xl md:text-7xl uppercase leading-none">Reviews &amp; Dispatches</h1>
+    <p class="mt-5 max-w-xl text-grey text-base md:text-lg">Global and Indian cinema criticism, gathered in one feed — reviews, festival coverage and industry dispatches from the publications we read.</p>
+    <p class="mt-3 text-xs text-greydim" id="lastUpdated"></p>
+  </div>
+</header>
+
+<section class="wrap py-10">
+  <div class="flex flex-wrap gap-2.5 mb-10" id="filterTabs" role="tablist" aria-label="Filter reviews by category">
+    <button class="tab-btn active bg-transparent border border-white/15 text-grey hover:text-white px-5 py-2.5 rounded-sm text-xs font-bold uppercase tracking-[.1em]" data-category="All Feeds">All Feeds</button>
+    <button class="tab-btn bg-transparent border border-white/15 text-grey hover:text-white px-5 py-2.5 rounded-sm text-xs font-bold uppercase tracking-[.1em]" data-category="Indian Cinema">Indian Cinema</button>
+    <button class="tab-btn bg-transparent border border-white/15 text-grey hover:text-white px-5 py-2.5 rounded-sm text-xs font-bold uppercase tracking-[.1em]" data-category="World Cinema">World Cinema</button>
+    <button class="tab-btn bg-transparent border border-white/15 text-grey hover:text-white px-5 py-2.5 rounded-sm text-xs font-bold uppercase tracking-[.1em]" data-category="Festival Winners">Festival Winners</button>
+    <button class="tab-btn bg-transparent border border-white/15 text-grey hover:text-white px-5 py-2.5 rounded-sm text-xs font-bold uppercase tracking-[.1em]" data-category="Indie Gems">Indie Gems</button>
+  </div>
+
+  <div id="reviewsState" class="text-grey text-sm py-16 text-center">Loading dispatches…</div>
+  <div id="reviewsGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6"></div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <div class="footer-grid">
+      <div class="footer-brand">
+        <img src="ete-logo.png" alt="Equal Tales Entertainment">
+        <p>Equal Tales Entertainment Pvt Ltd — cinema and digital storytelling rooted in social realism and authenticity.</p>
+      </div>
+      <div class="footer-links">
+        <div class="footer-col">
+          <h5>Explore</h5>
+          <a href="index.html">Home</a>
+          <a href="about.html">About the Studio</a>
+          <a href="reviews.html">Reviews &amp; Dispatches</a>
+          <a href="scripts.html">Storyline</a>
+        </div>
+        <div class="footer-col">
+          <h5>Connect</h5>
+          <a href="contact.html">Contact</a>
+          <a href="mailto:equaltales@gmail.com">equaltales@gmail.com</a>
+          <a href="https://www.youtube.com/@ETStoryline" target="_blank" rel="noopener">@ETStoryline</a>
+        </div>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <div>© <span id="year"></span> Equal Tales Entertainment Pvt Ltd. All rights reserved.</div>
+      <div><a href="about.html">The Studio</a></div>
+    </div>
+  </div>
+</footer>
+
+<script>
+  document.getElementById('year').textContent = new Date().getFullYear();
+
+  var nav = document.getElementById('siteNav');
+  window.addEventListener('scroll', function(){
+    nav.classList.toggle('scrolled', window.scrollY > 40);
+  });
+  var navToggle = document.getElementById('navToggle');
+  var navLinks = document.getElementById('navLinks');
+  navToggle.addEventListener('click', function(){
+    var open = navLinks.classList.toggle('open');
+    navToggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+  });
+  navLinks.querySelectorAll('a').forEach(function(a){
+    a.addEventListener('click', function(){ navLinks.classList.remove('open'); });
+  });
+
+  var PLACEHOLDER_IMG = 'ete-illustration.png';
+  var allReviews = [];
+  var activeCategory = 'All Feeds';
+
+  function fmtDate(iso){
+    try{
+      return new Date(iso).toLocaleDateString('en-US', {day:'numeric', month:'short', year:'numeric'});
+    }catch(e){ return ''; }
+  }
+
+  function cardHTML(r){
+    var img = r.image || PLACEHOLDER_IMG;
+    var author = r.author ? r.author + ' · ' : '';
+    return '' +
+      '<a class="review-card block bg-panel border border-white/10 rounded overflow-hidden" href="' + r.link + '" target="_blank" rel="noopener">' +
+        '<div class="aspect-[16/9] bg-black overflow-hidden">' +
+          '<img src="' + img + '" alt="" loading="lazy" class="w-full h-full object-cover" onerror="this.src=\'' + PLACEHOLDER_IMG + '\'">' +
+        '</div>' +
+        '<div class="p-5">' +
+          '<span class="inline-block text-[.65rem] font-bold uppercase tracking-[.1em] text-goldbright bg-gold/10 border border-gold/40 rounded-full px-3 py-1 mb-3">' + r.category + '</span>' +
+          '<h3 class="title-clamp display text-xl uppercase leading-tight mb-2">' + r.title + '</h3>' +
+          (r.quote ? '<p class="quote-clamp text-grey text-sm italic mb-4">' + r.quote + '</p>' : '') +
+          '<div class="text-[.72rem] text-greydim uppercase tracking-[.06em] pt-3 border-t border-white/10">' + author + '<span class="text-gold-bright text-gold">' + r.publisher + '</span> · ' + fmtDate(r.date) + '</div>' +
+        '</div>' +
+      '</a>';
+  }
+
+  function render(){
+    var grid = document.getElementById('reviewsGrid');
+    var state = document.getElementById('reviewsState');
+    var items = activeCategory === 'All Feeds' ? allReviews : allReviews.filter(function(r){ return r.category === activeCategory; });
+    if(!items.length){
+      grid.innerHTML = '';
+      state.style.display = 'block';
+      state.textContent = 'No dispatches in this category right now.';
+      return;
+    }
+    state.style.display = 'none';
+    grid.innerHTML = items.map(cardHTML).join('');
+    injectStructuredData(items);
+  }
+
+  function injectStructuredData(items){
+    var existing = document.getElementById('reviewsSchema');
+    if(existing) existing.remove();
+    var schema = {
+      '@context': 'https://schema.org',
+      '@type': 'ItemList',
+      name: 'Equal Tales Entertainment — Reviews & Dispatches',
+      itemListElement: items.slice(0, 40).map(function(r, i){
+        return {
+          '@type': 'ListItem',
+          position: i + 1,
+          url: r.link,
+          item: {
+            '@type': 'NewsArticle',
+            headline: r.title,
+            url: r.link,
+            datePublished: r.date,
+            image: r.image || undefined,
+            author: r.author ? {'@type': 'Person', name: r.author} : {'@type': 'Organization', name: r.publisher},
+            publisher: {'@type': 'Organization', name: r.publisher},
+          },
+        };
+      }),
+    };
+    var script = document.createElement('script');
+    script.type = 'application/ld+json';
+    script.id = 'reviewsSchema';
+    script.textContent = JSON.stringify(schema);
+    document.head.appendChild(script);
+  }
+
+  document.getElementById('filterTabs').addEventListener('click', function(e){
+    var btn = e.target.closest('.tab-btn');
+    if(!btn) return;
+    document.querySelectorAll('.tab-btn').forEach(function(b){ b.classList.remove('active'); });
+    btn.classList.add('active');
+    activeCategory = btn.dataset.category;
+    render();
+  });
+
+  fetch('data/reviews.json?v=' + Date.now())
+    .then(function(res){ if(!res.ok) throw new Error('HTTP ' + res.status); return res.json(); })
+    .then(function(data){
+      allReviews = data.reviews || [];
+      if(data.generated_at){
+        document.getElementById('lastUpdated').textContent = 'Last updated ' + fmtDate(data.generated_at) + ' · ' + allReviews.length + ' dispatches from ' + (data.source_feed_count || '—') + ' publications';
+      }
+      render();
+    })
+    .catch(function(err){
+      document.getElementById('reviewsState').textContent = 'Dispatches are taking a moment to load. Please refresh, or check back shortly.';
+      console.error('reviews.json load failed:', err);
+    });
+</script>
+
+</body>
+</html>

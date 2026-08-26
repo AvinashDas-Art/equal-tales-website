@@ -52,9 +52,16 @@
   }
 
   /* ---------- HERO ---------- */
-  .hero{position:relative;width:100vw;min-height:100vh;display:flex;align-items:flex-end;background-size:cover;background-position:center 18%;}
-  .hero::before{content:"";position:absolute;inset:0;background:linear-gradient(0deg, var(--void) 0%, rgba(7,7,7,.55) 32%, rgba(7,7,7,.15) 58%, rgba(7,7,7,.05) 100%);}
-  .hero::after{content:"";position:absolute;inset:0;background:linear-gradient(100deg, rgba(7,7,7,.95) 0%, rgba(7,7,7,.6) 30%, rgba(7,7,7,.1) 62%, transparent 85%);}
+  /* Background layering, back to front: native <video poster> (z:0, shows the poster
+     frame instantly and until/unless the mp4 loads) -> gradient vignettes (z:1) ->
+     content (z:2). */
+  .hero{position:relative;width:100vw;min-height:100vh;display:flex;align-items:flex-end;overflow:hidden;background-size:cover;background-position:center 18%;}
+  .hero-video-bg{
+    position:absolute;inset:0;z-index:0;width:100%;height:100%;
+    object-fit:cover;object-position:center 18%;pointer-events:none;
+  }
+  .hero::before{content:"";position:absolute;inset:0;z-index:1;background:linear-gradient(0deg, var(--void) 0%, rgba(7,7,7,.55) 32%, rgba(7,7,7,.15) 58%, rgba(7,7,7,.05) 100%);}
+  .hero::after{content:"";position:absolute;inset:0;z-index:1;background:linear-gradient(100deg, rgba(7,7,7,.95) 0%, rgba(7,7,7,.6) 30%, rgba(7,7,7,.1) 62%, transparent 85%);}
   .hero-content{position:relative;z-index:2;padding:0 0 100px;max-width:900px;}
   .hero-kicker{display:flex;align-items:center;gap:14px;margin-bottom:22px;}
   .hero-kicker .rule{width:44px;height:2px;background:var(--gold);}
@@ -200,6 +207,7 @@
     <ul class="nav-links" id="navLinks">
       <li><a href="index.html" class="active">Home</a></li>
       <li><a href="index.html#showcase">Films</a></li>
+      <li><a href="reviews.html">Reviews</a></li>
       <li><a href="about.html">About</a></li>
       <li><a href="scripts.html">Scripts</a></li>
       <li><a href="contact.html">Contact</a></li>
@@ -211,6 +219,10 @@
 </nav>
 
 <header class="hero" id="hero">
+  <video class="hero-video-bg" autoplay muted loop playsinline aria-hidden="true"
+    poster="assets/images/hero-anaarkali.jpg">
+    <source src="assets/videos/hero-loop.mp4" type="video/mp4">
+  </video>
   <div class="wrap hero-content">
     <div class="hero-kicker"><div class="rule"></div><span>Equal Tales Entertainment presents</span></div>
     <h1 class="display hero-title" id="heroTitle">&nbsp;</h1>
@@ -264,6 +276,7 @@
         <div class="footer-col">
           <h5>Explore</h5>
           <a href="index.html">Home</a>
+          <a href="reviews.html">Reviews &amp; Dispatches</a>
           <a href="about.html">About the Studio</a>
           <a href="scripts.html">Storyline</a>
           <a href="youtube.html">YouTube Gallery</a>
@@ -323,6 +336,7 @@
   if(flagship){
     document.getElementById('hero').style.backgroundImage =
       "url('" + (flagship.heroBackdropUrl || flagship.thumbnailUrl || '') + "')";
+
     document.getElementById('heroTitle').textContent = flagship.title;
     document.getElementById('heroLogline').textContent = flagship.logline || flagship.synopsis || '';
     document.getElementById('heroMeta').textContent =
@@ -333,7 +347,7 @@
       if(flagship.type === 'youtube') openLightbox(flagship.videoId, flagship.title);
     });
     document.getElementById('heroDetailsBtn').addEventListener('click', function(){
-      openDetails(flagship);
+      document.getElementById('showcase').scrollIntoView({behavior: 'smooth'});
     });
   }
 

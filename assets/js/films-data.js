@@ -9,6 +9,12 @@
  * YouTube thumbnails are requested at maxresdefault resolution; the render
  * script (see index.html) falls back to hqdefault.jpg on load error, since
  * not every upload has a maxres asset.
+ *
+ * Flagship-only hero fields (see index.html "Hero" section):
+ *   posterUrl        — local vertical poster, preferred over thumbnailUrl on cards.
+ *   heroBackdropUrl   — local horizontal image, used as the hero's CSS background
+ *                        and as the <video poster> shown until the mp4 loop loads
+ *                        (see assets/videos/hero-loop.mp4 in index.html).
  */
 window.FILMS_DATA = [
   {
