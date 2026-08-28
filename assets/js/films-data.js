@@ -265,15 +265,22 @@ window.FILMS_DATA = [
     title: "SAHiYA",
     subtitle: "Private Screener",
     category: "Private Screeners",
-    genre: "TBA",
+    genre: "Drama",
     type: "showcase",
-    posterUrl: "",
+    posterUrl: "assets/images/poster-sahiya.jpg",
     year: 2026,
     badge: "Private Screener - 2026",
-    logline: "Details to be added - send genre, logline, synopsis, credits and a poster image to complete this entry.",
-    synopsis: "SAHiYA (2026) is currently on the private screener / festival circuit and is not available for public playback. Title and year are confirmed - genre, logline, synopsis, credits and poster still need to be supplied to finish this card.",
+    logline: "Not all wars are fought with weapons.",
+    synopsis: "SAHiYA (2026), directed by Avinash Das, is currently travelling the festival circuit and is available to invited viewers as a password-protected private screener rather than for public playback.",
     credits: [
-      { role: "Director", name: "Avinash Das" }
+      { role: "Director", name: "Avinash Das" },
+      { role: "Producers", name: "Sanjay Sharma & Avinash Das" },
+      { role: "Writer", name: "Mithilesh Priyadarshy" },
+      { role: "DOP", name: "Gargey Trivedi" },
+      { role: "Editor", name: "Navnita Sen" },
+      { role: "Costume", name: "Nandita Pandey" },
+      { role: "Associate Producer", name: "Rajesh Sharma" },
+      { role: "Executive Producers", name: "Shashank Srivastava & Pallav Jain" }
     ],
     contactEmail: "avinashdasfilmsgmail.com@gmail.com"
   }
