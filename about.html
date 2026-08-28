@@ -53,11 +53,24 @@
   .lang-switch{display:flex;border:1.5px solid var(--gold);border-radius:999px;overflow:hidden;}
   .lang-switch button{border:0;background:transparent;padding:6px 14px;font-weight:700;font-size:.76rem;cursor:pointer;color:var(--gold-bright);font-family:'Inter',sans-serif;}
   .lang-switch button[aria-pressed="true"]{background:var(--gold);color:#141414;}
+  .has-dropdown{position:relative;}
+  .dropdown-toggle{background:none;border:0;font:inherit;font-size:.78rem;font-weight:700;text-transform:uppercase;letter-spacing:.16em;color:var(--grey);cursor:pointer;display:flex;align-items:center;gap:6px;padding:0;transition:color .2s;}
+  .dropdown-toggle:hover,.dropdown-toggle[aria-expanded="true"],.dropdown-toggle.active{color:var(--gold-bright);}
+  .caret{transition:transform .2s ease;}
+  .dropdown-toggle[aria-expanded="true"] .caret{transform:rotate(180deg);}
+  .dropdown-menu{list-style:none;position:absolute;top:100%;left:50%;margin-top:14px;background:var(--panel);border:1px solid var(--line);border-radius:6px;padding:8px;min-width:220px;opacity:0;pointer-events:none;transform:translateX(-50%) translateY(-6px);transition:opacity .2s ease, transform .2s ease;box-shadow:0 20px 44px rgba(0,0,0,.5);}
+  .has-dropdown:hover .dropdown-menu,.has-dropdown:focus-within .dropdown-menu,.dropdown-menu.open{opacity:1;pointer-events:auto;transform:translateX(-50%) translateY(0);}
+  .dropdown-menu li a{display:block;padding:10px 14px;font-size:.78rem;font-weight:600;text-transform:none;letter-spacing:.02em;color:var(--grey);border-radius:4px;white-space:nowrap;}
+  .dropdown-menu li a:hover{background:rgba(197,160,89,.1);color:var(--gold-bright);}
   @media(max-width:860px){
     .nav-links{position:fixed;inset:0;top:0;background:var(--void);flex-direction:column;align-items:center;justify-content:center;gap:26px;transform:translateY(-100%);transition:transform .35s ease;z-index:190;}
     .nav-links.open{transform:translateY(0);}
     .nav-links a{font-size:1.25rem;}
     .nav-toggle{display:flex;position:relative;z-index:201;}
+    .has-dropdown{width:100%;display:flex;flex-direction:column;align-items:center;}
+    .dropdown-toggle{font-size:1.3rem;justify-content:center;}
+    .dropdown-menu{position:static;transform:none;opacity:1;pointer-events:auto;box-shadow:none;background:transparent;border:0;margin-top:12px;padding:0;text-align:center;}
+    .dropdown-menu li a{font-size:1.05rem;padding:8px 0;color:var(--grey);}
   }
 
   /* PAGE HEADER */
@@ -138,10 +151,17 @@
     </a>
     <ul class="nav-links" id="navLinks">
       <li><a href="index.html">Home</a></li>
-      <li><a href="index.html#showcase">Films</a></li>
-      <li><a href="reviews.html">Reviews</a></li>
       <li><a href="about.html" class="active">About</a></li>
-      <li><a href="scripts.html">Scripts</a></li>
+      <li class="has-dropdown">
+        <button type="button" class="dropdown-toggle" aria-haspopup="true" aria-expanded="false">Discourse<svg class="caret" viewBox="0 0 12 8" width="10" height="7" aria-hidden="true"><path d="M1 1l5 5 5-5" stroke="currentColor" stroke-width="1.6" fill="none"/></svg></button>
+        <ul class="dropdown-menu">
+          <li><a href="/anaarkali">Anaarkali of Aarah</a></li>
+          <li><a href="/inn-galiyon-mein">Inn Galiyon Mein</a></li>
+        </ul>
+      </li>
+      <li><a href="/interviews">Interviews</a></li>
+      <li><a href="/reviews">Reviews</a></li>
+      <li><a href="youtube.html">YouTube</a></li>
       <li><a href="contact.html">Contact</a></li>
     </ul>
     <div class="nav-right">
@@ -280,6 +300,20 @@
   navToggle.addEventListener('click', function(){
     var open = navLinks.classList.toggle('open');
     navToggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+  });
+  document.querySelectorAll('.dropdown-toggle').forEach(function(btn){
+    btn.addEventListener('click', function(e){
+      e.stopPropagation();
+      var menu = btn.nextElementSibling;
+      var isOpen = menu.classList.contains('open');
+      document.querySelectorAll('.dropdown-menu.open').forEach(function(m){ m.classList.remove('open'); });
+      document.querySelectorAll('.dropdown-toggle').forEach(function(b){ b.setAttribute('aria-expanded','false'); });
+      if(!isOpen){ menu.classList.add('open'); btn.setAttribute('aria-expanded','true'); }
+    });
+  });
+  document.addEventListener('click', function(){
+    document.querySelectorAll('.dropdown-menu.open').forEach(function(m){ m.classList.remove('open'); });
+    document.querySelectorAll('.dropdown-toggle').forEach(function(b){ b.setAttribute('aria-expanded','false'); });
   });
 
   function setLang(lang){

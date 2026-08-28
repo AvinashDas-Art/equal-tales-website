@@ -57,9 +57,36 @@
   .lang-switch{display:flex;border:1.5px solid var(--gold);border-radius:999px;overflow:hidden;background:rgba(255,255,255,.5);}
   .lang-switch button{border:0;background:transparent;padding:7px 16px;font-weight:700;font-size:.82rem;cursor:pointer;color:var(--gold-dark);}
   .lang-switch button[aria-pressed="true"]{background:var(--gold);color:#fff;}
-  .nav-links{display:flex;gap:22px;list-style:none;}
+  .nav-links{display:flex;gap:22px;list-style:none;align-items:center;}
   .nav-links a{font-size:.88rem;font-weight:600;text-decoration:none;}
-  @media(max-width:700px){.nav-links{display:none;}}
+  .nav-right{display:flex;align-items:center;gap:14px;}
+  .has-dropdown{position:relative;}
+  .dropdown-toggle{display:flex;align-items:center;gap:6px;background:none;border:0;font:inherit;font-size:.88rem;font-weight:600;color:var(--ink);cursor:pointer;padding:0;}
+  .dropdown-toggle:hover,.dropdown-toggle[aria-expanded="true"]{color:var(--gold-dark);}
+  .caret{transition:transform .2s ease;}
+  .dropdown-toggle[aria-expanded="true"] .caret{transform:rotate(180deg);}
+  .dropdown-menu{list-style:none;position:absolute;top:100%;left:50%;transform:translateX(-50%) translateY(-6px);margin-top:14px;background:#fff;border:1px solid var(--glass-border);border-radius:12px;padding:8px;min-width:210px;opacity:0;pointer-events:none;transition:opacity .2s ease, transform .2s ease;box-shadow:0 20px 40px rgba(44,62,80,.15);}
+  .has-dropdown:hover .dropdown-menu,.has-dropdown:focus-within .dropdown-menu,.dropdown-menu.open{opacity:1;pointer-events:auto;transform:translateX(-50%) translateY(0);}
+  .dropdown-menu li a{display:block;padding:9px 14px;font-size:.85rem;font-weight:600;color:var(--ink-soft);border-radius:8px;white-space:nowrap;}
+  .dropdown-menu li a:hover{background:var(--mist);color:var(--gold-dark);}
+  .nav-toggle{display:none;flex-direction:column;gap:5px;background:none;border:0;cursor:pointer;padding:8px;}
+  .nav-toggle span{width:22px;height:2px;background:var(--ink);display:block;}
+  @media(max-width:700px){
+    .nav-toggle{display:flex;position:relative;z-index:201;}
+    body.lang-en ul.nav-links[data-lang="en"].lb-flex:not(.open),
+    body.lang-hi ul.nav-links[data-lang="hi"].lb-flex:not(.open){display:none !important;}
+    body.lang-en ul.nav-links[data-lang="en"].lb-flex.open,
+    body.lang-hi ul.nav-links[data-lang="hi"].lb-flex.open{
+      display:flex !important;position:fixed;inset:0;top:0;background:#fff;
+      flex-direction:column;align-items:center;justify-content:center;gap:26px;
+      z-index:190;
+    }
+    .nav-links a{font-size:1.2rem;}
+    .has-dropdown{display:flex;flex-direction:column;align-items:center;}
+    .dropdown-toggle{font-size:1.2rem;}
+    .dropdown-menu{position:static;transform:none;opacity:1;pointer-events:auto;box-shadow:none;border:0;background:transparent;margin-top:10px;text-align:center;}
+    .dropdown-menu li a{font-size:1rem;padding:8px 0;}
+  }
 
   main{padding:70px 24px 100px;}
   .eyebrow{text-transform:uppercase;letter-spacing:.14em;font-size:.75rem;font-weight:600;color:var(--gold-dark);margin-bottom:14px;}
@@ -153,18 +180,39 @@
     <ul class="nav-links lang-block lb-flex" data-lang="en">
       <li><a href="index.html">Home</a></li>
       <li><a href="about.html">About</a></li>
+      <li class="has-dropdown">
+        <button type="button" class="dropdown-toggle" aria-haspopup="true" aria-expanded="false">Discourse<svg class="caret" viewBox="0 0 12 8" width="10" height="7" aria-hidden="true"><path d="M1 1l5 5 5-5" stroke="currentColor" stroke-width="1.6" fill="none"/></svg></button>
+        <ul class="dropdown-menu">
+          <li><a href="/anaarkali">Anaarkali of Aarah</a></li>
+          <li><a href="/inn-galiyon-mein">Inn Galiyon Mein</a></li>
+        </ul>
+      </li>
+      <li><a href="/interviews">Interviews</a></li>
+      <li><a href="/reviews">Reviews</a></li>
       <li><a href="youtube.html">YouTube</a></li>
       <li><a href="contact.html">Contact</a></li>
     </ul>
     <ul class="nav-links lang-block lb-flex" data-lang="hi">
       <li><a href="index.html">होम</a></li>
       <li><a href="about.html">परिचय</a></li>
+      <li class="has-dropdown">
+        <button type="button" class="dropdown-toggle" aria-haspopup="true" aria-expanded="false">विमर्श<svg class="caret" viewBox="0 0 12 8" width="10" height="7" aria-hidden="true"><path d="M1 1l5 5 5-5" stroke="currentColor" stroke-width="1.6" fill="none"/></svg></button>
+        <ul class="dropdown-menu">
+          <li><a href="/anaarkali">अनारकली ऑफ आरा</a></li>
+          <li><a href="/inn-galiyon-mein">इन गलियों में</a></li>
+        </ul>
+      </li>
+      <li><a href="/interviews">साक्षात्कार</a></li>
+      <li><a href="/reviews">समीक्षाएं</a></li>
       <li><a href="youtube.html">यूट्यूब</a></li>
       <li><a href="contact.html">संपर्क</a></li>
     </ul>
-    <div class="lang-switch" role="group" aria-label="Language / भाषा">
-      <button type="button" data-lang="en" aria-pressed="false">EN</button>
-      <button type="button" data-lang="hi" aria-pressed="true">हिं</button>
+    <div class="nav-right">
+      <div class="lang-switch" role="group" aria-label="Language / भाषा">
+        <button type="button" data-lang="en" aria-pressed="false">EN</button>
+        <button type="button" data-lang="hi" aria-pressed="true">हिं</button>
+      </div>
+      <button class="nav-toggle" id="navToggle" aria-label="Menu" aria-expanded="false"><span></span><span></span><span></span></button>
     </div>
   </div>
 </nav>
@@ -643,6 +691,38 @@
     try{ saved = localStorage.getItem('etsLang'); }catch(e){}
     setLang(saved === 'en' ? 'en' : 'hi');
   })();
+(function(){
+  var navToggle = document.getElementById('navToggle');
+  if(navToggle){
+    navToggle.addEventListener('click', function(){
+      var willOpen = navToggle.getAttribute('aria-expanded') !== 'true';
+      navToggle.setAttribute('aria-expanded', willOpen ? 'true' : 'false');
+      document.querySelectorAll('ul.nav-links').forEach(function(ul){
+        ul.classList.toggle('open', willOpen);
+      });
+    });
+    document.querySelectorAll('ul.nav-links a').forEach(function(a){
+      a.addEventListener('click', function(){
+        navToggle.setAttribute('aria-expanded', 'false');
+        document.querySelectorAll('ul.nav-links').forEach(function(ul){ ul.classList.remove('open'); });
+      });
+    });
+  }
+  document.querySelectorAll('.dropdown-toggle').forEach(function(btn){
+    btn.addEventListener('click', function(e){
+      e.stopPropagation();
+      var menu = btn.nextElementSibling;
+      var isOpen = menu.classList.contains('open');
+      document.querySelectorAll('.dropdown-menu.open').forEach(function(m){ m.classList.remove('open'); });
+      document.querySelectorAll('.dropdown-toggle').forEach(function(b){ b.setAttribute('aria-expanded','false'); });
+      if(!isOpen){ menu.classList.add('open'); btn.setAttribute('aria-expanded','true'); }
+    });
+  });
+  document.addEventListener('click', function(){
+    document.querySelectorAll('.dropdown-menu.open').forEach(function(m){ m.classList.remove('open'); });
+    document.querySelectorAll('.dropdown-toggle').forEach(function(b){ b.setAttribute('aria-expanded','false'); });
+  });
+})();
 </script>
 
 </body>

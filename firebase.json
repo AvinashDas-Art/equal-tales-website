@@ -8,6 +8,12 @@
       "**/node_modules/**",
       "_to_delete/**",
       "scripts/**"
+    ],
+    "rewrites": [
+      { "source": "/anaarkali", "destination": "/anaarkali.html" },
+      { "source": "/inn-galiyon-mein", "destination": "/inn-galiyon-mein.html" },
+      { "source": "/interviews", "destination": "/interviews.html" },
+      { "source": "/reviews", "destination": "/reviews.html" }
     ]
   }
 }

@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Reviews &amp; Dispatches | Equal Tales Entertainment</title>
-<meta name="description" content="Global and Indian cinema reviews and dispatches, aggregated from The Hindu, The Guardian, Variety, RogerEbert.com, IndieWire and more — curated by Equal Tales Entertainment.">
+<title>Interviews &amp; Conversations | Equal Tales Entertainment</title>
+<meta name="description" content="Video, podcast, print and long-form interviews with filmmaker and journalist Avinash Das - The Lallantop, BBC Hindi, Newslaundry, National Herald and more.">
 <link rel="icon" type="image/png" href="favicon.png">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -29,13 +29,10 @@
   };
 </script>
 <style>
-  /* Nav/footer are hand-rolled to match index.html/about.html exactly (this
-     page mixes that shared chrome with Tailwind utilities for the feed itself,
-     per the brief asking for Tailwind specifically on the review cards). */
   :root{
     --void:#070707; --panel:#131313; --panel-2:#19170f; --line:rgba(255,255,255,.08);
     --gold:#c5a059; --gold-bright:#eccb87; --white:#f5f2ec; --grey:#9d978d; --grey-dim:#666059;
-    --gutter:28px; --content-max:1320px;
+    --gutter:28px; --content-max:1320px; --shadow-gold:0 10px 30px rgba(197,160,89,.25);
   }
   *{box-sizing:border-box;margin:0;padding:0;}
   html{scroll-behavior:smooth;}
@@ -46,6 +43,12 @@
   .display{font-family:'Bebas Neue',sans-serif;letter-spacing:.03em;}
   ::selection{background:var(--gold);color:#141414;}
 
+  .btn{display:inline-flex;align-items:center;gap:10px;padding:14px 28px;border-radius:2px;font-weight:700;font-size:.78rem;text-transform:uppercase;letter-spacing:.14em;cursor:pointer;border:1.5px solid transparent;transition:all .25s;}
+  .btn-solid{background:var(--gold);color:#141210;box-shadow:var(--shadow-gold);}
+  .btn-solid:hover{background:var(--gold-bright);transform:translateY(-2px);}
+  .btn-ghost{border-color:rgba(245,242,236,.35);color:var(--white);background:rgba(255,255,255,.05);backdrop-filter:blur(6px);}
+  .btn-ghost:hover{border-color:var(--white);background:rgba(255,255,255,.12);}
+
   .site-nav{position:fixed;top:0;left:0;right:0;z-index:200;padding:20px 0;transition:padding .3s ease;}
   .site-nav::before{content:"";position:absolute;inset:0;z-index:-1;background:rgba(7,7,7,.4);backdrop-filter:blur(12px) saturate(1.3);-webkit-backdrop-filter:blur(12px) saturate(1.3);border-bottom:1px solid rgba(255,255,255,.05);transition:background .3s ease, box-shadow .3s ease, border-color .3s ease;}
   .site-nav.scrolled{padding:14px 0;}
@@ -54,7 +57,7 @@
   .brand{display:flex;align-items:center;gap:12px;}
   .brand img{height:40px;width:auto;border-radius:8px;}
   .brand span{font-family:'Bebas Neue',sans-serif;letter-spacing:.12em;font-size:1.1rem;color:var(--white);}
-  .nav-links{display:flex;gap:36px;list-style:none;}
+  .nav-links{display:flex;gap:36px;list-style:none;align-items:center;}
   .nav-links a{font-size:.78rem;font-weight:700;text-transform:uppercase;letter-spacing:.16em;color:var(--grey);transition:color .2s;}
   .nav-links a:hover, .nav-links a.active{color:var(--gold-bright);}
   .nav-toggle{display:none;flex-direction:column;gap:5px;background:none;border:0;cursor:pointer;padding:8px;}
@@ -92,10 +95,20 @@
 
   .tab-btn{transition:all .2s ease;}
   .tab-btn.active{background:var(--gold);border-color:var(--gold);color:#141210;}
-  .review-card{transition:transform .3s cubic-bezier(.2,.8,.3,1), box-shadow .3s ease, border-color .3s ease;}
-  .review-card:hover{transform:translateY(-4px);border-color:rgba(197,160,89,.5);box-shadow:0 20px 44px rgba(0,0,0,.5);}
-  .quote-clamp{display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden;}
+  .entry-card{transition:transform .3s cubic-bezier(.2,.8,.3,1), box-shadow .3s ease, border-color .3s ease;}
+  .entry-card:hover{transform:translateY(-4px);border-color:rgba(197,160,89,.5);box-shadow:0 20px 44px rgba(0,0,0,.5);}
   .title-clamp{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;}
+  .excerpt-clamp{display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;}
+  .play-badge{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;background:rgba(0,0,0,.35);opacity:0;transition:opacity .2s ease;}
+  .entry-card:hover .play-badge{opacity:1;}
+  .play-badge svg{width:52px;height:52px;filter:drop-shadow(0 4px 12px rgba(0,0,0,.6));}
+
+  .overlay{position:fixed;inset:0;z-index:500;background:rgba(4,4,4,.95);display:flex;align-items:center;justify-content:center;padding:24px;opacity:0;pointer-events:none;transition:opacity .25s ease;}
+  .overlay.open{opacity:1;pointer-events:auto;}
+  .overlay-close{position:absolute;top:22px;right:26px;width:44px;height:44px;border-radius:50%;background:rgba(255,255,255,.08);border:1px solid var(--line);color:var(--white);font-size:1.3rem;cursor:pointer;display:flex;align-items:center;justify-content:center;transition:all .2s;}
+  .overlay-close:hover{background:var(--gold);color:#141414;}
+  .lightbox-frame{width:100%;max-width:1100px;aspect-ratio:16/9;background:#000;border-radius:4px;overflow:hidden;box-shadow:0 30px 90px rgba(0,0,0,.7);}
+  .lightbox-frame iframe{width:100%;height:100%;border:0;}
 </style>
 </head>
 <body>
@@ -116,8 +129,8 @@
           <li><a href="/inn-galiyon-mein">Inn Galiyon Mein</a></li>
         </ul>
       </li>
-      <li><a href="/interviews">Interviews</a></li>
-      <li><a href="/reviews" class="active">Reviews</a></li>
+      <li><a href="/interviews" class="active">Interviews</a></li>
+      <li><a href="/reviews">Reviews</a></li>
       <li><a href="youtube.html">YouTube</a></li>
       <li><a href="contact.html">Contact</a></li>
     </ul>
@@ -133,23 +146,20 @@
       <div class="w-11 h-0.5 bg-gold"></div>
       <span class="text-gold text-xs font-bold tracking-[.24em] uppercase">Equal Tales Entertainment presents</span>
     </div>
-    <h1 class="display text-5xl md:text-7xl uppercase leading-none">Reviews &amp; Dispatches</h1>
-    <p class="mt-5 max-w-xl text-grey text-base md:text-lg">Global and Indian cinema criticism, gathered in one feed — reviews, festival coverage and industry dispatches from the publications we read.</p>
+    <h1 class="display text-5xl md:text-7xl uppercase leading-none">Interviews &amp; Conversations</h1>
+    <p class="mt-5 max-w-2xl text-grey text-base md:text-lg">Video dialogues, podcast features and print interviews with Avinash Das - filmmaker and journalist - gathered from The Lallantop, BBC Hindi, Newslaundry, National Herald and more.</p>
     <p class="mt-3 text-xs text-greydim" id="lastUpdated"></p>
   </div>
 </header>
 
 <section class="wrap py-10">
-  <div class="flex flex-wrap gap-2.5 mb-10" id="filterTabs" role="tablist" aria-label="Filter reviews by category">
-    <button class="tab-btn active bg-transparent border border-white/15 text-grey hover:text-white px-5 py-2.5 rounded-sm text-xs font-bold uppercase tracking-[.1em]" data-category="All Feeds">All Feeds</button>
-    <button class="tab-btn bg-transparent border border-white/15 text-grey hover:text-white px-5 py-2.5 rounded-sm text-xs font-bold uppercase tracking-[.1em]" data-category="Indian Cinema">Indian Cinema</button>
-    <button class="tab-btn bg-transparent border border-white/15 text-grey hover:text-white px-5 py-2.5 rounded-sm text-xs font-bold uppercase tracking-[.1em]" data-category="World Cinema">World Cinema</button>
-    <button class="tab-btn bg-transparent border border-white/15 text-grey hover:text-white px-5 py-2.5 rounded-sm text-xs font-bold uppercase tracking-[.1em]" data-category="Festival Winners">Festival Winners</button>
-    <button class="tab-btn bg-transparent border border-white/15 text-grey hover:text-white px-5 py-2.5 rounded-sm text-xs font-bold uppercase tracking-[.1em]" data-category="Indie Gems">Indie Gems</button>
+  <div class="flex flex-col md:flex-row md:items-center md:justify-between gap-4 mb-8">
+    <div class="flex flex-wrap gap-2.5" id="filterTabs" role="tablist" aria-label="Filter interviews by format"></div>
+    <input type="search" id="searchInput" placeholder="Search titles, outlets, interviewers..." aria-label="Search interviews" class="w-full md:w-72 bg-panel border border-white/15 rounded-sm px-4 py-2.5 text-sm text-white placeholder-greydim focus:outline-none focus:border-gold">
   </div>
 
-  <div id="reviewsState" class="text-grey text-sm py-16 text-center">Loading dispatches…</div>
-  <div id="reviewsGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6"></div>
+  <div id="archiveState" class="text-grey text-sm py-16 text-center">Loading interviews...</div>
+  <div id="archiveGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6"></div>
 </section>
 
 <footer>
@@ -157,7 +167,7 @@
     <div class="footer-grid">
       <div class="footer-brand">
         <img src="ete-logo.png" alt="Equal Tales Entertainment">
-        <p>Equal Tales Entertainment Pvt Ltd — cinema and digital storytelling rooted in social realism and authenticity.</p>
+        <p>Equal Tales Entertainment Pvt Ltd &middot; cinema and digital storytelling rooted in social realism and authenticity.</p>
       </div>
       <div class="footer-links">
         <div class="footer-col">
@@ -180,11 +190,16 @@
       </div>
     </div>
     <div class="footer-bottom">
-      <div>© <span id="year"></span> Equal Tales Entertainment Pvt Ltd. All rights reserved.</div>
+      <div>&copy; <span id="year"></span> Equal Tales Entertainment Pvt Ltd. All rights reserved.</div>
       <div><a href="about.html">The Studio</a></div>
     </div>
   </div>
 </footer>
+
+<div class="overlay" id="lightbox" role="dialog" aria-modal="true" aria-hidden="true">
+  <button class="overlay-close" id="lightboxClose" aria-label="Close">&#10005;</button>
+  <div class="lightbox-frame" id="lightboxFrame"></div>
+</div>
 
 <script>
   document.getElementById('year').textContent = new Date().getFullYear();
@@ -198,6 +213,9 @@
   navToggle.addEventListener('click', function(){
     var open = navLinks.classList.toggle('open');
     navToggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+  });
+  navLinks.querySelectorAll('a').forEach(function(a){
+    a.addEventListener('click', function(){ navLinks.classList.remove('open'); });
   });
   document.querySelectorAll('.dropdown-toggle').forEach(function(btn){
     btn.addEventListener('click', function(e){
@@ -213,104 +231,126 @@
     document.querySelectorAll('.dropdown-menu.open').forEach(function(m){ m.classList.remove('open'); });
     document.querySelectorAll('.dropdown-toggle').forEach(function(b){ b.setAttribute('aria-expanded','false'); });
   });
-  navLinks.querySelectorAll('a').forEach(function(a){
-    a.addEventListener('click', function(){ navLinks.classList.remove('open'); });
-  });
 
-  var PLACEHOLDER_IMG = 'ete-illustration.png';
-  var allReviews = [];
-  var activeCategory = 'All Feeds';
+  var lightbox = document.getElementById('lightbox');
+  var lightboxFrame = document.getElementById('lightboxFrame');
+  var lightboxClose = document.getElementById('lightboxClose');
+  function openLightbox(videoId, title){
+    lightboxFrame.innerHTML =
+      '<iframe src="https://www.youtube-nocookie.com/embed/' + videoId + '?autoplay=1&rel=0" ' +
+      'title="' + (title || 'Video') + '" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>';
+    lightbox.classList.add('open');
+    lightbox.setAttribute('aria-hidden','false');
+  }
+  function closeLightbox(){
+    lightbox.classList.remove('open');
+    lightbox.setAttribute('aria-hidden','true');
+    lightboxFrame.innerHTML = '';
+  }
+  lightboxClose.addEventListener('click', closeLightbox);
+  lightbox.addEventListener('click', function(e){ if(e.target === lightbox) closeLightbox(); });
+  document.addEventListener('keydown', function(e){ if(e.key === 'Escape') closeLightbox(); });
 
-  function fmtDate(iso){
-    try{
-      return new Date(iso).toLocaleDateString('en-US', {day:'numeric', month:'short', year:'numeric'});
-    }catch(e){ return ''; }
+  var allItems = [];
+  var activeTag = 'All';
+  var searchQuery = '';
+
+  function fmtDate(d){
+    if(!d) return '';
+    var m = /^(\d{4})-(\d{2})-(\d{2})$/.exec(d);
+    if(m){
+      try{ return new Date(d).toLocaleDateString('en-US', {day:'numeric', month:'short', year:'numeric'}); }catch(e){}
+    }
+    return d;
   }
 
-  function cardHTML(r){
-    var img = r.image || PLACEHOLDER_IMG;
-    var author = r.author ? r.author + ' · ' : '';
+  function escapeAttr(s){ return (s || '').replace(/'/g, '&#39;').replace(/"/g, '&quot;'); }
+
+  function cardHTML(it, idx){
+    var author = it.interviewer ? it.interviewer + ' &middot; ' : '';
+    var badge = '<span class="inline-block text-[.65rem] font-bold uppercase tracking-[.1em] text-goldbright bg-gold/10 border border-gold/40 rounded-full px-3 py-1">' + it.category + '</span>' +
+                '<span class="inline-block text-[.65rem] font-bold uppercase tracking-[.1em] text-grey border border-white/15 rounded-full px-3 py-1">' + it.lang + '</span>';
+    var body =
+        '<div class="flex items-center gap-2 mb-3 flex-wrap">' + badge + '</div>' +
+        '<h3 class="title-clamp display text-xl uppercase leading-tight mb-2">' + it.title + '</h3>' +
+        (it.excerpt ? '<p class="excerpt-clamp text-grey text-sm mb-4">' + it.excerpt + '</p>' : '') +
+        '<div class="text-[.72rem] text-greydim uppercase tracking-[.06em] pt-3 border-t border-white/10">' + author + '<span class="text-gold-bright text-gold">' + it.source + '</span>' + (it.date ? ' &middot; ' + fmtDate(it.date) : '') + '</div>';
+
+    if(it.videoId){
+      return '' +
+        '<div class="entry-card cursor-pointer bg-panel border border-white/10 rounded overflow-hidden" data-video="' + escapeAttr(it.videoId) + '" data-title="' + escapeAttr(it.title) + '">' +
+          '<div class="relative aspect-[16/9] bg-black overflow-hidden">' +
+            '<img src="https://img.youtube.com/vi/' + it.videoId + '/hqdefault.jpg" alt="" loading="lazy" class="w-full h-full object-cover">' +
+            '<div class="play-badge"><svg viewBox="0 0 68 48"><path d="M66.5 7.7c-.8-3-2.9-5.2-5.7-6C55.8 0 33 0 33 0S10.2 0 5.2 1.7C2.4 2.5.3 4.7-.5 7.7-2 13-2 24-2 24s0 11 1.5 16.3c.8 3 2.9 5.2 5.7 6C10.2 48 33 48 33 48s22.8 0 27.8-1.7c2.8-.8 4.9-3 5.7-6C68 35 68 24 68 24s0-11-1.5-16.3z" fill="rgba(197,160,89,.9)"/><path d="M45 24 27 14v20z" fill="#0a0a0a"/></svg></div>' +
+          '</div>' +
+          '<div class="p-5">' + body + '</div>' +
+        '</div>';
+    }
     return '' +
-      '<a class="review-card block bg-panel border border-white/10 rounded overflow-hidden" href="' + r.link + '" target="_blank" rel="noopener">' +
-        '<div class="aspect-[16/9] bg-black overflow-hidden">' +
-          '<img src="' + img + '" alt="" loading="lazy" class="w-full h-full object-cover" onerror="this.src=\'' + PLACEHOLDER_IMG + '\'">' +
-        '</div>' +
-        '<div class="p-5">' +
-          '<span class="inline-block text-[.65rem] font-bold uppercase tracking-[.1em] text-goldbright bg-gold/10 border border-gold/40 rounded-full px-3 py-1 mb-3">' + r.category + '</span>' +
-          '<h3 class="title-clamp display text-xl uppercase leading-tight mb-2">' + r.title + '</h3>' +
-          (r.quote ? '<p class="quote-clamp text-grey text-sm italic mb-4">' + r.quote + '</p>' : '') +
-          '<div class="text-[.72rem] text-greydim uppercase tracking-[.06em] pt-3 border-t border-white/10">' + author + '<span class="text-gold-bright text-gold">' + r.publisher + '</span> · ' + fmtDate(r.date) + '</div>' +
-        '</div>' +
-      '</a>';
+      '<a class="entry-card block bg-panel border border-white/10 rounded overflow-hidden p-5" href="' + it.link + '" target="_blank" rel="noopener">' + body + '</a>';
+  }
+
+  function matchesSearch(it, q){
+    if(!q) return true;
+    q = q.toLowerCase();
+    return [it.title, it.source, it.interviewer, it.excerpt, it.category].filter(Boolean).join(' ').toLowerCase().indexOf(q) !== -1;
   }
 
   function render(){
-    var grid = document.getElementById('reviewsGrid');
-    var state = document.getElementById('reviewsState');
-    var items = activeCategory === 'All Feeds' ? allReviews : allReviews.filter(function(r){ return r.category === activeCategory; });
+    var grid = document.getElementById('archiveGrid');
+    var state = document.getElementById('archiveState');
+    var items = allItems.filter(function(it){
+      return (activeTag === 'All' || it.category === activeTag) && matchesSearch(it, searchQuery);
+    });
     if(!items.length){
       grid.innerHTML = '';
       state.style.display = 'block';
-      state.textContent = 'No dispatches in this category right now.';
+      state.textContent = 'No entries match your search.';
       return;
     }
     state.style.display = 'none';
     grid.innerHTML = items.map(cardHTML).join('');
-    injectStructuredData(items);
+    grid.querySelectorAll('[data-video]').forEach(function(card){
+      card.addEventListener('click', function(){
+        openLightbox(card.dataset.video, card.dataset.title);
+      });
+    });
   }
 
-  function injectStructuredData(items){
-    var existing = document.getElementById('reviewsSchema');
-    if(existing) existing.remove();
-    var schema = {
-      '@context': 'https://schema.org',
-      '@type': 'ItemList',
-      name: 'Equal Tales Entertainment — Reviews & Dispatches',
-      itemListElement: items.slice(0, 40).map(function(r, i){
-        return {
-          '@type': 'ListItem',
-          position: i + 1,
-          url: r.link,
-          item: {
-            '@type': 'NewsArticle',
-            headline: r.title,
-            url: r.link,
-            datePublished: r.date,
-            image: r.image || undefined,
-            author: r.author ? {'@type': 'Person', name: r.author} : {'@type': 'Organization', name: r.publisher},
-            publisher: {'@type': 'Organization', name: r.publisher},
-          },
-        };
-      }),
-    };
-    var script = document.createElement('script');
-    script.type = 'application/ld+json';
-    script.id = 'reviewsSchema';
-    script.textContent = JSON.stringify(schema);
-    document.head.appendChild(script);
+  function renderTabs(tags){
+    var tabWrap = document.getElementById('filterTabs');
+    var all = ['All'].concat(tags);
+    tabWrap.innerHTML = all.map(function(t){
+      return '<button class="tab-btn' + (t === 'All' ? ' active' : '') + ' bg-transparent border border-white/15 text-grey hover:text-white px-4 py-2 rounded-sm text-xs font-bold uppercase tracking-[.1em]" data-tag="' + t + '">' + t + '</button>';
+    }).join('');
+    tabWrap.addEventListener('click', function(e){
+      var btn = e.target.closest('.tab-btn');
+      if(!btn) return;
+      tabWrap.querySelectorAll('.tab-btn').forEach(function(b){ b.classList.remove('active'); });
+      btn.classList.add('active');
+      activeTag = btn.dataset.tag;
+      render();
+    });
   }
 
-  document.getElementById('filterTabs').addEventListener('click', function(e){
-    var btn = e.target.closest('.tab-btn');
-    if(!btn) return;
-    document.querySelectorAll('.tab-btn').forEach(function(b){ b.classList.remove('active'); });
-    btn.classList.add('active');
-    activeCategory = btn.dataset.category;
+  document.getElementById('searchInput').addEventListener('input', function(e){
+    searchQuery = e.target.value.trim();
     render();
   });
 
-  fetch('data/reviews.json?v=' + Date.now())
+  fetch('interviews_data.json?v=' + Date.now())
     .then(function(res){ if(!res.ok) throw new Error('HTTP ' + res.status); return res.json(); })
     .then(function(data){
-      allReviews = data.reviews || [];
+      allItems = data.items || [];
+      renderTabs(data.categories || []);
       if(data.generated_at){
-        document.getElementById('lastUpdated').textContent = 'Last updated ' + fmtDate(data.generated_at) + ' · ' + allReviews.length + ' dispatches from ' + (data.source_feed_count || '—') + ' publications';
+        document.getElementById('lastUpdated').textContent = 'Last updated ' + fmtDate(data.generated_at) + ' · ' + allItems.length + ' interviews';
       }
       render();
     })
     .catch(function(err){
-      document.getElementById('reviewsState').textContent = 'Dispatches are taking a moment to load. Please refresh, or check back shortly.';
-      console.error('reviews.json load failed:', err);
+      document.getElementById('archiveState').textContent = 'Interviews are taking a moment to load. Please refresh, or check back shortly.';
+      console.error('interviews_data.json load failed:', err);
     });
 </script>
 

@@ -1,0 +1,385 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Inn Galiyon Mein · Press &amp; Reception | Equal Tales Entertainment</title>
+<meta name="description" content="Critical reviews, music and soundtrack discourse, and press, festival and screening reception for Inn Galiyon Mein, directed by Avinash Das.">
+<link rel="icon" type="image/png" href="favicon.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+  tailwind.config = {
+    theme: {
+      extend: {
+        colors: {
+          void: '#070707', panel: '#131313', panel2: '#19170f',
+          gold: '#c5a059', goldbright: '#eccb87',
+          grey: '#9d978d', greydim: '#666059',
+        },
+        fontFamily: {
+          display: ['Bebas Neue', 'sans-serif'],
+          sans: ['Inter', 'sans-serif'],
+        },
+      },
+    },
+  };
+</script>
+<style>
+  :root{
+    --void:#070707; --panel:#131313; --panel-2:#19170f; --line:rgba(255,255,255,.08);
+    --gold:#c5a059; --gold-bright:#eccb87; --white:#f5f2ec; --grey:#9d978d; --grey-dim:#666059;
+    --gutter:28px; --content-max:1320px; --shadow-gold:0 10px 30px rgba(197,160,89,.25);
+  }
+  *{box-sizing:border-box;margin:0;padding:0;}
+  html{scroll-behavior:smooth;}
+  body{background:var(--void);color:var(--white);font-family:'Inter',sans-serif;line-height:1.6;overflow-x:hidden;}
+  img{max-width:100%;display:block;}
+  a{color:inherit;text-decoration:none;}
+  .wrap{max-width:var(--content-max);margin:0 auto;padding:0 var(--gutter);}
+  .display{font-family:'Bebas Neue',sans-serif;letter-spacing:.03em;}
+  ::selection{background:var(--gold);color:#141414;}
+
+  .btn{display:inline-flex;align-items:center;gap:10px;padding:14px 28px;border-radius:2px;font-weight:700;font-size:.78rem;text-transform:uppercase;letter-spacing:.14em;cursor:pointer;border:1.5px solid transparent;transition:all .25s;}
+  .btn-solid{background:var(--gold);color:#141210;box-shadow:var(--shadow-gold);}
+  .btn-solid:hover{background:var(--gold-bright);transform:translateY(-2px);}
+  .btn-ghost{border-color:rgba(245,242,236,.35);color:var(--white);background:rgba(255,255,255,.05);backdrop-filter:blur(6px);}
+  .btn-ghost:hover{border-color:var(--white);background:rgba(255,255,255,.12);}
+
+  .site-nav{position:fixed;top:0;left:0;right:0;z-index:200;padding:20px 0;transition:padding .3s ease;}
+  .site-nav::before{content:"";position:absolute;inset:0;z-index:-1;background:rgba(7,7,7,.4);backdrop-filter:blur(12px) saturate(1.3);-webkit-backdrop-filter:blur(12px) saturate(1.3);border-bottom:1px solid rgba(255,255,255,.05);transition:background .3s ease, box-shadow .3s ease, border-color .3s ease;}
+  .site-nav.scrolled{padding:14px 0;}
+  .site-nav.scrolled::before{background:rgba(7,7,7,.88);box-shadow:0 4px 30px rgba(0,0,0,.45);border-color:var(--line);}
+  .site-nav .wrap{display:flex;align-items:center;justify-content:space-between;gap:20px;}
+  .brand{display:flex;align-items:center;gap:12px;}
+  .brand img{height:40px;width:auto;border-radius:8px;}
+  .brand span{font-family:'Bebas Neue',sans-serif;letter-spacing:.12em;font-size:1.1rem;color:var(--white);}
+  .nav-links{display:flex;gap:36px;list-style:none;align-items:center;}
+  .nav-links a{font-size:.78rem;font-weight:700;text-transform:uppercase;letter-spacing:.16em;color:var(--grey);transition:color .2s;}
+  .nav-links a:hover, .nav-links a.active{color:var(--gold-bright);}
+  .nav-toggle{display:none;flex-direction:column;gap:5px;background:none;border:0;cursor:pointer;padding:8px;}
+  .nav-toggle span{width:24px;height:2px;background:var(--white);display:block;}
+  .has-dropdown{position:relative;}
+  .dropdown-toggle{background:none;border:0;font:inherit;font-size:.78rem;font-weight:700;text-transform:uppercase;letter-spacing:.16em;color:var(--grey);cursor:pointer;display:flex;align-items:center;gap:6px;padding:0;transition:color .2s;}
+  .dropdown-toggle:hover,.dropdown-toggle[aria-expanded="true"],.dropdown-toggle.active{color:var(--gold-bright);}
+  .caret{transition:transform .2s ease;}
+  .dropdown-toggle[aria-expanded="true"] .caret{transform:rotate(180deg);}
+  .dropdown-menu{list-style:none;position:absolute;top:100%;left:50%;margin-top:14px;background:var(--panel);border:1px solid var(--line);border-radius:6px;padding:8px;min-width:220px;opacity:0;pointer-events:none;transform:translateX(-50%) translateY(-6px);transition:opacity .2s ease, transform .2s ease;box-shadow:0 20px 44px rgba(0,0,0,.5);}
+  .has-dropdown:hover .dropdown-menu,.has-dropdown:focus-within .dropdown-menu,.dropdown-menu.open{opacity:1;pointer-events:auto;transform:translateX(-50%) translateY(0);}
+  .dropdown-menu li a{display:block;padding:10px 14px;font-size:.78rem;font-weight:600;text-transform:none;letter-spacing:.02em;color:var(--grey);border-radius:4px;white-space:nowrap;}
+  .dropdown-menu li a:hover{background:rgba(197,160,89,.1);color:var(--gold-bright);}
+  @media(max-width:860px){
+    .nav-links{position:fixed;inset:0;top:0;background:var(--void);flex-direction:column;align-items:center;justify-content:center;gap:32px;transform:translateY(-100%);transition:transform .35s ease;z-index:190;}
+    .nav-links.open{transform:translateY(0);}
+    .nav-links a{font-size:1.3rem;}
+    .nav-toggle{display:flex;position:relative;z-index:201;}
+    .has-dropdown{width:100%;display:flex;flex-direction:column;align-items:center;}
+    .dropdown-toggle{font-size:1.3rem;justify-content:center;}
+    .dropdown-menu{position:static;transform:none;opacity:1;pointer-events:auto;box-shadow:none;background:transparent;border:0;margin-top:12px;padding:0;text-align:center;}
+    .dropdown-menu li a{font-size:1.05rem;padding:8px 0;color:var(--grey);}
+  }
+
+  footer{padding:60px 0 34px;}
+  .footer-grid{display:flex;justify-content:space-between;gap:30px;flex-wrap:wrap;padding-bottom:32px;border-bottom:1px solid var(--line);}
+  .footer-brand img{height:38px;margin-bottom:14px;}
+  .footer-brand p{color:var(--grey-dim);font-size:.85rem;max-width:280px;}
+  .footer-links{display:flex;gap:60px;flex-wrap:wrap;}
+  .footer-col h5{font-size:.7rem;text-transform:uppercase;letter-spacing:.14em;color:var(--gold);margin-bottom:14px;}
+  .footer-col a{display:block;color:var(--grey);font-size:.88rem;margin-bottom:10px;transition:color .2s;}
+  .footer-col a:hover{color:var(--white);}
+  .footer-bottom{padding-top:24px;display:flex;justify-content:space-between;flex-wrap:wrap;gap:10px;color:var(--grey-dim);font-size:.78rem;}
+  .footer-bottom a{color:var(--grey-dim);text-decoration:underline;}
+
+  .tab-btn{transition:all .2s ease;}
+  .tab-btn.active{background:var(--gold);border-color:var(--gold);color:#141210;}
+  .entry-card{transition:transform .3s cubic-bezier(.2,.8,.3,1), box-shadow .3s ease, border-color .3s ease;}
+  .entry-card:hover{transform:translateY(-4px);border-color:rgba(197,160,89,.5);box-shadow:0 20px 44px rgba(0,0,0,.5);}
+  .title-clamp{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;}
+  .excerpt-clamp{display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;}
+
+  .overlay{position:fixed;inset:0;z-index:500;background:rgba(4,4,4,.95);display:flex;align-items:center;justify-content:center;padding:24px;opacity:0;pointer-events:none;transition:opacity .25s ease;}
+  .overlay.open{opacity:1;pointer-events:auto;}
+  .overlay-close{position:absolute;top:22px;right:26px;width:44px;height:44px;border-radius:50%;background:rgba(255,255,255,.08);border:1px solid var(--line);color:var(--white);font-size:1.3rem;cursor:pointer;display:flex;align-items:center;justify-content:center;transition:all .2s;}
+  .overlay-close:hover{background:var(--gold);color:#141414;}
+  .lightbox-frame{width:100%;max-width:1100px;aspect-ratio:16/9;background:#000;border-radius:4px;overflow:hidden;box-shadow:0 30px 90px rgba(0,0,0,.7);}
+  .lightbox-frame iframe{width:100%;height:100%;border:0;}
+
+  .modal-card{width:100%;max-width:640px;background:var(--panel);border:1px solid var(--line);border-radius:6px;padding:44px;position:relative;max-height:88vh;overflow-y:auto;}
+  .modal-badge{display:inline-block;background:rgba(197,160,89,.15);border:1px solid var(--gold);color:var(--gold-bright);font-size:.66rem;font-weight:800;letter-spacing:.12em;text-transform:uppercase;padding:6px 14px;border-radius:999px;margin-bottom:18px;}
+  .modal-card h3{font-family:'Bebas Neue',sans-serif;font-size:2.3rem;letter-spacing:.03em;text-transform:uppercase;color:var(--white);line-height:1.05;}
+  .modal-meta{margin-top:8px;color:var(--gold);font-size:.82rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;}
+  .modal-logline{margin-top:16px;color:var(--grey);font-style:italic;font-size:1rem;border-left:2px solid var(--gold);padding-left:16px;}
+  .modal-synopsis{margin-top:20px;color:var(--white);font-size:.95rem;line-height:1.75;}
+  .modal-actions{margin-top:28px;display:flex;gap:14px;flex-wrap:wrap;}
+  @media(max-width:640px){ .modal-card{padding:30px 22px;} }
+</style>
+</head>
+<body>
+
+<nav class="site-nav" id="siteNav">
+  <div class="wrap">
+    <a class="brand" href="index.html">
+      <img src="ete-logo.png" alt="Equal Tales Entertainment">
+      <span>EQUAL TALES</span>
+    </a>
+    <ul class="nav-links" id="navLinks">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="about.html">About</a></li>
+      <li class="has-dropdown">
+        <button type="button" class="dropdown-toggle active" aria-haspopup="true" aria-expanded="false">Discourse<svg class="caret" viewBox="0 0 12 8" width="10" height="7" aria-hidden="true"><path d="M1 1l5 5 5-5" stroke="currentColor" stroke-width="1.6" fill="none"/></svg></button>
+        <ul class="dropdown-menu">
+          <li><a href="/anaarkali">Anaarkali of Aarah</a></li>
+          <li><a href="/inn-galiyon-mein" class="active">Inn Galiyon Mein</a></li>
+        </ul>
+      </li>
+      <li><a href="/interviews">Interviews</a></li>
+      <li><a href="/reviews">Reviews</a></li>
+      <li><a href="youtube.html">YouTube</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+    <button class="nav-toggle" id="navToggle" aria-label="Menu" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</nav>
+
+<header class="pt-40 pb-14 px-6 border-b border-white/10">
+  <div class="wrap">
+    <div class="flex items-center gap-3 mb-4">
+      <div class="w-11 h-0.5 bg-gold"></div>
+      <span class="text-gold text-xs font-bold tracking-[.24em] uppercase">Inn Galiyon Mein &middot; Press &amp; Reception</span>
+    </div>
+    <h1 class="display text-5xl md:text-7xl uppercase leading-none">Inn Galiyon Mein</h1>
+    <p class="mt-5 max-w-2xl text-grey text-base md:text-lg">A musical, political drama celebrating communal harmony, directed by Avinash Das and starring Javed Jaffrey, Vivaan Shah and Avantika Dassani. Critical reviews, soundtrack discourse and press reception, gathered in one archive.</p>
+    <div class="mt-6 flex flex-wrap gap-3">
+      <button class="btn btn-solid" id="watchTrailer">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
+        Watch Trailer
+      </button>
+      <button class="btn btn-ghost" id="requestScreener">Request Screener / View Info</button>
+    </div>
+    <p class="mt-4 text-xs text-greydim" id="lastUpdated"></p>
+  </div>
+</header>
+
+<section class="wrap py-10">
+  <div class="flex flex-col md:flex-row md:items-center md:justify-between gap-4 mb-8">
+    <div class="flex flex-wrap gap-2.5" id="filterTabs" role="tablist" aria-label="Filter by category"></div>
+    <input type="search" id="searchInput" placeholder="Search titles, outlets, authors..." aria-label="Search press coverage" class="w-full md:w-72 bg-panel border border-white/15 rounded-sm px-4 py-2.5 text-sm text-white placeholder-greydim focus:outline-none focus:border-gold">
+  </div>
+
+  <div id="archiveState" class="text-grey text-sm py-16 text-center">Loading coverage...</div>
+  <div id="archiveGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6"></div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <div class="footer-grid">
+      <div class="footer-brand">
+        <img src="ete-logo.png" alt="Equal Tales Entertainment">
+        <p>Equal Tales Entertainment Pvt Ltd &middot; cinema and digital storytelling rooted in social realism and authenticity.</p>
+      </div>
+      <div class="footer-links">
+        <div class="footer-col">
+          <h5>Explore</h5>
+          <a href="index.html">Home</a>
+          <a href="about.html">About the Studio</a>
+          <a href="/reviews">Reviews &amp; Dispatches</a>
+          <a href="/anaarkali">Anaarkali of Aarah</a>
+          <a href="/inn-galiyon-mein">Inn Galiyon Mein</a>
+          <a href="/interviews">Interviews</a>
+          <a href="scripts.html">Storyline</a>
+          <a href="youtube.html">YouTube Gallery</a>
+        </div>
+        <div class="footer-col">
+          <h5>Connect</h5>
+          <a href="contact.html">Contact</a>
+          <a href="mailto:equaltales@gmail.com">equaltales@gmail.com</a>
+          <a href="https://www.youtube.com/@ETStoryline" target="_blank" rel="noopener">@ETStoryline</a>
+        </div>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <div>&copy; <span id="year"></span> Equal Tales Entertainment Pvt Ltd. All rights reserved.</div>
+      <div><a href="about.html">The Studio</a></div>
+    </div>
+  </div>
+</footer>
+
+<div class="overlay" id="lightbox" role="dialog" aria-modal="true" aria-hidden="true">
+  <button class="overlay-close" id="lightboxClose" aria-label="Close">&#10005;</button>
+  <div class="lightbox-frame" id="lightboxFrame"></div>
+</div>
+
+<div class="overlay" id="infoModal" role="dialog" aria-modal="true" aria-hidden="true">
+  <button class="overlay-close" id="infoModalClose" aria-label="Close">&#10005;</button>
+  <div class="modal-card">
+    <div class="modal-badge">Feature Film &middot; Musical Drama</div>
+    <h3>Inn Galiyon Mein</h3>
+    <div class="modal-meta">2025 &middot; Musical Drama &middot; Dir. Avinash Das</div>
+    <div class="modal-logline">A musical, political drama celebrating communal harmony.</div>
+    <div class="modal-synopsis">Starring Javed Jaffrey, Vivaan Shah and Avantika Dassani, Inn Galiyon Mein is a beautifully crafted musical and political film celebrating unity, told through soulful music and poignant storytelling. For screener access, press inquiries or festival programming requests, reach out directly using the button below.</div>
+    <div class="modal-actions">
+      <a class="btn btn-solid" href="mailto:avinashdasfilmsgmail.com@gmail.com?subject=Inn%20Galiyon%20Mein%20-%20Screener%20Request">Request Screener Access</a>
+      <a class="btn btn-ghost" href="/inn-galiyon-mein#watchTrailer" id="modalWatchTrailer">Watch Trailer</a>
+    </div>
+  </div>
+</div>
+
+<script>
+  document.getElementById('year').textContent = new Date().getFullYear();
+
+  var nav = document.getElementById('siteNav');
+  window.addEventListener('scroll', function(){
+    nav.classList.toggle('scrolled', window.scrollY > 40);
+  });
+  var navToggle = document.getElementById('navToggle');
+  var navLinks = document.getElementById('navLinks');
+  navToggle.addEventListener('click', function(){
+    var open = navLinks.classList.toggle('open');
+    navToggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+  });
+  navLinks.querySelectorAll('a').forEach(function(a){
+    a.addEventListener('click', function(){ navLinks.classList.remove('open'); });
+  });
+  document.querySelectorAll('.dropdown-toggle').forEach(function(btn){
+    btn.addEventListener('click', function(e){
+      e.stopPropagation();
+      var menu = btn.nextElementSibling;
+      var isOpen = menu.classList.contains('open');
+      document.querySelectorAll('.dropdown-menu.open').forEach(function(m){ m.classList.remove('open'); });
+      document.querySelectorAll('.dropdown-toggle').forEach(function(b){ b.setAttribute('aria-expanded','false'); });
+      if(!isOpen){ menu.classList.add('open'); btn.setAttribute('aria-expanded','true'); }
+    });
+  });
+  document.addEventListener('click', function(){
+    document.querySelectorAll('.dropdown-menu.open').forEach(function(m){ m.classList.remove('open'); });
+    document.querySelectorAll('.dropdown-toggle').forEach(function(b){ b.setAttribute('aria-expanded','false'); });
+  });
+
+  var lightbox = document.getElementById('lightbox');
+  var lightboxFrame = document.getElementById('lightboxFrame');
+  var lightboxClose = document.getElementById('lightboxClose');
+  function openLightbox(videoId, title){
+    lightboxFrame.innerHTML =
+      '<iframe src="https://www.youtube-nocookie.com/embed/' + videoId + '?autoplay=1&rel=0" ' +
+      'title="' + (title || 'Video') + '" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>';
+    lightbox.classList.add('open');
+    lightbox.setAttribute('aria-hidden','false');
+  }
+  function closeLightbox(){
+    lightbox.classList.remove('open');
+    lightbox.setAttribute('aria-hidden','true');
+    lightboxFrame.innerHTML = '';
+  }
+  lightboxClose.addEventListener('click', closeLightbox);
+  lightbox.addEventListener('click', function(e){ if(e.target === lightbox) closeLightbox(); });
+  document.getElementById('watchTrailer').addEventListener('click', function(){
+    openLightbox('fePIz2odTnE', 'Inn Galiyon Mein - Official Trailer');
+  });
+
+  var infoModal = document.getElementById('infoModal');
+  var infoModalClose = document.getElementById('infoModalClose');
+  function openInfoModal(){ infoModal.classList.add('open'); infoModal.setAttribute('aria-hidden','false'); }
+  function closeInfoModal(){ infoModal.classList.remove('open'); infoModal.setAttribute('aria-hidden','true'); }
+  document.getElementById('requestScreener').addEventListener('click', openInfoModal);
+  infoModalClose.addEventListener('click', closeInfoModal);
+  infoModal.addEventListener('click', function(e){ if(e.target === infoModal) closeInfoModal(); });
+  document.getElementById('modalWatchTrailer').addEventListener('click', function(e){
+    e.preventDefault();
+    closeInfoModal();
+    openLightbox('fePIz2odTnE', 'Inn Galiyon Mein - Official Trailer');
+  });
+  document.addEventListener('keydown', function(e){ if(e.key === 'Escape'){ closeLightbox(); closeInfoModal(); } });
+
+  var allItems = [];
+  var activeTag = 'All';
+  var searchQuery = '';
+
+  function fmtDate(d){
+    if(!d) return '';
+    var m = /^(\d{4})-(\d{2})-(\d{2})$/.exec(d);
+    if(m){
+      try{ return new Date(d).toLocaleDateString('en-US', {day:'numeric', month:'short', year:'numeric'}); }catch(e){}
+    }
+    return d;
+  }
+
+  function cardHTML(it){
+    var author = it.author ? it.author + ' &middot; ' : '';
+    return '' +
+      '<a class="entry-card block bg-panel border border-white/10 rounded overflow-hidden p-5" href="' + it.link + '" target="_blank" rel="noopener">' +
+        '<div class="flex items-center gap-2 mb-3 flex-wrap">' +
+          '<span class="inline-block text-[.65rem] font-bold uppercase tracking-[.1em] text-goldbright bg-gold/10 border border-gold/40 rounded-full px-3 py-1">' + it.tag + '</span>' +
+          '<span class="inline-block text-[.65rem] font-bold uppercase tracking-[.1em] text-grey border border-white/15 rounded-full px-3 py-1">' + it.lang + '</span>' +
+        '</div>' +
+        '<h3 class="title-clamp display text-xl uppercase leading-tight mb-2">' + it.title + '</h3>' +
+        (it.excerpt ? '<p class="excerpt-clamp text-grey text-sm mb-4">' + it.excerpt + '</p>' : '') +
+        '<div class="text-[.72rem] text-greydim uppercase tracking-[.06em] pt-3 border-t border-white/10">' + author + '<span class="text-gold-bright text-gold">' + it.source + '</span>' + (it.date ? ' &middot; ' + fmtDate(it.date) : '') + '</div>' +
+      '</a>';
+  }
+
+  function matchesSearch(it, q){
+    if(!q) return true;
+    q = q.toLowerCase();
+    return [it.title, it.source, it.author, it.excerpt, it.tag].filter(Boolean).join(' ').toLowerCase().indexOf(q) !== -1;
+  }
+
+  function render(){
+    var grid = document.getElementById('archiveGrid');
+    var state = document.getElementById('archiveState');
+    var items = allItems.filter(function(it){
+      return (activeTag === 'All' || it.tag === activeTag) && matchesSearch(it, searchQuery);
+    });
+    if(!items.length){
+      grid.innerHTML = '';
+      state.style.display = 'block';
+      state.textContent = 'No entries match your search.';
+      return;
+    }
+    state.style.display = 'none';
+    grid.innerHTML = items.map(cardHTML).join('');
+  }
+
+  function renderTabs(tags){
+    var tabWrap = document.getElementById('filterTabs');
+    var all = ['All'].concat(tags);
+    tabWrap.innerHTML = all.map(function(t){
+      return '<button class="tab-btn' + (t === 'All' ? ' active' : '') + ' bg-transparent border border-white/15 text-grey hover:text-white px-4 py-2 rounded-sm text-xs font-bold uppercase tracking-[.1em]" data-tag="' + t + '">' + t + '</button>';
+    }).join('');
+    tabWrap.addEventListener('click', function(e){
+      var btn = e.target.closest('.tab-btn');
+      if(!btn) return;
+      tabWrap.querySelectorAll('.tab-btn').forEach(function(b){ b.classList.remove('active'); });
+      btn.classList.add('active');
+      activeTag = btn.dataset.tag;
+      render();
+    });
+  }
+
+  document.getElementById('searchInput').addEventListener('input', function(e){
+    searchQuery = e.target.value.trim();
+    render();
+  });
+
+  fetch('inn_galiyon_archive.json?v=' + Date.now())
+    .then(function(res){ if(!res.ok) throw new Error('HTTP ' + res.status); return res.json(); })
+    .then(function(data){
+      allItems = data.items || [];
+      renderTabs(data.categories || []);
+      if(data.generated_at){
+        document.getElementById('lastUpdated').textContent = 'Coverage last updated ' + fmtDate(data.generated_at) + ' · ' + allItems.length + ' entries';
+      }
+      render();
+    })
+    .catch(function(err){
+      document.getElementById('archiveState').textContent = 'Coverage is taking a moment to load. Please refresh, or check back shortly.';
+      console.error('inn_galiyon_archive.json load failed:', err);
+    });
+</script>
+
+</body>
+</html>
