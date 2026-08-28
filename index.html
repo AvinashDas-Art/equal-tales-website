@@ -669,6 +669,11 @@
     } else {
       actions = '<a class="btn btn-solid" href="mailto:' + film.contactEmail + '?subject=' +
         encodeURIComponent('Screener Request: ' + film.title) + '">Request Screener Access</a>';
+      if(film.trailerVideoId){
+        actions += '<button class="btn btn-ghost" id="detailTrailerBtn">' +
+          '<svg viewBox="0 0 24 24" fill="currentColor" style="width:15px;height:15px;"><path d="M8 5v14l11-7z"/></svg>' +
+          '<span>Watch Trailer</span></button>';
+      }
     }
 
     detailCard.innerHTML =
@@ -684,6 +689,11 @@
       document.getElementById('detailWatchBtn').addEventListener('click', function(){
         closeDetails();
         openLightbox(film.videoId, film.title);
+      });
+    } else if(film.trailerVideoId){
+      document.getElementById('detailTrailerBtn').addEventListener('click', function(){
+        closeDetails();
+        openLightbox(film.trailerVideoId, film.title + ' - Trailer');
       });
     }
 

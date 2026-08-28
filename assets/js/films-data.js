@@ -216,17 +216,23 @@ window.FILMS_DATA = [
     synopsis: "A key scene from Raat Baaki Hai, starring Anup Soni and Paoli Dam."
   },
   {
-    id: "inn-galiyon-mein-trailer",
+    id: "inn-galiyon-mein",
     title: "Inn Galiyon Mein",
-    subtitle: "Official Trailer",
-    category: "Feature Films",
+    subtitle: "Private Screener",
+    category: "Private Screeners",
     genre: "Musical Drama",
-    type: "youtube",
-    videoId: "fePIz2odTnE",
-    thumbnailUrl: "https://img.youtube.com/vi/fePIz2odTnE/maxresdefault.jpg",
+    type: "showcase",
+    posterUrl: "https://img.youtube.com/vi/fePIz2odTnE/maxresdefault.jpg",
+    trailerVideoId: "fePIz2odTnE",
     year: 2025,
+    badge: "Private Screener - Musical Drama",
     logline: "A musical, political drama celebrating communal harmony.",
-    synopsis: "Official trailer for Inn Galiyon Mein, starring Javed Jaffrey, Vivaan Shah and Avantika Dassani — a beautifully crafted musical and political film celebrating unity, told through soulful music and poignant storytelling."
+    synopsis: "Starring Javed Jaffrey, Vivaan Shah and Avantika Dassani - a beautifully crafted musical and political film celebrating unity, told through soulful music and poignant storytelling. The trailer is public; the full film is available on request.",
+    credits: [
+      { role: "Director", name: "Avinash Das" },
+      { role: "Cast", name: "Javed Jaffrey, Vivaan Shah, Avantika Dassani" }
+    ],
+    contactEmail: "avinashdasfilmsgmail.com@gmail.com"
   },
   {
     id: "patang-ki-dor",
@@ -255,17 +261,17 @@ window.FILMS_DATA = [
     synopsis: "A documentary portraying the rich yet challenging lives of Jharkhand's tribal communities — an extraordinary tale of resilience, capturing indigenous culture with authenticity and grace."
   },
   {
-    id: "private-feature-01",
-    title: "[Untitled Feature Film]",
+    id: "sahiya-2026",
+    title: "SAHiYA",
     subtitle: "Private Screener",
     category: "Private Screeners",
     genre: "TBA",
     type: "showcase",
     posterUrl: "",
-    year: "TBA",
-    badge: "Festival Circuit / Private Screener",
-    logline: "Details to be added — send title, year, genre, logline, synopsis and credits to complete this entry.",
-    synopsis: "This project is currently on the private screener / festival circuit and is not available for public playback. Placeholder content — replace with the real title, year, genre, logline, synopsis and credits.",
+    year: 2026,
+    badge: "Private Screener - 2026",
+    logline: "Details to be added - send genre, logline, synopsis, credits and a poster image to complete this entry.",
+    synopsis: "SAHiYA (2026) is currently on the private screener / festival circuit and is not available for public playback. Title and year are confirmed - genre, logline, synopsis, credits and poster still need to be supplied to finish this card.",
     credits: [
       { role: "Director", name: "Avinash Das" }
     ],
