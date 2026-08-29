@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T16:35:49.455627+00:00",
+  "generated_at": "2026-08-29T20:48:49.257270+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -8,6 +8,61 @@
     "Indie Gems"
   ],
   "reviews": [
+    {
+      "id": "73461b6090796847",
+      "title": "Acclaimed, Controversial Play ‘Downstate’ Gets Broadway Marquee; Scott Rudin Reportedly Producing With Joe Mantello Directing",
+      "quote": "The marquee at Broadway’s Booth Theatre appears to confirm the rumors: Bruce Norris’ acclaimed and controversial play Downstate will take up residence at the venue in an upcoming production directed by Joe Mantello. The…",
+      "publisher": "Deadline",
+      "author": "Greg Evans",
+      "date": "2026-08-29T19:12:06+00:00",
+      "link": "https://deadline.com/2026/08/downstate-broadway-scott-rudin-joe-mantello-1237062672/",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Screenshot-2026-08-29-at-2.08.32-PM.png",
+      "category": "World Cinema"
+    },
+    {
+      "id": "a9a3a568987a4579",
+      "title": "Venice Film Festival Scraps Jury Press Conference",
+      "quote": "The Venice Film Festival has taken the unusual step of scrapping its main jury press conference this year, we can reveal. The festival, which gets underway next week, hasn’t made a public statement to confirm the break…",
+      "publisher": "Deadline",
+      "author": "Andreas Wiseman",
+      "date": "2026-08-29T18:02:03+00:00",
+      "link": "https://deadline.com/2026/08/venice-film-festival-scraps-jury-press-conference-1237062641/",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Venice-international-jury-2025-1.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "3bb0ad623b69b35f",
+      "title": "Coyote Vs Acme Proves One Thing About Modern Looney Tunes Movies",
+      "quote": "Coyote Vs Acme, like The Day the Earth Blew Up before it, proves that you can make a successful Looney Tunes movie without focusing on Bugs Bunny.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Rafael Motamayor)",
+      "date": "2026-08-29T17:00:00+00:00",
+      "link": "https://www.slashfilm.com/2246447/coyote-vs-acme-proves-one-thing-looney-tunes-movie-future/",
+      "image": "https://www.slashfilm.com/img/gallery/coyote-vs-acme-proves-one-thing-about-modern-looney-tunes-movies/l-intro-1787931855.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "11f12babd09f1107",
+      "title": "Anne Hathaway Joins Tom Cruise In ‘Days Of Thunder 2’ At Paramount",
+      "quote": "Paramount Pictures is really revving its engines on the upcoming Days of Thunder 2 starring Tom Cruise, with Anne Hathaway now set to join Cruise in the sequel. Cruise revealed the news Saturday on his social platforms…",
+      "publisher": "Deadline",
+      "author": "Justin Kroll",
+      "date": "2026-08-29T16:59:44+00:00",
+      "link": "https://deadline.com/2026/08/anne-hathaway-tom-cruise-days-of-thunder-2-1237062516/",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/days-of-thunder.jpeg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "65e659ed93baf1c7",
+      "title": "Liza Minnelli Pays Tribute To Friend Dolly Parton: “When I Was In Trouble? Dolly Knew It.”",
+      "quote": "Liza Minnelli has added herself to the fans and friends paying tribute to the late Dolly Parton, posting an emotional message on Instagram saying this week’s news was “devastating.” Beginning the message with her…",
+      "publisher": "Deadline",
+      "author": "Greg Evans",
+      "date": "2026-08-29T16:54:24+00:00",
+      "link": "https://deadline.com/2026/08/liza-minnelli-dolly-parton-1237062623/",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/dolly-liza.jpg",
+      "category": "World Cinema"
+    },
     {
       "id": "644be6fec9f6927e",
       "title": "The Three Most Beloved Sci-Fi Western Anime All Debuted In 1998",
@@ -86,17 +141,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "eb6ab2ae0f329d83",
-      "title": "Amid Growing Galliano Backlash, Met Gala Mulls Date Change – Report",
-      "quote": "Amid growing backlash over the Met Gala’s choice to honor designer John Galliano at the big event next May, Met trustees and board members are “mulling” whether to reschedule the fundraiser away from the previously…",
-      "publisher": "Deadline",
-      "author": "Greg Evans",
-      "date": "2026-08-29T12:49:49+00:00",
-      "link": "https://deadline.com/2026/08/galliano-met-gala-possible-date-change-1237062587/",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/GettyImages-2257802845.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "144c1bff04239191",
       "title": "‘Toxic’: No support for Yash? Kannada superstars respond",
       "quote": "Kannada superstars such as Sudeep and Upendra have come in support of Yash, appreciating his performance and conviction in ‘Toxic’",
@@ -163,17 +207,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "60d24a140c90a9ef",
-      "title": "Inside ‘The Great British Bake Off’ Bun Fight: How Sky & Love Productions Came To Blows Over The UK’s Biggest Cooking Series",
-      "quote": "EXCLUSIVE: In an op-ed during the Edinburgh TV Festival this week, Sky’s content chief Cecile Frot-Coutaz extolled the virtues of UK public service broadcasting as the Comcast-owned company finalizes its takeover of…",
-      "publisher": "Deadline",
-      "author": "Jake Kanter",
-      "date": "2026-08-29T08:07:58+00:00",
-      "link": "https://deadline.com/2026/08/inside-great-british-bake-off-fight-sky-love-productions-1237062324/",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/79486_S17_-Embargoed-2100-Sunday-16th-August-GBBO-S17-First-Look-1-e1787952561416.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "0d4de79b1cd5533a",
       "title": "‘The Whisper Man’ movie review: Robert De Niro sleepwalks through this snooze fest",
       "quote": "The A-list cast cannot save this psychological thriller from a predictable plot and characters who make inexplicable choices",
@@ -205,28 +238,6 @@
       "link": "https://www.thehindu.com/entertainment/movies/king100-nagarjuna-akkineni-exudes-timeless-charm-in-100th-film/article71403798.ece",
       "image": "https://th-i.thgim.com/public/entertainment/movies/6uvdzg/article71403814.ece/alternates/LANDSCAPE_1200/Nagarjuna%20Akkineni%20in%20%E2%80%98King100%E2%80%99",
       "category": "Indian Cinema"
-    },
-    {
-      "id": "f12b228fa9601b47",
-      "title": "‘Real Time’: Bill Maher Goes For A Boob Joke With Dolly Parton Tribute",
-      "quote": "As Dolly Parton leaves behind an untouchable legacy, Bill Maher went for an easy boob joke in his on-air tribute. On Friday’s episode of Real Time, the comedian mentioned the 11x Grammy-winning Queen of Country’s death…",
-      "publisher": "Deadline",
-      "author": "Glenn Garner",
-      "date": "2026-08-29T03:31:02+00:00",
-      "link": "https://deadline.com/2026/08/real-time-bill-maher-boob-joke-dolly-parton-tribute-1237062527/",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Screenshot-2026-08-28-at-8.09.54-PM.png",
-      "category": "World Cinema"
-    },
-    {
-      "id": "665afb7c266e5497",
-      "title": "Judge Jackie Glass Dead: ‘Swift Justice’ TV Host Was 70",
-      "quote": "Judge Jackie Glass, the former Clark County judge who hosted the syndicated court show Swift Justice, has died. She was 70. Glass died on Friday afternoon in Las Vegas, TMZ reported after Glass’ daughter Rachel Wolfson…",
-      "publisher": "Deadline",
-      "author": "Glenn Garner",
-      "date": "2026-08-29T03:06:13+00:00",
-      "link": "https://deadline.com/2026/08/judge-jackie-glass-dead-swift-justice-tv-host-1237062523/",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Judge-Jackie-Glass.jpg",
-      "category": "World Cinema"
     },
     {
       "id": "46373e7b478df0ed",
@@ -348,17 +359,6 @@
       "link": "https://www.rogerebert.com/reviews/the-dog-stars-jacob-elordi-josh-brolin-margaret-qualley-ridley-scott-film-review-2026",
       "image": null,
       "category": "World Cinema"
-    },
-    {
-      "id": "ae4be69eaaedd588",
-      "title": "Silo Season 3, Episode 9 Changed Everything We Knew About The Pact",
-      "quote": "Silo has been telling us about The Pact ever since the first season. Now, Episode 9 of Season 3 changes everything we thought we knew.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Rafael Motamayor)",
-      "date": "2026-08-28T16:30:00+00:00",
-      "link": "https://www.slashfilm.com/2243825/silo-season-3-episode-9-the-pact-ai/",
-      "image": "https://www.slashfilm.com/img/gallery/silo-season-3-episode-9-the-pact-ai/l-intro-1787936940.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "92d94de3f11cee55",
