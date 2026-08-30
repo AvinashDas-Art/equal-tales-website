@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T04:59:16.455871+00:00",
+  "generated_at": "2026-08-30T11:43:29.143219+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -8,6 +8,28 @@
     "Indie Gems"
   ],
   "reviews": [
+    {
+      "id": "739a1dc67cf46a82",
+      "title": "’17’ Review: Harrowing Teen Pregnancy Drama from Macedonia Could Be the Feel-Bad Movie of the Year",
+      "quote": "From the first frame, Kosara Mitić’s “17” refuses to pull any punches, plunging us immediately into the traumatic moment when a hookup between high-school student Sara (Eva Kostić) and two boys takes a violent turn…",
+      "publisher": "Variety",
+      "author": "Guy Lodge",
+      "date": "2026-08-30T10:13:56+00:00",
+      "link": "https://variety.com/2026/film/reviews/17-review-1236846790/",
+      "image": "https://variety.com/wp-content/uploads/2026/08/202615475_1_RWD_1380.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "fe20e394e417602a",
+      "title": "‘Sea of Glass’ Review: A Widow’s Coastal Healing Retreat Turns Into a Stately, Moody Greek Tragedy",
+      "quote": "There are Greek waves aplenty lapping at the forlorn beachside setting of “Sea of Glass,” though they’re not especially weird ones. Amid a national cinema that has become internationally recognized for perverse plotting…",
+      "publisher": "Variety",
+      "author": "Guy Lodge",
+      "date": "2026-08-30T08:31:55+00:00",
+      "link": "https://variety.com/2026/film/reviews/sea-of-glass-review-1236846714/",
+      "image": "https://variety.com/wp-content/uploads/2026/06/Sea-of-Glass-THINGS-GO-BAD-16_9.jpg",
+      "category": "World Cinema"
+    },
     {
       "id": "db2a1c2ea0136d14",
       "title": "Tom Cruise, Olivia Colman and the return of Rocky: the best films of autumn 2026",
@@ -75,6 +97,17 @@
       "category": "Festival Winners"
     },
     {
+      "id": "c0485a0881e11269",
+      "title": "Sadsack Microsoft asking around whether anyone wants to try making a Halo show again",
+      "quote": "Microsoft is reportedly shopping gaming brands like <i>Elder Scrolls</i>, <i>Diablo</i>, and, yes, <i>Halo</i> to Hollywood studios.",
+      "publisher": "The A.V. Club",
+      "author": "William Hughes",
+      "date": "2026-08-29T23:45:02+00:00",
+      "link": "https://www.avclub.com/microsoft-hollywood-halo-diablo-elder-scrolls-warcraft-shows",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2025/10/04162222/halo-show-feature2.jpg",
+      "category": "Indie Gems"
+    },
+    {
       "id": "c80ee209c35220cd",
       "title": "Ron Howard Felt Some Serious Nerves Before Filming The First Happy Days Episode",
       "quote": "Ron Howard has been working in the industry his entire life, but one thing about Happy Days made him nervous about filming.",
@@ -83,6 +116,17 @@
       "date": "2026-08-29T23:00:00+00:00",
       "link": "https://www.slashfilm.com/2243330/ron-howard-serious-nerves-filming-first-happy-days-episode/",
       "image": "https://www.slashfilm.com/img/gallery/ron-howard-felt-some-serious-nerves-before-filming-the-first-happy-days-episode/l-intro-1787615240.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "c076bb51341f38b4",
+      "title": "Liz Meriwether says maybe the real New Girl reunion was the weird little feuds we had along the way",
+      "quote": "",
+      "publisher": "The A.V. Club",
+      "author": "William Hughes",
+      "date": "2026-08-29T22:04:35+00:00",
+      "link": "https://www.avclub.com/liz-meriwether-denies-she-has-scripts-for-a-new-girl-reunion-written",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/29180128/liz-meriwether-feature.jpg",
       "category": "Indie Gems"
     },
     {
@@ -117,6 +161,17 @@
       "link": "https://www.slashfilm.com/2245131/sunshine-sci-fi-movie-must-watch-interstellar-the-martian-fans/",
       "image": "https://www.slashfilm.com/img/gallery/not-interstellar-not-the-martian-this-space-movie-is-a-must-watch-for-sci-fi-fans/l-intro-1787782946.jpg",
       "category": "Indie Gems"
+    },
+    {
+      "id": "091ecc990f711a1d",
+      "title": "‘Borges and Me’ Review: Gentle, Nostalgic Literary Road Movie Is More Perky Than Poetic",
+      "quote": "American author Jay Parini’s 2020 memoir “Borges and Me: An Encounter” read as a charming extension of an anecdote any writer would dine out on for the rest of their life: the tale of how Parini, as a college student in…",
+      "publisher": "Variety",
+      "author": "Guy Lodge",
+      "date": "2026-08-29T21:36:42+00:00",
+      "link": "https://variety.com/2026/film/reviews/borges-and-me-review-1236843724/",
+      "image": "https://variety.com/wp-content/uploads/2026/08/borges-and-me.webp",
+      "category": "World Cinema"
     },
     {
       "id": "baa248276d0f05ca",
@@ -347,28 +402,6 @@
       "date": "2026-08-29T01:46:23+00:00",
       "link": "https://www.avclub.com/m-night-shyamalan-youtube-relationship-with-you",
       "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/28214201/shyamalan-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "0e1bcb2701b6baa9",
-      "title": "At long last, Hooters' cinematic origin story will be told",
-      "quote": "One of the founders of the \"breastaurant\" chain will serve as a screenwriter on the buddy comedy-esque <i>Hooters: The Movie</i>.",
-      "publisher": "The A.V. Club",
-      "author": "William Hughes",
-      "date": "2026-08-29T00:58:22+00:00",
-      "link": "https://www.avclub.com/at-long-last-hooters-cinematic-origin-story-will-be-told",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/28205421/hooters-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "9cbf94ce978485e7",
-      "title": "The blurst of times continues in new trailer for A Tale Of Two Cities",
-      "quote": "MGM+ cordially invites you to enjoy a new version of Charles Dickens’ timeless classic, starring Kit Harrington, this September.",
-      "publisher": "The A.V. Club",
-      "author": "Matt Schimkowitz",
-      "date": "2026-08-28T23:47:16+00:00",
-      "link": "https://www.avclub.com/a-tale-of-two-cities-trailer-release-date",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/28193239/tale-of-two-cities.jpg",
       "category": "Indie Gems"
     },
     {
@@ -702,28 +735,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "a6cd4bd734818b92",
-      "title": "‘Boorman and the Devil’ Review: The Making of John Boorman’s 1977 Disaster ‘Exorcist II: The Heretic’ Becomes a Documentary So Unbelievable It’s Funny",
-      "quote": "You might call Boorman’s fortitude admirable, but you could also call it delusional. And it lends \"Boorman and the Devil\" the quality of a true-life Christopher Guest movie. For this is the unintentionally funny story…",
-      "publisher": "Variety",
-      "author": "Owen Gleiberman",
-      "date": "2026-08-23T22:29:04+00:00",
-      "link": "https://variety.com/2026/film/reviews/boorman-and-the-devil-review-exorcist-ii-the-heretic-1236841140/",
-      "image": "https://variety.com/wp-content/uploads/2026/08/boorman_and_the_devil-H-2025.webp",
-      "category": "World Cinema"
-    },
-    {
-      "id": "ee1638943ce6f381",
-      "title": "‘Skintown’ Review: A Breezy, Loved-Up, Drugged-Up Guide to Getting Into Trouble in The Troubles",
-      "quote": "Nostalgia, like ecstasy, is a hell of a drug and Kieron J. Walsh’s warm-hearted, hot-headed “Skintown” is buzzing on both. A more polite brother to the “Kneecap” boys and a more cautious cousin to those “Derry Girls”…",
-      "publisher": "Variety",
-      "author": "Jessica Kiang",
-      "date": "2026-08-23T11:17:05+00:00",
-      "link": "https://variety.com/2026/film/reviews/skintown-review-1236839532/",
-      "image": "https://variety.com/wp-content/uploads/2026/08/Skintown_7de410.jpeg",
-      "category": "World Cinema"
-    },
-    {
       "id": "2f52a9b08150f1c5",
       "title": "‘Spa Weekend’ Review: Leslie Mann and Isla Fisher Go Underserved in a Lukewarm Bath of a Comedy",
       "quote": "Anna Faris and Michelle Buteau also star in the film by 'Bad Moms' directors Jon Lucas and Scott Moore, about four childhood friends on a birthday trip that spirals out of control.",
@@ -732,17 +743,6 @@
       "date": "2026-08-23T00:21:50+00:00",
       "link": "https://www.hollywoodreporter.com/movies/movie-reviews/spa-weekend-review-leslie-mann-isla-fisher-anna-faris-1236678914/",
       "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "8c5a13f08737afe6",
-      "title": "‘The Magic Faraway Tree’ Review: Wholesome, Harmless Family Movie Aims to Give Enid Blyton the Paddington Treatment",
-      "quote": "If the children’s books of Enid Blyton have fallen out of fashion in classrooms and libraries — largely due to the racism and regressive gender politics throughout the British author’s oeuvre — they remain ripe for…",
-      "publisher": "Variety",
-      "author": "Guy Lodge",
-      "date": "2026-08-22T16:19:38+00:00",
-      "link": "https://variety.com/2026/film/reviews/the-magic-faraway-tree-review-1236840728/",
-      "image": "https://variety.com/wp-content/uploads/2026/08/IMG_8512.jpeg.webp",
       "category": "World Cinema"
     },
     {
