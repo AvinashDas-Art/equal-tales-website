@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T16:31:01.164748+00:00",
+  "generated_at": "2026-08-30T20:53:24.343429+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -9,8 +9,96 @@
   ],
   "reviews": [
     {
-      "id": "d4e66b34df97c4da",
-      "title": "Guy Pearce Gives ‘Priscilla, Queen of the Desert 2’ Filming Update",
+      "id": "1b8c051a517ceef8",
+      "title": "‘Buddy’ Busts Out, Scares Up No. 6 Spot, Sets Record For Roadside Attractions – Specialty Box Office",
+      "quote": "Dark comedy Buddy from Roadside Attractions and Saban Entertainment blew past expectations to set a few records for Roadside Attractions as its top opening since Covid and second-best ever after I Can Only Imagine…",
+      "publisher": "Deadline",
+      "author": "Jillg366",
+      "date": "2026-08-30T20:51:14+00:00",
+      "link": "https://deadline.com/2026/08/indie-film-box-office-buddy-r-rated-horror-comedy-busts-out-1237062910/",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/BUDDY_Courtesy_of_Roadside_Attractions_1781f70c93.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "12f39beac314032b",
+      "title": "Venice Film Festival Changes Course To Reinstate Jury Press Conference: How It Went Down",
+      "quote": "Good news. The Venice Film Festival has reinstated its jury press conference, overturning an unusual move to scrap the traditional opening event this year. The festival responded to Deadline’s inquiry on Sunday by…",
+      "publisher": "Deadline",
+      "author": "Melanie Goodfellow",
+      "date": "2026-08-30T20:34:01+00:00",
+      "link": "https://deadline.com/2026/08/venice-film-festival-uturn-reinstates-jury-press-conference-1237062875/",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Venice-international-jury-2025-2.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "3b9f35591800a873",
+      "title": "Wonder Woman Actress Gal Gadot Confirms What We Already Knew About The DC Hero",
+      "quote": "Gal Gadot, who played Wonder Woman in the DC Extended Universe, has provided a seemingly final update about her tenure as the character.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Ryan Scott)",
+      "date": "2026-08-30T19:45:00+00:00",
+      "link": "https://www.slashfilm.com/2246650/gal-gadot-done-playing-wonder-woman-dc/",
+      "image": "https://www.slashfilm.com/img/gallery/wonder-woman-actress-gal-gadot-confirms-what-we-already-knew-about-the-dc-hero/l-intro-1787944016.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "1c03db7de8ed148a",
+      "title": "Kacey Musgraves Continues Boston Show As Fire Breaks Out On Stage",
+      "quote": "Kacey Musgraves managed to keep her cool as a small fire broke out on stage at her latest Middle of Nowhere Tour stop. On Saturday, the 8x Grammy winner continued her set as the blaze burned far above her head…",
+      "publisher": "Deadline",
+      "author": "Glenn Garner",
+      "date": "2026-08-30T19:41:58+00:00",
+      "link": "https://deadline.com/2026/08/kacey-musgraves-continues-boston-show-fire-on-stage-1237062905/",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/P105OUC2-e1788118226975.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "628007f40764d607",
+      "title": "A Marvel TV Show Ripped Off One Of Steven Spielberg's Most Underrated Movies",
+      "quote": "Steven Spielberg was understandably displeased when an episode of The Incredible Hulk repurposed some footage from one his film.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Bill Bria)",
+      "date": "2026-08-30T19:00:00+00:00",
+      "link": "https://www.slashfilm.com/2197463/the-incredible-hulk-marvel-tv-show-ripped-off-steven-spielberg-duel/",
+      "image": "https://www.slashfilm.com/img/gallery/a-marvel-tv-show-ripped-off-one-of-steven-spielbergs-most-underrated-movies/l-intro-1787242530.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "611117c3f8b4a4ab",
+      "title": "Silo Author Hugh Howey's Favorite Movie Is An Unexpected '90s Gem",
+      "quote": "Silo author Hugh Howey's favorite movie is surprisingly not a science-fiction flick, but it's still a fantastic watch worth checking out.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Witney Seibold)",
+      "date": "2026-08-30T18:00:00+00:00",
+      "link": "https://www.slashfilm.com/2245155/silo-hugh-howey-favorite-movie-cyrano-de-bergerac/",
+      "image": "https://www.slashfilm.com/img/gallery/silo-author-hugh-howeys-favorite-movie-is-an-unexpected-90s-gem/l-intro-1787947102.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "153cdc834613f4bc",
+      "title": "‘Spider-Man: Brand New Day’ & ‘Odyssey’ In Global Brawl Atop Late Summer Frame; Universal First To Cross $3B Overseas YTD – Worldwide Update",
+      "quote": "In the deepest of summer, Odysseus came close to throwing Spider-Man off the top of the global weekend box office, but the aranea superhero had the upper hand over the crusty ole warrior, $66.2M to $62.9M. Spider-Man…",
+      "publisher": "Deadline",
+      "author": "Anthonypauldalessandro",
+      "date": "2026-08-30T17:43:43+00:00",
+      "link": "https://deadline.com/2026/08/box-office-global-spider-man-odyssey-dog-stars-bombs-universal-1237062804/",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Spider-Man-Brand-New-Day-The-Odyssey-2-shot.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "38749a8b6785770d",
+      "title": "The Best Star Trek Books Ever Should Have Been Adapted Into A TV Series",
+      "quote": "The world of Star Trek has been expanded in many mediums, and the best series of books would have made for a great TV series.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Witney Seibold)",
+      "date": "2026-08-30T17:00:00+00:00",
+      "link": "https://www.slashfilm.com/2245176/best-star-trek-books-new-frontier-need-tv-adaptation/",
+      "image": "https://www.slashfilm.com/img/gallery/the-best-star-trek-books-ever-should-have-been-adapted-into-a-tv-series/l-intro-1787791971.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "a5438da8542f3557",
+      "title": "Guy Pearce Gives ‘Priscilla, Queen Of The Desert 2’ Filming Update",
       "quote": "A year after the loss of their Bernadette Bassenger, Priscilla is tuning up for another fabulous adventure across the Australian Outback. Guy Pearce recently gave an update on the production timeline for the sequel to…",
       "publisher": "Deadline",
       "author": "Glenn Garner",
@@ -31,9 +119,20 @@
       "category": "World Cinema"
     },
     {
-      "id": "37369577066d083a",
-      "title": "Dog Eats Dog At The Box Office As ‘Coyote Vs. Acme’ Prevails At No. 2 With $15M+, ‘Dog Stars’ Tanks; Spidey Swings Closer To $900M – Box Office Update",
-      "quote": "SUNDAY AM: Ketchup Entertainment’s theatrical rescue of Warner Bros Animation’s Coyote vs. Acme hit its forecast with a very solid $15.4M opening in what is now the No. 2 film at the weekend box office which was ruled…",
+      "id": "c714422ca470afd0",
+      "title": "125 Star Wars Trivia Questions From A Galaxy Far, Far Away",
+      "quote": "How well do you know Star Wars? Find out with these 125 trivia questions covering movies, TV shows, books, and video games.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Ryan Scott)",
+      "date": "2026-08-30T16:00:00+00:00",
+      "link": "https://www.slashfilm.com/2243340/star-wars-trivia-questions-answers/",
+      "image": "https://www.slashfilm.com/img/gallery/125-star-wars-trivia-questions-from-a-galaxy-far-far-away/l-intro-1787616421.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "f6e4a12a6a202d4a",
+      "title": "Dog Eats Dog At Box Office As ‘Coyote Vs. Acme’ Prevails At No. 2 With $15M+, ‘Dog Stars’ Tanks; Spidey Swings Closer To $900M – Box Office Update",
+      "quote": "SUNDAY AM: Ketchup Entertainment’s theatrical rescue of Warner Bros Animation’s Coyote vs. Acme hit its forecast with a very solid $15.4M opening in what is now the No. 2 film at the weekend box office, which was ruled…",
       "publisher": "Deadline",
       "author": "Anthonypauldalessandro",
       "date": "2026-08-30T15:18:00+00:00",
@@ -108,17 +207,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "94e420db7243241c",
-      "title": "Not Everyone Likes The Federation: Star Trek's Maquis Explained",
-      "quote": "The Federation is typically seen as a positive organization in the Star Trek universe, but it's not perfect. The Maquis are a consequence of that imperfection.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Witney Seibold)",
-      "date": "2026-08-30T08:10:00+00:00",
-      "link": "https://www.slashfilm.com/2241514/star-trek-maquis-explained/",
-      "image": "https://www.slashfilm.com/img/gallery/not-everyone-likes-the-federation-star-treks-maquis-explained/l-intro-1787321013.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "db2a1c2ea0136d14",
       "title": "Tom Cruise, Olivia Colman and the return of Rocky: the best films of autumn 2026",
       "quote": "Old favourites Shaun the Sheep, Dune, Jane Austen and Godzilla join Charles de Gaulle, the Peasants’ Revolt and queer identity in Spain • See all of our unmissable autumn arts recommendations here • Big tech goes to…",
@@ -152,39 +240,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "7ce372cad93e7f4a",
-      "title": "Jelly Roll Slams Politicians On Both Sides For “Sh*t Job,” Addresses 2024 Trump Photo: “A Handshake Is Not An Endorsement”",
-      "quote": "After Jelly Roll avoided discussing his politics at the Grammy Awards in February, he peeled off the band-aid this week with a heartfelt speech. During his final night as Jimmy Kimmel Live! guest host on Friday, the 3x…",
-      "publisher": "Deadline",
-      "author": "Glenn Garner",
-      "date": "2026-08-30T02:47:35+00:00",
-      "link": "https://deadline.com/2026/08/jelly-roll-slams-politicians-sht-job-2024-trump-photo-1237062738/",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Jelly-Roll-Jimmy-Kimmel-Live.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "e4b3dd22958c144f",
-      "title": "This Short-Lived '60s Western Series Starred One Of Hollywood's Busiest Actors",
-      "quote": "Many actors make their mark on the industry with consistent, supporting work, but it's great when they get the chance to star like in this 1960s Western series.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Witney Seibold)",
-      "date": "2026-08-30T00:45:00+00:00",
-      "link": "https://www.slashfilm.com/2244298/cimarron-strip-60s-western-series-hollywood-actor-stuart-whitman/",
-      "image": "https://www.slashfilm.com/img/gallery/this-short-lived-60s-western-series-starred-one-of-hollywoods-busiest-actors/l-intro-1787703345.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "c7aec6e81dac9ed5",
-      "title": "Tom Hardy’s Debut Rap Album Features Busta Rhymes, Method Man & A Bane Cameo",
-      "quote": "After years of sharing his talent on the big screen as Tom Hardy, Frankie Pulitzer has officially arrived to drop some bangers. On Friday, the Oscar nominee’s rap persona released his 15-track debut album Czarface Meets…",
-      "publisher": "Deadline",
-      "author": "Glenn Garner",
-      "date": "2026-08-29T23:51:46+00:00",
-      "link": "https://deadline.com/2026/08/tom-hardy-debut-rap-album-busta-rhymes-method-man-bane-1237062711/",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/P1014690-e1788044522304.jpg",
-      "category": "Festival Winners"
-    },
-    {
       "id": "c0485a0881e11269",
       "title": "Sadsack Microsoft asking around whether anyone wants to try making a Halo show again",
       "quote": "Microsoft is reportedly shopping gaming brands like <i>Elder Scrolls</i>, <i>Diablo</i>, and, yes, <i>Halo</i> to Hollywood studios.",
@@ -196,17 +251,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "c80ee209c35220cd",
-      "title": "Ron Howard Felt Some Serious Nerves Before Filming The First Happy Days Episode",
-      "quote": "Ron Howard has been working in the industry his entire life, but one thing about Happy Days made him nervous about filming.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-08-29T23:00:00+00:00",
-      "link": "https://www.slashfilm.com/2243330/ron-howard-serious-nerves-filming-first-happy-days-episode/",
-      "image": "https://www.slashfilm.com/img/gallery/ron-howard-felt-some-serious-nerves-before-filming-the-first-happy-days-episode/l-intro-1787615240.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "c076bb51341f38b4",
       "title": "Liz Meriwether says maybe the real New Girl reunion was the weird little feuds we had along the way",
       "quote": "",
@@ -215,39 +259,6 @@
       "date": "2026-08-29T22:04:35+00:00",
       "link": "https://www.avclub.com/liz-meriwether-denies-she-has-scripts-for-a-new-girl-reunion-written",
       "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/29180128/liz-meriwether-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "f986e6341b09a85d",
-      "title": "Gilligan's Island Star Jim Backus Co-Wrote A Movie Featuring One Of The Best Horror Actors Ever",
-      "quote": "One of the weirdest comedy films of all time was co-written by Gilligan's Island star Jim Backus. It starred a shaggy dog and ... a horror legend? Sure, okay.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Witney Seibold)",
-      "date": "2026-08-29T22:00:00+00:00",
-      "link": "https://www.slashfilm.com/2244277/gilligans-island-jim-backus-wrote-mooch-goes-to-hollywood-horror-actor-vincent-price/",
-      "image": "https://www.slashfilm.com/img/gallery/gilligans-island-star-jim-backus-co-wrote-a-movie-featuring-one-of-the-best-horror-actors-ever/l-intro-1787699525.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "ad9521e21497a67a",
-      "title": "‘Ali G: Who Iz I?’ Sparks Calls For Theater Boycott, Trailer Slammed Over Racist Stereotypes",
-      "quote": "Sacha Baron Cohen’s attempt to brush off an old character with Ali G: Who Iz I? is not going over without controversy. Following the release of the trailer for the Amazon MGM Studios sequel, an email campaign began on…",
-      "publisher": "Deadline",
-      "author": "Glenn Garner",
-      "date": "2026-08-29T21:45:48+00:00",
-      "link": "https://deadline.com/2026/08/ali-g-who-iz-i-trailer-theater-boycott-racist-caricature-1237062699/",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Screenshot-2026-08-29-at-2.13.00-PM.png",
-      "category": "World Cinema"
-    },
-    {
-      "id": "43179d1a311756e0",
-      "title": "Not Interstellar, Not The Martian: This Space Movie Is A Must-Watch For Sci-Fi Fans",
-      "quote": "This underrated science-fiction film is a must-watch, and it's a shame it didn't get the attention it deserved upon release.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Ryan Scott)",
-      "date": "2026-08-29T21:45:00+00:00",
-      "link": "https://www.slashfilm.com/2245131/sunshine-sci-fi-movie-must-watch-interstellar-the-martian-fans/",
-      "image": "https://www.slashfilm.com/img/gallery/not-interstellar-not-the-martian-this-space-movie-is-a-must-watch-for-sci-fi-fans/l-intro-1787782946.jpg",
       "category": "Indie Gems"
     },
     {
@@ -271,17 +282,6 @@
       "link": "https://www.avclub.com/shailene-woodley-amazing-spider-man-2-mary-jane-cut",
       "image": "https://img.pastemagazine.com/wp-content/avuploads/2024/09/10110709/MixCollage-10-Sep-2024-11-05-AM-7630.jpg",
       "category": "Indie Gems"
-    },
-    {
-      "id": "820eb0fc4d7eb56a",
-      "title": "Owner Of ‘Heated Rivalry’ Cottage Did “Soul Searching” Before Agreeing To Season 2: “I’m A Private Guy”",
-      "quote": "After introducing the hottest piece of property in Canada, Heated Rivalry fans can expect a return to the cottage in Season 2. Michael Kutryk, the Toronto doctor who owns the Muskoka home that served as Shane’s (Hudson…",
-      "publisher": "Deadline",
-      "author": "Glenn Garner",
-      "date": "2026-08-29T20:53:57+00:00",
-      "link": "https://deadline.com/2026/08/owner-heated-rivalry-cottage-soul-searching-season-2-1237062692/",
-      "image": "https://deadline.com/wp-content/uploads/2025/12/Heated-Rivalry.png",
-      "category": "World Cinema"
     },
     {
       "id": "39373121f10df429",
