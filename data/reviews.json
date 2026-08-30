@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T11:43:29.143219+00:00",
+  "generated_at": "2026-08-30T16:31:01.164748+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -8,6 +8,83 @@
     "Indie Gems"
   ],
   "reviews": [
+    {
+      "id": "d4e66b34df97c4da",
+      "title": "Guy Pearce Gives ‘Priscilla, Queen of the Desert 2’ Filming Update",
+      "quote": "A year after the loss of their Bernadette Bassenger, Priscilla is tuning up for another fabulous adventure across the Australian Outback. Guy Pearce recently gave an update on the production timeline for the sequel to…",
+      "publisher": "Deadline",
+      "author": "Glenn Garner",
+      "date": "2026-08-30T16:07:10+00:00",
+      "link": "https://deadline.com/2026/08/guy-pearce-priscilla-queen-of-the-desert-2-filming-update-1237062780/",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/MSDPRQU_EC003.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "3126b3601cf2a91e",
+      "title": "In Latest Threat Of Regulatory Retaliation, Donald Trump Says He’ll Report NBC News’ Kristen Welker To FCC For “Rebuke Or Punishment”",
+      "quote": "Donald Trump went off on NBC News’ Meet the Press moderator Kristen Welker on Sunday, vowing to report her to the FCC for “rebuke or punishment,” even as the agency is defending itself in a lawsuit brought by ABC…",
+      "publisher": "Deadline",
+      "author": "Ted Johnson",
+      "date": "2026-08-30T16:03:11+00:00",
+      "link": "https://deadline.com/2026/08/trump-kristen-welker-nbc-fcc-1237062773/",
+      "image": "https://deadline.com/wp-content/uploads/2026/07/Brandon-Carr-Donald-Trump.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "37369577066d083a",
+      "title": "Dog Eats Dog At The Box Office As ‘Coyote Vs. Acme’ Prevails At No. 2 With $15M+, ‘Dog Stars’ Tanks; Spidey Swings Closer To $900M – Box Office Update",
+      "quote": "SUNDAY AM: Ketchup Entertainment’s theatrical rescue of Warner Bros Animation’s Coyote vs. Acme hit its forecast with a very solid $15.4M opening in what is now the No. 2 film at the weekend box office which was ruled…",
+      "publisher": "Deadline",
+      "author": "Anthonypauldalessandro",
+      "date": "2026-08-30T15:18:00+00:00",
+      "link": "https://deadline.com/2026/08/box-office-coyote-vs-acme-dog-stars-spider-man-1237061934/",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Spider-Man-Brand-New-Day-Coyote-vs-Acme-The-Dog-Stars.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "62bfe097c14aab77",
+      "title": "10 Best '70s Movies That Could Never Be Made Today",
+      "quote": "Plenty of films in the 1970s challenged audiences with provocative material, and even though these movies are revered now, they'd never be made today.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Trace Sauveur)",
+      "date": "2026-08-30T15:10:00+00:00",
+      "link": "https://www.slashfilm.com/2244589/best-70s-movies-never-made-today/",
+      "image": "https://www.slashfilm.com/img/gallery/10-best-70s-movies-that-could-never-be-made-today/l-intro-1787754785.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "a66bd97a909fb3a6",
+      "title": "‘Call My Agent! The Movie’ Review: Love-Hate Energy Keeps the Gang Together in a Fast, Funny Feature-Length Return",
+      "quote": "The rare reboot pitch that that can actually be greeted with “this again!” rather than “this again?,” “Call My Agent! The Movie” makes sense of its rote title in two ways. First, and most obviously, it’s a…",
+      "publisher": "Variety",
+      "author": "Guy Lodge",
+      "date": "2026-08-30T14:58:03+00:00",
+      "link": "https://variety.com/2026/film/reviews/call-my-agent-the-movie-review-1236846824/",
+      "image": "https://variety.com/wp-content/uploads/2026/08/call-.jpeg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "a382c6091a2280ae",
+      "title": "Gilligan's Island Star Tina Louise Starred In An Important '60s Movie Worth Revisiting",
+      "quote": "Right after Gilligan's Island came to an end Tina Louise starred with Sharon Tate in a very important movie from the 1960s worth revisiting.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Witney Seibold)",
+      "date": "2026-08-30T12:00:00+00:00",
+      "link": "https://www.slashfilm.com/2244312/gilligans-island-tina-louise-60s-movie-the-wrecking-crew/",
+      "image": "https://www.slashfilm.com/img/gallery/gilligans-island-star-tina-louise-starred-in-an-important-60s-movie-worth-revisiting/l-intro-1787705437.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "7f21bf740989da62",
+      "title": "30 Years Ago Today, One Of The Worst Comedies Ever Made Was Released In Cinemas",
+      "quote": "Every movie is someone's favorite movie, but if this awful comedy from 30 years ago is yours ... we have some questions.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Witney Seibold)",
+      "date": "2026-08-30T11:30:00+00:00",
+      "link": "https://www.slashfilm.com/2243355/the-stupids-worst-comedy-movie-ever-30-year-anniversary/",
+      "image": "https://www.slashfilm.com/img/gallery/30-years-ago-today-one-of-the-worst-comedies-ever-made-was-released-in-cinemas/l-intro-1787620399.jpg",
+      "category": "Indie Gems"
+    },
     {
       "id": "739a1dc67cf46a82",
       "title": "’17’ Review: Harrowing Teen Pregnancy Drama from Macedonia Could Be the Feel-Bad Movie of the Year",
@@ -29,6 +106,17 @@
       "link": "https://variety.com/2026/film/reviews/sea-of-glass-review-1236846714/",
       "image": "https://variety.com/wp-content/uploads/2026/06/Sea-of-Glass-THINGS-GO-BAD-16_9.jpg",
       "category": "World Cinema"
+    },
+    {
+      "id": "94e420db7243241c",
+      "title": "Not Everyone Likes The Federation: Star Trek's Maquis Explained",
+      "quote": "The Federation is typically seen as a positive organization in the Star Trek universe, but it's not perfect. The Maquis are a consequence of that imperfection.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Witney Seibold)",
+      "date": "2026-08-30T08:10:00+00:00",
+      "link": "https://www.slashfilm.com/2241514/star-trek-maquis-explained/",
+      "image": "https://www.slashfilm.com/img/gallery/not-everyone-likes-the-federation-star-treks-maquis-explained/l-intro-1787321013.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "db2a1c2ea0136d14",
@@ -196,39 +284,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "3a66b9ebce260b0f",
-      "title": "Every 2026 Universal Studios Halloween Horror Nights Maze Ranked",
-      "quote": "From deadly demogorgons to the immortal Ozzy Osbourne, here's every maze at the 2026 Universal Studios Halloween Horror Nights, ranked.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Jacob Hall)",
-      "date": "2026-08-29T20:51:38+00:00",
-      "link": "https://www.slashfilm.com/2247009/universal-studios-2026-halloween-horror-nights-mazes-ranked/",
-      "image": "https://www.slashfilm.com/img/gallery/every-2026-universal-studios-halloween-horror-nights-maze-ranked/l-intro-1788032666.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "409fbf186519b366",
-      "title": "Before Project Hail Mary, Sandra Huller Appeared In A Deeply Underrated Sci-Fi Movie On Netflix",
-      "quote": "Before Sandra Hüller nabbed an Oscar nomination, she starred in this fantastic science-fiction movie with Dan Stevens that you can stream on Netflix.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Witney Seibold)",
-      "date": "2026-08-29T20:00:00+00:00",
-      "link": "https://www.slashfilm.com/2242016/project-hail-mary-sandra-huller-underrated-sci-fi-movie-im-your-man-netflix/",
-      "image": "https://www.slashfilm.com/img/gallery/before-project-hail-mary-sandra-huller-appeared-in-a-deeply-underrated-sci-fi-movie-on-netflix/l-intro-1787352998.jpg",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "73461b6090796847",
-      "title": "Acclaimed, Controversial Play ‘Downstate’ Gets Broadway Marquee; Scott Rudin Reportedly Producing With Joe Mantello Directing",
-      "quote": "The marquee at Broadway’s Booth Theatre appears to confirm the rumors: Bruce Norris’ acclaimed and controversial play Downstate will take up residence at the venue in an upcoming production directed by Joe Mantello. The…",
-      "publisher": "Deadline",
-      "author": "Greg Evans",
-      "date": "2026-08-29T19:12:06+00:00",
-      "link": "https://deadline.com/2026/08/downstate-broadway-scott-rudin-joe-mantello-1237062672/",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Screenshot-2026-08-29-at-2.08.32-PM.png",
-      "category": "World Cinema"
-    },
-    {
       "id": "39373121f10df429",
       "title": "Mike Judge lets Paramount know he wants the rights to Beavis And Butt-Head back",
       "quote": "It's been nearly 35 years since Beavis and Butt-Head made their MTV debut, opening an opportunity for Judge to get the U.S. rights to the characters back.",
@@ -237,28 +292,6 @@
       "date": "2026-08-29T18:20:34+00:00",
       "link": "https://www.avclub.com/mike-judge-beavis-and-butt-head-rights-paramount",
       "image": "https://img.pastemagazine.com/wp-content/avuploads/2025/07/24213307/beavis-butt-head-gold.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "a9a3a568987a4579",
-      "title": "Venice Film Festival Scraps Jury Press Conference",
-      "quote": "The Venice Film Festival has taken the unusual step of scrapping its main jury press conference this year, we can reveal. The festival, which gets underway next week, hasn’t made a public statement to confirm the break…",
-      "publisher": "Deadline",
-      "author": "Andreas Wiseman",
-      "date": "2026-08-29T18:02:03+00:00",
-      "link": "https://deadline.com/2026/08/venice-film-festival-scraps-jury-press-conference-1237062641/",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Venice-international-jury-2025-1.jpg",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "78c57b0ecf61f4d3",
-      "title": "150 Movie Trivia Questions Every Film Buff Should Ace",
-      "quote": "Are you a cinema buff? If so, check out these movie trivia questions (which range from relatively easy to quite hard) and see how you fare.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-08-29T18:00:00+00:00",
-      "link": "https://www.slashfilm.com/2243946/movie-trivia-questions-answers/",
-      "image": "https://www.slashfilm.com/img/gallery/movie-trivia-questions-answers/l-intro-1787754239.jpg",
       "category": "Indie Gems"
     },
     {
@@ -271,28 +304,6 @@
       "link": "https://www.avclub.com/tom-cruise-anne-hathaway-days-of-thunder-sequel",
       "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/29133441/days-of-thunder-cruise-hathaway-feature.jpg",
       "category": "Indie Gems"
-    },
-    {
-      "id": "3bb0ad623b69b35f",
-      "title": "Coyote Vs Acme Proves One Thing About Modern Looney Tunes Movies",
-      "quote": "Coyote Vs Acme, like The Day the Earth Blew Up before it, proves that you can make a successful Looney Tunes movie without focusing on Bugs Bunny.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Rafael Motamayor)",
-      "date": "2026-08-29T17:00:00+00:00",
-      "link": "https://www.slashfilm.com/2246447/coyote-vs-acme-proves-one-thing-looney-tunes-movie-future/",
-      "image": "https://www.slashfilm.com/img/gallery/coyote-vs-acme-proves-one-thing-about-modern-looney-tunes-movies/l-intro-1787931855.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "11f12babd09f1107",
-      "title": "Anne Hathaway Joins Tom Cruise In ‘Days Of Thunder 2’ At Paramount",
-      "quote": "Paramount Pictures is really revving its engines on the upcoming Days of Thunder 2 starring Tom Cruise, with Anne Hathaway now set to join Cruise in the sequel. Cruise revealed the news Saturday on his social platforms…",
-      "publisher": "Deadline",
-      "author": "Justin Kroll",
-      "date": "2026-08-29T16:59:44+00:00",
-      "link": "https://deadline.com/2026/08/anne-hathaway-tom-cruise-days-of-thunder-2-1237062516/",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/days-of-thunder.jpeg",
-      "category": "World Cinema"
     },
     {
       "id": "e5cd8c7d6ee3fcef",
@@ -710,17 +721,6 @@
       "date": "2026-08-24T15:43:08+00:00",
       "link": "https://www.hollywoodreporter.com/movies/movie-reviews/mutiny-review-jason-statham-1236679651/",
       "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "69daa02e935a2a92",
-      "title": "‘Small Things’ Review: Zvonimir Jurić’s Island-Set Chamber Drama Unfolds a Quietly Devastating Family Reunion",
-      "quote": "In the opening of “Small Things,” Zvonimir Jurić’s elegant and understated chamber drama, the giggling grandchildren of an elder patriarch (Bosnian film and theater veteran Izudin Bajrović) show their charmingly…",
-      "publisher": "Variety",
-      "author": "Guy Lodge",
-      "date": "2026-08-24T13:09:46+00:00",
-      "link": "https://variety.com/2026/film/reviews/small-things-review-1236841495/",
-      "image": "https://variety.com/wp-content/uploads/2026/08/small-things.jpg",
       "category": "World Cinema"
     },
     {
