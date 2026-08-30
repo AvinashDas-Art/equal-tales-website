@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T20:48:49.257270+00:00",
+  "generated_at": "2026-08-30T04:59:16.455871+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -8,6 +8,160 @@
     "Indie Gems"
   ],
   "reviews": [
+    {
+      "id": "db2a1c2ea0136d14",
+      "title": "Tom Cruise, Olivia Colman and the return of Rocky: the best films of autumn 2026",
+      "quote": "Old favourites Shaun the Sheep, Dune, Jane Austen and Godzilla join Charles de Gaulle, the Peasants’ Revolt and queer identity in Spain • See all of our unmissable autumn arts recommendations here • Big tech goes to…",
+      "publisher": "The Guardian",
+      "author": "Laurence Phelan, Andrew Pulver and Catherine Shoard",
+      "date": "2026-08-30T04:00:46+00:00",
+      "link": "https://www.theguardian.com/film/ng-interactive/2026/aug/30/the-best-films-of-autumn-2026",
+      "image": "https://i.guim.co.uk/img/media/1aa6de4209d5ad3467eaf48576d8e04ee6d39743/2_0_9996_8000/master/9996.jpg?width=140&quality=85&auto=format&fit=max&s=d657d755a7908408550f9b97982ce766",
+      "category": "World Cinema"
+    },
+    {
+      "id": "8543ef2d2d93ff02",
+      "title": "Big tech goes to Hollywood: is Silicon Valley ready for a silver-screen reckoning?",
+      "quote": "Its moguls are ripe subjects for drama, and there is huge anticipation for forthcoming features The Social Reckoning and Artificial. But other projects have failed as the film industry is increasingly colonised by IT…",
+      "publisher": "The Guardian",
+      "author": "Steve Rose",
+      "date": "2026-08-30T04:00:45+00:00",
+      "link": "https://www.theguardian.com/film/2026/aug/30/big-tech-hollywood-the-social-reckoning-artificial",
+      "image": "https://i.guim.co.uk/img/media/5f77be0b14a2f3a0c3b168ce5bdcf5ed989dcc51/930_99_920_736/master/920.jpg?width=140&quality=85&auto=format&fit=max&s=678152c050547c4e7d35c804f4fe19bf",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "afdf79e9320a76c9",
+      "title": "Leanne Morgan Had To Give LA Writers “Grace” To Capture Her Southern Voice: “They’re In A Bubble Out There”",
+      "quote": "With Season 2 of her namesake series now available to stream on Netflix, Leanne Morgan is praising her writers for capturing her Southern voice. The Leanne star recently discussed the culture shock of relocating from…",
+      "publisher": "Deadline",
+      "author": "Glenn Garner",
+      "date": "2026-08-30T03:25:43+00:00",
+      "link": "https://deadline.com/2026/08/leanne-morgan-give-la-writers-grace-capture-southern-voice-1237062743/",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Leanne-Morgan-Netflix.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "7ce372cad93e7f4a",
+      "title": "Jelly Roll Slams Politicians On Both Sides For “Sh*t Job,” Addresses 2024 Trump Photo: “A Handshake Is Not An Endorsement”",
+      "quote": "After Jelly Roll avoided discussing his politics at the Grammy Awards in February, he peeled off the band-aid this week with a heartfelt speech. During his final night as Jimmy Kimmel Live! guest host on Friday, the 3x…",
+      "publisher": "Deadline",
+      "author": "Glenn Garner",
+      "date": "2026-08-30T02:47:35+00:00",
+      "link": "https://deadline.com/2026/08/jelly-roll-slams-politicians-sht-job-2024-trump-photo-1237062738/",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Jelly-Roll-Jimmy-Kimmel-Live.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "e4b3dd22958c144f",
+      "title": "This Short-Lived '60s Western Series Starred One Of Hollywood's Busiest Actors",
+      "quote": "Many actors make their mark on the industry with consistent, supporting work, but it's great when they get the chance to star like in this 1960s Western series.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Witney Seibold)",
+      "date": "2026-08-30T00:45:00+00:00",
+      "link": "https://www.slashfilm.com/2244298/cimarron-strip-60s-western-series-hollywood-actor-stuart-whitman/",
+      "image": "https://www.slashfilm.com/img/gallery/this-short-lived-60s-western-series-starred-one-of-hollywoods-busiest-actors/l-intro-1787703345.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "c7aec6e81dac9ed5",
+      "title": "Tom Hardy’s Debut Rap Album Features Busta Rhymes, Method Man & A Bane Cameo",
+      "quote": "After years of sharing his talent on the big screen as Tom Hardy, Frankie Pulitzer has officially arrived to drop some bangers. On Friday, the Oscar nominee’s rap persona released his 15-track debut album Czarface Meets…",
+      "publisher": "Deadline",
+      "author": "Glenn Garner",
+      "date": "2026-08-29T23:51:46+00:00",
+      "link": "https://deadline.com/2026/08/tom-hardy-debut-rap-album-busta-rhymes-method-man-bane-1237062711/",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/P1014690-e1788044522304.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "c80ee209c35220cd",
+      "title": "Ron Howard Felt Some Serious Nerves Before Filming The First Happy Days Episode",
+      "quote": "Ron Howard has been working in the industry his entire life, but one thing about Happy Days made him nervous about filming.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Joe Roberts)",
+      "date": "2026-08-29T23:00:00+00:00",
+      "link": "https://www.slashfilm.com/2243330/ron-howard-serious-nerves-filming-first-happy-days-episode/",
+      "image": "https://www.slashfilm.com/img/gallery/ron-howard-felt-some-serious-nerves-before-filming-the-first-happy-days-episode/l-intro-1787615240.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "f986e6341b09a85d",
+      "title": "Gilligan's Island Star Jim Backus Co-Wrote A Movie Featuring One Of The Best Horror Actors Ever",
+      "quote": "One of the weirdest comedy films of all time was co-written by Gilligan's Island star Jim Backus. It starred a shaggy dog and ... a horror legend? Sure, okay.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Witney Seibold)",
+      "date": "2026-08-29T22:00:00+00:00",
+      "link": "https://www.slashfilm.com/2244277/gilligans-island-jim-backus-wrote-mooch-goes-to-hollywood-horror-actor-vincent-price/",
+      "image": "https://www.slashfilm.com/img/gallery/gilligans-island-star-jim-backus-co-wrote-a-movie-featuring-one-of-the-best-horror-actors-ever/l-intro-1787699525.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "ad9521e21497a67a",
+      "title": "‘Ali G: Who Iz I?’ Sparks Calls For Theater Boycott, Trailer Slammed Over Racist Stereotypes",
+      "quote": "Sacha Baron Cohen’s attempt to brush off an old character with Ali G: Who Iz I? is not going over without controversy. Following the release of the trailer for the Amazon MGM Studios sequel, an email campaign began on…",
+      "publisher": "Deadline",
+      "author": "Glenn Garner",
+      "date": "2026-08-29T21:45:48+00:00",
+      "link": "https://deadline.com/2026/08/ali-g-who-iz-i-trailer-theater-boycott-racist-caricature-1237062699/",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Screenshot-2026-08-29-at-2.13.00-PM.png",
+      "category": "World Cinema"
+    },
+    {
+      "id": "43179d1a311756e0",
+      "title": "Not Interstellar, Not The Martian: This Space Movie Is A Must-Watch For Sci-Fi Fans",
+      "quote": "This underrated science-fiction film is a must-watch, and it's a shame it didn't get the attention it deserved upon release.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Ryan Scott)",
+      "date": "2026-08-29T21:45:00+00:00",
+      "link": "https://www.slashfilm.com/2245131/sunshine-sci-fi-movie-must-watch-interstellar-the-martian-fans/",
+      "image": "https://www.slashfilm.com/img/gallery/not-interstellar-not-the-martian-this-space-movie-is-a-must-watch-for-sci-fi-fans/l-intro-1787782946.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "baa248276d0f05ca",
+      "title": "Shailene Woodley still pretty bummed she got cut as Andrew Garfield's Mary Jane",
+      "quote": "Woodley filmed scenes as MJ for <i>The Amazing Spider-Man 2</i> before finding out a year later she'd been cut from the movie.",
+      "publisher": "The A.V. Club",
+      "author": "William Hughes",
+      "date": "2026-08-29T21:23:48+00:00",
+      "link": "https://www.avclub.com/shailene-woodley-amazing-spider-man-2-mary-jane-cut",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2024/09/10110709/MixCollage-10-Sep-2024-11-05-AM-7630.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "820eb0fc4d7eb56a",
+      "title": "Owner Of ‘Heated Rivalry’ Cottage Did “Soul Searching” Before Agreeing To Season 2: “I’m A Private Guy”",
+      "quote": "After introducing the hottest piece of property in Canada, Heated Rivalry fans can expect a return to the cottage in Season 2. Michael Kutryk, the Toronto doctor who owns the Muskoka home that served as Shane’s (Hudson…",
+      "publisher": "Deadline",
+      "author": "Glenn Garner",
+      "date": "2026-08-29T20:53:57+00:00",
+      "link": "https://deadline.com/2026/08/owner-heated-rivalry-cottage-soul-searching-season-2-1237062692/",
+      "image": "https://deadline.com/wp-content/uploads/2025/12/Heated-Rivalry.png",
+      "category": "World Cinema"
+    },
+    {
+      "id": "3a66b9ebce260b0f",
+      "title": "Every 2026 Universal Studios Halloween Horror Nights Maze Ranked",
+      "quote": "From deadly demogorgons to the immortal Ozzy Osbourne, here's every maze at the 2026 Universal Studios Halloween Horror Nights, ranked.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Jacob Hall)",
+      "date": "2026-08-29T20:51:38+00:00",
+      "link": "https://www.slashfilm.com/2247009/universal-studios-2026-halloween-horror-nights-mazes-ranked/",
+      "image": "https://www.slashfilm.com/img/gallery/every-2026-universal-studios-halloween-horror-nights-maze-ranked/l-intro-1788032666.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "409fbf186519b366",
+      "title": "Before Project Hail Mary, Sandra Huller Appeared In A Deeply Underrated Sci-Fi Movie On Netflix",
+      "quote": "Before Sandra Hüller nabbed an Oscar nomination, she starred in this fantastic science-fiction movie with Dan Stevens that you can stream on Netflix.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Witney Seibold)",
+      "date": "2026-08-29T20:00:00+00:00",
+      "link": "https://www.slashfilm.com/2242016/project-hail-mary-sandra-huller-underrated-sci-fi-movie-im-your-man-netflix/",
+      "image": "https://www.slashfilm.com/img/gallery/before-project-hail-mary-sandra-huller-appeared-in-a-deeply-underrated-sci-fi-movie-on-netflix/l-intro-1787352998.jpg",
+      "category": "Festival Winners"
+    },
     {
       "id": "73461b6090796847",
       "title": "Acclaimed, Controversial Play ‘Downstate’ Gets Broadway Marquee; Scott Rudin Reportedly Producing With Joe Mantello Directing",
@@ -20,6 +174,17 @@
       "category": "World Cinema"
     },
     {
+      "id": "39373121f10df429",
+      "title": "Mike Judge lets Paramount know he wants the rights to Beavis And Butt-Head back",
+      "quote": "It's been nearly 35 years since Beavis and Butt-Head made their MTV debut, opening an opportunity for Judge to get the U.S. rights to the characters back.",
+      "publisher": "The A.V. Club",
+      "author": "William Hughes",
+      "date": "2026-08-29T18:20:34+00:00",
+      "link": "https://www.avclub.com/mike-judge-beavis-and-butt-head-rights-paramount",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2025/07/24213307/beavis-butt-head-gold.jpg",
+      "category": "Indie Gems"
+    },
+    {
       "id": "a9a3a568987a4579",
       "title": "Venice Film Festival Scraps Jury Press Conference",
       "quote": "The Venice Film Festival has taken the unusual step of scrapping its main jury press conference this year, we can reveal. The festival, which gets underway next week, hasn’t made a public statement to confirm the break…",
@@ -29,6 +194,28 @@
       "link": "https://deadline.com/2026/08/venice-film-festival-scraps-jury-press-conference-1237062641/",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Venice-international-jury-2025-1.jpg",
       "category": "Festival Winners"
+    },
+    {
+      "id": "78c57b0ecf61f4d3",
+      "title": "150 Movie Trivia Questions Every Film Buff Should Ace",
+      "quote": "Are you a cinema buff? If so, check out these movie trivia questions (which range from relatively easy to quite hard) and see how you fare.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Joe Roberts)",
+      "date": "2026-08-29T18:00:00+00:00",
+      "link": "https://www.slashfilm.com/2243946/movie-trivia-questions-answers/",
+      "image": "https://www.slashfilm.com/img/gallery/movie-trivia-questions-answers/l-intro-1787754239.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "8da277e7620374b4",
+      "title": "Anne Hathaway to help Tom Cruise into the car for Days Of Thunder sequel",
+      "quote": "Hathaway is sharing top-billing with Cruise on the sequel, which will see him return to the role of NASCAR driver Cole Trickle 38 years later.",
+      "publisher": "The A.V. Club",
+      "author": "William Hughes",
+      "date": "2026-08-29T17:38:46+00:00",
+      "link": "https://www.avclub.com/tom-cruise-anne-hathaway-days-of-thunder-sequel",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/29133441/days-of-thunder-cruise-hathaway-feature.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "3bb0ad623b69b35f",
@@ -53,92 +240,15 @@
       "category": "World Cinema"
     },
     {
-      "id": "65e659ed93baf1c7",
-      "title": "Liza Minnelli Pays Tribute To Friend Dolly Parton: “When I Was In Trouble? Dolly Knew It.”",
-      "quote": "Liza Minnelli has added herself to the fans and friends paying tribute to the late Dolly Parton, posting an emotional message on Instagram saying this week’s news was “devastating.” Beginning the message with her…",
-      "publisher": "Deadline",
-      "author": "Greg Evans",
-      "date": "2026-08-29T16:54:24+00:00",
-      "link": "https://deadline.com/2026/08/liza-minnelli-dolly-parton-1237062623/",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/dolly-liza.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "644be6fec9f6927e",
-      "title": "The Three Most Beloved Sci-Fi Western Anime All Debuted In 1998",
-      "quote": "Three of the most celebrated sci-fi western anime series of all time (including, naturally, Cowboy Bebop) all premiered in 1998.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Devin Meenan)",
-      "date": "2026-08-29T16:00:00+00:00",
-      "link": "https://www.slashfilm.com/2244504/most-beloved-western-anime-release-same-year-1998/",
-      "image": "https://www.slashfilm.com/img/gallery/the-three-most-beloved-sci-fi-western-anime-all-debuted-in-1998/l-intro-1787749916.jpg",
+      "id": "e5cd8c7d6ee3fcef",
+      "title": "Outsmarting AI slop with a desire for the absurd and original",
+      "quote": "Audiences are wising up and getting what they deserve from movies and TV.",
+      "publisher": "The A.V. Club",
+      "author": "Alex Cranz",
+      "date": "2026-08-29T15:00:14+00:00",
+      "link": "https://www.avclub.com/gen-z-millennials-outsmarting-ai-slop-hollywood",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/28142848/MixCollage-28-Aug-2026-01-26-PM-1062.jpg",
       "category": "Indie Gems"
-    },
-    {
-      "id": "107742555551c098",
-      "title": "‘Spider-Man’ Nearing $900M; ‘Coyote Vs. Acme’ Solid $14M Debut & ‘A’ CinemaScore, ‘Dog Stars’ Going To The Dogs – Box Office Update",
-      "quote": "SATURDAY AM WRITETHRU after Friday afternoon post: It’s Spidey’s world, and Jacob Elordi and Wile E. Coyote are just living in it. But let’s not ignore the pace we’re seeing on Ketchup Entertainment’s release of the…",
-      "publisher": "Deadline",
-      "author": "Anthonypauldalessandro",
-      "date": "2026-08-29T15:46:00+00:00",
-      "link": "https://deadline.com/2026/08/box-office-coyote-vs-acme-dog-stars-spider-man-1237061934/",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Spider-Man-Brand-New-Day-Coyote-vs-Acme-The-Dog-Stars.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "dc2bdcb774d5c6a8",
-      "title": "10 Smartest Star Wars Characters Of All Time, Ranked",
-      "quote": "Yes, you can be sure Yoda is on this list of the smartest Star Wars characters, but who else makes the cut? Let's take a look at the roster.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Sam Stone)",
-      "date": "2026-08-29T15:10:00+00:00",
-      "link": "https://www.slashfilm.com/2243104/star-wars-smartest-characters-ranked/",
-      "image": "https://www.slashfilm.com/img/gallery/10-smartest-star-wars-characters-of-all-time-ranked/l-intro-1787600830.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "43f34ebbaa64eb24",
-      "title": "Alma Har’el’s Family Drama ‘Wet’ Heading To TIFF Market With 193; A-List Cast Circling",
-      "quote": "Honey Boy director Alma Har’el’s next project Wet is heading to the TIFF market with Patrick Wachsberger’s 193 and is attracting what could be a killer cast. News of the project broke online last month via Page Six who…",
-      "publisher": "Deadline",
-      "author": "Andreas Wiseman",
-      "date": "2026-08-29T14:17:50+00:00",
-      "link": "https://deadline.com/2026/08/alma-harel-wet-movie-tiff-market-a-list-cast-circling-1237062594/",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Alma-Harel.jpg",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "33efc6d8afcaffda",
-      "title": "‘Paranormal Activity’ Broadway Review: Stage Adaptation Of Film Franchise Is A Frightfully Good Time",
-      "quote": "There are plenty of laughs in Paranormal Activity, a play that just might be Broadway’s scariest horror story ever, but they’re not the lighthearted jolly chuckles of, say, Titanique or the gut-bucket guffaws of Oh…",
-      "publisher": "Deadline",
-      "author": "Greg Evans",
-      "date": "2026-08-29T14:00:00+00:00",
-      "link": "https://deadline.com/2026/08/paranormal-activity-broadway-review-1237061077/",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/PARANORMAL_ACTIVITY_BOSTON_1381_PJZEDIT_v001_06bbb0-e1787853739513.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "c7bc8fa22853581f",
-      "title": "Jason Statham Starred In A Panned Fantasy Box Office Flop That Somehow Got Two Sequels",
-      "quote": "Some directors make a bad movie and the industry puts them in director's jail. And then there's this fantasy flop starring Jason Statham that got two sequels.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Ryan Scott)",
-      "date": "2026-08-29T14:00:00+00:00",
-      "link": "https://www.slashfilm.com/2244243/jason-statham-fantasy-box-office-flop-in-the-name-of-the-king/",
-      "image": "https://www.slashfilm.com/img/gallery/jason-statham-starred-in-a-panned-fantasy-box-office-flop-that-somehow-got-two-sequels/l-intro-1787696114.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "967c1d2f9100389b",
-      "title": "Alex Winter Bringing Arthur Miller’s ‘Incident At Vichy’ Revival To Off Broadway Next Year",
-      "quote": "EXCLUSIVE: Alex Winter, who costarred with his old Bill & Ted partner Keanu Reeves last year in the Broadway revival of Waiting For Godot, will return to the New York stage next year in a Small Boat Productions Off…",
-      "publisher": "Deadline",
-      "author": "Greg Evans",
-      "date": "2026-08-29T13:00:00+00:00",
-      "link": "https://deadline.com/2026/08/alex-winter-incident-at-vichy-off-broadway-1237061879/",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Alex-Winter-Kanika-Asavari-Vaish-Ben-Natan.jpg",
-      "category": "World Cinema"
     },
     {
       "id": "144c1bff04239191",
@@ -152,17 +262,6 @@
       "category": "Indian Cinema"
     },
     {
-      "id": "721f7bbcdc24bfcc",
-      "title": "Star Trek's 5 Most Spectacular Holodeck Malfunctions, Ranked",
-      "quote": "Holodeck episodes are some of the best in the entire Star Trek franchise. Here are five cases when the tech malfunctioned something fierce.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Witney Seibold)",
-      "date": "2026-08-29T11:45:00+00:00",
-      "link": "https://www.slashfilm.com/2244130/star-trek-holodeck-malfunctions-ranked/",
-      "image": "https://www.slashfilm.com/img/gallery/star-treks-5-most-spectacular-holodeck-malfunctions-ranked/l-intro-1787689174.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "bb5e660825963708",
       "title": "‘Toxic’ exclusive | Director Suri lauds Yash’s performance: A brave attempt from superstar",
       "quote": "Maverick Kannada filmmaker Suri weighs in on Yash’s complex performance in ‘Toxic’ and urges those who didn’t connect with the film to watch it again",
@@ -172,6 +271,17 @@
       "link": "https://www.thehindu.com/entertainment/movies/toxic-the-movie-toxic-yash-rocking-star-yash-geetu-mohandas-kvn-productions-rukmini-vasanth/article71403932.ece",
       "image": "https://th-i.thgim.com/public/entertainment/movies/5ze9gc/article71404303.ece/alternates/LANDSCAPE_1200/Yash_Suri.jpg.jpeg",
       "category": "Indian Cinema"
+    },
+    {
+      "id": "6546a652ab2647fe",
+      "title": "Artificial intelli-gents: 12 inhuman pop culture tech bros",
+      "quote": "Though few pieces of media mention Mark Zuckerberg by name, he's forever shaped the way a certain type of Silicon Valley villain looks.",
+      "publisher": "The A.V. Club",
+      "author": "The A.V. Club",
+      "date": "2026-08-29T11:00:03+00:00",
+      "link": "https://www.avclub.com/inventory-inhuman-pop-culture-tech-bros-definitely-not-mark-zuckerberg",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/28114200/MixCollage-28-Aug-2026-10-41-AM-6194.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "1f197177133e0b3c",
@@ -194,17 +304,6 @@
       "link": "https://www.thehindu.com/entertainment/movies/tony-movie-review-a-young-anthony-bourdain-finds-his-calling-in-this-warm-spirited-origin-story/article71403925.ece",
       "image": "https://th-i.thgim.com/public/entertainment/movies/cuyrzd/article71404026.ece/alternates/LANDSCAPE_1200/Dominic%20Sessa%20in%20%E2%80%98Tony%E2%80%99",
       "category": "Indian Cinema"
-    },
-    {
-      "id": "8fec40c5aceb7c1b",
-      "title": "This Forgotten Western From The Legendary Frank Capra Is A Must-Watch",
-      "quote": "Legendary filmmaker Frank Capra worked on this mostly forgotten Western flick, which is still pretty forward-thinking by today's standards.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (BJ Colangelo)",
-      "date": "2026-08-29T08:10:00+00:00",
-      "link": "https://www.slashfilm.com/2232320/frank-capra-western-must-watch-westward-the-women/",
-      "image": "https://www.slashfilm.com/img/gallery/this-forgotten-western-from-the-legendary-frank-capra-is-a-must-watch/l-intro-1786109328.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "0d4de79b1cd5533a",
@@ -262,17 +361,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "edb924e5a6ca3be2",
-      "title": "You Can Now Stream The Biggest Box Office Flop Of All Time On Hulu",
-      "quote": "Curious to learn more about what might just be the biggest box office flop of all time? You can now stream the film on Hulu.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Ryan Scott)",
-      "date": "2026-08-29T00:45:00+00:00",
-      "link": "https://www.slashfilm.com/2246545/stream-desert-warrior-biggest-box-office-flop-hulu/",
-      "image": "https://www.slashfilm.com/img/gallery/you-can-now-stream-the-biggest-box-office-flop-of-all-time-on-hulu/l-intro-1787938293.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "9cbf94ce978485e7",
       "title": "The blurst of times continues in new trailer for A Tale Of Two Cities",
       "quote": "MGM+ cordially invites you to enjoy a new version of Charles Dickens’ timeless classic, starring Kit Harrington, this September.",
@@ -281,72 +369,6 @@
       "date": "2026-08-28T23:47:16+00:00",
       "link": "https://www.avclub.com/a-tale-of-two-cities-trailer-release-date",
       "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/28193239/tale-of-two-cities.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "7ff17dfa162dd043",
-      "title": "Disney catches global Pokémon rights, greenlights new stop-motion series",
-      "quote": "Disney put out a new trailer today for <i>The Misadventures Of Sirfetch'd & Pichu</i>, a new stop-motion Pokémon show from Aardman Animation.",
-      "publisher": "The A.V. Club",
-      "author": "William Hughes",
-      "date": "2026-08-28T23:21:32+00:00",
-      "link": "https://www.avclub.com/disney-catches-pokemon-global-rights-stop-motion-trailer",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/28191251/pokemon-tales-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "7e512d2e361d56d3",
-      "title": "Unphased by discourse, Emily Wilson is translating The Odyssey, again",
-      "quote": "The resilient, best-selling translator set off a wave of conversation with her two pans of Christopher Nolan’s The Odyssey.",
-      "publisher": "The A.V. Club",
-      "author": "Matt Schimkowitz",
-      "date": "2026-08-28T22:28:09+00:00",
-      "link": "https://www.avclub.com/emily-wilson-retranslation-the-odyssey",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/07/30174850/MixCollage-30-Jul-2026-04-47-PM-1209.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "f4039acaf7cfeced",
-      "title": "Nashville to rename its airport in honor of Dolly Parton",
-      "quote": "Prompted by a petition that immediately began making the rounds in the aftermath of Parton's death, Tennessee's governor announced the plans on Friday.",
-      "publisher": "The A.V. Club",
-      "author": "William Hughes",
-      "date": "2026-08-28T22:03:41+00:00",
-      "link": "https://www.avclub.com/nashville-to-rename-its-airport-in-honor-of-dolly-parton",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2025/10/08093420/7b403b002f6f1390ca7b4899b428a034.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "b3c7a6c5bd4aed4a",
-      "title": "Apple's Dark Matter Season 2 Makes One Controversial Sci-Fi Change",
-      "quote": "In the Season 2 premiere of Apple TV's Dark Matter, the show totally undermines the events of the Season 1 finale. But that might ultimately be a good thing.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Jeremy Mathai)",
-      "date": "2026-08-28T21:00:00+00:00",
-      "link": "https://www.slashfilm.com/2246609/dark-matter-season-2-apple-controversial-change/",
-      "image": "https://www.slashfilm.com/img/gallery/apples-dark-matter-season-2-makes-one-controversial-sci-fi-change/l-intro-1787942418.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "dfdefd9af843dd65",
-      "title": "Want James Cameron to talk through Terminator 2? There’s an app for that",
-      "quote": "Once the go-to app for Spanish-language translations, TheaterEars has spent the last year bringing director's commentaries, new and old, to the movies.",
-      "publisher": "The A.V. Club",
-      "author": "Matt Schimkowitz",
-      "date": "2026-08-28T20:50:05+00:00",
-      "link": "https://www.avclub.com/theaterears-directors-commentary-terminator-2",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/06/26184352/terminator-2-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "c3d9f811adb3a483",
-      "title": "Dan Stevens, speaking for us all, hopes Amazon's RoboCop is bloody and funny",
-      "quote": "The actor was recently cast as the new Alex Murphy in an upcoming Prime Video series.",
-      "publisher": "The A.V. Club",
-      "author": "Jarrod Jones",
-      "date": "2026-08-28T20:18:27+00:00",
-      "link": "https://www.avclub.com/dan-stevens-hopes-for-robocop-prime-video",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/25130902/dan-stevens-header.jpg",
       "category": "Indie Gems"
     },
     {
@@ -526,17 +548,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "45498c7ed5166cd6",
-      "title": "The Secret Woman review – Claes Bang is dastardly gaslighter in Danish amnesia thriller",
-      "quote": "In spite of capable performances and deployment of hygge , gothic and Nordic noir elements, you’ll search for a feasible plot or a character insight in vain Adapted from the 2017 novel by Anna Ekberg (actually a male…",
-      "publisher": "The Guardian",
-      "author": "Phil Hoad",
-      "date": "2026-08-28T06:00:50+00:00",
-      "link": "https://www.theguardian.com/film/2026/aug/28/the-secret-woman-review-claes-bang-is-dastardly-gaslighter-in-danish-amnesia-thriller",
-      "image": "https://i.guim.co.uk/img/media/1f0fdd7f04170824f1857fe787e2297361434102/374_0_3751_3000/master/3751.jpg?width=140&quality=85&auto=format&fit=max&s=3d8bc63c6e4f8ca1d03b8438625499a1",
-      "category": "Festival Winners"
-    },
-    {
       "id": "b1447270365af26d",
       "title": "‘The Whisper Man’ Review: Robert De Niro, Michelle Monaghan and Adam Scott in Netflix’s Twisty Airport Paperback Serial-Killer Procedural",
       "quote": "Hamish Linklater and Owen Teague also star in James Ashcroft’s film of Alex North’s crime novel about a series of abductions of young boys in smalltown New Jersey.",
@@ -567,17 +578,6 @@
       "date": "2026-08-27T16:00:00+00:00",
       "link": "https://variety.com/2026/film/reviews/just-play-dead-review-samuel-l-jackson-1236844910/",
       "image": "https://variety.com/wp-content/uploads/2026/05/HFG-JUST-PLAY-DEAD-First-Look-Photo-photo-credit-Rico-Torres.-.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "b9d1ccc3374c86a6",
-      "title": "Robert Carlyle: ‘When we did The Full Monty strip, the reaction from the crowd was terrifying’",
-      "quote": "The actor on which star he’d devour first on a lifeboat, why he prefers pigeons to dogs and how Trainspotting put the Scottish accent on the map You’re stranded on a lifeboat with Ewan McGregor , Ewen Bremner , Jonny…",
-      "publisher": "The Guardian",
-      "author": "As told to Rich Pelley",
-      "date": "2026-08-27T14:00:16+00:00",
-      "link": "https://www.theguardian.com/film/2026/aug/27/robert-carlyle-interview-full-monty-strip",
-      "image": "https://i.guim.co.uk/img/media/a7216b844b2eddd1e5187ee6236aa73ff33599d1/0_480_5504_4403/master/5504.jpg?width=140&quality=85&auto=format&fit=max&s=845049fc7561a4f052ef3b186d4f8c63",
       "category": "World Cinema"
     },
     {
