@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T20:53:24.343429+00:00",
+  "generated_at": "2026-08-31T05:05:10.271020+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -9,9 +9,75 @@
   ],
   "reviews": [
     {
-      "id": "1b8c051a517ceef8",
-      "title": "‘Buddy’ Busts Out, Scares Up No. 6 Spot, Sets Record For Roadside Attractions – Specialty Box Office",
-      "quote": "Dark comedy Buddy from Roadside Attractions and Saban Entertainment blew past expectations to set a few records for Roadside Attractions as its top opening since Covid and second-best ever after I Can Only Imagine…",
+      "id": "f56c250dc042e3e9",
+      "title": "Dolly Parton Laid To Rest In Same Nashville Cemetery As Late Husband",
+      "quote": "Dolly Parton was laid to rest Friday in a small, private service, per the singer’s wishes. The ceremony was confirmed by her great-niece, Lainey Parton, who posted a remembrance on social media. “This is a really hard…",
+      "publisher": "Deadline",
+      "author": "Tomt",
+      "date": "2026-08-31T03:59:25+00:00",
+      "link": "https://deadline.com/2026/08/dolly-parton-buried-funeral-1237063013/",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/dolly-parton.png",
+      "category": "World Cinema"
+    },
+    {
+      "id": "0c9b7acd483c90d2",
+      "title": "“I’m Back”: Rams Superstar Aaron Donald Unretires, Will Rejoin Team This Season As It Vies For Super Bowl Berth",
+      "quote": "L.A. Rams fans and TV executives are both smiling today about the same thing. Aaron Donald, the all-world defensive tackle who led the Los Angeles to a Super Bowl victory in 2022, announced today that he will come out…",
+      "publisher": "Deadline",
+      "author": "Tomt",
+      "date": "2026-08-31T01:41:15+00:00",
+      "link": "https://deadline.com/2026/08/aaron-donald-unretires-rejoins-rams-1237063001/",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/GettyImages-1370407796.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "a4a968c070ff453c",
+      "title": "Your Move, Mr. Governor: CA Post Production Tax Incentive Bill Passes State Senate; Moves To Newsom’s Desk",
+      "quote": "State support for the contracting L.A. film and TV industry is now in the hands of California Governor Gavin Newsom and some (hoperfully) very creative accountants. With just hours to spare, the California State Senate…",
+      "publisher": "Deadline",
+      "author": "Tomt",
+      "date": "2026-08-30T23:31:28+00:00",
+      "link": "https://deadline.com/2026/08/ca-post-production-tax-incentive-bill-passes-1237062985/",
+      "image": "https://deadline.com/wp-content/uploads/2025/08/GettyImages-2228237432.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "f8f1a918e9b8a831",
+      "title": "Hollywood Cliffhanger: Can U.S. Summer Box Office Ring Up All-Time Record $4.8 Billion?",
+      "quote": "The summer domestic box office is so close —so close–to hitting an all-time record, which would surpass the $4.756 billion held by summer 2013. Currently, per Rentrak, the North American box office for the first Friday…",
+      "publisher": "Deadline",
+      "author": "Anthonypauldalessandro",
+      "date": "2026-08-30T22:34:50+00:00",
+      "link": "https://deadline.com/2026/08/box-office-summer-2026-near-record-1237062959/",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Spider-Man-Odyssey-Toy-Story-Obsession-4-shot.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "8f20f3fa4f62c919",
+      "title": "Matt Bradley & NBC News Team “Recovering Well” After Israeli Settlers Attack In West Bank",
+      "quote": "An NBC News team is safe in Tel Aviv after being attacked on camera by Israeli settlers in the West Bank. On Sunday’s episode of Today, foreign correspondent Matt Bradley revealed that his team is “recovering well”…",
+      "publisher": "Deadline",
+      "author": "Glenn Garner",
+      "date": "2026-08-30T22:32:31+00:00",
+      "link": "https://deadline.com/2026/08/matt-bradley-nbc-news-recovering-israeli-settlers-attack-1237062952/",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/NBC-News-Matt-Bradley-Israeli-Settlers-2-shot.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "28787dd2a1d24e46",
+      "title": "‘Days of Thunder’s Randy Quaid Calls Anne Hathaway “Horrible Choice” For Sequel In Problematic Diatribe: “She’s Pregnant”",
+      "quote": "More than 35 years later, Cole Trickle’s new leading lady has ruffled some feathers for a previous Days of Thunder co-star. After Anne Hathaway was announced to join Tom Cruise in Paramount’s Days of Thunder 2, Randy…",
+      "publisher": "Deadline",
+      "author": "Glenn Garner",
+      "date": "2026-08-30T21:11:14+00:00",
+      "link": "https://deadline.com/2026/08/days-of-thunder-randy-quaid-calls-anne-hathaway-horrible-sequel-1237062926/",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Days-of-Thunder-Randy-Quaid-Anne-Hathaway-2-shot.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "1cabfdeb04e39c91",
+      "title": "‘Buddy’ Busts Out, Scares Up No. 6 Spot, Sets Record For Roadside Attractions, Saban – Specialty Box Office",
+      "quote": "Dark comedy Buddy from Roadside Attractions and Saban Films blew past expectations to set a few records for Roadside Attractions as its top opening since Covid and second-best ever after I Can Only Imagine (2018, $17…",
       "publisher": "Deadline",
       "author": "Jillg366",
       "date": "2026-08-30T20:51:14+00:00",
@@ -42,17 +108,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "1c03db7de8ed148a",
-      "title": "Kacey Musgraves Continues Boston Show As Fire Breaks Out On Stage",
-      "quote": "Kacey Musgraves managed to keep her cool as a small fire broke out on stage at her latest Middle of Nowhere Tour stop. On Saturday, the 8x Grammy winner continued her set as the blaze burned far above her head…",
-      "publisher": "Deadline",
-      "author": "Glenn Garner",
-      "date": "2026-08-30T19:41:58+00:00",
-      "link": "https://deadline.com/2026/08/kacey-musgraves-continues-boston-show-fire-on-stage-1237062905/",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/P105OUC2-e1788118226975.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "628007f40764d607",
       "title": "A Marvel TV Show Ripped Off One Of Steven Spielberg's Most Underrated Movies",
       "quote": "Steven Spielberg was understandably displeased when an episode of The Incredible Hulk repurposed some footage from one his film.",
@@ -61,6 +116,17 @@
       "date": "2026-08-30T19:00:00+00:00",
       "link": "https://www.slashfilm.com/2197463/the-incredible-hulk-marvel-tv-show-ripped-off-steven-spielberg-duel/",
       "image": "https://www.slashfilm.com/img/gallery/a-marvel-tv-show-ripped-off-one-of-steven-spielbergs-most-underrated-movies/l-intro-1787242530.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "a3c4a4d2aafca729",
+      "title": "Staff Picks: A self-aware debut and a tribute to an American Master",
+      "quote": "Prepare to wrap up summer with Audrey Hobert's self-conscious, self-aware debut album and a close look at Mary Oliver.",
+      "publisher": "The A.V. Club",
+      "author": "The A.V. Club",
+      "date": "2026-08-30T18:19:46+00:00",
+      "link": "https://www.avclub.com/pbs-mary-oliver-documentary-audrey-hobert-whos-the-clown",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/30114946/MixCollage-30-Aug-2026-10-48-AM-9903.jpg",
       "category": "Indie Gems"
     },
     {
@@ -75,17 +141,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "153cdc834613f4bc",
-      "title": "‘Spider-Man: Brand New Day’ & ‘Odyssey’ In Global Brawl Atop Late Summer Frame; Universal First To Cross $3B Overseas YTD – Worldwide Update",
-      "quote": "In the deepest of summer, Odysseus came close to throwing Spider-Man off the top of the global weekend box office, but the aranea superhero had the upper hand over the crusty ole warrior, $66.2M to $62.9M. Spider-Man…",
-      "publisher": "Deadline",
-      "author": "Anthonypauldalessandro",
-      "date": "2026-08-30T17:43:43+00:00",
-      "link": "https://deadline.com/2026/08/box-office-global-spider-man-odyssey-dog-stars-bombs-universal-1237062804/",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Spider-Man-Brand-New-Day-The-Odyssey-2-shot.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "38749a8b6785770d",
       "title": "The Best Star Trek Books Ever Should Have Been Adapted Into A TV Series",
       "quote": "The world of Star Trek has been expanded in many mediums, and the best series of books would have made for a great TV series.",
@@ -97,28 +152,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "a5438da8542f3557",
-      "title": "Guy Pearce Gives ‘Priscilla, Queen Of The Desert 2’ Filming Update",
-      "quote": "A year after the loss of their Bernadette Bassenger, Priscilla is tuning up for another fabulous adventure across the Australian Outback. Guy Pearce recently gave an update on the production timeline for the sequel to…",
-      "publisher": "Deadline",
-      "author": "Glenn Garner",
-      "date": "2026-08-30T16:07:10+00:00",
-      "link": "https://deadline.com/2026/08/guy-pearce-priscilla-queen-of-the-desert-2-filming-update-1237062780/",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/MSDPRQU_EC003.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "3126b3601cf2a91e",
-      "title": "In Latest Threat Of Regulatory Retaliation, Donald Trump Says He’ll Report NBC News’ Kristen Welker To FCC For “Rebuke Or Punishment”",
-      "quote": "Donald Trump went off on NBC News’ Meet the Press moderator Kristen Welker on Sunday, vowing to report her to the FCC for “rebuke or punishment,” even as the agency is defending itself in a lawsuit brought by ABC…",
-      "publisher": "Deadline",
-      "author": "Ted Johnson",
-      "date": "2026-08-30T16:03:11+00:00",
-      "link": "https://deadline.com/2026/08/trump-kristen-welker-nbc-fcc-1237062773/",
-      "image": "https://deadline.com/wp-content/uploads/2026/07/Brandon-Carr-Donald-Trump.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "c714422ca470afd0",
       "title": "125 Star Wars Trivia Questions From A Galaxy Far, Far Away",
       "quote": "How well do you know Star Wars? Find out with these 125 trivia questions covering movies, TV shows, books, and video games.",
@@ -128,17 +161,6 @@
       "link": "https://www.slashfilm.com/2243340/star-wars-trivia-questions-answers/",
       "image": "https://www.slashfilm.com/img/gallery/125-star-wars-trivia-questions-from-a-galaxy-far-far-away/l-intro-1787616421.jpg",
       "category": "Indie Gems"
-    },
-    {
-      "id": "f6e4a12a6a202d4a",
-      "title": "Dog Eats Dog At Box Office As ‘Coyote Vs. Acme’ Prevails At No. 2 With $15M+, ‘Dog Stars’ Tanks; Spidey Swings Closer To $900M – Box Office Update",
-      "quote": "SUNDAY AM: Ketchup Entertainment’s theatrical rescue of Warner Bros Animation’s Coyote vs. Acme hit its forecast with a very solid $15.4M opening in what is now the No. 2 film at the weekend box office, which was ruled…",
-      "publisher": "Deadline",
-      "author": "Anthonypauldalessandro",
-      "date": "2026-08-30T15:18:00+00:00",
-      "link": "https://deadline.com/2026/08/box-office-coyote-vs-acme-dog-stars-spider-man-1237061934/",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Spider-Man-Brand-New-Day-Coyote-vs-Acme-The-Dog-Stars.jpg",
-      "category": "World Cinema"
     },
     {
       "id": "62bfe097c14aab77",
@@ -182,6 +204,17 @@
       "date": "2026-08-30T11:30:00+00:00",
       "link": "https://www.slashfilm.com/2243355/the-stupids-worst-comedy-movie-ever-30-year-anniversary/",
       "image": "https://www.slashfilm.com/img/gallery/30-years-ago-today-one-of-the-worst-comedies-ever-made-was-released-in-cinemas/l-intro-1787620399.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "e2195a2e9af34dea",
+      "title": "What's on TV this week—Chad Powers and The Gentlemen return for season 2",
+      "quote": "Here is what's happening on TV from Sunday, August 30 through Saturday, September 5, 2026.",
+      "publisher": "The A.V. Club",
+      "author": "Christina Izzo",
+      "date": "2026-08-30T11:00:25+00:00",
+      "link": "https://www.avclub.com/what-to-watch-on-tv-august-30-september-5",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/28202415/MixCollage-28-Aug-2026-07-05-PM-8379.jpg",
       "category": "Indie Gems"
     },
     {
@@ -229,17 +262,6 @@
       "category": "Festival Winners"
     },
     {
-      "id": "afdf79e9320a76c9",
-      "title": "Leanne Morgan Had To Give LA Writers “Grace” To Capture Her Southern Voice: “They’re In A Bubble Out There”",
-      "quote": "With Season 2 of her namesake series now available to stream on Netflix, Leanne Morgan is praising her writers for capturing her Southern voice. The Leanne star recently discussed the culture shock of relocating from…",
-      "publisher": "Deadline",
-      "author": "Glenn Garner",
-      "date": "2026-08-30T03:25:43+00:00",
-      "link": "https://deadline.com/2026/08/leanne-morgan-give-la-writers-grace-capture-southern-voice-1237062743/",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Leanne-Morgan-Netflix.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "c0485a0881e11269",
       "title": "Sadsack Microsoft asking around whether anyone wants to try making a Halo show again",
       "quote": "Microsoft is reportedly shopping gaming brands like <i>Elder Scrolls</i>, <i>Diablo</i>, and, yes, <i>Halo</i> to Hollywood studios.",
@@ -253,7 +275,7 @@
     {
       "id": "c076bb51341f38b4",
       "title": "Liz Meriwether says maybe the real New Girl reunion was the weird little feuds we had along the way",
-      "quote": "",
+      "quote": "Elizabeth Meriwether is busy, undeniably. The New Girl&nbsp;creator has had five whole other TV shows on the air since her beloved Fox sitcom finished in 2018, ...",
       "publisher": "The A.V. Club",
       "author": "William Hughes",
       "date": "2026-08-29T22:04:35+00:00",
@@ -339,17 +361,6 @@
       "category": "Indian Cinema"
     },
     {
-      "id": "6546a652ab2647fe",
-      "title": "Artificial intelli-gents: 12 inhuman pop culture tech bros",
-      "quote": "Though few pieces of media mention Mark Zuckerberg by name, he's forever shaped the way a certain type of Silicon Valley villain looks.",
-      "publisher": "The A.V. Club",
-      "author": "The A.V. Club",
-      "date": "2026-08-29T11:00:03+00:00",
-      "link": "https://www.avclub.com/inventory-inhuman-pop-culture-tech-bros-definitely-not-mark-zuckerberg",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/28114200/MixCollage-28-Aug-2026-10-41-AM-6194.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "1f197177133e0b3c",
       "title": "Watch: ‘Toxic’ is at war with itself | Frequently Made Mistakes",
       "quote": "Can a star vehicle be both mass entertainment and meaningful cinema? In FMM 29, The Balancing Act, we use Geetu Mohandas’ Toxic, starring Yash, to explore the eternal battle between art and commerce, star and character…",
@@ -403,17 +414,6 @@
       "link": "https://www.thehindu.com/entertainment/movies/king100-nagarjuna-akkineni-exudes-timeless-charm-in-100th-film/article71403798.ece",
       "image": "https://th-i.thgim.com/public/entertainment/movies/6uvdzg/article71403814.ece/alternates/LANDSCAPE_1200/Nagarjuna%20Akkineni%20in%20%E2%80%98King100%E2%80%99",
       "category": "Indian Cinema"
-    },
-    {
-      "id": "46373e7b478df0ed",
-      "title": "M. Night Shyamalan launches YouTube channel to try to work on his relationship with you",
-      "quote": "Visibly a little nervous, Shyamalan expressed his hope of undoing \"whatever stigmas are in my head, or in anybody's head.\"",
-      "publisher": "The A.V. Club",
-      "author": "William Hughes",
-      "date": "2026-08-29T01:46:23+00:00",
-      "link": "https://www.avclub.com/m-night-shyamalan-youtube-relationship-with-you",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/28214201/shyamalan-feature.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "11d5ef3c598f962d",
