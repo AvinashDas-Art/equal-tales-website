@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T16:26:41.284962+00:00",
+  "generated_at": "2026-09-01T20:54:40.903458+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -9,81 +9,169 @@
   ],
   "reviews": [
     {
-      "id": "62cd3e4695393e69",
-      "title": "Aaron Tveit Joins Angourie Rice & Jane Krakowski In Coming-Of-Age Drama ‘Nice Eggs’",
-      "quote": "EXCLUSIVE: Aaron Tveit, the Tony Award winner of Moulin Rouge! The Musical fame, has wrapped the male lead role opposite Jane Krakowski and Angourie Rice in Nice Eggs, the indie coming-of-age drama that we scooped in…",
+      "id": "e9e418c750673086",
+      "title": "Major League Baseball’s L.A. Angels Sold By Arte Moreno To Rams Owner Stan Kroenke",
+      "quote": "Los Angeles Angels owner Arte Moreno is selling the Major League Baseball team to Stan Kroenke, owner of sports franchises including the NFL’s L.A. Rams. The sale price was not divulged by the parties, but numerous…",
       "publisher": "Deadline",
-      "author": "Matthewgrobar",
-      "date": "2026-09-01T16:23:22+00:00",
-      "link": "https://deadline.com/2026/09/aaron-tveit-joins-nice-eggs-movie-angourie-rice-1237064241/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Photo-Jul-14-2026-14-25-53-1.jpg",
+      "author": "Dade Hayes",
+      "date": "2026-09-01T20:37:19+00:00",
+      "link": "https://deadline.com/2026/09/major-league-baseball-los-angeles-angels-sold-to-stan-kroenke-1237064593/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Stan-Kroneke.jpg",
       "category": "World Cinema"
     },
     {
-      "id": "3a0ea9816423ee98",
-      "title": "Gersh Signs Victoria Garrick Browne",
-      "quote": "EXCLUSIVE: Gersh has signed podcaster and former Division I athlete Victoria Garrick Browne for representation. Garrick Browne is known for her spell playing women’s volleyball and then becoming a mental health and body…",
+      "id": "42eb79ebe1deb03e",
+      "title": "‘Grand Theft Auto VI’ Extended Preview Is Netflix’s Most-Watched Weekly Title",
+      "quote": "Netflix’s most-watched title last week wasn’t a film or a television series. Rather, it was a video game preview. A 27-minute extended look at Grand Theft Auto VI landed on Netflix on August 27, raking in 31.1 million…",
       "publisher": "Deadline",
-      "author": "Jesse Whittock",
-      "date": "2026-09-01T16:20:00+00:00",
-      "link": "https://deadline.com/2026/09/gersh-signs-victoria-garrick-browne-representation-1237063962/",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/VGB.Headshot.G-e1788242353622.jpeg",
+      "author": "Katie Campione",
+      "date": "2026-09-01T20:36:04+00:00",
+      "link": "https://deadline.com/2026/09/grand-theft-auto-vi-netflix-preview-viewership-top-10-1237064600/",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/image-1.jpeg",
       "category": "World Cinema"
+    },
+    {
+      "id": "ad03301e941ef80c",
+      "title": "Why Practical Magic 2 Replaced Evan Rachel Wood With Joey King",
+      "quote": "Evan Rachel Wood played one of the Owens girls in the original Practical Magic, but here's why she wasn't brought back to reprise the role in Practical Magic 2.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (BJ Colangelo)",
+      "date": "2026-09-01T20:30:00+00:00",
+      "link": "https://www.slashfilm.com/2248870/practical-magic-2-evan-rachel-wood-joey-king-recasting-explained/",
+      "image": "https://www.slashfilm.com/img/gallery/why-practical-magic-2-replaced-evan-rachel-wood-with-joey-king/l-intro-1788288789.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "225e134bb17f49c3",
+      "title": "Wes Studi & Dane DiLiegro Board Amazon MGM Studio’s ‘Seasons’ Opposite Lily James & Jack Reynor",
+      "quote": "EXCLUSIVE: Wes Studi and Dane DiLiegro have joined the cast of Amazon MGM Studios’ Seasons from writer-director Drew Hancock alongside previously announced stars, Lily James, Jack Reynor, Ron Perlman, and Elizabeth…",
+      "publisher": "Deadline",
+      "author": "Anthonypauldalessandro",
+      "date": "2026-09-01T20:29:58+00:00",
+      "link": "https://deadline.com/2026/09/amazon-seasons-wes-studi-dane-diliegro-1237064581/",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Wes-Studi-and-Dane-DiLiegro.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "f16ab8a139bdb4cd",
+      "title": "Block The Merger Coalition Releases New Video Urging “No Concessions” On Paramount-WBD",
+      "quote": "Hannah Einbinder, Bradley Whitford, Rati Gupta, W. Kamau Bell, Kristen Vangsness and Jane Fonda urged opposition to the Paramount-Warner Bros. Discovery deal in new video from Hollywood’s Block the Merger Coalition to…",
+      "publisher": "Deadline",
+      "author": "Jillg366",
+      "date": "2026-09-01T20:21:55+00:00",
+      "link": "https://deadline.com/2026/09/hollywood-block-the-merger-new-video-paramount-warner-bros-1237064503/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/JAne-Fonda.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "c7976f67a23c0aa5",
+      "title": "Dave Boyle To Direct Reimagining Of Japanese Horror Film ‘Pulse’ For Screen Gems, Spyglass & Parker Finn’s Bad Feeling",
+      "quote": "EXCLUSIVE: Sony’s Screen Gems and Spyglass are developing a reimagining of the Japanese horror film Pulse, with Dave Boyle attached to direct, Deadline has learned. Boyle is also set for a pass on a script by Luke…",
+      "publisher": "Deadline",
+      "author": "Matthewgrobar",
+      "date": "2026-09-01T19:59:31+00:00",
+      "link": "https://deadline.com/2026/09/pulse-remake-dave-boyle-to-direct-screen-gems-spyglass-1237064544/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/240208_netflix0907.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "e45bd10978e43001",
+      "title": "Furious Season 1 Ending Twist Explained: Why Alice Kills [SPOILER]",
+      "quote": "The Season 1 finale of Furious proved that the Emmy Rossum-starring crime thriller is one of the best shows of 2026. Here's what Season 2 could have in store.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Nina Starner)",
+      "date": "2026-09-01T19:54:50+00:00",
+      "link": "https://www.slashfilm.com/2248961/furious-season-1-ending-twist-explained-alice-kill-jay-easton/",
+      "image": "https://www.slashfilm.com/img/gallery/furious-season-1-ending-twist-explained-why-alice-kills-spoiler/l-intro-1788292337.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "ae1b13b5761fa30a",
+      "title": "Randy Rainbow Returns To CAA",
+      "quote": "EXCLUSIVE: Randy Rainbow, the six-time Emmy and Grammy-nominated comedian, singer, and actor, has signed with CAA. Most recently with WME, he thereby returns to an agency he first signed with in early 2020. With more…",
+      "publisher": "Deadline",
+      "author": "Matthewgrobar",
+      "date": "2026-09-01T19:39:04+00:00",
+      "link": "https://deadline.com/2026/09/randy-rainbow-signs-caa-1237064510/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Randy-Rainbow-Headshot.png",
+      "category": "World Cinema"
+    },
+    {
+      "id": "d0baecd652314d56",
+      "title": "Why Ridley Scott Reportedly Blames Paul Mescal For Gladiator 2's Box Office",
+      "quote": "Gladiator II wasn't the box office hit many expected, and director Ridley Scott apparently blames that on the film's star, Paul Mescal.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Sandy Schaefer)",
+      "date": "2026-09-01T19:30:00+00:00",
+      "link": "https://www.slashfilm.com/2248842/ridley-scott-blame-paul-mescal-gladiator-2-box-office/",
+      "image": "https://www.slashfilm.com/img/gallery/ridley-scott-blame-paul-mescal-gladiator-2-box-office/l-intro-1788295718.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "551a59f5a9c4e532",
+      "title": "‘Moulin Rouge!’ With Aaron Tveit Bids Adieu With Best Gross In Years – Broadway Box Office",
+      "quote": "The final performances of Moulin Rouge! The Musical easily topped this week’s Broadway box office chart, grossing a big $2,336,973 at the Al Hirschfeld Theatre, a nice jump of $140,768 over the previous week. With…",
+      "publisher": "Deadline",
+      "author": "Greg Evans",
+      "date": "2026-09-01T19:24:50+00:00",
+      "link": "https://deadline.com/2026/09/broadway-box-office-moulin-rouge-paranormal-activity-1237064092/",
+      "image": "https://deadline.com/wp-content/uploads/2018/11/moulin-rouge.jpeg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "17bf30ffebe5f25a",
+      "title": "Audible’s ‘Harry Potter’ Full-Cast Audiobooks Conjure Over 5M Sales",
+      "quote": "EXCLUSIVE: Audible’s Harry Potter: The Full-Cast Audio Editions have sold over 5M copies. Amazon-owned Audible started releasing new versions of the J.K. Rowling series last November, with a glitzy cast voicing the…",
+      "publisher": "Deadline",
+      "author": "Stewart Clarke",
+      "date": "2026-09-01T19:18:31+00:00",
+      "link": "https://deadline.com/2026/09/harry-potter-full-cast-audiobooks-5m-sales-audible-1237064178/",
+      "image": "https://deadline.com/wp-content/uploads/2025/07/Harry-Potter-2.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "d7b29e3e1d0ef45d",
+      "title": "Why The Terminator Credits Include A Thank You To Sci-Fi Author Harlan Ellison",
+      "quote": "Eagle-eyed viewers have noticed a thank you in the credits of The Terminator for legendary sci-fi author Harlan Ellison. Here's why.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Joe Roberts)",
+      "date": "2026-09-01T19:00:00+00:00",
+      "link": "https://www.slashfilm.com/2211884/why-the-terminator-credits-thank-you-sci-fi-author-harlan-ellison/",
+      "image": "https://www.slashfilm.com/img/gallery/why-the-terminator-credits-include-a-thank-you-to-sci-fi-author-harlan-ellison/l-intro-1783630130.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "aff08959dd728aa9",
+      "title": "Todd Haynes and Wallace Shawn among signatories of letter backing Mark Ruffalo amid antisemitism charge",
+      "quote": "More than 170 Jewish artists, also including Joel Coen, Hannah Einbinder and Miranda July, have supported the actor after he criticized Paramount A collective of more than 170 prominent Jewish artists and academics –…",
+      "publisher": "The Guardian",
+      "author": "Adrian Horton",
+      "date": "2026-09-01T18:42:05+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/01/jewish-artist-support-mark-ruffalo-antisemitism",
+      "image": "https://i.guim.co.uk/img/media/8c31d3e340c7c325cbd90814720b6be78ad3e824/0_0_2880_2304/master/2880.jpg?width=140&quality=85&auto=format&fit=max&s=a46e53ff63329e2ca3fc9b7d4dad2e54",
+      "category": "World Cinema"
+    },
+    {
+      "id": "99ecafb2b8183f42",
+      "title": "5 Scariest Marvel Cinematic Universe Villains, Ranked",
+      "quote": "You've probably seen lots of lists of the best or strongest Marvel Cinematic Universe villains, but here are the five scariest MCU baddies.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Rafael Motamayor)",
+      "date": "2026-09-01T17:00:00+00:00",
+      "link": "https://www.slashfilm.com/2241255/scariest-marvel-cinematic-universe-villains-ranked/",
+      "image": "https://www.slashfilm.com/img/gallery/scariest-marvel-cinematic-universe-villains-ranked/l-intro-1787678178.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "a0c09a3b7eaa2453",
       "title": "Street Fight Trailer: This Looks Like The Movie Mortal Kombat Wishes It Was",
       "quote": "The latest action-packed Street Fighter movie trailer is here to remind us again what those new Mortal Kombat movies did so wrong.",
       "publisher": "/Film",
-      "author": "staff@slashfilm.com (Jeremy Smith)",
+      "author": "staff@slashfilm.com (SlashFilm Staff)",
       "date": "2026-09-01T16:13:51+00:00",
       "link": "https://www.slashfilm.com/2248673/street-fighter-movie-trailer/",
-      "image": "https://www.slashfilm.com/img/gallery/street-fighter-trailer/l-intro-1788279129.jpg",
+      "image": "https://www.slashfilm.com/img/gallery/street-fighter-movie-trailer/l-intro-1788280677.jpg",
       "category": "Indie Gems"
-    },
-    {
-      "id": "52ef509019f0e4dd",
-      "title": "‘Bake Off’ Battle Heats Up: Sky Accuses Producer Of Falsifying Accounts & Charting Private Boat Trip On Company Credit Card",
-      "quote": "EXCLUSIVE: The heat is rising in The Great British Bake Off tent — and not because it’s been the hottest summer on record in the UK. In an explosive legal battle, Letty Kavanagh, former managing director of Bake Off…",
-      "publisher": "Deadline",
-      "author": "Jake Kanter",
-      "date": "2026-09-01T16:10:55+00:00",
-      "link": "https://deadline.com/2026/09/the-great-british-bake-off-sky-attacks-letty-kavanagh-1237064072/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/78357S16-Embargoed-0001-Tuesday-26th-August-The-Great-British-Bake-Off-Series-16-1-74036c5-e1788268573831.webp",
-      "category": "World Cinema"
-    },
-    {
-      "id": "a1733a1e6f2914c9",
-      "title": "Jonathan Bailey Drops Out Of West End Revival Of ‘Sunday In The Park With George’",
-      "quote": "EXCLUSIVE: After Ariana Grande was forced to leave the West End revival of Sundays In the Park With George earlier this month, sources say Jonathan Bailey is now exiting the play as well. Bailey released a statement on…",
-      "publisher": "Deadline",
-      "author": "Justin Kroll",
-      "date": "2026-09-01T16:00:00+00:00",
-      "link": "https://deadline.com/2026/09/jonathan-bailey-sunday-in-the-park-with-george-1237063249/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2243706473.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "6959f12978cd04b4",
-      "title": "Netflix Sets New Documentary ‘The One About Matthew Perry,’ Celebrating Life Of ‘Friends’ Star",
-      "quote": "Netflix has set a new three-part documentary about Friends star Matthew Perry, directed and executive produced by Mary Robertson (Quiet On Set: The Dark Side Of Kids TV) and produced by her Maxine Productions, a part of…",
-      "publisher": "Deadline",
-      "author": "Rosy Cordero",
-      "date": "2026-09-01T16:00:00+00:00",
-      "link": "https://deadline.com/2026/09/netflix-documentary-the-one-about-matthew-perry-1237063329/",
-      "image": "https://deadline.com/wp-content/uploads/2023/10/matthew-perry-3.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "1b900f7774645528",
-      "title": "Netflix Signs Global Deal For British True Crime Podcast ‘Outlore With Eleanor Neale’",
-      "quote": "EXCLUSIVE: Netflix is going deeper into the podcast world. The streamer has a struck an exclusive global deal to host Outlore with Eleanor Neale, the widely-followed true crime podcast out of the UK. Outlore, which…",
-      "publisher": "Deadline",
-      "author": "Jesse Whittock",
-      "date": "2026-09-01T16:00:00+00:00",
-      "link": "https://deadline.com/2026/09/netflix-outlore-with-eleanor-neale-podcast-1237063975/",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Outlore-with-Eleanor-Neale-e1788245013852.jpg",
-      "category": "World Cinema"
     },
     {
       "id": "94a3fbd9ce99def9",
@@ -97,17 +185,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "0867d15d472b4603",
-      "title": "“Enough!”: Joel Coen & Tony Kushner Among Jewish Artists Behind Open Letter In Support Of Mark Ruffalo Against “Dangerous Weaponization” Of Antisemitism",
-      "quote": "An open letter titled “Enough!” that has been signed by Jewish artists and thinkers from across the world has been published in response to Mark Ruffalo being accused of antisemitism by a Paramount spokesperson for…",
-      "publisher": "Deadline",
-      "author": "Zac Ntim",
-      "date": "2026-09-01T15:53:47+00:00",
-      "link": "https://deadline.com/2026/09/mark-ruffalo-enough-joel-coen-tony-kushner-open-letter-1237064189/",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Mark-Ruffalo-Paramount.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "8bdac3d5ea2624ee",
       "title": "How To Watch One Night Only At Home",
       "quote": "If you missed the 'sex Purge' movie One Night Only in theaters, you're in luck! Here's how to watch the rom-com at home.",
@@ -119,70 +196,15 @@
       "category": "Indie Gems"
     },
     {
-      "id": "f8046298a5f2eb03",
-      "title": "Russell Hollander’s North Of Moorpark Developing Neil Kleid’s Upcoming Horror Novel ‘Return To The Motherfreaking Fun Factory’ For Film",
-      "quote": "EXCLUSIVE: Ahead of Blackstone Publishing’s October 6th publishing of Return to the Motherfreaking Fun Factory, a new horror novel by Neil Kleid, Russell Hollander’s North of Moorpark has optioned rights for feature…",
-      "publisher": "Deadline",
-      "author": "Matthewgrobar",
-      "date": "2026-09-01T15:51:00+00:00",
-      "link": "https://deadline.com/2026/09/return-to-the-motherfreaking-fun-factory-movie-in-works-1237064183/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Russell-Hollander-_efde77.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "697c3cd1f51127b3",
-      "title": "Gal Gadot Throws Shade At DC Studios Over Wonder Woman 3, Henry Cavill's Superman Exit",
-      "quote": "Gal Gadot has shared some thoughts about how the Wonder Woman 3 situation was handled at DC Studios, and how Henry Cavill's time as Superman came to an end.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Ryan Scott)",
-      "date": "2026-09-01T15:45:22+00:00",
-      "link": "https://www.slashfilm.com/2248637/gal-gadot-shade-dc-studios-wonder-woman-3-henry-cavill-superman-exit/",
-      "image": "https://www.slashfilm.com/img/gallery/gal-gadot-throws-shade-at-dc-studios-over-wonder-woman-3-henry-cavills-superman-exit/l-intro-1788277190.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "6559533b66f73b03",
-      "title": "20 Years Ago Today: One Of The Worst Horror Remakes Ever Made Was Released",
-      "quote": "Nicolas Cage, a badly burned doll, and some angry bees are all essential moments in the 2006 remake of The Wicker Man, released 20 years ago today.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Chris Evangelista)",
-      "date": "2026-09-01T15:35:00+00:00",
-      "link": "https://www.slashfilm.com/2248593/the-wicker-man-worst-horror-remake-20-year-anniversary/",
-      "image": "https://www.slashfilm.com/img/gallery/the-wicker-man-worst-horror-remake-20-year-anniversary/l-intro-1788276513.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "ed9c9e5e77295e97",
-      "title": "How To Watch Dwayne Johnson's Live-Action Moana Movie At Home",
-      "quote": "Disney's live-action Moana remake is coming home, whether you like it or not. So, now you'll have twice as much Moana at home. You're welcome?",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Ethan Anderton)",
-      "date": "2026-09-01T14:58:37+00:00",
-      "link": "https://www.slashfilm.com/2248563/how-watch-dwayne-johnson-live-action-moana-movie-home/",
-      "image": "https://www.slashfilm.com/img/gallery/how-to-watch-dwayne-johnsons-live-action-moana-movie-at-home/l-intro-1788274636.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "f92301e2d3ad0643",
       "title": "‘Not just Hollywood crap’: Mike Leigh on the East End communist who brought world cinema to the UK",
-      "quote": "A new season at the BFI celebrates Contemporary Films and its founder Charles Cooper, who bet on Britain taking to Ingmar Bergman, Yasujiro Ozu, Stayajjit Ray – and a young Mike Leigh Occasionally, vital pieces of the…",
+      "quote": "A new season celebrates Contemporary Films and its founder Charles Cooper, who bet on Britain taking to Ingmar Bergman, Yasujiro Ozu, Satyajit Ray – and a young Mike Leigh Occasionally, vital pieces of the cultural…",
       "publisher": "The Guardian",
       "author": "Andrew Pulver",
       "date": "2026-09-01T14:05:03+00:00",
       "link": "https://www.theguardian.com/film/2026/sep/01/mike-leigh-contemporary-films-charles-cooper-bfi",
       "image": "https://i.guim.co.uk/img/media/62c3f18d9e0f53387602448083420970b14e16c5/59_0_1754_1403/master/1754.jpg?width=140&quality=85&auto=format&fit=max&s=900dfba64298426b3015efa9d2a629fc",
       "category": "World Cinema"
-    },
-    {
-      "id": "bd70821b3e131f53",
-      "title": "The Simpsons Got A Live-Action Intro In 2006 That's Extremely Bizarre",
-      "quote": "Homer, Marge, Bart, Lisa, Maggie, and other denizens of Springfield were brought to life in a bizarre live-action recreation of the Simpsons intro.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Devin Meenan)",
-      "date": "2026-09-01T14:00:00+00:00",
-      "link": "https://www.slashfilm.com/2247141/the-simpsons-live-action-intro-2006-promo/",
-      "image": "https://www.slashfilm.com/img/gallery/the-simpsons-got-a-live-action-intro-in-2006-thats-extremely-bizarre/l-intro-1788119893.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "eb150e9555179499",
@@ -205,17 +227,6 @@
       "link": "https://www.thehindu.com/entertainment/movies/toxic-yash-toxic-box-office-toxic-a-fairy-tale-for-grown-ups-geetu-mohandas-kiara-advani-nayanthara/article71414981.ece",
       "image": "https://th-i.thgim.com/public/entertainment/movies/ctpe00/article71415008.ece/alternates/LANDSCAPE_1200/Yash5.jpeg",
       "category": "Indian Cinema"
-    },
-    {
-      "id": "ebb614a571b12017",
-      "title": "How To Watch Kristen Stewart's The Wrong Girls At Home",
-      "quote": "The Wrong Girls, starring Kristen Stewart and Alia Shawkat, didn't get much theatrical attention, which is a bummer. But now you can watch it at home.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Bill Bria)",
-      "date": "2026-09-01T12:00:00+00:00",
-      "link": "https://www.slashfilm.com/2248388/how-watch-kristen-stewart-the-wrong-girls-at-home/",
-      "image": "https://www.slashfilm.com/img/gallery/how-to-watch-kristen-stewarts-the-wrong-girls-at-home/l-intro-1788262052.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "7e6ba2d834bff509",
@@ -512,17 +523,6 @@
       "date": "2026-08-31T11:00:00+00:00",
       "link": "https://www.bbc.com/culture/article/20260828-the-startling-1960s-theory-that-stonehenge-was-a-prehistoric-computer?ocid=global_culture_rss",
       "image": "https://ychef.files.bbci.co.uk/144x81/p0p6sgfq.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "8499ceb215b0a890",
-      "title": "Parasomnia review – sleep-schedule horror conjures up a succubus on the loose in waking nightmare",
-      "quote": "Debut director James Ross II shows promise in this gore fest, but the fear factor suffers from an overly complex plot Sleep has been part of the horror genre repertoire since The Cabinet of Dr Caligari, and the…",
-      "publisher": "The Guardian",
-      "author": "Phil Hoad",
-      "date": "2026-08-31T10:00:21+00:00",
-      "link": "https://www.theguardian.com/film/2026/aug/31/parasomnia-review-sleep-schedule-horror-conjures-up-a-succubus-on-the-loose-in-waking-nightmare",
-      "image": "https://i.guim.co.uk/img/media/c325224ba24b2af0dcc2eaf96378e92c1dbacd7c/1152_0_3375_2703/master/3375.jpg?width=140&quality=85&auto=format&fit=max&s=e782d48e328d779b31c268c3237b8a3a",
       "category": "World Cinema"
     },
     {
