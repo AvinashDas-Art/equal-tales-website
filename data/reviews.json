@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T20:54:40.903458+00:00",
+  "generated_at": "2026-09-02T04:04:21.915260+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -9,26 +9,147 @@
   ],
   "reviews": [
     {
-      "id": "e9e418c750673086",
-      "title": "Major League Baseball’s L.A. Angels Sold By Arte Moreno To Rams Owner Stan Kroenke",
-      "quote": "Los Angeles Angels owner Arte Moreno is selling the Major League Baseball team to Stan Kroenke, owner of sports franchises including the NFL’s L.A. Rams. The sale price was not divulged by the parties, but numerous…",
-      "publisher": "Deadline",
-      "author": "Dade Hayes",
-      "date": "2026-09-01T20:37:19+00:00",
-      "link": "https://deadline.com/2026/09/major-league-baseball-los-angeles-angels-sold-to-stan-kroenke-1237064593/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Stan-Kroneke.jpg",
+      "id": "468fe85833d647ac",
+      "title": "‘The Runner’ Review: Gal Gadot Is a Mother on a Rescue Mission in an Energetic but Uninspired Amazon Thriller",
+      "quote": "A frantic journey across London on foot provides a lot of exercise for Gal Gadot, but not much reward for viewers, in “The Runner.” Hardly the first thriller centering on an exceptionally action-ready parent surmounting…",
+      "publisher": "Variety",
+      "author": "Dharv2014",
+      "date": "2026-09-02T04:00:00+00:00",
+      "link": "https://variety.com/2026/film/reviews/the-runner-review-gal-gadot-1236847013/",
+      "image": "https://variety.com/wp-content/uploads/2026/07/RUNNER_3.jpg",
       "category": "World Cinema"
     },
     {
-      "id": "42eb79ebe1deb03e",
-      "title": "‘Grand Theft Auto VI’ Extended Preview Is Netflix’s Most-Watched Weekly Title",
-      "quote": "Netflix’s most-watched title last week wasn’t a film or a television series. Rather, it was a video game preview. A 27-minute extended look at Grand Theft Auto VI landed on Netflix on August 27, raking in 31.1 million…",
+      "id": "9d38316e3ef977b3",
+      "title": "Victor Miller Dies: ‘Friday The 13th’ Screenwriter Was 86",
+      "quote": "Victor Miller, the screenwriter behind Friday the 13th, has died. He was 86. Miller’s son Ian confirmed his father had died on Monday, August 30, but didn’t reveal the cause of death. “Yesterday my father, Victor…",
       "publisher": "Deadline",
-      "author": "Katie Campione",
-      "date": "2026-09-01T20:36:04+00:00",
-      "link": "https://deadline.com/2026/09/grand-theft-auto-vi-netflix-preview-viewership-top-10-1237064600/",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/image-1.jpeg",
+      "author": "Armando Tinoco",
+      "date": "2026-09-02T03:40:17+00:00",
+      "link": "https://deadline.com/2026/09/victor-miller-dead-friday-the-13th-screenwriter-1237065085/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/victor-miller-friday-the-13th-screenwriter-dead.jpg",
       "category": "World Cinema"
+    },
+    {
+      "id": "4d8ac8dfb4fa73f4",
+      "title": "Danny Booko & Nia Sanchez Exit ‘The Valley’ After 3 Seasons",
+      "quote": "No more commutes to Santa Clarita for the cast of The Valley, as Danny Booko and Nia Sanchez are leaving the Bravo reality series after three seasons. News of Sanchez and Booko’s departure comes as Season 4 ramps up…",
+      "publisher": "Deadline",
+      "author": "Armando Tinoco",
+      "date": "2026-09-02T01:41:46+00:00",
+      "link": "https://deadline.com/2026/09/danny-booko-nia-sanchez-exit-the-valley-bravo-1237064737/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/danny-booko-nia-sanchez-the-valley.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "6e6fbbbcc04f358a",
+      "title": "Chris McKenna Calls ‘General Hospital’ Exit “Disappointing”: “But This Was A Gift”",
+      "quote": "Chris McKenna is opening up about his exit from ABC’s General Hospital after joining the daytime soap in 2025. The actor played Jack Brennan, replacing Charles Measure starting in February 2025. McKenna’s time on GH…",
+      "publisher": "Deadline",
+      "author": "Armando Tinoco",
+      "date": "2026-09-02T01:05:23+00:00",
+      "link": "https://deadline.com/2026/09/chris-mckenna-general-hospital-exit-disappointing-1237064924/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/chris-mckenna-general-hospital-abc-exit.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "43a273726a0ab0c4",
+      "title": "5 Forgotten '70s Sitcoms That Still Hold Up Today",
+      "quote": "The 1970s was a golden decade for TV sitcoms. Here are five forgotten '70s sitcoms that are well worth watching... if you can track them down.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (BJ Colangelo)",
+      "date": "2026-09-02T00:45:00+00:00",
+      "link": "https://www.slashfilm.com/2247193/forgotten-70s-sitcoms-still-hold-up-today/",
+      "image": "https://www.slashfilm.com/img/gallery/5-forgotten-70s-sitcoms-that-still-hold-up-today/l-intro-1788136514.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "3d4a645265a052ae",
+      "title": "Donald Trump Doubles Down On Still Vague Federal Film & TV Tax Incentive Amid Praise From SAG-AFTRA, Other Unions",
+      "quote": "A day after endorsing a bipartisan move for a federal film and TV tax incentive, Donald Trump is doubling down on the initiative. With jobs, jobs, jobs and production, production, production at the heart of the…",
+      "publisher": "Deadline",
+      "author": "Dominic Patten",
+      "date": "2026-09-02T00:36:56+00:00",
+      "link": "https://deadline.com/2026/09/trump-federal-film-tax-credit-1237064841/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/trump-aug-31-getty.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "112640f3ffd6084a",
+      "title": "Apple Unveils Pay Package For New CEO John Ternus",
+      "quote": "Apple set a pay package worth $58 million for new CEO John Ternus, who formally took the reins from longtime chief executive Tim Cook on Tuesday. His compensation includes a $3 million annual salary and equity grants…",
+      "publisher": "Deadline",
+      "author": "Jillg366",
+      "date": "2026-09-01T23:59:12+00:00",
+      "link": "https://deadline.com/2026/09/apple-unveils-pay-package-for-new-ceo-john-ternus-1237064858/",
+      "image": "https://deadline.com/wp-content/uploads/2026/07/BUC00840.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "6e4370f8da5eca05",
+      "title": "Onslaught Director Adam Wingard Reveals The Hardest Part Of Making His Godzilla Movies [Exclusive]",
+      "quote": "Adam Wingard went from indie horror darling to helming two blockbusters with Godzilla and King Kong, and told us the hardest part about making a Godzilla movie.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Witney Seibold)",
+      "date": "2026-09-01T23:53:23+00:00",
+      "link": "https://www.slashfilm.com/2249188/onslaught-director-adam-wingard-hardest-part-godzilla-movies/",
+      "image": "https://www.slashfilm.com/img/gallery/onslaught-director-adam-wingard-reveals-the-hardest-part-of-making-his-godzilla-movies-exclusive/l-intro-1788306583.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "075a0f2c140f69f9",
+      "title": "‘Hard Knocks’ Producer On What Makes Docuseries Special, Why The Seattle Seahawks Won The Super Bowl & Teases 2027’s ‘Offseason’",
+      "quote": "Hard Knocks gives an inside look at how NFL teams gear up for football season, and this year, the HBO and NFL Films docuseries featured the reigning Super Bowl champions, the Seattle Seahawks. As the season wraps up…",
+      "publisher": "Deadline",
+      "author": "Armando Tinoco",
+      "date": "2026-09-01T23:45:00+00:00",
+      "link": "https://deadline.com/2026/09/hard-knocks-docuseries-seattle-seahawks-2027-offseason-1237064727/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/hard-knocks-seattle-seahawks.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "98be24795398bd74",
+      "title": "Doc Talk Podcast Goes Live With Director Poh Si Teng And Physicians Of ‘American Doctor’",
+      "quote": "Dr. Mark Perlmutter doesn’t mince words describing what he saw as an American orthopedic surgeon volunteering in Gaza hospitals. He calls the killing of thousands of Palestinian children in Gaza by the Israel Defense…",
+      "publisher": "Deadline",
+      "author": "Patrick Hipes",
+      "date": "2026-09-01T23:30:00+00:00",
+      "link": "https://deadline.com/2026/09/american-doctor-director-interview-doc-talk-1237064634/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Doc-Talk-co-host-John-Ridley-Doc-Talk-co-host-Matt-Carey-American-Doctor-director-Poh-Si-Teng-Dr.-Mark-Perlmutter-Dr.-Feroze-Sidhwa-Dr.-Thaer-Ahmad.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "48ff6d01394dcfda",
+      "title": "JioHotstar Streaming Service Goes Global With Launches Across UK, Canada & Singapore",
+      "quote": "India’s JioStar is launching its JioHotstar streaming brand in UK, Canada and Singapore, replacing the existing Hotstar service and upgrading some of the interactive and user experience features on the app in those…",
+      "publisher": "Deadline",
+      "author": "Liz Shackleton",
+      "date": "2026-09-01T23:00:00+00:00",
+      "link": "https://deadline.com/2026/09/jiohotstar-dhurandhar-bigg-boss-uk-canada-singapore-1237063983/",
+      "image": "https://deadline.com/wp-content/uploads/2026/01/Dhurandhar1.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "344eb0dff83c5ae0",
+      "title": "Yellowstone Star Gil Birmingham Voices An X-Men '97 Character That Deserves More Screen Time",
+      "quote": "Any future seasons of X-Men '97 would be smart to give us more Forge, the mutant character voiced by Yellowstone star Gil Birmingham.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Devin Meenan)",
+      "date": "2026-09-01T23:00:00+00:00",
+      "link": "https://www.slashfilm.com/2247497/yellowstone-gil-birmingham-x-men-97-forge/",
+      "image": "https://www.slashfilm.com/img/gallery/yellowstone-star-gil-birmingham-voices-an-x-men-97-character-that-deserves-more-screen-time/l-intro-1788186613.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "7a08d6efa0adb45e",
+      "title": "Turns out the Entourage set was as sexist as the show",
+      "quote": "Entourage star Debi Mazar says the longer the show went on, the more \"toxic\" and \"testosterone-fueled\" the set became.",
+      "publisher": "The A.V. Club",
+      "author": "Matt Schimkowitz",
+      "date": "2026-09-01T21:08:32+00:00",
+      "link": "https://www.avclub.com/entourage-set-sexist-debi-mazar",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/01170101/debi-maza-feature.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "ad03301e941ef80c",
@@ -42,37 +163,15 @@
       "category": "Indie Gems"
     },
     {
-      "id": "225e134bb17f49c3",
-      "title": "Wes Studi & Dane DiLiegro Board Amazon MGM Studio’s ‘Seasons’ Opposite Lily James & Jack Reynor",
-      "quote": "EXCLUSIVE: Wes Studi and Dane DiLiegro have joined the cast of Amazon MGM Studios’ Seasons from writer-director Drew Hancock alongside previously announced stars, Lily James, Jack Reynor, Ron Perlman, and Elizabeth…",
-      "publisher": "Deadline",
-      "author": "Anthonypauldalessandro",
-      "date": "2026-09-01T20:29:58+00:00",
-      "link": "https://deadline.com/2026/09/amazon-seasons-wes-studi-dane-diliegro-1237064581/",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Wes-Studi-and-Dane-DiLiegro.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "f16ab8a139bdb4cd",
-      "title": "Block The Merger Coalition Releases New Video Urging “No Concessions” On Paramount-WBD",
-      "quote": "Hannah Einbinder, Bradley Whitford, Rati Gupta, W. Kamau Bell, Kristen Vangsness and Jane Fonda urged opposition to the Paramount-Warner Bros. Discovery deal in new video from Hollywood’s Block the Merger Coalition to…",
-      "publisher": "Deadline",
-      "author": "Jillg366",
-      "date": "2026-09-01T20:21:55+00:00",
-      "link": "https://deadline.com/2026/09/hollywood-block-the-merger-new-video-paramount-warner-bros-1237064503/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/JAne-Fonda.jpg",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "c7976f67a23c0aa5",
-      "title": "Dave Boyle To Direct Reimagining Of Japanese Horror Film ‘Pulse’ For Screen Gems, Spyglass & Parker Finn’s Bad Feeling",
-      "quote": "EXCLUSIVE: Sony’s Screen Gems and Spyglass are developing a reimagining of the Japanese horror film Pulse, with Dave Boyle attached to direct, Deadline has learned. Boyle is also set for a pass on a script by Luke…",
-      "publisher": "Deadline",
-      "author": "Matthewgrobar",
-      "date": "2026-09-01T19:59:31+00:00",
-      "link": "https://deadline.com/2026/09/pulse-remake-dave-boyle-to-direct-screen-gems-spyglass-1237064544/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/240208_netflix0907.jpg",
-      "category": "World Cinema"
+      "id": "838eaf158cdf75ce",
+      "title": "Avengers: Secret Wars adds Noah Jupe to its enormous cast",
+      "quote": "The Quiet Place star has joined the superhero jamboree in an undisclosed role.",
+      "publisher": "The A.V. Club",
+      "author": "Jarrod Jones",
+      "date": "2026-09-01T19:59:22+00:00",
+      "link": "https://www.avclub.com/noah-jupe-joins-avengers-secret-wars",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/01155417/jupe-sink-header.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "e45bd10978e43001",
@@ -86,15 +185,26 @@
       "category": "Indie Gems"
     },
     {
-      "id": "ae1b13b5761fa30a",
-      "title": "Randy Rainbow Returns To CAA",
-      "quote": "EXCLUSIVE: Randy Rainbow, the six-time Emmy and Grammy-nominated comedian, singer, and actor, has signed with CAA. Most recently with WME, he thereby returns to an agency he first signed with in early 2020. With more…",
-      "publisher": "Deadline",
-      "author": "Matthewgrobar",
-      "date": "2026-09-01T19:39:04+00:00",
-      "link": "https://deadline.com/2026/09/randy-rainbow-signs-caa-1237064510/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Randy-Rainbow-Headshot.png",
-      "category": "World Cinema"
+      "id": "ab7486b92db95802",
+      "title": "Netflix rushes out doc about Trump leaving American press to die on that plane",
+      "quote": "Netflix's <i>Instadoc: The Decoy Plane</i> makes quick work of Trump's deception.",
+      "publisher": "The A.V. Club",
+      "author": "Dennis Perkins",
+      "date": "2026-09-01T19:44:41+00:00",
+      "link": "https://www.avclub.com/trump-netflix-decoy-plane",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/01154117/AF1-feature.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "05ef68f4b3d48f8c",
+      "title": "170 Jewish creatives defend Mark Ruffalo from antisemitism charges",
+      "quote": "Fighting Paramount's accusations of antisemitism against the Marvel mainstay, Joel Coen, Ilana Glazer, Tony Kushner, Jane Schoenbrun, Wallace Shawn, Todd Haynes, and 160 more have come to Ruffalo's defense.&nbsp;",
+      "publisher": "The A.V. Club",
+      "author": "Matt Schimkowitz",
+      "date": "2026-09-01T19:39:08+00:00",
+      "link": "https://www.avclub.com/jewish-creatives-open-letter-mark-ruffalo-antisemitism",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/21212747/mark-ruffalo-feature.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "d0baecd652314d56",
@@ -104,30 +214,41 @@
       "author": "staff@slashfilm.com (Sandy Schaefer)",
       "date": "2026-09-01T19:30:00+00:00",
       "link": "https://www.slashfilm.com/2248842/ridley-scott-blame-paul-mescal-gladiator-2-box-office/",
-      "image": "https://www.slashfilm.com/img/gallery/ridley-scott-blame-paul-mescal-gladiator-2-box-office/l-intro-1788295718.jpg",
+      "image": "https://www.slashfilm.com/img/gallery/ridley-scott-blame-paul-mescal-gladiator-2-box-office/l-intro-1788304460.jpg",
       "category": "Indie Gems"
     },
     {
-      "id": "551a59f5a9c4e532",
-      "title": "‘Moulin Rouge!’ With Aaron Tveit Bids Adieu With Best Gross In Years – Broadway Box Office",
-      "quote": "The final performances of Moulin Rouge! The Musical easily topped this week’s Broadway box office chart, grossing a big $2,336,973 at the Al Hirschfeld Theatre, a nice jump of $140,768 over the previous week. With…",
-      "publisher": "Deadline",
-      "author": "Greg Evans",
-      "date": "2026-09-01T19:24:50+00:00",
-      "link": "https://deadline.com/2026/09/broadway-box-office-moulin-rouge-paranormal-activity-1237064092/",
-      "image": "https://deadline.com/wp-content/uploads/2018/11/moulin-rouge.jpeg",
-      "category": "World Cinema"
+      "id": "a76a71d19923de44",
+      "title": "Read This: Inside the poo-festooned human labor that keeps Waymo rolling",
+      "quote": "A San Francisco outlet details the grody duties one anonymous contractor has performed to turn a buck.",
+      "publisher": "The A.V. Club",
+      "author": "Jarrod Jones",
+      "date": "2026-09-01T19:07:53+00:00",
+      "link": "https://www.avclub.com/read-this-waymo-human-work-demands-discussed-in-interview",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/01145934/waymo-header.jpg",
+      "category": "Indie Gems"
     },
     {
-      "id": "17bf30ffebe5f25a",
-      "title": "Audible’s ‘Harry Potter’ Full-Cast Audiobooks Conjure Over 5M Sales",
-      "quote": "EXCLUSIVE: Audible’s Harry Potter: The Full-Cast Audio Editions have sold over 5M copies. Amazon-owned Audible started releasing new versions of the J.K. Rowling series last November, with a glitzy cast voicing the…",
-      "publisher": "Deadline",
-      "author": "Stewart Clarke",
-      "date": "2026-09-01T19:18:31+00:00",
-      "link": "https://deadline.com/2026/09/harry-potter-full-cast-audiobooks-5m-sales-audible-1237064178/",
-      "image": "https://deadline.com/wp-content/uploads/2025/07/Harry-Potter-2.jpg",
-      "category": "World Cinema"
+      "id": "3fdc8a5b064fc49a",
+      "title": "The Varnell Hill Show is stuck in permanent reruns",
+      "quote": "Paramount+'s Martin spin-off strands a pantheon of comedy legends in an idea that stopped evolving 30 years ago.",
+      "publisher": "The A.V. Club",
+      "author": "Shannon Miller",
+      "date": "2026-09-01T19:00:19+00:00",
+      "link": "https://www.avclub.com/varnell-hill-show-review-paramount-plus-tommy-davidson-martin-lawrence",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/01144300/MixCollage-01-Sep-2026-01-39-PM-315.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "8fb36affe3d35308",
+      "title": "How much does The Shards expect us to care?",
+      "quote": "Two A.V. Clubbers discuss what’s lost and gained in Ryan Murphy’s reshaping of Bret Easton Ellis’ 2023 novel.",
+      "publisher": "The A.V. Club",
+      "author": "The A.V. Club",
+      "date": "2026-09-01T19:00:03+00:00",
+      "link": "https://www.avclub.com/the-shards-book-to-show-changes-ryan-murphy-bret-easton-ellis",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/31150624/the-shards.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "d7b29e3e1d0ef45d",
@@ -138,6 +259,17 @@
       "date": "2026-09-01T19:00:00+00:00",
       "link": "https://www.slashfilm.com/2211884/why-the-terminator-credits-thank-you-sci-fi-author-harlan-ellison/",
       "image": "https://www.slashfilm.com/img/gallery/why-the-terminator-credits-include-a-thank-you-to-sci-fi-author-harlan-ellison/l-intro-1783630130.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "8dce75f4681dc205",
+      "title": "MrBeast's collaboration with writer James Patterson may be in danger",
+      "quote": "A publishing insider says preorders suggest <i>The Most Dangerous Games</i> is \"on track to be a historic bomb.\"",
+      "publisher": "The A.V. Club",
+      "author": "Dennis Perkins",
+      "date": "2026-09-01T18:46:09+00:00",
+      "link": "https://www.avclub.com/mrbeast-james-patterson-bomb",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/01143023/featurebeast.jpg",
       "category": "Indie Gems"
     },
     {
@@ -160,39 +292,6 @@
       "date": "2026-09-01T17:00:00+00:00",
       "link": "https://www.slashfilm.com/2241255/scariest-marvel-cinematic-universe-villains-ranked/",
       "image": "https://www.slashfilm.com/img/gallery/scariest-marvel-cinematic-universe-villains-ranked/l-intro-1787678178.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "a0c09a3b7eaa2453",
-      "title": "Street Fight Trailer: This Looks Like The Movie Mortal Kombat Wishes It Was",
-      "quote": "The latest action-packed Street Fighter movie trailer is here to remind us again what those new Mortal Kombat movies did so wrong.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (SlashFilm Staff)",
-      "date": "2026-09-01T16:13:51+00:00",
-      "link": "https://www.slashfilm.com/2248673/street-fighter-movie-trailer/",
-      "image": "https://www.slashfilm.com/img/gallery/street-fighter-movie-trailer/l-intro-1788280677.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "94a3fbd9ce99def9",
-      "title": "Project Hail Mary Writer Andy Weir's Next Book May Tackle A Hot Button Topic",
-      "quote": "Hollywood is eagerly awaiting the next book from Project Hail Mary and The Martian author Andy Weir - and it's going to tackle a hot button topic.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-09-01T16:00:00+00:00",
-      "link": "https://www.slashfilm.com/2242326/project-hail-mary-andy-weir-next-book-may-tackle-artificial-intelligence/",
-      "image": "https://www.slashfilm.com/img/gallery/project-hail-mary-writer-andy-weirs-next-book-may-tackle-a-hot-button-topic/l-intro-1787525882.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "8bdac3d5ea2624ee",
-      "title": "How To Watch One Night Only At Home",
-      "quote": "If you missed the 'sex Purge' movie One Night Only in theaters, you're in luck! Here's how to watch the rom-com at home.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Rafael Motamayor)",
-      "date": "2026-09-01T15:53:38+00:00",
-      "link": "https://www.slashfilm.com/2248648/how-watch-one-night-only-home/",
-      "image": "https://www.slashfilm.com/img/gallery/how-to-watch-one-night-only-at-home/l-intro-1788277858.jpg",
       "category": "Indie Gems"
     },
     {
@@ -350,39 +449,6 @@
       "category": "Indian Cinema"
     },
     {
-      "id": "c30bf37c4a6a8356",
-      "title": "Disney returns live-action Gargoyles to frozen perch atop Magic Kingdom",
-      "quote": "One of the creative leads on the original Gargoyles cartoon, Greg Weisman, says the live-action project is \"dead.\"",
-      "publisher": "The A.V. Club",
-      "author": "Matt Schimkowitz",
-      "date": "2026-09-01T00:10:26+00:00",
-      "link": "https://www.avclub.com/gargoyles-live-action-series-dead",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/31195721/gargoyles-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "353c4b1cdca8eb24",
-      "title": "Priscilla, Queen Of The Desert 2 \"probably\" two years away",
-      "quote": "Some scenes for a sequel to the 1994 cult hit, Priscilla, Queen Of The Desert were shot ahead of star Terence Stamp's death last year.",
-      "publisher": "The A.V. Club",
-      "author": "Matt Schimkowitz",
-      "date": "2026-08-31T23:07:07+00:00",
-      "link": "https://www.avclub.com/priscilla-queen-of-the-desert-sequel-2028",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/31190340/Priscilla-queen-of-desert-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "a0dce7b5cd0c1010",
-      "title": "Pokémon draws a Wild Card in teaser for new animated, trading card-focused movie",
-      "quote": "Pokémon: Wild Card finally integrates its wildly popular and lucrative trading card game into the Pocket Monster's animated canon.",
-      "publisher": "The A.V. Club",
-      "author": "Matt Schimkowitz",
-      "date": "2026-08-31T21:46:24+00:00",
-      "link": "https://www.avclub.com/pokemon-wild-card-teaser-trailer",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/31172924/pokemon-wild-card-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "725477a05e967bda",
       "title": "‘Sacred Creatures’ Review: Slippery Canadian-Italian Satire Follows the Cult and Collapse of a Questionable Guru",
       "quote": "As the great Aretha Franklin taught us, it’s usually a backhanded approach to begin a critique with praise for the gowns. Or gown, in the case of “Sacred Creatures,” a microbudget hothouse drama otherwise not given to…",
@@ -392,61 +458,6 @@
       "link": "https://variety.com/2026/film/reviews/sacred-creatures-review-1236847462/",
       "image": "https://variety.com/wp-content/uploads/2026/08/sacred-creatures.webp",
       "category": "World Cinema"
-    },
-    {
-      "id": "a7557c527a38dff1",
-      "title": "With Penguin on ice, HBO is developing new show from its creator",
-      "quote": "Penguin creator Lauren LeFranc will executive produce Imposter, a new mystery series created by former Lucasfilm intern Kalos Chu.",
-      "publisher": "The A.V. Club",
-      "author": "Matt Schimkowitz",
-      "date": "2026-08-31T20:12:46+00:00",
-      "link": "https://www.avclub.com/penguin-creator-lauren-lefranc-kalos-chu-imposter-series",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2025/02/24200701/penguin-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "5ee9dd30fb5c9d60",
-      "title": "The best Netflix original movies",
-      "quote": "The best movies on Netflix include everything from Oscar nominees to buzzy international dramas and everything in between.",
-      "publisher": "The A.V. Club",
-      "author": "The A.V. Club",
-      "date": "2026-08-31T20:00:00+00:00",
-      "link": "https://www.avclub.com/best-netflix-movies-originals",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/07/31150632/Netflix-Wake-Up-Dead-Man.jpg",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "5cbfa215af4adc07",
-      "title": "NBC News stands by Kristen Welker after Trump directs FCC to punish her",
-      "quote": "The <i>Meet The Press</i> host had said that the President's endorsements achieved \"mixed results.\"",
-      "publisher": "The A.V. Club",
-      "author": "Drew Gillis",
-      "date": "2026-08-31T19:52:27+00:00",
-      "link": "https://www.avclub.com/trump-fcc-kristen-welker",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/31153753/MixCollage-31-Aug-2026-03-37-PM-91.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "42256c68aa08181a",
-      "title": "Great Job, Internet!: \"Weird Al\" Yankovic finally uncovers the lost Al's Brain",
-      "quote": "The educational short was originally shown in 3-D at state fairs in 2009.",
-      "publisher": "The A.V. Club",
-      "author": "Dennis Perkins",
-      "date": "2026-08-31T19:10:03+00:00",
-      "link": "https://www.avclub.com/weird-al-als-brain",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/31150716/al-feature-1.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "371cdff9626d05d1",
-      "title": "Zack Snyder's The Last Photograph to make world premiere at the Toronto International Film Festival",
-      "quote": "The director's first independent feature will screen on September 13.",
-      "publisher": "The A.V. Club",
-      "author": "Jarrod Jones",
-      "date": "2026-08-31T18:07:58+00:00",
-      "link": "https://www.avclub.com/zack-snyder-last-photograph-tiff-announcement",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/17183851/last-photograph.jpg",
-      "category": "Festival Winners"
     },
     {
       "id": "a6aa4a405f144cef",
@@ -655,17 +666,6 @@
       "date": "2026-08-28T11:00:00+00:00",
       "link": "https://www.bbc.com/culture/article/20260827-five-reasons-why-the-gen-z-friends-is-impossible?ocid=global_culture_rss",
       "image": "https://ychef.files.bbci.co.uk/144x81/p0p6llbm.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "5d9d650fa1a0679d",
-      "title": "‘The Whisper Man’ Review: Diverting Netflix Serial Killer Chiller Doesn’t Demand Much of Robert De Niro",
-      "quote": "“The Whisper Man” is the first — and surely not the last — film to be adapted from the airport oeuvre of British crime novelist Steve Mosby, who since 2019 has written four books (including the source text here) under…",
-      "publisher": "Variety",
-      "author": "Guy Lodge",
-      "date": "2026-08-28T06:59:00+00:00",
-      "link": "https://variety.com/2026/film/reviews/the-whisper-man-review-robert-de-niro-adam-scott-1236845750/",
-      "image": "https://variety.com/wp-content/uploads/2026/07/MCDWHMA_ZX002.jpg",
       "category": "World Cinema"
     },
     {
