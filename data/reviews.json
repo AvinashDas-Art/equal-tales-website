@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T16:25:03.500293+00:00",
+  "generated_at": "2026-09-02T20:54:17.110897+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -9,15 +9,202 @@
   ],
   "reviews": [
     {
-      "id": "1bf21b42a409bb92",
-      "title": "Paul Schrader On ‘The Basics Of Philosophy’, The “Gift” Of Guilt & Tripping On Ayahuasca At Age 80 — Venice Film Festival",
-      "quote": "EXCLUSIVE: The indomitable Paul Schrader returns to the Venice Film Festival this year with The Basics Of Philosophy, the latest in his “man in a room” stories that began with his script for Martin Scorsese’s Taxi…",
+      "id": "e265d1519b094a87",
+      "title": "‘Ink’: What The Critics Are Saying About Danny Boyle’s Origin Story Of Brit Tabloid ‘The Sun’",
+      "quote": "Danny Boyle’s tabloid drama Ink, the origin story of Rupert Murdoch’s British tabloid The Sun, has opened the Venice Film Festival. James Graham’s script, starring Jack O’Connell, Guy Pearce (as Murdoch) and Claire Foy…",
       "publisher": "Deadline",
       "author": "Andreas Wiseman",
-      "date": "2026-09-02T16:20:06+00:00",
-      "link": "https://deadline.com/2026/09/paul-schrader-basics-of-philosophy-interview-venice-1237065393/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Paul-Schrader-The-Basics-of-Philosophy.jpg",
+      "date": "2026-09-02T20:38:18+00:00",
+      "link": "https://deadline.com/2026/09/ink-reviews-what-critics-saying-danny-boyle-the-sun-1237066043/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Ink_5b0c8c.jpg",
       "category": "Festival Winners"
+    },
+    {
+      "id": "85bee5d2b415e349",
+      "title": "‘Being Heumann’ Trailer: First Look At Siân Heder’s ‘CODA’ Follow-Up That Opens TIFF",
+      "quote": "Apple Original Films on Wednesday released the trailer for Being Heumann, the new film from Oscar-winning CODA filmmaker Siân Heder that is gearing up for its world premiere next week as the opening film of the Toronto…",
+      "publisher": "Deadline",
+      "author": "Patrick Hipes",
+      "date": "2026-09-02T20:27:10+00:00",
+      "link": "https://deadline.com/2026/09/being-heumann-trailer-sian-heder-1237066047/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Being-Heumann-2.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "4c792c2fcf3d53a7",
+      "title": "Simu Liu Signs With WME",
+      "quote": "EXCLUSIVE: Simu Liu has signed with WME for representation in all areas. As an actor, Liu is best known for playing the title role in Shang-Chi and the Legend of the Ten Rings, Marvel Studios’ first Asian-led superhero…",
+      "publisher": "Deadline",
+      "author": "Matthewgrobar",
+      "date": "2026-09-02T20:26:46+00:00",
+      "link": "https://deadline.com/2026/09/simu-liu-signs-wme-1237066070/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Simu_Liu_0722R.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "f975de8fbcaa7a58",
+      "title": "Robert Pattinson Finds ‘The Batman: Part II’ Fight Scenes “Significantly Harder”: “Feeling My Age”",
+      "quote": "While preparing to save Gotham City once again, Robert Pattinson is getting back into superhero shape. The actor, who is currently filming The Batman: Part II, recently noted that filming the fight scenes for the sequel…",
+      "publisher": "Deadline",
+      "author": "Glenn Garner",
+      "date": "2026-09-02T20:23:41+00:00",
+      "link": "https://deadline.com/2026/09/robert-pattinson-batman-ii-fight-scenes-significantly-harder-1237066064/",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/MCDBATM_WB058.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "75db3010b6f78eb9",
+      "title": "‘Judge Judy’ Celebrates 30th Anniversary In CBS Primetime Special With Steven Spielberg, Samuel L. Jackson & More",
+      "quote": "It’s been a remarkable 30 years for Judge Judy. CBS will celebrate America’s highest-rated court TV show in Judge Judy: Unfiltered, Unforgettable, a 90-minute primetime anniversary special timed to the show’s debut in…",
+      "publisher": "Deadline",
+      "author": "Denise Petski",
+      "date": "2026-09-02T20:22:02+00:00",
+      "link": "https://deadline.com/2026/09/judge-judy-cbs-anniversary-special-judy-sheindlin-1237066052/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/image-7.jpeg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "5f42efb4eaecbf51",
+      "title": "Danny Boyle’s ‘Ink’ Earns Five-Minute Ovation At Venice World Premiere",
+      "quote": "Danny Boyle’s Ink received a five-minute standing ovation this evening at the Venice Film Festival. The film, starring Jack O’Connell, Guy Pearce and Claire Foy, screened in Competition this evening with the actors and…",
+      "publisher": "Deadline",
+      "author": "Zac Ntim",
+      "date": "2026-09-02T20:03:57+00:00",
+      "link": "https://deadline.com/2026/09/danny-boyle-ink-ovation-venice-world-premiere-1237065170/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/INK_03383_R.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "03d338e3609b556a",
+      "title": "Why Ted From The Runner Looks So Familiar",
+      "quote": "If you watched Gal Gadot's action movie The Runner on Prime Video and the actor who played Ted looked familiar, here's where you've probably seen him.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Jeremy Smith)",
+      "date": "2026-09-02T19:49:06+00:00",
+      "link": "https://www.slashfilm.com/2249872/ted-the-runner-actor-alfred-enoch/",
+      "image": "https://www.slashfilm.com/img/gallery/why-ted-from-the-runner-looks-so-familiar/l-intro-1788378233.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "85666638908e5034",
+      "title": "Tim Curry’s Cause Of Death Revealed",
+      "quote": "We now have a cause of death for Rocky Horror Picture Show actor Tim Curry. Documents from the Los Angeles County Department of Public Health obtained by People reveal Curry died of coronary artery disease. A history of…",
+      "publisher": "Deadline",
+      "author": "Denise Petski",
+      "date": "2026-09-02T19:41:52+00:00",
+      "link": "https://deadline.com/2026/09/tim-curry-cause-of-death-1237066028/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-670641.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "00bd62a1812b2f5d",
+      "title": "Emmy Rossum & ‘Furious’ Creator Liz Meriwether On Interviewing Real Trafficking Survivors, Updating A 1987 Thriller & Season 2 “Croatian Beach” Dreams",
+      "quote": "As Furious viewers get closure on one character’s search for justice, series creator Liz Meriwether and star Emmy Rossum have some ideas for Season 2. Inspired by the 1987 thriller Black Widow, Rossum told Deadline…",
+      "publisher": "Deadline",
+      "author": "Glenn Garner",
+      "date": "2026-09-02T19:29:39+00:00",
+      "link": "https://deadline.com/2026/09/emmy-rossum-furious-liz-meriwether-trafficking-survivors-season-2-1237065707/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Emmy-Rossum-Furious.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "70f144d0aa587d1e",
+      "title": "Why Avengers: Doomsday Was Filmed Without A Finished Script, According To The Directors",
+      "quote": "The Russo brothers have tried to justify why Marvel Studios expected blockbuster Avengers: Doomsday was filmed without a finished script.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Joe Roberts)",
+      "date": "2026-09-02T19:00:00+00:00",
+      "link": "https://www.slashfilm.com/2249771/why-avengers-doomsday-filmed-without-finished-script/",
+      "image": "https://www.slashfilm.com/img/gallery/why-avengers-doomsday-was-filmed-without-a-finished-script-according-to-the-directors/l-intro-1788373609.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "ba4fd3f686a0d99e",
+      "title": "Obsession Campaigning For 15 Oscars, Including Inde Navarrette For Best Actress",
+      "quote": "It's official: Inde Navarette will be campaigning for a Best Actress Oscar for her star-making turn in the horror hit Obsession.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Witney Seibold)",
+      "date": "2026-09-02T18:12:48+00:00",
+      "link": "https://www.slashfilm.com/2249746/obsession-oscars-campaign-inde-navarrette-best-actress/",
+      "image": "https://www.slashfilm.com/img/gallery/obsession-campaigning-for-15-oscars-including-inde-navarrette-for-best-actress/l-intro-1788372263.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "a37c5c4016c60fbf",
+      "title": "‘Ink’ Review: Danny Boyle’s Gripping, Sizzling Film About How a People’s Paper Lost Its Humanity, and Won",
+      "quote": "“People need stories,” says Larry Lamb, beleaguered editor of leading British tabloid The Sun, at a late point in “Ink,” a propulsive, can’t-look-away account of his simultaneously triumphant and regrettable career…",
+      "publisher": "Variety",
+      "author": "Guy Lodge",
+      "date": "2026-09-02T18:00:00+00:00",
+      "link": "https://variety.com/2026/film/reviews/ink-review-1236849047/",
+      "image": "https://variety.com/wp-content/uploads/2026/08/Ink-Guy-Pearce-Jack-Oconnell-1.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "e8ebd08e35148c03",
+      "title": "‘Ink’ Review: Jack O’Connell and Guy Pearce Trace Rupert Murdoch’s Fleet Street Rise in Breathlessly Paced, Morally Opaque Danny Boyle Drama",
+      "quote": "Claire Foy also stars in this Venice opener adapted by James Graham from his play about the transformation of U.K. tabloid culture into mass-market low-brow entertainment.",
+      "publisher": "The Hollywood Reporter",
+      "author": "David Rooney",
+      "date": "2026-09-02T18:00:00+00:00",
+      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/ink-review-jack-oconnell-guy-pearce-danny-boyle-murdoch-1236686614/",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "56db466082e92942",
+      "title": "Harry Potter HBO Series: First Look At Luke Thallon As Professor Quirrell",
+      "quote": "Professor Quirrell will play a key role in the first season of HBO's Harry Potter series. Here's your first look at Luke Thallon in the role.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Nina Starner)",
+      "date": "2026-09-02T17:41:44+00:00",
+      "link": "https://www.slashfilm.com/2249698/harry-potter-hbo-series-luke-thallon-professor-quirrell-first-look/",
+      "image": "https://www.slashfilm.com/img/gallery/harry-potter-hbo-series-luke-thallon-professor-quirrell-first-look/l-intro-1788381734.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "60c19261b78cfb3a",
+      "title": "Why The Caller From The Runner Looks So Familiar",
+      "quote": "In The Runner, Gal Gadot has to run around under orders of a mysterious villain known as The Caller. Here's who plays the character.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Ryan Scott)",
+      "date": "2026-09-02T17:00:58+00:00",
+      "link": "https://www.slashfilm.com/2249661/caller-the-runner-actor-damian-lewis/",
+      "image": "https://www.slashfilm.com/img/gallery/why-the-caller-from-the-runner-looks-so-familiar/l-intro-1788367946.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "41516114428ad9cd",
+      "title": "Harrison Ford's Sci-Fi Box Office Flop Based On A Beloved Book Is Streaming On Prime Video",
+      "quote": "Harrison Ford has starred in two of the most loved sci-fi films of all time, but he also appeared in this unfortunately sci-fi flop.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Joe Roberts)",
+      "date": "2026-09-02T17:00:00+00:00",
+      "link": "https://www.slashfilm.com/2249210/harrison-ford-sci-fi-box-office-flop-enders-game-streaming-prime-video/",
+      "image": "https://www.slashfilm.com/img/gallery/harrison-fords-sci-fi-box-office-flop-based-on-a-beloved-book-is-streaming-on-prime-video/l-intro-1788310388.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "b5089de29bdae72f",
+      "title": "How One Small 2026 Horror Movie Defied The Odds And Became A Box Office Hit",
+      "quote": "Casper Kelly's horror film Buddy became a surprise box office hit in its debut weekend. Roadside Attractions president Howard Cohen tells us how it happened.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Ryan Scott)",
+      "date": "2026-09-02T16:39:22+00:00",
+      "link": "https://www.slashfilm.com/2249634/buddy-2026-horror-movie-box-office-success/",
+      "image": "https://www.slashfilm.com/img/gallery/how-one-small-2026-horror-movie-defied-the-odds-and-became-a-box-office-hit/l-intro-1788367058.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "177afaa43cd810b3",
+      "title": "‘The Runner’ Review: Gal Gadot Sprints Through a Ticking-Clock Thriller That’s Fun Enough if You Don’t Stop to Think About It",
+      "quote": "Kevin Macdonald ('Whitney,' 'The Last King of Scotland') directed this high-concept suspenser about a lawyer forced to run across London in order to save her kidnapped son.",
+      "publisher": "The Hollywood Reporter",
+      "author": "Jordan Mintzer",
+      "date": "2026-09-02T16:37:50+00:00",
+      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/the-runner-review-gal-gadot-kevin-macdonald-1236688022/",
+      "image": null,
+      "category": "World Cinema"
     },
     {
       "id": "43434fb192ea2859",
@@ -27,7 +214,7 @@
       "author": "Philip Oltermann in Venice",
       "date": "2026-09-02T16:07:56+00:00",
       "link": "https://www.theguardian.com/film/2026/sep/02/rupert-murdoch-very-happy-that-guy-pearce-plays-him-in-fleet-street-biopic-ink",
-      "image": "https://i.guim.co.uk/img/media/b99cd5d3a11a1938afacfa894edd780ad38eba5e/0_781_2668_2133/master/2668.jpg?width=140&quality=85&auto=format&fit=max&s=99d4a912b2d8e55ecdcd84049cfa8981",
+      "image": "https://i.guim.co.uk/img/media/0da888fc25409a334fb73a68fb1362937c97cdbe/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=812e2c5fec243c6770591d509ef268e9",
       "category": "Festival Winners"
     },
     {
@@ -64,28 +251,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "7811d54fd32a2c71",
-      "title": "‘Mayday’ Review: Kenneth Branagh Steals The Show From Top Gun Ryan Reynolds In Skydance & Apple’s Wild Buddy Action Comedy That Should Have Been In Theaters",
-      "quote": "David Ellison keeps pledging that Paramount and Warner Bros will release 30 movies a year each if the infamous ParaBros merger goes through. Hopefully they will even be good movies. That would be nice. But with Skydance…",
-      "publisher": "Deadline",
-      "author": "Pete Hammond",
-      "date": "2026-09-02T16:00:00+00:00",
-      "link": "https://deadline.com/2026/09/mayday-review-kenneth-branagh-ryan-reynolds-action-comedy-1237064857/",
-      "image": "https://deadline.com/wp-content/uploads/2026/02/mayday.image_.jpeg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "29136e0c940ed9b9",
-      "title": "Samson Kayo & Sonny Valicenti Join Apple TV Comedy ‘Protective Custody’ As Series Regulars",
-      "quote": "EXCLUSIVE: Protective Custody, Apple TV’s new comedy teaming Ben Stiller and Mike Judge, has brought aboard Samson Kayo (F1) and Sonny Valicenti (Mindhunter) for series regular roles. Character details for the duo are…",
-      "publisher": "Deadline",
-      "author": "Matthewgrobar",
-      "date": "2026-09-02T16:00:00+00:00",
-      "link": "https://deadline.com/2026/09/protective-custody-series-adds-samson-kayo-sonny-valicenti-1237065608/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Samson-Kayo-and-Sonny-Valicenti.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "caaf4995c7ace9dc",
       "title": "Mayday Review: Ryan Reynolds Is Sporadically Amusing In Apple's Cold War Midnight Run Riff",
       "quote": "Mayday tries to capture the spirit of a 1980s buddy action comedy, but Ryan Reynolds and Kenneth Branagh may not have been the right pair for the job.",
@@ -97,50 +262,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "e5c0194dc8e43405",
-      "title": "‘Harry Potter’ Trailer Gives Glimpse Of Sorting Ceremony, More Dumbledore & Snape In HBO Series",
-      "quote": "HBO has unveiled a new trailer for Harry Potter and the Philospher’s Stone, which begins with Harry (Dominic McLaughlin), Ron (Alastair Stout) and Hermione (Arabella Stanton) arriving for the sorting ceremony, where…",
-      "publisher": "Deadline",
-      "author": "Denise Petski",
-      "date": "2026-09-02T15:57:30+00:00",
-      "link": "https://deadline.com/2026/09/harry-potter-trailer-dumbledore-snape-hbo-1237065599/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/dominic-mclaughlin_38c1e5.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "b0c3c3b84ecda6f9",
-      "title": "Netflix Is ‘Playing With Matches’ In Its Next Social Experiment Reality Series",
-      "quote": "EXCLUSIVE: Netflix is continuing on its unscripted buying spree with a new social experiment series. The streamer has greenlit Playing with Matches (w/t). The series follows a group of couples competing in a game of…",
-      "publisher": "Deadline",
-      "author": "Peterdeadline",
-      "date": "2026-09-02T15:45:00+00:00",
-      "link": "https://deadline.com/2026/09/netflix-playing-with-matches-social-experiment-series-1237064415/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/MixCollage-01-Sep-2026-11-11-AM-3489.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "09f1d8306588a888",
-      "title": "Ariana Grande Tearfully Ends Tour Ahead Of Planned “Step Back From Visibility”: “I’ll Cherish This Experience Always”",
-      "quote": "Ariana Grande got emotional as she ended her 41-show tour ahead of a planned break from public life. The Eternal Sunshine Tour star addressed her fans on the last day of her 10-day residency at the O2 Arena in London on…",
-      "publisher": "Deadline",
-      "author": "Armando Tinoco",
-      "date": "2026-09-02T15:27:19+00:00",
-      "link": "https://deadline.com/2026/09/ariana-grande-tearfully-ends-tour-step-back-visibility-1237064965/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/ariana-grande-ends-tour.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "c5b3375b85cdaa9d",
-      "title": "Tiger Woods Pleads No Contest To Reckless Driving Charge In Florida Rollover Crash",
-      "quote": "Tiger Woods entered a no contest plea to reckless driving Wednesday following a rollover crash in March near his Florida home, a change from his initial not guilty plea. As part of the plea agreement, the Martin County…",
-      "publisher": "Deadline",
-      "author": "Denise Petski",
-      "date": "2026-09-02T15:24:10+00:00",
-      "link": "https://deadline.com/2026/09/tiger-woods-pleads-no-contest-reckless-driving-dui-1237065466/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2292604162.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "14575da7879a4d90",
       "title": "‘He’s a good man’: George Clooney defends Mark Ruffalo in Paramount-Warner Bros merger row",
       "quote": "‘I worry whenever big companies are consolidating,’ Clooney said at Venice film festival, supporting Ruffalo’s right to criticise the deal amid antisemitism accusations George Clooney has defended Mark Ruffalo’s right…",
@@ -149,39 +270,6 @@
       "date": "2026-09-02T15:08:54+00:00",
       "link": "https://www.theguardian.com/film/2026/sep/02/george-clooney-defends-mark-ruffalo-paramount-warner-bros-merger",
       "image": "https://i.guim.co.uk/img/media/2fc05e47101ed329d255ab0edc1316a8976fa59e/220_90_5599_4478/master/5599.jpg?width=140&quality=85&auto=format&fit=max&s=af134801fad0adef0b9b302e39dcaf74",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "c691d203dbb3334b",
-      "title": "Harry Potter Trailer: HBO's Remake Series Heads Back To Hogwarts",
-      "quote": "Harry Potter, Ron Weasley, Hermione Granger, and the rest deal with magic and mischief in the latest trailer for HBO's Harry Potter TV series.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Chris Evangelista)",
-      "date": "2026-09-02T15:08:53+00:00",
-      "link": "https://www.slashfilm.com/2249472/harry-potter-hbo-series-second-trailer/",
-      "image": "https://www.slashfilm.com/img/gallery/harry-potter-hbo-series-second-trailer/l-intro-1788362930.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "105852eb48c83e84",
-      "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
-      "quote": "Always Lalisa, the feature documentary following K-Pop star Lisa, will open in IMAX and cinemas worldwide for a limited engagement via Trafalgar Releasing beginning October 12, before streaming exclusively on YouTube…",
-      "publisher": "Deadline",
-      "author": "Greg Evans",
-      "date": "2026-09-02T15:08:32+00:00",
-      "link": "https://deadline.com/2026/09/always-lalisa-lisa-release-dates-1237065455/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/AlwaysLalisa-40x30-English.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "b5169273dfd748ef",
-      "title": "J.J. Abrams Helped Make This Gritty 2022 Crime Thriller Streaming On Netflix",
-      "quote": "Allison Janney starred in this J.J. Abrams-produced 2022 Netflix crime thriller, which finds the Oscar winner in Old Man Liam Neeson action mode.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Sandy Schaefer)",
-      "date": "2026-09-02T15:00:00+00:00",
-      "link": "https://www.slashfilm.com/2247779/jj-abrams-produced-2022-crime-thriller-lou-streaming-netflix/",
-      "image": "https://www.slashfilm.com/img/gallery/j-j-abrams-helped-make-this-gritty-2022-crime-thriller-streaming-on-netflix/l-intro-1788193737.jpg",
       "category": "Festival Winners"
     },
     {
@@ -284,28 +372,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "6a63214b5304cd24",
-      "title": "Fall 2: Deadpoint Review: This Successful Sequel Proves There Are More Dangerous Heights To Climb",
-      "quote": "The surprisingly fun thriller Fall didn't exactly warrant a sequel, but Fall 2: Deadpoint ends up rising to new heights. Here's our review.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Bill Bria)",
-      "date": "2026-09-02T14:00:00+00:00",
-      "link": "https://www.slashfilm.com/2249339/fall-2-movie-review/",
-      "image": "https://www.slashfilm.com/img/gallery/fall-2-deadpoint-review-this-successful-sequel-proves-there-are-more-dangerous-heights-to-climb/l-intro-1788348564.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "8c6a912442f6fa9b",
-      "title": "How Spider-Man's Betty Brant Actress Really Feels About Being Left Out Of Brand New Day",
-      "quote": "The character of Betty Brant wasn't included in Spider-Man: Brand New Day and the actress who plays her has expressed her feelings about it",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Ryan Scott)",
-      "date": "2026-09-02T14:00:00+00:00",
-      "link": "https://www.slashfilm.com/2249126/spider-man-betty-brant-actress-angourie-rice-feelings-not-in-brand-new-day/",
-      "image": "https://www.slashfilm.com/img/gallery/how-spider-mans-betty-brant-actress-really-feels-about-being-left-out-of-brand-new-day/l-intro-1788301046.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "36109093fc948ca3",
       "title": "The Runner",
       "quote": "The only exercise you’ll get is in your mind running through the ways it makes no sense.",
@@ -326,17 +392,6 @@
       "link": "https://www.rogerebert.com/reviews/turning-point-generation-9-11-netflix-documentary-tv-review-2026",
       "image": null,
       "category": "World Cinema"
-    },
-    {
-      "id": "0219f32a7fff1a5f",
-      "title": "Joel Kinnaman's Crime Thriller Series With 4 Seasons Is A Masterpiece Streaming On Hulu",
-      "quote": "If you have a subscription to Hulu or Disney+, you owe it to yourself to watch this incredible crime thriller series starring Joel Kinnaman.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-09-02T13:00:00+00:00",
-      "link": "https://www.slashfilm.com/2249111/joel-kinnaman-crime-thriller-series-the-killing-streaming-hulu/",
-      "image": "https://www.slashfilm.com/img/gallery/joel-kinnamans-crime-thriller-series-with-4-seasons-is-a-masterpiece-streaming-on-hulu/l-intro-1788299596.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "654ec796fbbe9b6d",
@@ -482,28 +537,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "43a273726a0ab0c4",
-      "title": "5 Forgotten '70s Sitcoms That Still Hold Up Today",
-      "quote": "The 1970s was a golden decade for TV sitcoms. Here are five forgotten '70s sitcoms that are well worth watching... if you can track them down.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (BJ Colangelo)",
-      "date": "2026-09-02T00:45:00+00:00",
-      "link": "https://www.slashfilm.com/2247193/forgotten-70s-sitcoms-still-hold-up-today/",
-      "image": "https://www.slashfilm.com/img/gallery/5-forgotten-70s-sitcoms-that-still-hold-up-today/l-intro-1788136514.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "6e4370f8da5eca05",
-      "title": "Onslaught Director Adam Wingard Reveals The Hardest Part Of Making His Godzilla Movies [Exclusive]",
-      "quote": "Adam Wingard went from indie horror darling to helming two blockbusters with Godzilla and King Kong, and told us the hardest part about making a Godzilla movie.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Witney Seibold)",
-      "date": "2026-09-01T23:53:23+00:00",
-      "link": "https://www.slashfilm.com/2249188/onslaught-director-adam-wingard-hardest-part-godzilla-movies/",
-      "image": "https://www.slashfilm.com/img/gallery/onslaught-director-adam-wingard-reveals-the-hardest-part-of-making-his-godzilla-movies-exclusive/l-intro-1788306583.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "e7b6d33f525eb1eb",
       "title": "Former Kratos turned down God Of War for health reasons, hopes Bautista stays healthy",
       "quote": "Christopher Judge, who voices Kratos in three <i>God Of War</i> games, explains how <i>Stargate</i> taught him bulking up to play a god isn't all it's cracked up to be.",
@@ -647,17 +680,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "a66bd97a909fb3a6",
-      "title": "‘Call My Agent! The Movie’ Review: Love-Hate Energy Keeps the Gang Together in a Fast, Funny Feature-Length Return",
-      "quote": "The rare reboot pitch that that can actually be greeted with “this again!” rather than “this again?,” “Call My Agent! The Movie” makes sense of its rote title in two ways. First, and most obviously, it’s a…",
-      "publisher": "Variety",
-      "author": "Guy Lodge",
-      "date": "2026-08-30T14:58:03+00:00",
-      "link": "https://variety.com/2026/film/reviews/call-my-agent-the-movie-review-1236846824/",
-      "image": "https://variety.com/wp-content/uploads/2026/08/call-.jpeg",
-      "category": "World Cinema"
-    },
-    {
       "id": "11d5ef3c598f962d",
       "title": "The Dog Stars",
       "quote": "This wasteland narrative is the most tedious film of Ridley Scott’s career.",
@@ -724,17 +746,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "51f1d35edcdcde27",
-      "title": "‘Finding Emily’ Review: Angourie Rice and Spike Fearn Can’t Conjure Enough Sparks to Save This Rom-Com From Its Toxic Premise",
-      "quote": "Minnie Driver co-stars in a film about a struggling musician searching for the girl that got away, and the psych student who decides to help him.",
-      "publisher": "The Hollywood Reporter",
-      "author": "Angie Han",
-      "date": "2026-08-27T20:00:33+00:00",
-      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/finding-emily-review-angourie-rice-1236681744/",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
       "id": "b23397987da6f138",
       "title": "The werewolf scene that took horror to extremes",
       "quote": "The comedy-horror's make-up maestro, Rick Baker, won an Oscar in a new category",
@@ -754,17 +765,6 @@
       "date": "2026-08-26T11:00:00+00:00",
       "link": "https://www.bbc.com/culture/article/20260522-the-best-books-of-2026?ocid=global_culture_rss",
       "image": "https://ychef.files.bbci.co.uk/144x81/p0p6b1pr.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "05ea84017d898b30",
-      "title": "Dolly Parton, a Hollywood Treasure Who Lit Up the Screen With Her Authentic Self",
-      "quote": "The country superstar was a luminous natural in a small but indelible body of much-loved feature films, chief among them '9 to 5,' 'The Best Little Whorehouse in Texas' and 'Steel Magnolias.'",
-      "publisher": "The Hollywood Reporter",
-      "author": "David Rooney",
-      "date": "2026-08-26T02:58:25+00:00",
-      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/dolly-parton-film-critic-tribute-9-to-5-steel-magnolias-1236681618/",
-      "image": null,
       "category": "World Cinema"
     },
     {
