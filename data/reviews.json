@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T11:03:51.899195+00:00",
+  "generated_at": "2026-09-02T16:25:03.500293+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -9,6 +9,369 @@
   ],
   "reviews": [
     {
+      "id": "1bf21b42a409bb92",
+      "title": "Paul Schrader On ‘The Basics Of Philosophy’, The “Gift” Of Guilt & Tripping On Ayahuasca At Age 80 — Venice Film Festival",
+      "quote": "EXCLUSIVE: The indomitable Paul Schrader returns to the Venice Film Festival this year with The Basics Of Philosophy, the latest in his “man in a room” stories that began with his script for Martin Scorsese’s Taxi…",
+      "publisher": "Deadline",
+      "author": "Andreas Wiseman",
+      "date": "2026-09-02T16:20:06+00:00",
+      "link": "https://deadline.com/2026/09/paul-schrader-basics-of-philosophy-interview-venice-1237065393/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Paul-Schrader-The-Basics-of-Philosophy.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "43434fb192ea2859",
+      "title": "Rupert Murdoch ‘very happy’ that Guy Pearce plays him in Fleet Street biopic Ink",
+      "quote": "Actor says the press baron’s daughter Elisabeth told him her father was pleased, ‘but he hadn’t seen the film at that point’ Rupert Murdoch is “very happy” that he’s being portrayed by Guy Pearce in a new film about the…",
+      "publisher": "The Guardian",
+      "author": "Philip Oltermann in Venice",
+      "date": "2026-09-02T16:07:56+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/02/rupert-murdoch-very-happy-that-guy-pearce-plays-him-in-fleet-street-biopic-ink",
+      "image": "https://i.guim.co.uk/img/media/b99cd5d3a11a1938afacfa894edd780ad38eba5e/0_781_2668_2133/master/2668.jpg?width=140&quality=85&auto=format&fit=max&s=99d4a912b2d8e55ecdcd84049cfa8981",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "f482b35b9146b3da",
+      "title": "Mayday review – Ryan Reynolds and Kenneth Branagh set cold war bromance alight",
+      "quote": "An American fighter pilot teams up with a retired KGB officer for hijinks and hilarity in Soviet Russia Ryan Reynolds and Kenneth Branagh star in this goofy but entertaining action-comedy bromance set in the cold war…",
+      "publisher": "The Guardian",
+      "author": "Peter Bradshaw",
+      "date": "2026-09-02T16:00:28+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/02/mayday-review-ryan-reynolds-kenneth-branagh-cold-war-bromance",
+      "image": "https://i.guim.co.uk/img/media/b9ac1c75c1002b269d9c1e0d89d05f043d62d5c3/918_0_2003_1603/master/2003.jpg?width=140&quality=85&auto=format&fit=max&s=22512af7c711dc1016b25dc2acafdde8",
+      "category": "World Cinema"
+    },
+    {
+      "id": "7b02e214fc810ea8",
+      "title": "‘Mayday’ Review: Ryan Reynolds and Kenneth Branagh Have Infectious Chemistry in Derivative but Diverting Apple TV Action-Comedy",
+      "quote": "Maria Baklova also appears in this film about an American pilot trapped in Soviet Russia and the ex-KGB agent who helps him.",
+      "publisher": "The Hollywood Reporter",
+      "author": "Frank Scheck",
+      "date": "2026-09-02T16:00:00+00:00",
+      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/mayday-review-ryan-reynolds-kenneth-branagh-apple-1236679707/",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "41a7be20e1887cdd",
+      "title": "Mayday",
+      "quote": "It’s a movie that mostly works, thanks largely to fluid direction from the pair and a truly entertaining performance from Kenneth Branagh.",
+      "publisher": "RogerEbert.com",
+      "author": "Brian Tallerico",
+      "date": "2026-09-02T16:00:00+00:00",
+      "link": "https://www.rogerebert.com/reviews/mayday-ryan-reynolds-kenneth-branagh-apple-tv-movie-review-2026",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "7811d54fd32a2c71",
+      "title": "‘Mayday’ Review: Kenneth Branagh Steals The Show From Top Gun Ryan Reynolds In Skydance & Apple’s Wild Buddy Action Comedy That Should Have Been In Theaters",
+      "quote": "David Ellison keeps pledging that Paramount and Warner Bros will release 30 movies a year each if the infamous ParaBros merger goes through. Hopefully they will even be good movies. That would be nice. But with Skydance…",
+      "publisher": "Deadline",
+      "author": "Pete Hammond",
+      "date": "2026-09-02T16:00:00+00:00",
+      "link": "https://deadline.com/2026/09/mayday-review-kenneth-branagh-ryan-reynolds-action-comedy-1237064857/",
+      "image": "https://deadline.com/wp-content/uploads/2026/02/mayday.image_.jpeg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "29136e0c940ed9b9",
+      "title": "Samson Kayo & Sonny Valicenti Join Apple TV Comedy ‘Protective Custody’ As Series Regulars",
+      "quote": "EXCLUSIVE: Protective Custody, Apple TV’s new comedy teaming Ben Stiller and Mike Judge, has brought aboard Samson Kayo (F1) and Sonny Valicenti (Mindhunter) for series regular roles. Character details for the duo are…",
+      "publisher": "Deadline",
+      "author": "Matthewgrobar",
+      "date": "2026-09-02T16:00:00+00:00",
+      "link": "https://deadline.com/2026/09/protective-custody-series-adds-samson-kayo-sonny-valicenti-1237065608/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Samson-Kayo-and-Sonny-Valicenti.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "caaf4995c7ace9dc",
+      "title": "Mayday Review: Ryan Reynolds Is Sporadically Amusing In Apple's Cold War Midnight Run Riff",
+      "quote": "Mayday tries to capture the spirit of a 1980s buddy action comedy, but Ryan Reynolds and Kenneth Branagh may not have been the right pair for the job.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Ethan Anderton)",
+      "date": "2026-09-02T16:00:00+00:00",
+      "link": "https://www.slashfilm.com/2249369/mayday-movie-review-ryan-reynolds-kenneth-branagh/",
+      "image": "https://www.slashfilm.com/img/gallery/mayday-review-ryan-reynolds-is-sporadically-amusing-in-apples-cold-war-midnight-run-riff/l-intro-1788328843.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "e5c0194dc8e43405",
+      "title": "‘Harry Potter’ Trailer Gives Glimpse Of Sorting Ceremony, More Dumbledore & Snape In HBO Series",
+      "quote": "HBO has unveiled a new trailer for Harry Potter and the Philospher’s Stone, which begins with Harry (Dominic McLaughlin), Ron (Alastair Stout) and Hermione (Arabella Stanton) arriving for the sorting ceremony, where…",
+      "publisher": "Deadline",
+      "author": "Denise Petski",
+      "date": "2026-09-02T15:57:30+00:00",
+      "link": "https://deadline.com/2026/09/harry-potter-trailer-dumbledore-snape-hbo-1237065599/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/dominic-mclaughlin_38c1e5.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "b0c3c3b84ecda6f9",
+      "title": "Netflix Is ‘Playing With Matches’ In Its Next Social Experiment Reality Series",
+      "quote": "EXCLUSIVE: Netflix is continuing on its unscripted buying spree with a new social experiment series. The streamer has greenlit Playing with Matches (w/t). The series follows a group of couples competing in a game of…",
+      "publisher": "Deadline",
+      "author": "Peterdeadline",
+      "date": "2026-09-02T15:45:00+00:00",
+      "link": "https://deadline.com/2026/09/netflix-playing-with-matches-social-experiment-series-1237064415/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/MixCollage-01-Sep-2026-11-11-AM-3489.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "09f1d8306588a888",
+      "title": "Ariana Grande Tearfully Ends Tour Ahead Of Planned “Step Back From Visibility”: “I’ll Cherish This Experience Always”",
+      "quote": "Ariana Grande got emotional as she ended her 41-show tour ahead of a planned break from public life. The Eternal Sunshine Tour star addressed her fans on the last day of her 10-day residency at the O2 Arena in London on…",
+      "publisher": "Deadline",
+      "author": "Armando Tinoco",
+      "date": "2026-09-02T15:27:19+00:00",
+      "link": "https://deadline.com/2026/09/ariana-grande-tearfully-ends-tour-step-back-visibility-1237064965/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/ariana-grande-ends-tour.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "c5b3375b85cdaa9d",
+      "title": "Tiger Woods Pleads No Contest To Reckless Driving Charge In Florida Rollover Crash",
+      "quote": "Tiger Woods entered a no contest plea to reckless driving Wednesday following a rollover crash in March near his Florida home, a change from his initial not guilty plea. As part of the plea agreement, the Martin County…",
+      "publisher": "Deadline",
+      "author": "Denise Petski",
+      "date": "2026-09-02T15:24:10+00:00",
+      "link": "https://deadline.com/2026/09/tiger-woods-pleads-no-contest-reckless-driving-dui-1237065466/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2292604162.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "14575da7879a4d90",
+      "title": "‘He’s a good man’: George Clooney defends Mark Ruffalo in Paramount-Warner Bros merger row",
+      "quote": "‘I worry whenever big companies are consolidating,’ Clooney said at Venice film festival, supporting Ruffalo’s right to criticise the deal amid antisemitism accusations George Clooney has defended Mark Ruffalo’s right…",
+      "publisher": "The Guardian",
+      "author": "Nadia Khomami Arts and culture correspondent",
+      "date": "2026-09-02T15:08:54+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/02/george-clooney-defends-mark-ruffalo-paramount-warner-bros-merger",
+      "image": "https://i.guim.co.uk/img/media/2fc05e47101ed329d255ab0edc1316a8976fa59e/220_90_5599_4478/master/5599.jpg?width=140&quality=85&auto=format&fit=max&s=af134801fad0adef0b9b302e39dcaf74",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "c691d203dbb3334b",
+      "title": "Harry Potter Trailer: HBO's Remake Series Heads Back To Hogwarts",
+      "quote": "Harry Potter, Ron Weasley, Hermione Granger, and the rest deal with magic and mischief in the latest trailer for HBO's Harry Potter TV series.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Chris Evangelista)",
+      "date": "2026-09-02T15:08:53+00:00",
+      "link": "https://www.slashfilm.com/2249472/harry-potter-hbo-series-second-trailer/",
+      "image": "https://www.slashfilm.com/img/gallery/harry-potter-hbo-series-second-trailer/l-intro-1788362930.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "105852eb48c83e84",
+      "title": "‘Always Lalisa’ Doc About K-Pop’s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+      "quote": "Always Lalisa, the feature documentary following K-Pop star Lisa, will open in IMAX and cinemas worldwide for a limited engagement via Trafalgar Releasing beginning October 12, before streaming exclusively on YouTube…",
+      "publisher": "Deadline",
+      "author": "Greg Evans",
+      "date": "2026-09-02T15:08:32+00:00",
+      "link": "https://deadline.com/2026/09/always-lalisa-lisa-release-dates-1237065455/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/AlwaysLalisa-40x30-English.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "b5169273dfd748ef",
+      "title": "J.J. Abrams Helped Make This Gritty 2022 Crime Thriller Streaming On Netflix",
+      "quote": "Allison Janney starred in this J.J. Abrams-produced 2022 Netflix crime thriller, which finds the Oscar winner in Old Man Liam Neeson action mode.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Sandy Schaefer)",
+      "date": "2026-09-02T15:00:00+00:00",
+      "link": "https://www.slashfilm.com/2247779/jj-abrams-produced-2022-crime-thriller-lou-streaming-netflix/",
+      "image": "https://www.slashfilm.com/img/gallery/j-j-abrams-helped-make-this-gritty-2022-crime-thriller-streaming-on-netflix/l-intro-1788193737.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "b4ef5237e042f58f",
+      "title": "The Eyes Wide Shut conspiracy theory: did someone cut a crucial 20 minutes from Kubrick’s final movie?",
+      "quote": "For years some have claimed a key part of the thriller was excised after the director’s sudden death – and that it provided clues to the real-life behaviour of rich predators. Now, his daughter has spoken out Name: The…",
+      "publisher": "The Guardian",
+      "author": "Guardian Staff",
+      "date": "2026-09-02T14:58:00+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/02/the-eyes-wide-shut-conspiracy-theory-did-someone-cut-a-crucial-20-minutes-from-kubricks-final-movie",
+      "image": "https://i.guim.co.uk/img/media/104ba62a09f82cb36e87723ae9d5c15986009a1b/540_0_2537_2030/master/2537.jpg?width=140&quality=85&auto=format&fit=max&s=eef73f660ce9536b42b3be8de9e538eb",
+      "category": "World Cinema"
+    },
+    {
+      "id": "de71204d48d036bb",
+      "title": "Was Paul Mescal being ‘not masculine enough’ the reason Gladiator II flopped?",
+      "quote": "Mescal’s nuanced performance in Ridley Scott’s belated sequel has been blamed by some for the film’s box office underperformance. May I suggest Jason Statham for Gladiator III? As you may be aware, The Dog Stars has not…",
+      "publisher": "The Guardian",
+      "author": "Stuart Heritage",
+      "date": "2026-09-02T14:36:11+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/02/was-paul-mescal-being-not-masculine-enough-the-reason-gladiator-ii-flopped",
+      "image": "https://i.guim.co.uk/img/media/c5001b01b85f37c602937fdbd76b9a69691ecc0f/170_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=405ccf8cbbb55f7a08c43e7051aa603f",
+      "category": "World Cinema"
+    },
+    {
+      "id": "f13fe2fc2ea6c9a3",
+      "title": "‘My Notes on Mars’ Review: Mackenzie Davis and Rupert Friend Play a Trauma-Shaken Couple in Clever Sci-Fi Puzzler",
+      "quote": "Written and directed by Hungarian Lili Horvat, the Venice premiere taps into current anxieties about what is human and what is love.",
+      "publisher": "The Hollywood Reporter",
+      "author": "Leslie Felperin",
+      "date": "2026-09-02T14:35:00+00:00",
+      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/my-notes-on-mars-mackenzie-davis-rupert-friend-lili-horvat-1236687265/",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "080371e573d1dc18",
+      "title": "‘My Notes on Mars’ Review: Mackenzie Davis and Rupert Friend Star in an Imperfect Breakdown of Marriage and Memory",
+      "quote": "A relationship drama verging on sci-fi, Lili Horvát’s “My Notes On Mars” begins with an intriguing premise that eventually loses steam. It follows the disappearance of an American astrophysicist in the Hungarian…",
+      "publisher": "Variety",
+      "author": "Siddhant Adlakha",
+      "date": "2026-09-02T14:30:00+00:00",
+      "link": "https://variety.com/2026/film/reviews/my-notes-on-mars-review-1236846812/",
+      "image": "https://variety.com/wp-content/uploads/2026/07/My-Notes-on-Mars.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "abdd01eed91b5e02",
+      "title": "Maggie Gyllenhaal says film industry has a ‘systemic problem’ with sexism",
+      "quote": "Speaking at the opening of the Venice film festival, the actor-director addressed why the jury of which she is chair will only be shown two films made by female film-makers Maggie Gyllenhaal said there is a “systemic…",
+      "publisher": "The Guardian",
+      "author": "Philip Oltermann in Venice",
+      "date": "2026-09-02T14:26:32+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/02/maggie-gyllenhaal-says-film-industry-has-a-systemic-problem-with-sexism",
+      "image": "https://i.guim.co.uk/img/media/2b6844dc580de889a8e9a0cee0e970cc5e497c93/483_511_3944_3156/master/3944.jpg?width=140&quality=85&auto=format&fit=max&s=c62ceefd64bf72f22a626b9db7b22a0f",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "6d758df170dfc4e2",
+      "title": "Fall 2: Deadpoint review – silly seat-edge sequel can’t reach heights of the original",
+      "quote": "There are just about enough hand-over-mouth moments to please thrill-seekers in this B-movie follow-up but eyerolls soon prevail There was plenty of silliness but also plenty of suspense in 2022’s modestly successful…",
+      "publisher": "The Guardian",
+      "author": "Benjamin Lee",
+      "date": "2026-09-02T14:00:26+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/02/fall-2-deadpoint-movie-review",
+      "image": "https://i.guim.co.uk/img/media/0d18a9464cce6225f4c85401d3ad2c290658e284/526_0_2699_2160/master/2699.jpg?width=140&quality=85&auto=format&fit=max&s=af43e82883c5bac962959452c450356c",
+      "category": "World Cinema"
+    },
+    {
+      "id": "1262565dd970a0f6",
+      "title": "‘Fall 2: Deadpoint’ Review: A Mostly Successful Sequel to the Dizzy Word-of-Mouth Sensation",
+      "quote": "A sequel should be similar to the film that preceded it, but not the same. That’s the conventional wisdom that, for better or worse, not all filmmakers observe when picking up the mantle of a series or franchise. But…",
+      "publisher": "Variety",
+      "author": "Todd Gilchrist",
+      "date": "2026-09-02T14:00:00+00:00",
+      "link": "https://variety.com/2026/film/reviews/fall-2-deadpoint-review-1236848979/",
+      "image": "https://variety.com/wp-content/uploads/2026/09/fall-2.webp",
+      "category": "World Cinema"
+    },
+    {
+      "id": "6f2573914e6f390b",
+      "title": "‘The Girl With The Leica’ Review: An Impressionistic Portrait of Gerda Taro, the Woman Who Shared the Artistic Identity of Robert Capa",
+      "quote": "For many people, the name Robert Capa evokes a mysterious, jet-setting American photographer responsible for some of the mid-20th century’s most iconic images from the frontlines of war. In the fascinating “The Girl…",
+      "publisher": "Variety",
+      "author": "Alissasimon",
+      "date": "2026-09-02T14:00:00+00:00",
+      "link": "https://variety.com/2026/film/reviews/the-girl-with-the-leica-review-1236848286/",
+      "image": "https://variety.com/wp-content/uploads/2026/09/3_THE_GIRL_WITH_THE_LEICA_La-ragazza-con-la-Leica_Photo-Credit_Alberto-Novelli-2026-Vivo-film-Komplizen-Film-ZDFARTE-Eolo-film-ProductionsAlberto-Novelli.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "ebd7f86a3bb2a773",
+      "title": "‘Runner’ Review: Alan Ritchson and Owen Wilson in an Impressively Visceral Buddy Thriller That Leaves Behind a Bad Taste",
+      "quote": "A courier with very special skills battles cartel members to deliver a desperately needed human organ in Scott Waugh's film.",
+      "publisher": "The Hollywood Reporter",
+      "author": "Frank Scheck",
+      "date": "2026-09-02T14:00:00+00:00",
+      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/runner-review-alan-ritchson-owen-wilson-1236680903/",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "6a63214b5304cd24",
+      "title": "Fall 2: Deadpoint Review: This Successful Sequel Proves There Are More Dangerous Heights To Climb",
+      "quote": "The surprisingly fun thriller Fall didn't exactly warrant a sequel, but Fall 2: Deadpoint ends up rising to new heights. Here's our review.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Bill Bria)",
+      "date": "2026-09-02T14:00:00+00:00",
+      "link": "https://www.slashfilm.com/2249339/fall-2-movie-review/",
+      "image": "https://www.slashfilm.com/img/gallery/fall-2-deadpoint-review-this-successful-sequel-proves-there-are-more-dangerous-heights-to-climb/l-intro-1788348564.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "8c6a912442f6fa9b",
+      "title": "How Spider-Man's Betty Brant Actress Really Feels About Being Left Out Of Brand New Day",
+      "quote": "The character of Betty Brant wasn't included in Spider-Man: Brand New Day and the actress who plays her has expressed her feelings about it",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Ryan Scott)",
+      "date": "2026-09-02T14:00:00+00:00",
+      "link": "https://www.slashfilm.com/2249126/spider-man-betty-brant-actress-angourie-rice-feelings-not-in-brand-new-day/",
+      "image": "https://www.slashfilm.com/img/gallery/how-spider-mans-betty-brant-actress-really-feels-about-being-left-out-of-brand-new-day/l-intro-1788301046.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "36109093fc948ca3",
+      "title": "The Runner",
+      "quote": "The only exercise you’ll get is in your mind running through the ways it makes no sense.",
+      "publisher": "RogerEbert.com",
+      "author": "Brian Tallerico",
+      "date": "2026-09-02T13:00:00+00:00",
+      "link": "https://www.rogerebert.com/reviews/the-runner-gal-gadot-prime-video-movie-review-2026",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "bca71e325d3c95e6",
+      "title": "Turning Point: Generation 9/11",
+      "quote": "This isn’t about people remembering 9/11; it’s about the generation that inherited the world created by 9/11.",
+      "publisher": "RogerEbert.com",
+      "author": "Richard Roeper",
+      "date": "2026-09-02T13:00:00+00:00",
+      "link": "https://www.rogerebert.com/reviews/turning-point-generation-9-11-netflix-documentary-tv-review-2026",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "0219f32a7fff1a5f",
+      "title": "Joel Kinnaman's Crime Thriller Series With 4 Seasons Is A Masterpiece Streaming On Hulu",
+      "quote": "If you have a subscription to Hulu or Disney+, you owe it to yourself to watch this incredible crime thriller series starring Joel Kinnaman.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Joe Roberts)",
+      "date": "2026-09-02T13:00:00+00:00",
+      "link": "https://www.slashfilm.com/2249111/joel-kinnaman-crime-thriller-series-the-killing-streaming-hulu/",
+      "image": "https://www.slashfilm.com/img/gallery/joel-kinnamans-crime-thriller-series-with-4-seasons-is-a-masterpiece-streaming-on-hulu/l-intro-1788299596.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "654ec796fbbe9b6d",
+      "title": "‘Vibe’ trailer: Kunal Kemmu’s trademark humour blends with an eccentric Preity Zinta in action-comedy",
+      "quote": "Written and directed by Kunal Kemmu, the film also stars Sparsh Shrivastava, Vanshika Dhir, Dinesh Lal Yadav “Nirahua”, Yashpal Sharma, Salem Kali",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-02T12:54:13+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/vibe-trailer-kunal-kemmus-trademark-humour-blends-with-an-eccentric-preity-zinta-in-action-comedy/article71419664.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/7pce0f/article71419681.ece/alternates/LANDSCAPE_1200/Kunal%20Kemmu%20and%20Preity%20Zinta%20in%20%E2%80%98Vibe%E2%80%99%20trailer",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "e7668c8588a515d5",
+      "title": "Swara Bhasker's 'Padmaavat' remark spark social media backlash, actor says her words mistranslated",
+      "quote": "The actor has been at the receiving of social media ire over her comments, where she said the film glorified 'Jauhar', the practise among some Rajput communities, in which women committed mass self-immolation to avoid…",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-02T12:24:49+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/swara-bhaskers-padmaavat-remark-spark-social-media-backlash-actor-says-her-words-mistranslated/article71419502.ece",
+      "image": "https://th-i.thgim.com/public/incoming/scifi/article71419535.ece/alternates/LANDSCAPE_1200/IMG_SWARA_BHASKAR1_2_1_DTA9M56O.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "d2abebd5ab62ad43",
+      "title": "JioHotstar expands to the UK, Canada and Singapore",
+      "quote": "The platform kicked off its international launch with a new line-up of entertainment content",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-02T11:54:38+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/jiohotstarexpands-tothe-uk-canada-and-singapore/article71418561.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/77k0oq/article71418650.ece/alternates/LANDSCAPE_1200/JioHotstar%20Brand%20Identity%20-%20Horizontal.png",
+      "category": "Indian Cinema"
+    },
+    {
       "id": "45cc5d600f988ad2",
       "title": "The literary novel causing a Hollywood scandal",
       "quote": "Controversy is swirling around new novel Life of M – and who it might be about.",
@@ -17,83 +380,6 @@
       "date": "2026-09-02T11:00:00+00:00",
       "link": "https://www.bbc.com/culture/article/20260901-the-literary-novel-causing-a-hollywood-scandal?ocid=global_culture_rss",
       "image": "https://ychef.files.bbci.co.uk/144x81/p0p7dp81.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "b1e4aed91553dba6",
-      "title": "Venice Jury Head Maggie Gyllenhaal Calls For Empathy In Politically Charged Times; Addresses Dearth Of Women In Competition: “It’s A Systemic Problem”",
-      "quote": "Venice Film Festival jury president Maggie Gyllenhaal called for empathy at the opening press conference for the 83rd edition on Wednesday, which gets underway against politically charged times. Asked whether cinema…",
-      "publisher": "Deadline",
-      "author": "Melanie Goodfellow",
-      "date": "2026-09-02T10:40:05+00:00",
-      "link": "https://deadline.com/2026/09/venice-maggie-gyllenhaal-empathy-politics-charged-women-1237065247/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2293136211.jpg",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "b333c7887047461f",
-      "title": "‘He was always a bit of a groundbreaker’: David Bowie enters a new dimension in ‘extended reality’ documentary",
-      "quote": "Hundreds of unseen images of the star feature at the Venice film festival, alongside virtual worlds exploring wildfires, wolves and the birth of stars David Bowie shares the bill with starmen, firefighters and Walt…",
-      "publisher": "The Guardian",
-      "author": "Xan Brooks",
-      "date": "2026-09-02T10:36:31+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/02/david-bowie-unseen-unheard-documentary-venice-film-festival",
-      "image": "https://i.guim.co.uk/img/media/94f05bec8534008a5b3bcb0259e4bf0c09ddd536/130_39_2067_1654/master/2067.jpg?width=140&quality=85&auto=format&fit=max&s=48fce8d6eebf7a8a87a133177c1a96bf",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "6aac70fe77e9863c",
-      "title": "Jasmine Jobson Teases Details About Netflix’s ‘Top Boy’ Spin-Off Series ‘Jaq’: “She’s Going Down A Crazy Rabbit Hole”",
-      "quote": "EXCLUSIVE: Jasmine Jobson has said that Netflix’s Top Boy spin-off series about her character Jaq Lawrence will be an “insane” addition to the world created by Ronan Bennett. Netflix announced last week that Jobson…",
-      "publisher": "Deadline",
-      "author": "Jake Kanter",
-      "date": "2026-09-02T10:34:45+00:00",
-      "link": "https://deadline.com/2026/09/jasmine-jobson-netflix-top-boy-jaq-crazy-rabbit-hole-1237065177/",
-      "image": "https://deadline.com/wp-content/uploads/2023/12/Jasmin-Jobson-in-Top-Boy-e1788339994845.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "2c034f6b0cf23f8a",
-      "title": "‘Miraculous’ Studio Founder Jeremy Zag To Receive Deadline’s French TV Disruptor Award At The Unifrance Rendez-Vous",
-      "quote": "Jeremy Zag will receive Deadline’s 2026 French TV Disruptor Award. Zag founded the iconic Zag Entertainment banner in 2009 and it went on to become a leading international animation studio, responsible for shows…",
-      "publisher": "Deadline",
-      "author": "Stewart Clarke",
-      "date": "2026-09-02T10:00:43+00:00",
-      "link": "https://deadline.com/2026/09/jeremy-zag-miraculous-deadline-french-tv-disruptor-award-1237065243/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/JeremyZag_HD4.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "8321b5939fdbc26c",
-      "title": "Baz Bamigboye Looks Back On True Tabloid Life With ‘Ink’ Director Danny Boyle & Writer James Graham – Venice Film Festival",
-      "quote": "The Sun sure shone for me. “Get on the bloody Concorde with Jerry!” The Sun’s news editor barked when I rang in the old-fashioned way from a call box at JFK. It was 1982. When I queried how to pay for the hefty cost of…",
-      "publisher": "Deadline",
-      "author": "Baz Bamigboye",
-      "date": "2026-09-02T10:00:00+00:00",
-      "link": "https://deadline.com/2026/09/ink-danny-boyle-james-graham-baz-bamigboye-venice-1237064935/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/INK.jpg",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "6076c0fbdbc4fe14",
-      "title": "London Film Festival Lineup: Ava DuVernay’s ‘14th’ & Boots Riley’s ‘I Love Boosters’ Among Headline Titles — Full List",
-      "quote": "The full 2026 London Film Festival lineup has been confirmed, with Ava DuVernay’s latest feature documentary, 14th, and Boots Riley’s I Love Boosters among the headline titles. This year’s LFF will run from October 7 to…",
-      "publisher": "Deadline",
-      "author": "Zac Ntim",
-      "date": "2026-09-02T10:00:00+00:00",
-      "link": "https://deadline.com/2026/09/london-film-festival-lineup-2026-bfi-1237065116/",
-      "image": "https://deadline.com/wp-content/uploads/2026/07/ava-14th.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "df072cdad6c90559",
-      "title": "‘Kill Jackie’: Catherine Zeta-Jones Is On The Run In Prime Video & AMC+’s Pulsating Thriller Series; Launch Date Set",
-      "quote": "Buckle up for a global thrill ride. Catherine Zeta-Jones is on the run in the first trailer for action series Kill Jackie. Zeta-Jones is is seen shooting shotguns, taking out home-raiding assassins with guns hidden in…",
-      "publisher": "Deadline",
-      "author": "Jesse Whittock",
-      "date": "2026-09-02T10:00:00+00:00",
-      "link": "https://deadline.com/2026/09/kill-jackie-trailer-catherine-zeta-jones-launch-date-1237065133/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/KillJackie_EP06_unitstill_190625_UM_01054.jpg",
       "category": "World Cinema"
     },
     {
@@ -117,28 +403,6 @@
       "link": "https://www.thehindu.com/entertainment/movies/mayday-apple-tv-interview-directors-john-francis-daley-jonathan-goldstein-top-gun-cold-war/article71414471.ece",
       "image": "https://th-i.thgim.com/public/entertainment/movies/tow3xa/article71418509.ece/alternates/LANDSCAPE_1200/Screenshot%202026-09-02%20122214.png",
       "category": "Indian Cinema"
-    },
-    {
-      "id": "17ce3c017de027d6",
-      "title": "Jean-Paul Rappeneau Dies: ‘Cyrano de Bergerac’ Director Was 94",
-      "quote": "French director and screenwriter Jean-Paul Rappeneau, who was best known internationally for the 1990 Oscar-nominated drama Cyrano de Bergerac, died on September 2 his family has announced. He was 94. Born on April 8…",
-      "publisher": "Deadline",
-      "author": "Melanie Goodfellow",
-      "date": "2026-09-02T09:22:14+00:00",
-      "link": "https://deadline.com/2026/09/jean-paul-rappeneau-dead-cyrano-de-bergerac-director-94-1237065181/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/MixCollage-02-Sep-2026-11-16-AM-6366.jpg",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "1347a717c416e34b",
-      "title": "‘Bunker’: Watch Javier Bardem & Penélope Cruz In Florian Zeller’s Venice-Bound Psychological Thriller",
-      "quote": "EXCLUSIVE: Here’s an exclusive clip from Florian Zeller’s upcoming Venice competition title Bunker starring Penélope Cruz and Javier Bardem. The psychological thriller, which Zeller wrote, produced and directed, follows…",
-      "publisher": "Deadline",
-      "author": "Dianalodderhose",
-      "date": "2026-09-02T09:17:23+00:00",
-      "link": "https://deadline.com/2026/09/bunker-trailer-javier-bardem-penelope-cruz-venice-festival-1237064332/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/MixCollage-01-Sep-2026-06-30-PM-9302.jpg",
-      "category": "World Cinema"
     },
     {
       "id": "8e70e73f3374a8cd",
@@ -185,50 +449,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "e9595d56b65c18ff",
-      "title": "How ‘Hi’ director Vishnu Edavan brought the old-school Tamil cinema entertainer back",
-      "quote": "Starring Kavin and Nayanthara, ‘Hi’ marks lyricist Vishnu Edavan’s directorial debut and revives the breezy, low-stakes Tamil entertainers of the 1990s and 2000s, with veterans Bhagyaraj, Prabhu and Radikaa Sarathkumar…",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-02T07:56:12+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/hi-movie-director-vishnu-edavan-interview-nayanthara-kavin-bhagyaraj-prabhu-radikaa-sarathkumar/article71411818.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/7rochk/article71413894.ece/alternates/LANDSCAPE_1200/IMG_1187.JPEG",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "ea1ecf3cd3365507",
-      "title": "‘Street Fighter’ trailer: Ryu, Ken and Chun-li return to the World Warrior Tournament",
-      "quote": "The new trailer gives fans a closer look at the live-action video game adaptation, including Dhalsim, E. Honda, Blanka, Guile and Akuma",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-02T07:55:09+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/street-fighter-trailer-ryu-ken-and-chun-li-return-to-the-world-warrior-tournament/article71418666.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/wp8fnv/article71418657.ece/alternates/LANDSCAPE_1200/Screenshot%202026-09-02%20132157.png",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "d2abebd5ab62ad43",
-      "title": "JioHotstar expands to the UK, Canada and Singapore",
-      "quote": "The platform kicked off its international launch with a new line-up of entertainment content",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-02T07:54:03+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/jiohotstarexpands-tothe-uk-canada-and-singapore/article71418561.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/77k0oq/article71418650.ece/alternates/LANDSCAPE_1200/JioHotstar%20Brand%20Identity%20-%20Horizontal.png",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "178633de5f27fa22",
-      "title": "Oasis, auteurs and seven hours of Bertolucci: 12 unmissable movies at the Venice film festival",
-      "quote": "A backstage peek at the reunion tour and a new film from Burning director Lee Chang-dong are among this year’s most anticipated – plus offerings from Danny Boyle, Luca Guadagnino, Martin McDonagh and more Danny Boyle’s…",
-      "publisher": "The Guardian",
-      "author": "Peter Bradshaw",
-      "date": "2026-09-02T07:00:26+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/02/venice-film-festival-12-unmissable-movies",
-      "image": "https://i.guim.co.uk/img/media/8966ea85118eaeb109021acfadba4f0fbb83b66e/343_0_1705_1365/master/1705.jpg?width=140&quality=85&auto=format&fit=max&s=4de5148651993688719032508756b51c",
-      "category": "Festival Winners"
-    },
-    {
       "id": "69ac3ed835d22ed5",
       "title": "Ted Lasso continues to fumble most of its female leads",
       "quote": "Only Alice Chilton escapes this curse (for now) in \"Riches Of Embarrassment.\"",
@@ -240,39 +460,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "ef58502b8625bb2d",
-      "title": "Ukrainian film-maker criticises EU after it cuts Venice Biennale funding over Russia controversy",
-      "quote": "Sergei Loznitsa likens removal of €2m grant to ‘a punishment in kindergarten’ on eve of Venice film festival One of Ukraine’s most acclaimed film-makers has criticised the European Commission’s decision to cut off funds…",
-      "publisher": "The Guardian",
-      "author": "Philip Oltermann European culture editor",
-      "date": "2026-09-02T06:00:25+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/02/ukrainian-film-maker-sergei-loznitsa-criticises-eu-cuts-venice-biennale-funding-russia-controversy",
-      "image": "https://i.guim.co.uk/img/media/032680b29cfbd0128ee751d2435d64e1aae45c2c/192_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=607722a8cecec3e76030adb7319dc5c7",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "22d99fb2065de56f",
-      "title": "Hungry review – hippo horror sees multi-ton mammal run amok among bayou boat-trippers",
-      "quote": "A group of thinly drawn characters on a Louisiana tour fight for survival against a rampaging vegetarian This animal-attack horror plugs a gap with beasties – hippopotamuses – that may be deadly in real life but are…",
-      "publisher": "The Guardian",
-      "author": "Leslie Felperin",
-      "date": "2026-09-02T06:00:25+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/02/hungry-review-hippo-horror",
-      "image": "https://i.guim.co.uk/img/media/04e82341950151a8b368d786b604fa5edb9b9e08/256_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=30e554236beeaa5265d192fe5a78c38b",
-      "category": "World Cinema"
-    },
-    {
-      "id": "a78c47f0a5db3035",
-      "title": "The Runner review – Gal Gadot stumbles through derivative high-speed, low-rent thriller",
-      "quote": "A string of London locations can’t save Amazon’s overly familiar B-movie dragged down by another ineffective performance by the Wonder Woman star We’re propelled on to an extremely familiar journey in Amazon’s quickie…",
-      "publisher": "The Guardian",
-      "author": "Benjamin Lee",
-      "date": "2026-09-02T04:05:22+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/01/the-runner-amazon-thriller-movie-review",
-      "image": "https://i.guim.co.uk/img/media/af840cc6878189cd0a0d3a288d26ceba5cffe42e/61_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=709dba5138edbab7eb9cc57b06ad575e",
-      "category": "World Cinema"
-    },
-    {
       "id": "08debe82f4292804",
       "title": "Gal Gadot jogs into people for an entire hour in The Runner",
       "quote": "Gal Gadot is held hostage over the phone in Amazon's ridiculous, boneheaded jogging thriller The Runner. Thankfully, it's hilarious.",
@@ -282,17 +469,6 @@
       "link": "https://www.avclub.com/the-runner-review",
       "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/01142017/the-runner-header-1.jpg",
       "category": "Indie Gems"
-    },
-    {
-      "id": "ad9d132f9fcd93cc",
-      "title": "The year of Domhnall Gleeson: ‘No one talks about actors’ dedication. But I had a perm for five months!’",
-      "quote": "He started in the Harry Potter films and has since become ubiquitous, playing every type of character: romcom leads, evil villains, comical idiots. He even starred in a Taylor Swift video. So how does he stay so under…",
-      "publisher": "The Guardian",
-      "author": "Steve Rose",
-      "date": "2026-09-02T04:00:23+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/02/the-year-of-domhnall-gleeson-no-one-talks-about-actors-dedication-but-i-had-a-perm-for-five-months",
-      "image": "https://i.guim.co.uk/img/media/d843a013a76d05bfacbf53018558047efbb26379/1159_959_4948_3959/master/4948.jpg?width=140&quality=85&auto=format&fit=max&s=96999b998b67d64dfd3d5528a1f8ce60",
-      "category": "World Cinema"
     },
     {
       "id": "468fe85833d647ac",
@@ -339,17 +515,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "344eb0dff83c5ae0",
-      "title": "Yellowstone Star Gil Birmingham Voices An X-Men '97 Character That Deserves More Screen Time",
-      "quote": "Any future seasons of X-Men '97 would be smart to give us more Forge, the mutant character voiced by Yellowstone star Gil Birmingham.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Devin Meenan)",
-      "date": "2026-09-01T23:00:00+00:00",
-      "link": "https://www.slashfilm.com/2247497/yellowstone-gil-birmingham-x-men-97-forge/",
-      "image": "https://www.slashfilm.com/img/gallery/yellowstone-star-gil-birmingham-voices-an-x-men-97-character-that-deserves-more-screen-time/l-intro-1788186613.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "67a4bf4b9edf93d3",
       "title": "You Must Remember This to jog nation's memories on fall tour",
       "quote": "Host Karina Longworth is hitting the road in celebration of \"The Bisexuals\" for a 14-city tour this November",
@@ -372,17 +537,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "ad03301e941ef80c",
-      "title": "Why Practical Magic 2 Replaced Evan Rachel Wood With Joey King",
-      "quote": "Evan Rachel Wood played one of the Owens girls in the original Practical Magic, but here's why she wasn't brought back to reprise the role in Practical Magic 2.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (BJ Colangelo)",
-      "date": "2026-09-01T20:30:00+00:00",
-      "link": "https://www.slashfilm.com/2248870/practical-magic-2-evan-rachel-wood-joey-king-recasting-explained/",
-      "image": "https://www.slashfilm.com/img/gallery/why-practical-magic-2-replaced-evan-rachel-wood-with-joey-king/l-intro-1788288789.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "838eaf158cdf75ce",
       "title": "Avengers: Secret Wars adds Noah Jupe to its enormous cast",
       "quote": "The Quiet Place star has joined the superhero jamboree in an undisclosed role.",
@@ -391,17 +545,6 @@
       "date": "2026-09-01T19:59:22+00:00",
       "link": "https://www.avclub.com/noah-jupe-joins-avengers-secret-wars",
       "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/01155417/jupe-sink-header.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "e45bd10978e43001",
-      "title": "Furious Season 1 Ending Twist Explained: Why Alice Kills [SPOILER]",
-      "quote": "The Season 1 finale of Furious proved that the Emmy Rossum-starring crime thriller is one of the best shows of 2026. Here's what Season 2 could have in store.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Nina Starner)",
-      "date": "2026-09-01T19:54:50+00:00",
-      "link": "https://www.slashfilm.com/2248961/furious-season-1-ending-twist-explained-alice-kill-jay-easton/",
-      "image": "https://www.slashfilm.com/img/gallery/furious-season-1-ending-twist-explained-why-alice-kills-spoiler/l-intro-1788292337.jpg",
       "category": "Indie Gems"
     },
     {
@@ -424,39 +567,6 @@
       "date": "2026-09-01T19:39:08+00:00",
       "link": "https://www.avclub.com/jewish-creatives-open-letter-mark-ruffalo-antisemitism",
       "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/21212747/mark-ruffalo-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "d0baecd652314d56",
-      "title": "Why Ridley Scott Reportedly Blames Paul Mescal For Gladiator 2's Box Office",
-      "quote": "Gladiator II wasn't the box office hit many expected, and director Ridley Scott apparently blames that on the film's star, Paul Mescal.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Sandy Schaefer)",
-      "date": "2026-09-01T19:30:00+00:00",
-      "link": "https://www.slashfilm.com/2248842/ridley-scott-blame-paul-mescal-gladiator-2-box-office/",
-      "image": "https://www.slashfilm.com/img/gallery/ridley-scott-blame-paul-mescal-gladiator-2-box-office/l-intro-1788304460.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "d7b29e3e1d0ef45d",
-      "title": "Why The Terminator Credits Include A Thank You To Sci-Fi Author Harlan Ellison",
-      "quote": "Eagle-eyed viewers have noticed a thank you in the credits of The Terminator for legendary sci-fi author Harlan Ellison. Here's why.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-09-01T19:00:00+00:00",
-      "link": "https://www.slashfilm.com/2211884/why-the-terminator-credits-thank-you-sci-fi-author-harlan-ellison/",
-      "image": "https://www.slashfilm.com/img/gallery/why-the-terminator-credits-include-a-thank-you-to-sci-fi-author-harlan-ellison/l-intro-1783630130.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "99ecafb2b8183f42",
-      "title": "5 Scariest Marvel Cinematic Universe Villains, Ranked",
-      "quote": "You've probably seen lots of lists of the best or strongest Marvel Cinematic Universe villains, but here are the five scariest MCU baddies.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Rafael Motamayor)",
-      "date": "2026-09-01T17:00:00+00:00",
-      "link": "https://www.slashfilm.com/2241255/scariest-marvel-cinematic-universe-villains-ranked/",
-      "image": "https://www.slashfilm.com/img/gallery/scariest-marvel-cinematic-universe-villains-ranked/l-intro-1787678178.jpg",
       "category": "Indie Gems"
     },
     {
@@ -548,39 +658,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "739a1dc67cf46a82",
-      "title": "’17’ Review: Harrowing Teen Pregnancy Drama from Macedonia Could Be the Feel-Bad Movie of the Year",
-      "quote": "From the first frame, Kosara Mitić’s “17” refuses to pull any punches, plunging us immediately into the traumatic moment when a hookup between high-school student Sara (Eva Kostić) and two boys takes a violent turn…",
-      "publisher": "Variety",
-      "author": "Guy Lodge",
-      "date": "2026-08-30T10:13:56+00:00",
-      "link": "https://variety.com/2026/film/reviews/17-review-1236846790/",
-      "image": "https://variety.com/wp-content/uploads/2026/08/202615475_1_RWD_1380.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "fe20e394e417602a",
-      "title": "‘Sea of Glass’ Review: A Widow’s Coastal Healing Retreat Turns Into a Stately, Moody Greek Tragedy",
-      "quote": "There are Greek waves aplenty lapping at the forlorn beachside setting of “Sea of Glass,” though they’re not especially weird ones. Amid a national cinema that has become internationally recognized for perverse plotting…",
-      "publisher": "Variety",
-      "author": "Guy Lodge",
-      "date": "2026-08-30T08:31:55+00:00",
-      "link": "https://variety.com/2026/film/reviews/sea-of-glass-review-1236846714/",
-      "image": "https://variety.com/wp-content/uploads/2026/06/Sea-of-Glass-THINGS-GO-BAD-16_9.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "091ecc990f711a1d",
-      "title": "‘Borges and Me’ Review: Gentle, Nostalgic Literary Road Movie Is More Perky Than Poetic",
-      "quote": "American author Jay Parini’s 2020 memoir “Borges and Me: An Encounter” read as a charming extension of an anecdote any writer would dine out on for the rest of their life: the tale of how Parini, as a college student in…",
-      "publisher": "Variety",
-      "author": "Guy Lodge",
-      "date": "2026-08-29T21:36:42+00:00",
-      "link": "https://variety.com/2026/film/reviews/borges-and-me-review-1236843724/",
-      "image": "https://variety.com/wp-content/uploads/2026/08/borges-and-me.webp",
-      "category": "World Cinema"
-    },
-    {
       "id": "11d5ef3c598f962d",
       "title": "The Dog Stars",
       "quote": "This wasteland narrative is the most tedious film of Ridley Scott’s career.",
@@ -614,17 +691,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "ac1e1e3aef079e40",
-      "title": "Finding Emily",
-      "quote": "An echo of a better film, with just enough substance left to be familiar, but not enough to stand on its own two feet.",
-      "publisher": "RogerEbert.com",
-      "author": "Marya E. Gates",
-      "date": "2026-08-28T13:00:00+00:00",
-      "link": "https://www.rogerebert.com/reviews/finding-emily-angourie-rice-movie-review-2026",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
       "id": "ad7c895305fea6bc",
       "title": "Idiots",
       "quote": "It’s not for everyone, but “Idiots” is already one of the most charming American comedies of the year.",
@@ -632,28 +698,6 @@
       "author": "Simon Abrams",
       "date": "2026-08-28T13:00:00+00:00",
       "link": "https://www.rogerebert.com/reviews/idiots-dave-franco-oshea-jackson-jr-movie-review-2026",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "53dc07fd8436bdf4",
-      "title": "The Salt Path",
-      "quote": "You can’t fault the commitment of lead actors Isaac and Anderson.",
-      "publisher": "RogerEbert.com",
-      "author": "Glenn Kenny",
-      "date": "2026-08-28T13:00:00+00:00",
-      "link": "https://www.rogerebert.com/reviews/the-salt-path-gillian-anderson-jason-isaacs-movie-review-2026",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "d4d645fa7d123571",
-      "title": "The Secret Woman",
-      "quote": "It's not edge-of-your-seat stuff, but the mystery keeps our heads cocked to the side, curious as to what the final verdict will be.",
-      "publisher": "RogerEbert.com",
-      "author": "Cortlyn Kelly",
-      "date": "2026-08-28T13:00:00+00:00",
-      "link": "https://www.rogerebert.com/reviews/the-secret-woman-netflix-movie-review-2026",
       "image": null,
       "category": "World Cinema"
     },
@@ -724,17 +768,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "2b9d8c2d72815a94",
-      "title": "‘The Dog Stars’ Review: Jacob Elordi and Margaret Qualley in Ridley Scott’s Subdued but Pleasingly Soulful Dystopian Western",
-      "quote": "Josh Brolin, Guy Pearce, Allison Janney and Benedict Wong also star in this adaptation of Peter Heller’s novel about survivors trying to stay alive in a post-apocalyptic future.",
-      "publisher": "The Hollywood Reporter",
-      "author": "David Rooney",
-      "date": "2026-08-26T00:00:00+00:00",
-      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/the-dog-stars-review-jacob-elordi-ridley-scott-1236680319/",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
       "id": "f9f3a148bc00ec10",
       "title": "How Dolly became the world's most-loved star",
       "quote": "What made the country singer so appealing to so many?",
@@ -757,17 +790,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "f4b1ee317894286d",
-      "title": "‘Mutiny’ Review: Jason Statham Anchors a Serviceable Maritime Action Flick That Just About Stays Afloat",
-      "quote": "Jean-François Richet ('Blood Father,' 'Plane') directed the latest bone-crunching entry in the Statham canon, set aboard a cargo ship heading out of Bangkok towards the high seas.",
-      "publisher": "The Hollywood Reporter",
-      "author": "Jordan Mintzer",
-      "date": "2026-08-24T15:43:08+00:00",
-      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/mutiny-review-jason-statham-1236679651/",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
       "id": "6d37618c7708c573",
       "title": "The brutal truth revealed by the Bayeux Tapestry",
       "quote": "In the iconic artwork virility is equated to power – and the largest appendage",
@@ -776,28 +798,6 @@
       "date": "2026-08-24T11:00:00+00:00",
       "link": "https://www.bbc.com/culture/article/20260820-the-medieval-manosphere-of-the-bayeux-tapestry?ocid=global_culture_rss",
       "image": "https://ychef.files.bbci.co.uk/144x81/p0p5hdfs.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "2f52a9b08150f1c5",
-      "title": "‘Spa Weekend’ Review: Leslie Mann and Isla Fisher Go Underserved in a Lukewarm Bath of a Comedy",
-      "quote": "Anna Faris and Michelle Buteau also star in the film by 'Bad Moms' directors Jon Lucas and Scott Moore, about four childhood friends on a birthday trip that spirals out of control.",
-      "publisher": "The Hollywood Reporter",
-      "author": "Angie Han",
-      "date": "2026-08-23T00:21:50+00:00",
-      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/spa-weekend-review-leslie-mann-isla-fisher-anna-faris-1236678914/",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "e70f3b4f4be8b3da",
-      "title": "The Death of Robin Hood review – Hugh Jackman darkens a heroic tale in grim drama",
-      "quote": "A conceptually intriguing film that turns the outlaw hero into a selfish criminal struggles to find its footing despite some fantastic craftwork Spoiler: Robin Hood is going to die. In bluntly titled drama The Death of…",
-      "publisher": "The Guardian",
-      "author": "Benjamin Lee",
-      "date": "2026-06-16T09:00:18+00:00",
-      "link": "https://www.theguardian.com/film/2026/jun/16/the-death-of-robin-hood-review-hugh-jackman",
-      "image": "https://i.guim.co.uk/img/media/f36a551cde024fed12281f06c8061b8f37af6e79/430_228_2527_2022/master/2527.jpg?width=140&quality=85&auto=format&fit=max&s=976fdf4c2e5f6c93ab36d5879fe627a9",
       "category": "World Cinema"
     },
     {
