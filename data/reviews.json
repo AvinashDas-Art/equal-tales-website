@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T16:15:03.126215+00:00",
+  "generated_at": "2026-09-03T20:52:17.380957+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -9,15 +9,202 @@
   ],
   "reviews": [
     {
-      "id": "05c953df77050e9a",
-      "title": "Aaron Eckhart, Brenton Thwaites & Bella Samman Leading Post-Apocalyptic Action Thriller ‘Out Of The Ashes’ — TIFF Market",
-      "quote": "EXCLUSIVE: Aaron Eckhart (The Dark Knight), Brenton Thwaites (Titans) and Bella Samman (Walker) are starring in Out of the Ashes, a post-apocalyptic action thriller from director Steven C. Miller. Filming has recently…",
+      "id": "3fca21772222cfea",
+      "title": "Zach Cregger’s ‘Resident Evil’ To Freak Out Masses With Record Franchise Opening At U.S. Box Office",
+      "quote": "Count on Zach Cregger’s Resident Evil as one of the biggest openers this month in addition to Warner Bros’ Practical Magic 2 when it bows in the post-Labor Day frame. Resident Evil hit tracking this morning with an eye…",
       "publisher": "Deadline",
-      "author": "Andreas Wiseman",
-      "date": "2026-09-03T16:14:53+00:00",
-      "link": "https://deadline.com/2026/09/aaron-eckhart-brenton-thwaites-cast-out-of-the-ashes-1237066997/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Aaron-Eckhart-Brenton-Thwaites-and-Bella-Samma-.jpg",
+      "author": "Anthonypauldalessandro",
+      "date": "2026-09-03T20:15:00+00:00",
+      "link": "https://deadline.com/2026/09/box-office-resident-evil-opening-projection-1237067309/",
+      "image": "https://deadline.com/wp-content/uploads/2026/04/Resident-Evil-2026.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "77afd4944dade426",
+      "title": "Charlie Carrick Upped To Series Regular For Hulu’s ‘The Testaments’ Season 2 As Haley Wong Joins",
+      "quote": "EXCLUSIVE: Charlie Carrick has been upped to a series regular for the second season of The Testaments, Hulu’s sequel series to hit Margaret Atwood adaptation The Handmaid’s Tale, with Haley Wong joining in the same…",
+      "publisher": "Deadline",
+      "author": "Matthewgrobar",
+      "date": "2026-09-03T20:00:00+00:00",
+      "link": "https://deadline.com/2026/09/the-testaments-tv-show-charlie-carrick-series-regular-1237066911/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/2022-toronto-international-film-festival-alice-darling-premi-1000x667-1.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "f712c22a3749040d",
+      "title": "‘Fire Country’ & ‘Sheriff Country’ Crossover Event Set At CBS; Matt Lopez Teases What’s Ahead",
+      "quote": "EXCLUSIVE: The new seasons of the hit CBS Friday night lineup, Fire Country (Season 5) and Sheriff Country (Season 2), will collide for one night only as part of a two-hour special crossover event. The episode, the 5th…",
+      "publisher": "Deadline",
+      "author": "Rosy Cordero",
+      "date": "2026-09-03T20:00:00+00:00",
+      "link": "https://deadline.com/2026/09/fire-country-sheriff-country-crossover-event-interview-1237067266/",
+      "image": "https://deadline.com/wp-content/uploads/2026/04/fire-country-sheriff-country-cbs.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "b7d9426a6ed8bd6e",
+      "title": "‘Soul Train Awards’ To Return This Fall On BET & CBS After Hiatus",
+      "quote": "After a three-year pause, the Soul Train Awards are returning to the air. The awards show that honors the best in R&B, hip-hop, soul and gospel will air Friday, November 27 at 8 p.m. ET/PT on BET and, for the first…",
+      "publisher": "Deadline",
+      "author": "Denise Petski",
+      "date": "2026-09-03T19:59:14+00:00",
+      "link": "https://deadline.com/2026/09/soul-train-awards-return-bet-cbs-three-year-pause-1237067359/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-1815655535.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "c13a044d9c8a552b",
+      "title": "‘Wild Horse Nine’ Gets Rapturous 14-Minute Standing Ovation At Venice World Premiere",
+      "quote": "Martin McDonagh’s first feature film in four years, Wild Horse Nine, premiered Thursday evening at the Venice Film Festival, where it earned a rapturous 14-minute, 44-second ovation from the audience in the festival’s…",
+      "publisher": "Deadline",
+      "author": "Zac Ntim",
+      "date": "2026-09-03T19:54:56+00:00",
+      "link": "https://deadline.com/2026/09/wild-horse-nine-14-minutes-ovation-venice-film-festival-1237066729/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Wild-Horse-Nine-Venice-1.jpg",
       "category": "Festival Winners"
+    },
+    {
+      "id": "b2dfb6d84edfc70b",
+      "title": "First Dungeon Crawler Carl Collectibles & Toys Are Worthy Of A Platinum Loot Box",
+      "quote": "The Dungeon Crawler Carl books will soon be a TV show, and Borant Corporation has released the first wave of toys and collectibles. Let's take a look!",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Ethan Anderton)",
+      "date": "2026-09-03T19:21:35+00:00",
+      "link": "https://www.slashfilm.com/2250651/dungeon-crawler-carl-collectibles-toys-first-look-review/",
+      "image": "https://www.slashfilm.com/img/gallery/first-dungeon-crawler-carl-collectibles-toys-are-worthy-of-a-platinum-loot-box/l-intro-1788462171.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "9a1d83c64c81c505",
+      "title": "Oscars: Croatia Selects ‘God Will Not Help’ As Best International Feature Film Submission",
+      "quote": "Croatia has chosen Hana Jušić’s God Will Not Help as its submission for the Best International Feature Film category in the 99th Academy Awards. It is Jušić’s second solo feature film after multi-award-winning 2016…",
+      "publisher": "Deadline",
+      "author": "Melanie Goodfellow",
+      "date": "2026-09-03T19:15:01+00:00",
+      "link": "https://deadline.com/2026/09/oscars-croatia-god-will-not-help-best-international-feature-1237067328/",
+      "image": "https://deadline.com/wp-content/uploads/2025/07/Unknown-23.jpeg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "a98b943baf7ba7c0",
+      "title": "‘Kane Chronicles’ Live-Action Series In Development At Disney+",
+      "quote": "Disney is bringing more of Rick Riordan’s expansive mythological universe to life. A live-action series adaptation of The Kane Chronicles is currently in development at Disney+. Riordan will create the series with…",
+      "publisher": "Deadline",
+      "author": "Katie Campione",
+      "date": "2026-09-03T19:00:00+00:00",
+      "link": "https://deadline.com/2026/09/kane-chronicles-series-development-disney-plus-rick-riordan-1237066163/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Angela-Robinson-and-Rick-Riordan.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "77df64e495200895",
+      "title": "‘I’m Game’ movie review: Dulquer Salmaan-starrer squanders a winning idea",
+      "quote": "In ‘I’m Game’, starring Dulquer Salmaan, filmmaker Nahas Hidhayath manages to keep the hold on the audience only for a while, before indulging in familiar narrative patterns",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-03T18:37:50+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/im-game-movie-review-dulquer-salmaan-starrer-loses-the-plot-in-veering-away-from-a-winner-of-an-idea/article71425675.ece",
+      "image": "https://th-i.thgim.com/public/news/national/kerala/ajmx31/article71424773.ece/alternates/LANDSCAPE_1200/im%20game.jpeg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "04404d538bc6740f",
+      "title": "Oscar contender Wild Horse Nine attacks the CIA",
+      "quote": "The new film by Irish director Martin McDonagh is a 1970s spy yarn with bite",
+      "publisher": "BBC Culture",
+      "author": null,
+      "date": "2026-09-03T18:30:00+00:00",
+      "link": "https://www.bbc.com/culture/article/20260903-oscar-contender-wild-horse-nine-is-a-fierce-attack-on-the-cia-and-may-divide-us-viewers?ocid=global_culture_rss",
+      "image": "https://ychef.files.bbci.co.uk/144x81/p0p7skvf.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "5c7739d379111781",
+      "title": "Mindy Kaling And Max Greenfield Teaming With Tess Sanchez To Develop WBTV Adaptation Of Her Book ‘We’ve Decided To Go In A Different Direction’",
+      "quote": "EXCLUSIVE: Warner Bros. Television has optioned worldwide rights to We’ve Decided to Go in a Different Direction, the bestselling book of essays by Tess Sanchez, for series development. A former Hollywood casting…",
+      "publisher": "Deadline",
+      "author": "Matthewgrobar",
+      "date": "2026-09-03T18:30:00+00:00",
+      "link": "https://deadline.com/2026/09/mindy-kaling-max-greenfield-tess-sanchez-essays-adaptation-1237067084/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Tess-Sanchez-Max-Greenfield-and-Mindy-Kaling.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "a00fff0db8b760a1",
+      "title": "‘By Any Means’ Review: Mark Wahlberg Teaches the Virtues of Violence in Elegance Bratton’s Bluntly Drawn Historical Thriller",
+      "quote": "In Peter Farrelly’s “Green Book,” Viggo Mortensen’s driver famously introduces Mahersahala Ali’s concert pianist to fried chicken. The white man, an expert, proves his cultural bona fides to the Black protagonist, the…",
+      "publisher": "Variety",
+      "author": "Guy Lodge",
+      "date": "2026-09-03T18:12:37+00:00",
+      "link": "https://variety.com/2026/film/reviews/by-any-means-review-mark-wahlberg-1236850708/",
+      "image": "https://variety.com/wp-content/uploads/2026/09/byanymeanswide.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "e215a20fbf2234a2",
+      "title": "Hope Review: Na Hong-Jin's Alien Invasion Epic Needs To Be Seen To Be Believed",
+      "quote": "The wild and intense sci-fi thriller Hope deserves credit for aiming high...even if it can't stick the landing. Here's our review.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Jeremy Mathai)",
+      "date": "2026-09-03T17:48:48+00:00",
+      "link": "https://www.slashfilm.com/2250538/hope-2026-movie-review/",
+      "image": "https://www.slashfilm.com/img/gallery/hope-review-na-hong-jins-alien-invasion-epic-needs-to-be-seen-to-be-believed/l-intro-1788456909.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "eeb745ad47799c24",
+      "title": "‘Too Much Sugar’ Review: Robert Greene’s Playful, High-Energy Doc Marshals a Revealing Family Moviemaking Project",
+      "quote": "Everyone’s a main character in “Too Much Sugar,” a scrappy, agitated, spikily entertaining study of an extended family with a whole community’s worth of backstory, present-tense drama and diverging plans for the future…",
+      "publisher": "Variety",
+      "author": "Guy Lodge",
+      "date": "2026-09-03T17:45:21+00:00",
+      "link": "https://variety.com/2026/film/reviews/too-much-sugar-review-1236849981/",
+      "image": "https://variety.com/wp-content/uploads/2026/09/114395-TOO_MUCH_SUGAR_-_Ryan_Holliger__Credits_Robert_Kolodny_.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "0612da12607f980a",
+      "title": "‘Wild Horse Nine’ Review: John Malkovich and Sam Rockwell Make a Perfect Pair in Martin McDonagh’s Poignant, Blood-Dipped Buddy Comedy",
+      "quote": "Steve Buscemi also stars in this story of two CIA operatives who take a trip to Easter Island while readying for the Chilean military coup that would overthrow the Salvador Allende government.",
+      "publisher": "The Hollywood Reporter",
+      "author": "David Rooney",
+      "date": "2026-09-03T17:35:00+00:00",
+      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/wild-horse-nine-review-john-malkovich-sam-rockwell-mcdonagh-1236689345/",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "843699cb33b5db04",
+      "title": "Wild Horse Nine review: Malkovich and Rockwell head to Easter Island for McDonagh’s acid bromance",
+      "quote": "Venice film festival: Two men, some violence, much freewheeling chat: so far, so standard fare from the Oscar-winning writer-director. But this time the comedy and charm can feel diluted by blood and machismo It isn’t a…",
+      "publisher": "The Guardian",
+      "author": "Peter Bradshaw in Venice",
+      "date": "2026-09-03T17:30:44+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/03/wild-horse-nine-review-sam-rockwell-john-malkovich-martin-mcdonagh",
+      "image": "https://i.guim.co.uk/img/media/6cff6a8d798ffc42d79b21e81c4b008c82655abb/402_0_2501_2001/master/2501.jpg?width=140&quality=85&auto=format&fit=max&s=5f81a8a727003134158d5892270849ef",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "376974e0636df548",
+      "title": "‘Wild Horse Nine’ Review: John Malkovich and Sam Rockwell Are a Perfectly Paired Double Act in Martin McDonagh’s Melancholy ’70s Caper",
+      "quote": "More often than not, a Martin McDonagh script sets out like the start of a joke. Two Irishmen meet in a pub, a hangman and a stranger meet in a pub, two hitmen go on holiday to Belgium, a man searches for his missing…",
+      "publisher": "Variety",
+      "author": "Guy Lodge",
+      "date": "2026-09-03T17:30:00+00:00",
+      "link": "https://variety.com/2026/film/reviews/wild-horse-nine-review-1236849978/",
+      "image": "https://variety.com/wp-content/uploads/2026/06/Wild-Horse-Nine.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "14c18685aec5712c",
+      "title": "‘The Runner’ movie review: Gal Gadot runs flat out to save this generic thriller",
+      "quote": "Gal Gadot’s sprint to save her diabetic son keeps up the tension in this by-the-numbers actioner",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-03T16:33:47+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/the-runner-movie-review-gal-gadot-runs-flat-out-to-save-this-generic-thriller/article71423939.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/xc3mn1/article71425367.ece/alternates/LANDSCAPE_1200/Gal%20Gadot%20in%20%E2%80%98The%20Runner%E2%80%99",
+      "category": "Indian Cinema"
     },
     {
       "id": "b07db28872c1de1b",
@@ -31,28 +218,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "445d02885e8d12a4",
-      "title": "POV Shorts Acquires Oscar Contender ‘The Boys And The Bees’; RaMell Ross, Stacey Reiss Join As E.P.s",
-      "quote": "EXCLUSIVE: POV Shorts has acquired The Boys and the Bees, the Oscar-contending documentary directed by Arielle Knight that won the Grand Jury Prize for nonfiction short at Sundance. The film produced by Knight and Sean…",
-      "publisher": "Deadline",
-      "author": "Matthew Carey",
-      "date": "2026-09-03T16:00:00+00:00",
-      "link": "https://deadline.com/2026/09/the-boys-and-the-bees-pov-shorts-acquisition-1237066425/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/The-Boys-and-the-Bees-still1.png",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "8d09c1762ad36f58",
-      "title": "‘Once Upon A Time In Harlem’ Trailer: Oscar Contender Reveals Extraordinary Reunion Of Harlem Renaissance Leaders",
-      "quote": "Neon is releasing a trailer for its Oscar-contending documentary Once Upon a Time in Harlem, a magical time capsule of a film that has been more than 50 years in the making. The feature conceived and filmed by the late…",
-      "publisher": "Deadline",
-      "author": "Matthew Carey",
-      "date": "2026-09-03T16:00:00+00:00",
-      "link": "https://deadline.com/2026/09/once-upon-a-time-in-harlem-trailer-1237066860/",
-      "image": "https://deadline.com/wp-content/uploads/2026/01/Still-2-ONCE-UPON-A-TIME-IN-HARLEM_image-from-1972.jpg",
-      "category": "Festival Winners"
-    },
-    {
       "id": "5514c69f09af3997",
       "title": "Strange New Worlds Season 4 Redeems One Of Star Trek's Most Mocked Jobs",
       "quote": "Star Trek: Strange New Worlds is remedying a common criticism lobbied against Star Trek: The Next Generation with a great new character.",
@@ -60,52 +225,8 @@
       "author": "staff@slashfilm.com (Devin Meenan)",
       "date": "2026-09-03T16:00:00+00:00",
       "link": "https://www.slashfilm.com/2250076/star-trek-strange-new-worlds-season-4-redemption-mocked-job-ship-counselor/",
-      "image": "https://www.slashfilm.com/img/gallery/strange-new-worlds-season-4-redeems-one-of-star-treks-most-mocked-jobs/l-intro-1788399123.jpg",
+      "image": "https://www.slashfilm.com/img/gallery/star-trek-strange-new-worlds-season-4-redemption-mocked-job-ship-counselor/l-intro-1788452999.jpg",
       "category": "Indie Gems"
-    },
-    {
-      "id": "8f234eb96d4785d4",
-      "title": "‘Maxton Hall’: Teaser Trailer For Prime Video’s YA Hit Promises Explosive Finale For Ruby & James",
-      "quote": "Safe to say it won’t be smooth sailing for the students of Maxton Hall – The World Between Us in Season 3. A teaser trailer that just dropped for the Prime Video hit promises all the drama one final time, with Harriet…",
-      "publisher": "Deadline",
-      "author": "Jesse Whittock",
-      "date": "2026-09-03T15:55:12+00:00",
-      "link": "https://deadline.com/2026/09/maxton-hall-world-between-us-season-3-trailer-prime-video-1237066964/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/maxton3.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "538a765f75648be7",
-      "title": "Venice Film Festival 2026: Read All Of Deadline’s Reviews",
-      "quote": "The 2026 Venice Film Festival got underway on Wednesday, September 2, with Oscar-winning English director Danny Boyle’s Ink — starring Jack O’Connell, Guy Pearce and Claire Foy — kicking off an 83rd edition that…",
-      "publisher": "Deadline",
-      "author": "Erik Pedersen",
-      "date": "2026-09-03T15:54:00+00:00",
-      "link": "https://deadline.com/2026/09/venice-film-festival-2026-reviews-deadline-1237065820/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Venice-Film-Festival-Reviews-2026.jpg",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "a5767d2c3a9f6350",
-      "title": "Warner Bros Discovery Strikes Turkish Scripted Deal With Local Media Giant Dogus",
-      "quote": "Warner Bros. Discovery (WBD) and Doğuş Media Group are teaming to supercharge Turkish scripted shows. A new strategic partnership will see them co-finance and co-broadcast shows, with the upcoming romantic comedy-drama…",
-      "publisher": "Deadline",
-      "author": "Jesse Whittock",
-      "date": "2026-09-03T15:41:22+00:00",
-      "link": "https://deadline.com/2026/09/warner-bros-discovery-turkish-scripted-deal-1237066953/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Salted-Love_ep1_10.png",
-      "category": "World Cinema"
-    },
-    {
-      "id": "1f4f1b83dc558961",
-      "title": "Disney+ Will House “Several Hundred” Episodes From France’s M6 After Latest Euro Deal",
-      "quote": "Disney+’s ongoing quest to strike content deals with Europe’s top broadcaster continued today in France. The Disney streamer struck a deal with Groupe M6, which will ultimately see “several hundred” episodes from four…",
-      "publisher": "Deadline",
-      "author": "Jesse Whittock",
-      "date": "2026-09-03T15:29:47+00:00",
-      "link": "https://deadline.com/2026/09/disney-groupe-m6-content-deal-1237066894/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/M6-and-Disney.jpeg",
-      "category": "World Cinema"
     },
     {
       "id": "502c2182211bf840",
@@ -119,15 +240,15 @@
       "category": "World Cinema"
     },
     {
-      "id": "b347e73353a189f4",
-      "title": "‘Bucking Fastard’ Review: Werner Herzog’s Eccentric Comedy Is A Bittersweet Tale Of Unrequited Lovers – Venice Film Festival",
-      "quote": "Werner Herzog’s latest film Bucking Fastard begins with a dedication to David Lynch, and though it becomes more and more unmoored from reality as time goes by, the film it most resembles is perhaps Lynch’s most…",
-      "publisher": "Deadline",
-      "author": "Damon Wise",
-      "date": "2026-09-03T15:01:00+00:00",
-      "link": "https://deadline.com/2026/09/bucking-fastard-review-werner-herzog-kate-mara-rooney-mara-1237064334/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/114367-BUCKING_FASTARD_-_Rooney_Mara_and_Kate_Mara__Credits_Gateway_to_Orkney_LLC___2_.jpg",
-      "category": "Festival Winners"
+      "id": "8af7f9e853cf8266",
+      "title": "‘Bucking Fastard’ Review: Herner Werzog’s Uddled-Mup Fairytale Stars the Mara Sisters as You’ve Never Seen Her Before",
+      "quote": "Occasionally sublime, often ridiculous and always extravagantly weird, Werner Herzog’s “Bucking Fastard,” unlike its gorgeously interlinked protagonists, is a film of multiple personalities that only rarely speak in…",
+      "publisher": "Variety",
+      "author": "Jessica Kiang",
+      "date": "2026-09-03T15:00:00+00:00",
+      "link": "https://variety.com/2026/film/reviews/bucking-fastard-review-1236846930/",
+      "image": "https://variety.com/wp-content/uploads/2026/08/Bucking-Fastard.jpg",
+      "category": "World Cinema"
     },
     {
       "id": "22ec6c0f9d25a660",
@@ -207,6 +328,17 @@
       "category": "Festival Winners"
     },
     {
+      "id": "eb28a86ad7a5c275",
+      "title": "‘Mayday’ movie review: Ryan Reynolds and Kenneth Branagh co-pilot a rollicking bromance through the Danger Zone",
+      "quote": "John Francis Daley and Jonathan Goldstein send ‘Top Gun’ nostalgia into the Cold War with Ryan Reynolds and Kenneth Branagh making a surprisingly winning pair of wingmen",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-03T12:05:59+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/mayday-apple-tv-movie-review-ryan-reynolds-kenneth-branagh/article71423682.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/5sqinq/article71423675.ece/alternates/LANDSCAPE_1200/Screenshot%202026-09-03%20170728.png",
+      "category": "Indian Cinema"
+    },
+    {
       "id": "8769da223f92a550",
       "title": "Tall tales: the 20 best giants in film – ranked!",
       "quote": "On the 300th anniversary of Gulliver’s Travels, we celebrate the biggest film stars of them all – from a stone colossus to a metal-munching alien and a 50ft woman on the rampage Not a first-person-shooter BFG , alas…",
@@ -262,17 +394,6 @@
       "category": "Indian Cinema"
     },
     {
-      "id": "854b528e3342617a",
-      "title": "Gal Gadot's 84-Minute Action Thriller Is Officially Prime Video's Biggest Streaming Hit",
-      "quote": "Gal Gadot has to run to save her son in The Runner, a new direct to streaming thriller that's become a big hit on Prime Video.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Chris Evangelista)",
-      "date": "2026-09-03T11:42:01+00:00",
-      "link": "https://www.slashfilm.com/2250182/gal-gadot-action-thriller-the-runner-streaming-prime-video-september-2026/",
-      "image": "https://www.slashfilm.com/img/gallery/gal-gadot-action-thriller-the-runner-streaming-prime-video-september-2026/l-intro-1788451718.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "73c4de678252df86",
       "title": "New film Ink makes Rupert Murdoch into a hero",
       "quote": "This drama about Murdoch's early professional years has premiered in Venice",
@@ -317,39 +438,6 @@
       "category": "Indian Cinema"
     },
     {
-      "id": "9ef48baab3d19115",
-      "title": "Kit Harington replaces Nicholas Hoult as Gilderoy Lockhart in HBO’s ‘Harry Potter’",
-      "quote": "Kit Harington has been cast as Gilderoy Lockhart in Season 2 of HBO’s ‘Harry Potter’ series, replacing Nicholas Hoult, who has exited the role because of scheduling conflicts",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-03T09:32:43+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/kit-harington-replaces-nicholas-hoult-as-gilderoy-lockhart-in-hbos-harry-potter/article71387855.ece",
-      "image": "https://th-i.thgim.com/public/incoming/28e7gt/article71387847.ece/alternates/LANDSCAPE_1200/NY_Premiere_of__Industry__Season_3_46808.jpg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "1990b75fe879b0e0",
-      "title": "‘Harry Potter and the Philosopher’s Stone’ trailer: First look at new Trio, Snape, Dumbledore and Hogwarts in HBO’s series reboot",
-      "quote": "Hogwarts returns in HBO’s first ‘Harry Potter’ trailer, introducing a new generation of the trio and reimagined versions of Snape, Dumbledore and more for a Christmas 2026 launch",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-03T09:30:16+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/harry-potter-and-the-philosophers-stone-trailer-first-look-at-new-trio-snape-dumbledore-and-hogwarts-in-hbos-series-reboot/article70786879.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/uyilt9/article70786862.ece/alternates/LANDSCAPE_1200/Screenshot%202026-03-26%20105514.png",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "9cf7c1cf54000e10",
-      "title": "Devashish Makhija on ‘Joram’: ‘Politics and arts should be allowed to cross-pollinate’",
-      "quote": "As ‘Joram' continues to find audiences, writer-director Devashish Makhija talks about how he discovered his voice and the growing disenchantment of Hindi cinema with political themes",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-03T09:11:29+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/devashish-makhija-on-joram-politics-and-arts-should-be-allowed-to-cross-pollinate/article68177603.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/fdr9yv/article68177959.ece/alternates/LANDSCAPE_1200/IMG20240512203333.jpg",
-      "category": "Indian Cinema"
-    },
-    {
       "id": "369910778f110584",
       "title": "Star Trek IV: The Voyage Home review – Kirk, Spock and co on semi-intentionally hilarious save-the-whale mission",
       "quote": "Our heroes travel back through time to San Francisco in 1986 so they can commune with aliens threatening future Earth – it’s preposterously good fun Here is the fourth and silliest movie in the Star Trek franchise, now…",
@@ -391,17 +479,6 @@
       "date": "2026-09-03T02:00:50+00:00",
       "link": "https://www.avclub.com/the-shards-recap-episode-eight-hamlet",
       "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/03003429/MixCollage-02-Sep-2026-11-33-PM-8562.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "7dd72180d8b44aa8",
-      "title": "This Forgotten Fantasy Sitcom Is A '50s Gem With Episodes Streaming For Free On Tubi",
-      "quote": "Long before Beetlejuice, there was Topper, a '50s sitcom about a dead married couple and the annoyed living person who can see their ghosts.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Witney Seibold)",
-      "date": "2026-09-03T00:45:00+00:00",
-      "link": "https://www.slashfilm.com/2249511/fantasy-sitcom-topper-streaming-free-tubi/",
-      "image": "https://www.slashfilm.com/img/gallery/this-forgotten-fantasy-sitcom-is-a-50s-gem-with-episodes-streaming-for-free-on-tubi/l-intro-1788360896.jpg",
       "category": "Indie Gems"
     },
     {
@@ -504,17 +581,6 @@
       "category": "Festival Winners"
     },
     {
-      "id": "56d7391314e1fc6b",
-      "title": "Female film-makers still being squeezed out of industry, London film festival director says",
-      "quote": "Over 40% of films in LFF programme are female-made, but only two of 21 gala films are directed by women Female film-makers are still being squeezed out of the industry as they progress beyond their debut films, the…",
-      "publisher": "The Guardian",
-      "author": "Nadia Khomami Arts and culture correspondent",
-      "date": "2026-09-02T18:00:07+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/02/female-film-makers-squeezed-out-of-industry-bfi-london-film-festival",
-      "image": "https://i.guim.co.uk/img/media/02795ef029d96996045f4b0f505c6e0736bcf677/464_0_4383_3507/master/4383.jpg?width=140&quality=85&auto=format&fit=max&s=4a8b69932a100c6f4ba8792eef56d7d2",
-      "category": "World Cinema"
-    },
-    {
       "id": "a37c5c4016c60fbf",
       "title": "‘Ink’ Review: Danny Boyle’s Gripping, Sizzling Film About How a People’s Paper Lost Its Humanity, and Won",
       "quote": "“People need stories,” says Larry Lamb, beleaguered editor of leading British tabloid The Sun, at a late point in “Ink,” a propulsive, can’t-look-away account of his simultaneously triumphant and regrettable career…",
@@ -603,28 +669,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "6f2573914e6f390b",
-      "title": "‘The Girl With The Leica’ Review: An Impressionistic Portrait of Gerda Taro, the Woman Who Shared the Artistic Identity of Robert Capa",
-      "quote": "For many people, the name Robert Capa evokes a mysterious, jet-setting American photographer responsible for some of the mid-20th century’s most iconic images from the frontlines of war. In the fascinating “The Girl…",
-      "publisher": "Variety",
-      "author": "Alissasimon",
-      "date": "2026-09-02T14:00:00+00:00",
-      "link": "https://variety.com/2026/film/reviews/the-girl-with-the-leica-review-1236848286/",
-      "image": "https://variety.com/wp-content/uploads/2026/09/3_THE_GIRL_WITH_THE_LEICA_La-ragazza-con-la-Leica_Photo-Credit_Alberto-Novelli-2026-Vivo-film-Komplizen-Film-ZDFARTE-Eolo-film-ProductionsAlberto-Novelli.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "ebd7f86a3bb2a773",
-      "title": "‘Runner’ Review: Alan Ritchson and Owen Wilson in an Impressively Visceral Buddy Thriller That Leaves Behind a Bad Taste",
-      "quote": "A courier with very special skills battles cartel members to deliver a desperately needed human organ in Scott Waugh's film.",
-      "publisher": "The Hollywood Reporter",
-      "author": "Frank Scheck",
-      "date": "2026-09-02T14:00:00+00:00",
-      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/runner-review-alan-ritchson-owen-wilson-1236680903/",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
       "id": "36109093fc948ca3",
       "title": "The Runner",
       "quote": "The only exercise you’ll get is in your mind running through the ways it makes no sense.",
@@ -666,39 +710,6 @@
       "date": "2026-09-02T08:00:26+00:00",
       "link": "https://www.theguardian.com/film/2026/sep/02/late-fame-review-willem-dafoe",
       "image": "https://i.guim.co.uk/img/media/16dc48a4225f643144f009379e3b2ba68e877958/211_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=f32720d8715a923ffb8e0d6be6323491",
-      "category": "World Cinema"
-    },
-    {
-      "id": "468fe85833d647ac",
-      "title": "‘The Runner’ Review: Gal Gadot Is a Mother on a Rescue Mission in an Energetic but Uninspired Amazon Thriller",
-      "quote": "A frantic journey across London on foot provides a lot of exercise for Gal Gadot, but not much reward for viewers, in “The Runner.” Hardly the first thriller centering on an exceptionally action-ready parent surmounting…",
-      "publisher": "Variety",
-      "author": "Dharv2014",
-      "date": "2026-09-02T04:00:00+00:00",
-      "link": "https://variety.com/2026/film/reviews/the-runner-review-gal-gadot-1236847013/",
-      "image": "https://variety.com/wp-content/uploads/2026/07/RUNNER_3.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "eb150e9555179499",
-      "title": "‘Down the Arm of God’ Review: Caleb Landry Jones Finds That God’s House Isn’t a Home in a Stirring Social Drama",
-      "quote": "A harvester of disease in “Antiviral,” a white supremacist in “Get Out,” mass murderer Martin Bryant in “Nitram,” Vlad the Impaler himself in “Dracula”: Caleb Landry Jones has carved such a niche for himself playing men…",
-      "publisher": "Variety",
-      "author": "Guy Lodge",
-      "date": "2026-09-01T13:58:24+00:00",
-      "link": "https://variety.com/2026/film/reviews/down-the-arm-of-god-review-1236848102/",
-      "image": "https://variety.com/wp-content/uploads/2026/09/DTAOG-1st-Photo-Printrecadr-2-1.webp",
-      "category": "World Cinema"
-    },
-    {
-      "id": "725477a05e967bda",
-      "title": "‘Sacred Creatures’ Review: Slippery Canadian-Italian Satire Follows the Cult and Collapse of a Questionable Guru",
-      "quote": "As the great Aretha Franklin taught us, it’s usually a backhanded approach to begin a critique with praise for the gowns. Or gown, in the case of “Sacred Creatures,” a microbudget hothouse drama otherwise not given to…",
-      "publisher": "Variety",
-      "author": "Guy Lodge",
-      "date": "2026-08-31T20:40:31+00:00",
-      "link": "https://variety.com/2026/film/reviews/sacred-creatures-review-1236847462/",
-      "image": "https://variety.com/wp-content/uploads/2026/08/sacred-creatures.webp",
       "category": "World Cinema"
     },
     {
@@ -787,17 +798,6 @@
       "date": "2026-08-26T11:00:00+00:00",
       "link": "https://www.bbc.com/culture/article/20260522-the-best-books-of-2026?ocid=global_culture_rss",
       "image": "https://ychef.files.bbci.co.uk/144x81/p0p6b1pr.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "f9f3a148bc00ec10",
-      "title": "How Dolly became the world's most-loved star",
-      "quote": "What made the country singer so appealing to so many?",
-      "publisher": "BBC Culture",
-      "author": null,
-      "date": "2026-08-25T20:30:00+00:00",
-      "link": "https://www.bbc.com/culture/article/20201204-how-dolly-parton-became-the-worlds-best-loved-celebrity?ocid=global_culture_rss",
-      "image": "https://ychef.files.bbci.co.uk/144x81/p090j5vp.jpg",
       "category": "World Cinema"
     },
     {
