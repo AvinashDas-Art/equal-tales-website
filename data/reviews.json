@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T04:02:32.662515+00:00",
+  "generated_at": "2026-09-03T11:01:29.312068+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -9,37 +9,235 @@
   ],
   "reviews": [
     {
-      "id": "9023d5dd83ef93e1",
-      "title": "Heidi Klum Returning To ‘America’s Got Talent’ Amid Simon Cowell’s Absence",
-      "quote": "As Simon Cowell continues to recover from back surgery, another America’s Got Talent alum is returning to the judges table. On Wednesday’s episode of the NBC reality competition series, it was announced that Heidi Klum…",
-      "publisher": "Deadline",
-      "author": "Glenn Garner",
-      "date": "2026-09-03T03:21:30+00:00",
-      "link": "https://deadline.com/2026/09/heidi-klum-returning-americas-got-talent-simon-cowell-1237066480/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-1681035642.jpg",
+      "id": "73c4de678252df86",
+      "title": "New film Ink makes Rupert Murdoch into a hero",
+      "quote": "This drama about Murdoch's early professional years has premiered in Venice",
+      "publisher": "BBC Culture",
+      "author": null,
+      "date": "2026-09-03T11:00:00+00:00",
+      "link": "https://www.bbc.com/culture/article/20260903-rollicking-new-film-ink-makes-divisive-media-mogul-rupert-murdoch-into-a-hero?ocid=global_culture_rss",
+      "image": "https://ychef.files.bbci.co.uk/144x81/p0p7psrz.jpg",
       "category": "World Cinema"
     },
     {
-      "id": "5c2e2d0504b88563",
-      "title": "Nicholas Todisco & Brad Pence Exiting Atlas Artists",
-      "quote": "EXCLUSIVE: Nicholas Todisco and Brad Pence, a pair of partners at L.A.-based management company Atlas Artists, are exiting the company, Deadline has learned. Notable actor clients for the duo include Hannah Waddingham…",
+      "id": "b4a947d2fc74f086",
+      "title": "Malayali visual effects artist Nijesh Sidharthan finds his space in the artistic circles of Australia",
+      "quote": "Besides working on notable Hollywood productions as a visual effects artist, Nijesh Sidharthan, who hails from Wayanad, recently won two awards at an art show in Australia with his watercolour paintings",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-03T10:53:40+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/visual-effects-artist-nijesh-sidharthan-big-win-in-art-circles-in-australia/article71420628.ece",
+      "image": "https://th-i.thgim.com/public/incoming/28g09s/article71420789.ece/alternates/LANDSCAPE_1200/04tvm%20nijesh.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "b230a9e7b3a9f04d",
+      "title": "Amelia Dimoldenberg’s Hit YouTube Series ‘Chicken Shop Date’ To End After 12-Year Run",
+      "quote": "Amelia Dimoldenberg, the creator behind Chicken Shop Date, has announced that she is bringing the hit YouTube interview series to a close after a “final few dates”. The online creator, who began the series as a column…",
       "publisher": "Deadline",
-      "author": "Glenn Garner",
-      "date": "2026-09-03T03:01:28+00:00",
-      "link": "https://deadline.com/2026/09/atlas-artists-nicholas-todisco-brad-pence-exit-management-co-1237066465/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Atlas-Artists.jpg",
+      "author": "Dianalodderhose",
+      "date": "2026-09-03T10:49:24+00:00",
+      "link": "https://deadline.com/2026/09/amelia-dimoldenbergs-youtube-chicken-shop-date-to-end-1237066634/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/MixCollage-03-Sep-2026-11-19-AM-2595.jpg",
       "category": "World Cinema"
     },
     {
-      "id": "d335f432b9dae2ed",
-      "title": "Trump’s DOJ Skewered By NYT For Backing OpenAI & “Trillion-Dollar AI Companies” In Copyright Suit Featuring Media Heavyweights & Star-Studded Scribes",
-      "quote": "Donald Trump told GOP congressional candidates visiting the White House on Wednesday evening that “the media has gained respect for us, they cannot believe what we’ve done.” The New York Times might beg to differ, at…",
+      "id": "659d2947e4ce5ab8",
+      "title": "French TV In Focus: Screenings & Shows To Watch At The Unifrance Rendez-Vous",
+      "quote": "The Unifrance Rendez-Vous is about to get underway, with the French distributors presenting their wares to international buyers. The focus is squarely on French programming and buyers are getting a look at the best…",
       "publisher": "Deadline",
-      "author": "Dominic Patten",
-      "date": "2026-09-03T01:29:00+00:00",
-      "link": "https://deadline.com/2026/09/new-york-times-justice-department-openai-1237066310/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/openAI-NYT-getty-image.jpg",
+      "author": "Stewart Clarke",
+      "date": "2026-09-03T10:49:01+00:00",
+      "link": "https://deadline.com/2026/09/unifrance-rendez-vous-french-tv-screenings-shows-to-watch-1237066639/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/BO6A6019Unifrance.jpg",
       "category": "World Cinema"
+    },
+    {
+      "id": "448e4c2420e3f90a",
+      "title": "Tubi Turns To Football Freestylers Woody & Kleiny For First UK Original From Creators Program",
+      "quote": "EXCLUSIVE: Tubi has put its boots on for a first UK original made with creators. The free streaming platform has ordered Wheel of Misfortune, a series from football freestylers Paul Wood and Paul Klein, or Woody &…",
+      "publisher": "Deadline",
+      "author": "Jesse Whittock",
+      "date": "2026-09-03T10:30:00+00:00",
+      "link": "https://deadline.com/2026/09/tubi-wheel-of-misfortune-woody-kleiny-uk-creators-original-1237066596/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Wheel-of-Misfortune-e1788427063220.png",
+      "category": "World Cinema"
+    },
+    {
+      "id": "7e71d1da80f61e43",
+      "title": "Sandra Hüller To Star As Celebrated Late Male German Artist Wolfgang Herrndorf’s In Maria Schrader’s ‘Work And Structure’",
+      "quote": "Oscar-nominated actress Sandra Hüller is set to star as late acclaimed German writer and artist Wolfgang Herrndorf in the upcoming feature Work and Structure (Arbeit und Struktur) by Maria Schrader. The production…",
+      "publisher": "Deadline",
+      "author": "Melanie Goodfellow",
+      "date": "2026-09-03T10:06:28+00:00",
+      "link": "https://deadline.com/2026/09/sandra-huller-male-artist-wolfgang-herrndorf-schrader-1237066632/",
+      "image": "https://deadline.com/wp-content/uploads/2024/03/GettyImages-2066788952.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "dfcf83cc7e5cfbd7",
+      "title": "‘Romanchakam’ movie review: A comedy-drama that is more frustrating than fun",
+      "quote": "Venu Gopal Reddy’s Telugu film works better as a buddy comedy than a love story, and could have benefited from sharper writing",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-03T10:02:47+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/romanchakam-movie-review-a-comedy-drama-that-is-more-frustrating-than-fun/article71422204.ece",
+      "image": "https://th-i.thgim.com/public/incoming/l71079/article71423247.ece/alternates/LANDSCAPE_1200/RADHA%20RAMANA%20X_POST_WWM.jpg.jpeg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "35bdad2c44ca3d0a",
+      "title": "Jeff Goldblum To Host Season 2 Premiere Of ‘Saturday Night Live UK’",
+      "quote": "SNL UK has snagged a Wicked new guest host for its Season 2 opener. Saturday Night Live UK will return to Sky on September 12 with Jurassic Park star Jeff Goldblum presiding over the debut episode. Goldblum is something…",
+      "publisher": "Deadline",
+      "author": "Jake Kanter",
+      "date": "2026-09-03T10:01:00+00:00",
+      "link": "https://deadline.com/2026/09/jeff-goldblum-saturday-night-live-uk-season-2-premiere-1237066579/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Goldblum_PC_-PariDukovic-.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "536bc4b1762dc8d3",
+      "title": "Unifrance’s Rendez-Vous Brings French Sellers & Global Buyers Together Amid Industry Shifts",
+      "quote": "The biggest French-language TV market of the year kicks off next week, marking its third year in the city of Le Havre in northern France. Organized by Unifrance, the org that promotes French TV and cinema, the annual…",
+      "publisher": "Deadline",
+      "author": "Stewart Clarke",
+      "date": "2026-09-03T09:34:48+00:00",
+      "link": "https://deadline.com/2026/09/unifrance-rendez-vous-le-havre-2026-1237066589/",
+      "image": "https://deadline.com/wp-content/uploads/2024/08/Le-Havre-France.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "f62399970671b31c",
+      "title": "‘Harry Potter’ trailer: HBO reveals first Quidditch, Sorting Hat and Hogwarts footage",
+      "quote": "The new trailer offers the most detailed look yet at HBO’s ambitious television adaptation of ‘Harry Potter and the Philosopher’s Stone’, which premieres this Christmas",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-03T09:33:55+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/harry-potter-trailer-hbo-reveals-first-quidditch-sorting-hat-and-hogwarts-footage/article71423004.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/r4jlom/article71423001.ece/alternates/LANDSCAPE_1200/Screenshot%202026-09-03%20140006.png",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "9ef48baab3d19115",
+      "title": "Kit Harington replaces Nicholas Hoult as Gilderoy Lockhart in HBO’s ‘Harry Potter’",
+      "quote": "Kit Harington has been cast as Gilderoy Lockhart in Season 2 of HBO’s ‘Harry Potter’ series, replacing Nicholas Hoult, who has exited the role because of scheduling conflicts",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-03T09:32:43+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/kit-harington-replaces-nicholas-hoult-as-gilderoy-lockhart-in-hbos-harry-potter/article71387855.ece",
+      "image": "https://th-i.thgim.com/public/incoming/28e7gt/article71387847.ece/alternates/LANDSCAPE_1200/NY_Premiere_of__Industry__Season_3_46808.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "1990b75fe879b0e0",
+      "title": "‘Harry Potter and the Philosopher’s Stone’ trailer: First look at new Trio, Snape, Dumbledore and Hogwarts in HBO’s series reboot",
+      "quote": "Hogwarts returns in HBO’s first ‘Harry Potter’ trailer, introducing a new generation of the trio and reimagined versions of Snape, Dumbledore and more for a Christmas 2026 launch",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-03T09:30:16+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/harry-potter-and-the-philosophers-stone-trailer-first-look-at-new-trio-snape-dumbledore-and-hogwarts-in-hbos-series-reboot/article70786879.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/uyilt9/article70786862.ece/alternates/LANDSCAPE_1200/Screenshot%202026-03-26%20105514.png",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "22f5c5ad8bcc7919",
+      "title": "Calls Grow For Palestinian Flag To Fly At Venice Film Festival As Artistic Director Says Not Possible To Meet Request",
+      "quote": "The Venice4Palestine collective has reiterated calls for the Palestinian flag to fly at the Venice Film Festival after its Artistic Director Alberto Barbera told Italian media the request could not be met because…",
+      "publisher": "Deadline",
+      "author": "Melanie Goodfellow",
+      "date": "2026-09-03T09:24:32+00:00",
+      "link": "https://deadline.com/2026/09/calls-palestinian-flag-fly-venice-film-festival-1237066599/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/IMG_6657-rotated.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "9cf7c1cf54000e10",
+      "title": "Devashish Makhija on ‘Joram’: ‘Politics and arts should be allowed to cross-pollinate’",
+      "quote": "As ‘Joram' continues to find audiences, writer-director Devashish Makhija talks about how he discovered his voice and the growing disenchantment of Hindi cinema with political themes",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-03T09:11:29+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/devashish-makhija-on-joram-politics-and-arts-should-be-allowed-to-cross-pollinate/article68177603.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/fdr9yv/article68177959.ece/alternates/LANDSCAPE_1200/IMG20240512203333.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "10983ece1cbef8c3",
+      "title": "‘Mardaani 3’ movie review: A Rani Mukerji project that loses steam after half-time",
+      "quote": "The socially relevant takedown of the child-trafficking and begging mafia is marred by predictable plot twists, bombast, and antagonists who are less menacing than in previous instalments",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-03T09:10:34+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/mardaani-3-movie-review-a-rani-mukerji-project-that-loses-steam-after-half-time/article70570842.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/qsmu9o/article70570756.ece/alternates/LANDSCAPE_1200/Rani%204.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "16dd98ca998b2e81",
+      "title": "Goalhanger Wants To Make The “British Bourne” With Geopolitical Audio Drama ‘Bear Hunt’",
+      "quote": "EXCLUSIVE: The Rest is Entertainment maker Goalhanger is behind an audio drama series that it is billing as the “British Bourne.” Bear Hunt is the first release from Goalhanger Drama, a new scripted unit for Gary…",
+      "publisher": "Deadline",
+      "author": "Jesse Whittock",
+      "date": "2026-09-03T09:02:46+00:00",
+      "link": "https://deadline.com/2026/09/goalhanger-audio-drama-bear-hunt-launches-1237066584/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/HEADER-1-e1788424968933.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "b5b8a1221e0f06ac",
+      "title": "‘Hanuman Ansh’: This Hindi film on Neem Karoli Baba has crossed Rs 50 crore at box office",
+      "quote": "The devotional drama has been written, produced and directed by Vishal Chaturvedi",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-03T08:49:30+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/hanuman-ansh-this-hindi-film-on-neem-karoli-baba-has-crossed-rs-50-crore-at-box-office/article71423015.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/mmfp85/article71423021.ece/alternates/LANDSCAPE_1200/cvr%2013.png",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "369910778f110584",
+      "title": "Star Trek IV: The Voyage Home review – Kirk, Spock and co on semi-intentionally hilarious save-the-whale mission",
+      "quote": "Our heroes travel back through time to San Francisco in 1986 so they can commune with aliens threatening future Earth – it’s preposterously good fun Here is the fourth and silliest movie in the Star Trek franchise, now…",
+      "publisher": "The Guardian",
+      "author": "Peter Bradshaw",
+      "date": "2026-09-03T08:00:47+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/03/star-trek-iv-the-voyage-home-review-kirk-spock-and-co-on-semi-intentionally-hilarious-save-the-whale-mission",
+      "image": "https://i.guim.co.uk/img/media/f05955e6602167277eaf271a3ace07db7f70b8c8/174_0_1491_1193/master/1491.jpg?width=140&quality=85&auto=format&fit=max&s=3400e302fe4e64b83a3727af2877305c",
+      "category": "World Cinema"
+    },
+    {
+      "id": "1a7f97246e9661f5",
+      "title": "Guy Ritchie romp The Gentlemen expands its empire of excess in season 2",
+      "quote": "A frustrating lack of Daniel Ings notwithstanding, Guy Ritchie's gangster extravaganza returns for another entertaining ride.",
+      "publisher": "The A.V. Club",
+      "author": "Saloni Gajjar",
+      "date": "2026-09-03T07:00:22+00:00",
+      "link": "https://www.avclub.com/the-gentlemen-review-season-2-netflix-guy-ritchie",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/02145912/the-gentlemen-s2.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "d3faf01cd8b8b759",
+      "title": "Lomu review – fascinatingly nuanced tribute to rugby’s first superstar",
+      "quote": "His destructive pace and power changed the game for ever, but behind the fame and ineffable exterior of this gentle giant was a life of chaos and emotional discord There’s an inevitable air of melancholy overhanging…",
+      "publisher": "The Guardian",
+      "author": "Andrew Pulver",
+      "date": "2026-09-03T06:00:45+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/03/lomu-review-fascinatingly-nuanced-tribute-to-rugbys-first-superstar",
+      "image": "https://i.guim.co.uk/img/media/3bb8df19aa4399396c0c16c47714f4170a27b2b5/459_0_4082_3266/master/4082.jpg?width=140&quality=85&auto=format&fit=max&s=8627b33bd5ddf26336dcd6e4791db550",
+      "category": "World Cinema"
+    },
+    {
+      "id": "baad9ae0c4aaed45",
+      "title": "The Shards attempts an episode of vignettes and fails miserably",
+      "quote": "The Shards recap: FX series wastes its penultimate hour on three wild swings.",
+      "publisher": "The A.V. Club",
+      "author": "Ben Rosenstock",
+      "date": "2026-09-03T02:00:50+00:00",
+      "link": "https://www.avclub.com/the-shards-recap-episode-eight-hamlet",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/03003429/MixCollage-02-Sep-2026-11-33-PM-8562.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "7dd72180d8b44aa8",
@@ -53,59 +251,48 @@
       "category": "Indie Gems"
     },
     {
-      "id": "97d390ef665c1c8e",
-      "title": "Google Won’t Have To Break Up Its Ad Business, Judge Rules, Though It Will Have To Change Its Ways",
-      "quote": "Google will not have to break up its advertising operations, a federal judge has ruled, though it will have to alter its business practices. Leonie M. Brinkema, U.S. District Judge of the Eastern District of Virginia…",
-      "publisher": "Deadline",
-      "author": "Dade Hayes",
-      "date": "2026-09-02T23:53:59+00:00",
-      "link": "https://deadline.com/2026/09/google-advertising-business-federal-judge-1237066345/",
-      "image": "https://deadline.com/wp-content/uploads/2025/04/GettyImages-1919905342.jpg",
+      "id": "ce7e08595196e9bd",
+      "title": "Elliot Page says he hasn't gotten a job offer since filming The Odyssey",
+      "quote": "\"I know I get some pushback for being Canadian,\" Page joked in an interview while discussing his post-<i>Odyssey</i> job prospects.",
+      "publisher": "The A.V. Club",
+      "author": "William Hughes",
+      "date": "2026-09-03T00:11:08+00:00",
+      "link": "https://www.avclub.com/elliot-page-no-job-offers-since-filming-odyssey",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2025/01/29230552/page-feature.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "c224bea097b395b5",
+      "title": "Wile E. Coyote did a Reddit AMA, has some David Zaslav thoughts",
+      "quote": "Corporate-run AMAs can be a little bland, but, to be fair, he's a pretty expressive coyote.",
+      "publisher": "The A.V. Club",
+      "author": "William Hughes",
+      "date": "2026-09-02T23:23:08+00:00",
+      "link": "https://www.avclub.com/coyote-reddit-ama-david-zaslav",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/02191718/coyote-ama-feature.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "e5ce1c0d470727b3",
+      "title": "‘The Sun Never Sets’ Review: Dakota Fanning and Jake Johnson Split, Maybe, in Joe Swanberg’s Unsatisfying Romcom",
+      "quote": "Long past his sexually explicit enfant terrible mumblecore origins, writer-director Joe Swanberg continues his ongoing experiments in honoring the romantic comedy’s conventional satisfactions while expanding its sexual…",
+      "publisher": "Variety",
+      "author": "Guy Lodge",
+      "date": "2026-09-02T23:14:01+00:00",
+      "link": "https://variety.com/2026/film/reviews/the-sun-never-sets-review-dakota-fanning-1236849830/",
+      "image": "https://variety.com/wp-content/uploads/2026/08/THE-SUN-NEVER-SETS.jpeg",
       "category": "World Cinema"
     },
     {
-      "id": "c22b33de791a03a7",
-      "title": "David Zayas Returning For ‘Dexter: Resurrection’ Season 2 — Is Batista Alive?",
-      "quote": "Dexter star David Zayas is returning to his fan-favorite role of Angel Batista for the second season of Showtime’s Dexter: Resurrection, sources confirm to Deadline. Zayas was spotted shooting alongside series lead…",
-      "publisher": "Deadline",
-      "author": "Rosy Cordero",
-      "date": "2026-09-02T23:48:48+00:00",
-      "link": "https://deadline.com/2026/09/david-zayas-cast-dexter-resurrection-season-2-1237066181/",
-      "image": "https://deadline.com/wp-content/uploads/2025/04/DXR_104_ZD_0228_0048_RT.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "b804c6400892d12a",
-      "title": "‘Marshals’: Kayce Dutton Is A “Chaos Magnet” In Season 2 With Explosive New Trailer For ‘Yellowstone’ Spinoff",
-      "quote": "Marshals is back with more explosions, missing children and rural romances. CBS on Wednesday unveiled the first trailer for Season 2 of the CBS procedural, which stars Luke Grimes as Kayce Dutton, who ends the clip…",
-      "publisher": "Deadline",
-      "author": "Peterdeadline",
-      "date": "2026-09-02T23:38:38+00:00",
-      "link": "https://deadline.com/2026/09/marshals-season-2-trailer-yellowstone-spinoff-luke-grimes-1237066349/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/3215983_YMAR_S2_0978bc.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "c8b32ae97a394ff4",
-      "title": "Steve Ballmer & Clippers Vow To Fight Historic NBA Punishment, Claim Investigation Was “Heavily Biased”",
-      "quote": "Shortly after the NBA announced historic penalties for the Los Angeles Clippers and owner Steve Ballmer, the team came out swinging. “We vehemently reject the NBA’s findings, which are the result of a heavily biased…",
-      "publisher": "Deadline",
-      "author": "Tomt",
-      "date": "2026-09-02T23:36:43+00:00",
-      "link": "https://deadline.com/2026/09/steve-ballmer-clippers-statement-nba-punishment-1237066272/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-492240420.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "60d3505b78337170",
-      "title": "Miranda Otto To Star In Binge Family Comedy ‘Tough Love’",
-      "quote": "Miranda Otto has been cast in Tough Love, the Rick Donald-created comedy for Australian streamer Binge. The Lord of the Rings actress will appear opposite Donald (Population 11), with Liz Kingsman (F1: The Movie), Hugo…",
-      "publisher": "Deadline",
-      "author": "Jesse Whittock",
-      "date": "2026-09-02T23:30:00+00:00",
-      "link": "https://deadline.com/2026/09/miranda-otto-casting-tough-love-binge-1237065276/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/260824_TOUGH_LOVE_Damian_Bennett_2331-e1788346934756.jpeg",
-      "category": "World Cinema"
+      "id": "5f84969271c949c1",
+      "title": "The Russos started filming Avengers: Doomsday without a finished script because they just love improv too dang much",
+      "quote": "\"We're improvisation-based directors,\" Joe Russo said, explaining why he and brother Anthony embarked on <i>Doomsday</i> without a finished script.",
+      "publisher": "The A.V. Club",
+      "author": "William Hughes",
+      "date": "2026-09-02T22:53:25+00:00",
+      "link": "https://www.avclub.com/russos-unifinished-doomsday-script-improv",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2024/10/31121939/russo-brothers-production-company-ai-expert-agbo-feature.jpeg",
+      "category": "Indie Gems"
     },
     {
       "id": "62bfbb5d376d25f1",
@@ -207,17 +394,6 @@
       "category": "Festival Winners"
     },
     {
-      "id": "132c85077d736cd4",
-      "title": "The mountain may be high in Fall 2: Deadpoint, but keep expectations low",
-      "quote": "An underwhelming sequel to the enjoyably focused thriller Fall, Fall 2: Deadpoint simply doesn't have high enough highs to compete.",
-      "publisher": "The A.V. Club",
-      "author": "Simon Abrams",
-      "date": "2026-09-02T18:00:52+00:00",
-      "link": "https://www.avclub.com/fall-2-deadpoint-review",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/02132009/fall-2-deadpoint-header.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "56d7391314e1fc6b",
       "title": "Female film-makers still being squeezed out of industry, London film festival director says",
       "quote": "Over 40% of films in LFF programme are female-made, but only two of 21 gala films are directed by women Female film-makers are still being squeezed out of the industry as they progress beyond their debut films, the…",
@@ -251,17 +427,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "eb1ddb54032bf6c0",
-      "title": "The best Amazon Prime Video original movies",
-      "quote": "From Hedda to The Sheep Detectives, these are the best original movies on Prime Video right now.",
-      "publisher": "The A.V. Club",
-      "author": "The A.V. Club",
-      "date": "2026-09-02T18:00:00+00:00",
-      "link": "https://www.avclub.com/best-amazon-prime-video-original-movies",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/07/02122248/Prime-My-Old-Ass-MARNI-GROSSMAN-%C2%A9-AMAZON-CONTENT-SERVICES-LLC.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "56db466082e92942",
       "title": "Harry Potter HBO Series: First Look At Luke Thallon As Professor Quirrell",
       "quote": "Professor Quirrell will play a key role in the first season of HBO's Harry Potter series. Here's your first look at Luke Thallon in the role.",
@@ -271,28 +436,6 @@
       "link": "https://www.slashfilm.com/2249698/harry-potter-hbo-series-luke-thallon-professor-quirrell-first-look/",
       "image": "https://www.slashfilm.com/img/gallery/harry-potter-hbo-series-luke-thallon-professor-quirrell-first-look/l-intro-1788381734.jpg",
       "category": "Indie Gems"
-    },
-    {
-      "id": "bb3d0d3da8fe3e7b",
-      "title": "Predictably, Trump sides with OpenAI against human journalists",
-      "quote": "Trump's DOJ supports OpenAI's right to use copyrighted material in <i>New York Times</i> suit.",
-      "publisher": "The A.V. Club",
-      "author": "Dennis Perkins",
-      "date": "2026-09-02T17:39:51+00:00",
-      "link": "https://www.avclub.com/openai-trump-lawsuit-new-york-times",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/02133726/AI-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "757e8732d5e71165",
-      "title": "An Oscar campaign has officially begun for Obsession's Inde Navarrette",
-      "quote": "Focus Features is also angling for a Best Picture nomination, among many others.",
-      "publisher": "The A.V. Club",
-      "author": "Jarrod Jones",
-      "date": "2026-09-02T17:24:36+00:00",
-      "link": "https://www.avclub.com/inde-navarrette-oscar-campaign-obsession",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/02131821/Inde-Navarrette-header.jpg",
-      "category": "Festival Winners"
     },
     {
       "id": "60c19261b78cfb3a",
@@ -326,17 +469,6 @@
       "link": "https://www.hollywoodreporter.com/movies/movie-reviews/the-runner-review-gal-gadot-kevin-macdonald-1236688022/",
       "image": null,
       "category": "World Cinema"
-    },
-    {
-      "id": "15a168b842841412",
-      "title": "Samuel L. Jackson battles terrorists from inside his presidential super-car in The Beast trailer",
-      "quote": "The Renny Harlin-directed thriller roars into cinemas on October 9.",
-      "publisher": "The A.V. Club",
-      "author": "Dennis Perkins",
-      "date": "2026-09-02T16:05:04+00:00",
-      "link": "https://www.avclub.com/the-beast-trailer-samuel-l-jackson",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/02120206/sam-feature.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "f482b35b9146b3da",
@@ -394,17 +526,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "de71204d48d036bb",
-      "title": "Was Paul Mescal being ‘not masculine enough’ the reason Gladiator II flopped?",
-      "quote": "Mescal’s nuanced performance in Ridley Scott’s belated sequel has been blamed by some for the film’s box office underperformance. May I suggest Jason Statham for Gladiator III? As you may be aware, The Dog Stars has not…",
-      "publisher": "The Guardian",
-      "author": "Stuart Heritage",
-      "date": "2026-09-02T14:36:11+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/02/was-paul-mescal-being-not-masculine-enough-the-reason-gladiator-ii-flopped",
-      "image": "https://i.guim.co.uk/img/media/c5001b01b85f37c602937fdbd76b9a69691ecc0f/170_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=405ccf8cbbb55f7a08c43e7051aa603f",
-      "category": "World Cinema"
-    },
-    {
       "id": "f13fe2fc2ea6c9a3",
       "title": "‘My Notes on Mars’ Review: Mackenzie Davis and Rupert Friend Play a Trauma-Shaken Couple in Clever Sci-Fi Puzzler",
       "quote": "Written and directed by Hungarian Lili Horvat, the Venice premiere taps into current anxieties about what is human and what is love.",
@@ -425,17 +546,6 @@
       "link": "https://variety.com/2026/film/reviews/my-notes-on-mars-review-1236846812/",
       "image": "https://variety.com/wp-content/uploads/2026/07/My-Notes-on-Mars.jpg",
       "category": "World Cinema"
-    },
-    {
-      "id": "abdd01eed91b5e02",
-      "title": "Maggie Gyllenhaal says film industry has a ‘systemic problem’ with sexism",
-      "quote": "Speaking at the opening of the Venice film festival, the actor-director addressed why the jury of which she is chair will only be shown two films made by female film-makers Maggie Gyllenhaal said there is a “systemic…",
-      "publisher": "The Guardian",
-      "author": "Philip Oltermann in Venice",
-      "date": "2026-09-02T14:26:32+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/02/maggie-gyllenhaal-says-film-industry-has-a-systemic-problem-with-sexism",
-      "image": "https://i.guim.co.uk/img/media/2b6844dc580de889a8e9a0cee0e970cc5e497c93/483_511_3944_3156/master/3944.jpg?width=140&quality=85&auto=format&fit=max&s=c62ceefd64bf72f22a626b9db7b22a0f",
-      "category": "Festival Winners"
     },
     {
       "id": "1262565dd970a0f6",
@@ -471,17 +581,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "e7668c8588a515d5",
-      "title": "Swara Bhasker's 'Padmaavat' remark spark social media backlash, actor says her words mistranslated",
-      "quote": "The actor has been at the receiving of social media ire over her comments, where she said the film glorified 'Jauhar', the practise among some Rajput communities, in which women committed mass self-immolation to avoid…",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-02T13:57:58+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/swara-bhaskers-padmaavat-remark-spark-social-media-backlash-actor-says-her-words-mistranslated/article71419502.ece",
-      "image": "https://th-i.thgim.com/public/incoming/scifi/article71419535.ece/alternates/LANDSCAPE_1200/IMG_SWARA_BHASKAR1_2_1_DTA9M56O.jpg",
-      "category": "Indian Cinema"
-    },
-    {
       "id": "36109093fc948ca3",
       "title": "The Runner",
       "quote": "The only exercise you’ll get is in your mind running through the ways it makes no sense.",
@@ -504,50 +603,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "654ec796fbbe9b6d",
-      "title": "‘Vibe’ trailer: Kunal Kemmu’s trademark humour blends with an eccentric Preity Zinta in action-comedy",
-      "quote": "Written and directed by Kunal Kemmu, the film also stars Sparsh Shrivastava, Vanshika Dhir, Dinesh Lal Yadav “Nirahua”, Yashpal Sharma, Salem Kali",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-02T12:54:13+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/vibe-trailer-kunal-kemmus-trademark-humour-blends-with-an-eccentric-preity-zinta-in-action-comedy/article71419664.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/7pce0f/article71419681.ece/alternates/LANDSCAPE_1200/Kunal%20Kemmu%20and%20Preity%20Zinta%20in%20%E2%80%98Vibe%E2%80%99%20trailer",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "d2abebd5ab62ad43",
-      "title": "JioHotstar expands to the UK, Canada and Singapore",
-      "quote": "The platform kicked off its international launch with a new line-up of entertainment content",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-02T11:54:38+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/jiohotstarexpands-tothe-uk-canada-and-singapore/article71418561.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/77k0oq/article71418650.ece/alternates/LANDSCAPE_1200/JioHotstar%20Brand%20Identity%20-%20Horizontal.png",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "28f9f519b9ee30fc",
-      "title": "Uttam Kumar at 100: What made him the ‘mahanayak’?",
-      "quote": "From wordless performances that won over audiences to celebrated romances, musical instincts and spectacular missteps, a look at the talent, temperament and contradictions that made Uttam Kumar Bengal’s enduring…",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-02T11:48:37+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/uttam-kumar-at-100-what-made-him-the-mahanayak/article71418223.ece",
-      "image": "https://th-i.thgim.com/public/incoming/u6htmy/article71418347.ece/alternates/LANDSCAPE_1200/image%2087.jpg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "15db3720d113be9d",
-      "title": "What is Sikkil Gurucharan’s ‘Jannal Oram’? From Ilaiyaraaja and Kamal Haasan to ‘Interstellar’",
-      "quote": "Sikkil Gurucharan’s immersive musical experience seeks to open a window into the rich connections between Carnatic music, Tamil cinema, storytelling and contemporary culture",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-02T11:11:25+00:00",
-      "link": "https://www.thehindu.com/entertainment/music/what-is-sikkil-gurucharans-jannal-oram-from-ilaiyaraaja-and-kamal-haasan-to-interstellar/article71414765.ece",
-      "image": "https://th-i.thgim.com/public/incoming/65cp1l/article71414772.ece/alternates/LANDSCAPE_1200/12%20.jpg",
-      "category": "Indian Cinema"
-    },
-    {
       "id": "45cc5d600f988ad2",
       "title": "The literary novel causing a Hollywood scandal",
       "quote": "Controversy is swirling around new novel Life of M – and who it might be about.",
@@ -557,39 +612,6 @@
       "link": "https://www.bbc.com/culture/article/20260901-the-literary-novel-causing-a-hollywood-scandal?ocid=global_culture_rss",
       "image": "https://ychef.files.bbci.co.uk/144x81/p0p7dp81.jpg",
       "category": "World Cinema"
-    },
-    {
-      "id": "b56c802841f2eaea",
-      "title": "Trisha, Radhika, Aparna team up for Tamil psychological horror flick",
-      "quote": "Directed by Raja Krishna Menon, this film promises to bring together a dark psychological drama and horror in a compelling narrative",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-02T09:55:16+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/trisha-radhika-aparna-team-up-for-tamil-psychological-horror-flick/article71418976.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/kjgry5/article71419000.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-02%20at%202.56.52%20PM.jpeg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "1d6c65816a943214",
-      "title": "‘Mayday’ interview: Directors John Francis Daley and Jonathan Goldstein on ‘Top Gun’ nostalgia and working with an ICBM",
-      "quote": "Ahead of their latest Apple TV Cold War thriller ‘Mayday’, filmmaking duo John Francis Daley and Jonathan Goldstein talk about why the ’80s still have a grip on them and the logistics of wrangling a nuclear missile",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-02T09:50:36+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/mayday-apple-tv-interview-directors-john-francis-daley-jonathan-goldstein-top-gun-cold-war/article71414471.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/tow3xa/article71418509.ece/alternates/LANDSCAPE_1200/Screenshot%202026-09-02%20122214.png",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "8e70e73f3374a8cd",
-      "title": "‘Toxic’: Will Yash gamble again?",
-      "quote": "Following the mixed reviews of ‘Toxic’, fans of Yash aren’t sure if he will take another daring leap into unique projects or stick to the crowd-pleasers",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-02T08:28:18+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/toxic-yash-toxic-box-office-toxic-a-fairy-tale-for-grown-ups-geetu-mohandas-kiara-advani-nayanthara/article71414981.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/ctpe00/article71415008.ece/alternates/LANDSCAPE_1200/Yash5.jpeg",
-      "category": "Indian Cinema"
     },
     {
       "id": "c9c583d0e41ece5d",
@@ -633,17 +655,6 @@
       "date": "2026-08-31T20:40:31+00:00",
       "link": "https://variety.com/2026/film/reviews/sacred-creatures-review-1236847462/",
       "image": "https://variety.com/wp-content/uploads/2026/08/sacred-creatures.webp",
-      "category": "World Cinema"
-    },
-    {
-      "id": "a6aa4a405f144cef",
-      "title": "‘Onslaught’ Review: Adria Arjona and Dan Stevens Star in Adam Wingard’s Fun but Scattered Military Slasher",
-      "quote": "A 12-hour clock counts down to an inevitable massacre in “Onslaught,” the kind of elevated, razor-wire genre romp that director Adam Wingard and writer Simon Barrett used to make before studio outings like “Godzilla vs…",
-      "publisher": "Variety",
-      "author": "Siddhant Adlakha",
-      "date": "2026-08-31T16:00:00+00:00",
-      "link": "https://variety.com/2026/film/reviews/onslaught-review-1236846021/",
-      "image": "https://variety.com/wp-content/uploads/2026/09/MCDONSL_EC007.jpg",
       "category": "World Cinema"
     },
     {
@@ -787,17 +798,6 @@
       "date": "2026-08-25T10:50:00+00:00",
       "link": "https://www.bbc.com/culture/article/20260824-nine-of-the-best-tv-shows-to-watch-this-september?ocid=global_culture_rss",
       "image": "https://ychef.files.bbci.co.uk/144x81/p0p6365f.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "6d37618c7708c573",
-      "title": "The brutal truth revealed by the Bayeux Tapestry",
-      "quote": "In the iconic artwork virility is equated to power – and the largest appendage",
-      "publisher": "BBC Culture",
-      "author": null,
-      "date": "2026-08-24T11:00:00+00:00",
-      "link": "https://www.bbc.com/culture/article/20260820-the-medieval-manosphere-of-the-bayeux-tapestry?ocid=global_culture_rss",
-      "image": "https://ychef.files.bbci.co.uk/144x81/p0p5hdfs.jpg",
       "category": "World Cinema"
     },
     {
