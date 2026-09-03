@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T20:54:17.110897+00:00",
+  "generated_at": "2026-09-03T04:02:32.662515+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -9,70 +9,136 @@
   ],
   "reviews": [
     {
-      "id": "e265d1519b094a87",
-      "title": "‘Ink’: What The Critics Are Saying About Danny Boyle’s Origin Story Of Brit Tabloid ‘The Sun’",
-      "quote": "Danny Boyle’s tabloid drama Ink, the origin story of Rupert Murdoch’s British tabloid The Sun, has opened the Venice Film Festival. James Graham’s script, starring Jack O’Connell, Guy Pearce (as Murdoch) and Claire Foy…",
-      "publisher": "Deadline",
-      "author": "Andreas Wiseman",
-      "date": "2026-09-02T20:38:18+00:00",
-      "link": "https://deadline.com/2026/09/ink-reviews-what-critics-saying-danny-boyle-the-sun-1237066043/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Ink_5b0c8c.jpg",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "85bee5d2b415e349",
-      "title": "‘Being Heumann’ Trailer: First Look At Siân Heder’s ‘CODA’ Follow-Up That Opens TIFF",
-      "quote": "Apple Original Films on Wednesday released the trailer for Being Heumann, the new film from Oscar-winning CODA filmmaker Siân Heder that is gearing up for its world premiere next week as the opening film of the Toronto…",
-      "publisher": "Deadline",
-      "author": "Patrick Hipes",
-      "date": "2026-09-02T20:27:10+00:00",
-      "link": "https://deadline.com/2026/09/being-heumann-trailer-sian-heder-1237066047/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Being-Heumann-2.jpg",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "4c792c2fcf3d53a7",
-      "title": "Simu Liu Signs With WME",
-      "quote": "EXCLUSIVE: Simu Liu has signed with WME for representation in all areas. As an actor, Liu is best known for playing the title role in Shang-Chi and the Legend of the Ten Rings, Marvel Studios’ first Asian-led superhero…",
-      "publisher": "Deadline",
-      "author": "Matthewgrobar",
-      "date": "2026-09-02T20:26:46+00:00",
-      "link": "https://deadline.com/2026/09/simu-liu-signs-wme-1237066070/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Simu_Liu_0722R.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "f975de8fbcaa7a58",
-      "title": "Robert Pattinson Finds ‘The Batman: Part II’ Fight Scenes “Significantly Harder”: “Feeling My Age”",
-      "quote": "While preparing to save Gotham City once again, Robert Pattinson is getting back into superhero shape. The actor, who is currently filming The Batman: Part II, recently noted that filming the fight scenes for the sequel…",
+      "id": "9023d5dd83ef93e1",
+      "title": "Heidi Klum Returning To ‘America’s Got Talent’ Amid Simon Cowell’s Absence",
+      "quote": "As Simon Cowell continues to recover from back surgery, another America’s Got Talent alum is returning to the judges table. On Wednesday’s episode of the NBC reality competition series, it was announced that Heidi Klum…",
       "publisher": "Deadline",
       "author": "Glenn Garner",
-      "date": "2026-09-02T20:23:41+00:00",
-      "link": "https://deadline.com/2026/09/robert-pattinson-batman-ii-fight-scenes-significantly-harder-1237066064/",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/MCDBATM_WB058.jpg",
+      "date": "2026-09-03T03:21:30+00:00",
+      "link": "https://deadline.com/2026/09/heidi-klum-returning-americas-got-talent-simon-cowell-1237066480/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-1681035642.jpg",
       "category": "World Cinema"
     },
     {
-      "id": "75db3010b6f78eb9",
-      "title": "‘Judge Judy’ Celebrates 30th Anniversary In CBS Primetime Special With Steven Spielberg, Samuel L. Jackson & More",
-      "quote": "It’s been a remarkable 30 years for Judge Judy. CBS will celebrate America’s highest-rated court TV show in Judge Judy: Unfiltered, Unforgettable, a 90-minute primetime anniversary special timed to the show’s debut in…",
+      "id": "5c2e2d0504b88563",
+      "title": "Nicholas Todisco & Brad Pence Exiting Atlas Artists",
+      "quote": "EXCLUSIVE: Nicholas Todisco and Brad Pence, a pair of partners at L.A.-based management company Atlas Artists, are exiting the company, Deadline has learned. Notable actor clients for the duo include Hannah Waddingham…",
       "publisher": "Deadline",
-      "author": "Denise Petski",
-      "date": "2026-09-02T20:22:02+00:00",
-      "link": "https://deadline.com/2026/09/judge-judy-cbs-anniversary-special-judy-sheindlin-1237066052/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/image-7.jpeg",
+      "author": "Glenn Garner",
+      "date": "2026-09-03T03:01:28+00:00",
+      "link": "https://deadline.com/2026/09/atlas-artists-nicholas-todisco-brad-pence-exit-management-co-1237066465/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Atlas-Artists.jpg",
       "category": "World Cinema"
     },
     {
-      "id": "5f42efb4eaecbf51",
-      "title": "Danny Boyle’s ‘Ink’ Earns Five-Minute Ovation At Venice World Premiere",
-      "quote": "Danny Boyle’s Ink received a five-minute standing ovation this evening at the Venice Film Festival. The film, starring Jack O’Connell, Guy Pearce and Claire Foy, screened in Competition this evening with the actors and…",
+      "id": "d335f432b9dae2ed",
+      "title": "Trump’s DOJ Skewered By NYT For Backing OpenAI & “Trillion-Dollar AI Companies” In Copyright Suit Featuring Media Heavyweights & Star-Studded Scribes",
+      "quote": "Donald Trump told GOP congressional candidates visiting the White House on Wednesday evening that “the media has gained respect for us, they cannot believe what we’ve done.” The New York Times might beg to differ, at…",
       "publisher": "Deadline",
-      "author": "Zac Ntim",
-      "date": "2026-09-02T20:03:57+00:00",
-      "link": "https://deadline.com/2026/09/danny-boyle-ink-ovation-venice-world-premiere-1237065170/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/INK_03383_R.jpg",
-      "category": "Festival Winners"
+      "author": "Dominic Patten",
+      "date": "2026-09-03T01:29:00+00:00",
+      "link": "https://deadline.com/2026/09/new-york-times-justice-department-openai-1237066310/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/openAI-NYT-getty-image.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "7dd72180d8b44aa8",
+      "title": "This Forgotten Fantasy Sitcom Is A '50s Gem With Episodes Streaming For Free On Tubi",
+      "quote": "Long before Beetlejuice, there was Topper, a '50s sitcom about a dead married couple and the annoyed living person who can see their ghosts.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Witney Seibold)",
+      "date": "2026-09-03T00:45:00+00:00",
+      "link": "https://www.slashfilm.com/2249511/fantasy-sitcom-topper-streaming-free-tubi/",
+      "image": "https://www.slashfilm.com/img/gallery/this-forgotten-fantasy-sitcom-is-a-50s-gem-with-episodes-streaming-for-free-on-tubi/l-intro-1788360896.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "97d390ef665c1c8e",
+      "title": "Google Won’t Have To Break Up Its Ad Business, Judge Rules, Though It Will Have To Change Its Ways",
+      "quote": "Google will not have to break up its advertising operations, a federal judge has ruled, though it will have to alter its business practices. Leonie M. Brinkema, U.S. District Judge of the Eastern District of Virginia…",
+      "publisher": "Deadline",
+      "author": "Dade Hayes",
+      "date": "2026-09-02T23:53:59+00:00",
+      "link": "https://deadline.com/2026/09/google-advertising-business-federal-judge-1237066345/",
+      "image": "https://deadline.com/wp-content/uploads/2025/04/GettyImages-1919905342.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "c22b33de791a03a7",
+      "title": "David Zayas Returning For ‘Dexter: Resurrection’ Season 2 — Is Batista Alive?",
+      "quote": "Dexter star David Zayas is returning to his fan-favorite role of Angel Batista for the second season of Showtime’s Dexter: Resurrection, sources confirm to Deadline. Zayas was spotted shooting alongside series lead…",
+      "publisher": "Deadline",
+      "author": "Rosy Cordero",
+      "date": "2026-09-02T23:48:48+00:00",
+      "link": "https://deadline.com/2026/09/david-zayas-cast-dexter-resurrection-season-2-1237066181/",
+      "image": "https://deadline.com/wp-content/uploads/2025/04/DXR_104_ZD_0228_0048_RT.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "b804c6400892d12a",
+      "title": "‘Marshals’: Kayce Dutton Is A “Chaos Magnet” In Season 2 With Explosive New Trailer For ‘Yellowstone’ Spinoff",
+      "quote": "Marshals is back with more explosions, missing children and rural romances. CBS on Wednesday unveiled the first trailer for Season 2 of the CBS procedural, which stars Luke Grimes as Kayce Dutton, who ends the clip…",
+      "publisher": "Deadline",
+      "author": "Peterdeadline",
+      "date": "2026-09-02T23:38:38+00:00",
+      "link": "https://deadline.com/2026/09/marshals-season-2-trailer-yellowstone-spinoff-luke-grimes-1237066349/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/3215983_YMAR_S2_0978bc.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "c8b32ae97a394ff4",
+      "title": "Steve Ballmer & Clippers Vow To Fight Historic NBA Punishment, Claim Investigation Was “Heavily Biased”",
+      "quote": "Shortly after the NBA announced historic penalties for the Los Angeles Clippers and owner Steve Ballmer, the team came out swinging. “We vehemently reject the NBA’s findings, which are the result of a heavily biased…",
+      "publisher": "Deadline",
+      "author": "Tomt",
+      "date": "2026-09-02T23:36:43+00:00",
+      "link": "https://deadline.com/2026/09/steve-ballmer-clippers-statement-nba-punishment-1237066272/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-492240420.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "60d3505b78337170",
+      "title": "Miranda Otto To Star In Binge Family Comedy ‘Tough Love’",
+      "quote": "Miranda Otto has been cast in Tough Love, the Rick Donald-created comedy for Australian streamer Binge. The Lord of the Rings actress will appear opposite Donald (Population 11), with Liz Kingsman (F1: The Movie), Hugo…",
+      "publisher": "Deadline",
+      "author": "Jesse Whittock",
+      "date": "2026-09-02T23:30:00+00:00",
+      "link": "https://deadline.com/2026/09/miranda-otto-casting-tough-love-binge-1237065276/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/260824_TOUGH_LOVE_Damian_Bennett_2331-e1788346934756.jpeg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "62bfbb5d376d25f1",
+      "title": "Vincent Gallo's new film deemed \"too provocative\" to screen in competition at Venice",
+      "quote": "The festival offered <i>Golden State Killer</i> out-of-competition status, which Gallo balked at.",
+      "publisher": "The A.V. Club",
+      "author": "Jarrod Jones",
+      "date": "2026-09-02T21:19:36+00:00",
+      "link": "https://www.avclub.com/vincent-gallo-golden-state-killer-movie-out-of-competition-venice-film-festival",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/02170845/gallo-header.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "190f889dfc512c59",
+      "title": "Fall 2: Deadpoint",
+      "quote": "I felt boredom instead of unease.",
+      "publisher": "RogerEbert.com",
+      "author": "Peter Sobczynski",
+      "date": "2026-09-02T21:06:50+00:00",
+      "link": "https://www.rogerebert.com/reviews/fall-2-deadpoint-movie-review-2026",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "fce49e7f6417e1e9",
+      "title": "5 Hidden Details In The Harry Potter HBO TV Series Trailer",
+      "quote": "HBO has released a new Harry Potter TV series trailer, and we've picked out five things you might have missed when watching it.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Nina Starner)",
+      "date": "2026-09-02T21:00:00+00:00",
+      "link": "https://www.slashfilm.com/2249861/harry-potter-hbo-tv-series-trailer-hidden-details/",
+      "image": "https://www.slashfilm.com/img/gallery/5-hidden-details-in-the-harry-potter-hbo-tv-series-trailer/l-intro-1788377683.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "03d338e3609b556a",
@@ -86,28 +152,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "85666638908e5034",
-      "title": "Tim Curry’s Cause Of Death Revealed",
-      "quote": "We now have a cause of death for Rocky Horror Picture Show actor Tim Curry. Documents from the Los Angeles County Department of Public Health obtained by People reveal Curry died of coronary artery disease. A history of…",
-      "publisher": "Deadline",
-      "author": "Denise Petski",
-      "date": "2026-09-02T19:41:52+00:00",
-      "link": "https://deadline.com/2026/09/tim-curry-cause-of-death-1237066028/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-670641.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "00bd62a1812b2f5d",
-      "title": "Emmy Rossum & ‘Furious’ Creator Liz Meriwether On Interviewing Real Trafficking Survivors, Updating A 1987 Thriller & Season 2 “Croatian Beach” Dreams",
-      "quote": "As Furious viewers get closure on one character’s search for justice, series creator Liz Meriwether and star Emmy Rossum have some ideas for Season 2. Inspired by the 1987 thriller Black Widow, Rossum told Deadline…",
-      "publisher": "Deadline",
-      "author": "Glenn Garner",
-      "date": "2026-09-02T19:29:39+00:00",
-      "link": "https://deadline.com/2026/09/emmy-rossum-furious-liz-meriwether-trafficking-survivors-season-2-1237065707/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Emmy-Rossum-Furious.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "70f144d0aa587d1e",
       "title": "Why Avengers: Doomsday Was Filmed Without A Finished Script, According To The Directors",
       "quote": "The Russo brothers have tried to justify why Marvel Studios expected blockbuster Avengers: Doomsday was filmed without a finished script.",
@@ -119,6 +163,28 @@
       "category": "Indie Gems"
     },
     {
+      "id": "5c35f946ea85532f",
+      "title": "Alanis Morissette accuses ex-tour manager of blackmail",
+      "quote": "The \"Ironic\" singer calls Keren Urinov \"a terrible manager\" and an \"incompetent blackmailer.\"",
+      "publisher": "The A.V. Club",
+      "author": "Drew Gillis",
+      "date": "2026-09-02T18:56:47+00:00",
+      "link": "https://www.avclub.com/alanis-morissette-manager-blackmail",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2025/03/03133803/videoframe_18079.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "5f806bc542dffa33",
+      "title": "Ink review – Danny Boyle turns the birth of the Sun into a lurid tabloid frenzy",
+      "quote": "Venice film festival Jack O’Connell is terrific as editor Larry Lamb in James Graham’s tale of Rupert Murdoch, Page 3 and the newspaper that transformed Fleet Street Danny Boyle presents us with a lurid, violent and…",
+      "publisher": "The Guardian",
+      "author": "Peter Bradshaw",
+      "date": "2026-09-02T18:24:34+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/02/ink-review-danny-boyle-jack-oconnell",
+      "image": "https://i.guim.co.uk/img/media/9c701fbda497b1678ae80db95e6a4e938dbff1ff/59_0_1600_1280/master/1600.jpg?width=140&quality=85&auto=format&fit=max&s=cb15dc6efe9a290af2ac6ddde87c7e07",
+      "category": "Festival Winners"
+    },
+    {
       "id": "ba4fd3f686a0d99e",
       "title": "Obsession Campaigning For 15 Oscars, Including Inde Navarrette For Best Actress",
       "quote": "It's official: Inde Navarette will be campaigning for a Best Actress Oscar for her star-making turn in the horror hit Obsession.",
@@ -128,6 +194,39 @@
       "link": "https://www.slashfilm.com/2249746/obsession-oscars-campaign-inde-navarrette-best-actress/",
       "image": "https://www.slashfilm.com/img/gallery/obsession-campaigning-for-15-oscars-including-inde-navarrette-for-best-actress/l-intro-1788372263.jpg",
       "category": "Festival Winners"
+    },
+    {
+      "id": "df18aa094a956673",
+      "title": "CODA director Siân Heder returns with Being Heumann trailer",
+      "quote": "The latest feature from the Oscar-winner focuses on the Mother of the Disability Rights Movement.",
+      "publisher": "The A.V. Club",
+      "author": "Drew Gillis",
+      "date": "2026-09-02T18:08:36+00:00",
+      "link": "https://www.avclub.com/being-heumann-trailer",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/02140205/MixCollage-02-Sep-2026-01-59-PM-2221.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "132c85077d736cd4",
+      "title": "The mountain may be high in Fall 2: Deadpoint, but keep expectations low",
+      "quote": "An underwhelming sequel to the enjoyably focused thriller Fall, Fall 2: Deadpoint simply doesn't have high enough highs to compete.",
+      "publisher": "The A.V. Club",
+      "author": "Simon Abrams",
+      "date": "2026-09-02T18:00:52+00:00",
+      "link": "https://www.avclub.com/fall-2-deadpoint-review",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/02132009/fall-2-deadpoint-header.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "56d7391314e1fc6b",
+      "title": "Female film-makers still being squeezed out of industry, London film festival director says",
+      "quote": "Over 40% of films in LFF programme are female-made, but only two of 21 gala films are directed by women Female film-makers are still being squeezed out of the industry as they progress beyond their debut films, the…",
+      "publisher": "The Guardian",
+      "author": "Nadia Khomami Arts and culture correspondent",
+      "date": "2026-09-02T18:00:07+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/02/female-film-makers-squeezed-out-of-industry-bfi-london-film-festival",
+      "image": "https://i.guim.co.uk/img/media/02795ef029d96996045f4b0f505c6e0736bcf677/464_0_4383_3507/master/4383.jpg?width=140&quality=85&auto=format&fit=max&s=4a8b69932a100c6f4ba8792eef56d7d2",
+      "category": "World Cinema"
     },
     {
       "id": "a37c5c4016c60fbf",
@@ -152,6 +251,17 @@
       "category": "World Cinema"
     },
     {
+      "id": "eb1ddb54032bf6c0",
+      "title": "The best Amazon Prime Video original movies",
+      "quote": "From Hedda to The Sheep Detectives, these are the best original movies on Prime Video right now.",
+      "publisher": "The A.V. Club",
+      "author": "The A.V. Club",
+      "date": "2026-09-02T18:00:00+00:00",
+      "link": "https://www.avclub.com/best-amazon-prime-video-original-movies",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/07/02122248/Prime-My-Old-Ass-MARNI-GROSSMAN-%C2%A9-AMAZON-CONTENT-SERVICES-LLC.jpg",
+      "category": "Indie Gems"
+    },
+    {
       "id": "56db466082e92942",
       "title": "Harry Potter HBO Series: First Look At Luke Thallon As Professor Quirrell",
       "quote": "Professor Quirrell will play a key role in the first season of HBO's Harry Potter series. Here's your first look at Luke Thallon in the role.",
@@ -161,6 +271,28 @@
       "link": "https://www.slashfilm.com/2249698/harry-potter-hbo-series-luke-thallon-professor-quirrell-first-look/",
       "image": "https://www.slashfilm.com/img/gallery/harry-potter-hbo-series-luke-thallon-professor-quirrell-first-look/l-intro-1788381734.jpg",
       "category": "Indie Gems"
+    },
+    {
+      "id": "bb3d0d3da8fe3e7b",
+      "title": "Predictably, Trump sides with OpenAI against human journalists",
+      "quote": "Trump's DOJ supports OpenAI's right to use copyrighted material in <i>New York Times</i> suit.",
+      "publisher": "The A.V. Club",
+      "author": "Dennis Perkins",
+      "date": "2026-09-02T17:39:51+00:00",
+      "link": "https://www.avclub.com/openai-trump-lawsuit-new-york-times",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/02133726/AI-feature.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "757e8732d5e71165",
+      "title": "An Oscar campaign has officially begun for Obsession's Inde Navarrette",
+      "quote": "Focus Features is also angling for a Best Picture nomination, among many others.",
+      "publisher": "The A.V. Club",
+      "author": "Jarrod Jones",
+      "date": "2026-09-02T17:24:36+00:00",
+      "link": "https://www.avclub.com/inde-navarrette-oscar-campaign-obsession",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/02131821/Inde-Navarrette-header.jpg",
+      "category": "Festival Winners"
     },
     {
       "id": "60c19261b78cfb3a",
@@ -185,17 +317,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "b5089de29bdae72f",
-      "title": "How One Small 2026 Horror Movie Defied The Odds And Became A Box Office Hit",
-      "quote": "Casper Kelly's horror film Buddy became a surprise box office hit in its debut weekend. Roadside Attractions president Howard Cohen tells us how it happened.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Ryan Scott)",
-      "date": "2026-09-02T16:39:22+00:00",
-      "link": "https://www.slashfilm.com/2249634/buddy-2026-horror-movie-box-office-success/",
-      "image": "https://www.slashfilm.com/img/gallery/how-one-small-2026-horror-movie-defied-the-odds-and-became-a-box-office-hit/l-intro-1788367058.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "177afaa43cd810b3",
       "title": "‘The Runner’ Review: Gal Gadot Sprints Through a Ticking-Clock Thriller That’s Fun Enough if You Don’t Stop to Think About It",
       "quote": "Kevin Macdonald ('Whitney,' 'The Last King of Scotland') directed this high-concept suspenser about a lawyer forced to run across London in order to save her kidnapped son.",
@@ -207,15 +328,15 @@
       "category": "World Cinema"
     },
     {
-      "id": "43434fb192ea2859",
-      "title": "Rupert Murdoch ‘very happy’ that Guy Pearce plays him in Fleet Street biopic Ink",
-      "quote": "Actor says the press baron’s daughter Elisabeth told him her father was pleased, ‘but he hadn’t seen the film at that point’ Rupert Murdoch is “very happy” that he’s being portrayed by Guy Pearce in a new film about the…",
-      "publisher": "The Guardian",
-      "author": "Philip Oltermann in Venice",
-      "date": "2026-09-02T16:07:56+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/02/rupert-murdoch-very-happy-that-guy-pearce-plays-him-in-fleet-street-biopic-ink",
-      "image": "https://i.guim.co.uk/img/media/0da888fc25409a334fb73a68fb1362937c97cdbe/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=812e2c5fec243c6770591d509ef268e9",
-      "category": "Festival Winners"
+      "id": "15a168b842841412",
+      "title": "Samuel L. Jackson battles terrorists from inside his presidential super-car in The Beast trailer",
+      "quote": "The Renny Harlin-directed thriller roars into cinemas on October 9.",
+      "publisher": "The A.V. Club",
+      "author": "Dennis Perkins",
+      "date": "2026-09-02T16:05:04+00:00",
+      "link": "https://www.avclub.com/the-beast-trailer-samuel-l-jackson",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/02120206/sam-feature.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "f482b35b9146b3da",
@@ -249,17 +370,6 @@
       "link": "https://www.rogerebert.com/reviews/mayday-ryan-reynolds-kenneth-branagh-apple-tv-movie-review-2026",
       "image": null,
       "category": "World Cinema"
-    },
-    {
-      "id": "caaf4995c7ace9dc",
-      "title": "Mayday Review: Ryan Reynolds Is Sporadically Amusing In Apple's Cold War Midnight Run Riff",
-      "quote": "Mayday tries to capture the spirit of a 1980s buddy action comedy, but Ryan Reynolds and Kenneth Branagh may not have been the right pair for the job.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Ethan Anderton)",
-      "date": "2026-09-02T16:00:00+00:00",
-      "link": "https://www.slashfilm.com/2249369/mayday-movie-review-ryan-reynolds-kenneth-branagh/",
-      "image": "https://www.slashfilm.com/img/gallery/mayday-review-ryan-reynolds-is-sporadically-amusing-in-apples-cold-war-midnight-run-riff/l-intro-1788328843.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "14575da7879a4d90",
@@ -328,17 +438,6 @@
       "category": "Festival Winners"
     },
     {
-      "id": "6d758df170dfc4e2",
-      "title": "Fall 2: Deadpoint review – silly seat-edge sequel can’t reach heights of the original",
-      "quote": "There are just about enough hand-over-mouth moments to please thrill-seekers in this B-movie follow-up but eyerolls soon prevail There was plenty of silliness but also plenty of suspense in 2022’s modestly successful…",
-      "publisher": "The Guardian",
-      "author": "Benjamin Lee",
-      "date": "2026-09-02T14:00:26+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/02/fall-2-deadpoint-movie-review",
-      "image": "https://i.guim.co.uk/img/media/0d18a9464cce6225f4c85401d3ad2c290658e284/526_0_2699_2160/master/2699.jpg?width=140&quality=85&auto=format&fit=max&s=af43e82883c5bac962959452c450356c",
-      "category": "World Cinema"
-    },
-    {
       "id": "1262565dd970a0f6",
       "title": "‘Fall 2: Deadpoint’ Review: A Mostly Successful Sequel to the Dizzy Word-of-Mouth Sensation",
       "quote": "A sequel should be similar to the film that preceded it, but not the same. That’s the conventional wisdom that, for better or worse, not all filmmakers observe when picking up the mantle of a series or franchise. But…",
@@ -370,6 +469,17 @@
       "link": "https://www.hollywoodreporter.com/movies/movie-reviews/runner-review-alan-ritchson-owen-wilson-1236680903/",
       "image": null,
       "category": "World Cinema"
+    },
+    {
+      "id": "e7668c8588a515d5",
+      "title": "Swara Bhasker's 'Padmaavat' remark spark social media backlash, actor says her words mistranslated",
+      "quote": "The actor has been at the receiving of social media ire over her comments, where she said the film glorified 'Jauhar', the practise among some Rajput communities, in which women committed mass self-immolation to avoid…",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-02T13:57:58+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/swara-bhaskers-padmaavat-remark-spark-social-media-backlash-actor-says-her-words-mistranslated/article71419502.ece",
+      "image": "https://th-i.thgim.com/public/incoming/scifi/article71419535.ece/alternates/LANDSCAPE_1200/IMG_SWARA_BHASKAR1_2_1_DTA9M56O.jpg",
+      "category": "Indian Cinema"
     },
     {
       "id": "36109093fc948ca3",
@@ -405,17 +515,6 @@
       "category": "Indian Cinema"
     },
     {
-      "id": "e7668c8588a515d5",
-      "title": "Swara Bhasker's 'Padmaavat' remark spark social media backlash, actor says her words mistranslated",
-      "quote": "The actor has been at the receiving of social media ire over her comments, where she said the film glorified 'Jauhar', the practise among some Rajput communities, in which women committed mass self-immolation to avoid…",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-02T12:24:49+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/swara-bhaskers-padmaavat-remark-spark-social-media-backlash-actor-says-her-words-mistranslated/article71419502.ece",
-      "image": "https://th-i.thgim.com/public/incoming/scifi/article71419535.ece/alternates/LANDSCAPE_1200/IMG_SWARA_BHASKAR1_2_1_DTA9M56O.jpg",
-      "category": "Indian Cinema"
-    },
-    {
       "id": "d2abebd5ab62ad43",
       "title": "JioHotstar expands to the UK, Canada and Singapore",
       "quote": "The platform kicked off its international launch with a new line-up of entertainment content",
@@ -424,6 +523,28 @@
       "date": "2026-09-02T11:54:38+00:00",
       "link": "https://www.thehindu.com/entertainment/movies/jiohotstarexpands-tothe-uk-canada-and-singapore/article71418561.ece",
       "image": "https://th-i.thgim.com/public/entertainment/movies/77k0oq/article71418650.ece/alternates/LANDSCAPE_1200/JioHotstar%20Brand%20Identity%20-%20Horizontal.png",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "28f9f519b9ee30fc",
+      "title": "Uttam Kumar at 100: What made him the ‘mahanayak’?",
+      "quote": "From wordless performances that won over audiences to celebrated romances, musical instincts and spectacular missteps, a look at the talent, temperament and contradictions that made Uttam Kumar Bengal’s enduring…",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-02T11:48:37+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/uttam-kumar-at-100-what-made-him-the-mahanayak/article71418223.ece",
+      "image": "https://th-i.thgim.com/public/incoming/u6htmy/article71418347.ece/alternates/LANDSCAPE_1200/image%2087.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "15db3720d113be9d",
+      "title": "What is Sikkil Gurucharan’s ‘Jannal Oram’? From Ilaiyaraaja and Kamal Haasan to ‘Interstellar’",
+      "quote": "Sikkil Gurucharan’s immersive musical experience seeks to open a window into the rich connections between Carnatic music, Tamil cinema, storytelling and contemporary culture",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-02T11:11:25+00:00",
+      "link": "https://www.thehindu.com/entertainment/music/what-is-sikkil-gurucharans-jannal-oram-from-ilaiyaraaja-and-kamal-haasan-to-interstellar/article71414765.ece",
+      "image": "https://th-i.thgim.com/public/incoming/65cp1l/article71414772.ece/alternates/LANDSCAPE_1200/12%20.jpg",
       "category": "Indian Cinema"
     },
     {
@@ -471,28 +592,6 @@
       "category": "Indian Cinema"
     },
     {
-      "id": "7321994351301084",
-      "title": "Oscars 2027: Which film will India choose as its official International Feature entry?",
-      "quote": "With the Film Federation of India now accepting submissions for the 2027 Oscars, here are some of the strongest contenders for India’s International Feature Film submission",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-02T08:26:31+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/oscars-2027-which-film-will-india-choose-as-its-official-international-feature-entry/article71392656.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/qxcu6i/article71392674.ece/alternates/LANDSCAPE_1200/Copy%20of%20G2%20Cover.jpg",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "bcc7ee7ef25bd824",
-      "title": "‘La Bola Negra’ trailer: Los Javis’ Cannes-winning queer epic stars Penélope Cruz and Glenn Close",
-      "quote": "The first trailer offers a glimpse at the Spanish drama spanning three generations and nearly a century of queer history",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-02T08:05:52+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/la-bola-negra-trailer-los-javis-cannes-winning-queer-epic-stars-penelope-cruz-and-glenn-close/article71418687.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/as0256/article71418683.ece/alternates/LANDSCAPE_1200/Screenshot%202026-09-02%20133351.png",
-      "category": "Festival Winners"
-    },
-    {
       "id": "c9c583d0e41ece5d",
       "title": "Late Fame review – Willem Dafoe superb as ever as twilight-years bohemian getting a second chance",
       "quote": "Samy Burch’s adaptation of an Arthur Schnitzler novella sees Dafoe’s ageing poet embraced by a younger cohort of capricious hipsters. It’s smart, literate and affecting There’s a marvellous tenderness and generosity to…",
@@ -504,28 +603,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "69ac3ed835d22ed5",
-      "title": "Ted Lasso continues to fumble most of its female leads",
-      "quote": "Only Alice Chilton escapes this curse (for now) in \"Riches Of Embarrassment.\"",
-      "publisher": "The A.V. Club",
-      "author": "Saloni Gajjar",
-      "date": "2026-09-02T07:00:24+00:00",
-      "link": "https://www.avclub.com/ted-lasso-recap-season-4-episode-5-riches-of-embarrassment",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/01174626/juno-temple-.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "08debe82f4292804",
-      "title": "Gal Gadot jogs into people for an entire hour in The Runner",
-      "quote": "Gal Gadot is held hostage over the phone in Amazon's ridiculous, boneheaded jogging thriller The Runner. Thankfully, it's hilarious.",
-      "publisher": "The A.V. Club",
-      "author": "Jacob Oller",
-      "date": "2026-09-02T04:00:25+00:00",
-      "link": "https://www.avclub.com/the-runner-review",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/01142017/the-runner-header-1.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "468fe85833d647ac",
       "title": "‘The Runner’ Review: Gal Gadot Is a Mother on a Rescue Mission in an Energetic but Uninspired Amazon Thriller",
       "quote": "A frantic journey across London on foot provides a lot of exercise for Gal Gadot, but not much reward for viewers, in “The Runner.” Hardly the first thriller centering on an exceptionally action-ready parent surmounting…",
@@ -535,72 +612,6 @@
       "link": "https://variety.com/2026/film/reviews/the-runner-review-gal-gadot-1236847013/",
       "image": "https://variety.com/wp-content/uploads/2026/07/RUNNER_3.jpg",
       "category": "World Cinema"
-    },
-    {
-      "id": "e7b6d33f525eb1eb",
-      "title": "Former Kratos turned down God Of War for health reasons, hopes Bautista stays healthy",
-      "quote": "Christopher Judge, who voices Kratos in three <i>God Of War</i> games, explains how <i>Stargate</i> taught him bulking up to play a god isn't all it's cracked up to be.",
-      "publisher": "The A.V. Club",
-      "author": "Matt Schimkowitz",
-      "date": "2026-09-01T23:04:41+00:00",
-      "link": "https://www.avclub.com/christopher-judge-god-of-war-casting",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/03/03103123/MixCollage-03-Mar-2026-10-29-AM-4724.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "67a4bf4b9edf93d3",
-      "title": "You Must Remember This to jog nation's memories on fall tour",
-      "quote": "Host Karina Longworth is hitting the road in celebration of \"The Bisexuals\" for a 14-city tour this November",
-      "publisher": "The A.V. Club",
-      "author": "Matt Schimkowitz",
-      "date": "2026-09-01T22:00:12+00:00",
-      "link": "https://www.avclub.com/you-must-remember-this-fall-2026-tour",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/01175402/MixCollage-01-Sep-2026-02-52-PM-8430.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "7a08d6efa0adb45e",
-      "title": "Turns out the Entourage set was as sexist as the show",
-      "quote": "Entourage star Debi Mazar says the longer the show went on, the more \"toxic\" and \"testosterone-fueled\" the set became.",
-      "publisher": "The A.V. Club",
-      "author": "Matt Schimkowitz",
-      "date": "2026-09-01T21:08:32+00:00",
-      "link": "https://www.avclub.com/entourage-set-sexist-debi-mazar",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/01170101/debi-maza-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "838eaf158cdf75ce",
-      "title": "Avengers: Secret Wars adds Noah Jupe to its enormous cast",
-      "quote": "The Quiet Place star has joined the superhero jamboree in an undisclosed role.",
-      "publisher": "The A.V. Club",
-      "author": "Jarrod Jones",
-      "date": "2026-09-01T19:59:22+00:00",
-      "link": "https://www.avclub.com/noah-jupe-joins-avengers-secret-wars",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/01155417/jupe-sink-header.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "ab7486b92db95802",
-      "title": "Netflix rushes out doc about Trump leaving American press to die on that plane",
-      "quote": "Netflix's <i>Instadoc: The Decoy Plane</i> makes quick work of Trump's deception.",
-      "publisher": "The A.V. Club",
-      "author": "Dennis Perkins",
-      "date": "2026-09-01T19:44:41+00:00",
-      "link": "https://www.avclub.com/trump-netflix-decoy-plane",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/01154117/AF1-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "05ef68f4b3d48f8c",
-      "title": "170 Jewish creatives defend Mark Ruffalo from antisemitism charges",
-      "quote": "Fighting Paramount's accusations of antisemitism against the Marvel mainstay, Joel Coen, Ilana Glazer, Tony Kushner, Jane Schoenbrun, Wallace Shawn, Todd Haynes, and 160 more have come to Ruffalo's defense.&nbsp;",
-      "publisher": "The A.V. Club",
-      "author": "Matt Schimkowitz",
-      "date": "2026-09-01T19:39:08+00:00",
-      "link": "https://www.avclub.com/jewish-creatives-open-letter-mark-ruffalo-antisemitism",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/21212747/mark-ruffalo-feature.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "eb150e9555179499",
@@ -709,17 +720,6 @@
       "author": "Tomris Laffly",
       "date": "2026-08-28T13:05:58+00:00",
       "link": "https://www.rogerebert.com/reviews/buddy-horror-movie-review-2026",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "ad7c895305fea6bc",
-      "title": "Idiots",
-      "quote": "It’s not for everyone, but “Idiots” is already one of the most charming American comedies of the year.",
-      "publisher": "RogerEbert.com",
-      "author": "Simon Abrams",
-      "date": "2026-08-28T13:00:00+00:00",
-      "link": "https://www.rogerebert.com/reviews/idiots-dave-franco-oshea-jackson-jr-movie-review-2026",
       "image": null,
       "category": "World Cinema"
     },
