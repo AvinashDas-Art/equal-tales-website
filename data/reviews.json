@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T04:06:09.553831+00:00",
+  "generated_at": "2026-09-04T11:02:10.190666+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -8,6 +8,237 @@
     "Indie Gems"
   ],
   "reviews": [
+    {
+      "id": "22b19edef1a501e6",
+      "title": "The hidden history of a controversial $6m banana",
+      "quote": "Maurizio Cattelan's Comedian reveals lessons about shock tactics in art",
+      "publisher": "BBC Culture",
+      "author": null,
+      "date": "2026-09-04T11:00:00+00:00",
+      "link": "https://www.bbc.com/culture/article/20260903-the-hidden-history-of-the-controversial-six-million-dollar-banana?ocid=global_culture_rss",
+      "image": "https://ychef.files.bbci.co.uk/144x81/p0p7vrpd.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "523085dbda8ffb5e",
+      "title": "5 Things We Learned From The Set Of Shaun The Sheep: The Beast Of Mossy Bottom [Set Visit]",
+      "quote": "We visited the set of Shaun the Sheep: The Beast of Mossy Bottom and came away with a renewed appreciation for Aardman's approach to stop-motion animation.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Rafael Motamayor)",
+      "date": "2026-09-04T11:00:00+00:00",
+      "link": "https://www.slashfilm.com/2250785/shaun-the-sheep-the-beast-of-mossy-bottom-set-visit-details/",
+      "image": "https://www.slashfilm.com/img/gallery/5-things-we-learned-from-the-set-of-shaun-the-sheep-the-beast-of-mossy-bottom/l-intro-1788471756.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "2606ff0c85427c66",
+      "title": "Venice Competition Filmmaker May El-Toukhy On Gender Imbalance: “I’ve Been The Only Woman In Many, Many Settings”",
+      "quote": "May el-Toukhy is in competition at the Venice Film Festival with post-World War Two psychological thriller Woman Unknown as one of just two female directors in the running for the Golden Lion this year. Set in Denmark…",
+      "publisher": "Deadline",
+      "author": "Melanie Goodfellow",
+      "date": "2026-09-04T10:55:51+00:00",
+      "link": "https://deadline.com/2026/09/may-el-toukhy-venice-woman-unknown-lack-female-competition-1237066687/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/MixCollage-03-Sep-2026-10-22-PM-8562.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "de92c1d45cae269c",
+      "title": "‘Ramba Oorvasi Menaka’ movie review: Allari Naresh’s socio-fantasy is stuck in a time warp",
+      "quote": "The Telugu film by director Chandra Mohan Chintada delivers a few laughs, but is let down by its dated treatment",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-04T10:19:56+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/ramba-oorvasi-menaka-movie-review-allari-nareshs-socio-fantasy-is-stuck-in-a-time-warp/article71427826.ece",
+      "image": "https://th-i.thgim.com/public/incoming/mbbsxx/article71427837.ece/alternates/LANDSCAPE_1200/Trailer%20out%20Plain.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "f243a5107c422551",
+      "title": "Gal Gadot’s Wonder Woman was one of DC’s few successes. It’s a mystery why she got the chop",
+      "quote": "James Gunn and Peter Safran’s regime had good reasons to ditch Ben Affleck’s Batman and Henry Cavill’s Superman. Other choices have been much harder to fathom There was never going to be a completely painless way to…",
+      "publisher": "The Guardian",
+      "author": "Ben Child",
+      "date": "2026-09-04T10:19:34+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/04/gal-gadot-wonder-woman-was-one-of-dcs-few-successes-its-a-mystery-why-she-got-the-chop",
+      "image": "https://i.guim.co.uk/img/media/b0ededce123a17aadcdf366c299d2e7221a952a6/305_0_2737_2190/master/2737.jpg?width=140&quality=85&auto=format&fit=max&s=d953ea946cf9d051306341c51a7ad03c",
+      "category": "World Cinema"
+    },
+    {
+      "id": "19cc50c98cd2bf6a",
+      "title": "Tony Gatlif Dies: ‘Gadjo Dilo’ Director Whose Work Celebrated Roma Culture Was 77",
+      "quote": "Director Tony Gatlif, who was known for films such as Gadjo Dilo exploring Roma culture, died in the Southern French town of Arles on September 3. He was 77. The director was born Michel Boualem Dahmani in Algiers on…",
+      "publisher": "Deadline",
+      "author": "Melanie Goodfellow",
+      "date": "2026-09-04T10:05:22+00:00",
+      "link": "https://deadline.com/2026/09/tony-gatlif-dead-gadjo-dilo-director-roma-culture-77-1237067945/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2216626759.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "c9eff11ede2695f4",
+      "title": "Ron Perlman, Peter Facinelli & Mark Elias Starring In Indie Film ‘We Could Be Heroes’",
+      "quote": "EXCLUSIVE: Ron Perlman (Hellboy), Peter Facinelli (The Twilight Saga) and Mark Elias (9-11: Lone Star) are starring in comedy-adventure We Could Be Heroes, which is soon to wrap in Ontario, Canada. The film follows “an…",
+      "publisher": "Deadline",
+      "author": "Andreas Wiseman",
+      "date": "2026-09-04T09:38:04+00:00",
+      "link": "https://deadline.com/2026/09/ron-perlman-peter-facinelli-we-could-be-heroes-film-1237067861/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Ron-Pearlman-Peter-Facinelli-and-Mark-Elias.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "8e3f88006eb3a430",
+      "title": "‘My Undesirable Friends: Part II — Exile’ Review: War Rages On, as Does the Journalistic Resistance, in an Essential Chronicle of Reporters Under Fire",
+      "quote": "Director Julia Loktev follows a handful of independent Russian journalists forced to flee their country after the invasion of Ukraine in this follow-up to last year's 'Part I.'",
+      "publisher": "The Hollywood Reporter",
+      "author": "Jordan Mintzer",
+      "date": "2026-09-04T09:30:00+00:00",
+      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/my-undesirable-friends-part-ii-exile-review-julia-loktev-1236680858/",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "1d6c65816a943214",
+      "title": "‘Mayday’ interview: Directors John Francis Daley and Jonathan Goldstein on ‘Top Gun’ nostalgia and working with an ICBM",
+      "quote": "Ahead of their latest Apple TV Cold War thriller ‘Mayday’, filmmaking duo John Francis Daley and Jonathan Goldstein talk about why the ’80s still have a grip on them and the logistics of wrangling a nuclear missile",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-04T09:20:25+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/mayday-apple-tv-interview-directors-john-francis-daley-jonathan-goldstein-top-gun-cold-war/article71414471.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/tow3xa/article71418509.ece/alternates/LANDSCAPE_1200/Screenshot%202026-09-02%20122214.png",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "85de89fc09130843",
+      "title": "Jack Huston On The Tough Questions About Sexual Abuse Posed By Paul Schrader’s Film ‘The Basics Of Philosophy’: “It’s Almost Become A Taboo Subject” – Venice Film Festival",
+      "quote": "Paul Schrader writes great parts for great actors, and has been doing so for 50 years, since Robert De Niro played Travis Bickle in Martin Scorsese’s Taxi Driver. Since then, to name but a few, he’s given us William…",
+      "publisher": "Deadline",
+      "author": "Damon Wise",
+      "date": "2026-09-04T09:03:57+00:00",
+      "link": "https://deadline.com/2026/09/jack-huston-paul-schrader-the-basics-of-philosophy-venice-1237067857/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/115143-THE_BASICS_OF_PHILOSOPHY_-_Actor_Jack_Huston.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "8353c49c886524b6",
+      "title": "A remarkable documentary made by blind students: ‘We were stunned by the footage’",
+      "quote": "In Brailled It, the tension and stakes of the annual Braille Challenge are brought to the screen by three of the competitors For the past 26 years, some 22,000 blind and visually impaired schoolchildren from around the…",
+      "publisher": "The Guardian",
+      "author": "Andrew Lawrence",
+      "date": "2026-09-04T09:00:03+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/04/brailled-it-blind-documentary",
+      "image": "https://i.guim.co.uk/img/media/b41c0396f2f24ae4365f67b2dd3d2286828d0a65/344_0_1349_1080/master/1349.jpg?width=140&quality=85&auto=format&fit=max&s=3fcb56410f6049f12f68a814c7437fda",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "faa6a45dcc653d36",
+      "title": "Kochi’s Sarita theatre reopens after renovation, blending nostalgia with a modern makeover",
+      "quote": "One among the oldest theatres in Kochi, Sarita reopens with a bigger screen, better sound and upgraded seats",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-04T08:58:50+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/sarita-theatre-kochi-reopens-after-renovation-blending-nostalgia-with-a-modern-makeover/article71422263.ece",
+      "image": "https://th-i.thgim.com/public/incoming/ilxap9/article71422264.ece/alternates/LANDSCAPE_1200/80968_1_9_2026_22_23_19_5_IMG_0351.JPEG",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "58acb34b2329a1e3",
+      "title": "Lorenzo Mieli Talks Grappling With AI For Diesel Founder Renzo Rosso Bio-Doc ‘Be Brave’: “We Need To Master It, Rather Than Let AI Master Us” – Venice",
+      "quote": "Italian producer Lorenzo Mieli is one of the speakers at the CAA and Finch & Partners The Future of… Creativity forum unfolding today on the fringes of the Venice Film Festival. The symposium at the La Scuola Grande di…",
+      "publisher": "Deadline",
+      "author": "Melanie Goodfellow",
+      "date": "2026-09-04T08:27:51+00:00",
+      "link": "https://deadline.com/2026/09/lorenzo-mieli-ai-diesel-renzo-rosso-biodoc-be-brave-1237067492/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/MixCollage-04-Sep-2026-10-02-AM-1656.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "56fadbe6463433ab",
+      "title": "Raffaele Annecchino Dies: Former Viacom & Paramount International Boss Was 55",
+      "quote": "Raffaele Annecchino, the former international chief at Paramount and its predecessor Viacom, has died aged 55 from acute meningitis. The Italian executive, known for his negotiating skills and business acumen, passed…",
+      "publisher": "Deadline",
+      "author": "Jesse Whittock",
+      "date": "2026-09-04T08:25:44+00:00",
+      "link": "https://deadline.com/2026/09/raffaele-annecchino-dead-viacom-paramount-international-1237067847/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Raffaelle-Annecchino.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "baeef30beba7e0bf",
+      "title": "Louis Partridge & Anson Boon Set For British Coming-Of-Age Film ‘Andy & Orson’; MetFilm Launches Sales For TIFF Market",
+      "quote": "EXCLUSIVE: Louis Partridge (Enola Holmes) and Anson Boon (MobLand) are set to star in Andy & Orson, the feature directorial debut of writer-directors Nathan Newman and Arnold T. Rice. MetFilm Sales is launching the…",
+      "publisher": "Deadline",
+      "author": "Andreas Wiseman",
+      "date": "2026-09-04T08:00:00+00:00",
+      "link": "https://deadline.com/2026/09/louis-partridge-anson-boon-cast-in-andy-orson-1237067616/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Louis-Partridge-and-Anson-Boon.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "720898ffe1b8f6f2",
+      "title": "Language no bar: Inside Hyderabad’s multilingual cinema boom",
+      "quote": "Subtitled releases, premium screens and smart promotions are drawing Hyderabad audiences to cinema from varied languages, beyond Telugu, Hindi and English",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-04T07:47:39+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/language-no-bar-inside-hyderabads-multilingual-cinema-boom/article71399976.ece",
+      "image": "https://th-i.thgim.com/public/incoming/fwumtr/article71400014.ece/alternates/LANDSCAPE_1200/14hyngg_Prasads%20Imax%20theatre%2002.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "e6590b8ad7982e27",
+      "title": "‘If you can’t understand what sex is, it’s irrelevant if you seem to be enjoying it’: how Queen at Sea upended the dementia drama",
+      "quote": "Lance Hammer’s first film in 18 years is a heart-wrenching masterpiece about family, mental decline and sexual consent. He and supporting actor Juliette Binoche discuss how they brought unabashed realism to a condition…",
+      "publisher": "The Guardian",
+      "author": "David Shariatmadari",
+      "date": "2026-09-04T07:00:00+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/04/if-you-cant-understand-what-sex-is-its-irrelevant-if-you-seem-to-be-enjoying-it-how-queen-at-sea-upended-the-dementia-drama",
+      "image": "https://i.guim.co.uk/img/media/0ae9b3ec0d5c5dc0d5129a1b8b2c8d9147261f63/521_0_2698_2160/master/2698.jpg?width=140&quality=85&auto=format&fit=max&s=af05ecb5e756445f5fb3a73d9281506f",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "90f7be93f051b900",
+      "title": "‘Coming Of Age’: First Look At Josh Appignanesi’s Upcoming Comedy About “The Power Of Aging”",
+      "quote": "EXCLUSIVE: Here’s a first look at writer-director Josh Appignanesi’s seventh feature Coming of Age, which he co-wrote with longtime collaborator Devorah Baum. The film, which is told across 30 years of car rides through…",
+      "publisher": "Deadline",
+      "author": "Dianalodderhose",
+      "date": "2026-09-04T06:28:52+00:00",
+      "link": "https://deadline.com/2026/09/coming-of-age-josh-appignanesi-devorah-baum-1237066749/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/MixCollage-03-Sep-2026-04-18-PM-9713.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "df3351ad406b74d0",
+      "title": "Faces of Death review – rework of notorious video nasty turns horror voyeurism into moral panic fable",
+      "quote": "A retelling of the 1978 ‘video nasty’ follows an online content moderator faced with steadily more appalling footage but reverts to generic bloodletting Emerging amid the original 1970s home-rental boom, John Alan…",
+      "publisher": "The Guardian",
+      "author": "Mike McCahill",
+      "date": "2026-09-04T06:00:01+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/04/faces-of-death-review-rework-of-notorious-video-nasty-turns-horror-voyeurism-into-moral-panic-fable",
+      "image": "https://i.guim.co.uk/img/media/01c5d14803a39ac92397f95cdd1d65124bf75ec4/378_0_2505_2004/master/2505.jpg?width=140&quality=85&auto=format&fit=max&s=785f5b824e09b30ee27762e36413f6e3",
+      "category": "World Cinema"
+    },
+    {
+      "id": "48e4ad022f67099e",
+      "title": "Madam Sir: How ‘Babita Singh Reporting’ shows the balancing act of women cops",
+      "quote": "A growing cohort of India’s policewomen on screen, addressed as ‘Madam Sir’, fight crime but must still keep patriarchy comfortable",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-04T05:10:59+00:00",
+      "link": "https://www.thehindu.com/entertainment/madam-sir-babita-singh-reporting-women-cops-indian-cinema/article71413674.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/4fqu2k/article71425922.ece/alternates/LANDSCAPE_1200/Untitled%20design%20-%202026-09-04T034458.269.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "264be9deda2471ce",
+      "title": "‘Om Ka Hari’: Trailer of Anshuman Jha and Raghubir Yadav’s film out",
+      "quote": "Directed by Harish Vyas, the film also stars Soni Razdan and Ayesha Kapur in key roles",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-04T04:58:40+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/om-ka-hari-trailer-of-anshuman-jha-and-raghubir-yadavs-film-out/article71423988.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/36lnhq/article71427073.ece/alternates/LANDSCAPE_1200/A%20still%20from%20%E2%80%98Om%20Ka%20Hari%E2%80%99",
+      "category": "Indian Cinema"
+    },
     {
       "id": "919d55904fac59d6",
       "title": "Nagathihalli Chandrashekhar interview: ‘America America 2’ steps out of the original’s shadow",
@@ -20,48 +251,15 @@
       "category": "Indian Cinema"
     },
     {
-      "id": "4131e78c41a07d3e",
-      "title": "‘Criminal’ Boss Ed Brubaker Accused Of Sexual & Racial Harassment; Amazon, MGM Also Named As Defendants In Complaint From Ex-PA",
-      "quote": "What may or may not have gone down on Prime Video’s upcoming Criminal now looks set to end up in a California courtroom. “This action arises from the sustained sexual, racial, national origin, and religious harassment…",
-      "publisher": "Deadline",
-      "author": "Dominic Patten",
-      "date": "2026-09-04T02:19:45+00:00",
-      "link": "https://deadline.com/2026/09/ed-brubaker-sued-sex-harassment-criminal-1237067742/",
-      "image": "https://deadline.com/wp-content/uploads/2023/02/criminal.jpg",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "dbfba51655cabe3c",
-      "title": "Rosie O’Donnell Performs “I Am Woman” With Epstein Survivors: “I’m Sorry That Our Country’s So F*cked Up”",
-      "quote": "Following her late-night stint, Rosie O’Donnell is continuing to put Donald Trump on blast, this time with help from a few friends. On Thursday, the 12x Emmy winner shared a video of herself performing Helen Reddy’s…",
-      "publisher": "Deadline",
-      "author": "Glenn Garner",
-      "date": "2026-09-04T02:05:08+00:00",
-      "link": "https://deadline.com/2026/09/rosie-odonnell-performs-i-am-woman-epstein-survivors-1237067769/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Rosie-ODonnell-Epstein-Survivors-2.png",
-      "category": "World Cinema"
-    },
-    {
-      "id": "52a19c0963bc0e8f",
-      "title": "Madam Sir: How Babita Singh Reporting shows the balancing act of women cops",
-      "quote": "A growing cohort of India’s policewomen on screen, addressed as ‘Madam Sir’, fight crime but must still keep patriarchy comfortable",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-04T01:32:27+00:00",
-      "link": "https://www.thehindu.com/entertainment/madam-sir-babita-singh-reporting-women-cops-indian-cinema/article71413674.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/4fqu2k/article71425922.ece/alternates/LANDSCAPE_1200/Untitled%20design%20-%202026-09-04T034458.269.jpg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "0fed32cdac975ed2",
-      "title": "Jessie T. Usher, Taye Diggs & Brett Gelman Among 5 Joining Sci-Fi Thriller Feature ‘Syndetic’",
-      "quote": "EXCLUSIVE: Jessie T. Usher (The Boys, Smile), Brett Gelman (Wild Things), Taye Diggs (His, Hers, Ours), Torrey Lawrence (Bring the Law) and Brooke Anne Smith (Tyler Perry’s Too Close to Home) are set to star in…",
-      "publisher": "Deadline",
-      "author": "Rosy Cordero",
-      "date": "2026-09-04T01:13:04+00:00",
-      "link": "https://deadline.com/2026/09/jessie-t-usher-taye-diggs-brett-gelman-sci-fi-film-syndetic-1237067717/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/SYNDETIC.jpg",
-      "category": "World Cinema"
+      "id": "78882f90983683a3",
+      "title": "Disney+ grabs Rick Riordan's \"Percy Jackson but its Egyptian gods this time\" stories off the bookshelf",
+      "quote": "The streamer has begun development on <i>The Kane Chronicles</i>, set in the same universe as Riordan's <i>Olympians</i> series.",
+      "publisher": "The A.V. Club",
+      "author": "William Hughes",
+      "date": "2026-09-04T01:52:23+00:00",
+      "link": "https://www.avclub.com/disney-kane-chronicles-show-rick-riordan-percy-jackson",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/03214836/rick-riordan-feature.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "4153881c2473886d",
@@ -75,6 +273,17 @@
       "category": "World Cinema"
     },
     {
+      "id": "a70bd903a037377a",
+      "title": "Upcoming Amazon series Criminal hit with hostile work environment suit",
+      "quote": "Producers on the series are accused of turning a blind eye to alleged unprofessional conduct from showrunner and famed comics writer Ed Brubaker.",
+      "publisher": "The A.V. Club",
+      "author": "William Hughes",
+      "date": "2026-09-04T00:50:28+00:00",
+      "link": "https://www.avclub.com/ed-brubaker-criminal-hostile-work-environment-suit",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/03204559/ed-brubaker-feature.jpg",
+      "category": "Indie Gems"
+    },
+    {
       "id": "0b019edd9b0ac5a7",
       "title": "Superman Director Richard Donner Smoothed Things Over During A Rough Time On Gilligan's Island",
       "quote": "More than a decade before he directed Superman, Richard Donner worked on Gilligan's Island, and everyone there loved him.",
@@ -86,59 +295,37 @@
       "category": "Indie Gems"
     },
     {
-      "id": "0d9a0a934e119b36",
-      "title": "‘Big Brother’ Season 28, Week 8 Eviction: First Member Of Jury Revealed",
-      "quote": "SPOILER ALERT: This post contains details on Big Brother Season 28, Episode 28, which aired on Thursday, September 3. Following one of the biggest twists in Big Brother history, Julie Chen Moonves returned for another…",
-      "publisher": "Deadline",
-      "author": "Armando Tinoco",
-      "date": "2026-09-04T00:44:56+00:00",
-      "link": "https://deadline.com/2026/09/big-brother-season-28-week-8-eviction-cbs-1237067692/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/big-brother-season-28-week-8-eviction.jpg",
-      "category": "World Cinema"
+      "id": "3f3982cc2f0ba81d",
+      "title": "New ABC reality show to let people make their own godawful branded food mashups",
+      "quote": "<i>Limited Time Offer</i> dares to ask why screwing up Oreos should solely be the purview of the Nabisco corporation.",
+      "publisher": "The A.V. Club",
+      "author": "William Hughes",
+      "date": "2026-09-03T23:59:17+00:00",
+      "link": "https://www.avclub.com/limited-time-offer-abc-reality-show-food-mashups",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/03195310/chicken-oreo.jpg",
+      "category": "Indie Gems"
     },
     {
-      "id": "8d33657b776fb420",
-      "title": "Mark Sanchez Pleads Guilty In Trucker Stabbing Case; Ex-NFL QB & Fox Sports Talking Head Hopes To Avoid Looming Trial & Potential Jail Time",
-      "quote": "Days before a jury trial was set to start in Indianapolis, Mark Sanchez has entered a guilty plea in the 2025 stabbing, assault and booze-fueled incident with a 69-year-old trucker. “The parties have reached a…",
-      "publisher": "Deadline",
-      "author": "Dominic Patten",
-      "date": "2026-09-04T00:44:20+00:00",
-      "link": "https://deadline.com/2026/09/mark-sanchez-stabbing-plea-1237067677/",
-      "image": "https://deadline.com/wp-content/uploads/2025/10/Mark-Sanchez-2236843149.jpg",
-      "category": "World Cinema"
+      "id": "caa712fbdc404ba1",
+      "title": "Well, somebody flew a plane banner saying \"Ellison is Trump's B!tch!\" over Paramount",
+      "quote": "What the anti-Paramount message lacked in political nuance, it made up in \"being up in the sky where everybody could see it.\"",
+      "publisher": "The A.V. Club",
+      "author": "William Hughes",
+      "date": "2026-09-03T23:24:03+00:00",
+      "link": "https://www.avclub.com/somebody-flew-plane-banner-saying-ellison-is-trumps-btch-over-paramount",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/03191619/ellison-plane-feature.jpg",
+      "category": "Indie Gems"
     },
     {
-      "id": "26edf59fbcae9e69",
-      "title": "Nicole Kidman Wanted To Star In A ‘Dune’ Film But Denis Villeneuve “Never Asks” To Work Together: “I’m Obsessed”",
-      "quote": "Although Nicole Kidman has no shortage of roles to keep her busy, don’t expect her to make an appearance in the Dune franchise. The Oscar-winning actress recently expressed regret that Denis Villeneuve never asked her…",
-      "publisher": "Deadline",
-      "author": "Glenn Garner",
-      "date": "2026-09-04T00:41:25+00:00",
-      "link": "https://deadline.com/2026/09/nicole-kidman-wanted-star-dune-film-1237067699/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/P107WAPU-e1788481363121.jpg",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "08eaebe18a5d165e",
-      "title": "Universal Taps Chris MacBride To Pen ‘Confession Of Murder’ Remake With Glen Powell And Winged Tiger Producing",
-      "quote": "EXCLUSIVE: Universal has acquired feature remake rights to the 2012 Korean film Confession of Murder and tapped Chris MacBride to pen the script. Barnstorm’s Glen Powell and Dan Cohen will be producing with Winged…",
-      "publisher": "Deadline",
-      "author": "Justin Kroll",
-      "date": "2026-09-03T23:00:00+00:00",
-      "link": "https://deadline.com/2026/09/universal-chris-macbride-confession-of-murder-glen-powell-1237067015/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/MCDCOOF_EC266.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "7262a70fbf3964ad",
-      "title": "Stanley Kubrick’s Daughter Addresses “Conspiracy Theory” About ‘Eyes Wide Shut’s “Missing 20 Minutes”",
-      "quote": "After more than a quarter century, Stanley Kubrick’s daughter has addressed a long-held rumor about his final film. On Monday, Vivian Kubrick insisted she “definitely would have found out” over the years if there was a…",
-      "publisher": "Deadline",
-      "author": "Glenn Garner",
-      "date": "2026-09-03T22:47:54+00:00",
-      "link": "https://deadline.com/2026/09/stanley-kubrick-daughter-eyes-wide-shut-missing-20-minutes-1237067582/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Eyes-Wide-Shut.jpg",
-      "category": "World Cinema"
+      "id": "8448c92e77e823f9",
+      "title": "Fox News dumps Maria Bartiromo",
+      "quote": "After 12 and a half years covering Wall Street for Fox News, the company has relieved Bartiromo of her post.",
+      "publisher": "The A.V. Club",
+      "author": "Matt Schimkowitz",
+      "date": "2026-09-03T22:07:36+00:00",
+      "link": "https://www.avclub.com/maria-bartiromo-fox-news-exit",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/03175455/maria-bartiromo-feature.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "d8f62200ebcf07d3",
@@ -218,39 +405,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "88183a9472f7c7a3",
-      "title": "Martin McDonagh recalls the U.S. government being smart enough to hide its international crimes",
-      "quote": "At the Venice Film Festival, the <I>Banshees Of Inisherin</i> director reminds everyone that the CIA has done \"awful things.\"",
-      "publisher": "The A.V. Club",
-      "author": "Drew Gillis",
-      "date": "2026-09-03T19:14:29+00:00",
-      "link": "https://www.avclub.com/martin-mcdonagh-cia-venice",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/03143906/MixCollage-03-Sep-2026-02-38-PM-6959.jpg",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "dff6bffd82190e31",
-      "title": "The RiffTrax guys on getting back in the puppet trench for MST3K",
-      "quote": "Mike Nelson, Kevin Murphy, and Bill Corbett are just as surprises as you are to be back on the Satellite Of Love.",
-      "publisher": "The A.V. Club",
-      "author": "Erik Adams",
-      "date": "2026-09-03T19:00:30+00:00",
-      "link": "https://www.avclub.com/mst3k-rifftrax-interview-mike-nelson-kevin-murphy-bill-corbett",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/03144525/MixCollage-03-Sep-2026-01-44-PM-4741.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "7b6d99fc255579a2",
-      "title": "Lucas Museum of Narrative Art puts the Star Wars creator's mind on display",
-      "quote": "George Lucas' celebration of visual storytelling, a mix of high-, middle-, and low-brow fare from comics, illustration, cinema, photography, and more, is the culmination of a 20-year journey. The A.V. Club took part in…",
-      "publisher": "The A.V. Club",
-      "author": "Matt Schimkowitz",
-      "date": "2026-09-03T18:40:38+00:00",
-      "link": "https://www.avclub.com/george-lucas-museum-of-narrative-art-preview",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/03141724/lucas-museum-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "77df64e495200895",
       "title": "‘I’m Game’ movie review: Dulquer Salmaan-starrer squanders a winning idea",
       "quote": "In ‘I’m Game’, starring Dulquer Salmaan, filmmaker Nahas Hidhayath manages to keep the hold on the audience only for a while, before indulging in familiar narrative patterns",
@@ -260,17 +414,6 @@
       "link": "https://www.thehindu.com/entertainment/movies/im-game-movie-review-dulquer-salmaan-starrer-loses-the-plot-in-veering-away-from-a-winner-of-an-idea/article71425675.ece",
       "image": "https://th-i.thgim.com/public/news/national/kerala/ajmx31/article71424773.ece/alternates/LANDSCAPE_1200/im%20game.jpeg",
       "category": "Indian Cinema"
-    },
-    {
-      "id": "e5d3800fb9456011",
-      "title": "Live-action Dungeons & Dragons spinoff Ravenloft in the works at Netflix",
-      "quote": "The announcement comes with news that <i>The Forgotten Realms</i> is no longer in development at the streamer.",
-      "publisher": "The A.V. Club",
-      "author": "Jarrod Jones",
-      "date": "2026-09-03T18:30:17+00:00",
-      "link": "https://www.avclub.com/ravenloft-live-action-series-announced-netflix-alfonso-cuaron",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/03142248/ravenloft-header.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "04404d538bc6740f",
@@ -350,39 +493,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "589595d3a79e7f21",
-      "title": "Mr. T displeased with Netflix documentary on his life",
-      "quote": "\"Wow man, I'm more than that.\"",
-      "publisher": "The A.V. Club",
-      "author": "Jarrod Jones",
-      "date": "2026-09-03T17:29:17+00:00",
-      "link": "https://www.avclub.com/mr-t-unhappy-with-netflix-documentary",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/03131820/mr-t-header.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "ade24cdf9633528a",
-      "title": "Inside Bigg Boss Tamil Season 10 house: Gender-neutral bedroom and the common man mural steal limelight",
-      "quote": "From a swimming pool and a mural dedicated to the common man to cosy corners and an independent bedroom for the captain of the week, here are some features of the Bigg Boss Tamil Season 10 house",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-03T17:21:01+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/inside-bigg-boss-tamil-season-10-house-gender-neutral-bedroom-and-the-common-man-mural-steal-limelight/article71424887.ece",
-      "image": null,
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "14c18685aec5712c",
-      "title": "‘The Runner’ movie review: Gal Gadot runs flat out to save this generic thriller",
-      "quote": "Gal Gadot’s sprint to save her diabetic son keeps up the tension in this by-the-numbers actioner",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-03T16:33:47+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/the-runner-movie-review-gal-gadot-runs-flat-out-to-save-this-generic-thriller/article71423939.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/xc3mn1/article71425367.ece/alternates/LANDSCAPE_1200/Gal%20Gadot%20in%20%E2%80%98The%20Runner%E2%80%99",
-      "category": "Indian Cinema"
-    },
-    {
       "id": "1ccf442b5a938b06",
       "title": "By Any Means review – Mark Wahlberg and Yahya Abdul-Mateen II drama provokes with horror of 1960s racism",
       "quote": "Elegance Bratton’s civil rights drama in the Jim Crow south confronts you with almost unbearable brutality Black people officially won the unrestricted right to vote in the US in 1965 but many still encountered hurdles…",
@@ -427,17 +537,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "58885125739fcc56",
-      "title": "Bucking Fastard review – Herzog’s starry twins soap provokes a syncing feeling",
-      "quote": "Venice film festival: Rooney and Kate Mara play the real-life Chaplin sisters who spoke in unsettling unison in this silly, pointless drama Werner Herzog is such a unique film-maker that even a dud from him has some…",
-      "publisher": "The Guardian",
-      "author": "Peter Bradshaw",
-      "date": "2026-09-03T15:00:41+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/03/bucking-fastard-review-werner-herzog-rooney-kate-mara-chaplin-sisters",
-      "image": "https://i.guim.co.uk/img/media/53104fe19e0d47cffed48247933dbc592ea18b33/289_0_2524_2019/master/2524.jpg?width=140&quality=85&auto=format&fit=max&s=b6bb4990492e0c0b93343683087fe451",
-      "category": "Festival Winners"
-    },
-    {
       "id": "8af7f9e853cf8266",
       "title": "‘Bucking Fastard’ Review: Herner Werzog’s Uddled-Mup Fairytale Stars the Mara Sisters as You’ve Never Seen Her Before",
       "quote": "Occasionally sublime, often ridiculous and always extravagantly weird, Werner Herzog’s “Bucking Fastard,” unlike its gorgeously interlinked protagonists, is a film of multiple personalities that only rarely speak in…",
@@ -460,72 +559,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "1a0112715b48a026",
-      "title": "Martin McDonagh says CIA has ‘done awful things all around the world’",
-      "quote": "McDonagh’s new film, Wild Horse Nine, stars John Malkovich as an agent in 1970s Chile who feels ‘guilt and regret’ over his role in global interventions The US’s history of intervening in democratic processes around the…",
-      "publisher": "The Guardian",
-      "author": "Philip Oltermann in Venice",
-      "date": "2026-09-03T14:21:51+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/03/martin-mcdonagh-wild-horse-nine-cia-awful-things",
-      "image": "https://i.guim.co.uk/img/media/dfd856c59e53370ebfa44143ae2345bc95ddf861/149_0_3199_2561/master/3199.jpg?width=140&quality=85&auto=format&fit=max&s=7279dea0251b8636c476e41097973343",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "a2640c1af8fd1842",
-      "title": "Star Trek: Strange New Worlds Season 4 Finally Pays Off Season 1's Biggest Tease",
-      "quote": "Strange New Worlds Season 4's seventh episode pays off a major tease from the Star Trek series' first season, but not the way you'd expect.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Jeremy Mathai)",
-      "date": "2026-09-03T14:00:00+00:00",
-      "link": "https://www.slashfilm.com/2249947/star-trek-strange-new-worlds-season-4-sybok-explained/",
-      "image": "https://www.slashfilm.com/img/gallery/star-trek-strange-new-worlds-season-4-sybok-explained/l-intro-1788446267.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "e4d64519705ac455",
-      "title": "Now Playing | Munna Bhaiya: 5 songs the Prince of Mirzapur would have on repeat",
-      "quote": "Here are five songs we imagine Munna Bhaiya from ‘Mirzapur’ would have on repeat, from his darker electronic influences to a faint glimpse of a romantic millenial catching on to a new stillness in love",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-03T13:48:12+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/now-playing-munna-bhaiya-5-songs-the-prince-of-mirzapur-would-have-on-repeat/article71423473.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/3kfxl7/article71424006.ece/alternates/LANDSCAPE_1200/Copy%20of%20G2%20Cover.jpg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "2d44ee40ca8726cd",
-      "title": "Falling House review – fierce tale of an Iranian prison guard holding his family hostage",
-      "quote": "Venice film festival: Mohsen Gharaei’s powerfully acted domestic drama watches as the failing patriarch attempts to contain family rebellion Iran is a prison and everybody is inside: cons and non-cons; parents and their…",
-      "publisher": "The Guardian",
-      "author": "Xan Brooks",
-      "date": "2026-09-03T12:15:24+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/03/falling-house-review-mohsen-gharaei-iran-prison-guard",
-      "image": "https://i.guim.co.uk/img/media/eb60534c1de15a4dfab1eb285f507e7652c48f8e/622_0_2957_2366/master/2957.jpg?width=140&quality=85&auto=format&fit=max&s=2703c95e7433f89f1c62b723971f877c",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "eb28a86ad7a5c275",
-      "title": "‘Mayday’ movie review: Ryan Reynolds and Kenneth Branagh co-pilot a rollicking bromance through the Danger Zone",
-      "quote": "John Francis Daley and Jonathan Goldstein send ‘Top Gun’ nostalgia into the Cold War with Ryan Reynolds and Kenneth Branagh making a surprisingly winning pair of wingmen",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-03T12:05:59+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/mayday-apple-tv-movie-review-ryan-reynolds-kenneth-branagh/article71423682.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/5sqinq/article71423675.ece/alternates/LANDSCAPE_1200/Screenshot%202026-09-03%20170728.png",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "8769da223f92a550",
-      "title": "Tall tales: the 20 best giants in film – ranked!",
-      "quote": "On the 300th anniversary of Gulliver’s Travels, we celebrate the biggest film stars of them all – from a stone colossus to a metal-munching alien and a 50ft woman on the rampage Not a first-person-shooter BFG , alas…",
-      "publisher": "The Guardian",
-      "author": "Anne Billson",
-      "date": "2026-09-03T12:00:28+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/03/best-giants-in-film-ranked",
-      "image": "https://i.guim.co.uk/img/media/f3a807684f26412f9913f7d5df30939f7b5cfa03/1069_4_3921_3136/master/3921.jpg?width=140&quality=85&auto=format&fit=max&s=c633b6c6a1d94826fa6f7e5af3eb138a",
-      "category": "World Cinema"
-    },
-    {
       "id": "a580e3c3dd86a064",
       "title": "‘Everest: The Other Side’ Review: A Frustrating, Guiltily Compelling Portrait of the Triumph and Tragedy of Extreme Mountaineering",
       "quote": "‘Free Solo’ Oscar winners Jimmy Chin and Elizabeth Chai Vasarhelyi again hit the slopes for a National Geographic doc about people risking it all to climb to the top of the world — and then ski back down.",
@@ -546,17 +579,6 @@
       "link": "https://www.bbc.com/culture/article/20240322-gloria-steinem-trailblazing-magazine-for-women?ocid=global_culture_rss",
       "image": "https://ychef.files.bbci.co.uk/144x81/p0hld7th.jpg",
       "category": "World Cinema"
-    },
-    {
-      "id": "18c96e8176a036d0",
-      "title": "‘East of Eden’ trailer: Florence Pugh is formidable in Netflix’s enigmatic John Steinbeck adaptation",
-      "quote": "The seven-episode series is written and executive produced by Zoe Kazan and also stars Martha Plimpton, Ciarán Hinds, Joseph Zada, Joe Anders and Hoon Lee",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-03T11:58:52+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/east-of-eden-trailer-florence-pugh-is-formidable-in-netflixs-enigmatic-john-steinbeck-adaptation/article71423702.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/pz48su/article71423737.ece/alternates/LANDSCAPE_1200/Florence%20Pugh%20in%20%E2%80%98East%20of%20Eden%E2%80%99",
-      "category": "Indian Cinema"
     },
     {
       "id": "73c4de678252df86",
@@ -621,17 +643,6 @@
       "author": "Jordan Mintzer",
       "date": "2026-09-02T16:37:50+00:00",
       "link": "https://www.hollywoodreporter.com/movies/movie-reviews/the-runner-review-gal-gadot-kevin-macdonald-1236688022/",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "7b02e214fc810ea8",
-      "title": "‘Mayday’ Review: Ryan Reynolds and Kenneth Branagh Have Infectious Chemistry in Derivative but Diverting Apple TV Action-Comedy",
-      "quote": "Maria Baklova also appears in this film about an American pilot trapped in Soviet Russia and the ex-KGB agent who helps him.",
-      "publisher": "The Hollywood Reporter",
-      "author": "Frank Scheck",
-      "date": "2026-09-02T16:00:00+00:00",
-      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/mayday-review-ryan-reynolds-kenneth-branagh-apple-1236679707/",
       "image": null,
       "category": "World Cinema"
     },
@@ -788,17 +799,6 @@
       "link": "https://www.bbc.com/culture/article/20260826-the-grisly-american-werewolf-in-london-scene-that-took-horror-to-new-extremes?ocid=global_culture_rss",
       "image": "https://ychef.files.bbci.co.uk/144x81/p0p6fthg.jpg",
       "category": "Festival Winners"
-    },
-    {
-      "id": "3feb39e144ec58e8",
-      "title": "14 of the best books of 2026 so far",
-      "quote": "From an American epic set in Harlem to a tender tale by the author of Hamnet",
-      "publisher": "BBC Culture",
-      "author": null,
-      "date": "2026-08-26T11:00:00+00:00",
-      "link": "https://www.bbc.com/culture/article/20260522-the-best-books-of-2026?ocid=global_culture_rss",
-      "image": "https://ychef.files.bbci.co.uk/144x81/p0p6b1pr.jpg",
-      "category": "World Cinema"
     },
     {
       "id": "76d8786d13278ebb",
