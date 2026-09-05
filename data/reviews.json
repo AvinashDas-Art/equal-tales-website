@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T10:24:28.356380+00:00",
+  "generated_at": "2026-09-05T14:58:43.333799+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -8,6 +8,105 @@
     "Indie Gems"
   ],
   "reviews": [
+    {
+      "id": "a0b13eb4b4432659",
+      "title": "‘The Liberation’ Review: Carrie Coon, Bella Ramsey and Lily James in Guy Nattiv’s Devastatingly Empathetic Cult Drama",
+      "quote": "Also starring Odessa Young and Tracy Letts, the film follows a suburban mother who leaves her family to follow a charismatic spiritual guru in 1980s New Jersey.",
+      "publisher": "The Hollywood Reporter",
+      "author": "Angie Han",
+      "date": "2026-09-05T14:19:41+00:00",
+      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/the-liberation-review-carrie-coon-guy-nattiv-lily-james-1236690996/",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "bac13458a1901014",
+      "title": "‘Oasis: Don’t Look Back In Anger’ Is About “Reconciliation, Redemption, And Forgiveness”, Says Steven Knight, As Liam & Noel Hit The Lido — Venice",
+      "quote": "Oasis: Don’t Look Back In Anger creator-writer-producer Steven Knight says the film, which captures the rapprochement between feuding brothers Liam and Noel Gallagher, is about “reconciliation, redemption, and…",
+      "publisher": "Deadline",
+      "author": "Andreas Wiseman",
+      "date": "2026-09-05T14:13:22+00:00",
+      "link": "https://deadline.com/2026/09/oasis-dont-look-back-in-anger-reconciliation-steven-knight-1237068861/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Oasis-Venice.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "f93a792291f5100c",
+      "title": "Broadway Fall Preview: The Stars Rise In New York This Autumn As Julia Louis-Dreyfus, Billy Crystal, Bradley Whitford, Raúl Esparza, Tom Hiddleston & More Take The Stage",
+      "quote": "Although the recently opened Paranormal Activity offered up a fine and spooky soft launch for Broadway’s 2026 Fall Season, the usual autumn crunch of new productions is still some weeks off. But no point in waiting…",
+      "publisher": "Deadline",
+      "author": "Greg Evans",
+      "date": "2026-09-05T13:00:00+00:00",
+      "link": "https://deadline.com/2026/09/broadway-fall-preview-2026-1237067438/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Julia-Louis-Dreyfus-Billy-Crystal-Bradley-Whitford-Raul-Esparza-and-Tom-Hiddleston.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "729ee6971988999f",
+      "title": "Dolly Parton's Classic 110-Minute Comedy Is Finding Fans On Netflix 46 Years Later",
+      "quote": "In the wake of Dolly Parton's death, one of the cherished singer/songwriter/actress's most beloved films is racing up the Netflix charts.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Jeremy Smith)",
+      "date": "2026-09-05T13:00:00+00:00",
+      "link": "https://www.slashfilm.com/2251421/dolly-parton-comedy-9-to-5-streaming-netflix-september-2026/",
+      "image": "https://www.slashfilm.com/img/gallery/dolly-partons-classic-110-minute-comedy-is-finding-fans-on-netflix-46-years-later/l-intro-1788548885.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "0cefbd6803d458c6",
+      "title": "Robert Pattinson Addresses Chris Hansen’s Criticism Of ‘Primetime’: “I Hope It’s Some Kind Of Compliment”",
+      "quote": "Robert Pattinson says he hopes Chris Hansen will come to see Lance Oppenheim’s thriller Primetime, inspired by the TV host and his show To Catch a Predator series, as a compliment. “I would hope in some ways, like the…",
+      "publisher": "Deadline",
+      "author": "Melanie Goodfellow",
+      "date": "2026-09-05T12:15:28+00:00",
+      "link": "https://deadline.com/2026/09/robert-pattinson-chris-hansen-criticism-compliment-1237068840/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2293633360.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "1730d5132659a135",
+      "title": "‘I don’t like the term neurodivergence – it sounds like political correctness’: Werner Herzog on fans, fanaticism and baby foxes",
+      "quote": "The Bavarian auteur talks directing Kate and Rooney Mara in Bucking Fastard and his popularity on Instagram In outsider visionaries such as Aguirre, Fitzcarraldo or Timothy Treadwell, renegade German director Werner…",
+      "publisher": "The Guardian",
+      "author": "Philip Oltermann in Venice",
+      "date": "2026-09-05T12:15:04+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/05/werner-herzog-bucking-fastard-kate-rooney-mara",
+      "image": "https://i.guim.co.uk/img/media/7484afeb58539a9eb48f787f74282aa8895fa8a9/397_0_3931_3143/master/3931.jpg?width=140&quality=85&auto=format&fit=max&s=cb5db09a4e3a417e6100460cb119cd24",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "8f267db8ff44a65d",
+      "title": "Mohanlal and Vishnu Mohan's film gets titled 'Operation Ganga'",
+      "quote": "‘Operation Ganga’ refers to India’s evacuation mission launched to bring back Indian citizens, including thousands of students, who were stranded in Ukraine following the outbreak of the Russia-Ukraine war.",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-05T11:51:45+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/mohanlal-and-vishnu-mohans-film-gets-titled-operation-ganga/article71431719.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/5fus8f/article71431738.ece/alternates/LANDSCAPE_1200/cvr%2069.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "b2ed39e866073462",
+      "title": "Every Character Taylor Sheridan Plays In His Own TV Shows & Movies, Ranked",
+      "quote": "Taylor Sheridan often shows up in the TV series and movies he writes, so let's rank every character he's played in them so far.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Joe Roberts)",
+      "date": "2026-09-05T11:45:00+00:00",
+      "link": "https://www.slashfilm.com/2248527/taylor-sheridan-character-tv-shows-movies-ranked/",
+      "image": "https://www.slashfilm.com/img/gallery/every-character-taylor-sheridan-plays-in-his-own-tv-shows-movies-ranked/l-intro-1788272559.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "1e6eed7b78a41c1f",
+      "title": "Restoring ‘Pakeezah’: Rebuilding Meena Kumari’s last film from damaged negatives and fading memories",
+      "quote": "Nearly five decades after it first captivated audiences, Kamal Amrohi’s magnum opus, has been painstakingly restored and will be showcased at the Festival Lumière in Lyon, France.",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-05T11:12:50+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/restoring-pakeezah-rebuilding-the-masterpiece-from-damaged-negatives-and-fading-memories/article71427753.ece",
+      "image": "https://th-i.thgim.com/public/incoming/7q7nd2/article71428322.ece/alternates/LANDSCAPE_1200/Pakeezah%20-%20Film%20Still%204.jpeg",
+      "category": "Indian Cinema"
+    },
     {
       "id": "35a8a5add82af2ac",
       "title": "Mohammad Ali Baig’s debut feature film ‘Chand Tara’ to premiere at TIFF 2026",
@@ -28,17 +127,6 @@
       "date": "2026-09-05T09:26:29+00:00",
       "link": "https://www.thehindu.com/entertainment/movies/dil-chahta-hai-at-25-how-farhan-akhtars-breezy-style-created-a-new-bollywood-coolth/article71411100.ece",
       "image": "https://th-i.thgim.com/public/entertainment/movies/9fkh5p/article71418230.ece/alternates/LANDSCAPE_1200/cvr%2059.jpg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "1e6eed7b78a41c1f",
-      "title": "Restoring ‘Pakeezah’: Rebuilding Meena Kumari’s last film from damaged negatives and fading memories",
-      "quote": "Nearly five decades after it first captivated audiences, Kamal Amrohi’s magnum opus, has been painstakingly restored and will be showcased at the Festival Lumière in Lyon, France.",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-05T09:23:22+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/restoring-pakeezah-rebuilding-the-masterpiece-from-damaged-negatives-and-fading-memories/article71427753.ece",
-      "image": "https://th-i.thgim.com/public/incoming/7q7nd2/article71428322.ece/alternates/LANDSCAPE_1200/Pakeezah%20-%20Film%20Still%204.jpeg",
       "category": "Indian Cinema"
     },
     {
@@ -207,28 +295,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "7b819b99d5eba07e",
-      "title": "Danny Boyle’s ‘Ink’ Makes Tabloid Headlines At Telluride",
-      "quote": "Fresh from the Venice Film Festival where he unveiled Ink, director Danny Boyle arrived in Telluride for the North American premiere of his drama about Rupert Murdoch’s launch of the British Tabloid The Sun in 1969…",
-      "publisher": "Deadline",
-      "author": "Matthew Carey",
-      "date": "2026-09-05T04:11:41+00:00",
-      "link": "https://deadline.com/2026/09/ink-premiere-telluride-danny-boyle-1237068784/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Ink.png",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "2438eeeb453d897b",
-      "title": "Ben McKenzie Would “Be Up For” A Revival Of ‘The O.C.’: “It Was A Great Show”",
-      "quote": "California, here we come again. Ben McKenzie has addressed a potential return to The O.C., nearly 20 years after the show ended. The actor, who starred as Ryan Atwood for the Fox teen drama’s four-season run from 2003…",
-      "publisher": "Deadline",
-      "author": "Glenn Garner",
-      "date": "2026-09-05T02:47:12+00:00",
-      "link": "https://deadline.com/2026/09/ben-mckenzie-up-for-revival-the-oc-1237068781/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/The-OC.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "2ce94bfe03598b9c",
       "title": "A Long Winter review – hope, desire and subversion in Andrew Haigh’s beautiful winter western",
       "quote": "Telluride film festival In a remote Colorado farmstead, a family with a mother gone missing finds a strange buoyancy and freedom as they wait for the snows to melt Andrew Haigh’s mysterious and beautiful new film is…",
@@ -259,17 +325,6 @@
       "date": "2026-09-05T02:30:00+00:00",
       "link": "https://www.hollywoodreporter.com/movies/movie-reviews/a-long-winter-review-fred-hechinger-ebon-moss-bachrach-1236690170/",
       "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "610fc4897a69cb7f",
-      "title": "Sandra Bullock Teases ‘Practical Magic 3’ Could Happen, Wants To “Pass The Torch”",
-      "quote": "With the Owens sisters returning for another magical outing with Practical Magic 2, a trilogy could be in the cards. Sandra Bullock, who reprises her role as Sally Owens when the sequel premieres on Sept. 10, teased…",
-      "publisher": "Deadline",
-      "author": "Glenn Garner",
-      "date": "2026-09-05T02:04:57+00:00",
-      "link": "https://deadline.com/2026/09/sandra-bullock-teases-practical-magic-3-could-happen-1237068776/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Practical-Magic-2_902bef.jpg",
       "category": "World Cinema"
     },
     {
@@ -449,17 +504,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "5563a527009706f6",
-      "title": "Onslaught Director Adam Wingard Has One Regret About His 2026 Action Movie",
-      "quote": "While Onslaught had more resources than Adam Wingard's earliest films, the director still has one regret about his action horror flick.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Ryan Scott)",
-      "date": "2026-09-04T20:00:00+00:00",
-      "link": "https://www.slashfilm.com/2250565/onslaught-director-adam-wingard-one-regret/",
-      "image": "https://www.slashfilm.com/img/gallery/onslaught-director-adam-wingard-has-one-regret-about-his-2026-action-movie/l-intro-1788458699.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "593555c75ba382cd",
       "title": "Dolly Parton gets a replacement star on Walk Of Fame after vandalism",
       "quote": "Parton's star, in place since 1984, was vandalized just a few days after her death; the new one has already been installed in the Walk.",
@@ -480,17 +524,6 @@
       "link": "https://variety.com/2026/film/reviews/the-basics-of-philosophy-review-1236847014/",
       "image": "https://variety.com/wp-content/uploads/2026/08/The-Basics-of-Philosophy.jpg",
       "category": "World Cinema"
-    },
-    {
-      "id": "61995c930f2459ea",
-      "title": "Gal Gadot Has One Condition To Return As DC's Wonder Woman (And It's Totally Unrealistic)",
-      "quote": "Gal Gadot has presented one condition for her to return to DC to play Wonder Woman again, but it's incredibly unlikely it will ever actually happen.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Ryan Scott)",
-      "date": "2026-09-04T19:44:47+00:00",
-      "link": "https://www.slashfilm.com/2251455/gal-gadot-one-condition-wonder-woman-return-zack-snyder/",
-      "image": "https://www.slashfilm.com/img/gallery/gal-gadot-has-one-condition-to-return-as-dcs-wonder-woman-and-its-totally-unrealistic/l-intro-1788550963.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "9bb1be805703b371",
@@ -526,13 +559,13 @@
       "category": "World Cinema"
     },
     {
-      "id": "5b26e78ff9a3861f",
-      "title": "‘Burgundy’ Review: The Classic French Vin Rouge Is a Way of Life in Michael Dweck and Gregory Kershaw’s Captivating Oenology Doc",
-      "quote": "The directors behind ‘The Truffle Hunters’ and ‘Gaucho Gaucho’ continue their ethnographic exploration of age-old traditions inextricably embedded in the land.",
-      "publisher": "The Hollywood Reporter",
-      "author": "David Rooney",
-      "date": "2026-09-04T17:02:23+00:00",
-      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/burgundy-review-michael-dweck-gregory-kershaw-wine-doc-1236690777/",
+      "id": "32de7bfe151d60d5",
+      "title": "Everest: The Other Side",
+      "quote": "A gripping account of an obsessive climb, driven by grief and a need for catharsis.",
+      "publisher": "RogerEbert.com",
+      "author": "Matt Zoller Seitz",
+      "date": "2026-09-04T17:52:09+00:00",
+      "link": "https://www.rogerebert.com/reviews/everest-the-other-side-documentary-film-review-2026",
       "image": null,
       "category": "World Cinema"
     },
@@ -570,6 +603,17 @@
       "category": "Festival Winners"
     },
     {
+      "id": "8e9744f9e339c5ca",
+      "title": "My Undesirable Friends: Part II – Exile",
+      "quote": "Taken as a 10-part whole, it’s one of the most remarkable studies of the amplified rollout of fascism in film history.",
+      "publisher": "RogerEbert.com",
+      "author": "Brian Tallerico",
+      "date": "2026-09-04T14:15:54+00:00",
+      "link": "https://www.rogerebert.com/reviews/my-undesirable-friends-part-ii-exile-documentary-film-review-2026",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
       "id": "ebb8bbaa47ee5946",
       "title": "‘Like a tired boxer, battered by applause’: as Andrew Scott’s biopic premieres, Richard Eyre remembers Ian Charleson’s superb, near-death Hamlet",
       "quote": "In 1989, the Chariots of Fire actor took on the incredible task of playing Shakespeare’s prince while terminally ill from Aids. This weekend sees the world premiere of Elsinore, a new film about the episode, itself…",
@@ -590,17 +634,6 @@
       "link": "https://www.rogerebert.com/reviews/wild-horse-nine-martin-mcdonagh-sam-rockwell-john-malkovich-film-review-2026",
       "image": null,
       "category": "World Cinema"
-    },
-    {
-      "id": "bf1a1da2cdbc2aa1",
-      "title": "How filmmaker Sulagna Chatterjee crowdfunded ‘Olakh’ with 230 supporters",
-      "quote": "A long therapy session gave Sulagna Chatterjee the beginnings of ‘Olakh’; months of crowdfunding gave her the means to make it. The short film, starring Suhasini Mulay and Nikita Grover has travelled from a Mumbai…",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-04T13:05:44+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/how-filmmaker-sulagna-chatterjee-crowdfunded-olakh-with-230-supporters/article71383194.ece",
-      "image": "https://th-i.thgim.com/public/incoming/h5m66b/article71383207.ece/alternates/LANDSCAPE_1200/Olakh%20Still_11.png",
-      "category": "Indian Cinema"
     },
     {
       "id": "548abc3dc6f3355a",
@@ -656,39 +689,6 @@
       "link": "https://www.rogerebert.com/reviews/dear-you-film-review-2026",
       "image": null,
       "category": "World Cinema"
-    },
-    {
-      "id": "387ef7caa3549840",
-      "title": "Parasomnia",
-      "quote": "A lifeless ball of shameless cliches and inert jumpscares struggling to earn your attention.",
-      "publisher": "RogerEbert.com",
-      "author": "Robert Daniels",
-      "date": "2026-09-04T13:00:00+00:00",
-      "link": "https://www.rogerebert.com/reviews/parasomnia-shudder-movie-review-2026",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "e5315ed08fa1fa1a",
-      "title": "To the Black",
-      "quote": "Edwards clearly gained the trust of the people at the company over the eight years of filming.",
-      "publisher": "RogerEbert.com",
-      "author": "Nell Minow",
-      "date": "2026-09-04T13:00:00+00:00",
-      "link": "https://www.rogerebert.com/reviews/to-the-black-space-documentary-movie-review-2026",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "b1271aa9692e601a",
-      "title": "Queer Edward II review – funny, touching time capsule of Derek Jarman at work",
-      "quote": "Venice film festival : Filmed during the making of his queer royal feature, while the director was living with HIV, the candid footage includes uproarious scenes at a Cliff Richard rehearsal There could hardly be a more…",
-      "publisher": "The Guardian",
-      "author": "Peter Bradshaw in Venice",
-      "date": "2026-09-04T12:00:07+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/04/queer-edward-ii-review-funny-touching-time-capsule-of-derek-jarman-at-work",
-      "image": "https://i.guim.co.uk/img/media/57546a02937c5f6b14d07f0f768bccbf7f364edc/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=0e1b0b2ff85f9d15f15238b299d9fbc9",
-      "category": "Festival Winners"
     },
     {
       "id": "06383d5cb8b7dfa7",
