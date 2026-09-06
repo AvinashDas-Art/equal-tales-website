@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T04:10:05.144980+00:00",
+  "generated_at": "2026-09-06T10:43:00.221761+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -9,6 +9,94 @@
   ],
   "reviews": [
     {
+      "id": "b656683bc6230b4d",
+      "title": "‘Father Joe’ Review: Keifer Sutherland Comes Out With All Guns Blazing In This Deliriously Violent Throwback Beat-’Em-Up – Venice Film Festival",
+      "quote": "Did you ever feel that King of New York could have done with a bit more Wing Chun? Did you ever think that John Woo’s films weren’t quite Catholic enough? That the siege of Troy might have been handled a bit more…",
+      "publisher": "Deadline",
+      "author": "Damon Wise",
+      "date": "2026-09-06T10:20:21+00:00",
+      "link": "https://deadline.com/2026/09/father-joe-review-keifer-sutherland-al-pacino-luc-besson-venice-1237069403/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/116074-FATHER_JOE_-_Actor_Kiefer_Sutherland.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "ce9cbd029f6233bc",
+      "title": "Richard Osman Appears To Confirm ‘The Celebrity Traitors’ Premiere Date Amid Talk That Season 2 Was “Intense” To Film",
+      "quote": "Richard Osman has apparently let slip that The Celebrity Traitors will return to the BBC this month. Speaking on-stage during a live episode of The Rest Is Entertainment podcast in London, Osman told the audience that…",
+      "publisher": "Deadline",
+      "author": "Jake Kanter",
+      "date": "2026-09-06T09:58:41+00:00",
+      "link": "https://deadline.com/2026/09/richard-osman-the-celebrity-traitors-premiere-date-bbc-1237069393/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2274111704.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "cb4963de0e41b51b",
+      "title": "Manoj Bajpayee’s first look as Mahatma Gandhi in Sudhir Mishra-Anubhav Sinha’s next out",
+      "quote": "The film also features Saurabh Shukla in a lead role",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-06T09:01:03+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/manoj-bajpayee-mahatma-gandhi-sudhir-mishra-anubhav-sinha-movie/article71434868.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/1l3hnz/article71434875.ece/alternates/LANDSCAPE_1200/Manoj%20Bajpayee%20Mahatma%20Gandhi.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "9683b8517671a69c",
+      "title": "Star Trek When It's Evil: The Mirror Universe Explained",
+      "quote": "Hang on to your goatee: here's everything you need to know about the topsy turvy Mirror Universe in the Star Trek franchise.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Witney Seibold)",
+      "date": "2026-09-06T08:10:00+00:00",
+      "link": "https://www.slashfilm.com/2246512/star-trek-mirror-universe-explained/",
+      "image": "https://www.slashfilm.com/img/gallery/star-trek-when-its-evil-the-mirror-universe-explained/l-intro-1787936775.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "6c7b378f0ad1f19a",
+      "title": "‘The Debut’ Review: Julianne Moore and Paul Giamatti Are Dynamite Together in Jesse Eisenberg’s Entertainingly Offbeat Theater Comedy",
+      "quote": "Premiering at Telluride, the film follows a meek New Jersey housewife who gets cast in a local production headed by a domineering director, and then increasingly loses herself in the role.",
+      "publisher": "The Hollywood Reporter",
+      "author": "Angie Han",
+      "date": "2026-09-06T07:25:18+00:00",
+      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/the-debut-review-julianne-moore-paul-giamatti-1236691977/",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "bc329e865e75efd3",
+      "title": "‘Silo’ Season 4 teaser: Rebecca Ferguson returns for the sci-fi drama’s final chapter",
+      "quote": "The first teaser for ‘Silo’ Season 4 previews the final battle for Juliette Nichols and reveals a July 2027 premiere date",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-06T06:42:35+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/silo-season-4-teaser-rebecca-ferguson-returns-for-the-sci-fi-dramas-final-chapter/article71434736.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/3ed7vx/article71434733.ece/alternates/LANDSCAPE_1200/Screenshot%202026-09-06%20121037.png",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "a99cc3b3876287cd",
+      "title": "‘Primetime’: Robert Pattinson’s Chris Hansen drama gets seven-minute standing ovation at Venice",
+      "quote": "Lance Oppenheim’s ‘Primetime’, starring Robert Pattinson as ‘To Catch a Predator’ host Chris Hansen, received an enthusiastic seven-minute standing ovation at the Venice Film Festival",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-06T06:36:14+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/primetime-robert-pattinsons-chris-hansen-drama-gets-seven-minute-standing-ovation-at-venice/article71434724.ece",
+      "image": "https://th-i.thgim.com/public/incoming/cr0n8i/article71434717.ece/alternates/LANDSCAPE_1200/2026-09-05T155510Z_2086532380_RC22DNAUE52E_RTRMADP_3_FILMFESTIVAL-VENICE-PRIMETIME.JPG",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "f2a2f0d7ae821f34",
+      "title": "‘Onslaught’ movie review: Adria Arjona powers this lean, mean fighting machine",
+      "quote": "Adria Arjona fights off super soldiers to protect her cute-as-a-button daughter, while Dan Stevens provides the snorts and giggles in this retro genre-bender",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-06T06:24:58+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/onslaught-movie-review-adria-arjona-powers-this-lean-mean-fighting-machine/article71431860.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/d2qyii/article71434689.ece/alternates/LANDSCAPE_1200/download.jpg",
+      "category": "Indian Cinema"
+    },
+    {
       "id": "9d5ac798f1d3148a",
       "title": "Mel Gibson Says ‘The Resurrection’ Will Flesh Out Gaps In The Gospels",
       "quote": "“If you look at the synoptic Gospels — and they are synoptic, which means they don’t tell you everything,” Mel Gibson told The Christian Post in an interview this week. “And even John says, ‘Y’know, hey, there were many…",
@@ -17,6 +105,17 @@
       "date": "2026-09-06T04:03:02+00:00",
       "link": "https://deadline.com/2026/09/mel-gibson-the-resurrection-gospels-story-gaps-1237069341/",
       "image": "https://deadline.com/wp-content/uploads/2025/10/GettyImages-875009554.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "eeaf323d03ebde9a",
+      "title": "‘The Debut’ Review: Julianne Moore Is Astonishing in Jesse Eisenberg’s Funny and Dizzying Community-Theater Comedy",
+      "quote": "What holds it together is the suppleness of Eisenberg’s voice as a writer-director (the wit that singes, the story that never stops poking around corners), and the utterly astonishing performance of Julianne Moore, who…",
+      "publisher": "Variety",
+      "author": "Owen Gleiberman",
+      "date": "2026-09-06T02:59:36+00:00",
+      "link": "https://variety.com/2026/film/reviews/the-debut-review-julianne-moore-jesse-eisenberg-1236852779/",
+      "image": "https://variety.com/wp-content/uploads/2026/09/Debut.jpg",
       "category": "World Cinema"
     },
     {
@@ -64,8 +163,8 @@
       "category": "World Cinema"
     },
     {
-      "id": "9dc3d3d2a0672c07",
-      "title": "Octavia Spencer Wins First Emmy, Stops Sir David Attenborough Becoming Oldest Emmy Winner Ever",
+      "id": "4a8b27d9b82532b1",
+      "title": "Octavia Spencer Wins First Emmy",
       "quote": "Norman Lear remains the oldest Emmy winner after Octavia Spencer scored a surprise win over Sir David Attenborough at the Peacock Theater. Spencer scored her first Emmy in the Outstanding Narrator category for her work…",
       "publisher": "Deadline",
       "author": "Peterdeadline",
@@ -75,26 +174,15 @@
       "category": "World Cinema"
     },
     {
-      "id": "9c71035f53f468ac",
-      "title": "‘The Late Show With Stephen Colbert’ Scores Emmy Upsets, ‘The Daily Show’s Desi Lydic Also Triumphs",
-      "quote": "The Late Show with Stephen Colbert had an unexpectedly good night at the first evening of the Emmy awards. The canceled series came away with two big upsets at the event formerly known as the Creative Arts Emmys…",
-      "publisher": "Deadline",
-      "author": "Peterdeadline",
-      "date": "2026-09-06T01:26:53+00:00",
-      "link": "https://deadline.com/2026/09/the-late-show-with-stephen-colbert-emmy-upsets-1237069255/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/MixCollage-05-Sep-2026-06-23-PM-478.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "505ce26f23e9c3dc",
-      "title": "Jimmy Kimmel Wins Emmy For Second Year In A Row, ‘Jeopardy!’ Scores Game Show Prize, Again",
-      "quote": "Jimmy Kimmel has another Emmy. The comedian has picked up for Outstanding Host for a Game Show for his work on ABC’s Who Wants To Be A Millionaire. It is his second consecutive win in the category, having scored it for…",
-      "publisher": "Deadline",
-      "author": "Peterdeadline",
-      "date": "2026-09-06T00:28:17+00:00",
-      "link": "https://deadline.com/2026/09/jimmy-kimmel-emmy-win-who-wants-to-be-a-millionaire-1237069209/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2293733465.jpg",
-      "category": "World Cinema"
+      "id": "cf8958b41606157d",
+      "title": "Gilligan's Island Star Russell Johnson Appeared In A Classic 1950s Sci-Fi Movie Based On A Ray Bradbury Story",
+      "quote": "A pre-Gilligan's Island Russell Johnson co-starred in this historically significant sci-fi movie, itself based on a Ray Bradbury story treatment.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Joe Roberts)",
+      "date": "2026-09-06T00:45:00+00:00",
+      "link": "https://www.slashfilm.com/2248131/gilligans-island-russell-johnson-sci-fi-movie-it-came-from-outer-space/",
+      "image": "https://www.slashfilm.com/img/gallery/gilligans-island-star-russell-johnson-appeared-in-a-classic-1950s-sci-fi-movie-based-on-a-ray-bradbury-story/l-intro-1788209362.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "0618891330f88c27",
@@ -127,6 +215,17 @@
       "date": "2026-09-05T23:00:00+00:00",
       "link": "https://www.slashfilm.com/2250969/joel-kinnaman-apple-tv-series-imperfect-women/",
       "image": "https://www.slashfilm.com/img/gallery/for-all-mankind-star-joel-kinnamans-other-apple-tv-series-was-a-star-studded-disappointment/l-intro-1788526026.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "d1e8d9bf59ac7cb5",
+      "title": "Kid Cudi says Kanye's all better now, so it's totally okay that he performed with him",
+      "quote": "Cudi says West—who, admittedly, hasn't yelled Nazi rhetoric into a mic or sold swastika T-shirts to his fans for like 18 whole months at this point—is \"good\" now.",
+      "publisher": "The A.V. Club",
+      "author": "William Hughes",
+      "date": "2026-09-05T22:20:55+00:00",
+      "link": "https://www.avclub.com/kid-cudi-reunites-with-kanye-west-performance",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/05181548/kanye-cudi-feature.jpg",
       "category": "Indie Gems"
     },
     {
@@ -174,8 +273,8 @@
       "category": "Festival Winners"
     },
     {
-      "id": "18d7c7efaf4f1a1f",
-      "title": "‘Pete Townshend: Behind Blue Eyes’ Review: The Legendary Rocker Gets a Lively Doc That Asks: Who Are You? And Doesn’t Fully Answer It",
+      "id": "474eb82dfef32e90",
+      "title": "‘Pete Townshend: Behind Blue Eyes’ Review: The Legendary Rocker Gets a Lively Doc That Asks: Who Are You? And Then Doesn’t Fully Answer It",
       "quote": "The film centers itself on Pete Townshend’s contradictions, his growing pains, his turmoil, and his complexity as a human being and rock artist. And that’s all good. But given where it sets the bar, there’s too much…",
       "publisher": "Variety",
       "author": "Owen Gleiberman",
@@ -251,17 +350,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "592041b5e5e87480",
-      "title": "5 Classic Sci-Fi Books That Somehow Haven't Gotten A Movie Adaptation",
-      "quote": "These revered sci-fi books would be challenging to adapt into movies, but that only makes us want to see them get the big screen treatment even more.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Jeremy Smith)",
-      "date": "2026-09-05T18:00:00+00:00",
-      "link": "https://www.slashfilm.com/2247827/classic-sci-fi-books-dont-have-movie-adaptations/",
-      "image": "https://www.slashfilm.com/img/gallery/5-classic-sci-fi-books-that-somehow-havent-gotten-a-movie-adaptation/l-intro-1788198571.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "448ebf3dd86d512d",
       "title": "‘It Will Happen Tonight’ Review: Louis Garrel and Jasmine Trinca Follow Each Other Through the Years In a Light and Predictable Romcom",
       "quote": "Not everything labeled “old-fashioned” needs to carry negative connotations. A handwritten letter, your grandma’s rice pudding, the cocktail — all nice old-fashioned things. But the moment Alberto Iglesias’ sweet music…",
@@ -293,17 +381,6 @@
       "link": "https://www.hollywoodreporter.com/movies/movie-reviews/queer-edward-ii-review-derek-jarman-documentary-1236691778/",
       "image": null,
       "category": "World Cinema"
-    },
-    {
-      "id": "836d186d5883bf05",
-      "title": "6 Years Ago, Disney Gave Us An Awful Adaptation Of A Beloved Fantasy Book Series",
-      "quote": "Disney spent years trying to get this film adaptation of a celebrated fantasy book series off the ground. The final result was ... not worth it.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Sandy Schaefer)",
-      "date": "2026-09-05T17:00:00+00:00",
-      "link": "https://www.slashfilm.com/2251226/artemis-fowl-beloved-fantasy-book-series-disney-awful-movie-adaptation/",
-      "image": "https://www.slashfilm.com/img/gallery/artemis-fowl-beloved-fantasy-book-series-disney-awful-movie-adaptation/l-intro-1788554335.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "915d8481587c5e3d",
@@ -460,17 +537,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "309edbf2209a5ad6",
-      "title": "‘Mr Nelson, Did You Kill People?’ Review: An Assaultive Yet Turgid and Outdated Vietnam PTSD Drama",
-      "quote": "If Shinya Tsukamoto’s “Mr Nelson, Did You Kill People?” were the first, or even the 51st, movie to litigate the atrocities committed by U.S. troops during the Vietnam War, perhaps on a purely informational level some…",
-      "publisher": "Variety",
-      "author": "Jessica Kiang",
-      "date": "2026-09-05T10:54:01+00:00",
-      "link": "https://variety.com/2026/film/reviews/mr-nelson-did-you-kill-people-review-1236846997/",
-      "image": "https://variety.com/wp-content/uploads/2026/08/MR._NELSON__DID_YOU_KILL_PEOPLE.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "35a8a5add82af2ac",
       "title": "Mohammad Ali Baig’s debut feature film ‘Chand Tara’ to premiere at TIFF 2026",
       "quote": "The period drama, based on the story of Taramati and Sultan Abdullah Qutub Shah, will be screened in the market section of Toronto International Film Festival",
@@ -493,50 +559,6 @@
       "category": "Indian Cinema"
     },
     {
-      "id": "e57e85f00d7fb668",
-      "title": "‘The End of Times’: Colombian filmmakers Bibiana Rojas Gómez and Juan David Cárdenas use AI hallucinations to imagine life beyond capitalism",
-      "quote": "Premiering at Venice Critics’ Week, Bibiana Rojas Gómez and Juan David Cárdenas turn five decades of family footage into an AI-fuelled attempt to imagine life beyond capitalism",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-05T08:34:52+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/the-end-of-times-colombian-filmmakers-bibiana-rojas-gomez-and-juan-david-cardenas-use-ai-hallucinations-to-imagine-beyond-capitalism/article71422636.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/n8wwu1/article71422623.ece/alternates/LANDSCAPE_1200/Copy%20of%20G2%20Cover%201.jpg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "76a98d67b0afcdf4",
-      "title": "‘The Magic Faraway Tree’ movie review: Andrew Garfield, Claire Foy bring enchanting Enid Blyton adaptation to life",
-      "quote": "A charming adaptation of Enid Blyton’s ‘Faraway Tree’ stories with an excellent cast and delightful production design, ‘The Magic Faraway’ Tree offers a chance to slide down the Slippery Slip and revisit the weird and…",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-05T07:40:19+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/the-magic-faraway-tree-movie-review-enid-blyton-andrew-garfield-claire-foy-faraway-tree-stories-enchanting/article71428433.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/b34mdd/article71428695.ece/alternates/LANDSCAPE_1200/The%20Magic%20Faraway%20Tree.jpeg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "cf933bd955439946",
-      "title": "Netflix unveils release date of ‘Lust Stories 3’",
-      "quote": "The anthology film returns with four new stories from Vikramaditya Motwane, Kiran Rao, Shakun Batra and Vishal Bhardwaj",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-05T07:15:48+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/netflix-unveils-release-date-of-lust-stories-3-vikramaditya-motwane-kiran-rao-shakun-batra-vishal-bhardwaj/article71431282.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/9izsrv/article71431305.ece/alternates/LANDSCAPE_1200/%E2%80%98Lust%20Stories%203%E2%80%99%20poster",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "7e57574c5ab9ef5d",
-      "title": "‘Mirzapur The Movie’ review: New beast, same pulse",
-      "quote": "In the cinematic transition of the popular OTT series, director Gurmeet Singh and writer Puneet Krishna get the mood, moments, and the motivations right but flatten the political nuance.",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-05T05:51:24+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/mirzapur-the-movie-review-ali-fazal-divyenndu-pankaj-tripathi/article71427938.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/m7q8kx/article71427947.ece/alternates/LANDSCAPE_1200/Pankaj%20Tripathi%20in%20%E2%80%98Mirzapur%20The%20Movie%E2%80%99",
-      "category": "Indian Cinema"
-    },
-    {
       "id": "14b705f78b4a90c8",
       "title": "‘Elsinore’ Review: Andrew Scott Is Shattering as British Actor Ian Charleson, Throwing Himself Into Playing Hamlet While Succumbing to AIDS",
       "quote": "Simon Stone’s drama about the sustaining power of art is a time capsule of late 1980s London, also starring Olivia Colman, Billie Piper and Johnny Flynn.",
@@ -544,17 +566,6 @@
       "author": "David Rooney",
       "date": "2026-09-05T05:00:00+00:00",
       "link": "https://www.hollywoodreporter.com/movies/movie-reviews/elsinore-review-andrew-scott-ian-charleson-olivia-colman-1236690579/",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "30efc6f20ad77e38",
-      "title": "‘The Idiot(s)’ Review: Aimee Lou Wood and Johnny Flynn Sparkle in a Playful, Indulgent Tribute to Fyodor Dostoevsky’s Underappreciated Wife",
-      "quote": "Also starring Vicky Krieps, the Telluride premiere chronicles the couple's tumultuous time in Germany, during which the author penned one of his greatest masterpieces.",
-      "publisher": "The Hollywood Reporter",
-      "author": "Angie Han",
-      "date": "2026-09-05T04:30:00+00:00",
-      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/the-idiots-review-aimee-lou-wood-johnny-flynn-dostoevsky-1236681228/",
       "image": null,
       "category": "World Cinema"
     },
@@ -589,17 +600,6 @@
       "date": "2026-09-05T00:25:58+00:00",
       "link": "https://www.avclub.com/zach-cregger-miss-march-bad-movie-and-i-suffered-for-it",
       "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/04201731/miss-march-cregger-moore-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "c9493c2c5b6e325c",
-      "title": "Bruce Campbell says he has five years to live, \"give or take\"",
-      "quote": "In March, the iconic Evil Dead star Bruce Campbell shared he has been diagnosed with cancer. Now he says he has about five years to live.",
-      "publisher": "The A.V. Club",
-      "author": "Matt Schimkowitz",
-      "date": "2026-09-04T23:42:30+00:00",
-      "link": "https://www.avclub.com/bruce-campbell-five-years-to-live",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/03/02213146/bruce-campbell-feature.jpg",
       "category": "Indie Gems"
     },
     {
