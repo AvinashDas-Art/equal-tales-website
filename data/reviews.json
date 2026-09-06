@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T10:43:00.221761+00:00",
+  "generated_at": "2026-09-06T15:19:09.997292+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -9,13 +9,145 @@
   ],
   "reviews": [
     {
-      "id": "b656683bc6230b4d",
-      "title": "‘Father Joe’ Review: Keifer Sutherland Comes Out With All Guns Blazing In This Deliriously Violent Throwback Beat-’Em-Up – Venice Film Festival",
+      "id": "224573f6de126997",
+      "title": "‘Making Marie Antoinette’ Review: Eleanor Coppola’s Chronicle of Daughter Sofia Shooting Her 2006 Biopic Makes for a Sublime Collaboration of Talents",
+      "quote": "Premiering at Telluride, the doc will be pure catnip for fans of the Kirsten Dunst-starring film in all its candy-colored, New Romantic, defiantly anachronistic glory.",
+      "publisher": "The Hollywood Reporter",
+      "author": "Leslie Felperin",
+      "date": "2026-09-06T15:03:55+00:00",
+      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/making-marie-antoinette-sofia-coppola-eleanor-coppola-1236692038/",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "2082de2d3de29843",
+      "title": "‘Possible Love’: What The Critics Are Saying About Lee Chang-dong’s Korean Drama — Venice",
+      "quote": "Possible Love, the first film from Korean filmmaker Lee Chang-dong since Burning (2018), is debuting today at the Venice Film Festival. The story follows two married couples whose lives become uniquely intertwined. The…",
+      "publisher": "Deadline",
+      "author": "Andreas Wiseman",
+      "date": "2026-09-06T14:59:44+00:00",
+      "link": "https://deadline.com/2026/09/possible-love-reviews-reaction-what-the-critics-are-saying-1237069452/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/possible-Love_Still_R43_AAA04362_RT3.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "89eff2f5bd42961e",
+      "title": "Rachael Leigh Cook Praises Letters To Cleo’s Kay Hanley At ‘Josie & the Pussycats’ Anniversary Screening: “I Am Only Half Of This Role”",
+      "quote": "As Rachael Leigh Cook celebrated the 25th anniversary of Josie and the Pussycats, it was the voice behind the character that got her flowers. During Cinespia’s screening of the 2001 cult musical comedy on Saturday at…",
+      "publisher": "Deadline",
+      "author": "Glenn Garner",
+      "date": "2026-09-06T14:58:49+00:00",
+      "link": "https://deadline.com/2026/09/rachael-leigh-cook-praises-kay-hanley-josie-pussycats-1237069354/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Cinespia-Josie-Pussycats.png",
+      "category": "World Cinema"
+    },
+    {
+      "id": "ae20966beb91f84c",
+      "title": "‘Possible Love’ Review: Korean Master Lee Chang-dong’s Transfixing Meditation on Economic and Emotional Unease Is a Quiet Powerhouse",
+      "quote": "The 'Burning' director returns after an eight-year absence with this complex drama for Netflix, about the awkward commingling of two couples on either side of the wealth divide.",
+      "publisher": "The Hollywood Reporter",
+      "author": "David Rooney",
+      "date": "2026-09-06T14:35:00+00:00",
+      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/possible-love-review-lee-chang-dong-netflix-1236691731/",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "1e17bfa8e36aef91",
+      "title": "Possible Love review – a tale of two couples is finely judged study of exploitation and friendship",
+      "quote": "Acclaimed Korean director Lee Chang-dong returns with an inspired account of an unhappy married couple befriended by a documentary maker and her wealthy husband Korean auteur Lee Chang-dong brings to Venice his first…",
+      "publisher": "The Guardian",
+      "author": "Peter Bradshaw",
+      "date": "2026-09-06T14:30:07+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/06/possible-love-review-a-tale-of-two-couples-is-finely-judged-study-of-exploitation-and-friendship",
+      "image": "https://i.guim.co.uk/img/media/07ad374a58c4eb6a8b75717180f4390e37b9fb71/440_0_2594_2076/master/2594.jpg?width=140&quality=85&auto=format&fit=max&s=a51ef101bba4064929750530707e8ef1",
+      "category": "World Cinema"
+    },
+    {
+      "id": "22573f2d82674641",
+      "title": "‘Possible Love’ Review: Lee Chang -dong’s South Korean International Oscar Entry Is Powerful Story Of Class And Desire – Venice Film Festival",
+      "quote": "In some ways Lee Chang-dong’s first film in 8 years, Possible Love (original title: Ganeunghan sarang) which is South Korea’s official entry into the International Film Oscar race and premiered in competition at the…",
+      "publisher": "Deadline",
+      "author": "Pete Hammond",
+      "date": "2026-09-06T14:30:00+00:00",
+      "link": "https://deadline.com/2026/09/possible-love-review-lee-chang-dongs-south-korean-oscar-pick-1237063045/",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Possible-Love.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "edfb9841a09146ed",
+      "title": "Telluride’s Surprise Movie Sparks Industry Guessing Game As Studio Buyer Emerges — The Dish",
+      "quote": "EXCLUSIVE: The identity of Telluride’s surprise movie playing later today has sparked a fun guessing game among industry and journalists. We can tell you that it’s an A24 joint, but the movie still remains a mystery…",
+      "publisher": "Deadline",
+      "author": "Andreas Wiseman",
+      "date": "2026-09-06T14:04:23+00:00",
+      "link": "https://deadline.com/2026/09/telluride-surprise-movie-sparks-guessing-game-studio-buyer-1237069433/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Telluride.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "4b21658286b8c04d",
+      "title": "Wim Wenders clarifies that he does not believe film-makers should stay out of politics",
+      "quote": "Director’s controversial comments earlier this year warned of films that ‘enter the field of politics’ The director Wim Wenders has clarified personal views on the relationship between cinema and politics that caused…",
+      "publisher": "The Guardian",
+      "author": "Philip Oltermann in Venice",
+      "date": "2026-09-06T14:00:01+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/06/wim-wenders-clarifies-does-not-believe-film-makers-stay-out-of-politics",
+      "image": "https://i.guim.co.uk/img/media/38a3d6144a4ee5ca034ca05a34318dc01fd3479d/53_77_3070_2457/master/3070.jpg?width=140&quality=85&auto=format&fit=max&s=c4e9a996548090cd869a784e413c3ffa",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "ac68ed7031ec43a7",
+      "title": "Silo Writer Hugh Howey Thinks The Apple TV Series Does One Thing Better Than The Books",
+      "quote": "Hugh Howey is not only a big fan of Apple TV's adaptation of his Silo books, he also thinks the show improves on them in one key way.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Jeremy Mathai)",
+      "date": "2026-09-06T14:00:00+00:00",
+      "link": "https://www.slashfilm.com/2248980/silo-author-hugh-howey-costumes-better-apple-tv-series/",
+      "image": "https://www.slashfilm.com/img/gallery/silo-writer-hugh-howey-thinks-the-apple-tv-series-does-one-thing-better-than-the-books/l-intro-1788292868.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "5bac595e22747989",
+      "title": "Susan Sarandon Says She Is Still Losing Hollywood Roles Due To Palestine-Israel Stance",
+      "quote": "Susan Sarandon told a press conference in Venice on Sunday that she continued to lose big roles due to her public support of Palestine, even if the narrative around the nature of U.S. support of Israel has changed in…",
+      "publisher": "Deadline",
+      "author": "Melanie Goodfellow",
+      "date": "2026-09-06T12:44:24+00:00",
+      "link": "https://deadline.com/2026/09/susan-sarandon-narrative-us-israel-studio-roles-1237069412/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2293795997.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "6d2f551bc0b458b1",
+      "title": "30 Years Ago Today: Adam Sandler Made One Of The Worst Buddy Cop Movies Ever Made",
+      "quote": "Adam Sandler has starred in some of the greatest comedy films of all time, but also some of the worst. This one from 30 years ago is firmly in the latter camp.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Joe Roberts)",
+      "date": "2026-09-06T12:00:00+00:00",
+      "link": "https://www.slashfilm.com/2250043/adam-sandler-bulletproof-worst-buddy-cop-movie-30-year-anniversary/",
+      "image": "https://www.slashfilm.com/img/gallery/30-years-ago-today-adam-sandler-made-one-of-the-worst-buddy-cop-movies-ever-made/l-intro-1788392158.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "a3a4fc791d4f465d",
+      "title": "French thriller Jupiter brings nuclear anxiety to red carpets of Venice",
+      "quote": "Director Alexandre Smia says film about Russia detonating nuclear warhead – and US refusing to respond – is not unrealistic Russia has detonated a nuclear warhead over the Black Sea to underline its desire to revenge an…",
+      "publisher": "The Guardian",
+      "author": "Philip Oltermann in Venice",
+      "date": "2026-09-06T10:37:33+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/06/jupiter-alexandre-smia-nato-disintegration-russia-ire-far-right",
+      "image": "https://i.guim.co.uk/img/media/13c996d65823dc2d6593a1047578e04c76f97c5a/221_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=5e51d662dd5b844d69483162a074c567",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "d538db23644d142f",
+      "title": "‘Father Joe’ Review: Kiefer Sutherland Comes Out With All Guns Blazing In This Deliriously Violent Throwback Beat-’Em-Up – Venice Film Festival",
       "quote": "Did you ever feel that King of New York could have done with a bit more Wing Chun? Did you ever think that John Woo’s films weren’t quite Catholic enough? That the siege of Troy might have been handled a bit more…",
       "publisher": "Deadline",
       "author": "Damon Wise",
       "date": "2026-09-06T10:20:21+00:00",
-      "link": "https://deadline.com/2026/09/father-joe-review-keifer-sutherland-al-pacino-luc-besson-venice-1237069403/",
+      "link": "https://deadline.com/2026/09/father-joe-review-kiefer-sutherland-al-pacino-luc-besson-venice-1237069403/",
       "image": "https://deadline.com/wp-content/uploads/2026/09/116074-FATHER_JOE_-_Actor_Kiefer_Sutherland.jpg",
       "category": "Festival Winners"
     },
@@ -116,61 +248,6 @@
       "date": "2026-09-06T02:59:36+00:00",
       "link": "https://variety.com/2026/film/reviews/the-debut-review-julianne-moore-jesse-eisenberg-1236852779/",
       "image": "https://variety.com/wp-content/uploads/2026/09/Debut.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "f34b0aa2b6f17d4e",
-      "title": "Mariska Hargitay Wins Two Emmys For ‘My Mom Jayne,’ Thanks Gloria Steinem From Stage",
-      "quote": "Mariska Hargitay is warming up to host the televised Primetime Emmy Awards in the best way imaginable – by winning two Emmys for her documentary My Mom Jayne. The HBO film in which Hargitay explores the life and career…",
-      "publisher": "Deadline",
-      "author": "Matthew Carey",
-      "date": "2026-09-06T02:37:54+00:00",
-      "link": "https://deadline.com/2026/09/mariska-hargitay-primetime-emmy-wins-my-mom-jayne-1237069307/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Mariska-Hargitay-with-Emmy.png",
-      "category": "World Cinema"
-    },
-    {
-      "id": "8d6d4f937c419ed6",
-      "title": "Oscar Winner ‘Moonlight’ Getting 10th Anniversary Re-Release This Fall From A24",
-      "quote": "EXCLUSIVE: The 2017 surprise Best Picture Oscar winner, Moonlight, is getting a tenth anniversary re-release from A24 on Oct. 2 in a new 4K remastered cut. The news was just announced by the film’s director, co-writer…",
-      "publisher": "Deadline",
-      "author": "Anthonypauldalessandro",
-      "date": "2026-09-06T02:35:00+00:00",
-      "link": "https://deadline.com/2026/09/moonlight-re-release-telluride-1237069018/",
-      "image": "https://deadline.com/wp-content/uploads/2021/02/MCDMOON_EC113-e1614196250831.jpg",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "db7bfc8f3f1a0004",
-      "title": "‘Antiques Roadshow’ Scores First Emmy Win, Breaking ‘Queer Eye’ & ‘Shark Tank’ Hegemony",
-      "quote": "The first night of the Emmys was full of surprises. Antiques Roadshow, which has been airing on PBS since 1997, won its first ever Emmy in 24 attempts and snatched the award away from Queer Eye and Shark Tank for the…",
-      "publisher": "Deadline",
-      "author": "Peterdeadline",
-      "date": "2026-09-06T02:26:35+00:00",
-      "link": "https://deadline.com/2026/09/antiques-roadshow-first-emmy-win-shark-tank-queer-eye-1237069306/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/TCDANRO_PB003.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "9985dba13a4af04f",
-      "title": "‘The Debut’ Review: Julianne Moore And Paul Giamatti Get Big Laughs In Jesse Eisenberg’s Hilarious And Even Sweet Look At Community Theatre – Telluride Film Festival",
-      "quote": "At times downright hilarious, at other times so farcical it nearly sails over the top, and at other times quite poignant, Jesse Eisenberg’s third time out writing and directing a feature film, The Debut, throws it all…",
-      "publisher": "Deadline",
-      "author": "Pete Hammond",
-      "date": "2026-09-06T02:02:22+00:00",
-      "link": "https://deadline.com/2026/09/the-debut-review-julianne-moore-paul-giamatti-jesse-eisenberg-1237069095/",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/THE-DEBUT_01.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "4a8b27d9b82532b1",
-      "title": "Octavia Spencer Wins First Emmy",
-      "quote": "Norman Lear remains the oldest Emmy winner after Octavia Spencer scored a surprise win over Sir David Attenborough at the Peacock Theater. Spencer scored her first Emmy in the Outstanding Narrator category for her work…",
-      "publisher": "Deadline",
-      "author": "Peterdeadline",
-      "date": "2026-09-06T02:00:36+00:00",
-      "link": "https://deadline.com/2026/09/octavia-spencer-lost-women-first-emmy-1237069170/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2293732345.jpg",
       "category": "World Cinema"
     },
     {
@@ -284,17 +361,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "c56fd6c99d74f10e",
-      "title": "Leif Erickson's '50s Sci-Fi Movie Is A Cult Classic That's Gotten Better With Time",
-      "quote": "Invaders from Mars, starring Western actor Leif Erickson, is a somewhat forgotten 1950s alien invasion flick worth discovering.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-09-05T20:00:00+00:00",
-      "link": "https://www.slashfilm.com/2248492/leif-erickson-50s-sci-fi-movie-invaders-from-mars/",
-      "image": "https://www.slashfilm.com/img/gallery/leif-ericksons-50s-sci-fi-movie-is-a-cult-classic-thats-gotten-better-with-time/l-intro-1788269640.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "21e594003a75b47b",
       "title": "Everything looks sticky and nobody says \"vampire\" in the trailer for Disney+ and Hulu's City Of Blood",
       "quote": "The German import series sees two sisters try to survive in a Berlin secretly run by bloodsuckers.",
@@ -326,17 +392,6 @@
       "link": "https://www.theguardian.com/music/2026/sep/05/oasis-dont-look-back-in-anger-tour-movie-review",
       "image": "https://i.guim.co.uk/img/media/86ca6bbb64324fed082554641f9fcbd4d2ba9db2/451_0_2624_2100/master/2624.jpg?width=140&quality=85&auto=format&fit=max&s=f82339aa6aac4ed141192ae6238da67f",
       "category": "World Cinema"
-    },
-    {
-      "id": "2edc7a793fed6ddf",
-      "title": "Gilligan's Island Star Tina Louise Headlined A Bleak '50s Western That Every Genre Fan Has To Watch",
-      "quote": "Tina Louise, best known for playing Ginger on Gilligan's Island, was in a spectacular and unconventional Western a few years before joining the show.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-09-05T19:00:00+00:00",
-      "link": "https://www.slashfilm.com/2250640/gilligans-island-tina-louise-50s-western-day-of-the-outlaw/",
-      "image": "https://www.slashfilm.com/img/gallery/gilligans-island-star-tina-louise-headlined-a-bleak-50s-western-that-every-genre-fan-has-to-watch/l-intro-1788461672.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "dd99799a4ccbb5a8",
@@ -460,17 +515,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "a0b13eb4b4432659",
-      "title": "‘The Liberation’ Review: Carrie Coon, Bella Ramsey and Lily James in Guy Nattiv’s Devastatingly Empathetic Cult Drama",
-      "quote": "Also starring Odessa Young and Tracy Letts, the film follows a suburban mother who leaves her family to follow a charismatic spiritual guru in 1980s New Jersey.",
-      "publisher": "The Hollywood Reporter",
-      "author": "Angie Han",
-      "date": "2026-09-05T14:19:41+00:00",
-      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/the-liberation-review-carrie-coon-guy-nattiv-lily-james-1236690996/",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
       "id": "1730d5132659a135",
       "title": "‘I don’t like the term neurodivergence – it sounds like political correctness’: Werner Herzog on fans, fanaticism and baby foxes",
       "quote": "The Bavarian auteur talks directing Kate and Rooney Mara in Bucking Fastard and his popularity on Instagram In outsider visionaries such as Aguirre, Fitzcarraldo or Timothy Treadwell, renegade German director Werner…",
@@ -559,17 +603,6 @@
       "category": "Indian Cinema"
     },
     {
-      "id": "14b705f78b4a90c8",
-      "title": "‘Elsinore’ Review: Andrew Scott Is Shattering as British Actor Ian Charleson, Throwing Himself Into Playing Hamlet While Succumbing to AIDS",
-      "quote": "Simon Stone’s drama about the sustaining power of art is a time capsule of late 1980s London, also starring Olivia Colman, Billie Piper and Johnny Flynn.",
-      "publisher": "The Hollywood Reporter",
-      "author": "David Rooney",
-      "date": "2026-09-05T05:00:00+00:00",
-      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/elsinore-review-andrew-scott-ian-charleson-olivia-colman-1236690579/",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
       "id": "2ce94bfe03598b9c",
       "title": "A Long Winter review – hope, desire and subversion in Andrew Haigh’s beautiful winter western",
       "quote": "Telluride film festival In a remote Colorado farmstead, a family with a mother gone missing finds a strange buoyancy and freedom as they wait for the snows to melt Andrew Haigh’s mysterious and beautiful new film is…",
@@ -578,17 +611,6 @@
       "date": "2026-09-05T02:30:23+00:00",
       "link": "https://www.theguardian.com/film/2026/sep/05/a-long-winter-review-andrew-haigh-ebon-moss-bachrach",
       "image": "https://i.guim.co.uk/img/media/4dbd95a4b8ce5476e3dc122aa9c565ba6b838282/480_0_1994_1596/master/1994.jpg?width=140&quality=85&auto=format&fit=max&s=8634e00969837050c68580ac9efea36a",
-      "category": "World Cinema"
-    },
-    {
-      "id": "61f2148a3c392225",
-      "title": "Tender Loving Care review – Mike Leigh’s tender and elusive study of love and mortality",
-      "quote": "Telluride film festival Alice Bailey Johnson and Kate O’Flynn lead a complicated, quietly heartbreaking drama about friendship, ageing parents and the sadness of lives moving inexorably on Mike Leigh’s new film –…",
-      "publisher": "The Guardian",
-      "author": "Peter Bradshaw",
-      "date": "2026-09-05T01:47:23+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/05/tender-loving-care-review-mike-leighs-tender-and-elusive-study-of-love-and-mortality",
-      "image": "https://i.guim.co.uk/img/media/753159ada7b8f541585e2ff5378b140cd07331ee/694_0_6980_5584/master/6980.jpg?width=140&quality=85&auto=format&fit=max&s=82c9170233dea032122da0d4bf8f9e54",
       "category": "World Cinema"
     },
     {
@@ -601,17 +623,6 @@
       "link": "https://www.avclub.com/zach-cregger-miss-march-bad-movie-and-i-suffered-for-it",
       "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/04201731/miss-march-cregger-moore-feature.jpg",
       "category": "Indie Gems"
-    },
-    {
-      "id": "877ae38cf3df6203",
-      "title": "Act 3 review – queer art history and life reflections from masters of metatextuality",
-      "quote": "Telluride film festival Christine Molloy and Joe Lawlor’s absorbing documentary is a parallel take on their relationship and a nascent drama on artists Claude Cahun and Marcel Moore Christine Molloy and Joe Lawlor are…",
-      "publisher": "The Guardian",
-      "author": "Peter Bradshaw",
-      "date": "2026-09-04T23:30:20+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/05/act-3-review-christine-molloy-joe-lawlor",
-      "image": "https://i.guim.co.uk/img/media/1aa40b5dc4b2ceb68c6ad36b27d422ffe58e87a6/613_0_2903_2322/master/2903.jpg?width=140&quality=85&auto=format&fit=max&s=9064f8da4c05a58e20692a3b71ab4fb6",
-      "category": "World Cinema"
     },
     {
       "id": "32de7bfe151d60d5",
@@ -633,17 +644,6 @@
       "date": "2026-09-04T14:15:54+00:00",
       "link": "https://www.rogerebert.com/reviews/my-undesirable-friends-part-ii-exile-documentary-film-review-2026",
       "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "ebb8bbaa47ee5946",
-      "title": "‘Like a tired boxer, battered by applause’: as Andrew Scott’s biopic premieres, Richard Eyre remembers Ian Charleson’s superb, near-death Hamlet",
-      "quote": "In 1989, the Chariots of Fire actor took on the incredible task of playing Shakespeare’s prince while terminally ill from Aids. This weekend sees the world premiere of Elsinore, a new film about the episode, itself…",
-      "publisher": "The Guardian",
-      "author": "Nadia Khomami Arts and culture correspondent",
-      "date": "2026-09-04T14:03:50+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/04/like-a-tired-boxer-battered-by-applause-as-andrew-scotts-biopic-premieres-richard-eyre-remembers-ian-charlesons-superb-near-death-hamlet",
-      "image": "https://i.guim.co.uk/img/media/ca3314382a104716e2002ac81b57bc7902b17f3c/0_827_2364_1890/master/2364.jpg?width=140&quality=85&auto=format&fit=max&s=cdb78c0664194c2c4fa44e83389768b2",
       "category": "World Cinema"
     },
     {
