@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T20:12:55.994385+00:00",
+  "generated_at": "2026-09-06T04:10:05.144980+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -9,15 +9,202 @@
   ],
   "reviews": [
     {
-      "id": "63ae9edfc23353a7",
-      "title": "‘Father Joe’: First Look Clip Of Kiefer Sutherland As A Priest Who Clashes With The Mob In Action-Crime Pic — Venice",
-      "quote": "EXCLUSIVE: Here’s your first clip for Venice Film Festival genre pic Father Joe, starring Kiefer Sutherland, Al Pacino and teen Ever Anderson, daughter of Milla Jovovich and filmmaker Paul W.S. Anderson. Sutherland…",
+      "id": "9d5ac798f1d3148a",
+      "title": "Mel Gibson Says ‘The Resurrection’ Will Flesh Out Gaps In The Gospels",
+      "quote": "“If you look at the synoptic Gospels — and they are synoptic, which means they don’t tell you everything,” Mel Gibson told The Christian Post in an interview this week. “And even John says, ‘Y’know, hey, there were many…",
       "publisher": "Deadline",
-      "author": "Andreas Wiseman",
-      "date": "2026-09-05T19:46:03+00:00",
-      "link": "https://deadline.com/2026/09/father-joe-first-clip-kiefer-sutherland-rebel-priest-1237069049/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Father-Joe.jpg",
+      "author": "Tomt",
+      "date": "2026-09-06T04:03:02+00:00",
+      "link": "https://deadline.com/2026/09/mel-gibson-the-resurrection-gospels-story-gaps-1237069341/",
+      "image": "https://deadline.com/wp-content/uploads/2025/10/GettyImages-875009554.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "f34b0aa2b6f17d4e",
+      "title": "Mariska Hargitay Wins Two Emmys For ‘My Mom Jayne,’ Thanks Gloria Steinem From Stage",
+      "quote": "Mariska Hargitay is warming up to host the televised Primetime Emmy Awards in the best way imaginable – by winning two Emmys for her documentary My Mom Jayne. The HBO film in which Hargitay explores the life and career…",
+      "publisher": "Deadline",
+      "author": "Matthew Carey",
+      "date": "2026-09-06T02:37:54+00:00",
+      "link": "https://deadline.com/2026/09/mariska-hargitay-primetime-emmy-wins-my-mom-jayne-1237069307/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Mariska-Hargitay-with-Emmy.png",
+      "category": "World Cinema"
+    },
+    {
+      "id": "8d6d4f937c419ed6",
+      "title": "Oscar Winner ‘Moonlight’ Getting 10th Anniversary Re-Release This Fall From A24",
+      "quote": "EXCLUSIVE: The 2017 surprise Best Picture Oscar winner, Moonlight, is getting a tenth anniversary re-release from A24 on Oct. 2 in a new 4K remastered cut. The news was just announced by the film’s director, co-writer…",
+      "publisher": "Deadline",
+      "author": "Anthonypauldalessandro",
+      "date": "2026-09-06T02:35:00+00:00",
+      "link": "https://deadline.com/2026/09/moonlight-re-release-telluride-1237069018/",
+      "image": "https://deadline.com/wp-content/uploads/2021/02/MCDMOON_EC113-e1614196250831.jpg",
       "category": "Festival Winners"
+    },
+    {
+      "id": "db7bfc8f3f1a0004",
+      "title": "‘Antiques Roadshow’ Scores First Emmy Win, Breaking ‘Queer Eye’ & ‘Shark Tank’ Hegemony",
+      "quote": "The first night of the Emmys was full of surprises. Antiques Roadshow, which has been airing on PBS since 1997, won its first ever Emmy in 24 attempts and snatched the award away from Queer Eye and Shark Tank for the…",
+      "publisher": "Deadline",
+      "author": "Peterdeadline",
+      "date": "2026-09-06T02:26:35+00:00",
+      "link": "https://deadline.com/2026/09/antiques-roadshow-first-emmy-win-shark-tank-queer-eye-1237069306/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/TCDANRO_PB003.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "9985dba13a4af04f",
+      "title": "‘The Debut’ Review: Julianne Moore And Paul Giamatti Get Big Laughs In Jesse Eisenberg’s Hilarious And Even Sweet Look At Community Theatre – Telluride Film Festival",
+      "quote": "At times downright hilarious, at other times so farcical it nearly sails over the top, and at other times quite poignant, Jesse Eisenberg’s third time out writing and directing a feature film, The Debut, throws it all…",
+      "publisher": "Deadline",
+      "author": "Pete Hammond",
+      "date": "2026-09-06T02:02:22+00:00",
+      "link": "https://deadline.com/2026/09/the-debut-review-julianne-moore-paul-giamatti-jesse-eisenberg-1237069095/",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/THE-DEBUT_01.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "9dc3d3d2a0672c07",
+      "title": "Octavia Spencer Wins First Emmy, Stops Sir David Attenborough Becoming Oldest Emmy Winner Ever",
+      "quote": "Norman Lear remains the oldest Emmy winner after Octavia Spencer scored a surprise win over Sir David Attenborough at the Peacock Theater. Spencer scored her first Emmy in the Outstanding Narrator category for her work…",
+      "publisher": "Deadline",
+      "author": "Peterdeadline",
+      "date": "2026-09-06T02:00:36+00:00",
+      "link": "https://deadline.com/2026/09/octavia-spencer-lost-women-first-emmy-1237069170/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2293732345.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "9c71035f53f468ac",
+      "title": "‘The Late Show With Stephen Colbert’ Scores Emmy Upsets, ‘The Daily Show’s Desi Lydic Also Triumphs",
+      "quote": "The Late Show with Stephen Colbert had an unexpectedly good night at the first evening of the Emmy awards. The canceled series came away with two big upsets at the event formerly known as the Creative Arts Emmys…",
+      "publisher": "Deadline",
+      "author": "Peterdeadline",
+      "date": "2026-09-06T01:26:53+00:00",
+      "link": "https://deadline.com/2026/09/the-late-show-with-stephen-colbert-emmy-upsets-1237069255/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/MixCollage-05-Sep-2026-06-23-PM-478.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "505ce26f23e9c3dc",
+      "title": "Jimmy Kimmel Wins Emmy For Second Year In A Row, ‘Jeopardy!’ Scores Game Show Prize, Again",
+      "quote": "Jimmy Kimmel has another Emmy. The comedian has picked up for Outstanding Host for a Game Show for his work on ABC’s Who Wants To Be A Millionaire. It is his second consecutive win in the category, having scored it for…",
+      "publisher": "Deadline",
+      "author": "Peterdeadline",
+      "date": "2026-09-06T00:28:17+00:00",
+      "link": "https://deadline.com/2026/09/jimmy-kimmel-emmy-win-who-wants-to-be-a-millionaire-1237069209/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2293733465.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "0618891330f88c27",
+      "title": "Alan Hale Jr. Guest-Starred In A '60s Fantasy Series Featuring A Future Oscar Winner",
+      "quote": "TV used to be a wonderful, magical place where future Oscar-winner Sally Field could team up with Alan Hale Jr. in a show about a flying nun.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Joe Roberts)",
+      "date": "2026-09-05T23:30:00+00:00",
+      "link": "https://www.slashfilm.com/2248793/alan-hale-jr-guest-star-60s-fantasy-series-sally-field-the-flying-nun/",
+      "image": "https://www.slashfilm.com/img/gallery/alan-hale-jr-guest-starred-in-a-60s-fantasy-series-featuring-a-future-oscar-winner/l-intro-1788285145.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "ffcdf0e3c2c1c6f4",
+      "title": "‘The Row’ Review: ‘Icarus’ Director Bryan Fogel’s Doc Takes Viewers on a Gripping, Question-Raising Solo Voyage Across the Pacific",
+      "quote": "This Telluride-bowing film is a portrait of Tez Steinberg, who dealt with his grief by embarking on two massive long-distance solo rowing expeditions.",
+      "publisher": "The Hollywood Reporter",
+      "author": "Daniel Fienberg",
+      "date": "2026-09-05T23:10:02+00:00",
+      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/the-row-review-bryan-fogel-tez-steinberg-1236691428/",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "3f90950d034fb7f9",
+      "title": "For All Mankind Star Joel Kinnaman's Other Apple TV Series Was A Star-Studded Disappointment",
+      "quote": "In addition to the long-running For All Mankind, Joel Kinnaman also appeared in another Apple TV series, but it didn't go over as well.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Joe Roberts)",
+      "date": "2026-09-05T23:00:00+00:00",
+      "link": "https://www.slashfilm.com/2250969/joel-kinnaman-apple-tv-series-imperfect-women/",
+      "image": "https://www.slashfilm.com/img/gallery/for-all-mankind-star-joel-kinnamans-other-apple-tv-series-was-a-star-studded-disappointment/l-intro-1788526026.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "3a7261bd66c96b47",
+      "title": "Shirley Temple And 2 Movie Legends Headlined This Underseen 1948 Western",
+      "quote": "Shirley Temple, John Wayne, and Henry Fonda starred in this 1948 Western flick, which is (surprisingly) less racist than you'd expect.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Witney Seibold)",
+      "date": "2026-09-05T22:00:00+00:00",
+      "link": "https://www.slashfilm.com/2248482/shirley-temple-john-wayne-henry-fonda-1948-western-fort-apache/",
+      "image": "https://www.slashfilm.com/img/gallery/shirley-temple-and-2-movie-legends-headlined-this-underseen-1948-western/l-intro-1788269775.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "f35f6073b3861e4c",
+      "title": "Braveheart's Forgotten 'Sequel' Is Streaming For Free",
+      "quote": "This historical drama, which is currently streaming for free, is an unofficial Braveheart sequel and even stars a member of that movie's cast.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Witney Seibold)",
+      "date": "2026-09-05T21:45:00+00:00",
+      "link": "https://www.slashfilm.com/2248085/braveheart-sequel-robert-the-bruce-streaming-free-pluto-tv/",
+      "image": "https://www.slashfilm.com/img/gallery/bravehearts-forgotten-sequel-is-streaming-for-free/l-intro-1788207982.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "dac0585f0a8be61d",
+      "title": "‘Oasis: Don’t Look Back in Anger’ Review: An Uncharacteristically Polite and Sentimental Portrait of a Raucous Band and Phenomenon",
+      "quote": "The 2016 documentary “Supersonic,” focused on Oasis’ beginnings and incredibly fast rise to superstardom, made no mention of what was then the most salient fact about the Gallagher brothers: that from 2009, they were no…",
+      "publisher": "Variety",
+      "author": "Guy Lodge",
+      "date": "2026-09-05T21:08:43+00:00",
+      "link": "https://variety.com/2026/film/reviews/oasis-dont-look-back-in-anger-review-1236852875/",
+      "image": "https://variety.com/wp-content/uploads/2026/09/116080-OASIS_DON_T_LOOK_BACK_IN_ANGER_-_Liam_and_Noel_Gallagher__Credits_Simon_Emmett_.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "1ca39380f8c292a4",
+      "title": "Dungeons And Dragons directors still holding out hope they can roll up another movie",
+      "quote": "Cue the jokes about how insanely difficult it is to schedule a second session of a <i>D&D</i> game.",
+      "publisher": "The A.V. Club",
+      "author": "William Hughes",
+      "date": "2026-09-05T21:08:03+00:00",
+      "link": "https://www.avclub.com/dungeons-and-dragons-2-shopping-around",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/05170001/mimic.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "18d7c7efaf4f1a1f",
+      "title": "‘Pete Townshend: Behind Blue Eyes’ Review: The Legendary Rocker Gets a Lively Doc That Asks: Who Are You? And Doesn’t Fully Answer It",
+      "quote": "The film centers itself on Pete Townshend’s contradictions, his growing pains, his turmoil, and his complexity as a human being and rock artist. And that’s all good. But given where it sets the bar, there’s too much…",
+      "publisher": "Variety",
+      "author": "Owen Gleiberman",
+      "date": "2026-09-05T20:42:01+00:00",
+      "link": "https://variety.com/2026/film/reviews/pete-townshend-behind-blue-eyes-review-1236852232/",
+      "image": "https://variety.com/wp-content/uploads/2026/09/FINAL_20.webp",
+      "category": "World Cinema"
+    },
+    {
+      "id": "c56fd6c99d74f10e",
+      "title": "Leif Erickson's '50s Sci-Fi Movie Is A Cult Classic That's Gotten Better With Time",
+      "quote": "Invaders from Mars, starring Western actor Leif Erickson, is a somewhat forgotten 1950s alien invasion flick worth discovering.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Joe Roberts)",
+      "date": "2026-09-05T20:00:00+00:00",
+      "link": "https://www.slashfilm.com/2248492/leif-erickson-50s-sci-fi-movie-invaders-from-mars/",
+      "image": "https://www.slashfilm.com/img/gallery/leif-ericksons-50s-sci-fi-movie-is-a-cult-classic-thats-gotten-better-with-time/l-intro-1788269640.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "21e594003a75b47b",
+      "title": "Everything looks sticky and nobody says \"vampire\" in the trailer for Disney+ and Hulu's City Of Blood",
+      "quote": "The German import series sees two sisters try to survive in a Berlin secretly run by bloodsuckers.",
+      "publisher": "The A.V. Club",
+      "author": "William Hughes",
+      "date": "2026-09-05T19:39:19+00:00",
+      "link": "https://www.avclub.com/city-of-blood-trailer",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/05153211/city-of-blood-trailer.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "1631db99ee97e50b",
@@ -29,28 +216,6 @@
       "link": "https://www.hollywoodreporter.com/movies/movie-reviews/oasis-dont-look-back-in-anger-review-documentary-1236691730/",
       "image": null,
       "category": "World Cinema"
-    },
-    {
-      "id": "f209637b55c5e3b1",
-      "title": "Nanni Moretti’s ‘It Will Happen Tonight’ Earns Nine-Minute Ovation At Venice World Premiere",
-      "quote": "Nanni Moretti’s romantic drama It Will Happen Tonight drew a warm nine-minute ovation at the Venice Film Festival on Saturday evening as the Italian director returned to show a new film there for the first time in 37…",
-      "publisher": "Deadline",
-      "author": "Melanie Goodfellow",
-      "date": "2026-09-05T19:32:06+00:00",
-      "link": "https://deadline.com/2026/09/nanni-moretti-it-will-happen-tonight-ovation-venice-1237068969/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Nanni-Moretti-premiere-Venice.jpg",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "21d7a7efcd323bec",
-      "title": "‘Oasis: Don’t Look Back In Anger’ Review: The Gallagher Bros. Bury The Hatchet In A Sentimental But Funny Concert Movie – Venice Film Festival",
-      "quote": "“Bucket hats – cash or card!” The great mystery about why Noel and Liam Gallagher put aside their differences for a heavily promoted multi-million-dollar world stadium tour is never really addressed in this…",
-      "publisher": "Deadline",
-      "author": "Damon Wise",
-      "date": "2026-09-05T19:31:00+00:00",
-      "link": "https://deadline.com/2026/09/oasis-dont-look-back-in-anger-review-liam-gallagher-noel-gallagher-1237069054/",
-      "image": "https://deadline.com/wp-content/uploads/2026/07/Simon-Emmett_Oasis_Tokyo_Doc_.jpg",
-      "category": "Festival Winners"
     },
     {
       "id": "7f6e11dddfbebfc3",
@@ -75,6 +240,17 @@
       "category": "Indie Gems"
     },
     {
+      "id": "dd99799a4ccbb5a8",
+      "title": "Ben McKenzie says yeah, sure, you could talk him into an O.C. revival",
+      "quote": "A cheerful McKenzie clearly knows he's got to pay the Ryan Atwood tax every time he wants to promote his anti-crypto documentary.",
+      "publisher": "The A.V. Club",
+      "author": "William Hughes",
+      "date": "2026-09-05T18:31:24+00:00",
+      "link": "https://www.avclub.com/ben-mckenzie-oc-revival",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/04/14114859/everyones-lying-to-you-for-money-header.jpg",
+      "category": "Indie Gems"
+    },
+    {
       "id": "592041b5e5e87480",
       "title": "5 Classic Sci-Fi Books That Somehow Haven't Gotten A Movie Adaptation",
       "quote": "These revered sci-fi books would be challenging to adapt into movies, but that only makes us want to see them get the big screen treatment even more.",
@@ -84,50 +260,6 @@
       "link": "https://www.slashfilm.com/2247827/classic-sci-fi-books-dont-have-movie-adaptations/",
       "image": "https://www.slashfilm.com/img/gallery/5-classic-sci-fi-books-that-somehow-havent-gotten-a-movie-adaptation/l-intro-1788198571.jpg",
       "category": "Indie Gems"
-    },
-    {
-      "id": "30eeb6073e9d718e",
-      "title": "‘Evil Dead’ Star Bruce Campbell Says His Cancer Carries Five-Year Prognosis",
-      "quote": "Evil Dead star Bruce Campbell says his previously announced cancer diagnosis will likely take his life within five years. In a candid interview on The Adam Carolla Show podcast, Campbell said, “I’m in a five-year…",
-      "publisher": "Deadline",
-      "author": "Greg Evans",
-      "date": "2026-09-05T17:55:03+00:00",
-      "link": "https://deadline.com/2026/09/bruce-campbell-cancer-prognosis-1237068998/",
-      "image": "https://deadline.com/wp-content/uploads/2026/03/GettyImages-2179010103.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "c6e62b36a192f62a",
-      "title": "‘Coyote Vs. Acme’ Distributor Ketchup Entertainment Takes U.S. On Norwegian Animated Pic ‘ViQueens’",
-      "quote": "EXCLUSIVE: Ketchup Entertainment, hot off giving Warner Bros Animation’s Coyote Vs. Acme a theatrical release, has acquired U.S. distribution rights to Norwegian animated movie ViQueens from director Harald Zwart (The…",
-      "publisher": "Deadline",
-      "author": "Anthonypauldalessandro",
-      "date": "2026-09-05T17:47:53+00:00",
-      "link": "https://deadline.com/2026/09/coyote-vs-acme-ketchup-viqueens-1237069008/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/ViQueensFirstLook_PhotoCredit_ZwartArbeid.png",
-      "category": "World Cinema"
-    },
-    {
-      "id": "3b85c3af39835b77",
-      "title": "‘The Liberation’ Review: Carrie Coon, Lily James And Bella Ramsey Soar In Guy Nattiv’s Explosive Cult Thriller – Telluride Film Festival",
-      "quote": "The Liberation has the bones of every cult movie I have ever seen, yet somehow it feels apart, a completely different and, for this genre, surprisingly female-driven narrative that is at once edge-of-your-seat suspense…",
-      "publisher": "Deadline",
-      "author": "Pete Hammond",
-      "date": "2026-09-05T17:25:53+00:00",
-      "link": "https://deadline.com/2026/09/the-liberation-review-carrie-coon-lily-james-bella-ramsey-1237068931/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Liberation.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "7e387a1f092968de",
-      "title": "A24’s ‘Primetime’, Starring Robert Pattinson As Chris Hansen, Lands 9-Minute Ovation At Venice World Premiere",
-      "quote": "The much-talked-about Chris Hansen close-up Primetime starring Robert Pattinson has landed an enthusiastic nine-minute standing ovation this evening following its world premiere at the Venice Film Festival. Among those…",
-      "publisher": "Deadline",
-      "author": "Zac Ntim",
-      "date": "2026-09-05T17:21:47+00:00",
-      "link": "https://deadline.com/2026/09/primetime-robert-pattinson-venice-reaction-chris-hansen-1237067852/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Primetime.jpg",
-      "category": "Festival Winners"
     },
     {
       "id": "448ebf3dd86d512d",
@@ -141,8 +273,8 @@
       "category": "World Cinema"
     },
     {
-      "id": "c6e3f8599d55472c",
-      "title": "‘It Will Happen Tonight’ Review: Italian Auteur Nanni Moretti’s Searing and Sea-Sawing Romance Is Passionate to a Fault",
+      "id": "1cf861ce70048e1c",
+      "title": "‘It Will Happen Tonight’ Review: Italian Auteur Nanni Moretti’s See-Sawing Romance Is Passionate to a Fault",
       "quote": "Louis Garrel and Jasmine Trinca play a pair of star-crossed lovers who keep putting off their affair until the coincidences (and hormones) take over.",
       "publisher": "The Hollywood Reporter",
       "author": "Jordan Mintzer",
@@ -163,17 +295,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "dea93360d67946f2",
-      "title": "Matt Gutman Dropped From Former ABC News Field Producer’s Wrongful Termination Lawsuit; Disney, ABC Remain As Defendants",
-      "quote": "UPDATE: Three weeks after news correspondent Matt Gutman was named in a wrongful termination lawsuit filed by a former ABC field producer, Gutman, now a chief correspondent with CBS News, is being dropped from the legal…",
-      "publisher": "Deadline",
-      "author": "Ted Johnson",
-      "date": "2026-09-05T17:10:00+00:00",
-      "link": "https://deadline.com/2026/09/matt-gutman-lawsuit-abc-field-producer-1237042227/",
-      "image": "https://deadline.com/wp-content/uploads/2025/12/GettyImages-2246112484.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "836d186d5883bf05",
       "title": "6 Years Ago, Disney Gave Us An Awful Adaptation Of A Beloved Fantasy Book Series",
       "quote": "Disney spent years trying to get this film adaptation of a celebrated fantasy book series off the ground. The final result was ... not worth it.",
@@ -182,6 +303,17 @@
       "date": "2026-09-05T17:00:00+00:00",
       "link": "https://www.slashfilm.com/2251226/artemis-fowl-beloved-fantasy-book-series-disney-awful-movie-adaptation/",
       "image": "https://www.slashfilm.com/img/gallery/artemis-fowl-beloved-fantasy-book-series-disney-awful-movie-adaptation/l-intro-1788554335.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "915d8481587c5e3d",
+      "title": "Robert Pattinson hopes Chris Hansen will take his Primetime performance as a compliment",
+      "quote": "Pattinson actually has a lot of nice things to say about Hansen, calling him \"magnetic\" in his early <i>To Catch A Predator</i> appearances.",
+      "publisher": "The A.V. Club",
+      "author": "William Hughes",
+      "date": "2026-09-05T16:53:44+00:00",
+      "link": "https://www.avclub.com/robert-pattinson-hopes-chris-hansen-primetime-performance-compliment",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/05124629/pattinson-primetime-feature.jpg",
       "category": "Indie Gems"
     },
     {
@@ -196,28 +328,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "74a5f761bbe69565",
-      "title": "Sam Elliott's Short-Lived Western Series Is A Forgotten '80s Relic",
-      "quote": "In the 1980s, Sam Elliott starred in a short-lived Western soap opera TV series that felt like the prototype for Yellowstone.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-09-05T16:00:00+00:00",
-      "link": "https://www.slashfilm.com/2248685/sam-elliott-short-lived-wester-series-the-yellow-rose/",
-      "image": "https://www.slashfilm.com/img/gallery/sam-elliotts-short-lived-western-series-is-a-forgotten-80s-relic/l-intro-1788278028.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "99c112448ec8a62c",
-      "title": "10 Best Western Movies Of The 1960s, Ranked",
-      "quote": "The 1960s was one of the finest decade for westerns, giving us some of the all-time greatest in the genre, and these are the best of them.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Sam Stone)",
-      "date": "2026-09-05T15:10:00+00:00",
-      "link": "https://www.slashfilm.com/2249926/best-western-movies-1960s-ranked/",
-      "image": "https://www.slashfilm.com/img/gallery/10-best-western-movies-of-the-1960s-ranked/l-intro-1788381224.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "177bbfa3a3d8950f",
       "title": "‘Primetime’ Review: You Might Feel the Need to Shower After Watching Robert Pattinson as ‘To Catch a Predator’ Host Chris Hansen",
       "quote": "Merritt Wever, Skyler Gisondo and Phoebe Bridgers also star in Lance Oppenheim’s first narrative feature, revisiting the ethically muddy ‘Dateline NBC’ ratings phenomenon.",
@@ -227,6 +337,17 @@
       "link": "https://www.hollywoodreporter.com/movies/movie-reviews/primetime-review-robert-pattinson-chris-hansen-1236691706/",
       "image": null,
       "category": "World Cinema"
+    },
+    {
+      "id": "7bfc8b829d8ee635",
+      "title": "Racing to find the right running-based Z-grade thriller for you",
+      "quote": "If you want a bad time for perverse fun, you at least want the right bad time. We run down the differences between Runner and The Runner.",
+      "publisher": "The A.V. Club",
+      "author": "Jacob Oller",
+      "date": "2026-09-05T15:00:47+00:00",
+      "link": "https://www.avclub.com/runner-the-runner-running-man-runner-runner-twin-films-why-are-they-named-that",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/04114220/MixCollage-04-Sep-2026-10-42-AM-549.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "8cd0801641189773",
@@ -273,28 +394,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "ec7d64917862f9b9",
-      "title": "Before The Great, Nicholas Hoult And Elle Fanning Made A Critically Maligned Sci-Fi Western",
-      "quote": "Elle Fanning and Nicholas Hoult starred together in the underrated TV series The Great, but before that they were both in this unloved sci-fi Western.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-09-05T14:00:00+00:00",
-      "link": "https://www.slashfilm.com/2177816/the-great-nicholas-hoult-elle-fanning-failed-sci-fi-western-young-ones/",
-      "image": "https://www.slashfilm.com/img/gallery/before-the-great-nicholas-hoult-and-elle-fanning-made-a-critically-maligned-sci-fi-western/l-intro-1779290495.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "729ee6971988999f",
-      "title": "Dolly Parton's Classic 110-Minute Comedy Is Finding Fans On Netflix 46 Years Later",
-      "quote": "In the wake of Dolly Parton's death, one of the cherished singer/songwriter/actress's most beloved films is racing up the Netflix charts.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Jeremy Smith)",
-      "date": "2026-09-05T13:00:00+00:00",
-      "link": "https://www.slashfilm.com/2251421/dolly-parton-comedy-9-to-5-streaming-netflix-september-2026/",
-      "image": "https://www.slashfilm.com/img/gallery/dolly-partons-classic-110-minute-comedy-is-finding-fans-on-netflix-46-years-later/l-intro-1788548885.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "1730d5132659a135",
       "title": "‘I don’t like the term neurodivergence – it sounds like political correctness’: Werner Herzog on fans, fanaticism and baby foxes",
       "quote": "The Bavarian auteur talks directing Kate and Rooney Mara in Bucking Fastard and his popularity on Instagram In outsider visionaries such as Aguirre, Fitzcarraldo or Timothy Treadwell, renegade German director Werner…",
@@ -328,17 +427,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "b2ed39e866073462",
-      "title": "Every Character Taylor Sheridan Plays In His Own TV Shows & Movies, Ranked",
-      "quote": "Taylor Sheridan often shows up in the TV series and movies he writes, so let's rank every character he's played in them so far.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-09-05T11:45:00+00:00",
-      "link": "https://www.slashfilm.com/2248527/taylor-sheridan-character-tv-shows-movies-ranked/",
-      "image": "https://www.slashfilm.com/img/gallery/every-character-taylor-sheridan-plays-in-his-own-tv-shows-movies-ranked/l-intro-1788272559.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "6ca4b2ed3878384a",
       "title": "‘Tom and Jerry: Forbidden Compass’ Review: The Famous Cat-and-Mouse Duo Are Not Themselves In a Chaotic Chinese Cartoon",
       "quote": "That title gives a first clue towards how misbegotten and compromised this new Tom and Jerry joint is. Everybody knows that Tom and Jerry shouldn’t be searching for a forbidden compass, whatever that might be: If the…",
@@ -361,6 +449,17 @@
       "category": "Indian Cinema"
     },
     {
+      "id": "82971f7c7b8f7012",
+      "title": "Take this job and…: 17 films that extol the virtues of anti-work",
+      "quote": "This Labor Day, celebrate with 17 movies that remind us that we work to live, not the other way around.",
+      "publisher": "The A.V. Club",
+      "author": "The A.V. Club",
+      "date": "2026-09-05T11:00:12+00:00",
+      "link": "https://www.avclub.com/inventory-labor-day-17-anti-work-movies",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/03010025/Antiwork-header2.jpg",
+      "category": "Indie Gems"
+    },
+    {
       "id": "309edbf2209a5ad6",
       "title": "‘Mr Nelson, Did You Kill People?’ Review: An Assaultive Yet Turgid and Outdated Vietnam PTSD Drama",
       "quote": "If Shinya Tsukamoto’s “Mr Nelson, Did You Kill People?” were the first, or even the 51st, movie to litigate the atrocities committed by U.S. troops during the Vietnam War, perhaps on a purely informational level some…",
@@ -369,17 +468,6 @@
       "date": "2026-09-05T10:54:01+00:00",
       "link": "https://variety.com/2026/film/reviews/mr-nelson-did-you-kill-people-review-1236846997/",
       "image": "https://variety.com/wp-content/uploads/2026/08/MR._NELSON__DID_YOU_KILL_PEOPLE.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "da478dba15a00f3c",
-      "title": "‘Everest: The Other Side’ Review: The ‘Free Solo’ Directors Return With Another Extreme Sports Doc, This Time Tainted by Tragedy",
-      "quote": "“Because it’s there” is the famous, possibly apocryphal, reply attributed to British mountaineer George Mallory when asked why he wanted to climb Mount Everest. Unlike present-day climber Jim Morrison, Mallory didn’t…",
-      "publisher": "Variety",
-      "author": "Guy Lodge",
-      "date": "2026-09-05T10:35:43+00:00",
-      "link": "https://variety.com/2026/film/reviews/everest-the-other-side-review-1236852376/",
-      "image": "https://variety.com/wp-content/uploads/2026/09/MixCollage-01-Sep-2026-12-17-PM-268.jpg",
       "category": "World Cinema"
     },
     {
@@ -403,17 +491,6 @@
       "link": "https://www.thehindu.com/entertainment/movies/dil-chahta-hai-at-25-how-farhan-akhtars-breezy-style-created-a-new-bollywood-coolth/article71411100.ece",
       "image": "https://th-i.thgim.com/public/entertainment/movies/9fkh5p/article71418230.ece/alternates/LANDSCAPE_1200/cvr%2059.jpg",
       "category": "Indian Cinema"
-    },
-    {
-      "id": "c1c9601f37d87e8d",
-      "title": "‘The Liberation’ Review: Carrie Coon Is Breathtaking as a Woman Lured by a Cult in Guy Nattiv’s Deeply Personal Film",
-      "quote": "“You carry a lot of weight around, don’t you?” In Guy Nattiv’s observant, harrowing and unmistakably feminine “The Liberation,” this line marks the first time someone truly sees through fortysomething protagonist Rita…",
-      "publisher": "Variety",
-      "author": "Tomilaffly",
-      "date": "2026-09-05T09:00:00+00:00",
-      "link": "https://variety.com/2026/film/reviews/the-liberation-review-1236851030/",
-      "image": "https://variety.com/wp-content/uploads/2026/09/Carrie-Coon-in-The-Liberation_FINAL-Key-Still-courtesy-Bleecker-Street.jpg",
-      "category": "World Cinema"
     },
     {
       "id": "e57e85f00d7fb668",
@@ -493,17 +570,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "d297db5fd39753cb",
-      "title": "‘A Long Winter’ Review: Fred Hechinger and Ebon Moss-Bachrach Shine as Family Thrust Into Uneasy Isolation in Andrew Haigh’s Fine-Grained Drama",
-      "quote": "Also featuring Caitríona Balfe, Kit Connor and D’Pharaoh Woon-A-Tai, the film — adapted from Colm Tóibín's novella — measures the after-effects of a disappearance in the Rocky Mountains in the 1950s.",
-      "publisher": "The Hollywood Reporter",
-      "author": "David Rooney",
-      "date": "2026-09-05T02:30:00+00:00",
-      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/a-long-winter-review-fred-hechinger-ebon-moss-bachrach-1236690170/",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
       "id": "61f2148a3c392225",
       "title": "Tender Loving Care review – Mike Leigh’s tender and elusive study of love and mortality",
       "quote": "Telluride film festival Alice Bailey Johnson and Kate O’Flynn lead a complicated, quietly heartbreaking drama about friendship, ageing parents and the sadness of lives moving inexorably on Mike Leigh’s new film –…",
@@ -546,72 +612,6 @@
       "link": "https://www.theguardian.com/film/2026/sep/05/act-3-review-christine-molloy-joe-lawlor",
       "image": "https://i.guim.co.uk/img/media/1aa40b5dc4b2ceb68c6ad36b27d422ffe58e87a6/613_0_2903_2322/master/2903.jpg?width=140&quality=85&auto=format&fit=max&s=9064f8da4c05a58e20692a3b71ab4fb6",
       "category": "World Cinema"
-    },
-    {
-      "id": "64cd3697a2e00030",
-      "title": "Amazon squashes Nicholas Cage's Spider-Noir after single season",
-      "quote": "Cage's first serious TV star role, as a spider dreaming he's a man who's watched a lot of Humphrey Bogart detective movies, is over.",
-      "publisher": "The A.V. Club",
-      "author": "William Hughes",
-      "date": "2026-09-04T22:58:21+00:00",
-      "link": "https://www.avclub.com/amazon-squashes-nicholas-cages-spider-noir-after-single-season",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/05/21005252/cage-spider-noir-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "ac22305eb10ca898",
-      "title": "Eternals survivor Chloé Zhao still defends comic book movies",
-      "quote": "Zhao pushed back on the idea that there was a \"contrast\" between her 2020 Oscar-winner <i>Nomadland</i> and Marvel's <i>Eternals</i>.",
-      "publisher": "The A.V. Club",
-      "author": "William Hughes",
-      "date": "2026-09-04T21:37:14+00:00",
-      "link": "https://www.avclub.com/eternals-survivor-chloe-zhao-still-defends-comic-book-movies",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2025/11/26214425/chloe-zhao-feature.jpg",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "3b37aee32a168c4d",
-      "title": "BET Digital goes the way of MTV News",
-      "quote": "A trove of news is now lost to the digital dark age as BET clears house in, you guessed it, a pivot to video.",
-      "publisher": "The A.V. Club",
-      "author": "Matt Schimkowitz",
-      "date": "2026-09-04T21:05:36+00:00",
-      "link": "https://www.avclub.com/bet-digital-wipes-news-archive",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/04170339/bet-logo-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "26198981c7c51847",
-      "title": "Paul Schrader says he's ready to make an all-AI-\"actor\" movie",
-      "quote": "Asked about AI's impact on jobs, the <i>First Reformed</i> director answered bluntly: \"Those jobs are gone, babe. You can scream ‘Stop AI’ all you want, but you can’t stop it.”",
-      "publisher": "The A.V. Club",
-      "author": "William Hughes",
-      "date": "2026-09-04T20:59:31+00:00",
-      "link": "https://www.avclub.com/paul-schrader-says-hes-ready-to-make-an-all-ai-actor-movie",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2024/08/21163212/GettyImages-2153514430.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "0df5e60bc52bb4bf",
-      "title": "A conjuring spell is forming for Practical Magic 3",
-      "quote": "Co-stars Sandra Bullock, Nicole Kidman, Joey King, and Maisie Williams are open to a third film in the series, according to an interview with <i>The New York Times</i>.",
-      "publisher": "The A.V. Club",
-      "author": "Jarrod Jones",
-      "date": "2026-09-04T20:21:47+00:00",
-      "link": "https://www.avclub.com/kidman-bullock-open-to-practical-magic-3",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/04161433/magic-header.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "593555c75ba382cd",
-      "title": "Dolly Parton gets a replacement star on Walk Of Fame after vandalism",
-      "quote": "Parton's star, in place since 1984, was vandalized just a few days after her death; the new one has already been installed in the Walk.",
-      "publisher": "The A.V. Club",
-      "author": "William Hughes",
-      "date": "2026-09-04T19:47:35+00:00",
-      "link": "https://www.avclub.com/dolly-parton-gets-a-replacement-star-on-walk-of-fame-after-vandalism",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2025/10/08093420/7b403b002f6f1390ca7b4899b428a034.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "32de7bfe151d60d5",
