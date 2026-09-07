@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T20:16:58.479782+00:00",
+  "generated_at": "2026-09-07T04:09:46.868807+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -8,6 +8,237 @@
     "Indie Gems"
   ],
   "reviews": [
+    {
+      "id": "4dc67a98a89549a5",
+      "title": "‘Sharks are my film stars’: how the Jacques Cousteau of the North Sea finally unlocked its beauty",
+      "quote": "Epic plankton blooms make filming in the North Sea notoriously difficult. But a new documentary gives a rare glimpse of the kaleidoscopic life – seals, sharks, tuna, orcas and shorthorn sculpins – lurking beneath its…",
+      "publisher": "The Guardian",
+      "author": "Patrick Barkham",
+      "date": "2026-09-07T04:00:24+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/07/sharks-film-stars-jacques-cousteau-north-sea-nature-untamed",
+      "image": "https://i.guim.co.uk/img/media/133cf01dccae88c5760a3bf553f4ee5572f3a55e/2404_906_4703_3762/master/4703.jpg?width=140&quality=85&auto=format&fit=max&s=8cda8c232809d104faa0b1370a0b8d27",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "9a12ba17ab251db2",
+      "title": "Lanterns Episode 4 Teases The Arrival Of A Major Green Lantern Villain (But There's A Catch)",
+      "quote": "The latest episode of Lanterns introduces a major villain from the Green Lantern comics... or does it? Like many things in this show, it's complicated.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Joe Roberts)",
+      "date": "2026-09-07T03:45:00+00:00",
+      "link": "https://www.slashfilm.com/2250783/lanterns-episode-4-teases-villain-hector-hammond/",
+      "image": "https://www.slashfilm.com/img/gallery/lanterns-episode-4-teases-the-arrival-of-a-major-green-lantern-villain-but-theres-a-catch/l-intro-1788471677.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "e016e5641babf35f",
+      "title": "Betty Gilpin Recites “Manic Poem” To Accept First Emmy For ‘Widow’s Bay’: “Let’s All Lean Towards Sam Shepard & Less Toward Sam Altman”",
+      "quote": "Betty Gilpin capped a stellar night for breakout Apple TV series Widow’s Bay on Sunday by winning the Emmy in the Guest Actress In a Comedy Series category for playing one of the most dramatic — and tragic — characters…",
+      "publisher": "Deadline",
+      "author": "Nellie Andreeva",
+      "date": "2026-09-07T03:43:02+00:00",
+      "link": "https://deadline.com/2026/09/betty-gilpin-emmy-winner-widows-bay-sarah-speech-sam-altman-1237068778/",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Widows_Bay_Photo_010604.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "4a9e9df57ff3db37",
+      "title": "Gentle Monster",
+      "quote": "Centering the plot on those affected, as opposed to those who commit crimes, gives voice to an increasingly common, complex experience.",
+      "publisher": "RogerEbert.com",
+      "author": "Cortlyn Kelly",
+      "date": "2026-09-07T03:18:22+00:00",
+      "link": "https://www.rogerebert.com/reviews/gentle-monster-film-review-2026",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "e895a7d372716881",
+      "title": "Lanterns Episode 4 Ending Twist Explained: Who Is The Manhunter?",
+      "quote": "An ending twist in Lanterns Episode 4 reveals the identity of the Manhunter that Hal Jordan and John Stewart have been searching for.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Joe Roberts)",
+      "date": "2026-09-07T03:00:00+00:00",
+      "link": "https://www.slashfilm.com/2247118/lanterns-episode-4-ending-twist-explained-zoe-manhunter/",
+      "image": "https://www.slashfilm.com/img/gallery/lanterns-episode-4-ending-twist-explained-who-is-the-manhunter/l-intro-1788111828.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "d9f86568350c1527",
+      "title": "Linda Cardellini Wins First Emmy For ‘DTF St. Louis’: “A Real Dream Come True”",
+      "quote": "Linda Cardellini joined her onscreen husband David Harbour from DTF St. Louis in winning her first Emmy Award for her role in the HBO dark comedy series. She rook the trophy Sunday night in the Outstanding Supporting…",
+      "publisher": "Deadline",
+      "author": "Katie Campione",
+      "date": "2026-09-07T02:47:44+00:00",
+      "link": "https://deadline.com/2026/09/linda-cardellini-emmy-winner-dtf-st-louis-1237069032/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/linda-cardellini_0.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "b0da39cdc56ab9a5",
+      "title": "Rob Reiner Wins Posthumous Emmy Award For ‘The Bear’",
+      "quote": "In his last major TV role before his death, Rob Reiner did a three-episode arc on Season 4 of FX’s The Bear. On Sunday, the late filmmaker won an Emmy Award posthumously for his performance in the Guest Actor in a…",
+      "publisher": "Deadline",
+      "author": "Nellie Andreeva",
+      "date": "2026-09-07T02:43:32+00:00",
+      "link": "https://deadline.com/2026/09/rob-reiner-posthumous-emmy-award-the-bear-1237068694/",
+      "image": "https://deadline.com/wp-content/uploads/2026/06/TCDBEAR_FX091.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "08fb59f9c6029ceb",
+      "title": "David Harbour Wins First Emmy For ‘DTF St. Louis’, Thanks HBO For “All Your Tons Of Notes”",
+      "quote": "David Harbour took home the Emmy Award on Sunday night for his turn in HBO’s DTF St. Louis. In the Outstanding Supporting Actor in a Limited or Anthology Series or Movie category, he faced fellow DTF St. Louis stars…",
+      "publisher": "Deadline",
+      "author": "Katie Campione",
+      "date": "2026-09-07T02:17:36+00:00",
+      "link": "https://deadline.com/2026/09/tk-emmys-best-supporting-actor-limited-series-1237069024/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/david-harbour--e1788746716676.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "d6bf4481d1070601",
+      "title": "‘Carl Sagan: We Are Made of Star Stuff’ Review: Nanette Burstein’s NatGeo Doc Prioritizes the Human Over the Intellectual, for Better and Worse",
+      "quote": "The Telluride premiere focuses on the 'Cosmos' creator's marriages, kids and enjoyment of recreational drugs nearly as much the Viking and Voyager missions.",
+      "publisher": "The Hollywood Reporter",
+      "author": "Daniel Fienberg",
+      "date": "2026-09-07T02:15:00+00:00",
+      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/carl-sagan-we-are-made-of-star-stuff-review-documentary-1236692092/",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "198c18c666715e61",
+      "title": "Lanterns Episode 4 Uses The Perfect Green Lantern Weakness From The Comics",
+      "quote": "Lanterns Episode 4 forgoes a traditional Green Lantern weakness for another comic influenced idea instead, and it works.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Rafael Motamayor)",
+      "date": "2026-09-07T02:00:00+00:00",
+      "link": "https://www.slashfilm.com/2244596/lanterns-episode-4-green-lantern-weakness-comics/",
+      "image": "https://www.slashfilm.com/img/gallery/lanterns-episode-4-green-lantern-weakness-comics/l-intro-1788203327.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "14a9fcbdd3b51d05",
+      "title": "Ernest Harden Jr. Wins First Emmy For ‘The Pitt’, Dedicates Award To Bette Davis: “I Am On Cloud 25”",
+      "quote": "In a victory that is set to inspire journeyman actors, Ernest Harden Jr, who has built a career as a character actor doing largely supporting roles in movies and guest starring stints on series, often for 1-2 episodes…",
+      "publisher": "Deadline",
+      "author": "Nellie Andreeva",
+      "date": "2026-09-07T01:39:14+00:00",
+      "link": "https://deadline.com/2026/09/ernest-harden-jr-emmy-win-the-pitt-louie-cloverfield-death-1237069739/",
+      "image": "https://deadline.com/wp-content/uploads/2026/07/ernest-harden-jr-patrick-ball.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "b9863e9345e8c3b3",
+      "title": "May El-Toukhy Stops Venice Competition Screening Of ‘Woman Unknown’ Over Subtitle Snafu; Film Goes On To Garner 7 1/2-Minute Ovation",
+      "quote": "May el-Toukhy, one of only two women in competition at the Venice Film Festival this year, took the unusual step of stopping the screening of her Golden Lion contender Woman Unknown at its world premiere Sunday evening…",
+      "publisher": "Deadline",
+      "author": "Melanie Goodfellow",
+      "date": "2026-09-07T01:02:18+00:00",
+      "link": "https://deadline.com/2026/09/woman-unknown-female-venice-competition-xx-minute-ovation-1237069513/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2293861050.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "d64bd836d1ece9ea",
+      "title": "One Marvel Hero Who Was Set Up For A Major Role In The MCU Isn't Coming Back",
+      "quote": "Marvel seems content to chalk up Eternals as a swing and a miss, which is why it appears to be abandoning a key character introduced in the film.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Ryan Scott)",
+      "date": "2026-09-07T00:45:00+00:00",
+      "link": "https://www.slashfilm.com/2248807/kit-harington-marvel-hero-black-knight-not-returning-mcu/",
+      "image": "https://www.slashfilm.com/img/gallery/one-marvel-hero-who-was-set-up-for-a-major-role-in-the-mcu-isnt-coming-back/l-intro-1788285457.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "ca28cffef9d0b239",
+      "title": "Shailene Woodley Wins First Emmy For ‘Paradise’, Gives Shoutout To Her Mom",
+      "quote": "Shailene Woodley’s tragic turn in Season 2 of Dan Fogelman’s post-apocalyptic series Paradise won the actress — and the Hulu show — their first Emmy Award. Woodley took home the trophy in the Guest Actress In a Drama…",
+      "publisher": "Deadline",
+      "author": "Nellie Andreeva",
+      "date": "2026-09-07T00:32:59+00:00",
+      "link": "https://deadline.com/2026/09/shailene-woodley-emmy-winner-paradise-guest-actress-speech-1237069703/",
+      "image": "https://deadline.com/wp-content/uploads/2026/06/176877_0380_V2.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "a68c238208d99074",
+      "title": "‘Making Marie Antoinette’ Review: The Late Eleanor Coppola Bares Her Soul In A Moving Doc About Daughter Sofia’s 2006 Film – Telluride Film Festival",
+      "quote": "Did you hear the one about the 34-year-old American woman who directed a starry $40m period studio movie in France and brought it in on time and on budget? No? Funny that. Female filmmakers are feeling particularly…",
+      "publisher": "Deadline",
+      "author": "Damon Wise",
+      "date": "2026-09-07T00:25:06+00:00",
+      "link": "https://deadline.com/2026/09/making-marie-antoinette-review-eleanor-coppola-sofia-coppola-telluride-1237069694/",
+      "image": "https://deadline.com/wp-content/uploads/2025/08/MCDMAAN_EC081.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "0b91e5dae9f4b02f",
+      "title": "Project Hail Mary Writer Andy Weir's Favorite Sci-Fi Movie Makes So Much Sense",
+      "quote": "Andy Weir, the author of Project Hail Mary, once named his favorite sci-fi movie during a Reddit AMA and the film's influence is reflected in his novels.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Witney Seibold)",
+      "date": "2026-09-06T23:30:00+00:00",
+      "link": "https://www.slashfilm.com/2250028/project-hail-mary-andy-weir-favorite-sci-fi-movie-back-to-the-future/",
+      "image": "https://www.slashfilm.com/img/gallery/project-hail-mary-writer-andy-weirs-favorite-sci-fi-movie-makes-so-much-sense/l-intro-1788390259.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "fc86da3431c62505",
+      "title": "Before Star Trek, Leonard Nimoy Guest-Starred In A Western Series We Don't Talk About Anymore",
+      "quote": "Westerns used to dominate the television landscape, but this show that cast Leonard Nimoy as a guest-star is mostly forgotten.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Witney Seibold)",
+      "date": "2026-09-06T23:00:00+00:00",
+      "link": "https://www.slashfilm.com/2250011/star-trek-leonard-nimoy-guest-starred-western-series-tombstone-territory/",
+      "image": "https://www.slashfilm.com/img/gallery/before-star-trek-leonard-nimoy-guest-starred-in-a-western-series-we-dont-talk-about-anymore/l-intro-1788387667.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "6fdb28737d89cba0",
+      "title": "Emma Stone's Second Movie Was A Major Box Office Flop Featuring An Office Star",
+      "quote": "Emma Stone's second movie ever was a disastrous box office flop. Luckily, she shook it off and became one of the defining actresses of her generation.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Jeremy Smith)",
+      "date": "2026-09-06T22:00:00+00:00",
+      "link": "https://www.slashfilm.com/2249987/emma-stone-the-office-rainn-wilson-box-office-flop-the-rocker/",
+      "image": "https://www.slashfilm.com/img/gallery/emma-stones-second-movie-was-a-major-box-office-flop-featuring-an-office-star/l-intro-1788384473.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "160e0a0d35d1b7fa",
+      "title": "Tom Cruise Transformed Into A Terrifying Villain In This Must-Watch Thriller On Prime Video",
+      "quote": "By the early 2000s, Tom Cruise was no stranger to playing difficult characters. But his transformation into a stone-cold killer in Collateral was next level.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Jeremy Smith)",
+      "date": "2026-09-06T21:00:00+00:00",
+      "link": "https://www.slashfilm.com/2248851/tom-cruise-villain-movie-collateral-streaming-prime-video/",
+      "image": "https://www.slashfilm.com/img/gallery/tom-cruise-transformed-into-a-terrifying-villain-in-this-must-watch-thriller-on-prime-video/l-intro-1788287642.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "c07c0b57e8fe3ad2",
+      "title": "Woman Unknown review – postwar paranoia with some deliciously dastardly Du Maurier touches",
+      "quote": "Venice film festival A nanny becomes the new lady of a prosperous Copenhagen house as accused Nazi sympathisers are violently shamed in May el-Toukhy’s shrewd, painful portrait of survival Here is an elegantly appointed…",
+      "publisher": "The Guardian",
+      "author": "Peter Bradshaw",
+      "date": "2026-09-06T20:15:14+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/06/woman-unknown-review-kvinde-ukendt-may-el-toukhy",
+      "image": "https://i.guim.co.uk/img/media/3aaec4925ac5170cd7a5c44b57de59a8727cd53b/716_788_4685_3749/master/4685.jpg?width=140&quality=85&auto=format&fit=max&s=bcc1864b05c10ad5a909eb996a346de2",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "1e86e8d37d93c9a3",
+      "title": "‘Woman Unknown’ Review: Some More Problematic Sex — and Its Consequences — by Denmark’s May el-Toukhy",
+      "quote": "Against the rubble gray and stiff mahogany with which director May el-Toukhy washes out her post-Second World War Copenhagen, the pops of crimson in “Woman Unknown” announce a stark symbolism that’s about as subtle as…",
+      "publisher": "Variety",
+      "author": "Guy Lodge",
+      "date": "2026-09-06T20:15:00+00:00",
+      "link": "https://variety.com/2026/film/reviews/woman-unknown-review-1236853350/",
+      "image": "https://variety.com/wp-content/uploads/2026/08/MixCollage-31-Aug-2026-07-49-PM-936.jpg",
+      "category": "Festival Winners"
+    },
     {
       "id": "bcd95b7b61082127",
       "title": "‘Woman Unknown’ Review: A Sharp, Haunting Portrait of Denmark’s Post-War Reckoning",
@@ -20,69 +251,14 @@
       "category": "World Cinema"
     },
     {
-      "id": "b1fe4c581ef42a2a",
-      "title": "Jimmy Buffett Doc ‘Occupational Hazard: The First Coral Reefers’ Rocks Key West, ‘Buddy’s On A Roll, CatVideoFest Hits $1M — Specialty Box Office",
-      "quote": "Dark comedy Buddy from Roadside Attractions and Saban Films is sailing along at no. 7 for the three-day weekend with $5.75 million on 1,771 screens (up 500) in week 2 for a hefty cume of $14.3 million. For the four…",
-      "publisher": "Deadline",
-      "author": "Jillg366",
-      "date": "2026-09-06T20:15:00+00:00",
-      "link": "https://deadline.com/2026/09/indie-film-box-office-buddy-jimmy-buffett-catvideofest-1237069499/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/JB-Archive-Credit_-Greene-Street-Entertainment-Confluence-Productions.png",
-      "category": "World Cinema"
-    },
-    {
-      "id": "275a7dd1b1130412",
-      "title": "Before For All Mankind, Joel Kinnaman Starred In One Of The Worst Sci-Fi Movies Of The 2010s",
-      "quote": "After working in his native Sweden for years, For All Mankind actor Joel Kinnaman made his international film debut in this disappointing sci-fi movie.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-09-06T19:45:00+00:00",
-      "link": "https://www.slashfilm.com/2251386/for-all-mankind-joel-kinnaman-worst-sci-fi-movie-the-darkest-hour/",
-      "image": "https://www.slashfilm.com/img/gallery/before-for-all-mankind-joel-kinnaman-starred-in-one-of-the-worst-sci-fi-movies-of-the-2010s/l-intro-1788546918.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "b0d8676d7084a806",
-      "title": "Sabrina Carpenter Celebrates First Emmy Win For ‘The Muppet Show’: “So Incredibly Proud”",
-      "quote": "After last night’s 78th Primetime Emmy Awards, Sabrina Carpenter is halfway to EGOT status, and she may have had to claw her way to this trophy. The Man’s Best Friend artist, who already has two Grammy Awards to her…",
-      "publisher": "Deadline",
-      "author": "Glenn Garner",
-      "date": "2026-09-06T19:36:32+00:00",
-      "link": "https://deadline.com/2026/09/sabrina-carpenter-celebrates-first-emmy-win-muppet-show-1237069601/",
-      "image": "https://deadline.com/wp-content/uploads/2026/02/179233_0281_0260_r_fbbbc70b.jpeg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "e8d6cdf4126bfe82",
-      "title": "‘Mr. Nelson, Did You Kill People?’ Review: A Vietnam Vet Reckons with PTSD in a Heavy-Handed Trauma Drama",
+      "id": "7f9364e6864c95c6",
+      "title": "‘Mr. Nelson, Did You Kill People?’ Review: A Vietnam Vet Reckons With PTSD in a Heavy-Handed Trauma Drama",
       "quote": "Japanese director Shinya Tsukamoto adapts the nonfiction account of former U.S. Marine Allen Nelson, who spoke about the brutalities he committed on the front and hardships he faced back home.",
       "publisher": "The Hollywood Reporter",
       "author": "Jordan Mintzer",
       "date": "2026-09-06T19:01:02+00:00",
       "link": "https://www.hollywoodreporter.com/movies/movie-reviews/mr-nelson-did-you-kill-people-review-shinya-tsukamoto-1236691754/",
       "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "27e51f0559263059",
-      "title": "Steve McQueen's Legendary Western Series With 3 Seasons Is Mandatory Viewing",
-      "quote": "You can see Steve McQueen growing as an actor when you watch this Western series, which he starred in just before his film career skyrocketed.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Jeremy Smith)",
-      "date": "2026-09-06T19:00:00+00:00",
-      "link": "https://www.slashfilm.com/2250643/steve-mcqueen-legendary-western-series-wanted-dead-or-alive/",
-      "image": "https://www.slashfilm.com/img/gallery/steve-mcqueens-legendary-western-series-with-3-seasons-is-mandatory-viewing/l-intro-1788462223.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "ddd64f46d8f53ca7",
-      "title": "Oprah Moderates Convo For ‘Everest: The Other Side,’ Reveals If She Plans To Scale World’s Tallest Mountain – Telluride Film Festival",
-      "quote": "No less a figure than Oprah Winfrey appeared at the Telluride Film Festival to moderate a conversation about Everest: The Other Side, following the film’s North American premiere on Saturday. Turns out she’s a big…",
-      "publisher": "Deadline",
-      "author": "Matthew Carey",
-      "date": "2026-09-06T18:58:28+00:00",
-      "link": "https://deadline.com/2026/09/everest-the-other-side-oprah-winfrey-telluride-qa-1237069582/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2293719187.jpg",
       "category": "World Cinema"
     },
     {
@@ -95,50 +271,6 @@
       "link": "https://variety.com/2026/film/reviews/agata-the-writer-review-mia-wasikowska-1236853234/",
       "image": "https://variety.com/wp-content/uploads/2026/09/114295-AGATA_THE_WRITER_-_Actresses_Mia_Wasikowska_and_Mia_Morrissey.jpg",
       "category": "World Cinema"
-    },
-    {
-      "id": "6bbb858ed2794e20",
-      "title": "Telluride Film Festival 2026: Read All Of Deadline’s Reviews",
-      "quote": "The 2026 Telluride kicked off Friday, September 5, in Colorado and runs through Labor Day. The 53rd edition of the fest kicks off with first-day films including seven-time Oscar nominee Mike Leigh’s Tender Loving Care…",
-      "publisher": "Deadline",
-      "author": "Erik Pedersen",
-      "date": "2026-09-06T18:17:00+00:00",
-      "link": "https://deadline.com/2026/09/telluride-film-festival-2026-reviews-deadline-1237068524/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Telluride-Film-Festival-2026.jpg",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "810899b9a94588d7",
-      "title": "Breaking Baz: Léa Seydoux Talks ‘Gentle Monster’s “Complexity” And “Contradictions” & Why She Wants To Take More Risks — Telluride Film Festival",
-      "quote": "Having appeared in both the penultimate and the final Daniel Craig-era Bond films and in Denis Villeneuve’s Dune: Part Two, Léa Seydoux has entered a phase of her career where risk-taking feels paramount. “I like when…",
-      "publisher": "Deadline",
-      "author": "Baz Bamigboye",
-      "date": "2026-09-06T18:00:00+00:00",
-      "link": "https://deadline.com/2026/09/lea-seydoux-gentle-monster-the-unknown-telluride-interview-1237069089/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/GENTLE_MONSTER-Photo-4-HD-FILM-AG.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "164d2b5c9f5528d1",
-      "title": "This Short-Lived NBC Series Could Have Been One Of The Best Sci-Fi Shows Of The 2020s",
-      "quote": "NBC canceled this 2021 sci-fi series after just one season, which is too bad since it had the potential to become something truly special.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Witney Seibold)",
-      "date": "2026-09-06T18:00:00+00:00",
-      "link": "https://www.slashfilm.com/2249371/short-lived-2020s-nbc-sci-fi-tv-series-debris/",
-      "image": "https://www.slashfilm.com/img/gallery/this-short-lived-nbc-series-could-have-been-one-of-the-best-sci-fi-shows-of-the-2020s/l-intro-1788354148.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "414d08a39dcbfdc2",
-      "title": "Lee Chang-Dong’s ‘Possible Love’ Earns 6.5-Minute Standing Ovation At Venice World Premiere",
-      "quote": "Possible Love, the first film from Korean filmmaker Lee Chang-dong since 2018’s Burning, earned a 6½-minute Sunday evening following its debut screening at the 83rd Venice Film Festival. Director Lee helmed the film…",
-      "publisher": "Deadline",
-      "author": "Zac Ntim",
-      "date": "2026-09-06T17:52:33+00:00",
-      "link": "https://deadline.com/2026/09/lee-chang-dong-possible-love-ovation-venice-1237068180/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/possible-Love_Still_R30_AAA08350_RT2.jpg",
-      "category": "Festival Winners"
     },
     {
       "id": "24023022963be397",
@@ -163,28 +295,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "73e8b798839f44b1",
-      "title": "Summer Nears All-Time $4.76B U.S. Record Thanks To ‘Spider-Man: Brand New Day’s $23M+ Labor Day Take – Box Office Update",
-      "quote": "SUNDAY AM: Forget about any of the new films at the Labor Day weekend box office. They didn’t really dazzle. All that matters is whether or not we ring in a record summer, beating 2013’s $4.756 billion. According to…",
-      "publisher": "Deadline",
-      "author": "Anthonypauldalessandro",
-      "date": "2026-09-06T17:22:00+00:00",
-      "link": "https://deadline.com/2026/09/box-office-spider-man-brand-new-day-by-any-means-labor-day-1237068549/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/MCDSPMA_SP130-e1788626096465.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "538a765f75648be7",
-      "title": "Venice Film Festival 2026: Read All Of Deadline’s Reviews",
-      "quote": "The 2026 Venice Film Festival got underway on Wednesday, September 2, with Oscar-winning English director Danny Boyle’s Ink — starring Jack O’Connell, Guy Pearce and Claire Foy — kicking off an 83rd edition that…",
-      "publisher": "Deadline",
-      "author": "Erik Pedersen",
-      "date": "2026-09-06T17:20:00+00:00",
-      "link": "https://deadline.com/2026/09/venice-film-festival-2026-reviews-deadline-1237065820/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Venice-Film-Festival-Reviews-2026.jpg",
-      "category": "Festival Winners"
-    },
-    {
       "id": "ac314dfcb241bd0d",
       "title": "Bigg Boss Tamil Season 10 contestants list: Lakshmi Priya, Chandini, Raaghav, Pandi, and more",
       "quote": "A total of 29 contestants were shortlisted for the Bigg Boss Tamil Season 10 premiere, of whom the audience eliminated 10 through a live poll",
@@ -196,17 +306,6 @@
       "category": "Indian Cinema"
     },
     {
-      "id": "5a66022164c6234e",
-      "title": "5 Star Trek: The Next Generation Episodes With Great Space Battles",
-      "quote": "Space warfare wasn't all that common on Star Trek: The Next Generation, but when it did happen, it left an impact. Here are the five best space battle episodes.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Witney Seibold)",
-      "date": "2026-09-06T17:00:00+00:00",
-      "link": "https://www.slashfilm.com/2248812/star-trek-the-next-generation-episodes-great-space-battles/",
-      "image": "https://www.slashfilm.com/img/gallery/5-star-trek-the-next-generation-episodes-with-great-space-battles/l-intro-1788286165.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "1237a233056572eb",
       "title": "Cult of male genius holding female film-makers back, says Woman Unknown director",
       "quote": "May el-Toukhy says we must end veneration of male directors that causes ‘structural problem’ for women The enduring cult of male genius is keeping down female film-makers, one of the only two female directors in the…",
@@ -216,28 +315,6 @@
       "link": "https://www.theguardian.com/film/2026/sep/06/cult-male-genius-holding-female-film-makers-back-woman-unknown-director-may-el-toukhy",
       "image": "https://i.guim.co.uk/img/media/a297281439e54e9839d34234711a26ed50f45290/256_0_2559_2048/master/2559.jpg?width=140&quality=85&auto=format&fit=max&s=31c7e519fe17e5192ec7a6d66dcc9f56",
       "category": "Festival Winners"
-    },
-    {
-      "id": "33e8be72f952a33a",
-      "title": "After The Twilight Zone, Rod Serling Created A Short-Lived Western Series That Deserved More",
-      "quote": "Rod Serling followed up The Twilight Zone with a short-lived but worthwhile Western series that was definitely ahead of its time.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-09-06T16:00:00+00:00",
-      "link": "https://www.slashfilm.com/2249067/the-twilight-zone-rod-serling-short-lived-western-series-the-loner/",
-      "image": "https://www.slashfilm.com/img/gallery/after-the-twilight-zone-rod-serling-created-a-short-lived-western-series-that-deserved-more/l-intro-1788295453.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "e245411423414fa6",
-      "title": "10 Best Low-Budget Sci-Fi Movies, Ranked",
-      "quote": "Sci-fi often requires big money to bring unbelievable worlds to life, but the best low budget sci-fi movies did it without those deep pockets.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Trace Sauveur)",
-      "date": "2026-09-06T15:10:00+00:00",
-      "link": "https://www.slashfilm.com/2248060/best-low-budget-sci-fi-movies-ranked/",
-      "image": "https://www.slashfilm.com/img/gallery/10-best-low-budget-sci-fi-movies-ranked/l-intro-1788207201.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "224573f6de126997",
@@ -284,6 +361,17 @@
       "category": "World Cinema"
     },
     {
+      "id": "ccc0a1a5f3143ba2",
+      "title": "AVQ&A: What's your personal song of the summer?",
+      "quote": "The radio may have chosen Texas, but we at The A.V. Club took a different approach to soundtracking our summer.",
+      "publisher": "The A.V. Club",
+      "author": "The A.V. Club",
+      "date": "2026-09-06T14:00:09+00:00",
+      "link": "https://www.avclub.com/song-of-the-summer-madonna-slayyyter-olivia-rodrigo",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/04155609/MixCollage-04-Sep-2026-02-52-PM-805.jpg",
+      "category": "Indie Gems"
+    },
+    {
       "id": "4b21658286b8c04d",
       "title": "Wim Wenders clarifies that he does not believe film-makers should stay out of politics",
       "quote": "Director’s controversial comments earlier this year warned of films that ‘enter the field of politics’ The director Wim Wenders has clarified personal views on the relationship between cinema and politics that caused…",
@@ -293,17 +381,6 @@
       "link": "https://www.theguardian.com/film/2026/sep/06/wim-wenders-clarifies-does-not-believe-film-makers-stay-out-of-politics",
       "image": "https://i.guim.co.uk/img/media/38a3d6144a4ee5ca034ca05a34318dc01fd3479d/53_77_3070_2457/master/3070.jpg?width=140&quality=85&auto=format&fit=max&s=c4e9a996548090cd869a784e413c3ffa",
       "category": "Festival Winners"
-    },
-    {
-      "id": "ac68ed7031ec43a7",
-      "title": "Silo Writer Hugh Howey Thinks The Apple TV Series Does One Thing Better Than The Books",
-      "quote": "Hugh Howey is not only a big fan of Apple TV's adaptation of his Silo books, he also thinks the show improves on them in one key way.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Jeremy Mathai)",
-      "date": "2026-09-06T14:00:00+00:00",
-      "link": "https://www.slashfilm.com/2248980/silo-author-hugh-howey-costumes-better-apple-tv-series/",
-      "image": "https://www.slashfilm.com/img/gallery/silo-writer-hugh-howey-thinks-the-apple-tv-series-does-one-thing-better-than-the-books/l-intro-1788292868.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "14f7deb5a9c77f57",
@@ -317,14 +394,14 @@
       "category": "World Cinema"
     },
     {
-      "id": "6d2f551bc0b458b1",
-      "title": "30 Years Ago Today: Adam Sandler Made One Of The Worst Buddy Cop Movies Ever Made",
-      "quote": "Adam Sandler has starred in some of the greatest comedy films of all time, but also some of the worst. This one from 30 years ago is firmly in the latter camp.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-09-06T12:00:00+00:00",
-      "link": "https://www.slashfilm.com/2250043/adam-sandler-bulletproof-worst-buddy-cop-movie-30-year-anniversary/",
-      "image": "https://www.slashfilm.com/img/gallery/30-years-ago-today-adam-sandler-made-one-of-the-worst-buddy-cop-movies-ever-made/l-intro-1788392158.jpg",
+      "id": "3a8f2909fc80ca50",
+      "title": "What's on TV this week—Last Seen and A Tale Of Two Cities premiere",
+      "quote": "Plus, The Paper is back for season two on Peacock.",
+      "publisher": "The A.V. Club",
+      "author": "Christina Izzo",
+      "date": "2026-09-06T11:00:36+00:00",
+      "link": "https://www.avclub.com/what-to-watch-on-tv-september-6-september-12",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/05001304/MixCollage-04-Sep-2026-11-44-PM-2503.jpg",
       "category": "Indie Gems"
     },
     {
@@ -493,17 +570,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "1631db99ee97e50b",
-      "title": "‘Oasis: Don’t Look Back in Anger’ Review: A Rich and Poignant Celebration of a Beloved Band’s Glorious and Improbable Return",
-      "quote": "The brothers Noel and Liam Gallagher bring us along on their 2025 reunion tour in this concert documentary premiering in Venice before its debut on Disney+.",
-      "publisher": "The Hollywood Reporter",
-      "author": "Richard Lawson",
-      "date": "2026-09-05T19:35:00+00:00",
-      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/oasis-dont-look-back-in-anger-review-documentary-1236691730/",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
       "id": "7f6e11dddfbebfc3",
       "title": "Oasis: Don’t Look Back in Anger review – mammoth tour movie brings the joy and poignancy of reunion",
       "quote": "The Gallagher brothers’ comeback concerts are given the full fan-worship treatment, but it’s impossible to begrudge the euphoria they have created “Hello … hello … It’s good to be back.” With these words – and the…",
@@ -524,17 +590,6 @@
       "link": "https://www.avclub.com/ben-mckenzie-oc-revival",
       "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/04/14114859/everyones-lying-to-you-for-money-header.jpg",
       "category": "Indie Gems"
-    },
-    {
-      "id": "448ebf3dd86d512d",
-      "title": "‘It Will Happen Tonight’ Review: Louis Garrel and Jasmine Trinca Follow Each Other Through the Years In a Light and Predictable Romcom",
-      "quote": "Not everything labeled “old-fashioned” needs to carry negative connotations. A handwritten letter, your grandma’s rice pudding, the cocktail — all nice old-fashioned things. But the moment Alberto Iglesias’ sweet music…",
-      "publisher": "Variety",
-      "author": "Guy Lodge",
-      "date": "2026-09-05T17:15:00+00:00",
-      "link": "https://variety.com/2026/film/reviews/it-will-happen-tonight-review-1236852720/",
-      "image": "https://variety.com/wp-content/uploads/2026/09/It-Will-Happen-Tonight.jpg",
-      "category": "World Cinema"
     },
     {
       "id": "915d8481587c5e3d",
@@ -570,28 +625,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "fe6bf3eee2f88e97",
-      "title": "Robert Pattinson says he had ‘twice as much time’ after birth of first child",
-      "quote": "Actor says of busy 2026 in which he has had several big roles: ‘Once you start spinning plates, it gets quite addictive’ Robert Pattinson has talked about the “addictive” nature of working on several films…",
-      "publisher": "The Guardian",
-      "author": "Philip Oltermann in Venice",
-      "date": "2026-09-05T14:42:37+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/05/robert-pattinson-venice-film-festival-primetime-odyssey-dune",
-      "image": "https://i.guim.co.uk/img/media/43692c0f9aa90da237854870883d6f7776d3d296/620_76_2131_1705/master/2131.jpg?width=140&quality=85&auto=format&fit=max&s=8bfb87ae51ae077cc0607016b5e596b2",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "1730d5132659a135",
-      "title": "‘I don’t like the term neurodivergence – it sounds like political correctness’: Werner Herzog on fans, fanaticism and baby foxes",
-      "quote": "The Bavarian auteur talks directing Kate and Rooney Mara in Bucking Fastard and his popularity on Instagram In outsider visionaries such as Aguirre, Fitzcarraldo or Timothy Treadwell, renegade German director Werner…",
-      "publisher": "The Guardian",
-      "author": "Philip Oltermann in Venice",
-      "date": "2026-09-05T12:15:04+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/05/werner-herzog-bucking-fastard-kate-rooney-mara",
-      "image": "https://i.guim.co.uk/img/media/7484afeb58539a9eb48f787f74282aa8895fa8a9/397_0_3931_3143/master/3931.jpg?width=140&quality=85&auto=format&fit=max&s=cb5db09a4e3a417e6100460cb119cd24",
-      "category": "Festival Winners"
-    },
-    {
       "id": "8f267db8ff44a65d",
       "title": "Mohanlal and Vishnu Mohan's film gets titled 'Operation Ganga'",
       "quote": "‘Operation Ganga’ refers to India’s evacuation mission launched to bring back Indian citizens, including thousands of students, who were stranded in Ukraine following the outbreak of the Russia-Ukraine war.",
@@ -601,28 +634,6 @@
       "link": "https://www.thehindu.com/entertainment/movies/mohanlal-and-vishnu-mohans-film-gets-titled-operation-ganga/article71431719.ece",
       "image": "https://th-i.thgim.com/public/entertainment/movies/5fus8f/article71431738.ece/alternates/LANDSCAPE_1200/cvr%2069.jpg",
       "category": "Indian Cinema"
-    },
-    {
-      "id": "82971f7c7b8f7012",
-      "title": "Take this job and…: 17 films that extol the virtues of anti-work",
-      "quote": "This Labor Day, celebrate with 17 movies that remind us that we work to live, not the other way around.",
-      "publisher": "The A.V. Club",
-      "author": "The A.V. Club",
-      "date": "2026-09-05T11:00:12+00:00",
-      "link": "https://www.avclub.com/inventory-labor-day-17-anti-work-movies",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/03010025/Antiwork-header2.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "30c4bf96e590ff5f",
-      "title": "Zach Cregger still regrets his first film: \"I made a bad movie and I suffered for it\"",
-      "quote": "Describing 2009 sex comedy <i>Miss March</i>, which he made with long-time comedy buddy Trevor Moore, Cregger said, \"I wasted a year of my life.\"",
-      "publisher": "The A.V. Club",
-      "author": "William Hughes",
-      "date": "2026-09-05T00:25:58+00:00",
-      "link": "https://www.avclub.com/zach-cregger-miss-march-bad-movie-and-i-suffered-for-it",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/04201731/miss-march-cregger-moore-feature.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "32de7bfe151d60d5",
@@ -698,17 +709,6 @@
       "author": "Juan Barquin",
       "date": "2026-09-04T13:00:00+00:00",
       "link": "https://www.rogerebert.com/reviews/chronovisor-movie-review-2026",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "994fa80b526e1d88",
-      "title": "Dear You",
-      "quote": "An arresting and surprisingly sensitive window into the past.",
-      "publisher": "RogerEbert.com",
-      "author": "Simon Abrams",
-      "date": "2026-09-04T13:00:00+00:00",
-      "link": "https://www.rogerebert.com/reviews/dear-you-film-review-2026",
       "image": null,
       "category": "World Cinema"
     },
