@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T21:24:03.839675+00:00",
+  "generated_at": "2026-09-08T04:10:30.043501+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -8,6 +8,127 @@
     "Indie Gems"
   ],
   "reviews": [
+    {
+      "id": "188cbfe89adf6b6a",
+      "title": "The Talk Of Telluride: Secret Screening Of Elizabeth Holmes Documentary ‘You Can See Everything’",
+      "quote": "Telluride chief Julie Huntsinger took a significant risk programming a documentary as the festival’s sneak premiere this year, given that nonfiction can’t claim the broad appeal of fiction. Indeed, just as she prepared…",
+      "publisher": "Deadline",
+      "author": "Matthew Carey",
+      "date": "2026-09-08T03:51:27+00:00",
+      "link": "https://deadline.com/2026/09/elizabeth-holmes-documentary-you-can-see-everything-telluride-reaction-1237070550/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Holmes.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "98af3c57b03e9bc2",
+      "title": "Space Force Uniform Is Inspired By Quasi-Satirical Film ‘Starship Troopers’",
+      "quote": "Among a flurry of posts this weekend, Donald Trump revealed the service dress uniform designs for his Space Force. Without additional comment, the president shared photos and an overview of the uniforms on Truth Social…",
+      "publisher": "Deadline",
+      "author": "Tomt",
+      "date": "2026-09-08T01:10:21+00:00",
+      "link": "https://deadline.com/2026/09/space-force-uniform-starship-troopers-1237070485/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/MCDSTTR_EC054.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "7a44057ab4c83a88",
+      "title": "Hope",
+      "quote": "This bloody, motoring adventure relishes the unease it places on the audience.",
+      "publisher": "RogerEbert.com",
+      "author": "Robert Daniels",
+      "date": "2026-09-07T23:37:07+00:00",
+      "link": "https://www.rogerebert.com/reviews/hope-na-jong-hin-movie-review-2026",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "8b45fa378e241139",
+      "title": "A Sci-Fi Legend Directed More Gilligan's Island Episodes Than Anyone Else",
+      "quote": "Several renowned directors worked on Gilligan's Island, with one particularly accomplished sci-fi filmmaker helming more episodes than anyone else.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Joe Roberts)",
+      "date": "2026-09-07T23:30:00+00:00",
+      "link": "https://www.slashfilm.com/2251000/sci-fi-legend-jack-arnold-directed-most-gilligans-island-episodes/",
+      "image": "https://www.slashfilm.com/img/gallery/a-sci-fi-legend-directed-more-gilligans-island-episodes-than-anyone-else/l-intro-1788529332.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "4eb51358a9217cbf",
+      "title": "Screen Legend Burt Reynolds Voiced An Alien In One Of TV's Weirdest Ever Sitcoms",
+      "quote": "The 1980s were chock-full of television oddities, like this sci-fi sitcom that featured Burt Reynolds in an uncredited voice role.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Joe Roberts)",
+      "date": "2026-09-07T23:00:00+00:00",
+      "link": "https://www.slashfilm.com/2251473/burt-reynolds-alien-tv-sitcom-out-of-this-world/",
+      "image": "https://www.slashfilm.com/img/gallery/screen-legend-burt-reynolds-voiced-an-alien-in-one-of-tvs-weirdest-ever-sitcoms/l-intro-1788552204.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "321dda61d88a472b",
+      "title": "Andrew Garfield Hopes ‘The Uprising’ Makes Billionaires “Scared Sh*tless”: “They’re The Most Soul Sick”",
+      "quote": "As Andrew Garfield portrays the ultimate folk hero in The Uprising, he hopes it serves as a warning for the kings of our time. The 2x Oscar nominee, whose character Ploughman is inspired by the legend of Robin Hood in…",
+      "publisher": "Deadline",
+      "author": "Glenn Garner",
+      "date": "2026-09-07T22:33:26+00:00",
+      "link": "https://deadline.com/2026/09/andrew-garfield-hopes-uprising-billionaires-scared-shtless-1237070457/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/The-Uprising.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "62f6df3538ded922",
+      "title": "Who Plays Kerry Kane On Lanterns",
+      "quote": "Sheriff Kerry Kane might be the third wheel on Lanterns, but she's played by an actor who's led quite the noteworthy career.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Devin Meenan)",
+      "date": "2026-09-07T22:00:00+00:00",
+      "link": "https://www.slashfilm.com/2252068/sheriff-kerry-kane-lanterns-hbo-actress-kelly-macdonald/",
+      "image": "https://www.slashfilm.com/img/gallery/who-plays-kerry-kane-on-lanterns/l-intro-1788786335.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "1b7d5a696a2d8b3e",
+      "title": "‘Hombre Al Agua’ Review: Gael García Bernal’s Chaotic Mexican Dramedy Has a Hard Time Staying Above Water",
+      "quote": "The star of 'Amores Perros' and 'Y tu mamá tambíen' directs and acts in a midlife crisis flick about a Cuban émigré in Mexico trying to hold onto his family, career and sanity.",
+      "publisher": "The Hollywood Reporter",
+      "author": "Jordan Mintzer",
+      "date": "2026-09-07T21:56:51+00:00",
+      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/hombre-al-agua-review-gael-garcia-bernal-1236693204/",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "e296a97b2fef8cfd",
+      "title": "‘Adults’ Star Malik Elassal Wants Zohran Mamdani For Season 3 Cameo: “We Have Mutuals”",
+      "quote": "As Adults fans await a Season 3 renewal, the roommates could be getting a new neighbor if the hit FX series returns. Malik Elassal, who stars as Samir in the Queens-set Gen Z sitcom, nominated NYC Mayor Zohran Mamdani…",
+      "publisher": "Deadline",
+      "author": "Glenn Garner",
+      "date": "2026-09-07T21:56:38+00:00",
+      "link": "https://deadline.com/2026/09/adults-malik-elassal-wants-zohran-mamdani-season-3-cameo-1237070454/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Adults-Malik-Elassal-Zohran-Mamdani-2-shot.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "0602265bf655ea80",
+      "title": "‘No Paradise If You Are Killed by a Woman’ Review: Iraq’s Oscar Submission Offers a Patriotic Anthem to the Kurdish Peshmerga’s Fight Against Islamic State",
+      "quote": "The trope of the lone action hero with near-superhuman strength gets a gender switch in “No Paradise If You Are Killed By A Woman,” a visually impressive drama about a resourceful female Peshmerga sniper. Although…",
+      "publisher": "Variety",
+      "author": "Alissasimon",
+      "date": "2026-09-07T21:50:00+00:00",
+      "link": "https://variety.com/2026/film/reviews/no-paradise-if-you-are-killed-by-a-woman-review-1236852895/",
+      "image": "https://variety.com/wp-content/uploads/2026/09/01_Official_Stills_NO_PARADISE_IF_YOU_ARE_KILLED_BY_A_WOMAN_.jpeg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "2d2087efa07c63e8",
+      "title": "Macklemore Emphasizes “Free Palestine” Pleas Are “In No Way A Criticism” Of Jewish People: “My Message Is For Peace”",
+      "quote": "Macklemore is making his stance clear as he doubles down on his onstage “Free Palestine” pleas during Ed Sheeran’s Loop Tour. While opening for night two of Sheeran’s New Jersey stop at MetLife Stadium on Saturday, the…",
+      "publisher": "Deadline",
+      "author": "Glenn Garner",
+      "date": "2026-09-07T21:33:06+00:00",
+      "link": "https://deadline.com/2026/09/macklemore-free-palestine-in-no-way-criticism-jewish-people-1237070434/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2153054097.jpg",
+      "category": "World Cinema"
+    },
     {
       "id": "0fe62c344b010fcb",
       "title": "‘Musk’ Teaser-Trailer: World’s Richest Man Called “Chaotic, Capricious,” “Manifestly Cruel And Selfish” In Damning Alex Gibney Doc",
@@ -18,6 +139,17 @@
       "link": "https://deadline.com/2026/09/musk-documentary-teaser-trailer-1237070036/",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Musk-courtesy-Venice-Film-Festival.png",
       "category": "World Cinema"
+    },
+    {
+      "id": "fa58b3501fc407c7",
+      "title": "5 Best Dark Adventure Movies, Ranked",
+      "quote": "Adventure films are typically full of excitement and wonder, but these five movies put a darker and more sinister spin on the genre.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Rafael Motamayor)",
+      "date": "2026-09-07T21:00:00+00:00",
+      "link": "https://www.slashfilm.com/2251406/best-dark-adventure-movies-ranked/",
+      "image": "https://www.slashfilm.com/img/gallery/5-best-dark-adventure-movies-ranked/l-intro-1788548475.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "c8ab5c1df3d88cd1",
@@ -53,17 +185,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "4091732ba9573ec3",
-      "title": "20th Century’s ‘Whalefall’ Producers Reflect On Shooting In California: “The Best Creative Teams Are Here”",
-      "quote": "In a time when many film and television productions shoot in other states or countries despite having their roots of development in Hollywood, 20th Century Studios has taken a big swing with its upcoming feature…",
-      "publisher": "Deadline",
-      "author": "Dessi Gomez",
-      "date": "2026-09-07T20:30:00+00:00",
-      "link": "https://deadline.com/2026/09/whalefall-production-california-producers-interview-1236528267/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Screenshot-2026-09-02-at-12.52.20-PM-e1788803019167.png",
-      "category": "World Cinema"
-    },
-    {
       "id": "72461ddf4dc0e960",
       "title": "Silo Author Hugh Howey Has Two Cameos In The Apple TV Series That You Might've Missed",
       "quote": "Silo fans should keep an eye on the background actors, because author Hugh Howey has made two cameo appearances in the series.",
@@ -73,50 +194,6 @@
       "link": "https://www.slashfilm.com/2251839/silo-hugh-howey-apple-tv-series-cameo/",
       "image": "https://www.slashfilm.com/img/gallery/silo-author-hugh-howey-has-two-cameos-in-the-apple-tv-series-that-you-mightve-missed/l-intro-1788710366.jpg",
       "category": "Indie Gems"
-    },
-    {
-      "id": "538a765f75648be7",
-      "title": "Venice Film Festival 2026: Read All Of Deadline’s Reviews",
-      "quote": "The 2026 Venice Film Festival got underway on Wednesday, September 2, with Oscar-winning English director Danny Boyle’s Ink — starring Jack O’Connell, Guy Pearce and Claire Foy — kicking off an 83rd edition that…",
-      "publisher": "Deadline",
-      "author": "Erik Pedersen",
-      "date": "2026-09-07T19:46:17+00:00",
-      "link": "https://deadline.com/2026/09/venice-film-festival-2026-reviews-deadline-1237065820/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Venice-Film-Festival-Reviews-2026.jpg",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "41722dadc2c84d99",
-      "title": "Director Pawo Choyning Dorji, Cellist Yo-Yo Ma Team On ‘A Song For The Snow Lion’ Set In Himalayas Of Bhutan – Telluride Film Festival",
-      "quote": "The catastrophic flash floods in Nepal show the extreme peril posed by melting glacial ice in the Himalayas. The death toll stands at more than 1,300 after the August 26 disaster triggered by the collapse of a section…",
-      "publisher": "Deadline",
-      "author": "Matthew Carey",
-      "date": "2026-09-07T19:45:24+00:00",
-      "link": "https://deadline.com/2026/09/a-song-for-the-snow-lion-interview-pawo-choyning-dorji-cellist-yo-yo-ma-1237070339/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/ASongfortheSnowLion-22.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "6b3739a72abb1afb",
-      "title": "Ellen Burstyn Talks Future Direction Of U.S. As She Receives Venice Career Award: “I Pray My Country Finds Its White Line”",
-      "quote": "Jury President Maggie Gyllenhaal paid tribute to the “brilliant and brave” Ellen Burstyn as she presented the Oscar-winning actress with a Golden Lion for Lifetime Achievement at the Venice Film Festival on Monday…",
-      "publisher": "Deadline",
-      "author": "Nada Aboul Kheir",
-      "date": "2026-09-07T19:45:18+00:00",
-      "link": "https://deadline.com/2026/09/ellen-burstyn-venice-lifetime-award-future-us-1237070152/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/MAB_5965-e1788801699945.jpg",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "6bbb858ed2794e20",
-      "title": "Telluride Film Festival 2026: Read All Of Deadline’s Reviews",
-      "quote": "The 2026 Telluride kicked off Friday, September 5, in Colorado and runs through Labor Day. The 53rd edition of the fest kicks off with first-day films including seven-time Oscar nominee Mike Leigh’s Tender Loving Care…",
-      "publisher": "Deadline",
-      "author": "Erik Pedersen",
-      "date": "2026-09-07T19:31:52+00:00",
-      "link": "https://deadline.com/2026/09/telluride-film-festival-2026-reviews-deadline-1237068524/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Telluride-Film-Festival-2026.jpg",
-      "category": "Festival Winners"
     },
     {
       "id": "b6aa7d1fa97008d1",
@@ -141,17 +218,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "0911b7908d361265",
-      "title": "Ryan Gosling And A Scrubs Star Were In An Obscure '90s Western Series",
-      "quote": "Ryan Gosling's pre-Hollywood career is full of Canadian-produced gems, like this Western series co-starring Sarah Chalke.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Witney Seibold)",
-      "date": "2026-09-07T18:45:00+00:00",
-      "link": "https://www.slashfilm.com/2250821/ryan-gosling-sarah-chalke-western-series-nothing-too-good-for-a-cowboy/",
-      "image": "https://www.slashfilm.com/img/gallery/ryan-gosling-and-a-scrubs-star-were-in-an-obscure-90s-western-series/l-intro-1788478198.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "47048eb3cfe6da60",
       "title": "‘Look Back’ Review: Once Past the Over- Preciousness of a Child’s World, Hirokazu Kore-eda’s Manga Adaptation Becomes a Moving Tribute to Friendship",
       "quote": "There’s barely an adult in sight in Hirokazu Kore-eda’s “Look Back,” where anyone out of school age is marginalized practically to the point of superfluidity. Like much in the first half of this sweet — at times too…",
@@ -161,17 +227,6 @@
       "link": "https://variety.com/2026/film/reviews/look-back-review-1236854197/",
       "image": "https://variety.com/wp-content/uploads/2026/09/ルックバック-LOOK-BACK-Natsuki-Deguchi-and-Aju-Makita.jpg",
       "category": "World Cinema"
-    },
-    {
-      "id": "27a47421120288ac",
-      "title": "Before Gilligan's Island, Jim Backus And Alan Hale Jr. Starred In A Western Together",
-      "quote": "Two stars of Gilligan's Island both appeared in a Western film that debuted just a few months before their hit comedy show.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-09-07T17:45:00+00:00",
-      "link": "https://www.slashfilm.com/2250809/gilligans-island-jim-backus-alan-hale-jr-western-advance-to-the-rear/",
-      "image": "https://www.slashfilm.com/img/gallery/months-before-gilligans-island-jim-backus-and-alan-hale-jr-starred-in-this-western/l-intro-1788474248.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "b1aae88fd809e750",
@@ -185,6 +240,17 @@
       "category": "World Cinema"
     },
     {
+      "id": "7696233b4e938181",
+      "title": "The Spiral review – Valeria Bruni Tedeschi is hilarious as a demon cutting a deal with a vain matriarch",
+      "quote": "Venice film festival: Tedeschi gives a career best performance as the mysterious stranger who visits a wealthy Italian family to prey on their pampered weaknesses Everyone in the movie business has earnestly learned to…",
+      "publisher": "The Guardian",
+      "author": "Peter Bradshaw in Venice",
+      "date": "2026-09-07T17:30:13+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/07/the-spiral-review-valeria-bruni-tedeschi-venice-film-festival",
+      "image": "https://i.guim.co.uk/img/media/3b7fd30bd256acb8a242f38038adc9f6ee653a42/378_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=06889b2fde43f38119536752725bfb4d",
+      "category": "Festival Winners"
+    },
+    {
       "id": "c05e874d413ec3aa",
       "title": "‘The Spiral’ Review: Paolo Strippoli’s Lurid Faustian Tragedy Shores Up His Reputation as Italy’s New Horror Virtuoso",
       "quote": "We don’t get a close enough look to see if the Devil actually wears Prada, but regardless, in Paolo Strippoli’s new horror romp “The Spiral,” she’s very chicly turned out indeed: Cool, crisp and collected in a tightly…",
@@ -194,6 +260,17 @@
       "link": "https://variety.com/2026/film/reviews/the-spiral-review-1236854031/",
       "image": "https://variety.com/wp-content/uploads/2026/09/117864-L_ESTRANEA__THE_SPIRAL__-_Actress_Valeria_Bruni_Tedeschi__Credits_Paolo_Ciriello_-1.jpg",
       "category": "World Cinema"
+    },
+    {
+      "id": "358cc4b2947a3208",
+      "title": "The Pervert’s Guide to Utopias review – Slavoj Žižek goes in search of paradise",
+      "quote": "Venice film festival: Inserting himself into settings from Apocalypse Now to The Handmaid’s Tale, the pop-cultural critic finds it hard to locate the perfect ending – even with spoilers The great pop-cultural critic and…",
+      "publisher": "The Guardian",
+      "author": "Peter Bradshaw in Venice",
+      "date": "2026-09-07T16:31:22+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/07/the-perverts-guide-to-utopias-review-slavoj-zizek-goes-in-search-of-paradise",
+      "image": "https://i.guim.co.uk/img/media/b1a8d305d52c4a3613b8ef9c4cec346df4b28100/570_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=64034c871f3675fd9accc02749ec922a",
+      "category": "Festival Winners"
     },
     {
       "id": "bfb2d8c9029b0029",
@@ -207,25 +284,14 @@
       "category": "Indian Cinema"
     },
     {
-      "id": "161a9755fad24c78",
-      "title": "George R. R. Martin's A Song Of Ice And Fire Books, Ranked",
-      "quote": "George R.R. Martin's A Song of Ice and Fire saga may never be finished, but we're ranking the five books that have been published so far.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Devin Meenan)",
-      "date": "2026-09-07T16:00:00+00:00",
-      "link": "https://www.slashfilm.com/2251890/george-rr-martin-song-of-ice-and-fire-game-of-thrones-books-ranked/",
-      "image": "https://www.slashfilm.com/img/gallery/george-r-r-martins-a-song-of-ice-and-fire-books-ranked/l-intro-1788738031.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "2515916b399d03f0",
-      "title": "Aaron Taylor-Johnson's 96-Minute Heist Movie Is Officially HBO Max's Biggest Streaming Hit",
-      "quote": "Folks are flocking to this Aaron Taylor-Johnson-lest heist movie on HBO Max, giving the underseen film a second shot at finding its audience.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Rafael Motamayor)",
-      "date": "2026-09-07T15:46:22+00:00",
-      "link": "https://www.slashfilm.com/2252172/aaron-taylor-johnson-heist-movie-fuze-streaming-hbo-max-september-2026/",
-      "image": "https://www.slashfilm.com/img/gallery/aaron-taylor-johnsons-96-minute-heist-movie-is-officially-hbo-maxs-biggest-streaming-hit/l-intro-1788795679.jpg",
+      "id": "9f26a0739caf7edf",
+      "title": "A labor of laughs: The evolution of sitcom births in 18 episodes",
+      "quote": "From I Love Lucy to St. Denis Medical, we unpack the transformation of a sitcom staple.",
+      "publisher": "The A.V. Club",
+      "author": "The A.V. Club",
+      "date": "2026-09-07T16:00:02+00:00",
+      "link": "https://www.avclub.com/sitcom-childbirth-episodes-i-love-lucy-friends-simpsons-murphy-brown",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/06234340/MixCollage-06-Sep-2026-09-56-PM-151.jpg",
       "category": "Indie Gems"
     },
     {
@@ -260,6 +326,17 @@
       "link": "https://www.hollywoodreporter.com/movies/movie-reviews/you-can-see-everything-review-elizabeth-holmes-a24-1236692981/",
       "image": null,
       "category": "World Cinema"
+    },
+    {
+      "id": "78b15c22244d76c5",
+      "title": "No, seriously, what is Peter Parker's job in Spider-Man: Brand New Day?",
+      "quote": "Peter Parker struggling to make ends meet is one of his most relatable traits, which makes its absence all the sadder in Brand New Day.",
+      "publisher": "The A.V. Club",
+      "author": "Jarrod Jones",
+      "date": "2026-09-07T14:00:13+00:00",
+      "link": "https://www.avclub.com/spider-man-brand-new-day-peter-parker-what-is-your-job",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/04101650/spidey-job-header.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "575c54ba15aa82d0",
@@ -405,6 +482,28 @@
       "category": "Indian Cinema"
     },
     {
+      "id": "72b2c6413f92a8ba",
+      "title": "Happy Labor Day from The A.V. Club",
+      "quote": "",
+      "publisher": "The A.V. Club",
+      "author": "Drew Gillis",
+      "date": "2026-09-07T11:00:53+00:00",
+      "link": "https://www.avclub.com/happy-labor-day-2026",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2024/08/30165405/MixCollage-30-Aug-2024-04-53-PM-2416.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "b4ee2a421a6b7239",
+      "title": "Na Hong-jin's strange, epic-length sci-fi creature feature should give genre fans Hope",
+      "quote": "Elements of Na Hong-jin's sci-fi creature feature Hope are reminiscent of Predator and Avatar, but it's stranger than any mere mash-up.",
+      "publisher": "The A.V. Club",
+      "author": "Jesse Hassenger",
+      "date": "2026-09-07T11:00:21+00:00",
+      "link": "https://www.avclub.com/hope-review",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/01152809/Hope.jpg",
+      "category": "Indie Gems"
+    },
+    {
       "id": "62ac0b99fcb18c28",
       "title": "The poisoned umbrella that pointed to a KGB murder",
       "quote": "A 1978 killing is one of the great unsolved mysteries of the Cold War",
@@ -449,17 +548,6 @@
       "category": "Festival Winners"
     },
     {
-      "id": "5aa1be03d154b3fe",
-      "title": "‘Swiftly enchanted’: why Bedknobs and Broomsticks is my feelgood movie",
-      "quote": "The latest in our series of writers recommending their most rewatched comfort films is a reminder that Disney’s kids fantasy is more than a Mary Poppins knock-off “ Filigree, apogee, pedigree, perigee !” – the four…",
-      "publisher": "The Guardian",
-      "author": "Gary Ryan",
-      "date": "2026-09-07T09:00:30+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/07/bedknobs-and-broomsticks-feelgood-movie",
-      "image": "https://i.guim.co.uk/img/media/29ad25cfa18de7b93de2986fc86b55abdbc8fd9c/651_598_3801_3040/master/3801.jpg?width=140&quality=85&auto=format&fit=max&s=26f0871482ab73d9a77ad402aedaf3a6",
-      "category": "World Cinema"
-    },
-    {
       "id": "e972708030937076",
       "title": "Okurimono review – a heartbreaking dispatch from survivors of the Nagasaki bomb",
       "quote": "Laurence Lévesque’s powerful documentary follows a woman who discovers a support network among her mother’s generation of survivors of the nuclear blast No words are spoken during the first five minutes of Laurence…",
@@ -490,28 +578,6 @@
       "date": "2026-09-07T06:41:08+00:00",
       "link": "https://variety.com/2026/film/reviews/into-the-breach-review-1236853740/",
       "image": "https://variety.com/wp-content/uploads/2026/09/Into-the-Breach-set.webp",
-      "category": "World Cinema"
-    },
-    {
-      "id": "4062a233c58e305a",
-      "title": "Unidentified Murder review – playful sendup of alien abduction and true crime influencers in Hong Kong",
-      "quote": "Childhood friends claim to have witnessed the disappearance of a schoolkid in this low-budget comedy caper that pushes limits of storytelling Modestly scaled and intricately structured, Kwok Ka-Hei and Jack Lee…",
-      "publisher": "The Guardian",
-      "author": "Phuong Le",
-      "date": "2026-09-07T06:00:28+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/07/unidentified-review-playful-sendup-of-alien-abduction-and-true-influencers-in-hong-kong",
-      "image": "https://i.guim.co.uk/img/media/c83195ff14924333403a87231103899602412cec/180_0_1800_1440/master/1800.jpg?width=140&quality=85&auto=format&fit=max&s=a3537c8f56f16a0a684ecbd4793bfe22",
-      "category": "World Cinema"
-    },
-    {
-      "id": "8ccc2c7f98e97772",
-      "title": "‘Making Marie Antoinette’ Review: The Late Eleanor Coppola’s Doc on Her Daughter’s Film is Full of Gorgeous Details and Maternal Affection",
-      "quote": "With its lush costumes, decadent food spreads and playfully anachronistic soundtrack, Sofia Coppola’s gorgeous 2006 film “Marie Antoinette” is a phenomenon of the aughts, a kaleidoscopic yet emotionally dark foray into…",
-      "publisher": "Variety",
-      "author": "Tomilaffly",
-      "date": "2026-09-07T05:27:34+00:00",
-      "link": "https://variety.com/2026/film/reviews/making-marie-antoinette-review-1236851653/",
-      "image": "https://variety.com/wp-content/uploads/2026/09/MA_800dpi_18_Credit_Sofia-Coppola.jpg",
       "category": "World Cinema"
     },
     {
@@ -581,17 +647,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "224573f6de126997",
-      "title": "‘Making Marie Antoinette’ Review: Eleanor Coppola’s Chronicle of Daughter Sofia Shooting Her 2006 Biopic Makes for a Sublime Collaboration of Talents",
-      "quote": "Premiering at Telluride, the doc will be pure catnip for fans of the Kirsten Dunst-starring film in all its candy-colored, New Romantic, defiantly anachronistic glory.",
-      "publisher": "The Hollywood Reporter",
-      "author": "Leslie Felperin",
-      "date": "2026-09-06T15:03:55+00:00",
-      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/making-marie-antoinette-sofia-coppola-eleanor-coppola-1236692038/",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
       "id": "ccc0a1a5f3143ba2",
       "title": "AVQ&A: What's your personal song of the summer?",
       "quote": "The radio may have chosen Texas, but we at The A.V. Club took a different approach to soundtracking our summer.",
@@ -622,50 +677,6 @@
       "date": "2026-09-05T22:20:55+00:00",
       "link": "https://www.avclub.com/kid-cudi-reunites-with-kanye-west-performance",
       "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/05181548/kanye-cudi-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "1ca39380f8c292a4",
-      "title": "Dungeons And Dragons directors still holding out hope they can roll up another movie",
-      "quote": "Cue the jokes about how insanely difficult it is to schedule a second session of a <i>D&D</i> game.",
-      "publisher": "The A.V. Club",
-      "author": "William Hughes",
-      "date": "2026-09-05T21:08:03+00:00",
-      "link": "https://www.avclub.com/dungeons-and-dragons-2-shopping-around",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/05170001/mimic.jpg",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "21e594003a75b47b",
-      "title": "Everything looks sticky and nobody says \"vampire\" in the trailer for Disney+ and Hulu's City Of Blood",
-      "quote": "The German import series sees two sisters try to survive in a Berlin secretly run by bloodsuckers.",
-      "publisher": "The A.V. Club",
-      "author": "William Hughes",
-      "date": "2026-09-05T19:39:19+00:00",
-      "link": "https://www.avclub.com/city-of-blood-trailer",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/05153211/city-of-blood-trailer.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "dd99799a4ccbb5a8",
-      "title": "Ben McKenzie says yeah, sure, you could talk him into an O.C. revival",
-      "quote": "A cheerful McKenzie clearly knows he's got to pay the Ryan Atwood tax every time he wants to promote his anti-crypto documentary.",
-      "publisher": "The A.V. Club",
-      "author": "William Hughes",
-      "date": "2026-09-05T18:31:24+00:00",
-      "link": "https://www.avclub.com/ben-mckenzie-oc-revival",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/04/14114859/everyones-lying-to-you-for-money-header.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "915d8481587c5e3d",
-      "title": "Robert Pattinson hopes Chris Hansen will take his Primetime performance as a compliment",
-      "quote": "Pattinson actually has a lot of nice things to say about Hansen, calling him \"magnetic\" in his early <i>To Catch A Predator</i> appearances.",
-      "publisher": "The A.V. Club",
-      "author": "William Hughes",
-      "date": "2026-09-05T16:53:44+00:00",
-      "link": "https://www.avclub.com/robert-pattinson-hopes-chris-hansen-primetime-performance-compliment",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/05124629/pattinson-primetime-feature.jpg",
       "category": "Indie Gems"
     },
     {
@@ -720,17 +731,6 @@
       "author": "Clint Worthington",
       "date": "2026-09-04T13:04:31+00:00",
       "link": "https://www.rogerebert.com/reviews/by-any-means-mark-wahlberg-yahya-abdul-mateen-ii-movie-review-2026",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "18717a38fe96eb81",
-      "title": "Barbara Forever",
-      "quote": "Aremarkable collaboration between queer filmmakers past and present, and a testament to the impact of trailblazing.",
-      "publisher": "RogerEbert.com",
-      "author": "Peyton Robinson",
-      "date": "2026-09-04T13:00:00+00:00",
-      "link": "https://www.rogerebert.com/reviews/barbara-forever-documentary-film-review-2026",
       "image": null,
       "category": "World Cinema"
     },
