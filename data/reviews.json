@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T11:02:32.200698+00:00",
+  "generated_at": "2026-09-08T16:27:37.203480+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -8,6 +8,336 @@
     "Indie Gems"
   ],
   "reviews": [
+    {
+      "id": "67e03de6e1a28078",
+      "title": "‘Artificial’ Teaser Trailer Shows Andrew Garfield As Sam Altman In Luca Guadagnino Film",
+      "quote": "Neon on Monday released the teaser trailer for Artificial, the Luca Guadagnino-directed movie that centers on Sam Altman and a key, tumultuous time at his company, Chat GTP creator OpenAI. The footage reveals Andrew…",
+      "publisher": "Deadline",
+      "author": "Patrick Hipes",
+      "date": "2026-09-08T16:24:27+00:00",
+      "link": "https://deadline.com/2026/09/artificial-trailer-andrew-garfield-luca-guadagnino-1237070971/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Artificial.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "361c2b3acf789dfd",
+      "title": "Remain Trailer: Horror Master M. Night Shyamalan Teams Up With Romance Maestro Nicholas Sparks",
+      "quote": "Jake Gyllenhaal and Phoebe Dynevor enter a supernatural romance from M. Night Shyamalan and Nicholas Sparks in the Remain trailer.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Chris Evangelista)",
+      "date": "2026-09-08T16:20:26+00:00",
+      "link": "https://www.slashfilm.com/2252821/remain-trailer-m-night-shyamalan-nicholas-sparks-movie/",
+      "image": "https://www.slashfilm.com/img/gallery/remain-trailer-horror-master-m-night-shyamalan-teams-up-with-romance-maestro-nicholas-sparks/l-intro-1788884298.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "abb8b16e71d03062",
+      "title": "Channel 4 “Deeply Saddened” By Death Of Employee Lolita Visa",
+      "quote": "Channel 4 has said it is “shocked and deeply saddened” by the death of Lolita Visa, a digital librarian who worked at the UK network for four years. Visa, known as Lola to her colleagues, died at the age of 32 in…",
+      "publisher": "Deadline",
+      "author": "Jake Kanter",
+      "date": "2026-09-08T16:02:59+00:00",
+      "link": "https://deadline.com/2026/09/channel-4-deeply-saddened-death-employee-lolita-visa-1237070923/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Screenshot-2026-09-08-at-16.39.35-e1788882064260.png",
+      "category": "World Cinema"
+    },
+    {
+      "id": "9bd8e5f710747c18",
+      "title": "‘Practical Magic 2’ Review: Sandra Bullock and Nicole Kidman Don’t Quite Cast a Spell in an Overlong, Predictable Sequel",
+      "quote": "As cumbersome and overlong as the 28-year wait between the 1998 original film and its sequel, “Practical Magic 2” serves as a next-generation reminder that sometimes the best way to let a beloved experience live on is…",
+      "publisher": "Variety",
+      "author": "Todd Gilchrist",
+      "date": "2026-09-08T16:00:00+00:00",
+      "link": "https://variety.com/2026/film/reviews/practical-magic-2-review-sandra-bullock-nicole-kidman-1236854379/",
+      "image": "https://variety.com/wp-content/uploads/2026/09/MCDPRMA_WB012.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "0cc9e78107016ca5",
+      "title": "‘Practical Magic 2’ Review: Sandra Bullock and Nicole Kidman Still Charm in a Slapdash Sequel That Doesn’t",
+      "quote": "Joey King, Maisie Williams and Lee Pace also star in the Susanne Bier-directed fantasy, which sees the Owens clan heading to the U.K. in an attempt to break the family's love curse.",
+      "publisher": "The Hollywood Reporter",
+      "author": "Angie Han",
+      "date": "2026-09-08T16:00:00+00:00",
+      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/practical-magic-2-review-sandra-bullock-nicole-kidman-1236687473/",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "91d70b0820f110c8",
+      "title": "UTA Signs Maxwell Jenkins In Competitive Pursuit Of ‘Scooby-Doo: Origins’ Star",
+      "quote": "EXCLUSIVE: UTA has signed Maxwell Jenkins, one of the stars of Netflix’s upcoming Scooby-Doo: Origins, for representation in all areas. We’re told this was a highly competitive situation spanning the Big 3 agencies and…",
+      "publisher": "Deadline",
+      "author": "Matthewgrobar",
+      "date": "2026-09-08T16:00:00+00:00",
+      "link": "https://deadline.com/2026/09/scooby-doo-origins-star-maxwell-jenkins-signs-uta-1237064203/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/image001.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "2ec2bbcbfc4d89bf",
+      "title": "Comedy Central’s ‘Drunk History’ Returning With Three New Short-Form Episodes This Fall",
+      "quote": "EXCLUSIVE: Drunk History is emerging from a long, inebriated slumber: Comedy Central has announced that its Emmy-winning educational comedy series from Derek Waters and Jeremy Konner is set to return this fall with…",
+      "publisher": "Deadline",
+      "author": "Matthewgrobar",
+      "date": "2026-09-08T16:00:00+00:00",
+      "link": "https://deadline.com/2026/09/drunk-history-new-episodes-debut-youtube-fall-1237070228/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/TCDDRHI_EC072.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "2f3e6fbe2609dbd8",
+      "title": "Practical Magic 2 Review: An Unfunny, Sloppily Assembled Sequel",
+      "quote": "Nostalgia isn't nearly enough to save Practical Magic 2, a messy, unfunny sequel that's had one too many margaritas. Here's our review.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Witney Seibold)",
+      "date": "2026-09-08T16:00:00+00:00",
+      "link": "https://www.slashfilm.com/2250623/practical-magic-2-review/",
+      "image": "https://www.slashfilm.com/img/gallery/practical-magic-2-review/l-intro-1788884131.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "cc8f95781a0e1f12",
+      "title": "Aaron Taylor-Johnson's 2026 Heist Movie With A White Lotus Star Is A Must-Watch On HBO Max",
+      "quote": "Aaron Taylor-Johnson has been having a heck of a run the last few years, and that includes this underrated heist movie you may have missed.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Joe Roberts)",
+      "date": "2026-09-08T16:00:00+00:00",
+      "link": "https://www.slashfilm.com/2251594/aaron-taylor-johnson-theo-james-heist-movie-fuze-streaming-hbo-max/",
+      "image": "https://www.slashfilm.com/img/gallery/aaron-taylor-johnsons-2026-heist-movie-with-a-white-lotus-star-is-a-must-watch-on-hbo-max/l-intro-1788560684.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "0e4864bcd7c8fc08",
+      "title": "Nintendo & Sony’s Live-Action Take Of Videogame ‘Zelda’ Gets Title",
+      "quote": "What’s the next big title from Sony after Spider-Man: Brand New Day? Why, it’s their co-production with Nintendo, the live action-take of video game Zelda, which got a title today, The Legend of Zelda. The Wes Ball…",
+      "publisher": "Deadline",
+      "author": "Anthonypauldalessandro",
+      "date": "2026-09-08T15:49:05+00:00",
+      "link": "https://deadline.com/2026/09/the-legend-of-zelda-release-date-nintendo-1237070910/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/The-Legend-of-Zelda-Logo_d18e03.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "af54b936b5577830",
+      "title": "France & Italy Among European Countries To Hit Record Admissions As Global Box Office Passed $4 Billion In August",
+      "quote": "Multiple territories in Europe and the Middle East clocked record admissions figures in August as the global box office passed $4 billion, according to a new report by the International Union of Cinemas (UNIC). UNIC’s…",
+      "publisher": "Deadline",
+      "author": "Zac Ntim",
+      "date": "2026-09-08T15:48:36+00:00",
+      "link": "https://deadline.com/2026/09/france-italy-record-admissions-box-office-4-billion-august-1237070940/",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/The-Odyssey.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "15186b10bf71a632",
+      "title": "Currents Management Signs ‘Love Is Blind’ & ‘The Bachelorette’ Stars And Hires JT Wolkiewicz",
+      "quote": "EXCLUSIVE: Currents Management has signed contestants from Love is Blind, The Bachelorette and Dancing with the Stars, and unveiled the hire of JT Wolkiewicz. The latest additions to the talent management company’s…",
+      "publisher": "Deadline",
+      "author": "Jesse Whittock",
+      "date": "2026-09-08T15:42:00+00:00",
+      "link": "https://deadline.com/2026/09/currents-management-unscripted-signings-jt-wolkiewicz-hire-1237066981/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Currents-signings.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "fc803776366d80a8",
+      "title": "Channel 4 Planning To Unveil “Deep” Job Cuts After Internal Review",
+      "quote": "Channel 4, the British broadcaster behind hits including The Great British Bake Off, is preparing to announce significant job cuts on Wednesday. Priya Dogra, the former Warner Bros. Discovery executive who became…",
+      "publisher": "Deadline",
+      "author": "Jake Kanter",
+      "date": "2026-09-08T15:30:49+00:00",
+      "link": "https://deadline.com/2026/09/channel-4-deep-job-cuts-internal-review-1237070859/",
+      "image": "https://deadline.com/wp-content/uploads/2025/12/GettyImages-1932727937-e1765219320919.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "df504fadd72d4215",
+      "title": "Elon Musk told ex-girlfriend he needed ‘a legion of children before the civil war’",
+      "quote": "Ashley St Clair was speaking at the Venice film premiere of Alex Gibney’s documentary Musk, where she warned of his dangerous influence • Musk review – epic study of the world’s richest and most banal man Elon Musk is…",
+      "publisher": "The Guardian",
+      "author": "Philip Oltermann in Venice",
+      "date": "2026-09-08T15:05:13+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/08/elon-musk-ashley-st-clair-documentary-venice",
+      "image": "https://i.guim.co.uk/img/media/4b10e778f19932f664888b0abb5b35a911e8b1ad/295_0_4425_3540/master/4425.jpg?width=140&quality=85&auto=format&fit=max&s=c4412a85d7bc073a237c14c6bd2d29de",
+      "category": "World Cinema"
+    },
+    {
+      "id": "06f86dc61f79214b",
+      "title": "‘Tenzing’ Review: Tom Hiddleston and Genden Phuntsok Lead Apple’s Staid Mount Everest Drama",
+      "quote": "Willem Dafoe co-stars in Jennifer Peedom's feature about the titular Sherpa and New Zealand mountaineer Edmund Hillary, who became the first humans to ascend the Himalayan summit in 1953.",
+      "publisher": "The Hollywood Reporter",
+      "author": "Angie Han",
+      "date": "2026-09-08T14:18:52+00:00",
+      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/tenzing-review-tom-hiddleston-apple-1236692409/",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "3edaa607d4257808",
+      "title": "Godzilla Minus Zero Trailer Teases A Bigger, Weirder Sequel",
+      "quote": "The big man is back and he's headed to London in the trailer for Godzilla Minus Zero, the sequel to Godzilla Minus One.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Jeremy Mathai)",
+      "date": "2026-09-08T14:10:06+00:00",
+      "link": "https://www.slashfilm.com/2252602/godzilla-minus-zero-trailer/",
+      "image": "https://www.slashfilm.com/img/gallery/godzilla-minus-zero-trailer/l-intro-1788877697.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "2e82ac2a796ab364",
+      "title": "Primetime",
+      "quote": "\"Primetime\" gets under your skin and stays there.",
+      "publisher": "RogerEbert.com",
+      "author": "Matt Zoller Seitz",
+      "date": "2026-09-08T14:00:18+00:00",
+      "link": "https://www.rogerebert.com/reviews/primetime-robert-pattinson-a24-film-review-2026",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "5a3a2fc20276a4c1",
+      "title": "Arnold Schwarzenegger's Classic '80s Fantasy Movie Is Waiting To Be Rediscovered On Netflix",
+      "quote": "Arnold Schwarzenegger's breakthrough role as a movie star came in this 1980s fantasy film that you can currently stream on Netflix.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Ryan Scott)",
+      "date": "2026-09-08T14:00:00+00:00",
+      "link": "https://www.slashfilm.com/2251566/arnold-schwarzenegger-80s-fantasy-movie-conan-the-barbarian-streaming-netflix/",
+      "image": "https://www.slashfilm.com/img/gallery/arnold-schwarzenegger-80s-fantasy-movie-conan-the-barbarian-streaming-netflix/l-intro-1788811725.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "dc7c91ccdac27cb2",
+      "title": "Fatherland",
+      "quote": "Elegantly told and rich in meaning, “Fatherland” is a beautifully derived piece of heartbreaking art.",
+      "publisher": "RogerEbert.com",
+      "author": "Robert Daniels",
+      "date": "2026-09-08T13:46:50+00:00",
+      "link": "https://www.rogerebert.com/reviews/fatherland-film-review-2026",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "6870817749d5a727",
+      "title": "State handouts, 10,000 lasers – and Trump’s election: six things we learned from the Elon Musk film",
+      "quote": "Alex Gibney’s marathon documentary delivers numerous eye-raising insights into the broligarch’s business deals, early idealism and apocalyptic appetite for fathering children Veteran documentarian Alex Gibney’s film…",
+      "publisher": "The Guardian",
+      "author": "Philip Oltermann in Venice",
+      "date": "2026-09-08T13:34:15+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/08/state-handouts-10000-lasers-and-trumps-election-six-things-we-learned-from-the-elon-musk-film",
+      "image": "https://i.guim.co.uk/img/media/eadca006ac0216857b3d535336559849b855320a/1625_570_934_748/master/934.jpg?width=140&quality=85&auto=format&fit=max&s=fd5d411ac64ad5e2a1b8ca0ab45136b5",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "bd1edfd7fce10506",
+      "title": "Tenzing",
+      "quote": "On the surface, it’s an adventure flick, but the story has spiritual and emotional depth that gives Tenzing’s life mission universal resonance.",
+      "publisher": "RogerEbert.com",
+      "author": "Cortlyn Kelly",
+      "date": "2026-09-08T13:00:00+00:00",
+      "link": "https://www.rogerebert.com/reviews/tenzing-film-review-2026",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "8308735be68178a8",
+      "title": "Tom Cruise's 116-Minute H. G. Wells Sci-Fi Movie Is An Apple TV Streaming Hit 21 Years Later",
+      "quote": "Tom Cruise teamed up with Steven Spielberg for this blockbuster adaptation of an H. G. Wells classic, and now it's a hit on Apple TV.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Chris Evangelista)",
+      "date": "2026-09-08T12:35:52+00:00",
+      "link": "https://www.slashfilm.com/2252499/tom-cruise-hg-wells-sci-fi-movie-streaming-apple-tv-september-2026/",
+      "image": "https://www.slashfilm.com/img/gallery/tom-cruises-116-minute-h-g-wells-sci-fi-movie-is-an-apple-tv-streaming-hit-21-years-later/l-intro-1788870799.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "f3481df2e8012158",
+      "title": "Musk review – epic study of the world’s richest and most banal man",
+      "quote": "Venice film festival: Alex Gibney interviews former colleagues, wives, the trillionaire’s father and a CG avatar in this absorbing documentary ‘Elon is a nuke.” The speaker is Ashley St Clair, a former conservative Maga…",
+      "publisher": "The Guardian",
+      "author": "Peter Bradshaw in Venice",
+      "date": "2026-09-08T12:32:58+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/08/musk-review-epic-study-worlds-richest-most-banal-man-elon-film",
+      "image": "https://i.guim.co.uk/img/media/eadca006ac0216857b3d535336559849b855320a/384_0_3563_2851/master/3563.jpg?width=140&quality=85&auto=format&fit=max&s=a52ba9e8fd9a001c215a8a7929f484c6",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "d3e698b564bff9ae",
+      "title": "‘Musk’ Review: Alex Gibney’s Definitive Documentary Puts the Pieces of Elon Musk Together — It’s a Lacerating Portrait of Technocratic Brilliance, Power Lust and Crackpot Delusion",
+      "quote": "What makes \"Musk\" such a lacerating and important watch, grounded in Alex Gibney’s supremely insightful but user-friendly mastery of the form, is that it takes this flamboyant but in many ways elusive figure, with his…",
+      "publisher": "Variety",
+      "author": "Owen Gleiberman",
+      "date": "2026-09-08T12:05:22+00:00",
+      "link": "https://variety.com/2026/film/reviews/musk-review-elon-musk-alex-gibney-1236854369/",
+      "image": "https://variety.com/wp-content/uploads/2026/08/Musk.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "e5b6468917071265",
+      "title": "‘Musk’ Review: Alex Gibney’s Mammoth Elon Musk Doc Is a Poleaxing Portrait of the Tech Titan as a Con Man Given Way Too Much Power to Be Stopped",
+      "quote": "The Oscar-winning docmaker gets around the hiccup of Musk’s refusal to participate by creating a CG avatar of the world’s richest man.",
+      "publisher": "The Hollywood Reporter",
+      "author": "David Rooney",
+      "date": "2026-09-08T12:05:00+00:00",
+      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/musk-review-elon-musk-documentary-alex-gibney-hbo-1236693254/",
+      "image": null,
+      "category": "Festival Winners"
+    },
+    {
+      "id": "f6971817ec1f1fb7",
+      "title": "Just an Illusion review – Louis Garrel and Camille Cottin sizzle as an 80s couple in crisis",
+      "quote": "The directing duo behind uplifting mega-hit Intouchables return for this heartwarming coming-of-age drama, but it is the parents in the story who pull focus Olivier Nakache and Éric Toledano are the French directors who…",
+      "publisher": "The Guardian",
+      "author": "Cath Clarke",
+      "date": "2026-09-08T12:00:03+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/08/just-an-illusion-review-louis-garrel-and-camille-cottin-sizzle-as-an-80s-couple-in-crisis",
+      "image": "https://i.guim.co.uk/img/media/8dac00cf1ad2b83aad9ee651550b66c4bac6bd0a/58_0_964_771/master/964.jpg?width=140&quality=85&auto=format&fit=max&s=07353bc99d17dbc05d0226be90b39787",
+      "category": "World Cinema"
+    },
+    {
+      "id": "2b81213373119389",
+      "title": "‘Picasso’: Shivarajkumar-Abishan Jeevinth movie gets a title; first look revealed",
+      "quote": "‘Picasso’, starring Abishan Jeevinth and veteran Shivarajkumar, is directed by debutant Gowtham Sivaraman",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-08T11:56:18+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/picasso-first-look-shivarajkumar-abishan-jeevinth-gowtham-sivaraman-tourish-family-tamil-movie/article71442453.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/x9bsdn/article71442580.ece/alternates/LANDSCAPE_1200/PICASSO%20FL%20INSTA%20CLEAN.jpeg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "7e7a7dbe63bb7216",
+      "title": "John Wayne And Rita Hayworth Starred In This Passionate '60s Movie Streaming On Prime Video",
+      "quote": "Prime Video subscribers can check out this mostly forgotten (but romantic) John Wayne and Rita Hayworth flick that hit theaters in the '60s.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Witney Seibold)",
+      "date": "2026-09-08T11:45:00+00:00",
+      "link": "https://www.slashfilm.com/2251525/john-wayne-rita-hayworth-60s-movie-streaming-prime-video/",
+      "image": "https://www.slashfilm.com/img/gallery/john-wayne-and-rita-hayworth-starred-in-this-passionate-60s-movie-streaming-on-prime-video/l-intro-1788553371.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "3bcea1a9b1ad2b6a",
+      "title": "‘Declassified: Operation Sindoor’ on Discovery is an inside look at what happened over those 88 hours",
+      "quote": "The two-part documentary pans in on the 88-hour military operation by India in response to the killing of tourists at Pahalgam in Kashmir",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-08T11:11:02+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/declassified-operation-sindoor-on-discovery-is-an-inside-look-at-what-happened-over-those-88-hours/article71438302.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/2gun0t/article71441879.ece/alternates/LANDSCAPE_1200/OPERATION%20SINDOOR%20_11.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "afb37719d9a5a401",
+      "title": "Runner review – Alan Ritchson and Owen Wilson thriller is serviceable B-movie camp",
+      "quote": "Impressive stunts and tongue-in-cheek flourishes elevate Scott Waugh’s silly Aussie action flick Credit where credit is due: of the many, many variations on the hammy late-summer action romp, very few have applied the…",
+      "publisher": "The Guardian",
+      "author": "Adrian Horton",
+      "date": "2026-09-08T11:00:01+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/08/runner-review-alan-ritchson-owen-wilson",
+      "image": "https://i.guim.co.uk/img/media/74828c2c5544b0946196d227b8efe6e76b3aade5/273_0_1614_1292/master/1614.jpg?width=140&quality=85&auto=format&fit=max&s=5f23e301555e7d22ce3d99768e3f4d59",
+      "category": "World Cinema"
+    },
     {
       "id": "00ee50afe32576b9",
       "title": "10 stunning buildings 'blended' with nature",
@@ -20,28 +350,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "270a1527c18a6656",
-      "title": "Sherri Shepherd Heading To Broadway As The Genie In Disney’s ‘Aladdin’",
-      "quote": "Talk show host Sherri Shepherd will make a rare Broadway appearance as the Genie in Disney’s Aladdin when she begins a limited run in the musical on Friday, October 16. Shepherd, who gave her first and do-date-only…",
-      "publisher": "Deadline",
-      "author": "Greg Evans",
-      "date": "2026-09-08T11:00:00+00:00",
-      "link": "https://deadline.com/2026/09/sherri-shepherd-aladdin-genie-broadway-1237068348/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Sherri-Shepherd-joins-ALADDIN-on-Broadway_photo-by-Matthew-Murphy-Disney.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "1868172f801857df",
-      "title": "Harry & Meghan Briefing War Breaks Out Within Days Of UK Return; Couple “Surprised” By King Charles Edict",
-      "quote": "Prince Harry and Meghan Markle have only been back in the UK for a matter of days, but they have already resumed hostilities with Buckingham Palace. The Duke and Duchess of Sussex are said to be “surprised” that King…",
-      "publisher": "Deadline",
-      "author": "Jake Kanter",
-      "date": "2026-09-08T10:47:12+00:00",
-      "link": "https://deadline.com/2026/09/prince-harry-meghan-markle-briefing-war-king-charles-1237070675/",
-      "image": "https://deadline.com/wp-content/uploads/2025/05/GettyImages-2198626922-1-e1788862765377.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "4290b446c163ac32",
       "title": "‘Silo’ Season 3 interview: Showrunner Graham Yost on how Rebecca Ferguson turned Juliette into a reluctant revolutionary",
       "quote": "As Apple TV’s ‘Silo’ finally excavates the origins of its underground civilisation with its third season, showrunner Graham Yost talks about Juliette’s inadvertent metamorphosis into a revolutionary, and how Hugh…",
@@ -51,17 +359,6 @@
       "link": "https://www.thehindu.com/entertainment/movies/silo-apple-tv-season-3-interview-showrunner-graham-yost-rebecca-ferguson-juliette-nichols/article71442203.ece",
       "image": "https://th-i.thgim.com/public/entertainment/movies/7ajqws/article71442191.ece/alternates/LANDSCAPE_1200/Copy%20of%20G2%20Cover.jpg",
       "category": "Indian Cinema"
-    },
-    {
-      "id": "e38ce39d88ee12ea",
-      "title": "‘Company’: First Footage Revealed For Casey Affleck’s Venice Drama Featuring His Two Sons",
-      "quote": "EXCLUSIVE: Here’s your first footage from Casey Affleck’s Venice Film Festival Competition drama, Company, starring Nick Nolte, Ben Mendelsohn, Adelaide Clemens, Scoot McNairy, Emily Alyn Lind, and Caylee Cowan. The…",
-      "publisher": "Deadline",
-      "author": "Andreas Wiseman",
-      "date": "2026-09-08T10:42:11+00:00",
-      "link": "https://deadline.com/2026/09/company-first-footage-casey-affleck-movie-two-sons-1237070683/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Company.jpg",
-      "category": "Festival Winners"
     },
     {
       "id": "215ca6c72b94cec9",
@@ -86,39 +383,6 @@
       "category": "Indian Cinema"
     },
     {
-      "id": "a76218da1bcf227a",
-      "title": "BBC Breakout Comedy ‘Small Prophets’ Renewed For Season 2 After Stellar Ratings & Apple TV Pickup",
-      "quote": "The Homunculi spirits are set to commune once more. The BBC has renewed Small Prophets for a second season after the comedy became a breakout hit for the British broadcaster, drawing up to 9.2 million viewers. Apple TV…",
-      "publisher": "Deadline",
-      "author": "Jake Kanter",
-      "date": "2026-09-08T09:44:51+00:00",
-      "link": "https://deadline.com/2026/09/bbc-small-prophets-renewed-season-2-mackenzie-crook-1237070666/",
-      "image": "https://deadline.com/wp-content/uploads/2026/03/small-prophets.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "3905307751887eed",
-      "title": "International Sales Of French TV Programs Crash To A Ten-Year Low",
-      "quote": "The latest French TV export numbers make for tough reading for Gallic program-sellers with sales collapsing to a ten-year low. International sales of French shows for 2025 fell to €164.2M ($190.7M), down 21.6% on the…",
-      "publisher": "Deadline",
-      "author": "Stewart Clarke",
-      "date": "2026-09-08T09:42:05+00:00",
-      "link": "https://deadline.com/2026/09/international-sales-of-french-tv-programs-hit-ten-year-low-1237070667/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-08-at-9.40.58-AM-1.jpeg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "737dc5510e2cc978",
-      "title": "Prime Video Gathers YA Stars For Alpine Retreat & Drops First Looks At ‘Boys of Tommen,’ ‘Our Fault: London’ & ‘Love Me Love Me 2’",
-      "quote": "EXCLUSIVE: Prime Video has gotten the YA gang together, with a campus-style retreat in the Bavarian alps. Off Campus, Boys of Tommen, Love Me Love Me 2, Maxton Hall and Our Fault: London were to the fore in Germany, and…",
-      "publisher": "Deadline",
-      "author": "Stewart Clarke",
-      "date": "2026-09-08T09:21:14+00:00",
-      "link": "https://deadline.com/2026/09/prime-video-ya-retreat-boys-of-tommen-our-fault-london-1237070628/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/PVObsessedRetreat_1089.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "9a70bf4c11179c99",
       "title": "Don Palathara’s ‘Ekadesham’ to premiere at Filmfest Aachen 2026 in Germany",
       "quote": "Set to be screened at the festival on September 25, ‘Ekadesham’ stars Roshan Mathew, Divya Prabha, Jithin Puthenchery, Vinay Forrt, Santhy Balachandran and Mahesh Narayanan",
@@ -128,28 +392,6 @@
       "link": "https://www.thehindu.com/entertainment/movies/don-palathara-ekadesham-the-uncertainty-principle-filmfest-aachen-2026-roshan-mathew-divya-prabha-vinay-forrt/article71441780.ece",
       "image": "https://th-i.thgim.com/public/incoming/xw7y6e/article71441828.ece/alternates/LANDSCAPE_1200/08tvm%20roshan.jpg",
       "category": "Indian Cinema"
-    },
-    {
-      "id": "527e90e70a4bc9bd",
-      "title": "Mehdi Norowzian’s ‘A Time In Eternity’ Starring Leila Hatami Lands Sales Rep Ahead Of TIFF Market",
-      "quote": "EXCLUSIVE: Blue Eyes Film & Distribution has acquired worldwide sales rights to A Time In Eternity, the latest feature from writer, director, and producer Mehdi Norowzian, starring Leila Hatami (A Separation). The…",
-      "publisher": "Deadline",
-      "author": "Zac Ntim",
-      "date": "2026-09-08T08:40:30+00:00",
-      "link": "https://deadline.com/2026/09/mehdi-norowzian-a-time-in-eternity-leila-hatami-tiff-market-1237070649/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-1422543554.jpg",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "a80b5fee81a11b58",
-      "title": "James Bond Writer Steven Knight Refuses To Deny That 007 Has Been Cast: “I Cannot Speak About This Subject”",
-      "quote": "The plot thickens. After Gary Oldman claimed that the new James Bond has finally been chosen, the film’s writer Steven Knight has playfully stonewalled questions on the subject. In an interview with BBC Radio 4’s Today…",
-      "publisher": "Deadline",
-      "author": "Jake Kanter",
-      "date": "2026-09-08T08:27:14+00:00",
-      "link": "https://deadline.com/2026/09/james-bond-steven-knight-007-gary-oldman-1237070634/",
-      "image": "https://deadline.com/wp-content/uploads/2023/01/MCDNOTI_MG046-edited-e1788854967642.jpg",
-      "category": "World Cinema"
     },
     {
       "id": "38302dc5cebcd02e",
@@ -207,50 +449,6 @@
       "category": "Indian Cinema"
     },
     {
-      "id": "4e018a43108f1246",
-      "title": "‘Look Back’: Hirokazu Kore-eda’s Tatsuki Fujimoto adaptation earns 12-minute standing ovation at Venice",
-      "quote": "The live-action adaptation of Tatsuki Fujimoto’s acclaimed manga left its cast and director in tears after its world premiere in the Venice Competition",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-08T06:38:51+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/look-back-hirokazu-kore-edas-tatsuki-fujimoto-adaptation-earns-12-minute-standing-ovation-at-venice/article71441504.ece",
-      "image": "https://th-i.thgim.com/public/incoming/z5aepp/article71441513.ece/alternates/LANDSCAPE_1200/Italy_Venice_Film_Festival_Look_Back_Red_Carpet_11315.jpg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "1894045d2b498aff",
-      "title": "Better Go Mad in the Wild review – boozing, bantering hermits impart their spiritual wisdom",
-      "quote": "Director Miro Remo journeys deep into the Czech countryside to find two brothers living an isolated life filled with quixotic wisdom in this surreal documentary Narrated by a slaughtered bull, this extraordinary film…",
-      "publisher": "The Guardian",
-      "author": "Phil Hoad",
-      "date": "2026-09-08T06:00:29+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/08/better-go-mad-in-the-wild-review-boozing-bantering-hermits-impart-their-spiritual-wisdom",
-      "image": "https://i.guim.co.uk/img/media/ed44ebda6ac4dbcdf16f97cf7e30d75acfc408a3/817_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=8765ce41c0c49c4e08e7d769c2b8dc63",
-      "category": "World Cinema"
-    },
-    {
-      "id": "7f63808cd1069774",
-      "title": "‘One Hundred Years of Solitude’ Part II review: A stunning, inevitable climax",
-      "quote": "Love, revolution and a baby with a pig’s tail come together in this tragicomic conclusion to the seven-generation saga of the doomed Buendía family",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-08T05:44:38+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/one-hundred-years-of-solitude-part-ii-review-stunning-inevitable-climax-netflix-alex-garcia-lopez-laura-mora/article71400092.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/uofy14/article71400496.ece/alternates/LANDSCAPE_1200/100.1.jpeg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "4580dfef528aaa22",
-      "title": "Who Plays Zoe Macon On Lanterns",
-      "quote": "The actress who plays Zoe Macon on Lanterns will be familiar to fans of Deli Boys, Never Have I Ever, and HBO's acclaimed drama The Night Of.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Rafael Motamayor)",
-      "date": "2026-09-08T00:45:00+00:00",
-      "link": "https://www.slashfilm.com/2252234/zoe-lanterns-hbo-actress-poorna-jagannathan/",
-      "image": "https://www.slashfilm.com/img/gallery/zoe-lanterns-hbo-actress-poorna-jagannathan/l-intro-1788812138.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "7a44057ab4c83a88",
       "title": "Hope",
       "quote": "This bloody, motoring adventure relishes the unease it places on the audience.",
@@ -260,39 +458,6 @@
       "link": "https://www.rogerebert.com/reviews/hope-na-jong-hin-movie-review-2026",
       "image": null,
       "category": "World Cinema"
-    },
-    {
-      "id": "8b45fa378e241139",
-      "title": "A Sci-Fi Legend Directed More Gilligan's Island Episodes Than Anyone Else",
-      "quote": "Several renowned directors worked on Gilligan's Island, with one particularly accomplished sci-fi filmmaker helming more episodes than anyone else.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-09-07T23:30:00+00:00",
-      "link": "https://www.slashfilm.com/2251000/sci-fi-legend-jack-arnold-directed-most-gilligans-island-episodes/",
-      "image": "https://www.slashfilm.com/img/gallery/a-sci-fi-legend-directed-more-gilligans-island-episodes-than-anyone-else/l-intro-1788529332.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "4eb51358a9217cbf",
-      "title": "Screen Legend Burt Reynolds Voiced An Alien In One Of TV's Weirdest Ever Sitcoms",
-      "quote": "The 1980s were chock-full of television oddities, like this sci-fi sitcom that featured Burt Reynolds in an uncredited voice role.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-09-07T23:00:00+00:00",
-      "link": "https://www.slashfilm.com/2251473/burt-reynolds-alien-tv-sitcom-out-of-this-world/",
-      "image": "https://www.slashfilm.com/img/gallery/screen-legend-burt-reynolds-voiced-an-alien-in-one-of-tvs-weirdest-ever-sitcoms/l-intro-1788552204.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "8aee82e029daf74c",
-      "title": "Who Plays Sheriff Kerry Kane On Lanterns",
-      "quote": "Sheriff Kerry Kane might be the third wheel on Lanterns, but she's played by an actor who's led quite the noteworthy career.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Devin Meenan)",
-      "date": "2026-09-07T22:00:00+00:00",
-      "link": "https://www.slashfilm.com/2252068/sheriff-kerry-kane-lanterns-hbo-actress-kelly-macdonald/",
-      "image": "https://www.slashfilm.com/img/gallery/who-plays-kerry-kane-on-lanterns/l-intro-1788786335.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "1b7d5a696a2d8b3e",
@@ -317,39 +482,6 @@
       "category": "Festival Winners"
     },
     {
-      "id": "fa58b3501fc407c7",
-      "title": "5 Best Dark Adventure Movies, Ranked",
-      "quote": "Adventure films are typically full of excitement and wonder, but these five movies put a darker and more sinister spin on the genre.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Rafael Motamayor)",
-      "date": "2026-09-07T21:00:00+00:00",
-      "link": "https://www.slashfilm.com/2251406/best-dark-adventure-movies-ranked/",
-      "image": "https://www.slashfilm.com/img/gallery/5-best-dark-adventure-movies-ranked/l-intro-1788548475.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "8b06c2b78365b185",
-      "title": "Lioness Season 3 Episode 6 Finally Reveals The Main Villain (And It's Not Who You Think)",
-      "quote": "It turns out Taylor Sheridan's been pulling the wool over our eyes in Lioness Season 3, as evidenced by Episode 6's villain reveal.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-09-07T20:49:26+00:00",
-      "link": "https://www.slashfilm.com/2252308/lioness-season-3-episode-6-villain-explained/",
-      "image": "https://www.slashfilm.com/img/gallery/lioness-season-3-episode-6-finally-reveals-the-main-villain-and-its-not-who-you-think/l-intro-1788813966.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "72461ddf4dc0e960",
-      "title": "Silo Author Hugh Howey Has Two Cameos In The Apple TV Series That You Might've Missed",
-      "quote": "Silo fans should keep an eye on the background actors, because author Hugh Howey has made two cameo appearances in the series.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Devin Meenan)",
-      "date": "2026-09-07T20:00:00+00:00",
-      "link": "https://www.slashfilm.com/2251839/silo-hugh-howey-apple-tv-series-cameo/",
-      "image": "https://www.slashfilm.com/img/gallery/silo-author-hugh-howey-has-two-cameos-in-the-apple-tv-series-that-you-mightve-missed/l-intro-1788710366.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "47048eb3cfe6da60",
       "title": "‘Look Back’ Review: Once Past the Over- Preciousness of a Child’s World, Hirokazu Kore-eda’s Manga Adaptation Becomes a Moving Tribute to Friendship",
       "quote": "There’s barely an adult in sight in Hirokazu Kore-eda’s “Look Back,” where anyone out of school age is marginalized practically to the point of superfluidity. Like much in the first half of this sweet — at times too…",
@@ -372,17 +504,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "7696233b4e938181",
-      "title": "The Spiral review – Valeria Bruni Tedeschi is hilarious as a demon cutting a deal with a vain matriarch",
-      "quote": "Venice film festival: Tedeschi gives a career best performance as the mysterious stranger who visits a wealthy Italian family to prey on their pampered weaknesses Everyone in the movie business has earnestly learned to…",
-      "publisher": "The Guardian",
-      "author": "Peter Bradshaw in Venice",
-      "date": "2026-09-07T17:30:13+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/07/the-spiral-review-valeria-bruni-tedeschi-venice-film-festival",
-      "image": "https://i.guim.co.uk/img/media/3b7fd30bd256acb8a242f38038adc9f6ee653a42/378_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=06889b2fde43f38119536752725bfb4d",
-      "category": "Festival Winners"
-    },
-    {
       "id": "c05e874d413ec3aa",
       "title": "‘The Spiral’ Review: Paolo Strippoli’s Lurid Faustian Tragedy Shores Up His Reputation as Italy’s New Horror Virtuoso",
       "quote": "We don’t get a close enough look to see if the Devil actually wears Prada, but regardless, in Paolo Strippoli’s new horror romp “The Spiral,” she’s very chicly turned out indeed: Cool, crisp and collected in a tightly…",
@@ -392,17 +513,6 @@
       "link": "https://variety.com/2026/film/reviews/the-spiral-review-1236854031/",
       "image": "https://variety.com/wp-content/uploads/2026/09/117864-L_ESTRANEA__THE_SPIRAL__-_Actress_Valeria_Bruni_Tedeschi__Credits_Paolo_Ciriello_-1.jpg",
       "category": "World Cinema"
-    },
-    {
-      "id": "358cc4b2947a3208",
-      "title": "The Pervert’s Guide to Utopias review – Slavoj Žižek goes in search of paradise",
-      "quote": "Venice film festival: Inserting himself into settings from Apocalypse Now to The Handmaid’s Tale, the pop-cultural critic finds it hard to locate the perfect ending – even with spoilers The great pop-cultural critic and…",
-      "publisher": "The Guardian",
-      "author": "Peter Bradshaw in Venice",
-      "date": "2026-09-07T16:31:22+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/07/the-perverts-guide-to-utopias-review-slavoj-zizek-goes-in-search-of-paradise",
-      "image": "https://i.guim.co.uk/img/media/b1a8d305d52c4a3613b8ef9c4cec346df4b28100/570_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=64034c871f3675fd9accc02749ec922a",
-      "category": "Festival Winners"
     },
     {
       "id": "9f26a0739caf7edf",
@@ -482,17 +592,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "346af8cc04d7d9a7",
-      "title": "Boatbuilders review – a gentle study of craftsmen’s quiet expertise",
-      "quote": "Venice film festival: Luke Lorentzen’s light-touch documentary follows a team of Maine craftsmen constructing a high-spec sailboat for a super-rich guy who seems kind of nice The Brooklin Boat Yard stands in a quiet…",
-      "publisher": "The Guardian",
-      "author": "Xan Brooks in Venice",
-      "date": "2026-09-07T12:30:50+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/07/boatbuilders-review-a-gentle-study-of-craftsmens-quiet-expertise",
-      "image": "https://i.guim.co.uk/img/media/53c38bb689fc03804399e00bac1a7dbd52a9fb7b/171_0_2250_1800/master/2250.jpg?width=140&quality=85&auto=format&fit=max&s=03223cb9ea3d6352a127929ab3e85907",
-      "category": "Festival Winners"
-    },
-    {
       "id": "7aef40d9a2c88dee",
       "title": "‘Imperium’ Review: Sergei Loznitsa Brings Together Nearly Three Hours of Italian Footage From the Early 1970s Covering the Vastness of the USSR",
       "quote": "In the early 1970s, Italian film crews spread out across the USSR, capturing a vast, multicultural empire few had ever seen in such diversity. From urban commuters to village fêtes, Baku trawlers to Siberian reindeer…",
@@ -501,17 +600,6 @@
       "date": "2026-09-07T12:15:30+00:00",
       "link": "https://variety.com/2026/film/reviews/imperium-review-2-1236853999/",
       "image": "https://variety.com/wp-content/uploads/2026/09/116196-IMPERIUM_-_Official_Still__Credits_Essential_Filmproduktion__Kino_Produzioni__Soci__t___Parisienne_de_Production__Studio_Uljana_Kim_-_footage_courtesy_of_AAMOD___6_.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "8d065e5536b99797",
-      "title": "The Last Bath review – self-mortifying nun struggles with profoundly uneasy sexual awakening",
-      "quote": "Anabela Moreira is an impressively intense lead as the sister who finds herself in charge of her wayward teenage nephew A sharp, self-abnegating performance from Anabela Moreira elevates this passionate – largely in the…",
-      "publisher": "The Guardian",
-      "author": "Phil Hoad",
-      "date": "2026-09-07T12:00:50+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/07/the-last-bath-review-self-mortifying-nun-struggles-with-profoundly-uneasy-sexual-awakening",
-      "image": "https://i.guim.co.uk/img/media/22aba0a0c8a6d7a56f4b6cae9294b9024aa6c781/365_0_1008_806/master/1008.jpg?width=140&quality=85&auto=format&fit=max&s=ebf2948d6b8902a317f42664b7646082",
       "category": "World Cinema"
     },
     {
@@ -559,39 +647,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "e972708030937076",
-      "title": "Okurimono review – a heartbreaking dispatch from survivors of the Nagasaki bomb",
-      "quote": "Laurence Lévesque’s powerful documentary follows a woman who discovers a support network among her mother’s generation of survivors of the nuclear blast No words are spoken during the first five minutes of Laurence…",
-      "publisher": "The Guardian",
-      "author": "Phuong Le",
-      "date": "2026-09-07T08:23:03+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/07/okurimono-review-heartbreaking-documentary-nagasaki-bomb",
-      "image": "https://i.guim.co.uk/img/media/8efeaeb796986e9aeb43ee979d481183de55a260/316_20_2674_2140/master/2674.jpg?width=140&quality=85&auto=format&fit=max&s=7051148c797a866714dbbcdb028be054",
-      "category": "World Cinema"
-    },
-    {
-      "id": "4a15d1f4336972f5",
-      "title": "‘You Can See Everything’ Review: Nathan Fielder’s Documentary About Elizabeth Holmes Is a Shameless, Fascinating, Reality-TV-Eats-Its-Tail Look at Entitled Duplicity",
-      "quote": "\"You Can See Everything\" is about the furthest thing from a \"pure\" documentary you’ve ever seen. That’s part of its appeal — it’s a one-a-kind reality-TV-as-hangout-movie psychodrama circus. Yet it’s been made with a…",
-      "publisher": "Variety",
-      "author": "Owen Gleiberman",
-      "date": "2026-09-07T07:50:43+00:00",
-      "link": "https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/",
-      "image": "https://variety.com/wp-content/uploads/2026/09/Screenshot-2026-09-06-at-7.57.52-PM.webp",
-      "category": "World Cinema"
-    },
-    {
-      "id": "961e6817cef1ad8c",
-      "title": "‘Into the Breach’ Review: Star-Studded British Theater Doc Needs More Time to Serve Its Sprawling Subject Matter",
-      "quote": "The self-professed “story of a theatrical revolution and how it shaped a nation,” Freddie Fox’s documentary “Into the Breach” attempts to chronicle the impact that British theater has exerted on art, culture and…",
-      "publisher": "Variety",
-      "author": "Todd Gilchrist",
-      "date": "2026-09-07T06:41:08+00:00",
-      "link": "https://variety.com/2026/film/reviews/into-the-breach-review-1236853740/",
-      "image": "https://variety.com/wp-content/uploads/2026/09/Into-the-Breach-set.webp",
-      "category": "World Cinema"
-    },
-    {
       "id": "4a9e9df57ff3db37",
       "title": "Gentle Monster",
       "quote": "Centering the plot on those affected, as opposed to those who commit crimes, gives voice to an increasingly common, complex experience.",
@@ -623,39 +678,6 @@
       "link": "https://www.avclub.com/lanterns-recap-season-1-episode-4-the-weenie",
       "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/05004339/MixCollage-05-Sep-2026-12-40-AM-9101.jpg",
       "category": "Indie Gems"
-    },
-    {
-      "id": "bcd95b7b61082127",
-      "title": "‘Woman Unknown’ Review: A Sharp, Haunting Portrait of Denmark’s Post-War Reckoning",
-      "quote": "This Venice competition entry from director May el-Toukhy ('Queen of Hearts') revolves around a maid whose past threatens to unravel her future in the wake of World War II.",
-      "publisher": "The Hollywood Reporter",
-      "author": "Richard Lawson",
-      "date": "2026-09-06T20:15:00+00:00",
-      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/woman-unknown-may-el-toukhy-1236685095/",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "7f9364e6864c95c6",
-      "title": "‘Mr. Nelson, Did You Kill People?’ Review: A Vietnam Vet Reckons With PTSD in a Heavy-Handed Trauma Drama",
-      "quote": "Japanese director Shinya Tsukamoto adapts the nonfiction account of former U.S. Marine Allen Nelson, who spoke about the brutalities he committed on the front and hardships he faced back home.",
-      "publisher": "The Hollywood Reporter",
-      "author": "Jordan Mintzer",
-      "date": "2026-09-06T19:01:02+00:00",
-      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/mr-nelson-did-you-kill-people-review-shinya-tsukamoto-1236691754/",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "24023022963be397",
-      "title": "‘The Echo Chamber’ Review: Alicia Vikander, Luca Marinelli and Susan Sarandon Deliver Slow-Burn Sparks in Challenging but Affecting Portrait of Art and Addiction",
-      "quote": "Director Andrea Pallaoro returns to the Venice competition with an intimate three-hander based on the final original screenplay by Bernardo Bertolucci.",
-      "publisher": "The Hollywood Reporter",
-      "author": "Sheri Linden",
-      "date": "2026-09-06T17:50:00+00:00",
-      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/the-echo-chamber-review-alicia-vikander-susan-sarandon-1236688165/",
-      "image": null,
-      "category": "World Cinema"
     },
     {
       "id": "ccc0a1a5f3143ba2",
@@ -713,39 +735,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "8e9744f9e339c5ca",
-      "title": "My Undesirable Friends: Part II – Exile",
-      "quote": "Taken as a 10-part whole, it’s one of the most remarkable studies of the amplified rollout of fascism in film history.",
-      "publisher": "RogerEbert.com",
-      "author": "Brian Tallerico",
-      "date": "2026-09-04T14:15:54+00:00",
-      "link": "https://www.rogerebert.com/reviews/my-undesirable-friends-part-ii-exile-documentary-film-review-2026",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "398c4e223a186aec",
-      "title": "Wild Horse Nine",
-      "quote": "Some of the best acting ever done by Malkovich, Rockwell and Buscemi, and one wickedly quotable line after another.",
-      "publisher": "RogerEbert.com",
-      "author": "Matt Zoller Seitz",
-      "date": "2026-09-04T13:16:17+00:00",
-      "link": "https://www.rogerebert.com/reviews/wild-horse-nine-martin-mcdonagh-sam-rockwell-john-malkovich-film-review-2026",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "548abc3dc6f3355a",
-      "title": "By Any Means",
-      "quote": "Sits discomfitingly between exploitation picture and sober-eyed historical race drama, and can't quite find a clear path to either.",
-      "publisher": "RogerEbert.com",
-      "author": "Clint Worthington",
-      "date": "2026-09-04T13:04:31+00:00",
-      "link": "https://www.rogerebert.com/reviews/by-any-means-mark-wahlberg-yahya-abdul-mateen-ii-movie-review-2026",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
       "id": "22b19edef1a501e6",
       "title": "The hidden history of a controversial $6m banana",
       "quote": "Maurizio Cattelan's Comedian reveals lessons about shock tactics in art",
@@ -798,6 +787,17 @@
       "date": "2026-09-02T11:00:00+00:00",
       "link": "https://www.bbc.com/culture/article/20260901-the-literary-novel-causing-a-hollywood-scandal?ocid=global_culture_rss",
       "image": "https://ychef.files.bbci.co.uk/144x81/p0p7dp81.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "2e1cabe8778227ad",
+      "title": "Everybody Digs Bill Evans review – absorbing delve into the tumultuous world of the great jazz man",
+      "quote": "Grant Gee’s film thoroughly inhabits the creative and personal torment experienced by the American pianist – with a terrific supporting Bill Pullman turn This elusive, ruminative and very absorbing movie presents its…",
+      "publisher": "The Guardian",
+      "author": "Peter Bradshaw",
+      "date": "2026-02-13T18:00:31+00:00",
+      "link": "https://www.theguardian.com/film/2026/feb/13/everybody-digs-bill-evans-review-absorbing-delve-into-the-tumultuous-world-of-the-great-jazz-man",
+      "image": "https://i.guim.co.uk/img/media/566d4a8c5d9424b528da7600eef298bf82723b2c/363_0_2364_1892/master/2364.jpg?width=140&quality=85&auto=format&fit=max&s=99aa2250d74751153e99b3ab4f6bcc65",
       "category": "World Cinema"
     },
     {
