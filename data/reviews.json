@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T04:10:30.043501+00:00",
+  "generated_at": "2026-09-08T11:02:32.200698+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -9,26 +9,246 @@
   ],
   "reviews": [
     {
-      "id": "188cbfe89adf6b6a",
-      "title": "The Talk Of Telluride: Secret Screening Of Elizabeth Holmes Documentary ‘You Can See Everything’",
-      "quote": "Telluride chief Julie Huntsinger took a significant risk programming a documentary as the festival’s sneak premiere this year, given that nonfiction can’t claim the broad appeal of fiction. Indeed, just as she prepared…",
-      "publisher": "Deadline",
-      "author": "Matthew Carey",
-      "date": "2026-09-08T03:51:27+00:00",
-      "link": "https://deadline.com/2026/09/elizabeth-holmes-documentary-you-can-see-everything-telluride-reaction-1237070550/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Holmes.jpg",
+      "id": "00ee50afe32576b9",
+      "title": "10 stunning buildings 'blended' with nature",
+      "quote": "From a haven in the lush Mexican forest to a subtropical dream home in Florida",
+      "publisher": "BBC Culture",
+      "author": null,
+      "date": "2026-09-08T11:00:00+00:00",
+      "link": "https://www.bbc.com/culture/article/20260907-10-stunning-buildings-blended-with-nature?ocid=global_culture_rss",
+      "image": "https://ychef.files.bbci.co.uk/144x81/p0p8cd91.jpg",
       "category": "World Cinema"
     },
     {
-      "id": "98af3c57b03e9bc2",
-      "title": "Space Force Uniform Is Inspired By Quasi-Satirical Film ‘Starship Troopers’",
-      "quote": "Among a flurry of posts this weekend, Donald Trump revealed the service dress uniform designs for his Space Force. Without additional comment, the president shared photos and an overview of the uniforms on Truth Social…",
+      "id": "270a1527c18a6656",
+      "title": "Sherri Shepherd Heading To Broadway As The Genie In Disney’s ‘Aladdin’",
+      "quote": "Talk show host Sherri Shepherd will make a rare Broadway appearance as the Genie in Disney’s Aladdin when she begins a limited run in the musical on Friday, October 16. Shepherd, who gave her first and do-date-only…",
       "publisher": "Deadline",
-      "author": "Tomt",
-      "date": "2026-09-08T01:10:21+00:00",
-      "link": "https://deadline.com/2026/09/space-force-uniform-starship-troopers-1237070485/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/MCDSTTR_EC054.jpg",
+      "author": "Greg Evans",
+      "date": "2026-09-08T11:00:00+00:00",
+      "link": "https://deadline.com/2026/09/sherri-shepherd-aladdin-genie-broadway-1237068348/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Sherri-Shepherd-joins-ALADDIN-on-Broadway_photo-by-Matthew-Murphy-Disney.jpg",
       "category": "World Cinema"
+    },
+    {
+      "id": "1868172f801857df",
+      "title": "Harry & Meghan Briefing War Breaks Out Within Days Of UK Return; Couple “Surprised” By King Charles Edict",
+      "quote": "Prince Harry and Meghan Markle have only been back in the UK for a matter of days, but they have already resumed hostilities with Buckingham Palace. The Duke and Duchess of Sussex are said to be “surprised” that King…",
+      "publisher": "Deadline",
+      "author": "Jake Kanter",
+      "date": "2026-09-08T10:47:12+00:00",
+      "link": "https://deadline.com/2026/09/prince-harry-meghan-markle-briefing-war-king-charles-1237070675/",
+      "image": "https://deadline.com/wp-content/uploads/2025/05/GettyImages-2198626922-1-e1788862765377.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "4290b446c163ac32",
+      "title": "‘Silo’ Season 3 interview: Showrunner Graham Yost on how Rebecca Ferguson turned Juliette into a reluctant revolutionary",
+      "quote": "As Apple TV’s ‘Silo’ finally excavates the origins of its underground civilisation with its third season, showrunner Graham Yost talks about Juliette’s inadvertent metamorphosis into a revolutionary, and how Hugh…",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-08T10:46:24+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/silo-apple-tv-season-3-interview-showrunner-graham-yost-rebecca-ferguson-juliette-nichols/article71442203.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/7ajqws/article71442191.ece/alternates/LANDSCAPE_1200/Copy%20of%20G2%20Cover.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "e38ce39d88ee12ea",
+      "title": "‘Company’: First Footage Revealed For Casey Affleck’s Venice Drama Featuring His Two Sons",
+      "quote": "EXCLUSIVE: Here’s your first footage from Casey Affleck’s Venice Film Festival Competition drama, Company, starring Nick Nolte, Ben Mendelsohn, Adelaide Clemens, Scoot McNairy, Emily Alyn Lind, and Caylee Cowan. The…",
+      "publisher": "Deadline",
+      "author": "Andreas Wiseman",
+      "date": "2026-09-08T10:42:11+00:00",
+      "link": "https://deadline.com/2026/09/company-first-footage-casey-affleck-movie-two-sons-1237070683/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Company.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "215ca6c72b94cec9",
+      "title": "Don’t Forget Me review – Eddie Cochran bio-doc boasts top-notch roster of talking heads",
+      "quote": "Director Kirsty Bell alternates archival footage with tacky dramatised filler, but it’s the breadth of appreciation, from Keith Richards to Kiefer Sutherland that impresses No one could argue that rock’n’roll legend…",
+      "publisher": "The Guardian",
+      "author": "Leslie Felperin",
+      "date": "2026-09-08T10:00:01+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/08/dont-forget-me-review-eddie-cochran-bio-doc-boasts-top-notch-roster-of-talking-heads",
+      "image": "https://i.guim.co.uk/img/media/fcaf9a118afabf90982d616b125e2091c3386d00/199_88_1133_907/master/1133.jpg?width=140&quality=85&auto=format&fit=max&s=23fef8868a5ad75dc3c0add2ce2dac33",
+      "category": "World Cinema"
+    },
+    {
+      "id": "4a85a35392fb7491",
+      "title": "‘Seyon’: Actor-politician Seeman joins Sivakarthikeyan’s next produced by Kamal Haasan",
+      "quote": "The film is directed by Sivakumar Murugesan of ‘Thaai Kizhavi’ fame",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-08T09:59:06+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/seyon-seeman-sivakarthikeyan-kamal-haasan-sivakumar-murugesan-thaai-kizhavi/article71442050.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/lwfnap/article71442068.ece/alternates/LANDSCAPE_1200/Seeman%20Seyon%20Sivakarthikeyan%20Kamal%20Haasan.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "a76218da1bcf227a",
+      "title": "BBC Breakout Comedy ‘Small Prophets’ Renewed For Season 2 After Stellar Ratings & Apple TV Pickup",
+      "quote": "The Homunculi spirits are set to commune once more. The BBC has renewed Small Prophets for a second season after the comedy became a breakout hit for the British broadcaster, drawing up to 9.2 million viewers. Apple TV…",
+      "publisher": "Deadline",
+      "author": "Jake Kanter",
+      "date": "2026-09-08T09:44:51+00:00",
+      "link": "https://deadline.com/2026/09/bbc-small-prophets-renewed-season-2-mackenzie-crook-1237070666/",
+      "image": "https://deadline.com/wp-content/uploads/2026/03/small-prophets.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "3905307751887eed",
+      "title": "International Sales Of French TV Programs Crash To A Ten-Year Low",
+      "quote": "The latest French TV export numbers make for tough reading for Gallic program-sellers with sales collapsing to a ten-year low. International sales of French shows for 2025 fell to €164.2M ($190.7M), down 21.6% on the…",
+      "publisher": "Deadline",
+      "author": "Stewart Clarke",
+      "date": "2026-09-08T09:42:05+00:00",
+      "link": "https://deadline.com/2026/09/international-sales-of-french-tv-programs-hit-ten-year-low-1237070667/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-08-at-9.40.58-AM-1.jpeg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "737dc5510e2cc978",
+      "title": "Prime Video Gathers YA Stars For Alpine Retreat & Drops First Looks At ‘Boys of Tommen,’ ‘Our Fault: London’ & ‘Love Me Love Me 2’",
+      "quote": "EXCLUSIVE: Prime Video has gotten the YA gang together, with a campus-style retreat in the Bavarian alps. Off Campus, Boys of Tommen, Love Me Love Me 2, Maxton Hall and Our Fault: London were to the fore in Germany, and…",
+      "publisher": "Deadline",
+      "author": "Stewart Clarke",
+      "date": "2026-09-08T09:21:14+00:00",
+      "link": "https://deadline.com/2026/09/prime-video-ya-retreat-boys-of-tommen-our-fault-london-1237070628/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/PVObsessedRetreat_1089.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "9a70bf4c11179c99",
+      "title": "Don Palathara’s ‘Ekadesham’ to premiere at Filmfest Aachen 2026 in Germany",
+      "quote": "Set to be screened at the festival on September 25, ‘Ekadesham’ stars Roshan Mathew, Divya Prabha, Jithin Puthenchery, Vinay Forrt, Santhy Balachandran and Mahesh Narayanan",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-08T08:58:47+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/don-palathara-ekadesham-the-uncertainty-principle-filmfest-aachen-2026-roshan-mathew-divya-prabha-vinay-forrt/article71441780.ece",
+      "image": "https://th-i.thgim.com/public/incoming/xw7y6e/article71441828.ece/alternates/LANDSCAPE_1200/08tvm%20roshan.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "527e90e70a4bc9bd",
+      "title": "Mehdi Norowzian’s ‘A Time In Eternity’ Starring Leila Hatami Lands Sales Rep Ahead Of TIFF Market",
+      "quote": "EXCLUSIVE: Blue Eyes Film & Distribution has acquired worldwide sales rights to A Time In Eternity, the latest feature from writer, director, and producer Mehdi Norowzian, starring Leila Hatami (A Separation). The…",
+      "publisher": "Deadline",
+      "author": "Zac Ntim",
+      "date": "2026-09-08T08:40:30+00:00",
+      "link": "https://deadline.com/2026/09/mehdi-norowzian-a-time-in-eternity-leila-hatami-tiff-market-1237070649/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-1422543554.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "a80b5fee81a11b58",
+      "title": "James Bond Writer Steven Knight Refuses To Deny That 007 Has Been Cast: “I Cannot Speak About This Subject”",
+      "quote": "The plot thickens. After Gary Oldman claimed that the new James Bond has finally been chosen, the film’s writer Steven Knight has playfully stonewalled questions on the subject. In an interview with BBC Radio 4’s Today…",
+      "publisher": "Deadline",
+      "author": "Jake Kanter",
+      "date": "2026-09-08T08:27:14+00:00",
+      "link": "https://deadline.com/2026/09/james-bond-steven-knight-007-gary-oldman-1237070634/",
+      "image": "https://deadline.com/wp-content/uploads/2023/01/MCDNOTI_MG046-edited-e1788854967642.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "38302dc5cebcd02e",
+      "title": "Asha Bhosle’s final playback song from ‘Om Ka Hari’ unveiled on her birth anniversary",
+      "quote": "Titled ‘Ae Meri Zindagi, Tu Chupi Hain Kahan’, the music video shows glimpses of the song’s recording featuring the legendary singer",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-08T08:23:41+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/asha-bhosles-final-playback-song-from-om-ka-hari-unveiled-on-her-birth-anniversary/article71441795.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/s30pus/article71441822.ece/alternates/LANDSCAPE_1200/Asha%20Bhosle%20in%20the%20music%20video%20of%20the%20song%20from%20%E2%80%98Om%20Ka%20Hari%E2%80%99",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "54b4ac0bd9b66d9f",
+      "title": "Margaret Atwood's First Ever Movie Adaptation Is An '80s Misfire Worth Revisiting",
+      "quote": "The Handmaid's Tale author Margaret Attwood first had one of her books adapted for the screen in 1981, but the movie was panned by critics.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Joe Roberts)",
+      "date": "2026-09-08T08:10:00+00:00",
+      "link": "https://www.slashfilm.com/2247181/margaret-atwood-first-adaptation-80s-movie-surfacing/",
+      "image": "https://www.slashfilm.com/img/gallery/margaret-atwoods-first-ever-movie-adaptation-is-an-80s-misfire-worth-revisiting/l-intro-1788130054.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "e9b35b19645d0581",
+      "title": "Knightfall review – low-rent gender-flipped Bond knock-off swaps Aston Martins for Minis",
+      "quote": "Jeanine Nerissa Sothcott’s no-nonsense spy heads a game cast that includes Ian Ogilvy and Roger Moore’s son Geoffrey, but this austerity actioner lacks tension Proceeding from an old-school title pun – yes, the heroine…",
+      "publisher": "The Guardian",
+      "author": "Mike McCahill",
+      "date": "2026-09-08T08:00:30+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/08/knightfall-review-gender-flipped-bond-jeanine-nerissa-sothcott-ian-ogilvy",
+      "image": "https://i.guim.co.uk/img/media/f0e11570aece0ad08bb1f10dbaf4959098c88160/87_0_845_676/master/845.jpg?width=140&quality=85&auto=format&fit=max&s=05a4aa7731697187bf95622ba8ff1e44",
+      "category": "World Cinema"
+    },
+    {
+      "id": "4e840c8587e02fd8",
+      "title": "‘Aasha’ trailer: Urvashi-Joju George face-off in new Malayalam movie",
+      "quote": "Debutant Safar Sanal’s thriller, ‘Aasha,’ pits two powerful performers in Malayalam cinema, Urvashi and Joju George, against each other",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-08T08:00:10+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/aasha-trailer-urvashi-joju-george-aishwarya-lekshmi-new-malayalam-movie/article71441569.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/ss86db/article71441725.ece/alternates/LANDSCAPE_1200/Joju%20George%20Urvashi%20Aasha%20Trailer.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "149991dbec0ce45c",
+      "title": "Inside ‘Ghamasaan’: How Tigmanshu Dhulia and Pratik Gandhi’s minimalistic style shapes their work",
+      "quote": "Director Tigmanshu Dhulia and actor Pratik Gandhi talk about their upcoming film ‘Ghamasaan’, why Tigmanshu doesn’t like love stories, Pratik’s minimalistic approach to acting, and more",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-08T07:23:34+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/inside-ghamasaan-how-tigmanshu-dhulia-and-pratik-gandhis-minimalistic-style-shapes-their-work/article71438470.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/7xtbw8/article71438599.ece/alternates/LANDSCAPE_1200/Tigmanshu%20Dhulia%20Rajpal%20Yadav%20and%20Pratik%20Gandhi%20during%20the%20filming%20of%20%E2%80%98Ghamasaan%E2%80%99",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "4e018a43108f1246",
+      "title": "‘Look Back’: Hirokazu Kore-eda’s Tatsuki Fujimoto adaptation earns 12-minute standing ovation at Venice",
+      "quote": "The live-action adaptation of Tatsuki Fujimoto’s acclaimed manga left its cast and director in tears after its world premiere in the Venice Competition",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-08T06:38:51+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/look-back-hirokazu-kore-edas-tatsuki-fujimoto-adaptation-earns-12-minute-standing-ovation-at-venice/article71441504.ece",
+      "image": "https://th-i.thgim.com/public/incoming/z5aepp/article71441513.ece/alternates/LANDSCAPE_1200/Italy_Venice_Film_Festival_Look_Back_Red_Carpet_11315.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "1894045d2b498aff",
+      "title": "Better Go Mad in the Wild review – boozing, bantering hermits impart their spiritual wisdom",
+      "quote": "Director Miro Remo journeys deep into the Czech countryside to find two brothers living an isolated life filled with quixotic wisdom in this surreal documentary Narrated by a slaughtered bull, this extraordinary film…",
+      "publisher": "The Guardian",
+      "author": "Phil Hoad",
+      "date": "2026-09-08T06:00:29+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/08/better-go-mad-in-the-wild-review-boozing-bantering-hermits-impart-their-spiritual-wisdom",
+      "image": "https://i.guim.co.uk/img/media/ed44ebda6ac4dbcdf16f97cf7e30d75acfc408a3/817_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=8765ce41c0c49c4e08e7d769c2b8dc63",
+      "category": "World Cinema"
+    },
+    {
+      "id": "7f63808cd1069774",
+      "title": "‘One Hundred Years of Solitude’ Part II review: A stunning, inevitable climax",
+      "quote": "Love, revolution and a baby with a pig’s tail come together in this tragicomic conclusion to the seven-generation saga of the doomed Buendía family",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-08T05:44:38+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/one-hundred-years-of-solitude-part-ii-review-stunning-inevitable-climax-netflix-alex-garcia-lopez-laura-mora/article71400092.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/uofy14/article71400496.ece/alternates/LANDSCAPE_1200/100.1.jpeg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "4580dfef528aaa22",
+      "title": "Who Plays Zoe Macon On Lanterns",
+      "quote": "The actress who plays Zoe Macon on Lanterns will be familiar to fans of Deli Boys, Never Have I Ever, and HBO's acclaimed drama The Night Of.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Rafael Motamayor)",
+      "date": "2026-09-08T00:45:00+00:00",
+      "link": "https://www.slashfilm.com/2252234/zoe-lanterns-hbo-actress-poorna-jagannathan/",
+      "image": "https://www.slashfilm.com/img/gallery/zoe-lanterns-hbo-actress-poorna-jagannathan/l-intro-1788812138.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "7a44057ab4c83a88",
@@ -64,19 +284,8 @@
       "category": "Indie Gems"
     },
     {
-      "id": "321dda61d88a472b",
-      "title": "Andrew Garfield Hopes ‘The Uprising’ Makes Billionaires “Scared Sh*tless”: “They’re The Most Soul Sick”",
-      "quote": "As Andrew Garfield portrays the ultimate folk hero in The Uprising, he hopes it serves as a warning for the kings of our time. The 2x Oscar nominee, whose character Ploughman is inspired by the legend of Robin Hood in…",
-      "publisher": "Deadline",
-      "author": "Glenn Garner",
-      "date": "2026-09-07T22:33:26+00:00",
-      "link": "https://deadline.com/2026/09/andrew-garfield-hopes-uprising-billionaires-scared-shtless-1237070457/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/The-Uprising.jpg",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "62f6df3538ded922",
-      "title": "Who Plays Kerry Kane On Lanterns",
+      "id": "8aee82e029daf74c",
+      "title": "Who Plays Sheriff Kerry Kane On Lanterns",
       "quote": "Sheriff Kerry Kane might be the third wheel on Lanterns, but she's played by an actor who's led quite the noteworthy career.",
       "publisher": "/Film",
       "author": "staff@slashfilm.com (Devin Meenan)",
@@ -97,17 +306,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "e296a97b2fef8cfd",
-      "title": "‘Adults’ Star Malik Elassal Wants Zohran Mamdani For Season 3 Cameo: “We Have Mutuals”",
-      "quote": "As Adults fans await a Season 3 renewal, the roommates could be getting a new neighbor if the hit FX series returns. Malik Elassal, who stars as Samir in the Queens-set Gen Z sitcom, nominated NYC Mayor Zohran Mamdani…",
-      "publisher": "Deadline",
-      "author": "Glenn Garner",
-      "date": "2026-09-07T21:56:38+00:00",
-      "link": "https://deadline.com/2026/09/adults-malik-elassal-wants-zohran-mamdani-season-3-cameo-1237070454/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Adults-Malik-Elassal-Zohran-Mamdani-2-shot.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "0602265bf655ea80",
       "title": "‘No Paradise If You Are Killed by a Woman’ Review: Iraq’s Oscar Submission Offers a Patriotic Anthem to the Kurdish Peshmerga’s Fight Against Islamic State",
       "quote": "The trope of the lone action hero with near-superhuman strength gets a gender switch in “No Paradise If You Are Killed By A Woman,” a visually impressive drama about a resourceful female Peshmerga sniper. Although…",
@@ -117,28 +315,6 @@
       "link": "https://variety.com/2026/film/reviews/no-paradise-if-you-are-killed-by-a-woman-review-1236852895/",
       "image": "https://variety.com/wp-content/uploads/2026/09/01_Official_Stills_NO_PARADISE_IF_YOU_ARE_KILLED_BY_A_WOMAN_.jpeg",
       "category": "Festival Winners"
-    },
-    {
-      "id": "2d2087efa07c63e8",
-      "title": "Macklemore Emphasizes “Free Palestine” Pleas Are “In No Way A Criticism” Of Jewish People: “My Message Is For Peace”",
-      "quote": "Macklemore is making his stance clear as he doubles down on his onstage “Free Palestine” pleas during Ed Sheeran’s Loop Tour. While opening for night two of Sheeran’s New Jersey stop at MetLife Stadium on Saturday, the…",
-      "publisher": "Deadline",
-      "author": "Glenn Garner",
-      "date": "2026-09-07T21:33:06+00:00",
-      "link": "https://deadline.com/2026/09/macklemore-free-palestine-in-no-way-criticism-jewish-people-1237070434/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2153054097.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "0fe62c344b010fcb",
-      "title": "‘Musk’ Teaser-Trailer: World’s Richest Man Called “Chaotic, Capricious,” “Manifestly Cruel And Selfish” In Damning Alex Gibney Doc",
-      "quote": "Bleecker Street has released a teaser-trailer for Alex Gibney’s highly anticipated documentary Musk, and it’s not a flattering portrait of the SpaceX, Tesla, Starlink honcho and X owner. Yes, the teaser begins with…",
-      "publisher": "Deadline",
-      "author": "Matthew Carey",
-      "date": "2026-09-07T21:00:00+00:00",
-      "link": "https://deadline.com/2026/09/musk-documentary-teaser-trailer-1237070036/",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Musk-courtesy-Venice-Film-Festival.png",
-      "category": "World Cinema"
     },
     {
       "id": "fa58b3501fc407c7",
@@ -152,17 +328,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "c8ab5c1df3d88cd1",
-      "title": "MPA Signs Two Declarations At Lumière Summit, Attends Roundtables With Macron & Lee Jae Myung",
-      "quote": "The Motion Picture Association signed two declarations at the Lumière Summit, aimed at deepening international collaboration and investment in audiovisual sector, protecting intellectual property and strengthening the…",
-      "publisher": "Deadline",
-      "author": "Denise Petski",
-      "date": "2026-09-07T20:52:15+00:00",
-      "link": "https://deadline.com/2026/09/mpa-signs-declarations-lumiere-summit-1237070415/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Charles-Rivkin.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "8b06c2b78365b185",
       "title": "Lioness Season 3 Episode 6 Finally Reveals The Main Villain (And It's Not Who You Think)",
       "quote": "It turns out Taylor Sheridan's been pulling the wool over our eyes in Lioness Season 3, as evidenced by Episode 6's villain reveal.",
@@ -174,17 +339,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "87925ae60bd26e33",
-      "title": "The Business of Lucy Darling: How Carisa Hendrix Went From Performing At Haunted Houses To Touring Globally As Her Old Hollywood-Inspired Character – Comedy Means Business Podcast",
-      "quote": "Carisa Hendrix, the Canadian-born comedian, magician and variety artist, has a business mind as unusual as her career origin story. It’s a story that took Hendrix from performing at haunted houses for $50 a night as a…",
-      "publisher": "Deadline",
-      "author": "Matthewgrobar",
-      "date": "2026-09-07T20:30:12+00:00",
-      "link": "https://deadline.com/2026/09/carisa-hendrix-lucy-darling-comedy-means-business-interview-1237070333/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/TN_CMB_Carisa-Hendrix_BB_082826-v2.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "72461ddf4dc0e960",
       "title": "Silo Author Hugh Howey Has Two Cameos In The Apple TV Series That You Might've Missed",
       "quote": "Silo fans should keep an eye on the background actors, because author Hugh Howey has made two cameo appearances in the series.",
@@ -193,28 +347,6 @@
       "date": "2026-09-07T20:00:00+00:00",
       "link": "https://www.slashfilm.com/2251839/silo-hugh-howey-apple-tv-series-cameo/",
       "image": "https://www.slashfilm.com/img/gallery/silo-author-hugh-howey-has-two-cameos-in-the-apple-tv-series-that-you-mightve-missed/l-intro-1788710366.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "b6aa7d1fa97008d1",
-      "title": "Angelina Jolie's 100-Minute Taylor Sheridan Movie Is One Of Netflix's Biggest Streaming Hits",
-      "quote": "Taylor Sheridan directed this Angelina Jolie-led thriller, which has managed to crack Netflix's most-streamed movies at the moment.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Sandy Schaefer)",
-      "date": "2026-09-07T19:22:15+00:00",
-      "link": "https://www.slashfilm.com/2252271/angelina-jolie-taylor-sheridan-movie-those-who-wish-me-dead-streaming-netflix-september-2026/",
-      "image": "https://www.slashfilm.com/img/gallery/angelina-jolies-100-minute-taylor-sheridan-movie-is-one-of-netflixs-biggest-streaming-hits/l-intro-1788807058.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "16c0d0b042ea4fd7",
-      "title": "How Mark Hamill Channeled His Childhood For One Of His Stephen King Roles",
-      "quote": "Actor Mark Hamill drew inspiration from his own family, and from a disturbing incident he witnessed in his childhood, for this Stephen King villain role.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Devin Meenan)",
-      "date": "2026-09-07T19:00:00+00:00",
-      "link": "https://www.slashfilm.com/2251736/mark-hamill-disturbing-childhood-moment-influenced-stephen-king-villain-the-long-walk/",
-      "image": "https://www.slashfilm.com/img/gallery/how-mark-hamill-channeled-his-childhood-for-one-of-his-stephen-king-roles/l-intro-1788653310.jpg",
       "category": "Indie Gems"
     },
     {
@@ -273,17 +405,6 @@
       "category": "Festival Winners"
     },
     {
-      "id": "bfb2d8c9029b0029",
-      "title": "A new script: Kashmir hosts its inaugural international film festival",
-      "quote": "The festival aims to promote Kashmir as a prominent film destination; it is the second major event to be held in the valley after a G20 meeting in 2023",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-07T16:17:43+00:00",
-      "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/a-new-script-kashmir-hosts-its-inaugural-international-film-festival/article71437983.ece",
-      "image": "https://th-i.thgim.com/public/news/national/2xytbd/article71439699.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-07%20at%2020.35.09.jpeg",
-      "category": "Indian Cinema"
-    },
-    {
       "id": "9f26a0739caf7edf",
       "title": "A labor of laughs: The evolution of sitcom births in 18 episodes",
       "quote": "From I Love Lucy to St. Denis Medical, we unpack the transformation of a sitcom staple.",
@@ -339,28 +460,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "575c54ba15aa82d0",
-      "title": "‘Silo’ Season 3 review: Memories and murder collide as Rebecca Ferguson races to uncover the truth",
-      "quote": "The penultimate season of Graham Yost’s adaptation of Hugh Howey’s sci-fi trilogy builds on the strengths of the previous seasons to present a chilling, thrilling tale of control and the unstoppable force of curiosity",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-07T13:59:07+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/silo-season-3-review-apple-tv-rebecca-ferguson/article71438441.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/tyv8f3/article71439116.ece/alternates/LANDSCAPE_1200/Slio_Photo_030511.jpg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "6faa11632ac2189f",
-      "title": "Lee Chang-dong returns to Venice after 24 years as his film ‘Possible Love’ gets six-minute standing ovation",
-      "quote": "The South Korean filmmaker is competing at the Venice International Film Festival after 24 years since he won the Silver Lion in 2002 for his romantic drama, ‘Oasis’",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-07T13:08:28+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/lee-chang-dong-returns-to-venice-after-24-years-as-his-film-possible-love-gets-six-minute-standing-ovation/article71438765.ece",
-      "image": "https://th-i.thgim.com/public/incoming/o5zogl/article71438785.ece/alternates/LANDSCAPE_1200/2026-09-06T154555Z_1036236420_RC2QDNAZTKKI_RTRMADP_3_FILMFESTIVAL-VENICE-POSSIBLE-LOVE.JPG",
-      "category": "Indian Cinema"
-    },
-    {
       "id": "be3b9e351cf21c19",
       "title": "The Only Living Pickpocket in New York",
       "quote": "Unafraid of executing its simple formula: Let the actors carry the film.",
@@ -370,17 +469,6 @@
       "link": "https://www.rogerebert.com/reviews/the-only-living-pickpocket-in-new-york-film-review-2026",
       "image": null,
       "category": "World Cinema"
-    },
-    {
-      "id": "6a9b0013e958d2f7",
-      "title": "Mammootty turns 75: Fans celebrate an icon whose passion for cinema never fades",
-      "quote": "Celebrating his 75th birthday, iconic actor Mammootty was honored by fans and notable figures in Kochi, who gathered at his residence to pay tribute to his illustrious five-decade career in cinema.",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-07T12:58:33+00:00",
-      "link": "https://www.thehindu.com/news/national/kerala/mammootty-turns-75-fans-celebrate-an-icon-whose-passion-for-cinema-never-fades/article71437538.ece",
-      "image": "https://th-i.thgim.com/public/incoming/mdpxks/article71437613.ece/alternates/LANDSCAPE_1200/80968_3_11_2025_18_5_54_2_IMG_8212.JPEG",
-      "category": "Indian Cinema"
     },
     {
       "id": "6cbc1b72ed8871b7",
@@ -438,50 +526,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "2c64627f0260d9d7",
-      "title": "Mani Ratnam’s next titled ‘Inji Vellam’; Vijay Sethupathi, Sai Pallavi shine in first look",
-      "quote": "The upcoming film has music scored by Mani’s frequent collaborator and ace composer AR Rahman",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-07T11:44:40+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/mani-ratnam-inji-vellam-vijay-sethupathi-sai-pallavi-ar-rahman-first-look/article71435670.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/cwa6me/article71438480.ece/alternates/LANDSCAPE_1200/MAni%20ratnam%20inji%20vellam.jpg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "45ff095ac12be3fa",
-      "title": "‘OM – Chapter 1’: Mammootty is Burma Karthikeyan in Dhanush-Rajkumar Periasamy’s next",
-      "quote": "On Mamootty’s 75th birthday on Monday, the makers unveiled a special teaser introducing the superstar’s character from the film",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-07T11:16:03+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/om-chapter-1-mammootty-dhanush-rajkumar-periasamy-sai-pallavi-sai-abhyankkar/article71437765.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/ak2j7g/article71437807.ece/alternates/LANDSCAPE_1200/Om%20Mammootty.jpg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "988b6a765d7ae92e",
-      "title": "Mari Selvaraj-Ilaiyaraaja’s ‘Manjanathi’ launched; Kayadu Lohar, Priyanka Mohan, Kathir, and more to star",
-      "quote": "Actors Sandy Master, Vidhu and Poornima Ravi are also part of the film",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-07T11:15:46+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/mari-selvaraj-ilaiyaraaja-manjanathi-kayadu-lohar-priyanka-mohan-kathir/article71438004.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/z8yljh/article71438025.ece/alternates/LANDSCAPE_1200/Manjanathi%20Cast.jpeg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "e968d951dcff7c3f",
-      "title": "Director PS Mithran interview on Karthi’s ‘Sardar 2’ and what makes a good sequel",
-      "quote": "The filmmaker speaks about returning to Karthi’s ‘Sardar,’ the challenges of satisfying a diverse audience, and taking the spy genre beyond its familiar tropes",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-07T11:14:46+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/ps-mithran-interview-sardar-2-karthi-sj-suryah-malavika-mohanan-sam-cs/article71429402.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/z8kvpi/article71438136.ece/alternates/LANDSCAPE_1200/PS%20MITHRAN%20sardar%202%20karthi.jpg",
-      "category": "Indian Cinema"
-    },
-    {
       "id": "72b2c6413f92a8ba",
       "title": "Happy Labor Day from The A.V. Club",
       "quote": "",
@@ -513,39 +557,6 @@
       "link": "https://www.bbc.com/culture/article/20260904-the-poison-tipped-umbrella-that-pointed-to-a-kgb-murder?ocid=global_culture_rss",
       "image": "https://ychef.files.bbci.co.uk/144x81/p0p80lkj.jpg",
       "category": "World Cinema"
-    },
-    {
-      "id": "f168e6196d963abc",
-      "title": "In the Shadows of Nuremberg review – trial-adjacent thriller aims to be Russian answer to Saving Private Ryan",
-      "quote": "A trivial personal plotline and a strain of maudlin patriotism undermine Nikolay Lebedev’s shaky telling of the Soviet side of the story Taking place in the wings of the Nuremberg trial, this Soviet-side political…",
-      "publisher": "The Guardian",
-      "author": "Phil Hoad",
-      "date": "2026-09-07T10:00:47+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/07/in-the-shadows-of-nuremberg-review-nikolay-lebedev",
-      "image": "https://i.guim.co.uk/img/media/50bdcbd980daf2d84ee84c5ced067d07159a8395/317_0_900_720/master/900.jpg?width=140&quality=85&auto=format&fit=max&s=60bd113a35cf98e219facb0d571f2f50",
-      "category": "World Cinema"
-    },
-    {
-      "id": "bf3275dc6916cfeb",
-      "title": "Primetime review – Robert Pattinson’s preening TV host hunts paedophiles but real drama proves harder to target",
-      "quote": "Venice film festival: Lance Oppenheim’s drama about controversial US reality show To Catch a Predator is unsure what it wants to say about media or morality Lance Oppenheim is the acclaimed documentary-maker who has…",
-      "publisher": "The Guardian",
-      "author": "Peter Bradshaw",
-      "date": "2026-09-07T09:42:14+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/07/primetime-review-robert-pattinson-venice-film-festival-lance-oppenheim",
-      "image": "https://i.guim.co.uk/img/media/ed3b52c75b1d7fbe18e57da1960ce1bf1ba8e099/250_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=baf5f21b7a3fa9165ccb5a70d783fa07",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "63d8f4b0b4e29ad1",
-      "title": "Imperium review – Sergei Loznitsa’s archive collage collates everyday life in cold-war Soviet Union",
-      "quote": "Venice film festival: The Two Prosecutors director cuts together documentary footage shot by a TV crew in the 1970s to try and get across what daily life in the USSR was like Here is an archive-compilation documentary…",
-      "publisher": "The Guardian",
-      "author": "Peter Bradshaw",
-      "date": "2026-09-07T09:39:26+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/07/imperium-review-sergei-loznitsas-archive-collage-pieces-together-normal-life-in-cold-war-soviet-union",
-      "image": "https://i.guim.co.uk/img/media/67665caf36cfa953dddbdcfe933b08b105039fdc/5_0_1200_961/master/1200.jpg?width=140&quality=85&auto=format&fit=max&s=db98a6103f5b5cbd068f06207758752e",
-      "category": "Festival Winners"
     },
     {
       "id": "e972708030937076",
@@ -787,17 +798,6 @@
       "date": "2026-09-02T11:00:00+00:00",
       "link": "https://www.bbc.com/culture/article/20260901-the-literary-novel-causing-a-hollywood-scandal?ocid=global_culture_rss",
       "image": "https://ychef.files.bbci.co.uk/144x81/p0p7dp81.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "3f6d34da5c0aec43",
-      "title": "The theory that Stonehenge was an ancient computer",
-      "quote": "A US astronomy professor believed that it was built to predict eclipses",
-      "publisher": "BBC Culture",
-      "author": null,
-      "date": "2026-08-31T11:00:00+00:00",
-      "link": "https://www.bbc.com/culture/article/20260828-the-startling-1960s-theory-that-stonehenge-was-a-prehistoric-computer?ocid=global_culture_rss",
-      "image": "https://ychef.files.bbci.co.uk/144x81/p0p6sgfq.jpg",
       "category": "World Cinema"
     },
     {
