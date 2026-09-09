@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T11:07:13.712632+00:00",
+  "generated_at": "2026-09-09T16:24:28.559534+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -9,15 +9,356 @@
   ],
   "reviews": [
     {
-      "id": "f54f1010dfc2e53f",
-      "title": "Channel 4 Confirms Plans To Cut More Than A Quarter Of Its Workforce",
-      "quote": "Channel 4 has announced the deepest round of layoffs in its 43-year history. The British network, home to shows including The Great British Bake Off and Taskmaster, is planning to cut 340 jobs by the end of 2026…",
+      "id": "44ff2b15972aa651",
+      "title": "Paul Feig Plotting ‘The Italian Job’ – The Dish",
+      "quote": "EXCLUSIVE: Director Paul Feig in the early stages of planning a heist. Paramount Pictures is in early talks with The Housemaid director to mount a follow-up to the 2003 film The Italian Job. The studio is out to writers…",
       "publisher": "Deadline",
-      "author": "Jake Kanter",
-      "date": "2026-09-09T11:00:05+00:00",
-      "link": "https://deadline.com/2026/09/channel-4-confirms-300-job-cuts-1237071015/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Channel-4-CEO-Priya-Dogra-2026-Headshot-17.24.45.jpg",
+      "author": "Mike Fleming",
+      "date": "2026-09-09T16:15:00+00:00",
+      "link": "https://deadline.com/2026/09/paul-feig-the-italian-job-sequel-movie-1237072097/",
+      "image": "https://deadline.com/wp-content/uploads/2026/06/Paul-Feig.jpg",
       "category": "World Cinema"
+    },
+    {
+      "id": "e577c9a8a2c583dd",
+      "title": "Thunder Road Teams With Adam Kolbrenner’s Lit Entertainment Group To Launch New Media Company TR/AK",
+      "quote": "Thunder Road Films’ Basil Iwanyk and Erica Lee have partnered with Lit Entertainment Group’s Adam Kolbrenner to launch TR/AK, a new media company centering commercially ambitious and original film and television for…",
+      "publisher": "Deadline",
+      "author": "Matthewgrobar",
+      "date": "2026-09-09T16:15:00+00:00",
+      "link": "https://deadline.com/2026/09/thunder-road-films-lit-entertainment-group-trak-media-co-1237072260/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/TRAK-logo.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "b241f0d636de4976",
+      "title": "Neve Campbell's 101-Minute Fantasy Horror Movie Is An HBO Max Streaming Hit 30 Years Later",
+      "quote": "HBO Max subscribers are getting a head start on scary season by streaming this fantasy horror flick starring the likes of Neve Campbell.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Sandy Schaefer)",
+      "date": "2026-09-09T16:14:30+00:00",
+      "link": "https://www.slashfilm.com/2253873/neve-campbell-fantasy-horror-movie-the-craft-streaming-hbo-max-september-2026/",
+      "image": "https://www.slashfilm.com/img/gallery/neve-campbell-fantasy-horror-movie-the-craft-streaming-hbo-max-september-2026/l-intro-1788970614.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "2c0ddaa996dc41dd",
+      "title": "Upscale Officially Launches As One-Stop Shop For Microdramas",
+      "quote": "EXCLUSIVE: Upscale Media Films, which is making a suite of vertical shows with Hartbeat, is formally launching as a full-service production company for the microdrama market. Malik Davis, who is Upscale’s CEO and…",
+      "publisher": "Deadline",
+      "author": "Jesse Whittock",
+      "date": "2026-09-09T16:08:38+00:00",
+      "link": "https://deadline.com/2026/09/upscale-launches-microdrama-producer-1237072180/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Upscale-Malik-Davis.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "7a438625db571452",
+      "title": "New ‘Digger’ Trailer Reveals More Of Tom Cruise’s Crusty Oil Baron, A Role That Took The Actor 40 Years To Prepare",
+      "quote": "UPDATED with final trailer: The final trailer for Warner Bros’ Digger starring Tom Cruise was released Thursday. Watch it above. The pic, a political satire from Alejandro G. Iñárritu, is still gearing up for its…",
+      "publisher": "Deadline",
+      "author": "Anthonypauldalessandro",
+      "date": "2026-09-09T16:07:03+00:00",
+      "link": "https://deadline.com/2026/09/digger-trailer-tom-cruise-1236980669/",
+      "image": "https://deadline.com/wp-content/uploads/2025/12/Tom-Cruise-in-Digger.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "fea0aa0654e9f15a",
+      "title": "Abramorama Acquires ‘One More Time’ About New York Theater Trio Tackling Beckett’s ‘Endgame’; Scorsese Exec-Produces; Watch Trailer",
+      "quote": "EXCLUSIVE: AB2 Media Group and Abramorama have acquired North American distribution rights to One More Time, the Telluride world premiere documentary about a trio of well known New York theater players tackling Samuel…",
+      "publisher": "Deadline",
+      "author": "Andreas Wiseman",
+      "date": "2026-09-09T16:05:00+00:00",
+      "link": "https://deadline.com/2026/09/abramorama-one-more-time-andre-gregory-endgame-1237072262/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/One-More-Time.jpeg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "9b4cb3671b8689ff",
+      "title": "This South Korean Sci-Fi Movie Takes One Of The Biggest Cinematic Risks Of 2026",
+      "quote": "Hope, the new sci-fi movie from South Korean director Na Hong-jin, is pretty audacious compared to a lot of other films in 2026.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Bill Bria)",
+      "date": "2026-09-09T16:00:00+00:00",
+      "link": "https://www.slashfilm.com/2252537/hope-south-korean-sci-fi-movie-biggest-cinematic-risk-2026/",
+      "image": "https://www.slashfilm.com/img/gallery/this-south-korean-sci-fi-movie-takes-one-of-the-biggest-cinematic-risks-of-2026/l-intro-1788872915.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "7a1e4bf4a4545bf4",
+      "title": "‘The View’s Whoopi Goldberg Shuts Down Audience Boos At Ted Cruz Mention: “We Don’t Jell With Them Always, But We Are Respectful”",
+      "quote": "Whoopi Goldberg shut down dissent from the audience at The View after audible boos were heard following a mention of Republican Sen. Ted Cruz. The ABC daytime talk show started off Hot Topics by mentioning the…",
+      "publisher": "Deadline",
+      "author": "Armando Tinoco",
+      "date": "2026-09-09T15:52:02+00:00",
+      "link": "https://deadline.com/2026/09/the-view-whoopi-goldberg-audience-boos-ted-cruz-1237072288/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/whoopi-goldberg-the-view.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "369ed810236cb177",
+      "title": "Peacock Sets ‘Disclosure Day’ Exclusive Streaming Debut Date",
+      "quote": "Steven Spielberg’s Disclosure Day will begin streaming exclusively on Peacock October 9, the streamer announced today. From Universal Pictures and Amblin Entertainment, Disclosure Day, starring Emily Blunt, Josh…",
+      "publisher": "Deadline",
+      "author": "Greg Evans",
+      "date": "2026-09-09T15:50:06+00:00",
+      "link": "https://deadline.com/2026/09/disclosure-day-peacock-streaming-debut-1237072264/",
+      "image": "https://deadline.com/wp-content/uploads/2025/12/Disclosure-Day-1.png",
+      "category": "World Cinema"
+    },
+    {
+      "id": "a256bc51e184bfa6",
+      "title": "Union Town review – passionate exposé of US delivery workers’ employment conditions",
+      "quote": "Venice film festival: Barbara Kopple returns with her third film investigating US workers’ rights – this time, undocumented ‘deliveristas’ and the attempts to unionise Amazon staff Barbara Kopple’s documentary about…",
+      "publisher": "The Guardian",
+      "author": "Xan Brooks in Venice",
+      "date": "2026-09-09T15:49:03+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/09/union-town-review-barbara-kopple-amazon-ups",
+      "image": "https://i.guim.co.uk/img/media/425fa67c86d8adeaf18a086c0b643df874a553c7/437_0_2082_1666/master/2082.jpg?width=140&quality=85&auto=format&fit=max&s=525fc0c7db3857f49539fcbd46b3174a",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "17fb2c89eff08047",
+      "title": "Netflix Searches For ‘Love At First Sight’ With Latest Dating Show From Velvet Hammer",
+      "quote": "EXCLUSIVE: Netflix is doubling down on dating. The streamer has ordered Love At First Sight, which comes from Age of Attraction producer Velvet Hammer Media, its latest move in the popular dating genre. Many of…",
+      "publisher": "Deadline",
+      "author": "Peterdeadline",
+      "date": "2026-09-09T15:45:00+00:00",
+      "link": "https://deadline.com/2026/09/netflix-love-at-first-sight-dating-show-velvet-hammer-1237071654/",
+      "image": "https://deadline.com/wp-content/uploads/2026/03/Age_of_Attraction_n_S1_E2_00_39_58_20R.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "dfda788c5a951771",
+      "title": "John Malkovich cancels Israel trip over fabricated solidarity quote",
+      "quote": "The Wild Horse Nine actor had been due to appear on stage in The Music Critic in Tel Aviv – but pulled out over PR firm’s ‘unacceptable and untenable’ attribution of statement John Malkovich has cancelled a planned trip…",
+      "publisher": "The Guardian",
+      "author": "Catherine Shoard",
+      "date": "2026-09-09T15:23:41+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/09/john-malkovich-cancels-israel-trip-over-fabricated-solidarity-quote",
+      "image": "https://i.guim.co.uk/img/media/0184002764d0a71a861badf631cfa1930aeac460/172_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=8174dd16bbc336f0722a31f059723f89",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "c74de022f64526a0",
+      "title": "‘Carrie’ trailer: Mike Flanagan brings Stephen King’s horror classic into the social media age",
+      "quote": "The new trailer for Mike Flanagan’s ‘Carrie’ gives a fuller look at Summer H. Howell’s tormented teenager and the telekinetic fury building towards prom night",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-09T15:02:45+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/carrie-trailer-mike-flanagan-brings-stephen-kings-horror-classic-into-the-social-media-age/article71448271.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/3qafzp/article71448214.ece/alternates/LANDSCAPE_1200/Screenshot%202026-09-09%20201336.png",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "072a67b9caefacf8",
+      "title": "Alan Hale Jr.'s Last Ever Western Role Was In A Forgotten 1984 Movie Streaming On Prime Video",
+      "quote": "Gilligan's Island actor Alan Hale Jr. returned to the Old West one last time in The Red Fury, a 1984 Western that's currently on Prime Video.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Joe Roberts)",
+      "date": "2026-09-09T15:00:00+00:00",
+      "link": "https://www.slashfilm.com/2253151/alan-hale-jr-last-western-role-1984-movie-the-red-fury-prime-video/",
+      "image": "https://www.slashfilm.com/img/gallery/alan-hale-jr-s-last-ever-western-role-was-in-a-forgotten-1984-movie-streaming-on-prime-video/l-intro-1788893461.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "7eb033f4cd05d23a",
+      "title": "‘Digger’ final trailer: Tom Cruise plays an oil tycoon who must save a world he helped destroy",
+      "quote": "The new trailer for Alejandro G. Iñárritu’s dark comedy gives a fuller look at Tom Cruise’s bizarre transformation into billionaire Digger Rockwell",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-09T14:41:32+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/digger-final-trailer-tom-cruise-plays-an-oil-tycoon-who-must-save-a-world-he-helped-destroy/article71448143.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/kll7b9/article71448131.ece/alternates/LANDSCAPE_1200/Screenshot%202026-09-09%20201007.png",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "575c54ba15aa82d0",
+      "title": "‘Silo’ Season 3 review: Memories and murder collide as Rebecca Ferguson races to uncover the truth",
+      "quote": "The penultimate season of Graham Yost’s adaptation of Hugh Howey’s sci-fi trilogy builds on the strengths of the previous seasons to present a chilling, thrilling tale of control and the unstoppable force of curiosity",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-09T14:33:25+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/silo-season-3-review-apple-tv-rebecca-ferguson/article71438441.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/tyv8f3/article71439116.ece/alternates/LANDSCAPE_1200/Slio_Photo_030511.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "cf07f9c73bb7a507",
+      "title": "‘Remain’ teaser: Jake Gyllenhaal and Phoebe Dynevor find a supernatural mystery in M. Night Shyamalan’s new romance",
+      "quote": "The first teaser for M. Night Shyamalan’s’ Remain’ begins as an intimate love story before sending Jake Gyllenhaal’s grieving architect into a supernatural mystery",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-09T14:31:55+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/remain-teaser-jake-gyllenhaal-and-phoebe-dynevor-find-a-supernatural-mystery-in-m-night-shyamalans-new-romance/article71448069.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/e52d04/article71448047.ece/alternates/LANDSCAPE_1200/Screenshot%202026-09-09%20195743.png",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "1c542cd57264dccc",
+      "title": "Ted Lasso Season 4 Is Badly Failing Its Key Female Characters",
+      "quote": "By the end of Ted Lasso Season 3, Rebecca and Keeley were some of the most beloved characters on the show. But Season 4 is badly failing both of them so far.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Ben Pearson)",
+      "date": "2026-09-09T14:00:00+00:00",
+      "link": "https://www.slashfilm.com/2252870/ted-lasso-season-4-fail-female-characters/",
+      "image": "https://www.slashfilm.com/img/gallery/ted-lasso-season-4-is-badly-failing-its-key-female-characters/l-intro-1788893065.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "ae69b9a54d6b0613",
+      "title": "‘The Gentlemen’ Season 2 review: Theo James anchors Guy Ritchie’s style over substance gangster saga",
+      "quote": "Enjoyable and instantly forgettable, this tale of aristos growing marijuana to fund their estates sees Theo James’s Eddie attempting to extricate himself from increasingly complicated situations with ducal panache",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-09T13:48:43+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/the-gentlemen-season-2-review-theo-james-anchors-guy-ritchies-style-over-substance-gangster-saga/article71441898.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/g6hdtu/article71447756.ece/alternates/LANDSCAPE_1200/AAAAQTfamOrhE3iojzrpzf8kA6-OJfy52PrCwvfRgF8SUQWeBXajEViuOxFZfYy6XeZe52bgejASKjIJA4kuzoTLK21cqfB7op9GJU8kh-BM1CrfnAblX8p4lTNaz9CgYKkZfHFH26oBGxzUcNHxhJ8V0s6P.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "bba4fa5f08bc0d53",
+      "title": "DAU review – Ilya Krzhanovsky’s crazed Soviet inferno reaches its central character",
+      "quote": "Venice film festival: The director’s bleak epic project about the scientist Lev Landau finally focuses on the genius maudit who inspired the series How would it be if Christopher Nolan got sidetracked while making…",
+      "publisher": "The Guardian",
+      "author": "Peter Bradshaw",
+      "date": "2026-09-09T13:45:00+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/09/dau-review-venice-film-festival-ilya-khrzhanovsky",
+      "image": "https://i.guim.co.uk/img/media/deb280e05c5eeea492646e2c2aa89ec9e54a0153/812_0_2767_2214/master/2767.jpg?width=140&quality=85&auto=format&fit=max&s=e6e52ecdbe2139000387f1e57ae1a05f",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "7cc34ce0ba5cd4ba",
+      "title": "‘DAU’ Review: A Towering and Immersive Cinematic Epic That Recreates the Dark Ages of Soviet Oppression",
+      "quote": "Director Ilya Khrzhanovsky's biopic of Russian physicist Lev Lendau has been 20 years in the making, with over a dozen related features and other projects created in what’s been dubbed the 'Stalinist Truman Show.'",
+      "publisher": "The Hollywood Reporter",
+      "author": "Jordan Mintzer",
+      "date": "2026-09-09T13:45:00+00:00",
+      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/dau-review-ilya-khrzhanovsky-1236689339/",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "6f3077f180886fb9",
+      "title": "The Uprising review – the peasants are revolting in muddled historical epic",
+      "quote": "Andrew Garfield’s charisma can’t save Paul Greengrass’s grim and depressingly generic period piece Hollywood loves giving young actors their own historical epic as much as audiences seem to dislike watching them…",
+      "publisher": "The Guardian",
+      "author": "Owen Myers",
+      "date": "2026-09-09T13:00:02+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/09/the-uprising-movie-review",
+      "image": "https://i.guim.co.uk/img/media/c70adbdc52a8efa578dc8ebef0cc48e0b9d8ac9d/893_0_4214_3375/master/4214.jpg?width=140&quality=85&auto=format&fit=max&s=aab05b61eb88cfaa07f09a613459a6d3",
+      "category": "World Cinema"
+    },
+    {
+      "id": "3fe57567a0379c92",
+      "title": "‘The Uprising’ Review: Andrew Garfield and Paul Greengrass Go Medieval on the Peasants’ Revolt of 1381, With Uneven Results",
+      "quote": "Among medieval hand-held farming tools, the sickle is your best bet for reaping. It’s also just the thing for deadly weaponry in times of a peasant revolt, especially one momentous enough to earn capital letters and its…",
+      "publisher": "Variety",
+      "author": "Guy Lodge",
+      "date": "2026-09-09T13:00:00+00:00",
+      "link": "https://variety.com/2026/film/reviews/the-uprising-review-andrew-garfield-1236855448/",
+      "image": "https://variety.com/wp-content/uploads/2026/07/uprising.png",
+      "category": "World Cinema"
+    },
+    {
+      "id": "43be814811f9f9e8",
+      "title": "‘The Uprising’ Review: Andrew Garfield in Paul Greengrass’ Intense but Monotonous Medieval Actioner",
+      "quote": "The violent historical drama about the 14th-century Peasants' Revolt also features Jamie Bell, Stephen Dillane, Katherine Waterston, Cosmo Jarvis and Thomasin McKenzie.",
+      "publisher": "The Hollywood Reporter",
+      "author": "Frank Scheck",
+      "date": "2026-09-09T13:00:00+00:00",
+      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/the-uprising-review-andrew-garfield-paul-greengrass-1236694209/",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "edcfecad602c52dd",
+      "title": "The Uprising",
+      "quote": "A watchable historical epic animated by the sort of contemporary spirit one rarely finds in this genre.",
+      "publisher": "RogerEbert.com",
+      "author": "Lacy Baugher",
+      "date": "2026-09-09T13:00:00+00:00",
+      "link": "https://www.rogerebert.com/reviews/the-uprising-andrew-garfield-paul-greengrass-movie-review-2026",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "3a04472ce652abaf",
+      "title": "The Uprising Review: Andrew Garfield's Robin Hood Origin (Sort Of) Is A Dull, Dreary Disappointment",
+      "quote": "A Robin Hood origin story that isn't actually about Robin Hood, The Uprising has nothing interesting to say about anything, really. Here's our review.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Jeremy Mathai)",
+      "date": "2026-09-09T13:00:00+00:00",
+      "link": "https://www.slashfilm.com/2252719/the-uprising-review-andrew-garfield-2026-movie/",
+      "image": "https://www.slashfilm.com/img/gallery/the-uprising-review-andrew-garfields-robin-hood-origin-sort-of-is-a-dull-dreary-disappointment/l-intro-1788875927.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "a41f14f77ca567b8",
+      "title": "Suriya’s next is ‘Scene’, directed by Jithu Madhavan; title teaser out",
+      "quote": "Also starring Nazriya Nazim, Naslen, John Vijay and Anandraj in pivotal roles, the film is set to release in theatres on November 6",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-09T12:58:20+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/suriya-scene-title-teaser-jithu-madhavan-deepavali-release-naslen-nazriya/article71446535.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/8wl69p/article71447280.ece/alternates/LANDSCAPE_1200/Scene%20Suriya.png",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "4145eb3261375069",
+      "title": "15 Years Ago Today: One Of The Best Martial Arts Movies Ever Made Flopped In Theaters",
+      "quote": "Released 15 years ago today, Warrior, starring Tom Hardy, was a box office flop. Thankfully, the film eventually found its audience.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Devin Meenan)",
+      "date": "2026-09-09T12:48:31+00:00",
+      "link": "https://www.slashfilm.com/2253652/warrior-best-martial-arts-movie-15-year-anniversary/",
+      "image": "https://www.slashfilm.com/img/gallery/15-years-ago-today-one-of-the-best-martial-arts-movies-ever-made-flopped-in-theaters/l-intro-1788957916.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "be4029494fa297e3",
+      "title": "‘Joie de Vivre’ Review: Luca Guadagnino’s Marathon Doc on Bernardo Bertolucci Is Both a Feast and a Self-Indulgent Over-Abundance",
+      "quote": "Martin Scorsese, James Gray, Alfonso Cuarón and David Cronenberg are among directors chiming in on this freewheeling two-part conversation, along with actors Debra Winger and Margot Robbie.",
+      "publisher": "The Hollywood Reporter",
+      "author": "David Rooney",
+      "date": "2026-09-09T12:35:00+00:00",
+      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/joie-de-vivre-review-luca-guadagnino-bernardo-bertolucci-1236694788/",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "8e9c6d01be776eaf",
+      "title": "‘Udta Teer’: Ayushmann Khurrana and Sara Ali Khan’s comedy-drama gets new release date",
+      "quote": "The film has been written and directed by Akash A Kaushik in his directorial debut.",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-09T12:10:01+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/udta-teer-ayushmann-khurrana-and-sara-ali-khans-comedy-drama-gets-new-release-date/article71447002.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/ea6i4b/article71447016.ece/alternates/LANDSCAPE_1200/Ayushmann%20Khurrana%20in%20%E2%80%98Udta%20Teer%E2%80%99%20poster",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "14f4b16d8a86e52d",
+      "title": "Call My Agent! The Movie review – the gang get back together and c’est formidable",
+      "quote": "The screwball French comedy is back as a film that actually works, thanks to putting Andréa and Noémie at the heart of chaotic events and bringing all the old faces back At last: a beloved-TV-show-to-film-spinoff that…",
+      "publisher": "The Guardian",
+      "author": "Leslie Felperin",
+      "date": "2026-09-09T12:00:47+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/09/call-my-agent-the-movie-review-camille-cottin-laure-",
+      "image": "https://i.guim.co.uk/img/media/034747e481a2d8f2b05ad395feb768fbc9e331b7/1038_1256_5597_4478/master/5597.jpg?width=140&quality=85&auto=format&fit=max&s=a633a5fddc300a0b19775051740b2bbc",
+      "category": "World Cinema"
+    },
+    {
+      "id": "ae086fb5b19e8695",
+      "title": "Reacher Season 4 Makes Us Wish Alan Ritchson Had Joined A Classic Franchise",
+      "quote": "The fourth season of Prime Video's Reacher has us wondering what could have been if star Alan Ritchson had been added to a classic action franchise.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Rafael Motamayor)",
+      "date": "2026-09-09T12:00:00+00:00",
+      "link": "https://www.slashfilm.com/2247562/reacher-season-4-wish-alan-ritchson-joined-mission-impossible-franchise/",
+      "image": "https://www.slashfilm.com/img/gallery/reacher-season-4-makes-us-wish-alan-ritchson-had-joined-a-classic-franchise/l-intro-1788189573.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "3c029b3c0e0a4f14",
@@ -49,18 +390,7 @@
       "author": "Stuart Heritage",
       "date": "2026-09-09T10:30:04+00:00",
       "link": "https://www.theguardian.com/film/2026/sep/09/brad-pitt-coffee-the-heart-of-the-beast",
-      "image": "https://i.guim.co.uk/img/media/651a7ae8094cddb3cff0986edea2741fa82537f1/760_0_3600_2880/master/3600.jpg?width=140&quality=85&auto=format&fit=max&s=81427102a770fbab783008eff858213d",
-      "category": "World Cinema"
-    },
-    {
-      "id": "74bd70d499b8e96a",
-      "title": "Netflix South Africa Slate Includes Latest ‘How To Ruin’, ‘Seriously Single’ & ‘Disaster Holiday’ Editions",
-      "quote": "Netflix’s How to Ruin, Seriously Single and Disaster Holiday franchises are getting new editions as part of the streamer’s latest South African slate. Following the launch of Blood Legacy Season 2 on September 25…",
-      "publisher": "Deadline",
-      "author": "Jesse Whittock",
-      "date": "2026-09-09T10:30:00+00:00",
-      "link": "https://deadline.com/2026/09/netflix-south-africa-slate-how-to-ruin-disaster-holiday-1237071949/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/netflix-south-africa-shows.jpg",
+      "image": "https://i.guim.co.uk/img/media/651a7ae8094cddb3cff0986edea2741fa82537f1/953_299_3101_2480/master/3101.jpg?width=140&quality=85&auto=format&fit=max&s=98cf44895c464f027f796e554c5814fb",
       "category": "World Cinema"
     },
     {
@@ -73,138 +403,6 @@
       "link": "https://www.theguardian.com/film/2026/sep/09/blue-film-review-polarising-sex-worker-drama-is-well-acted-and-deeply-disturbing",
       "image": "https://i.guim.co.uk/img/media/63115fa919766391532cbd28a056999e2662436b/753_0_2109_1688/master/2109.jpg?width=140&quality=85&auto=format&fit=max&s=566a1059eccb4e27c6b102e0e4a739d6",
       "category": "World Cinema"
-    },
-    {
-      "id": "3aa0f600c82307f9",
-      "title": "John Malkovich Cancels 2027 Tel Aviv Show & Says Producers Fabricated Quotes About The Performance",
-      "quote": "John Malkovich has canceled a planned performance in Israel next year over what he described as the publication of an unauthorized press release to announce the show. Malkovich was scheduled to perform The Music Critic…",
-      "publisher": "Deadline",
-      "author": "Zac Ntim",
-      "date": "2026-09-09T09:49:36+00:00",
-      "link": "https://deadline.com/2026/09/john-malkovich-israelthe-music-critic-cancel-1237071975/",
-      "image": "https://deadline.com/wp-content/uploads/2025/10/GettyImages-2195744981-e1759348619625.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "b549c0dc2ec32e14",
-      "title": "BBC Boss Matt Brittin Asked News Unit To Examine Jason Arday Coverage After Cambridge Professor’s Death",
-      "quote": "EXCLUSIVE: The BBC’s new director general ordered the UK broadcaster’s news division to assess its coverage of Jason Arday after the academic died by suicide last month. The University of Cambridge professor was…",
-      "publisher": "Deadline",
-      "author": "Jake Kanter",
-      "date": "2026-09-09T09:33:50+00:00",
-      "link": "https://deadline.com/2026/09/bbc-matt-brittin-news-unit-examine-jason-arday-coverage-1237071542/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/9d5d45b0-9284-11f1-9985-cdf6a137096d-e1788944060482.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "a4454e958b059480",
-      "title": "Damilola Orimogunje On Making Venice Giornate History & Prioritizing African Distribution With His Sophomore Feature ‘Dear Ajayi’",
-      "quote": "Damilola Orimogunje is set to make a small piece of African cinema history this week in Venice, where he will become the first Nigerian filmmaker to debut a feature in the Giornate degli Autori competition with his…",
-      "publisher": "Deadline",
-      "author": "Zac Ntim",
-      "date": "2026-09-09T09:25:05+00:00",
-      "link": "https://deadline.com/2026/09/damilola-orimogunje-venice-giornate-dear-ajayi-1237071950/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/IMG_0608.png",
-      "category": "World Cinema"
-    },
-    {
-      "id": "fa7e3223d142925c",
-      "title": "‘Our Loves’: First Trailer For Avi Nesher’s October 7 Film Ahead Of TIFF Berth; Shari Redstone, Len Blavatnik Among Exec Producers",
-      "quote": "EXCLUSIVE: Here’s your first trailer for writer-director Avi Nesher’s October 7 film Our Loves, which is vying for 12 Israeli Academy Awards (Ophirs) later today, before its North American premiere at Toronto tomorrow…",
-      "publisher": "Deadline",
-      "author": "Andreas Wiseman",
-      "date": "2026-09-09T09:20:58+00:00",
-      "link": "https://deadline.com/2026/09/our-loves-trailer-avi-nesher-october-7-film-toronto-ophir-1237071955/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Our-Loves.jpg",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "bf26e4311229c575",
-      "title": "Yuja review – portrait of star pianist who is intellectually curious and deeply musically attuned",
-      "quote": "Musician is also rattled to find her appearance gets far more attention than her playing in this reflective documentary from Lorna Tucker As well as her film about her own difficult teenage years , British director…",
-      "publisher": "The Guardian",
-      "author": "Leslie Felperin",
-      "date": "2026-09-09T08:00:04+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/09/yuja-review-portrait-of-star-pianist-who-is-intellectually-curious-and-deeply-musically-attuned",
-      "image": "https://i.guim.co.uk/img/media/aae87c99702c6e6abd76e38ca28c161ff996c834/698_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=b47279d7f75471c7da6328198d09b99b",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "77d0810486aa02cf",
-      "title": "Penelope Cruz and Javier Bardem’s ‘Bunker’ gets 15-minute standing ovation at Venice",
-      "quote": "After the screening of the Florian Zeller directorial, both Penelope and Javier were seen getting emotional with the overwhelming response",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-09T07:39:16+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/penelope-cruz-and-javier-bardems-bunker-gets-15-minute-standing-ovation-at-venice/article71446265.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/rcgkpe/article71446287.ece/alternates/LANDSCAPE_1200/Javier%20Bardem%20and%20Penelope%20Cruz%20at%20the%20red%20carpet%20for%20the%20film%20%E2%80%98Bunker%E2%80%99%20during%20the%2083rd%20edition%20of%20the%20Venice%20Film%20Festival%20in%20Venice",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "819d624938494098",
-      "title": "LevelK Posts U.S. & Euro Sales Haul For Karlovy Vary Prizewinner ‘The Guest’",
-      "quote": "EXCLUSIVE: Danish director Mads Mengel’s debut feature The Guest has been acquired for the U.S. and multiple European territories following its prize-winning world premiere in competition at the Karlovy Vary…",
-      "publisher": "Deadline",
-      "author": "Melanie Goodfellow",
-      "date": "2026-09-09T07:39:10+00:00",
-      "link": "https://deadline.com/2026/09/levelk-us-euro-sales-karlovy-vary-prizewinner-guest-1237071941/",
-      "image": "https://deadline.com/wp-content/uploads/2026/06/TheGuest_PressStill03_@MonolitFilm.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "acc9a64739c68bfd",
-      "title": "‘Artificial’ trailer: Andrew Garfield plays Sam Altman in Luca Guadagnino’s OpenAI drama",
-      "quote": "The first trailer offers a dark first look at Luca Guadagnino’s film about the 2023 crisis that briefly saw Altman removed as OpenAI CEO",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-09T07:23:54+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/artificial-trailer-andrew-garfield-plays-sam-altman-in-luca-guadagninos-openai-drama/article71446257.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/vz8j95/article71446252.ece/alternates/LANDSCAPE_1200/artificial-imagen-1024x576.jpg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "9cf2299cb1242c98",
-      "title": "‘Lust Stories 3’ trailer: Siddharth, Aditi Rao Hydari sparkle in third outing of anthology film",
-      "quote": "The Netflix film also stars Radhika Apte, Konkona Sen Sharma, Radhika Madan, Sana Thampi, Vijay Varma, Abhishek Banerjee, Ali Fazal and Gurfateh Pirzada",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-09T07:23:47+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/lust-stories-3-trailer-netflix-siddharth-aditi-rao-hydari-radhika-apte-konkona-sen-sharma/article71446146.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/jgz9pc/article71446175.ece/alternates/LANDSCAPE_1200/Siddharth%20and%20Aditi%20Rao%20Hydari%20in%20%E2%80%98Lust%20Stories%203%E2%80%99",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "935b59f575662345",
-      "title": "Konkona Sen Sharma on the method behind her acting and her preference for unconventional roles",
-      "quote": "Konkana Sen Sharma’s latest outing as a lesbian Dalit factory worker in Netflix’s short film Geeli Pucchi has won critical acclaim, and an award",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-09T07:23:40+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/konkona-sen-sharma-on-the-method-behind-her-acting-and-her-preference-for-unconventional-roles/article65200944.ece",
-      "image": "https://th-i.thgim.com/public/incoming/g5nc0i/article65213880.ece/alternates/LANDSCAPE_1200/13SM_Konkona%20Sen_Artx.jpg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "49e35e7a05c8f137",
-      "title": "How did Netflix's 'Lust Stories' Lust come about?",
-      "quote": "The quartet of filmmakers behind Bombay Talkies reunite for a set of shorts centered around the primal instinct",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-09T07:21:30+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/lust-is-a-many-splendoured-thing/article61826818.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/8n10ue/article24116781.ece/alternates/LANDSCAPE_1200/09bmlust0c00212c",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "d65a5112d707a896",
-      "title": "‘Godzilla Minus Zero’ trailer: Godzilla faces a terrifying new threat as Ghidorah looms",
-      "quote": "The new trailer for Takashi Yamazaki’s ‘Godzilla Minus Zero’ teases the possible arrival of King Ghidorah while bringing Godzilla back for another devastating rampage",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-09T07:10:39+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/godzilla-minus-zero-trailer-godzilla-faces-a-terrifying-new-threat-as-ghidorah-looms/article71446136.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/a7utwb/article71446204.ece/alternates/LANDSCAPE_1200/godzilla-minus-zero-ghidorah-2.jpg",
-      "category": "Indian Cinema"
     },
     {
       "id": "3406221bf0491039",
@@ -229,17 +427,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "3d5084ff9df2d714",
-      "title": "‘Treasure Island’: Hayley Atwell, David Oyelowo & Tom Sweet Hit The High Seas In First Look At MGM+ & Paramount+ Pirate Series",
-      "quote": "EXCLUSIVE: Shiver me timbers! Here’s a first look at Paramount+’s upcoming pirate drama Treasure Island. Above and below you can see seven images from the Playground Entertainment’s six-part adventure series starring…",
-      "publisher": "Deadline",
-      "author": "Jesse Whittock",
-      "date": "2026-09-09T07:00:00+00:00",
-      "link": "https://deadline.com/2026/09/treasure-island-first-look-paramount-mgm-1237070795/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Treasure-Island.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "908ff7c2581076b1",
       "title": "‘A Common Story’ Review: A Stunningly Played Study of a Couple Whose Inability to Articulate Their Emotions Drives Them Apart",
       "quote": "Far too often, relationship dramas devolve into screaming matches with a predictable crescendo that exhausts both actors and audiences: They’re using words, but since few writers have the caustic wit of Edward Albee…",
@@ -249,17 +436,6 @@
       "link": "https://variety.com/2026/film/reviews/a-common-story-review-1236855454/",
       "image": "https://variety.com/wp-content/uploads/2026/09/113681-UNA_STORIA__A_COMMON_STORY__-_Alba_Rohrwacher__and_Guido_Caprino__Credits_Nicole_Verzaro_.jpg",
       "category": "World Cinema"
-    },
-    {
-      "id": "3bcea1a9b1ad2b6a",
-      "title": "‘Declassified: Operation Sindoor’ on Discovery is an inside look at what happened over those 88 hours",
-      "quote": "The two-part documentary pans in on the 88-hour military operation by India in response to the killing of tourists at Pahalgam in Kashmir",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-09T06:03:06+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/declassified-operation-sindoor-on-discovery-is-an-inside-look-at-what-happened-over-those-88-hours/article71438302.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/2gun0t/article71441879.ece/alternates/LANDSCAPE_1200/OPERATION%20SINDOOR%20_11.jpg",
-      "category": "Indian Cinema"
     },
     {
       "id": "6fc7d3ee5a2dadb2",
@@ -273,17 +449,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "5530c77c31cadb7e",
-      "title": "‘Would they fight or hug?’ The Oasis comeback film’s makers on shooting fans, vicars, police – and the Gallaghers",
-      "quote": "The crowds wept and prayed, police used their song lyrics for briefings and a vicar gave a sermon about brotherly forgiveness. The directors of Don’t Look Back in Anger relive their wildest ride ever On 4 July last…",
-      "publisher": "The Guardian",
-      "author": "Dave Simpson",
-      "date": "2026-09-09T04:00:58+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/09/oasis-dont-look-back-in-anger-documentary-interview-liam-noel-gallagher",
-      "image": "https://i.guim.co.uk/img/media/f4e18b4f0c94c248b9032536304bf206b3a21ed3/624_76_1473_1179/master/1473.jpg?width=140&quality=85&auto=format&fit=max&s=b1b4d017e7a07ad58108a933472b4d34",
-      "category": "World Cinema"
-    },
-    {
       "id": "f4afc09bbd2b570a",
       "title": "Apple TV’s Last Seen works better as a family saga than a crime thriller",
       "quote": "Colin From Accounts' Patrick Brammall elevates the Australian drama about a dad searching for his missing child.",
@@ -293,6 +458,17 @@
       "link": "https://www.avclub.com/last-seen-review-apple-tv-patrick-brammal",
       "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/08152045/last-seen.jpg",
       "category": "Indie Gems"
+    },
+    {
+      "id": "df62e39e92b6ad5c",
+      "title": "Last Seen",
+      "quote": "“Last Seen” isn’t perfect, but it does so many of the things right that other thrillers don’t even try to do at all.",
+      "publisher": "RogerEbert.com",
+      "author": "Brian Tallerico",
+      "date": "2026-09-09T01:00:00+00:00",
+      "link": "https://www.rogerebert.com/reviews/last-seen-apple-thriller-tv-review-2026",
+      "image": null,
+      "category": "World Cinema"
     },
     {
       "id": "1162a81684387b35",
@@ -317,17 +493,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "35db4fba47516df9",
-      "title": "Gilligan's Island Star Tina Louise Made Her Movie Debut Alongside A Western Legend",
-      "quote": "Tina Louise made her movie debut alongside Western legend Robert Ryan in this particularly memorable pre-Gilligan's Island venture.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Jeremy Smith)",
-      "date": "2026-09-08T23:00:00+00:00",
-      "link": "https://www.slashfilm.com/2252121/gillgans-island-tina-louise-western-legend-robert-ryan-gods-little-acre/",
-      "image": "https://www.slashfilm.com/img/gallery/gilligans-island-star-tina-louise-made-her-movie-debut-alongside-a-western-legend/l-intro-1788791996.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "6cbb604e7b504e9d",
       "title": "If the Oscars want Chris Rock back, they're going to have to nominate him",
       "quote": "Four years after the slap, Chris Rock returns with a new film, Misty Green, and a distinct lack of interest in the Academy Awards.",
@@ -337,17 +502,6 @@
       "link": "https://www.avclub.com/chris-rock-oscars-return",
       "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/08172323/chris-rock-feature.jpg",
       "category": "Festival Winners"
-    },
-    {
-      "id": "8e66f340debcf85b",
-      "title": "One Of Eddie Murphy's Biggest Box Office Hits Became A Historic Flop 30 Years Later",
-      "quote": "Judging by the box office returns, few people were aware this Eddie Murphy hit was re-released in theaters over the weekend.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Ryan Scott)",
-      "date": "2026-09-08T21:00:00+00:00",
-      "link": "https://www.slashfilm.com/2253050/eddie-murphy-box-office-hit-the-nutty-professor-flop-re-release/",
-      "image": "https://www.slashfilm.com/img/gallery/eddie-murphy-box-office-hit-the-nutty-professor-flop-re-release/l-intro-1788898073.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "ac1f511722cd2d69",
@@ -369,28 +523,6 @@
       "date": "2026-09-08T20:35:48+00:00",
       "link": "https://www.avclub.com/the-gentlement-season-2-viewership-dropoff",
       "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/07/09124234/MixCollage-09-Jul-2026-12-40-PM-7110.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "7a986ea4259dc972",
-      "title": "Mark Wahlberg's 109-Minute Crime Thriller Is One Of Netflix's Biggest Streaming Hits",
-      "quote": "Mark Wahlberg has a new movie out in theaters, but audiences are turning to Netflix to watch this crime thriller from 2012 instead.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Jeremy Smith)",
-      "date": "2026-09-08T20:18:32+00:00",
-      "link": "https://www.slashfilm.com/2253277/mark-wahlberg-crime-thriller-movie-contrabrand-streaming-netflix-september-2026/",
-      "image": "https://www.slashfilm.com/img/gallery/mark-wahlbergs-109-minute-crime-thriller-is-one-of-netflixs-biggest-streaming-hits/l-intro-1788898581.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "5d0f85eb548fc141",
-      "title": "NYPD Blue Got A Bizarre Sitcom Spin-Off That Was Canceled After One Episode",
-      "quote": "Hit police procedural NYPD Blue was known for its gritty realism, so the short-lived sitcom spin-off was a bizarre choice.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-09-08T20:00:00+00:00",
-      "link": "https://www.slashfilm.com/2251857/nypd-blue-sitcom-spin-off-public-morals-canceled-one-episode/",
-      "image": "https://www.slashfilm.com/img/gallery/nypd-blue-got-a-bizarre-sitcom-spin-off-that-was-canceled-after-one-episode/l-intro-1788720173.jpg",
       "category": "Indie Gems"
     },
     {
@@ -416,28 +548,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "64fd88ec567f86b7",
-      "title": "Company review – Casey Affleck entertains us with creepy campfire tales",
-      "quote": "Venice film festival: Affleck’s third film as a director is a diverting gothic anthology about mysterious strangers, murder and – pointedly – wronged men Gather ye ’round the glowing screen for a Casey Affleck campfire…",
-      "publisher": "The Guardian",
-      "author": "Xan Brooks in Venice",
-      "date": "2026-09-08T19:45:48+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/08/company-review-casey-affleck-creepy-anthology",
-      "image": "https://i.guim.co.uk/img/media/a1c5588bd7c78279dcba5b232e64c9a11ec683d0/612_0_1003_802/master/1003.jpg?width=140&quality=85&auto=format&fit=max&s=65870d838addecf485feed4ae772c3b5",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "bf35a0ab5462deb2",
-      "title": "The Original Star Wars Is Heading To IMAX To Celebrate The Saga's Biggest Milestone Yet",
-      "quote": "Star Wars will be celebrating its 50th birthday in style, with the original 1977 version of the film getting an IMAX release in 2027.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Witney Seibold)",
-      "date": "2026-09-08T19:39:28+00:00",
-      "link": "https://www.slashfilm.com/2253227/star-wars-a-new-hope-1977-imax-release-50-year-anniversary/",
-      "image": "https://www.slashfilm.com/img/gallery/the-original-star-wars-is-heading-to-imax-to-celebrate-the-sagas-biggest-milestone-yet/l-intro-1788896196.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "c66474d0b1702f68",
       "title": "Yellowjackets creators say they decided to speed plot up, end series early",
       "quote": "Series creators Ashley Lyle and Bart Nickerson initially had a five-season plan for the story.",
@@ -446,28 +556,6 @@
       "date": "2026-09-08T19:33:45+00:00",
       "link": "https://www.avclub.com/yellowjacks-shortened-five-seasons",
       "image": "https://img.pastemagazine.com/wp-content/avuploads/2025/03/13134249/Yellowjackets36-recap-header.jpeg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "f2fb516b3721f0f3",
-      "title": "5 Years Ago, Jason Momoa Starred In An Intense Action Thriller With Two DCU Actors",
-      "quote": "DC Universe star Jason Momoa, who has played both Aquaman and Lobo, shared the screen with two future DCU actors in this action thriller on Netflix.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-09-08T19:00:00+00:00",
-      "link": "https://www.slashfilm.com/2251710/jason-momoa-action-thriller-sweet-girl-dcu-actors-isabela-merced-adria-arjona/",
-      "image": "https://www.slashfilm.com/img/gallery/5-years-ago-jason-momoa-starred-in-an-intense-action-thriller-with-two-dcu-actors/l-intro-1788627728.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "06e799928e5cb006",
-      "title": "How To Watch Jason Statham's Mutiny At Home",
-      "quote": "Attention fans of punching and kicking: Here's how to watch Mutiny, the Jason Statham movie set on the high seas, at home.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Jeremy Smith)",
-      "date": "2026-09-08T18:31:27+00:00",
-      "link": "https://www.slashfilm.com/2253084/how-watch-jason-statham-mutiny-home/",
-      "image": "https://www.slashfilm.com/img/gallery/how-to-watch-jason-stathams-mutiny-at-home/l-intro-1788891873.jpg",
       "category": "Indie Gems"
     },
     {
@@ -526,17 +614,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "c4805a692f0c4813",
-      "title": "Bunker review – Cruz and Bardem just can’t dig Florian Zeller’s shallow thriller out of a hole",
-      "quote": "Venice film festival: An architect (Javier Bardem) alienates his book editor wife (Penélope Cruz) when he agrees to build a luxurious bunker for a tech billionaire Even the formidable pairing of Penélope Cruz and Javier…",
-      "publisher": "The Guardian",
-      "author": "Peter Bradshaw in Venice",
-      "date": "2026-09-08T17:00:45+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/08/the-bunker-review-penelope-cruz-javier-bardem-florian-zeller-venice-film-festival",
-      "image": "https://i.guim.co.uk/img/media/fbd3272badbf1b060dc22e2e24898b2529b204a3/1168_0_5252_4202/master/5252.jpg?width=140&quality=85&auto=format&fit=max&s=aa646e80a6cdee6f26061a0110239119",
-      "category": "Festival Winners"
-    },
-    {
       "id": "0193ac79d59048fc",
       "title": "‘Bunker’ Review: Javier Bardem and Penélope Cruz Are Brilliant in Florian Zeller’s Riveting, Slightly Overstated Thriller of Isolation and Invasion",
       "quote": "A London realtor would likely describe the handsome East End home of Miguel and Sofia Moreno as a Tardis. Its quaint, aged Victorian exterior belies the vast modernist construction within: all tall, clean planes of…",
@@ -545,17 +622,6 @@
       "date": "2026-09-08T17:00:00+00:00",
       "link": "https://variety.com/2026/film/reviews/bunker-review-penelope-cruz-javier-bardem-1236854519/",
       "image": "https://variety.com/wp-content/uploads/2026/08/Bunker.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "fd71b88e47af86f2",
-      "title": "Andrew Garfield takes on Sam Altman in creepy first teaser for Artificial",
-      "quote": "Luca Guadagnino-directed film will be released by Neon after being dropped by Amazon amid OpenAI partnership Big tech goes to Hollywood: is Silicon Valley ready for a silver-screen reckoning? The first teaser trailer of…",
-      "publisher": "The Guardian",
-      "author": "Owen Myers",
-      "date": "2026-09-08T16:31:02+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/08/andrew-garfield-sam-altman-artificial-movie-openai",
-      "image": "https://i.guim.co.uk/img/media/c5fe55c10e9da0c76467aa89bcec10ee4cb195a6/635_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=0fe747e61f19d68f414f9fea08e4873d",
       "category": "World Cinema"
     },
     {
@@ -577,17 +643,6 @@
       "author": "Angie Han",
       "date": "2026-09-08T16:00:00+00:00",
       "link": "https://www.hollywoodreporter.com/movies/movie-reviews/practical-magic-2-review-sandra-bullock-nicole-kidman-1236687473/",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "06f86dc61f79214b",
-      "title": "‘Tenzing’ Review: Tom Hiddleston and Genden Phuntsok Lead Apple’s Staid Mount Everest Drama",
-      "quote": "Willem Dafoe co-stars in Jennifer Peedom's feature about the titular Sherpa and New Zealand mountaineer Edmund Hillary, who became the first humans to ascend the Himalayan summit in 1953.",
-      "publisher": "The Hollywood Reporter",
-      "author": "Angie Han",
-      "date": "2026-09-08T14:18:52+00:00",
-      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/tenzing-review-tom-hiddleston-apple-1236692409/",
       "image": null,
       "category": "World Cinema"
     },
@@ -636,17 +691,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "e5b6468917071265",
-      "title": "‘Musk’ Review: Alex Gibney’s Mammoth Elon Musk Doc Is a Poleaxing Portrait of the Tech Titan as a Con Man Given Way Too Much Power to Be Stopped",
-      "quote": "The Oscar-winning docmaker gets around the hiccup of Musk’s refusal to participate by creating a CG avatar of the world’s richest man.",
-      "publisher": "The Hollywood Reporter",
-      "author": "David Rooney",
-      "date": "2026-09-08T12:05:00+00:00",
-      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/musk-review-elon-musk-documentary-alex-gibney-hbo-1236693254/",
-      "image": null,
-      "category": "Festival Winners"
-    },
-    {
       "id": "00ee50afe32576b9",
       "title": "10 stunning buildings 'blended' with nature",
       "quote": "From a haven in the lush Mexican forest to a subtropical dream home in Florida",
@@ -669,28 +713,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "1b7d5a696a2d8b3e",
-      "title": "‘Hombre Al Agua’ Review: Gael García Bernal’s Chaotic Mexican Dramedy Has a Hard Time Staying Above Water",
-      "quote": "The star of 'Amores Perros' and 'Y tu mamá tambíen' directs and acts in a midlife crisis flick about a Cuban émigré in Mexico trying to hold onto his family, career and sanity.",
-      "publisher": "The Hollywood Reporter",
-      "author": "Jordan Mintzer",
-      "date": "2026-09-07T21:56:51+00:00",
-      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/hombre-al-agua-review-gael-garcia-bernal-1236693204/",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "0602265bf655ea80",
-      "title": "‘No Paradise If You Are Killed by a Woman’ Review: Iraq’s Oscar Submission Offers a Patriotic Anthem to the Kurdish Peshmerga’s Fight Against Islamic State",
-      "quote": "The trope of the lone action hero with near-superhuman strength gets a gender switch in “No Paradise If You Are Killed By A Woman,” a visually impressive drama about a resourceful female Peshmerga sniper. Although…",
-      "publisher": "Variety",
-      "author": "Alissasimon",
-      "date": "2026-09-07T21:50:00+00:00",
-      "link": "https://variety.com/2026/film/reviews/no-paradise-if-you-are-killed-by-a-woman-review-1236852895/",
-      "image": "https://variety.com/wp-content/uploads/2026/09/01_Official_Stills_NO_PARADISE_IF_YOU_ARE_KILLED_BY_A_WOMAN_.jpeg",
-      "category": "Festival Winners"
-    },
-    {
       "id": "be3b9e351cf21c19",
       "title": "The Only Living Pickpocket in New York",
       "quote": "Unafraid of executing its simple formula: Let the actors carry the film.",
@@ -698,17 +720,6 @@
       "author": "Robert Daniels",
       "date": "2026-09-07T13:01:47+00:00",
       "link": "https://www.rogerebert.com/reviews/the-only-living-pickpocket-in-new-york-film-review-2026",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "6cbc1b72ed8871b7",
-      "title": "Oasis: Don’t Look Back in Anger",
-      "quote": "One of the best music documentaries ever made.",
-      "publisher": "RogerEbert.com",
-      "author": "Matt Zoller Seitz",
-      "date": "2026-09-07T12:54:11+00:00",
-      "link": "https://www.rogerebert.com/reviews/oasis-dont-look-back-in-anger-concert-film-review",
       "image": null,
       "category": "World Cinema"
     },
@@ -721,17 +732,6 @@
       "date": "2026-09-07T11:00:00+00:00",
       "link": "https://www.bbc.com/culture/article/20260904-the-poison-tipped-umbrella-that-pointed-to-a-kgb-murder?ocid=global_culture_rss",
       "image": "https://ychef.files.bbci.co.uk/144x81/p0p80lkj.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "4a9e9df57ff3db37",
-      "title": "Gentle Monster",
-      "quote": "Centering the plot on those affected, as opposed to those who commit crimes, gives voice to an increasingly common, complex experience.",
-      "publisher": "RogerEbert.com",
-      "author": "Cortlyn Kelly",
-      "date": "2026-09-07T03:18:22+00:00",
-      "link": "https://www.rogerebert.com/reviews/gentle-monster-film-review-2026",
-      "image": null,
       "category": "World Cinema"
     },
     {
