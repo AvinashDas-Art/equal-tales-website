@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T21:00:30.575955+00:00",
+  "generated_at": "2026-09-09T04:17:09.000462+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -9,37 +9,169 @@
   ],
   "reviews": [
     {
-      "id": "46310a45b323f35f",
-      "title": "‘Saw: Genesis’ Creative Director Talks Multiplayer Build, Expanding The ‘Saw’ Mythology & Putting Players Through The Wringer",
-      "quote": "During Gamescom 2026 in Germany, I got an extended preview of Saw: Genesis, the upcoming multiplayer horror game from Broken Mirror Games, Anshar Studios and Bloober Team. And while the game is set nearly a century…",
+      "id": "c59c8da6fa2a3c42",
+      "title": "Jon Stewart Likens Donald Trump Aide Natalie Harp To Elizabeth Holmes In Viral ‘You Can See Everything’ Trailer",
+      "quote": "Jon Stewart returned for an all-new episode of The Daily Show following a month-long hiatus. The comedian and Comedy Central host didn’t waste any time trolling Donald Trump and the chaos he’s caused over the last few…",
       "publisher": "Deadline",
-      "author": "Destiny Jackson",
-      "date": "2026-09-08T20:45:00+00:00",
-      "link": "https://deadline.com/2026/09/saw-genesis-video-game-interview-damian-kocurek-1237071362/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/sawgenesis.jpeg",
+      "author": "Armando Tinoco",
+      "date": "2026-09-09T04:01:28+00:00",
+      "link": "https://deadline.com/2026/09/jon-stewart-donald-trump-aide-natalie-harp-elizabeth-holmes-1237071830/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/jon-stewart-natalie-harp.jpg",
       "category": "World Cinema"
     },
     {
-      "id": "9b153ea1c66b85c5",
-      "title": "‘Godzilla Minus Zero’ Trailer See A Fragile Peace Shattered As A New Threat Emerges",
-      "quote": "Here’s an ominous phrase when one is speaking about Godzilla: “We didn’t finish the job like we thought.” That’s the opening line of the English-subtitled first trailer for Godzilla Minus Zero, Takashi Yamazaki’s sequel…",
+      "id": "fb5e367e87db7dfa",
+      "title": "Jeff Lowell Dies: ‘John Tucker Must Die’ Writer & ‘The Crew’ Creator Was 52",
+      "quote": "Veteran film and TV comedy writer Jeff Lowell died on August 24 in Virginia after a brief illness. He was 52. Lowell started his career as a sitcom writer in the mid 1990s, working on such series as The George Carlin…",
       "publisher": "Deadline",
-      "author": "Erik Pedersen",
-      "date": "2026-09-08T20:36:08+00:00",
-      "link": "https://deadline.com/2026/09/godzilla-minus-zero-trailer-1237071332/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Godzilla-Minus-Zero.jpg",
+      "author": "Nellie Andreeva",
+      "date": "2026-09-09T03:53:43+00:00",
+      "link": "https://deadline.com/2026/09/jeff-lowell-dies-john-tucker-must-die-the-crew-1237071814/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/jeff-lowell.jpg",
       "category": "World Cinema"
     },
     {
-      "id": "538a765f75648be7",
-      "title": "Venice Film Festival 2026: Read All Of Deadline’s Reviews",
-      "quote": "The 2026 Venice Film Festival got underway on Wednesday, September 2, with Oscar-winning English director Danny Boyle’s Ink — starring Jack O’Connell, Guy Pearce and Claire Foy — kicking off an 83rd edition that…",
+      "id": "4cf45f57f86c06bf",
+      "title": "Federal Film & TV Tax Credits Not A Done Deal, Adam Schiff Says; White House Involved: “Negotiations Are Ongoing”",
+      "quote": "EXCLUSIVE The elusive goal is in sight but the finish line is still a way off in the race to get a federal film and TV tax incentive bill passed and signed into law by Donald Trump, California’s junior senator says…",
       "publisher": "Deadline",
-      "author": "Erik Pedersen",
-      "date": "2026-09-08T20:25:16+00:00",
-      "link": "https://deadline.com/2026/09/venice-film-festival-2026-reviews-deadline-1237065820/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Venice-Film-Festival-Reviews-2026.jpg",
+      "author": "Dominic Patten",
+      "date": "2026-09-09T03:02:54+00:00",
+      "link": "https://deadline.com/2026/09/federal-film-tv-tax-credits-latest-1237071772/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/adam-schiff-donald-trump.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "f07f2611ac77208a",
+      "title": "Malibu Sinkhole Prompts Local Evacuation Order; 31 Homes Red Tagged",
+      "quote": "UPDATED with evacuation order: Malibu City officials have just issued an evacuation order for much of the Point Lechuza community near Broad Beach after a sinkhole opened up in the driveway of one beachfront property…",
+      "publisher": "Deadline",
+      "author": "Tomt",
+      "date": "2026-09-09T02:16:49+00:00",
+      "link": "https://deadline.com/2026/09/malibu-beach-home-sinkhole-hurricane-marie-waves-1237071488/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/malibu-home.png",
+      "category": "World Cinema"
+    },
+    {
+      "id": "df62e39e92b6ad5c",
+      "title": "Last Seen",
+      "quote": "“Last Seen” isn’t perfect, but it does so many of the things right that other thrillers don’t even try to do at all.",
+      "publisher": "RogerEbert.com",
+      "author": "Brian Tallerico",
+      "date": "2026-09-09T01:00:00+00:00",
+      "link": "https://www.rogerebert.com/reviews/last-seen-apple-thriller-tv-review-2026",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "1b89dc9ab5618273",
+      "title": "John Mulaney Looking To ‘Get Smart’ At Warner Bros – The Dish",
+      "quote": "EXCLUSIVE: Talk about a dead ringer when it comes to casting: We’re getting word that 4x Emmy winner John Mulaney is eyeing to star as wisenheimer Agent Maxwell Smart in Warner Bros’ upcoming reimagining of Get Smart…",
+      "publisher": "Deadline",
+      "author": "Anthonypauldalessandro",
+      "date": "2026-09-09T00:25:52+00:00",
+      "link": "https://deadline.com/2026/09/john-mulaney-get-smart-reboot-1237071666/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/John-Mulaney-Get-Smart.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "8bf012ff8e1062f7",
+      "title": "J&K CM Omar Abdullah watches ‘Mirzapur’ at Srinagar’s only functional multiplex to flip cinema culture",
+      "quote": "“The presence of leading artistes and filmmakers in J&K would further strengthen the region’s association with cinema and contribute to building a vibrant film ecosystem in J&K,” said Mr. Abdullah, on the second day of…",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-09T00:15:52+00:00",
+      "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-cm-omar-abdullah-watches-mirzapur-at-srinagars-only-functional-multiplexto-flip-cinema-culture/article71444177.ece",
+      "image": "https://th-i.thgim.com/public/incoming/osoalb/article71445372.ece/alternates/LANDSCAPE_1200/11-INTERNATIONAL-FILM-FESTIVAL-SGR-07-09-2026.JPG",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "6b8c15b83da3d18c",
+      "title": "Netflix Orders ‘Lonesome Dove’ Series From Zoe Kazan & Jeb Stuart Based On Larry McMurtry’s Novel",
+      "quote": "Larry McMurtry’s classic Lonesome Dove novel is returning to television as a Netflix series. The streamer has greenlighted the Western drama from Zoe Kazan and Jeb Stuart, co-showrunners of Netflix’s upcoming East of…",
+      "publisher": "Deadline",
+      "author": "Nellie Andreeva",
+      "date": "2026-09-09T00:00:29+00:00",
+      "link": "https://deadline.com/2026/09/lonesome-dove-netflix-series-zoe-kazan-jeb-stuart-1237071579/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Zoe-Kazan-Lonsome-Dove-and-Jeb-Stuart.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "d0687c94458fac8d",
+      "title": "Keen Ruffalo Signs With CAA",
+      "quote": "EXCLUSIVE: Actor Keen Ruffalo has signed with CAA, Deadline has learned. Ruffalo has heat as one of the young stars of Sterling Point, Prime Video’s coming-of-age drama series from My Old Ass helmer Megan Park, which…",
+      "publisher": "Deadline",
+      "author": "Matthewgrobar",
+      "date": "2026-09-08T23:21:55+00:00",
+      "link": "https://deadline.com/2026/09/keen-ruffalo-signs-caa-1237071645/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/image0.jpeg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "2b11de9e7d66de73",
+      "title": "International Revenues Of $2.1B Boost British TV Makers, Census Finds, As Pact Warns BBC Must Avoid “Managed Decline”",
+      "quote": "Revenue from Britain’s independent producers hit its second-highest total last year, despite spend from UK broadcasters falling beneath £2B ($2.7B) for the first time since 2020. The numbers from Pact come as the UK…",
+      "publisher": "Deadline",
+      "author": "Jesse Whittock",
+      "date": "2026-09-08T23:01:00+00:00",
+      "link": "https://deadline.com/2026/09/pact-census-international-tv-revenues-up-1237070622/",
+      "image": "https://deadline.com/wp-content/uploads/2025/09/Adolescence-Erin-Doherty.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "35db4fba47516df9",
+      "title": "Gilligan's Island Star Tina Louise Made Her Movie Debut Alongside A Western Legend",
+      "quote": "Tina Louise made her movie debut alongside Western legend Robert Ryan in this particularly memorable pre-Gilligan's Island venture.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Jeremy Smith)",
+      "date": "2026-09-08T23:00:00+00:00",
+      "link": "https://www.slashfilm.com/2252121/gillgans-island-tina-louise-western-legend-robert-ryan-gods-little-acre/",
+      "image": "https://www.slashfilm.com/img/gallery/gilligans-island-star-tina-louise-made-her-movie-debut-alongside-a-western-legend/l-intro-1788791996.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "6cbb604e7b504e9d",
+      "title": "If the Oscars want Chris Rock back, they're going to have to nominate him",
+      "quote": "Four years after the slap, Chris Rock returns with a new film, Misty Green, and a distinct lack of interest in the Academy Awards.",
+      "publisher": "The A.V. Club",
+      "author": "Matt Schimkowitz",
+      "date": "2026-09-08T21:28:27+00:00",
+      "link": "https://www.avclub.com/chris-rock-oscars-return",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/08172323/chris-rock-feature.jpg",
       "category": "Festival Winners"
+    },
+    {
+      "id": "8e66f340debcf85b",
+      "title": "One Of Eddie Murphy's Biggest Box Office Hits Became A Historic Flop 30 Years Later",
+      "quote": "Judging by the box office returns, few people were aware this Eddie Murphy hit was re-released in theaters over the weekend.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Ryan Scott)",
+      "date": "2026-09-08T21:00:00+00:00",
+      "link": "https://www.slashfilm.com/2253050/eddie-murphy-box-office-hit-the-nutty-professor-flop-re-release/",
+      "image": "https://www.slashfilm.com/img/gallery/eddie-murphy-box-office-hit-the-nutty-professor-flop-re-release/l-intro-1788898073.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "ac1f511722cd2d69",
+      "title": "Lucasfilm announces IMAX 70mm release date for the original Star Wars",
+      "quote": "The February 19, 2027 engagement precedes the May 28, 2027 release of <i>Star Wars: Starfighter</i>.",
+      "publisher": "The A.V. Club",
+      "author": "Jarrod Jones",
+      "date": "2026-09-08T20:36:25+00:00",
+      "link": "https://www.avclub.com/lucasfilm-announces-70mm-imax-release-star-wars-1977-starfighter",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/08162904/star-wars-header.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "4846c6d67ff4bdf0",
+      "title": "The Gentlemen is the latest victim of Netflix's viewership drop-off",
+      "quote": "The second season of the Theo James-led series saw 45% fewer viewers than its first season did.",
+      "publisher": "The A.V. Club",
+      "author": "Drew Gillis",
+      "date": "2026-09-08T20:35:48+00:00",
+      "link": "https://www.avclub.com/the-gentlement-season-2-viewership-dropoff",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/07/09124234/MixCollage-09-Jul-2026-12-40-PM-7110.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "7a986ea4259dc972",
@@ -51,61 +183,6 @@
       "link": "https://www.slashfilm.com/2253277/mark-wahlberg-crime-thriller-movie-contrabrand-streaming-netflix-september-2026/",
       "image": "https://www.slashfilm.com/img/gallery/mark-wahlbergs-109-minute-crime-thriller-is-one-of-netflixs-biggest-streaming-hits/l-intro-1788898581.jpg",
       "category": "Indie Gems"
-    },
-    {
-      "id": "1e99c78dce6caffa",
-      "title": "Emmy Party List 2026: Evening Before Changes Zip Codes As Events Adjust To Monday Ceremony",
-      "quote": "After 19 years in Century City, MPTF’s annual Evening Before gathering is moving to a new neighborhood. It is relocating to the Pacific Design Center, a venue steeped in Emmy party tradition as the longtime pre-pandemic…",
-      "publisher": "Deadline",
-      "author": "Nellie Andreeva",
-      "date": "2026-09-08T20:17:53+00:00",
-      "link": "https://deadline.com/2026/09/emmys-party-list-2026-guide-1237064945/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2235538687.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "7ce5002675853140",
-      "title": "Sylvia Hoeks Joins Apple TV’s ‘Disavowed’",
-      "quote": "EXCLUSIVE: The cast of Apple TV’s upcoming action thriller Disavowed continues to expand. Sylvia Hoeks (Ride or Die, See) is the latest to sign on as a series regular in the James Marsden-led series. Details of Hoeks’…",
-      "publisher": "Deadline",
-      "author": "Denise Petski",
-      "date": "2026-09-08T20:00:00+00:00",
-      "link": "https://deadline.com/2026/09/sylvia-hoeks-cast-apple-tvs-disavowed-1237066905/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Sylvia-Hoeks-.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "cd5689a944716c1c",
-      "title": "Prime Video Adds ‘The Test’ Season 4 & True-Crime Docs On Backpacker Poisonings And Killer Trio To Australian Slate",
-      "quote": "EXCLUSIVE: Prime Video has ordered a pair of true crime docs and a fourth season of cricket series The Test to its originals cabinet in Australia. Free Spirits: The Backpacker Poisonings (working title) and Madness of…",
-      "publisher": "Deadline",
-      "author": "Jesse Whittock",
-      "date": "2026-09-08T20:00:00+00:00",
-      "link": "https://deadline.com/2026/09/prime-video-true-crime-docs-the-test-season-4-1237069374/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Free-Spirits-The-Backpacker-Poisonings-and-Madness-of-Three-1.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "92e3e5357ee86ed1",
-      "title": "Aura Entertainment Acquires Dario Russo’s ‘The Fox’ To Release Theatrically In December",
-      "quote": "EXCLUSIVE: Aura Entertainment has acquired U.S. rights to THE FOX, a dark comedy from director and writer Dario Russo (Danger 5), starring Jai Courtney (The Suicide Squad), Emily Browning (Legend), Academy Award-winner…",
-      "publisher": "Deadline",
-      "author": "Dessi Gomez",
-      "date": "2026-09-08T20:00:00+00:00",
-      "link": "https://deadline.com/2026/09/the-fox-release-date-theaters-aquired-aura-entertainment-1237070975/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/TheFox_Portrait_Poster_Aura_HiRes-e1788888817448.jpg",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "3ddbc515c3d642f5",
-      "title": "Sarah Catherine Hook Lands Lead Role In Python Thriller ‘Crush’ From 20th Century Studios",
-      "quote": "EXCLUSIVE: Sarah Catherine Hook, the actress who broke out with her role in the Thailand-set third season of HBO’s The White Lotus, is set to star in Crush, the snake-themed thriller from 20th Century Studios. This…",
-      "publisher": "Deadline",
-      "author": "Matthewgrobar",
-      "date": "2026-09-08T20:00:00+00:00",
-      "link": "https://deadline.com/2026/09/sarah-catherine-hook-joins-crush-thriller-20th-1237071236/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2270878856.jpg",
-      "category": "World Cinema"
     },
     {
       "id": "5d0f85eb548fc141",
@@ -130,6 +207,17 @@
       "category": "World Cinema"
     },
     {
+      "id": "f8b4171408530de1",
+      "title": "Link wooks wike a wittle baby in Legend Of Zelda: Ocarina Of Time remake",
+      "quote": "Somebody set Link's Ocarina to toddler in the new trailer for The Legend Of Zelda: Ocarina Of Time remake, releasing November 2026.",
+      "publisher": "The A.V. Club",
+      "author": "Matt Schimkowitz",
+      "date": "2026-09-08T19:49:14+00:00",
+      "link": "https://www.avclub.com/legend-of-zelda-ocarina-of-time-remake-trailer",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/08154319/zelda-feature.jpg",
+      "category": "Indie Gems"
+    },
+    {
       "id": "64fd88ec567f86b7",
       "title": "Company review – Casey Affleck entertains us with creepy campfire tales",
       "quote": "Venice film festival: Affleck’s third film as a director is a diverting gothic anthology about mysterious strangers, murder and – pointedly – wronged men Gather ye ’round the glowing screen for a Casey Affleck campfire…",
@@ -152,6 +240,17 @@
       "category": "Indie Gems"
     },
     {
+      "id": "c66474d0b1702f68",
+      "title": "Yellowjackets creators say they decided to speed plot up, end series early",
+      "quote": "Series creators Ashley Lyle and Bart Nickerson initially had a five-season plan for the story.",
+      "publisher": "The A.V. Club",
+      "author": "Drew Gillis",
+      "date": "2026-09-08T19:33:45+00:00",
+      "link": "https://www.avclub.com/yellowjacks-shortened-five-seasons",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2025/03/13134249/Yellowjackets36-recap-header.jpeg",
+      "category": "Indie Gems"
+    },
+    {
       "id": "f2fb516b3721f0f3",
       "title": "5 Years Ago, Jason Momoa Starred In An Intense Action Thriller With Two DCU Actors",
       "quote": "DC Universe star Jason Momoa, who has played both Aquaman and Lobo, shared the screen with two future DCU actors in this action thriller on Netflix.",
@@ -160,6 +259,17 @@
       "date": "2026-09-08T19:00:00+00:00",
       "link": "https://www.slashfilm.com/2251710/jason-momoa-action-thriller-sweet-girl-dcu-actors-isabela-merced-adria-arjona/",
       "image": "https://www.slashfilm.com/img/gallery/5-years-ago-jason-momoa-starred-in-an-intense-action-thriller-with-two-dcu-actors/l-intro-1788627728.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "e115795ab5240311",
+      "title": "From the twisted minds of M. Night Shyamalan and Nicholas Sparks comes the teaser for Remain",
+      "quote": "Based on Sparks' novel, Remain stars Jake Gyllenhaal and Phoebe Dynevor in a romance with a ghostly twist.",
+      "publisher": "The A.V. Club",
+      "author": "Matt Schimkowitz",
+      "date": "2026-09-08T18:46:01+00:00",
+      "link": "https://www.avclub.com/remain-teaser-m-night-shyamalan-nicholas-sparks-jake-gyllenhaal",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/08144352/remain-shyamalan-feature.jpg",
       "category": "Indie Gems"
     },
     {
@@ -185,6 +295,28 @@
       "category": "World Cinema"
     },
     {
+      "id": "007b930a0ed49dab",
+      "title": "Entourage stars reunite to help Jake Paul take your money",
+      "quote": "Jeremy Piven and Adrian Grenier appear in a new ad for Paul's betting app.",
+      "publisher": "The A.V. Club",
+      "author": "Dennis Perkins",
+      "date": "2026-09-08T18:18:29+00:00",
+      "link": "https://www.avclub.com/entourage-jake-paul-gambling-app",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/08141440/entourage-feature.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "d716dd29d94b6129",
+      "title": "South Park, not to be outdone by Trump, rebrands to South America",
+      "quote": "The announcement comes ahead of the show's 29th-season premiere on September 16.",
+      "publisher": "The A.V. Club",
+      "author": "Jarrod Jones",
+      "date": "2026-09-08T18:09:04+00:00",
+      "link": "https://www.avclub.com/south-park-is-now-south-america",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/08140501/south-america-header.jpg",
+      "category": "Indie Gems"
+    },
+    {
       "id": "fab8d77cb15abf31",
       "title": "HBO's Canceled Victorian Sci-Fi Series Is Almost Impossible To Stream Today",
       "quote": "HBO canceled this sci-fi series set in Victorian England after only half of the episodes had aired, and it's almost impossible to watch the full show now.",
@@ -205,17 +337,6 @@
       "link": "https://www.hollywoodreporter.com/movies/movie-reviews/the-spiral-review-jasmine-trinca-valeria-bruni-tedeschi-1236693815/",
       "image": null,
       "category": "World Cinema"
-    },
-    {
-      "id": "6b34a7ea492749b2",
-      "title": "How To Watch The End Of Oak Street At Home",
-      "quote": "David Robert Mitchell's excellent sci-fi adventure flick The End of Oak Street is coming to the home media market, and we've got the details.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Rafael Motamayor)",
-      "date": "2026-09-08T17:41:08+00:00",
-      "link": "https://www.slashfilm.com/2252999/how-watch-the-end-of-oak-street-home/",
-      "image": "https://www.slashfilm.com/img/gallery/how-to-watch-the-end-of-oak-street-at-home/l-intro-1788889139.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "a2b06cda754ffc37",
@@ -273,17 +394,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "5e2e12b13c44d26a",
-      "title": "This Underrated Ron Perlman Sci-Fi Movie Inspired Fallout's Power Armor Design",
-      "quote": "The Fallout games and subsequent series wears its inspirations proudly, including this sci-fi fantasy film starring Ron Perlman.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Witney Seibold)",
-      "date": "2026-09-08T17:00:00+00:00",
-      "link": "https://www.slashfilm.com/2251622/ron-perlman-sci-fi-movie-the-city-of-lost-children-inspired-fallout-power-armor/",
-      "image": "https://www.slashfilm.com/img/gallery/ron-perlman-sci-fi-movie-the-city-of-lost-children-inspired-fallout-power-armor/l-intro-1788812872.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "fd71b88e47af86f2",
       "title": "Andrew Garfield takes on Sam Altman in creepy first teaser for Artificial",
       "quote": "Luca Guadagnino-directed film will be released by Neon after being dropped by Amazon amid OpenAI partnership Big tech goes to Hollywood: is Silicon Valley ready for a silver-screen reckoning? The first teaser trailer of…",
@@ -330,7 +440,7 @@
     {
       "id": "df504fadd72d4215",
       "title": "Elon Musk told ex-girlfriend he needed ‘a legion of children before the civil war’",
-      "quote": "Ashley St Clair was speaking at the Venice film premiere of Alex Gibney’s documentary Musk, where she warned of his dangerous influence • Musk review – epic study of the world’s richest and most banal man Elon Musk is…",
+      "quote": "Ashley St Clair was speaking at the Venice film premiere of Alex Gibney’s documentary Musk, where she warned of his dangerous influence Musk review – epic study of the world’s richest and most banal man Elon Musk is…",
       "publisher": "The Guardian",
       "author": "Philip Oltermann in Venice",
       "date": "2026-09-08T15:05:13+00:00",
@@ -460,6 +570,17 @@
       "category": "World Cinema"
     },
     {
+      "id": "a3db6e922ce97898",
+      "title": "The ‘Saami Padam’ is back: Tamil cinema rediscovers its oldest heroes",
+      "quote": "As a slew of devotional films are set to return to theatres across India, we look into the factors that lead to the revival of the ‘Saami Padam’ in Tamil cinema",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-08T10:58:33+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/the-saami-padam-is-back-suriya-karuppu-dhanush-thamizh-murugan-sivakarthikeyan-seyon-mookuthi-amman-2/article71427180.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/8ur2py/article71435149.ece/alternates/LANDSCAPE_1200/Karuppu.jpeg",
+      "category": "Indian Cinema"
+    },
+    {
       "id": "4290b446c163ac32",
       "title": "‘Silo’ Season 3 interview: Showrunner Graham Yost on how Rebecca Ferguson turned Juliette into a reluctant revolutionary",
       "quote": "As Apple TV’s ‘Silo’ finally excavates the origins of its underground civilisation with its third season, showrunner Graham Yost talks about Juliette’s inadvertent metamorphosis into a revolutionary, and how Hugh…",
@@ -501,28 +622,6 @@
       "date": "2026-09-08T08:23:41+00:00",
       "link": "https://www.thehindu.com/entertainment/movies/asha-bhosles-final-playback-song-from-om-ka-hari-unveiled-on-her-birth-anniversary/article71441795.ece",
       "image": "https://th-i.thgim.com/public/entertainment/movies/s30pus/article71441822.ece/alternates/LANDSCAPE_1200/Asha%20Bhosle%20in%20the%20music%20video%20of%20the%20song%20from%20%E2%80%98Om%20Ka%20Hari%E2%80%99",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "4e840c8587e02fd8",
-      "title": "‘Aasha’ trailer: Urvashi-Joju George face-off in new Malayalam movie",
-      "quote": "Debutant Safar Sanal’s thriller, ‘Aasha,’ pits two powerful performers in Malayalam cinema, Urvashi and Joju George, against each other",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-08T08:00:10+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/aasha-trailer-urvashi-joju-george-aishwarya-lekshmi-new-malayalam-movie/article71441569.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/ss86db/article71441725.ece/alternates/LANDSCAPE_1200/Joju%20George%20Urvashi%20Aasha%20Trailer.jpg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "149991dbec0ce45c",
-      "title": "Inside ‘Ghamasaan’: How Tigmanshu Dhulia and Pratik Gandhi’s minimalistic style shapes their work",
-      "quote": "Director Tigmanshu Dhulia and actor Pratik Gandhi talk about their upcoming film ‘Ghamasaan’, why Tigmanshu doesn’t like love stories, Pratik’s minimalistic approach to acting, and more",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-08T07:23:34+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/inside-ghamasaan-how-tigmanshu-dhulia-and-pratik-gandhis-minimalistic-style-shapes-their-work/article71438470.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/7xtbw8/article71438599.ece/alternates/LANDSCAPE_1200/Tigmanshu%20Dhulia%20Rajpal%20Yadav%20and%20Pratik%20Gandhi%20during%20the%20filming%20of%20%E2%80%98Ghamasaan%E2%80%99",
       "category": "Indian Cinema"
     },
     {
@@ -592,28 +691,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "9f26a0739caf7edf",
-      "title": "A labor of laughs: The evolution of sitcom births in 18 episodes",
-      "quote": "From I Love Lucy to St. Denis Medical, we unpack the transformation of a sitcom staple.",
-      "publisher": "The A.V. Club",
-      "author": "The A.V. Club",
-      "date": "2026-09-07T16:00:02+00:00",
-      "link": "https://www.avclub.com/sitcom-childbirth-episodes-i-love-lucy-friends-simpsons-murphy-brown",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/06234340/MixCollage-06-Sep-2026-09-56-PM-151.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "78b15c22244d76c5",
-      "title": "No, seriously, what is Peter Parker's job in Spider-Man: Brand New Day?",
-      "quote": "Peter Parker struggling to make ends meet is one of his most relatable traits, which makes its absence all the sadder in Brand New Day.",
-      "publisher": "The A.V. Club",
-      "author": "Jarrod Jones",
-      "date": "2026-09-07T14:00:13+00:00",
-      "link": "https://www.avclub.com/spider-man-brand-new-day-peter-parker-what-is-your-job",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/04101650/spidey-job-header.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "be3b9e351cf21c19",
       "title": "The Only Living Pickpocket in New York",
       "quote": "Unafraid of executing its simple formula: Let the actors carry the film.",
@@ -636,28 +713,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "72b2c6413f92a8ba",
-      "title": "Happy Labor Day from The A.V. Club",
-      "quote": "",
-      "publisher": "The A.V. Club",
-      "author": "Drew Gillis",
-      "date": "2026-09-07T11:00:53+00:00",
-      "link": "https://www.avclub.com/happy-labor-day-2026",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2024/08/30165405/MixCollage-30-Aug-2024-04-53-PM-2416.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "b4ee2a421a6b7239",
-      "title": "Na Hong-jin's strange, epic-length sci-fi creature feature should give genre fans Hope",
-      "quote": "Elements of Na Hong-jin's sci-fi creature feature Hope are reminiscent of Predator and Avatar, but it's stranger than any mere mash-up.",
-      "publisher": "The A.V. Club",
-      "author": "Jesse Hassenger",
-      "date": "2026-09-07T11:00:21+00:00",
-      "link": "https://www.avclub.com/hope-review",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/01152809/Hope.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "62ac0b99fcb18c28",
       "title": "The poisoned umbrella that pointed to a KGB murder",
       "quote": "A 1978 killing is one of the great unsolved mysteries of the Cold War",
@@ -667,61 +722,6 @@
       "link": "https://www.bbc.com/culture/article/20260904-the-poison-tipped-umbrella-that-pointed-to-a-kgb-murder?ocid=global_culture_rss",
       "image": "https://ychef.files.bbci.co.uk/144x81/p0p80lkj.jpg",
       "category": "World Cinema"
-    },
-    {
-      "id": "4a9e9df57ff3db37",
-      "title": "Gentle Monster",
-      "quote": "Centering the plot on those affected, as opposed to those who commit crimes, gives voice to an increasingly common, complex experience.",
-      "publisher": "RogerEbert.com",
-      "author": "Cortlyn Kelly",
-      "date": "2026-09-07T03:18:22+00:00",
-      "link": "https://www.rogerebert.com/reviews/gentle-monster-film-review-2026",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "8ee3bcb32a218f5f",
-      "title": "An explosive Lanterns still stays stubbornly grounded in character",
-      "quote": "Kyle Chandler and Aaron Pierre's prickly chemistry continues to outshine Lanterns' superheroics in \"The Weenie.\"",
-      "publisher": "The A.V. Club",
-      "author": "Dennis Perkins",
-      "date": "2026-09-07T02:00:10+00:00",
-      "link": "https://www.avclub.com/lanterns-recap-season-1-episode-4-the-weenie",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/05004339/MixCollage-05-Sep-2026-12-40-AM-9101.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "ccc0a1a5f3143ba2",
-      "title": "AVQ&A: What's your personal song of the summer?",
-      "quote": "The radio may have chosen Texas, but we at The A.V. Club took a different approach to soundtracking our summer.",
-      "publisher": "The A.V. Club",
-      "author": "The A.V. Club",
-      "date": "2026-09-06T14:00:09+00:00",
-      "link": "https://www.avclub.com/song-of-the-summer-madonna-slayyyter-olivia-rodrigo",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/04155609/MixCollage-04-Sep-2026-02-52-PM-805.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "3a8f2909fc80ca50",
-      "title": "What's on TV this week—Last Seen and A Tale Of Two Cities premiere",
-      "quote": "Plus, The Paper is back for season two on Peacock.",
-      "publisher": "The A.V. Club",
-      "author": "Christina Izzo",
-      "date": "2026-09-06T11:00:36+00:00",
-      "link": "https://www.avclub.com/what-to-watch-on-tv-september-6-september-12",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/05001304/MixCollage-04-Sep-2026-11-44-PM-2503.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "d1e8d9bf59ac7cb5",
-      "title": "Kid Cudi says Kanye's all better now, so it's totally okay that he performed with him",
-      "quote": "Cudi says West—who, admittedly, hasn't yelled Nazi rhetoric into a mic or sold swastika T-shirts to his fans for like 18 whole months at this point—is \"good\" now.",
-      "publisher": "The A.V. Club",
-      "author": "William Hughes",
-      "date": "2026-09-05T22:20:55+00:00",
-      "link": "https://www.avclub.com/kid-cudi-reunites-with-kanye-west-performance",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/05181548/kanye-cudi-feature.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "aab88996d0bece9f",
