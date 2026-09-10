@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T16:13:29.735535+00:00",
+  "generated_at": "2026-09-10T20:43:51.688956+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -9,15 +9,224 @@
   ],
   "reviews": [
     {
-      "id": "a0832d49816348fa",
-      "title": "Hamptons Film Festival Unveils Full Lineup, Talks With Amanda Seyfried, John Turturro, Jesse Eisenberg & More",
-      "quote": "EXCLUSIVE: The Hamptons International Film Festival has unveiled the full lineup for its 34th annual edition. The fest, which runs October 2 to 12, will close with Wicker on October 12. The Sundance-launched fantasy is…",
+      "id": "8fe274cbd777dcad",
+      "title": "James Talarico Calls FCC Pressure On Jimmy Kimmel Interview “The Most Dangerous Form Of Cancel Culture”",
+      "quote": "Jimmy Kimmel is interviewing James Talarico today but his interview will only stream on YouTube after the late-night host said pressure from the FCC has prevented Disney from airing it on ABC. The Texas Democrat, who is…",
       "publisher": "Deadline",
-      "author": "Dade Hayes",
-      "date": "2026-09-10T16:11:23+00:00",
-      "link": "https://deadline.com/2026/09/hamptons-film-festival-lineup-1237073393/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Barbizon-Still-7.jpg",
+      "author": "Peterdeadline",
+      "date": "2026-09-10T20:40:38+00:00",
+      "link": "https://deadline.com/2026/09/james-talarico-kimmel-interview-cancel-culture-youtube-1237074026/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2292926859.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "723e3d0f971890ed",
+      "title": "Janelle Rodriguez To Depart As NBC News Exec VP Of Programming; Catherine Kim Expands Role To Oversee Streaming Channel And Specials",
+      "quote": "Janelle Rodriguez, who has been a key figure in building streaming platform NBC News Now and also has overseen NBC Nightly News and breaking news and specials, is departing the network. Rodriguez, who has served as…",
+      "publisher": "Deadline",
+      "author": "Ted Johnson",
+      "date": "2026-09-10T20:20:46+00:00",
+      "link": "https://deadline.com/2026/09/janelle-rodriguez-departs-nbc-news-1237074018/",
+      "image": "https://deadline.com/wp-content/uploads/2025/02/NBC-News-Logo.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "8d3662628c478ad4",
+      "title": "Noah Schnapp, David Mazouz & Seu Jorge Leading Thriller ‘Stealing From Pablo’; Myriad Launching For TIFF Market",
+      "quote": "EXCLUSIVE: Myriad Pictures will launch world pre-sales at TIFF on Stealing From Pablo, a thriller inspired by true events and directed by Carlos V. Gutierrez (Stay Safe) and produced by FJ Productions. The film is due…",
+      "publisher": "Deadline",
+      "author": "Andreas Wiseman",
+      "date": "2026-09-10T20:17:31+00:00",
+      "link": "https://deadline.com/2026/09/noah-schnapp-david-mazouz-seu-jorge-stealing-from-pablo-1237073966/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Noah-Schnapp-David-Mazouz-and-Seu-Jorge.jpg",
       "category": "Festival Winners"
+    },
+    {
+      "id": "d4f04fee7c6409d5",
+      "title": "Leslie Bibb Stars In ‘The Rush Whisperer’ Sorority Recruitment Dark Comedy In Works At HBO",
+      "quote": "Leslie Bibb is going for a three-peat at HBO following her starring role in Season 3 of The White Lotus, for which she shared an Actor nomination, and her recent guest stint on Hacks, which earned her a 2026 Emmy…",
+      "publisher": "Deadline",
+      "author": "Nellie Andreeva",
+      "date": "2026-09-10T20:00:21+00:00",
+      "link": "https://deadline.com/2026/09/leslie-bibb-star-the-rush-whisperer-dark-comedy-hbo-1237073965/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Leslie-Bibb.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "80fdbcdbd0ef42d3",
+      "title": "‘Crew Girl’ Creator Vivian Lin Unpacks Season 1 Ending, Love Triangle Status & Season 2 Hopes",
+      "quote": "SPOILER ALERT: This post spoils the entire first season of Crew Girl now out on Netflix. Just as Teagan Tao (Miku Martineau) has adjusted to her new life as coxswain of Easton Prep’s all-boys rowing team, while…",
+      "publisher": "Deadline",
+      "author": "Dessi Gomez",
+      "date": "2026-09-10T20:00:00+00:00",
+      "link": "https://deadline.com/2026/09/crew-girl-creator-season-1-ending-explained-love-triangle-1237073826/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/CREWGIRL_108_250924_CM_00039_f.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "190042964c6f59ae",
+      "title": "Kennedy Ryan’s ‘Before I Let Go’ Adaptation Lands Series Order At Peacock",
+      "quote": "A series adaptation of romance author Kennedy Ryan’s Before I Let Go has been in the works at Peacock for over three years. Today, the project received a series order from the NBCUniversal streamer. Deadline broke the…",
+      "publisher": "Deadline",
+      "author": "Peterdeadline",
+      "date": "2026-09-10T20:00:00+00:00",
+      "link": "https://deadline.com/2026/09/kennedy-ryan-before-i-let-go-series-order-peacock-1237073973/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Attica-Locke-Tembi-Locke-Kennedy-Ryan-and-Malcolm-D.-Lee-.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "6f3a63aef2528ca0",
+      "title": "Mariska Hargitay Gets Emmy-Hosting Advice From Jimmy Kimmel",
+      "quote": "Mariska Hargitay, coming off her own double Emmy win last weekend, is gearing up to host the Primetime Emmys on Monday, and there’s none better than Jimmy Kimmel, a three-time host himself, for some advice. Hargitay sat…",
+      "publisher": "Deadline",
+      "author": "Denise Petski",
+      "date": "2026-09-10T19:50:40+00:00",
+      "link": "https://deadline.com/2026/09/mariska-hargitay-jimmy-kimmel-emmy-advice-1237073877/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/mariska-jimmy-kimmel.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "e56373ecf25fe4e8",
+      "title": "Primetime Reactions: Is Robert Pattinson's Chris Hansen Movie Worth Watching?",
+      "quote": "Primetime, the true story-based thriller starring Robert Pattinson as Chris Hansen, has generated a lot of buzz. Here's what critics are saying about it.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Joe Roberts)",
+      "date": "2026-09-10T19:47:51+00:00",
+      "link": "https://www.slashfilm.com/2255332/primetime-reactions-robert-pattinson-chris-hansen-movie/",
+      "image": "https://www.slashfilm.com/img/gallery/primetime-reactions-is-robert-pattinsons-chris-hansen-movie-worth-watching/l-intro-1789069623.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "a69a0c690a3de342",
+      "title": "Scherzetto review – Toni Servillo brings gravitas to a dithering Neapolitan ghost story",
+      "quote": "Venice film festival The Venice fixture plays an illustrator haunted by his boyhood in Mario Martone’s part spooky, part sentimental oddity It’s always good to see the veteran Italian star Toni Servillo at Venice; in…",
+      "publisher": "The Guardian",
+      "author": "Peter Bradshaw",
+      "date": "2026-09-10T19:45:44+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/10/scherzetto-review-toni-servillo-mario-martone-domenico-starnone-trick",
+      "image": "https://i.guim.co.uk/img/media/22e603c51e490287f916dbf84a81eeb426b16338/241_0_5016_4015/master/5016.jpg?width=140&quality=85&auto=format&fit=max&s=7a1e029a5e824107e660176e96002c5b",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "27b3c941fdb6c511",
+      "title": "The Obsession For The Next ‘Obsession’ At TIFF: Festival Hot List Includes Pics For Sale With Cynthia Erivo, Chase Infiniti, The Maras, Dave Bautista & More",
+      "quote": "After the Toronto Film Festival last year yielded the highest-grossing fest acquisition ever at the box office with Obsession ($512 million worldwide), and with the arrival of a new market, the million-dollar question…",
+      "publisher": "Deadline",
+      "author": "Anthonypauldalessandro",
+      "date": "2026-09-10T19:30:35+00:00",
+      "link": "https://deadline.com/2026/09/tiff-2026-hot-list-movies-for-sale-1237073074/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Life-Death-of-Wilson-Shedd-Prima-Facie-The-Julia-Set-Alpha-Gang-and-Bucking-Fastard.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "ded62150eefd7d99",
+      "title": "‘One Minute to Midnight’ Review: A French Intellectual Takes Stock of His Love Life in a Film That’s Charming, Melancholic and Parisian to a Fault",
+      "quote": "Melvil Poupaud stars in the fourth feature by critic turned director Nicolas Pariser, who based some of the movie on his own past as a journalist.",
+      "publisher": "The Hollywood Reporter",
+      "author": "Jordan Mintzer",
+      "date": "2026-09-10T19:14:25+00:00",
+      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/one-minute-to-midnight-review-nicolas-pariser-1236685829/",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "cb4b142f6f1399b8",
+      "title": "Paul Wesley's Best Star Trek: Strange New Worlds Episode Makes A Bold Choice For Kirk [Exclusive]",
+      "quote": "Star Trek: Strange New Worlds Season 4, Episode 8 is a showcase for Paul Wesley as James T. Kirk, and the episode puts him in a fascinating situation.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Jeremy Mathai)",
+      "date": "2026-09-10T19:00:00+00:00",
+      "link": "https://www.slashfilm.com/2254731/paul-wesley-best-star-trek-strange-new-worlds-episode-bold-kirk-choice/",
+      "image": "https://www.slashfilm.com/img/gallery/paul-wesley-best-star-trek-strange-new-worlds-episode-bold-kirk-choice/l-intro-1789066698.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "934807643dcfe8d7",
+      "title": "Marvel's X-Men Movie Finds Its Angel In A Breakout The Boys Universe Star",
+      "quote": "Asa Germann, who played Sam Riordan on Gen V, has been cast as Angel/Warren Worthington III in Marvel's upcoming X-Men reboot.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Devin Meenan)",
+      "date": "2026-09-10T18:10:45+00:00",
+      "link": "https://www.slashfilm.com/2255161/marvel-x-men-movie-cast-asa-germann-angel/",
+      "image": "https://www.slashfilm.com/img/gallery/marvel-x-men-movie-cast-asa-germann-angel/l-intro-1789066059.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "a1957f893371a559",
+      "title": "Spider-Man: Brand New Day's Director Will Bring A Classic TV Show To The Big Screen",
+      "quote": "Destin Daniel Cretton, red-hot off directing Spider-Man: Brand New Day, is preparing to adapt a nostalgic TV series for the big screen.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Jeremy Mathai)",
+      "date": "2026-09-10T18:09:11+00:00",
+      "link": "https://www.slashfilm.com/2255159/spider-man-brand-new-day-director-destin-daniel-cretton-hawaii-five-o-movie-adaptation/",
+      "image": "https://www.slashfilm.com/img/gallery/spider-man-brand-new-days-director-will-bring-a-classic-tv-show-to-the-big-screen/l-intro-1789063568.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "e949622ed0a117de",
+      "title": "Ester Expósito's 102-Minute Romantic Thriller Is Officially Prime Video's Biggest Streaming Hit",
+      "quote": "There's a new romantic thriller on Prime Video, and audiences are eating it up. Drawn Together is currently the number one movie on the platform worldwide.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Joe Roberts)",
+      "date": "2026-09-10T18:04:47+00:00",
+      "link": "https://www.slashfilm.com/2255147/ester-exposito-romantic-thriller-drawn-together-streaming-prime-video-september-2026/",
+      "image": "https://www.slashfilm.com/img/gallery/ester-expsitos-102-minute-romantic-thriller-is-officially-prime-videos-biggest-streaming-hit/l-intro-1789063353.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "10fb744f163d4d7e",
+      "title": "‘Mandaadi’ movie review: Soori, Suhas power an engaging, smooth-sailing sports actioner",
+      "quote": "Set against the competitive world of coastal sailboat racing, Mathimaran Pugazhendhi’s socio-political sports actioner ‘Mandaadi’ finds its strength in layered characters and assured performances from Soori and Suhas",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-10T18:00:54+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/mandaadi-movie-review-soori-suhas-mahima-nambiar-mathimaran-gv-prakash-kumar/article71453210.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/w9zn5r/article71453275.ece/alternates/LANDSCAPE_1200/mandaadi%20movie.png",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "04ab64fe6442147f",
+      "title": "Resident Evil Director Zach Cregger Reveals What His Movie Had To Include From The Games [Exclusive]",
+      "quote": "When it came to his Resident Evil movie, director Zach Cregger had specific elements he wanted to carry over from the original video games.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Bill Bria)",
+      "date": "2026-09-10T18:00:00+00:00",
+      "link": "https://www.slashfilm.com/2254600/resident-evil-director-zach-cregger-movie-elements-games/",
+      "image": "https://www.slashfilm.com/img/gallery/resident-evil-director-zach-cregger-reveals-what-his-movie-had-to-include-from-the-games-exclusive/l-intro-1789043668.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "e21717430f119ea9",
+      "title": "‘Naza’ Review: Two of the ‘No Other Land’ Filmmakers Deliver a More Devastating Exposé of Israeli Genocidal Policy, This Time in Gaza",
+      "quote": "The irksome controversy over “No Other Land” upon winning both the Berlinale Documentary prize and the Academy Award was never really about the film. It was hardly the first strong documentary to call attention to…",
+      "publisher": "Variety",
+      "author": "Guy Lodge",
+      "date": "2026-09-10T17:08:20+00:00",
+      "link": "https://variety.com/2026/film/reviews/naza-review-1236857356/",
+      "image": "https://variety.com/wp-content/uploads/2026/08/NAZA.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "0fb228e465714fa5",
+      "title": "‘Union Town’ Review: Barbara Kopple Takes on UPS, Amazon and the Apps in Another Essential Organized Labor Documentary",
+      "quote": "Premiering in Venice, the latest from the 'Harlan County, USA' director studies the disparate and shared interests of workers in the gig economy.",
+      "publisher": "The Hollywood Reporter",
+      "author": "Daniel Fienberg",
+      "date": "2026-09-10T17:07:54+00:00",
+      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/union-town-review-barbara-kopple-1236695815/",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "01e338cc906af85d",
+      "title": "Why Admiral Reeger From Star Trek: Strange New Worlds Looks So Familiar",
+      "quote": "If you watched Star Trek: Strange New Worlds and thought, \"Hey, I recognize that actor!\" when you saw Admiral Reeger, here's where you probably know him from.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Devin Meenan)",
+      "date": "2026-09-10T17:00:00+00:00",
+      "link": "https://www.slashfilm.com/2254384/admiral-reeger-star-trek-strange-new-worlds-actor-joe-morton/",
+      "image": "https://www.slashfilm.com/img/gallery/why-admiral-reeger-from-star-trek-strange-new-worlds-looks-so-familiar/l-intro-1789045068.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "1edb37a7f718d187",
@@ -31,72 +240,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "62f8bf8a76286105",
-      "title": "Jaeki Cho To Host ‘The Greatest Song Ever Made’ Digital Series From Blink49 & Flavor Thing",
-      "quote": "EXCLUSIVE: What is The Greatest Song Ever Made? Jaeki Cho is looking to find out in a new digital series designed for TikTok, Instagram and YouTube. Cho, who was previously a music journalist, will front the series…",
-      "publisher": "Deadline",
-      "author": "Peterdeadline",
-      "date": "2026-09-10T16:00:00+00:00",
-      "link": "https://deadline.com/2026/09/jaeki-cho-the-greatest-song-ever-made-digital-series-1237072601/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/MixCollage-09-Sep-2026-11-34-AM-877.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "e26609e61442803d",
-      "title": "‘Nobody Wants This’ Season 3 Sets Fall Release Date As First Look Teases Creator Erin Foster Among Guests",
-      "quote": "Nobody Wants This will return to Netflix for a third season next month. The streamer officially revealed on Thursday that Season 3 is arriving on October 22. Along with the news, Netflix also dropped some first look…",
-      "publisher": "Deadline",
-      "author": "Katie Campione",
-      "date": "2026-09-10T16:00:00+00:00",
-      "link": "https://deadline.com/2026/09/nobody-wants-this-season-3-release-date-first-look-photos-1237072856/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Nobody_Wants_This_n_S3_E1_00_04_05_08RC2.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "b300b138fbc1ddd1",
-      "title": "‘Mr. & Mrs. Smith’ Adds Yonatan Gebeyehu To Season 2 Cast",
-      "quote": "EXCLUSIVE: Mr. & Mrs. Smith has cast another of the titular characters — Yonatan Gebeyehu has boarded the upcoming second season of the Prime Video series, which has been filming in Los Angeles. He joins fellow Mr…",
-      "publisher": "Deadline",
-      "author": "Nellie Andreeva",
-      "date": "2026-09-10T16:00:00+00:00",
-      "link": "https://deadline.com/2026/09/mr-mrs-smith-yonatan-gebeyehu-cast-season-2-1237073122/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Yonatan-Gebeyehu.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "7b6f426ece487f1c",
-      "title": "‘Hawaii Five-O’ Movie In Works At Paramount With ‘Spider-Man: Brand New Day’ Helmer Destin Daniel Cretton: The Dish",
-      "quote": "EXCLUSIVE: Paramount Pictures is putting together a package that finally should give movie treatment to the ‘60s TV series Hawaii Five-O, with Spider-Man: Brand New Day helmer Destin Daniel Cretton leading the wave. The…",
-      "publisher": "Deadline",
-      "author": "Mike Fleming",
-      "date": "2026-09-10T16:00:00+00:00",
-      "link": "https://deadline.com/2026/09/hawaii-five-o-movie-destin-daniel-cretton-spider-man-1237073354/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Jack-Lord-in-Hawaii-Five-0-Destin-Daniel-Cretton.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "47b723062f259108",
-      "title": "‘P-Valley’ To End With Upcoming Third Season; Starz Reveals Premiere Date, Photos & Teaser Trailer",
-      "quote": "The hit Starz series P-Valley will conclude with its upcoming 9-episode third season, which will premiere with two back-to-back episodes on December 4. It has been four years since Season 2 concluded on August 14, 2022…",
-      "publisher": "Deadline",
-      "author": "Rosy Cordero",
-      "date": "2026-09-10T16:00:00+00:00",
-      "link": "https://deadline.com/2026/09/p-valley-season-3-release-date-teaser-1237073466/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/PUV3_Nicco-Annan22Uncle-Clifford22.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "a46767ae8ced78e5",
-      "title": "Comedian Sam Morril Returning To Netflix With New Special ‘Incorrect’",
-      "quote": "EXCLUSIVE: Comedian Sam Morril is set to return to Netflix with Incorrect, a new one-hour special premiering globally on September 29. In the special — watch a clip above — Morril tackles his worst one-night stand gone…",
-      "publisher": "Deadline",
-      "author": "Matthewgrobar",
-      "date": "2026-09-10T16:00:00+00:00",
-      "link": "https://deadline.com/2026/09/sam-morril-new-netflix-special-premiere-date-1237073503/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/2.27.26_SamTampa_0807.HEIC.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "999437681814ebd8",
       "title": "5 Years Ago Today: James Wan Made One Of The Wildest Horror Movies Of All Time",
       "quote": "Five years ago, Warner Bros. released one of horror maestro James Wan's most deranged movies - and the sickos among us flipped for it.",
@@ -106,28 +249,6 @@
       "link": "https://www.slashfilm.com/2253241/james-wan-horror-movie-malignant-5-year-anniversary/",
       "image": "https://www.slashfilm.com/img/gallery/5-years-ago-today-james-wan-made-one-of-the-wildest-horror-movies-of-all-time/l-intro-1788896719.jpg",
       "category": "Indie Gems"
-    },
-    {
-      "id": "55e254e447505bca",
-      "title": "33 Years Ago Today, One Of The Best Sci-Fi TV Shows Of All Time Began",
-      "quote": "33 years ago today, TV viewers were introduced to FBI Agents Mulder and Scully as The X-Files premiered its very first episode.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Chris Evangelista)",
-      "date": "2026-09-10T15:55:24+00:00",
-      "link": "https://www.slashfilm.com/2254877/the-x-files-best-sci-fi-tv-show-all-time-33-year-anniversary/",
-      "image": "https://www.slashfilm.com/img/gallery/33-years-ago-today-one-of-the-best-sci-fi-tv-shows-of-all-time-began/l-intro-1789054717.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "51e36706f0ecdc57",
-      "title": "‘NAZA’: What The Critics Are Saying About Yuval Abraham & Rachel Szor’s Israel-Gaza Documentary",
-      "quote": "Yuval Abraham and Rachel Szor’s anticipated documentary NAZA has landed at the Venice Film Festival and the reviews are coming in. The two Israeli filmmakers previously worked together with two Palestinian filmmakers on…",
-      "publisher": "Deadline",
-      "author": "Andreas Wiseman",
-      "date": "2026-09-10T15:53:21+00:00",
-      "link": "https://deadline.com/2026/09/naza-reviews-what-the-critics-are-saying-israel-gaza-film-1237073506/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/NAZA-key-still.jpg",
-      "category": "Festival Winners"
     },
     {
       "id": "09a4ace3b1e87d74",
@@ -163,17 +284,6 @@
       "category": "Festival Winners"
     },
     {
-      "id": "5c3f0c2627975c1c",
-      "title": "Zach Cregger's Resident Evil Reboot Eyes Record Box Office Opening For The Franchise",
-      "quote": "Zach Cregger's Resident Evil movie reboot looks to keep the Barbarian and Weapons director's box office winning streak going strong.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Ryan Scott)",
-      "date": "2026-09-10T15:00:00+00:00",
-      "link": "https://www.slashfilm.com/2253914/zach-cregger-resident-evil-movie-box-office-preview/",
-      "image": "https://www.slashfilm.com/img/gallery/zach-creggers-resident-evil-reboot-eyes-record-box-office-opening-for-the-franchise/l-intro-1788972075.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "f1cf1af334a28740",
       "title": "If I Go Will They Miss Me",
       "quote": "Its keen mix of magical-realist visual language offers an eloquent vision of Blackness.",
@@ -196,17 +306,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "1bd467406f61b1b4",
-      "title": "Strange New Worlds Season 4's 'Evil Admiral' Episode Honors A Star Trek Legend",
-      "quote": "'Evil' admirals are nothing new for Star Trek, and Strange New Worlds Season 4 honors one particular writer's work with that trope in its eighth episode.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Devin Meenan)",
-      "date": "2026-09-10T14:00:00+00:00",
-      "link": "https://www.slashfilm.com/2254357/strange-new-worlds-season-4-evil-admiral-episode-honor-star-trek-legend/",
-      "image": "https://www.slashfilm.com/img/gallery/strange-new-worlds-season-4-evil-admiral-episode-honor-star-trek-legend/l-intro-1789049981.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "224ac398a8316dc3",
       "title": "The Odyssey and Spider-Man propel record-breaking summer box office worldwide",
       "quote": "The biggest May to September of all time was recorded in US cinemas, with the UK enjoying a 56% rise in audiences, outstripped by an 88% lift in the Middle East and Africa As well as celebrating their wedding, the…",
@@ -216,17 +315,6 @@
       "link": "https://www.theguardian.com/film/2026/sep/10/the-odyssey-and-spider-man-make-for-record-breaking-summer-box-office-worldwide",
       "image": "https://i.guim.co.uk/img/media/f3206997a753b107b0fbecf0231589cdaef64144/115_0_4334_3466/master/4334.jpg?width=140&quality=85&auto=format&fit=max&s=b7e0fde26b9355d88b13bd4d2523ce8f",
       "category": "World Cinema"
-    },
-    {
-      "id": "11b078d34cf3ffac",
-      "title": "Star Trek: Strange New Worlds Season 4 - La'an's Watch (And Her Relationship With Kirk) Explained",
-      "quote": "Confused about La'an's watch and her connection to Kirk in the latest episode of Star Trek: Strange New Worlds Season 4? Allow us to explain.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Devin Meenan)",
-      "date": "2026-09-10T13:20:33+00:00",
-      "link": "https://www.slashfilm.com/2254629/star-trek-strange-new-worlds-laan-watch-kirk-relationship-explained/",
-      "image": "https://www.slashfilm.com/img/gallery/star-trek-strange-new-worlds-season-4-laans-watch-and-her-relationship-with-kirk-explained/l-intro-1789046143.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "cef4c172bc176653",
@@ -251,26 +339,15 @@
       "category": "World Cinema"
     },
     {
-      "id": "b2c608887898add6",
-      "title": "Star Trek: Strange New Worlds Season 4's Best Episode Was Directly Inspired By A Rob Reiner Classic [Exclusive]",
-      "quote": "The best episode of Star Trek: Strange New Worlds Season 4 so far was inspired by a classic 1990s movie directed by the late Rob Reiner.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Jeremy Mathai)",
-      "date": "2026-09-10T13:00:00+00:00",
-      "link": "https://www.slashfilm.com/2254361/star-trek-strange-new-worlds-season-4-best-episode-rob-reiner-inspiration/",
-      "image": "https://www.slashfilm.com/img/gallery/star-trek-strange-new-worlds-season-4s-best-episode-was-directly-inspired-by-a-rob-reiner-classic-exclusive/l-intro-1788987804.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "a9b6dcf2fb9cabd8",
-      "title": "Star Trek: Strange New Worlds Season 4 Debunks The Biggest Kirk Myth",
-      "quote": "On Star Trek: Strange New Worlds, Kirk, played by Paul Wesley, is depicted closer to the classic version of the character than the popular misconception.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Witney Seibold)",
-      "date": "2026-09-10T12:00:00+00:00",
-      "link": "https://www.slashfilm.com/2251042/star-trek-strange-new-worlds-season-4-debunk-kirk-myth/",
-      "image": "https://www.slashfilm.com/img/gallery/star-trek-strange-new-worlds-season-4-debunks-the-biggest-kirk-myth/l-intro-1788529286.jpg",
-      "category": "Indie Gems"
+      "id": "df61f004ffd86844",
+      "title": "‘Ghamasaan’ movie review: Arshad Warsi and Pratik Gandhi tread familiar ground in a routine thriller",
+      "quote": "Even though its unhurried sequences are replete with an allure that has gone missing in contemporary Hindi cinema, ‘Ghamasaan’, starring Arshad Warsi and Pratik Gandhi, struggles to hold itself together as a genre piece",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-10T11:48:34+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/ghamasaan-movie-review-arshad-warsi-and-pratik-gandhi-tread-familiar-ground-in-a-routine-thriller/article71450868.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/y8apeh/article71450989.ece/alternates/LANDSCAPE_1200/cvr%2075.jpg",
+      "category": "Indian Cinema"
     },
     {
       "id": "eac05a573ed7c321",
@@ -370,28 +447,6 @@
       "link": "https://www.thehindu.com/entertainment/movies/remove-shoorveer-song-from-mirzapur-the-movie-rajasthan-bjp-leader-writes-to-censor-board/article71450580.ece",
       "image": "https://th-i.thgim.com/public/entertainment/movies/ljhssa/article71450595.ece/alternates/LANDSCAPE_1200/Ali%20Fazal%20in%20%E2%80%98Mirzapur%20The%20Movie%E2%80%99",
       "category": "Indian Cinema"
-    },
-    {
-      "id": "1d419729bae8c32a",
-      "title": "Keralam’s multiplex pricing debate: SC order in 2023 permits cinema hall owners to fix food prices",
-      "quote": "Supreme Court ruling in K.C. Cinema vs State of Jammu and Kashmir case termed cinema halls as private properties of its owners and upheld their right to prohibit patrons from bringing outside food and beverages, holding…",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-10T05:22:41+00:00",
-      "link": "https://www.thehindu.com/news/national/kerala/keralams-multiplex-pricing-debate-sc-order-in-2023-permits-eateries-in-multiplexes-to-fix-price-of-foodstuff/article71450121.ece",
-      "image": "https://th-i.thgim.com/public/news/national/kerala/877p6j/article71450227.ece/alternates/LANDSCAPE_1200/pop.jpg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "6fa8d791fd292d5f",
-      "title": "‘He goes to the dark side’: behind the scenes on the Shaun the Sheep horror movie",
-      "quote": "Aardman’s hero is back in The Beast of Mossy Bottom – a terrifying tale of frankenfood, pitchfork-wielding villagers and a monster with suspiciously stiff orange hair. Our writer meets its makers and moulds her very own…",
-      "publisher": "The Guardian",
-      "author": "Catherine Shoard",
-      "date": "2026-09-10T04:00:14+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/10/shaun-the-sheep-aardman-beast-of-mossy-bottom-horror",
-      "image": "https://i.guim.co.uk/img/media/c0dfc7653ab46dab6890928b94a4764a569e4392/643_166_5235_4188/master/5235.jpg?width=140&quality=85&auto=format&fit=max&s=8e51483d97079afb77d163537ad45144",
-      "category": "Festival Winners"
     },
     {
       "id": "22aaf1accea527a9",
@@ -548,17 +603,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "babddb6d683d3a5e",
-      "title": "Gorilla Grodd Revealed In First Set Photos From James Gunn's Superman Spin-Off Series",
-      "quote": "Some photos from the set of DC's The People Vs Gorilla Grodd down in Atlanta reveal a practical gorilla suit being used, and he's pretty well-dressed too.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-09-09T19:13:47+00:00",
-      "link": "https://www.slashfilm.com/2254209/gorilla-grodd-james-gunn-superman-spin-off-series-set-photos/",
-      "image": "https://www.slashfilm.com/img/gallery/gorilla-grodd-james-gunn-superman-spin-off-series-set-photos/l-intro-1788986138.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "686531b3636a942d",
       "title": "‘Holy Wood Dust’ Review: Victor Kossakovsky’s Soothing, if Slightly Dull, Documentary Will Make You Want to Hug a Tree",
       "quote": "Playing out of competition in Venice, the latest from the 'Gunda' and 'Architecton' helmer is a meditation on the precious beauty and importance of trees.",
@@ -592,28 +636,6 @@
       "category": "Festival Winners"
     },
     {
-      "id": "c74de022f64526a0",
-      "title": "‘Carrie’ trailer: Mike Flanagan brings Stephen King’s horror classic into the social media age",
-      "quote": "The new trailer for Mike Flanagan’s ‘Carrie’ gives a fuller look at Summer H. Howell’s tormented teenager and the telekinetic fury building towards prom night",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-09T15:02:45+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/carrie-trailer-mike-flanagan-brings-stephen-kings-horror-classic-into-the-social-media-age/article71448271.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/3qafzp/article71448214.ece/alternates/LANDSCAPE_1200/Screenshot%202026-09-09%20201336.png",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "7cc34ce0ba5cd4ba",
-      "title": "‘DAU’ Review: A Towering and Immersive Cinematic Epic That Recreates the Dark Ages of Soviet Oppression",
-      "quote": "Director Ilya Khrzhanovsky's biopic of Russian physicist Lev Lendau has been 20 years in the making, with over a dozen related features and other projects created in what’s been dubbed the 'Stalinist Truman Show.'",
-      "publisher": "The Hollywood Reporter",
-      "author": "Jordan Mintzer",
-      "date": "2026-09-09T13:45:00+00:00",
-      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/dau-review-ilya-khrzhanovsky-1236689339/",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
       "id": "3fe57567a0379c92",
       "title": "‘The Uprising’ Review: Andrew Garfield and Paul Greengrass Go Medieval on the Peasants’ Revolt of 1381, With Uneven Results",
       "quote": "Among medieval hand-held farming tools, the sickle is your best bet for reaping. It’s also just the thing for deadly weaponry in times of a peasant revolt, especially one momentous enough to earn capital letters and its…",
@@ -622,17 +644,6 @@
       "date": "2026-09-09T13:00:00+00:00",
       "link": "https://variety.com/2026/film/reviews/the-uprising-review-andrew-garfield-1236855448/",
       "image": "https://variety.com/wp-content/uploads/2026/07/uprising.png",
-      "category": "World Cinema"
-    },
-    {
-      "id": "43be814811f9f9e8",
-      "title": "‘The Uprising’ Review: Andrew Garfield in Paul Greengrass’ Intense but Monotonous Medieval Actioner",
-      "quote": "The violent historical drama about the 14th-century Peasants' Revolt also features Jamie Bell, Stephen Dillane, Katherine Waterston, Cosmo Jarvis and Thomasin McKenzie.",
-      "publisher": "The Hollywood Reporter",
-      "author": "Frank Scheck",
-      "date": "2026-09-09T13:00:00+00:00",
-      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/the-uprising-review-andrew-garfield-paul-greengrass-1236694209/",
-      "image": null,
       "category": "World Cinema"
     },
     {
@@ -666,17 +677,6 @@
       "date": "2026-09-09T07:09:26+00:00",
       "link": "https://variety.com/2026/film/reviews/the-burning-giants-review-1236855475/",
       "image": "https://variety.com/wp-content/uploads/2026/09/113697-YAK_MAI__THE_BURNING_GIANTS__-_Official_still.png",
-      "category": "World Cinema"
-    },
-    {
-      "id": "908ff7c2581076b1",
-      "title": "‘A Common Story’ Review: A Stunningly Played Study of a Couple Whose Inability to Articulate Their Emotions Drives Them Apart",
-      "quote": "Far too often, relationship dramas devolve into screaming matches with a predictable crescendo that exhausts both actors and audiences: They’re using words, but since few writers have the caustic wit of Edward Albee…",
-      "publisher": "Variety",
-      "author": "Guy Lodge",
-      "date": "2026-09-09T06:22:37+00:00",
-      "link": "https://variety.com/2026/film/reviews/a-common-story-review-1236855454/",
-      "image": "https://variety.com/wp-content/uploads/2026/09/113681-UNA_STORIA__A_COMMON_STORY__-_Alba_Rohrwacher__and_Guido_Caprino__Credits_Nicole_Verzaro_.jpg",
       "category": "World Cinema"
     },
     {
