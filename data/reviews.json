@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T14:23:24.677208+00:00",
+  "generated_at": "2026-09-10T16:13:29.735535+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -9,15 +9,169 @@
   ],
   "reviews": [
     {
-      "id": "364ae30bb2f3115f",
-      "title": "Blue Fox Launches Sales On YA Rom-Com ‘Buster Brooks’ With Matt Cornett & Melissa Collazo — TIFF Market",
-      "quote": "EXCLUSIVE: Blue Fox Entertainment has acquired worldwide rights to the YA romantic comedy Buster Brooks, written and directed by Savannah Ostler (Even in Dreams). The company will launch worldwide sales at this week’s…",
+      "id": "a0832d49816348fa",
+      "title": "Hamptons Film Festival Unveils Full Lineup, Talks With Amanda Seyfried, John Turturro, Jesse Eisenberg & More",
+      "quote": "EXCLUSIVE: The Hamptons International Film Festival has unveiled the full lineup for its 34th annual edition. The fest, which runs October 2 to 12, will close with Wicker on October 12. The Sundance-launched fantasy is…",
+      "publisher": "Deadline",
+      "author": "Dade Hayes",
+      "date": "2026-09-10T16:11:23+00:00",
+      "link": "https://deadline.com/2026/09/hamptons-film-festival-lineup-1237073393/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Barbizon-Still-7.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "1edb37a7f718d187",
+      "title": "‘The Fix’ Review: Zachary Levi and Liam Neeson in a Geopolitical Thriller That Becomes Its Own Worst Enemy",
+      "quote": "Guy Moshe's action film revolves around a former Special Ops soldier who leads a mission to retrieve a fortune in cash in Tehran.",
+      "publisher": "The Hollywood Reporter",
+      "author": "Frank Scheck",
+      "date": "2026-09-10T16:00:00+00:00",
+      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/the-fix-review-zachary-levi-liam-neeson-1236695505/",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "62f8bf8a76286105",
+      "title": "Jaeki Cho To Host ‘The Greatest Song Ever Made’ Digital Series From Blink49 & Flavor Thing",
+      "quote": "EXCLUSIVE: What is The Greatest Song Ever Made? Jaeki Cho is looking to find out in a new digital series designed for TikTok, Instagram and YouTube. Cho, who was previously a music journalist, will front the series…",
+      "publisher": "Deadline",
+      "author": "Peterdeadline",
+      "date": "2026-09-10T16:00:00+00:00",
+      "link": "https://deadline.com/2026/09/jaeki-cho-the-greatest-song-ever-made-digital-series-1237072601/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/MixCollage-09-Sep-2026-11-34-AM-877.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "e26609e61442803d",
+      "title": "‘Nobody Wants This’ Season 3 Sets Fall Release Date As First Look Teases Creator Erin Foster Among Guests",
+      "quote": "Nobody Wants This will return to Netflix for a third season next month. The streamer officially revealed on Thursday that Season 3 is arriving on October 22. Along with the news, Netflix also dropped some first look…",
+      "publisher": "Deadline",
+      "author": "Katie Campione",
+      "date": "2026-09-10T16:00:00+00:00",
+      "link": "https://deadline.com/2026/09/nobody-wants-this-season-3-release-date-first-look-photos-1237072856/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Nobody_Wants_This_n_S3_E1_00_04_05_08RC2.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "b300b138fbc1ddd1",
+      "title": "‘Mr. & Mrs. Smith’ Adds Yonatan Gebeyehu To Season 2 Cast",
+      "quote": "EXCLUSIVE: Mr. & Mrs. Smith has cast another of the titular characters — Yonatan Gebeyehu has boarded the upcoming second season of the Prime Video series, which has been filming in Los Angeles. He joins fellow Mr…",
+      "publisher": "Deadline",
+      "author": "Nellie Andreeva",
+      "date": "2026-09-10T16:00:00+00:00",
+      "link": "https://deadline.com/2026/09/mr-mrs-smith-yonatan-gebeyehu-cast-season-2-1237073122/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Yonatan-Gebeyehu.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "7b6f426ece487f1c",
+      "title": "‘Hawaii Five-O’ Movie In Works At Paramount With ‘Spider-Man: Brand New Day’ Helmer Destin Daniel Cretton: The Dish",
+      "quote": "EXCLUSIVE: Paramount Pictures is putting together a package that finally should give movie treatment to the ‘60s TV series Hawaii Five-O, with Spider-Man: Brand New Day helmer Destin Daniel Cretton leading the wave. The…",
+      "publisher": "Deadline",
+      "author": "Mike Fleming",
+      "date": "2026-09-10T16:00:00+00:00",
+      "link": "https://deadline.com/2026/09/hawaii-five-o-movie-destin-daniel-cretton-spider-man-1237073354/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Jack-Lord-in-Hawaii-Five-0-Destin-Daniel-Cretton.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "47b723062f259108",
+      "title": "‘P-Valley’ To End With Upcoming Third Season; Starz Reveals Premiere Date, Photos & Teaser Trailer",
+      "quote": "The hit Starz series P-Valley will conclude with its upcoming 9-episode third season, which will premiere with two back-to-back episodes on December 4. It has been four years since Season 2 concluded on August 14, 2022…",
+      "publisher": "Deadline",
+      "author": "Rosy Cordero",
+      "date": "2026-09-10T16:00:00+00:00",
+      "link": "https://deadline.com/2026/09/p-valley-season-3-release-date-teaser-1237073466/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/PUV3_Nicco-Annan22Uncle-Clifford22.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "a46767ae8ced78e5",
+      "title": "Comedian Sam Morril Returning To Netflix With New Special ‘Incorrect’",
+      "quote": "EXCLUSIVE: Comedian Sam Morril is set to return to Netflix with Incorrect, a new one-hour special premiering globally on September 29. In the special — watch a clip above — Morril tackles his worst one-night stand gone…",
+      "publisher": "Deadline",
+      "author": "Matthewgrobar",
+      "date": "2026-09-10T16:00:00+00:00",
+      "link": "https://deadline.com/2026/09/sam-morril-new-netflix-special-premiere-date-1237073503/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/2.27.26_SamTampa_0807.HEIC.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "999437681814ebd8",
+      "title": "5 Years Ago Today: James Wan Made One Of The Wildest Horror Movies Of All Time",
+      "quote": "Five years ago, Warner Bros. released one of horror maestro James Wan's most deranged movies - and the sickos among us flipped for it.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Ryan Scott)",
+      "date": "2026-09-10T16:00:00+00:00",
+      "link": "https://www.slashfilm.com/2253241/james-wan-horror-movie-malignant-5-year-anniversary/",
+      "image": "https://www.slashfilm.com/img/gallery/5-years-ago-today-james-wan-made-one-of-the-wildest-horror-movies-of-all-time/l-intro-1788896719.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "55e254e447505bca",
+      "title": "33 Years Ago Today, One Of The Best Sci-Fi TV Shows Of All Time Began",
+      "quote": "33 years ago today, TV viewers were introduced to FBI Agents Mulder and Scully as The X-Files premiered its very first episode.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Chris Evangelista)",
+      "date": "2026-09-10T15:55:24+00:00",
+      "link": "https://www.slashfilm.com/2254877/the-x-files-best-sci-fi-tv-show-all-time-33-year-anniversary/",
+      "image": "https://www.slashfilm.com/img/gallery/33-years-ago-today-one-of-the-best-sci-fi-tv-shows-of-all-time-began/l-intro-1789054717.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "51e36706f0ecdc57",
+      "title": "‘NAZA’: What The Critics Are Saying About Yuval Abraham & Rachel Szor’s Israel-Gaza Documentary",
+      "quote": "Yuval Abraham and Rachel Szor’s anticipated documentary NAZA has landed at the Venice Film Festival and the reviews are coming in. The two Israeli filmmakers previously worked together with two Palestinian filmmakers on…",
       "publisher": "Deadline",
       "author": "Andreas Wiseman",
-      "date": "2026-09-10T14:18:23+00:00",
-      "link": "https://deadline.com/2026/09/matt-cornett-melissa-collazo-buster-brooks-launches-sales-1237073377/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Buster-Brooks.png",
+      "date": "2026-09-10T15:53:21+00:00",
+      "link": "https://deadline.com/2026/09/naza-reviews-what-the-critics-are-saying-israel-gaza-film-1237073506/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/NAZA-key-still.jpg",
       "category": "Festival Winners"
+    },
+    {
+      "id": "09a4ace3b1e87d74",
+      "title": "Tony Gatlif obituary",
+      "quote": "Algerian-born French director of more than 20 films that celebrated Roma culture The French film director Tony Gatlif, who has died aged 77, was regularly described as “cinema’s Gypsy auteur”, so often did his films…",
+      "publisher": "The Guardian",
+      "author": "Garth Cartwright",
+      "date": "2026-09-10T15:28:26+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/10/tony-gatlif-obituary",
+      "image": "https://i.guim.co.uk/img/media/0b99931e5826045d8bbcc2fc14aec6eee52e770e/531_0_2760_2209/master/2760.jpg?width=140&quality=85&auto=format&fit=max&s=e35fd63817f89b420f184ec4c76634f3",
+      "category": "World Cinema"
+    },
+    {
+      "id": "9ee2d831fcd8dca6",
+      "title": "NAZA review – Israeli intelligence officers cast chilling light on civilian deaths",
+      "quote": "Venice film festival: Under the cover of night, anonymous personnel discuss AI, error rates and problematic intelligence units in a documentary produced by the Guardian Here is a disquieting documentary about what…",
+      "publisher": "The Guardian",
+      "author": "Peter Bradshaw in Venice",
+      "date": "2026-09-10T15:15:39+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/10/naza-review-israel-gaza",
+      "image": "https://i.guim.co.uk/img/media/3fa7c1678f5a6282da9f66019bda1865327570a9/300_124_2444_1955/master/2444.jpg?width=140&quality=85&auto=format&fit=max&s=20f4b03a641a2ee378220b7b2e537c21",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "2f84d91f82c7b9c0",
+      "title": "‘NAZA’ Review: A Sober and Indispensable Doc Highlights the Immoral, State-of-the-Art Killing Machine Employed by the IDF in Gaza",
+      "quote": "The Guardian served as producer, and Jonathan Glazer as executive producer, on this exposé by Yuval Abraham and Rachel Szor, part of the directing team behind 2024 Oscar winner 'No Other Land.'",
+      "publisher": "The Hollywood Reporter",
+      "author": "Jordan Mintzer",
+      "date": "2026-09-10T15:15:00+00:00",
+      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/naza-review-gaza-idf-documentary-no-other-land-1236696398/",
+      "image": null,
+      "category": "Festival Winners"
+    },
+    {
+      "id": "5c3f0c2627975c1c",
+      "title": "Zach Cregger's Resident Evil Reboot Eyes Record Box Office Opening For The Franchise",
+      "quote": "Zach Cregger's Resident Evil movie reboot looks to keep the Barbarian and Weapons director's box office winning streak going strong.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Ryan Scott)",
+      "date": "2026-09-10T15:00:00+00:00",
+      "link": "https://www.slashfilm.com/2253914/zach-cregger-resident-evil-movie-box-office-preview/",
+      "image": "https://www.slashfilm.com/img/gallery/zach-creggers-resident-evil-reboot-eyes-record-box-office-opening-for-the-franchise/l-intro-1788972075.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "f1cf1af334a28740",
@@ -28,17 +182,6 @@
       "date": "2026-09-10T14:16:48+00:00",
       "link": "https://www.rogerebert.com/reviews/if-i-go-will-they-miss-me-danielle-brooks-film-review-2026",
       "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "d5df2bfb31a455c9",
-      "title": "‘Bare’: First Look At ‘Bridgerton’ Star Florence Hunt In Coming-Of-Age Drama",
-      "quote": "EXCLUSIVE: Deadline can reveal the first look at Bare, the feature directorial debut from writer-director Lorna Tucker, starring Florence Hunt (Bridgerton) alongside Isla Fisher and Colin Firth. The ensemble cast also…",
-      "publisher": "Deadline",
-      "author": "Andreas Wiseman",
-      "date": "2026-09-10T14:05:27+00:00",
-      "link": "https://deadline.com/2026/09/bridgerton-star-florence-hunt-first-look-new-movie-bare-1237073366/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/BARE_Florence-Hunt_photo-by-Parisa-Taghizadeh.jpg",
       "category": "World Cinema"
     },
     {
@@ -53,28 +196,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "d8c2ed479017f972",
-      "title": "‘Now You See Me Live’ Stage Illusion Show To Play Broadway This Holiday Season",
-      "quote": "Following engagements in Australia, Singapore and London’s West End, Now You See Me Live, the stage show inspired by the Lionsgate film franchise, will run on Broadway this holiday season. Presented by Tim Lawson and…",
-      "publisher": "Deadline",
-      "author": "Greg Evans",
-      "date": "2026-09-10T14:00:00+00:00",
-      "link": "https://deadline.com/2026/09/now-you-see-me-live-broadway-1237072975/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/image001-5.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "9fb35c6c64ea9c83",
-      "title": "‘Burgundy’ Cheers Moviegoers With Tale Of Old School Values And Grand Cru Wine – Telluride Film Festival",
-      "quote": "What wine pairs well with beefcake? Burgundy, of course. That’s the conclusion one might reasonably draw from the new documentary directed by Michael Dweck and Gregory Kershaw that’s set in the famous wine-making region…",
-      "publisher": "Deadline",
-      "author": "Matthew Carey",
-      "date": "2026-09-10T14:00:00+00:00",
-      "link": "https://deadline.com/2026/09/burgundy-documentary-telluride-film-festival-1237073283/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Burgundy.png",
-      "category": "World Cinema"
-    },
-    {
       "id": "1bd467406f61b1b4",
       "title": "Strange New Worlds Season 4's 'Evil Admiral' Episode Honors A Star Trek Legend",
       "quote": "'Evil' admirals are nothing new for Star Trek, and Strange New Worlds Season 4 honors one particular writer's work with that trope in its eighth episode.",
@@ -82,7 +203,7 @@
       "author": "staff@slashfilm.com (Devin Meenan)",
       "date": "2026-09-10T14:00:00+00:00",
       "link": "https://www.slashfilm.com/2254357/strange-new-worlds-season-4-evil-admiral-episode-honor-star-trek-legend/",
-      "image": "https://www.slashfilm.com/img/gallery/strange-new-worlds-season-4s-evil-admiral-episode-honors-a-star-trek-legend/l-intro-1788987871.jpg",
+      "image": "https://www.slashfilm.com/img/gallery/strange-new-worlds-season-4-evil-admiral-episode-honor-star-trek-legend/l-intro-1789049981.jpg",
       "category": "Indie Gems"
     },
     {
@@ -95,50 +216,6 @@
       "link": "https://www.theguardian.com/film/2026/sep/10/the-odyssey-and-spider-man-make-for-record-breaking-summer-box-office-worldwide",
       "image": "https://i.guim.co.uk/img/media/f3206997a753b107b0fbecf0231589cdaef64144/115_0_4334_3466/master/4334.jpg?width=140&quality=85&auto=format&fit=max&s=b7e0fde26b9355d88b13bd4d2523ce8f",
       "category": "World Cinema"
-    },
-    {
-      "id": "39e4f169dc33afc7",
-      "title": "Harry Styles Sets 2027 Global Stadium Tour; Opening Acts To Include Kylie Minogue, LCD Soundsystem, Tears for Fears & Others",
-      "quote": "Harry Styles will play two Los Angeles dates in the six-city North American leg of his Together, Together 2027 global stadium tour, with another six cities set for the subsequent European leg to follow. In all, 12 dates…",
-      "publisher": "Deadline",
-      "author": "Greg Evans",
-      "date": "2026-09-10T13:46:51+00:00",
-      "link": "https://deadline.com/2026/09/harry-styles-2027-together-together-stadium-tour-1237073325/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2265098750.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "cec3cbc2063b1482",
-      "title": "NBCUniversal’s Split From Comcast Will “Allow Us To Move Faster,” Media Group Chief Matt Strauss Says",
-      "quote": "NBCUniversal Media Group Chairman Matt Strauss is extremely bullish on the company’s forthcoming split from Comcast. “There is genuine excitement” about the move inside the company, Strauss said Thursday at an investor…",
-      "publisher": "Deadline",
-      "author": "Dade Hayes",
-      "date": "2026-09-10T13:32:23+00:00",
-      "link": "https://deadline.com/2026/09/nbcuniversal-comcast-split-matt-strauss-peacock-1237073307/",
-      "image": "https://deadline.com/wp-content/uploads/2020/09/Comcast-NBCUniversal-building-Los-Angeles-1.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "5fce41535ea93b07",
-      "title": "Spain’s Mediapro Group To Become Imagina After Reorganization",
-      "quote": "Spain’s Grup Mediapro will relaunch as Imagina on January 1, 2027, following a major company review. The decision to relaunch comes after “several months of reorganization” and was announced internally yesterday at an…",
-      "publisher": "Deadline",
-      "author": "Jesse Whittock",
-      "date": "2026-09-10T13:26:15+00:00",
-      "link": "https://deadline.com/2026/09/grup-mediapro-relaunch-imagina-after-reorganization-1237073310/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Mediapro-bosses-e1789046118992.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "488cbb935d5125c1",
-      "title": "‘Le Faux Soir’ Trailer: Arieh Worthalter & Mélanie Thierry Star In WW2 Belgian Resistance “Media Hack” Drama – TIFF",
-      "quote": "EXCLUSIVE: Michaël R. Roskam‘s ensemble World War Two Belgian resistance drama Le Faux Soir world premieres as a Special Presentation in Toronto this weekend, before heading to San Sebastian as the closing film, and…",
-      "publisher": "Deadline",
-      "author": "Melanie Goodfellow",
-      "date": "2026-09-10T13:26:10+00:00",
-      "link": "https://deadline.com/2026/09/le-faux-soir-belgian-resistance-drama-trailer-toronto-1237073316/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Le-Faux-Soir-1-Frakas-Productions-Rectangle-Productions-_-Goodfellas-RTL-Belgium.jpg",
-      "category": "Festival Winners"
     },
     {
       "id": "11b078d34cf3ffac",
@@ -293,17 +370,6 @@
       "link": "https://www.thehindu.com/entertainment/movies/remove-shoorveer-song-from-mirzapur-the-movie-rajasthan-bjp-leader-writes-to-censor-board/article71450580.ece",
       "image": "https://th-i.thgim.com/public/entertainment/movies/ljhssa/article71450595.ece/alternates/LANDSCAPE_1200/Ali%20Fazal%20in%20%E2%80%98Mirzapur%20The%20Movie%E2%80%99",
       "category": "Indian Cinema"
-    },
-    {
-      "id": "637b3e3991b2f909",
-      "title": "Pressure review – stormy weather in tense D-day forecast retelling",
-      "quote": "Andrew Scott finds levels of complexity in a stoic character based on meteorologist James Stagg, the man who persuaded Eisenhower to delay Operation Overlord, for this slick wartime drama The historic gamble of D-day…",
-      "publisher": "The Guardian",
-      "author": "Peter Bradshaw",
-      "date": "2026-09-10T06:00:19+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/10/pressure-review-stormy-weather-in-tense-d-day-forecast-retelling",
-      "image": "https://i.guim.co.uk/img/media/f5924553782334e57f4033195958bdd98e4c0f4a/36_0_2497_1998/master/2497.jpg?width=140&quality=85&auto=format&fit=max&s=f506570174a1a4034840163cdffc5876",
-      "category": "World Cinema"
     },
     {
       "id": "1d419729bae8c32a",
@@ -504,17 +570,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "626015619fce5aa2",
-      "title": "Avengers: Doomsday Already Set A Major Box Office Record For Marvel Months Before Release",
-      "quote": "Months before Avengers: Doomsday debuts, the highly anticipated sequel has already set a box office record for Marvel Studios.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Ryan Scott)",
-      "date": "2026-09-09T18:24:53+00:00",
-      "link": "https://www.slashfilm.com/2254113/avengers-doomsday-major-box-office-record-before-release/",
-      "image": "https://www.slashfilm.com/img/gallery/avengers-doomsday-major-box-office-record-before-release/l-intro-1788984700.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "3ac9e27e5ead2ba6",
       "title": "‘A Good Little Soldier’ Review: Alba Rohrwacher Goes Corporate Drone in Stéphane Brizé’s Lukewarm Workplace Drama",
       "quote": "There’s not a single moment in Stéphane Brizé’s lukewarm workplace drama “A Good Little Soldier” where Alba Rohrwacher’s Carla Moretti isn’t at work — or on her way to the office, or at a coffee shop around the corner…",
@@ -526,17 +581,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "024396997feb2cca",
-      "title": "The Paper Creators Fought To Keep A Joke That's A Little More Edgy Than You'd Expect [Exclusive]",
-      "quote": "The Paper isn't quite as censored as your usual network sitcom, since it streams on Peacock, but the show's creators had to fight to include an edgier joke.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Ethan Anderton)",
-      "date": "2026-09-09T17:38:29+00:00",
-      "link": "https://www.slashfilm.com/2253998/the-paper-creators-greg-daniels-michael-koman-edgy-joke-interview/",
-      "image": "https://www.slashfilm.com/img/gallery/the-paper-creators-fought-to-keep-a-joke-thats-a-little-more-edgy-than-youd-expect-exclusive/l-intro-1788975391.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "d60c98f35bbf8072",
       "title": "‘The Color of the Sun’ Review: A Teenager in Okinawa Navigates Grief and Longing in an Attractive but Undercooked Coming-of-Age Drama",
       "quote": "First-time feature filmmaker Xavier Tera's tale of adolescent exploration premiered in the Horizons sidebar of the Venice Film Festival.",
@@ -545,28 +589,6 @@
       "date": "2026-09-09T17:27:36+00:00",
       "link": "https://www.hollywoodreporter.com/movies/movie-reviews/the-color-of-the-sun-review-1236692387/",
       "image": null,
-      "category": "Festival Winners"
-    },
-    {
-      "id": "b241f0d636de4976",
-      "title": "Neve Campbell's 101-Minute Fantasy Horror Movie Is An HBO Max Streaming Hit 30 Years Later",
-      "quote": "HBO Max subscribers are getting a head start on scary season by streaming this fantasy horror flick starring the likes of Neve Campbell.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Sandy Schaefer)",
-      "date": "2026-09-09T16:14:30+00:00",
-      "link": "https://www.slashfilm.com/2253873/neve-campbell-fantasy-horror-movie-the-craft-streaming-hbo-max-september-2026/",
-      "image": "https://www.slashfilm.com/img/gallery/neve-campbell-fantasy-horror-movie-the-craft-streaming-hbo-max-september-2026/l-intro-1788970614.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "a256bc51e184bfa6",
-      "title": "Union Town review – passionate exposé of US delivery workers’ employment conditions",
-      "quote": "Venice film festival: Barbara Kopple returns with her third film investigating US workers’ rights – this time, undocumented ‘deliveristas’ and the attempts to unionise Amazon staff Barbara Kopple’s documentary about…",
-      "publisher": "The Guardian",
-      "author": "Xan Brooks in Venice",
-      "date": "2026-09-09T15:49:03+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/09/union-town-review-barbara-kopple-amazon-ups",
-      "image": "https://i.guim.co.uk/img/media/425fa67c86d8adeaf18a086c0b643df874a553c7/437_0_2082_1666/master/2082.jpg?width=140&quality=85&auto=format&fit=max&s=525fc0c7db3857f49539fcbd46b3174a",
       "category": "Festival Winners"
     },
     {
@@ -625,17 +647,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "be4029494fa297e3",
-      "title": "‘Joie de Vivre’ Review: Luca Guadagnino’s Marathon Doc on Bernardo Bertolucci Is Both a Feast and a Self-Indulgent Over-Abundance",
-      "quote": "Martin Scorsese, James Gray, Alfonso Cuarón and David Cronenberg are among directors chiming in on this freewheeling two-part conversation, along with actors Debra Winger and Margot Robbie.",
-      "publisher": "The Hollywood Reporter",
-      "author": "David Rooney",
-      "date": "2026-09-09T12:35:00+00:00",
-      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/joie-de-vivre-review-luca-guadagnino-bernardo-bertolucci-1236694788/",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
       "id": "3c029b3c0e0a4f14",
       "title": "How 'obscene' poem Howl reshaped US free speech",
       "quote": "Allen Ginsberg's graphic verse had a seismic effect on American society",
@@ -676,17 +687,6 @@
       "author": "Brian Tallerico",
       "date": "2026-09-09T01:00:00+00:00",
       "link": "https://www.rogerebert.com/reviews/last-seen-apple-thriller-tv-review-2026",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "c51e9a8edb0a4550",
-      "title": "‘Company’ Review: Casey Affleck Directs a Surprising, Decade-Hopping but Dull Existential Drama",
-      "quote": "Scoot McNairy, Adelaide Clemens, Nick Nolte, Ben Mendelsohn and Affleck’s son Atticus star in the Venice competition entry, a triptych of interconnected stories fueled by a mystery.",
-      "publisher": "The Hollywood Reporter",
-      "author": "Richard Lawson",
-      "date": "2026-09-08T19:50:00+00:00",
-      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/company-review-casey-affleck-nick-nolte-scoot-mcnairy-1236693784/",
       "image": null,
       "category": "World Cinema"
     },
