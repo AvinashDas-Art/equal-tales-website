@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T11:03:30.048042+00:00",
+  "generated_at": "2026-09-10T14:23:24.677208+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -9,9 +9,218 @@
   ],
   "reviews": [
     {
+      "id": "364ae30bb2f3115f",
+      "title": "Blue Fox Launches Sales On YA Rom-Com ‘Buster Brooks’ With Matt Cornett & Melissa Collazo — TIFF Market",
+      "quote": "EXCLUSIVE: Blue Fox Entertainment has acquired worldwide rights to the YA romantic comedy Buster Brooks, written and directed by Savannah Ostler (Even in Dreams). The company will launch worldwide sales at this week’s…",
+      "publisher": "Deadline",
+      "author": "Andreas Wiseman",
+      "date": "2026-09-10T14:18:23+00:00",
+      "link": "https://deadline.com/2026/09/matt-cornett-melissa-collazo-buster-brooks-launches-sales-1237073377/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Buster-Brooks.png",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "f1cf1af334a28740",
+      "title": "If I Go Will They Miss Me",
+      "quote": "Its keen mix of magical-realist visual language offers an eloquent vision of Blackness.",
+      "publisher": "RogerEbert.com",
+      "author": "Robert Daniels",
+      "date": "2026-09-10T14:16:48+00:00",
+      "link": "https://www.rogerebert.com/reviews/if-i-go-will-they-miss-me-danielle-brooks-film-review-2026",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "d5df2bfb31a455c9",
+      "title": "‘Bare’: First Look At ‘Bridgerton’ Star Florence Hunt In Coming-Of-Age Drama",
+      "quote": "EXCLUSIVE: Deadline can reveal the first look at Bare, the feature directorial debut from writer-director Lorna Tucker, starring Florence Hunt (Bridgerton) alongside Isla Fisher and Colin Firth. The ensemble cast also…",
+      "publisher": "Deadline",
+      "author": "Andreas Wiseman",
+      "date": "2026-09-10T14:05:27+00:00",
+      "link": "https://deadline.com/2026/09/bridgerton-star-florence-hunt-first-look-new-movie-bare-1237073366/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/BARE_Florence-Hunt_photo-by-Parisa-Taghizadeh.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "f101ec1342f17087",
+      "title": "Alex Winter: ‘Michael Winner was the most erudite sociopath I’ve ever met’",
+      "quote": "The Bill & Ted actor answers your questions about working with Keanu Reeves, whether there will be a fourth instalment and nights out in Brixton with the Death Wish director You were born in London but grew up in…",
+      "publisher": "The Guardian",
+      "author": "As told to Rich Pelley",
+      "date": "2026-09-10T14:00:37+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/10/alex-winter-michael-winner-was-the-most-erudite-sociopath-ive-ever-met",
+      "image": "https://i.guim.co.uk/img/media/55afbe33584009d12b73fb46846e5e934f2cf57b/208_0_6233_4987/master/6233.jpg?width=140&quality=85&auto=format&fit=max&s=f12752c392cb5e6dd7d2ac8960ac20ec",
+      "category": "World Cinema"
+    },
+    {
+      "id": "d8c2ed479017f972",
+      "title": "‘Now You See Me Live’ Stage Illusion Show To Play Broadway This Holiday Season",
+      "quote": "Following engagements in Australia, Singapore and London’s West End, Now You See Me Live, the stage show inspired by the Lionsgate film franchise, will run on Broadway this holiday season. Presented by Tim Lawson and…",
+      "publisher": "Deadline",
+      "author": "Greg Evans",
+      "date": "2026-09-10T14:00:00+00:00",
+      "link": "https://deadline.com/2026/09/now-you-see-me-live-broadway-1237072975/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/image001-5.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "9fb35c6c64ea9c83",
+      "title": "‘Burgundy’ Cheers Moviegoers With Tale Of Old School Values And Grand Cru Wine – Telluride Film Festival",
+      "quote": "What wine pairs well with beefcake? Burgundy, of course. That’s the conclusion one might reasonably draw from the new documentary directed by Michael Dweck and Gregory Kershaw that’s set in the famous wine-making region…",
+      "publisher": "Deadline",
+      "author": "Matthew Carey",
+      "date": "2026-09-10T14:00:00+00:00",
+      "link": "https://deadline.com/2026/09/burgundy-documentary-telluride-film-festival-1237073283/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Burgundy.png",
+      "category": "World Cinema"
+    },
+    {
+      "id": "1bd467406f61b1b4",
+      "title": "Strange New Worlds Season 4's 'Evil Admiral' Episode Honors A Star Trek Legend",
+      "quote": "'Evil' admirals are nothing new for Star Trek, and Strange New Worlds Season 4 honors one particular writer's work with that trope in its eighth episode.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Devin Meenan)",
+      "date": "2026-09-10T14:00:00+00:00",
+      "link": "https://www.slashfilm.com/2254357/strange-new-worlds-season-4-evil-admiral-episode-honor-star-trek-legend/",
+      "image": "https://www.slashfilm.com/img/gallery/strange-new-worlds-season-4s-evil-admiral-episode-honors-a-star-trek-legend/l-intro-1788987871.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "224ac398a8316dc3",
+      "title": "The Odyssey and Spider-Man propel record-breaking summer box office worldwide",
+      "quote": "The biggest May to September of all time was recorded in US cinemas, with the UK enjoying a 56% rise in audiences, outstripped by an 88% lift in the Middle East and Africa As well as celebrating their wedding, the…",
+      "publisher": "The Guardian",
+      "author": "Catherine Shoard",
+      "date": "2026-09-10T13:57:06+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/10/the-odyssey-and-spider-man-make-for-record-breaking-summer-box-office-worldwide",
+      "image": "https://i.guim.co.uk/img/media/f3206997a753b107b0fbecf0231589cdaef64144/115_0_4334_3466/master/4334.jpg?width=140&quality=85&auto=format&fit=max&s=b7e0fde26b9355d88b13bd4d2523ce8f",
+      "category": "World Cinema"
+    },
+    {
+      "id": "39e4f169dc33afc7",
+      "title": "Harry Styles Sets 2027 Global Stadium Tour; Opening Acts To Include Kylie Minogue, LCD Soundsystem, Tears for Fears & Others",
+      "quote": "Harry Styles will play two Los Angeles dates in the six-city North American leg of his Together, Together 2027 global stadium tour, with another six cities set for the subsequent European leg to follow. In all, 12 dates…",
+      "publisher": "Deadline",
+      "author": "Greg Evans",
+      "date": "2026-09-10T13:46:51+00:00",
+      "link": "https://deadline.com/2026/09/harry-styles-2027-together-together-stadium-tour-1237073325/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2265098750.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "cec3cbc2063b1482",
+      "title": "NBCUniversal’s Split From Comcast Will “Allow Us To Move Faster,” Media Group Chief Matt Strauss Says",
+      "quote": "NBCUniversal Media Group Chairman Matt Strauss is extremely bullish on the company’s forthcoming split from Comcast. “There is genuine excitement” about the move inside the company, Strauss said Thursday at an investor…",
+      "publisher": "Deadline",
+      "author": "Dade Hayes",
+      "date": "2026-09-10T13:32:23+00:00",
+      "link": "https://deadline.com/2026/09/nbcuniversal-comcast-split-matt-strauss-peacock-1237073307/",
+      "image": "https://deadline.com/wp-content/uploads/2020/09/Comcast-NBCUniversal-building-Los-Angeles-1.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "5fce41535ea93b07",
+      "title": "Spain’s Mediapro Group To Become Imagina After Reorganization",
+      "quote": "Spain’s Grup Mediapro will relaunch as Imagina on January 1, 2027, following a major company review. The decision to relaunch comes after “several months of reorganization” and was announced internally yesterday at an…",
+      "publisher": "Deadline",
+      "author": "Jesse Whittock",
+      "date": "2026-09-10T13:26:15+00:00",
+      "link": "https://deadline.com/2026/09/grup-mediapro-relaunch-imagina-after-reorganization-1237073310/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Mediapro-bosses-e1789046118992.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "488cbb935d5125c1",
+      "title": "‘Le Faux Soir’ Trailer: Arieh Worthalter & Mélanie Thierry Star In WW2 Belgian Resistance “Media Hack” Drama – TIFF",
+      "quote": "EXCLUSIVE: Michaël R. Roskam‘s ensemble World War Two Belgian resistance drama Le Faux Soir world premieres as a Special Presentation in Toronto this weekend, before heading to San Sebastian as the closing film, and…",
+      "publisher": "Deadline",
+      "author": "Melanie Goodfellow",
+      "date": "2026-09-10T13:26:10+00:00",
+      "link": "https://deadline.com/2026/09/le-faux-soir-belgian-resistance-drama-trailer-toronto-1237073316/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Le-Faux-Soir-1-Frakas-Productions-Rectangle-Productions-_-Goodfellas-RTL-Belgium.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "11b078d34cf3ffac",
+      "title": "Star Trek: Strange New Worlds Season 4 - La'an's Watch (And Her Relationship With Kirk) Explained",
+      "quote": "Confused about La'an's watch and her connection to Kirk in the latest episode of Star Trek: Strange New Worlds Season 4? Allow us to explain.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Devin Meenan)",
+      "date": "2026-09-10T13:20:33+00:00",
+      "link": "https://www.slashfilm.com/2254629/star-trek-strange-new-worlds-laan-watch-kirk-relationship-explained/",
+      "image": "https://www.slashfilm.com/img/gallery/star-trek-strange-new-worlds-season-4-laans-watch-and-her-relationship-with-kirk-explained/l-intro-1789046143.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "cef4c172bc176653",
+      "title": "‘Why Did I Get Married Again?’ Review: Taraji P. Henson Joins the Gang for a Tyler Perry Sequel That Sells the Next Generation Short",
+      "quote": "It’s been nearly 20 years since “Why Did I Get Married?”, the original Tyler Perry movie that first introduced these characters and their variously troubled relationships — and 16 years since the sequel to that film…",
+      "publisher": "Variety",
+      "author": "Guy Lodge",
+      "date": "2026-09-10T13:04:12+00:00",
+      "link": "https://variety.com/2026/film/reviews/why-did-i-get-married-again-review-taraji-p-henson-1236857141/",
+      "image": "https://variety.com/wp-content/uploads/2026/09/MCDWHDI_ZX022.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "c91e6848b4d952be",
+      "title": "Practical Magic 2",
+      "quote": "A listless, wholly unneeded piece of IP exploitation that retreads material that wasn’t all that spectacular to begin with.",
+      "publisher": "RogerEbert.com",
+      "author": "Peter Sobczynski",
+      "date": "2026-09-10T13:00:00+00:00",
+      "link": "https://www.rogerebert.com/reviews/practical-magic-2-nicole-kidman-sandra-bullock-movie-review-2026",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "b2c608887898add6",
+      "title": "Star Trek: Strange New Worlds Season 4's Best Episode Was Directly Inspired By A Rob Reiner Classic [Exclusive]",
+      "quote": "The best episode of Star Trek: Strange New Worlds Season 4 so far was inspired by a classic 1990s movie directed by the late Rob Reiner.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Jeremy Mathai)",
+      "date": "2026-09-10T13:00:00+00:00",
+      "link": "https://www.slashfilm.com/2254361/star-trek-strange-new-worlds-season-4-best-episode-rob-reiner-inspiration/",
+      "image": "https://www.slashfilm.com/img/gallery/star-trek-strange-new-worlds-season-4s-best-episode-was-directly-inspired-by-a-rob-reiner-classic-exclusive/l-intro-1788987804.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "a9b6dcf2fb9cabd8",
+      "title": "Star Trek: Strange New Worlds Season 4 Debunks The Biggest Kirk Myth",
+      "quote": "On Star Trek: Strange New Worlds, Kirk, played by Paul Wesley, is depicted closer to the classic version of the character than the popular misconception.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Witney Seibold)",
+      "date": "2026-09-10T12:00:00+00:00",
+      "link": "https://www.slashfilm.com/2251042/star-trek-strange-new-worlds-season-4-debunk-kirk-myth/",
+      "image": "https://www.slashfilm.com/img/gallery/star-trek-strange-new-worlds-season-4-debunks-the-biggest-kirk-myth/l-intro-1788529286.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "eac05a573ed7c321",
+      "title": "‘Sardar 2’ movie review: Karthi’s propulsive spy actioner loses steam post intermission",
+      "quote": "PS Mithran’s ambitious spy thriller is at its best when its intricate plotting meets a well-written emotional core, but the Karthi-starrer struggles to sustain the momentum after the interval",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-10T11:43:48+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/karthi-sardar-2-movie-review-sardar-2-review-ps-mithran-propulsive-spy-actioner-loses-steam-sardar/article71451132.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/ct7unz/article71451154.ece/alternates/LANDSCAPE_1200/SArdar2.JPEG",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "6776cd7fe563db72",
+      "title": "‘Love of Your Life’ trailer: Love transforms Margaret Qualley in Rachel Morrison’s vivid romance",
+      "quote": "Co-produced by Ryan Gosling, the film also stars Gabriel Basso, Aaron Pierre and Patrick Schwarzenegger",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-10T11:40:05+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/love-of-your-life-trailer-love-transforms-margaret-qualley-in-rachel-morrisons-vivid-romance/article71451429.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/9qursj/article71451434.ece/alternates/LANDSCAPE_1200/Margaret%20Qualley%20in%20%E2%80%98Love%20of%20Your%20Life%E2%80%99%20trailer",
+      "category": "Indian Cinema"
+    },
+    {
       "id": "b08022064a8c355f",
       "title": "Five things about the new Elon Musk documentary",
-      "quote": "It premiered at the Venice Film Festival",
+      "quote": "Alex Gibney's documentary premiered at the Venice Film Festival",
       "publisher": "BBC Culture",
       "author": null,
       "date": "2026-09-10T11:00:00+00:00",
@@ -20,59 +229,15 @@
       "category": "Festival Winners"
     },
     {
-      "id": "bfaa2923316e7c92",
-      "title": "Blockbuster Summer Pushed UK Cinema Admissions To Pre-Pandemic High In August",
-      "quote": "Cinema admissions across the UK in August surpassed 17 million, a 56 per cent increase on the same month in 2025, according to new figures collected by the UK Cinema Association. The official figures for August were…",
-      "publisher": "Deadline",
-      "author": "Zac Ntim",
-      "date": "2026-09-10T10:45:25+00:00",
-      "link": "https://deadline.com/2026/09/k-cinema-admissions-pre-pandemic-high-august-17-million-1237073236/",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/MCDODYS_UV041.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "f0cb6fa8b1f49e07",
-      "title": "Channel 4 To Merge Unscripted Units, Slashing Commissioning Roles In Half",
-      "quote": "Channel 4 is planning a significant overhaul of three unscripted commissioning departments as part of the biggest jobs cull in its 43-year history. The British network announced on Wednesday that it would cut 340 jobs —…",
-      "publisher": "Deadline",
-      "author": "Jake Kanter",
-      "date": "2026-09-10T10:30:16+00:00",
-      "link": "https://deadline.com/2026/09/channel-4-merge-unscripted-units-slash-commissioning-roles-1237073217/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/78357S16-Embargoed-0001-Tuesday-26th-August-The-Great-British-Bake-Off-Series-16-1-74036c5-e1788268573831.webp",
-      "category": "World Cinema"
-    },
-    {
-      "id": "c31f4f80e923b916",
-      "title": "Kayleigh Llewellyn Adapting Sarah Waters Novel ‘The Paying Guests’ For BBC Studios Fiction",
-      "quote": "EXCLUSIVE: Every book in the canon of British author Sarah Waters has been adapted for screen – except one. That’s about to change. Deadline understands BBC Studios Fiction has optioned The Paying Guests, the 2014 book…",
-      "publisher": "Deadline",
-      "author": "Jesse Whittock",
-      "date": "2026-09-10T09:56:38+00:00",
-      "link": "https://deadline.com/2026/09/sarah-waters-paying-guests-kayleigh-llewellyn-bbc-studios-1237072030/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Kayleigh-Llewellyn-and-Sarah-Waters-1.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "948a53bc4f0a49f0",
-      "title": "‘Love Island’ Star Arabella Chi Signs With Rizzo The Agency",
-      "quote": "EXCLUSIVE: British model and television personality Arabella Chi has signed with Rizzo The Agency for exclusive representation. Chi began her career as a model and went on to appear in Love Island, Love Island: All…",
-      "publisher": "Deadline",
-      "author": "Jesse Whittock",
-      "date": "2026-09-10T09:41:04+00:00",
-      "link": "https://deadline.com/2026/09/love-island-star-arabella-chi-signs-rizzo-agency-1237069372/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/IMG_0955-33-e1789033169968.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "2cb5e35c9ab0a131",
-      "title": "Elon Musk Embarks On Vicious Rant About “Bitter Old Man” Alex Gibney & Threatens To Sue Over ‘Musk’ Documentary",
-      "quote": "Elon Musk has gone on an hours-long rampage about Alex Gibney after the Oscar-winning director premiered his documentary about the tech mogul at the Venice Film Festival. In a series of vicious and sometimes bizarre…",
-      "publisher": "Deadline",
-      "author": "Jake Kanter",
-      "date": "2026-09-10T09:05:45+00:00",
-      "link": "https://deadline.com/2026/09/elon-musk-rant-alex-gibney-lawsuit-documentary-1237073198/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2235937821.jpg",
-      "category": "Festival Winners"
+      "id": "33b4d28062e154dc",
+      "title": "Venky Atluri interview: National Award winner on Suriya’s ‘Vishwanath & Sons’ and age-gap romance",
+      "quote": "Venky Atluri discusses his National Award-winning writing, ‘Vishwanath & Sons’, Suriya’s return to romance, and portraying an age-gap relationship with sensitivity",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-10T10:17:19+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/venky-atluri-interview-national-award-winner-on-suriyas-vishwanath-amp-sons-and-age-gap-romance/article71312304.ece",
+      "image": "https://th-i.thgim.com/public/incoming/gi2tay/article71317354.ece/alternates/LANDSCAPE_1200/Venky%20Atluri-collagenew.jpg",
+      "category": "Indian Cinema"
     },
     {
       "id": "820e89135281527c",
@@ -97,17 +262,6 @@
       "category": "Indian Cinema"
     },
     {
-      "id": "9f66c7b255845035",
-      "title": "Paul Mescal, Tracy Letts & Uzo Aduba Among Names Set For National Theatre Productions In 2027",
-      "quote": "The National Theatre in London has set its 2027 lineup, with Tracy Letts and Uzo Aduba among the actors making their debut at the venue, and Paul Mescal among the returning performers. Letts will perform alongside…",
-      "publisher": "Deadline",
-      "author": "Zac Ntim",
-      "date": "2026-09-10T08:33:57+00:00",
-      "link": "https://deadline.com/2026/09/tracy-letts-paul-mescal-uzo-aduba-national-theatre-2027-1237073199/",
-      "image": "https://deadline.com/wp-content/uploads/2026/01/Paul-Mescal061.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "9ac3e41abfccbd52",
       "title": "La Femme Infidèle review – Chabrol’s eerie domestic thriller is a brilliant ballet of repression and fear",
       "quote": "Claude Chabrol’s 1969 film charts a complex marriage in which a husband suspects his wife is cheating on him Writer-director Claude Chabrol’s eerie 1969 masterpiece of frozen emotions and unspoken truths is now…",
@@ -119,26 +273,15 @@
       "category": "World Cinema"
     },
     {
-      "id": "18c52828ed3e116d",
-      "title": "The Sidemen Rep Arcade Signs Max Fosh, Friends From Work & More Ahead Of Europe’s First Creator Upfront",
-      "quote": "EXCLUSIVE: Arcade, the management company of The Sidemen, has signed a host of creators, as it relaunches as an entertainment business ahead of its first European upfront. Comedian Max Fosh, creator collective Friends…",
-      "publisher": "Deadline",
-      "author": "Jesse Whittock",
-      "date": "2026-09-10T08:00:00+00:00",
-      "link": "https://deadline.com/2026/09/arcade-relaunch-sidemen-max-fosh-creators-1237072068/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Arcade-Press-Images.png",
-      "category": "World Cinema"
-    },
-    {
-      "id": "faed5aa1e528a335",
-      "title": "‘RuPaul’s Drag Race UK’ Canceled By BBC Amid “Financial Pressures”",
-      "quote": "RuPaul’s Drag Race UK has reached the end of the runway on the BBC. The BBC has decided not to renew Drag Race UK beyond Season 8 this year, citing “financial pressures” as the UK broadcaster seeks savings of £500…",
-      "publisher": "Deadline",
-      "author": "Jake Kanter",
-      "date": "2026-09-10T07:58:05+00:00",
-      "link": "https://deadline.com/2026/09/rupaul-drag-race-uk-canceled-bbc-financial-pressures-1237073175/",
-      "image": "https://deadline.com/wp-content/uploads/2019/10/p07rmcp1.jpg",
-      "category": "World Cinema"
+      "id": "cff1456cf4617c76",
+      "title": "Daily Quiz | On Mammootty",
+      "quote": "Muhammad Kutty Panaparambil Ismail, popularly known as Mammootty, celebrated his 75th birthday on September 7. A quiz on the legendary Malayalam actor",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-10T07:30:31+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/daily-quiz-on-mammootty/article71450659.ece",
+      "image": "https://th-i.thgim.com/public/incoming/596uvz/article71450669.ece/alternates/LANDSCAPE_1200/NH25Mammootty21.JPG",
+      "category": "Indian Cinema"
     },
     {
       "id": "94b04924038de783",
@@ -416,17 +559,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "9b4cb3671b8689ff",
-      "title": "This South Korean Sci-Fi Movie Takes One Of The Biggest Cinematic Risks Of 2026",
-      "quote": "Hope, the new sci-fi movie from South Korean director Na Hong-jin, is pretty audacious compared to a lot of other films in 2026.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Bill Bria)",
-      "date": "2026-09-09T16:00:00+00:00",
-      "link": "https://www.slashfilm.com/2252537/hope-south-korean-sci-fi-movie-biggest-cinematic-risk-2026/",
-      "image": "https://www.slashfilm.com/img/gallery/this-south-korean-sci-fi-movie-takes-one-of-the-biggest-cinematic-risks-of-2026/l-intro-1788872915.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "a256bc51e184bfa6",
       "title": "Union Town review – passionate exposé of US delivery workers’ employment conditions",
       "quote": "Venice film festival: Barbara Kopple returns with her third film investigating US workers’ rights – this time, undocumented ‘deliveristas’ and the attempts to unionise Amazon staff Barbara Kopple’s documentary about…",
@@ -435,17 +567,6 @@
       "date": "2026-09-09T15:49:03+00:00",
       "link": "https://www.theguardian.com/film/2026/sep/09/union-town-review-barbara-kopple-amazon-ups",
       "image": "https://i.guim.co.uk/img/media/425fa67c86d8adeaf18a086c0b643df874a553c7/437_0_2082_1666/master/2082.jpg?width=140&quality=85&auto=format&fit=max&s=525fc0c7db3857f49539fcbd46b3174a",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "dfda788c5a951771",
-      "title": "John Malkovich cancels Israel trip over fabricated solidarity quote",
-      "quote": "The Wild Horse Nine actor had been due to appear on stage in The Music Critic in Tel Aviv – but pulled out over PR firm’s ‘unacceptable and untenable’ attribution of statement John Malkovich has cancelled a planned trip…",
-      "publisher": "The Guardian",
-      "author": "Catherine Shoard",
-      "date": "2026-09-09T15:23:41+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/09/john-malkovich-cancels-israel-trip-over-fabricated-solidarity-quote",
-      "image": "https://i.guim.co.uk/img/media/0184002764d0a71a861badf631cfa1930aeac460/172_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=8174dd16bbc336f0722a31f059723f89",
       "category": "Festival Winners"
     },
     {
@@ -458,83 +579,6 @@
       "link": "https://www.thehindu.com/entertainment/movies/carrie-trailer-mike-flanagan-brings-stephen-kings-horror-classic-into-the-social-media-age/article71448271.ece",
       "image": "https://th-i.thgim.com/public/entertainment/movies/3qafzp/article71448214.ece/alternates/LANDSCAPE_1200/Screenshot%202026-09-09%20201336.png",
       "category": "Indian Cinema"
-    },
-    {
-      "id": "072a67b9caefacf8",
-      "title": "Alan Hale Jr.'s Last Ever Western Role Was In A Forgotten 1984 Movie Streaming On Prime Video",
-      "quote": "Gilligan's Island actor Alan Hale Jr. returned to the Old West one last time in The Red Fury, a 1984 Western that's currently on Prime Video.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-09-09T15:00:00+00:00",
-      "link": "https://www.slashfilm.com/2253151/alan-hale-jr-last-western-role-1984-movie-the-red-fury-prime-video/",
-      "image": "https://www.slashfilm.com/img/gallery/alan-hale-jr-s-last-ever-western-role-was-in-a-forgotten-1984-movie-streaming-on-prime-video/l-intro-1788893461.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "7eb033f4cd05d23a",
-      "title": "‘Digger’ final trailer: Tom Cruise plays an oil tycoon who must save a world he helped destroy",
-      "quote": "The new trailer for Alejandro G. Iñárritu’s dark comedy gives a fuller look at Tom Cruise’s bizarre transformation into billionaire Digger Rockwell",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-09T14:41:32+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/digger-final-trailer-tom-cruise-plays-an-oil-tycoon-who-must-save-a-world-he-helped-destroy/article71448143.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/kll7b9/article71448131.ece/alternates/LANDSCAPE_1200/Screenshot%202026-09-09%20201007.png",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "575c54ba15aa82d0",
-      "title": "‘Silo’ Season 3 review: Memories and murder collide as Rebecca Ferguson races to uncover the truth",
-      "quote": "The penultimate season of Graham Yost’s adaptation of Hugh Howey’s sci-fi trilogy builds on the strengths of the previous seasons to present a chilling, thrilling tale of control and the unstoppable force of curiosity",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-09T14:33:25+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/silo-season-3-review-apple-tv-rebecca-ferguson/article71438441.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/tyv8f3/article71439116.ece/alternates/LANDSCAPE_1200/Slio_Photo_030511.jpg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "cf07f9c73bb7a507",
-      "title": "‘Remain’ teaser: Jake Gyllenhaal and Phoebe Dynevor find a supernatural mystery in M. Night Shyamalan’s new romance",
-      "quote": "The first teaser for M. Night Shyamalan’s’ Remain’ begins as an intimate love story before sending Jake Gyllenhaal’s grieving architect into a supernatural mystery",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-09T14:31:55+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/remain-teaser-jake-gyllenhaal-and-phoebe-dynevor-find-a-supernatural-mystery-in-m-night-shyamalans-new-romance/article71448069.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/e52d04/article71448047.ece/alternates/LANDSCAPE_1200/Screenshot%202026-09-09%20195743.png",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "1c542cd57264dccc",
-      "title": "Ted Lasso Season 4 Is Badly Failing Its Key Female Characters",
-      "quote": "By the end of Ted Lasso Season 3, Rebecca and Keeley were some of the most beloved characters on the show. But Season 4 is badly failing both of them so far.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Ben Pearson)",
-      "date": "2026-09-09T14:00:00+00:00",
-      "link": "https://www.slashfilm.com/2252870/ted-lasso-season-4-fail-female-characters/",
-      "image": "https://www.slashfilm.com/img/gallery/ted-lasso-season-4-is-badly-failing-its-key-female-characters/l-intro-1788893065.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "ae69b9a54d6b0613",
-      "title": "‘The Gentlemen’ Season 2 review: Theo James anchors Guy Ritchie’s style over substance gangster saga",
-      "quote": "Enjoyable and instantly forgettable, this tale of aristos growing marijuana to fund their estates sees Theo James’s Eddie attempting to extricate himself from increasingly complicated situations with ducal panache",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-09T13:48:43+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/the-gentlemen-season-2-review-theo-james-anchors-guy-ritchies-style-over-substance-gangster-saga/article71441898.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/g6hdtu/article71447756.ece/alternates/LANDSCAPE_1200/AAAAQTfamOrhE3iojzrpzf8kA6-OJfy52PrCwvfRgF8SUQWeBXajEViuOxFZfYy6XeZe52bgejASKjIJA4kuzoTLK21cqfB7op9GJU8kh-BM1CrfnAblX8p4lTNaz9CgYKkZfHFH26oBGxzUcNHxhJ8V0s6P.jpg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "bba4fa5f08bc0d53",
-      "title": "DAU review – Ilya Krzhanovsky’s crazed Soviet inferno reaches its central character",
-      "quote": "Venice film festival: The director’s bleak epic project about the scientist Lev Landau finally focuses on the genius maudit who inspired the series How would it be if Christopher Nolan got sidetracked while making…",
-      "publisher": "The Guardian",
-      "author": "Peter Bradshaw",
-      "date": "2026-09-09T13:45:00+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/09/dau-review-venice-film-festival-ilya-khrzhanovsky",
-      "image": "https://i.guim.co.uk/img/media/deb280e05c5eeea492646e2c2aa89ec9e54a0153/812_0_2767_2214/master/2767.jpg?width=140&quality=85&auto=format&fit=max&s=e6e52ecdbe2139000387f1e57ae1a05f",
-      "category": "Festival Winners"
     },
     {
       "id": "7cc34ce0ba5cd4ba",
@@ -581,17 +625,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "3a04472ce652abaf",
-      "title": "The Uprising Review: Andrew Garfield's Robin Hood Origin (Sort Of) Is A Dull, Dreary Disappointment",
-      "quote": "A Robin Hood origin story that isn't actually about Robin Hood, The Uprising has nothing interesting to say about anything, really. Here's our review.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Jeremy Mathai)",
-      "date": "2026-09-09T13:00:00+00:00",
-      "link": "https://www.slashfilm.com/2252719/the-uprising-review-andrew-garfield-2026-movie/",
-      "image": "https://www.slashfilm.com/img/gallery/the-uprising-review-andrew-garfields-robin-hood-origin-sort-of-is-a-dull-dreary-disappointment/l-intro-1788875927.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "be4029494fa297e3",
       "title": "‘Joie de Vivre’ Review: Luca Guadagnino’s Marathon Doc on Bernardo Bertolucci Is Both a Feast and a Self-Indulgent Over-Abundance",
       "quote": "Martin Scorsese, James Gray, Alfonso Cuarón and David Cronenberg are among directors chiming in on this freewheeling two-part conversation, along with actors Debra Winger and Margot Robbie.",
@@ -633,17 +666,6 @@
       "date": "2026-09-09T06:22:37+00:00",
       "link": "https://variety.com/2026/film/reviews/a-common-story-review-1236855454/",
       "image": "https://variety.com/wp-content/uploads/2026/09/113681-UNA_STORIA__A_COMMON_STORY__-_Alba_Rohrwacher__and_Guido_Caprino__Credits_Nicole_Verzaro_.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "6fc7d3ee5a2dadb2",
-      "title": "‘Runner’ Review: Alan Ritchson and Owen Wilson Lend Some Personality to a Good-Enough Action Thriller",
-      "quote": "Are movie stars okay? Between the recent explosion of celebrity spokesperson roles (such as Ben Affleck finally doing Aflac commercials) and a steady growth in star-driven straight-to-streaming fare, actors the general…",
-      "publisher": "Variety",
-      "author": "Todd Gilchrist",
-      "date": "2026-09-09T05:05:27+00:00",
-      "link": "https://variety.com/2026/film/reviews/runner-review-alan-ritchson-owen-wilson-1236855275/",
-      "image": "https://variety.com/wp-content/uploads/2026/09/RUNNER_12MAY25_VV_05272_COLOR-TREATED-H-2026.webp",
       "category": "World Cinema"
     },
     {
@@ -702,17 +724,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "bd1edfd7fce10506",
-      "title": "Tenzing",
-      "quote": "On the surface, it’s an adventure flick, but the story has spiritual and emotional depth that gives Tenzing’s life mission universal resonance.",
-      "publisher": "RogerEbert.com",
-      "author": "Cortlyn Kelly",
-      "date": "2026-09-08T13:00:00+00:00",
-      "link": "https://www.rogerebert.com/reviews/tenzing-film-review-2026",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
       "id": "00ee50afe32576b9",
       "title": "10 stunning buildings 'blended' with nature",
       "quote": "From a haven in the lush Mexican forest to a subtropical dream home in Florida",
@@ -721,17 +732,6 @@
       "date": "2026-09-08T11:00:00+00:00",
       "link": "https://www.bbc.com/culture/article/20260907-10-stunning-buildings-blended-with-nature?ocid=global_culture_rss",
       "image": "https://ychef.files.bbci.co.uk/144x81/p0p8cd91.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "7a44057ab4c83a88",
-      "title": "Hope",
-      "quote": "This bloody, motoring adventure relishes the unease it places on the audience.",
-      "publisher": "RogerEbert.com",
-      "author": "Robert Daniels",
-      "date": "2026-09-07T23:37:07+00:00",
-      "link": "https://www.rogerebert.com/reviews/hope-na-jong-hin-movie-review-2026",
-      "image": null,
       "category": "World Cinema"
     },
     {
