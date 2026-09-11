@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T20:43:51.688956+00:00",
+  "generated_at": "2026-09-11T04:13:11.739029+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -9,81 +9,180 @@
   ],
   "reviews": [
     {
-      "id": "8fe274cbd777dcad",
-      "title": "James Talarico Calls FCC Pressure On Jimmy Kimmel Interview “The Most Dangerous Form Of Cancel Culture”",
-      "quote": "Jimmy Kimmel is interviewing James Talarico today but his interview will only stream on YouTube after the late-night host said pressure from the FCC has prevented Disney from airing it on ABC. The Texas Democrat, who is…",
-      "publisher": "Deadline",
-      "author": "Peterdeadline",
-      "date": "2026-09-10T20:40:38+00:00",
-      "link": "https://deadline.com/2026/09/james-talarico-kimmel-interview-cancel-culture-youtube-1237074026/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2292926859.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "723e3d0f971890ed",
-      "title": "Janelle Rodriguez To Depart As NBC News Exec VP Of Programming; Catherine Kim Expands Role To Oversee Streaming Channel And Specials",
-      "quote": "Janelle Rodriguez, who has been a key figure in building streaming platform NBC News Now and also has overseen NBC Nightly News and breaking news and specials, is departing the network. Rodriguez, who has served as…",
+      "id": "a97f2378babf5438",
+      "title": "Jimmy Kimmel’s James Talarico Interview Posted To YouTube As Host Calls Out Trump And FCC: “They Want To Make Our Editorial Decisions For Us”",
+      "quote": "Jimmy Kimmel’s interview with James Talarico was posted to YouTube on Thursday evening rather than the late-night host’s ABC broadcast amid concerns over an FCC enforcement action. “Why are they so scared of you?”…",
       "publisher": "Deadline",
       "author": "Ted Johnson",
-      "date": "2026-09-10T20:20:46+00:00",
-      "link": "https://deadline.com/2026/09/janelle-rodriguez-departs-nbc-news-1237074018/",
-      "image": "https://deadline.com/wp-content/uploads/2025/02/NBC-News-Logo.jpg",
+      "date": "2026-09-11T04:09:59+00:00",
+      "link": "https://deadline.com/2026/09/jimmy-kimmel-james-talarico-trump-fcc-1237098522/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Screenshot-2026-09-10-at-11.18.02-PM.jpeg",
       "category": "World Cinema"
     },
     {
-      "id": "8d3662628c478ad4",
-      "title": "Noah Schnapp, David Mazouz & Seu Jorge Leading Thriller ‘Stealing From Pablo’; Myriad Launching For TIFF Market",
-      "quote": "EXCLUSIVE: Myriad Pictures will launch world pre-sales at TIFF on Stealing From Pablo, a thriller inspired by true events and directed by Carlos V. Gutierrez (Stay Safe) and produced by FJ Productions. The film is due…",
+      "id": "03965ec1f225a78d",
+      "title": "Stephen King Calls Mike Flanagan’s ‘Carrie’ Miniseries “Brilliant”",
+      "quote": "Stephen King has weighed in on Mike Flanagan’s adaptation of Carrie, and he has a positive review. The supernatural horror miniseries premieres on October 7 on Prime Video with Summer H. Howell in the title role. Ahead…",
       "publisher": "Deadline",
-      "author": "Andreas Wiseman",
-      "date": "2026-09-10T20:17:31+00:00",
-      "link": "https://deadline.com/2026/09/noah-schnapp-david-mazouz-seu-jorge-stealing-from-pablo-1237073966/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Noah-Schnapp-David-Mazouz-and-Seu-Jorge.jpg",
+      "author": "Armando Tinoco",
+      "date": "2026-09-11T03:45:09+00:00",
+      "link": "https://deadline.com/2026/09/stephen-king-reaction-mike-flanagan-carrie-1237098524/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/carrie-stephen-king.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "db14363308a0d505",
+      "title": "‘Rapinoe’ Review: Doc Portrait of American Soccer Icon Is Engaging and Inspiring, if Necessarily Incomplete",
+      "quote": "Debuting at TIFF, the feature from Rebeca Huntt ('Beba') sees the two-time World Cup champion reflecting on her life and career in the wake of her retirement as a player in 2023.",
+      "publisher": "The Hollywood Reporter",
+      "author": "Angie Han",
+      "date": "2026-09-11T03:45:02+00:00",
+      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/rapinoe-review-megan-rapinoe-documentary-1236696927/",
+      "image": null,
       "category": "Festival Winners"
     },
     {
-      "id": "d4f04fee7c6409d5",
-      "title": "Leslie Bibb Stars In ‘The Rush Whisperer’ Sorority Recruitment Dark Comedy In Works At HBO",
-      "quote": "Leslie Bibb is going for a three-peat at HBO following her starring role in Season 3 of The White Lotus, for which she shared an Actor nomination, and her recent guest stint on Hacks, which earned her a 2026 Emmy…",
+      "id": "7e77df89471eb753",
+      "title": "‘The Housewife’ Review: Naomi Watts Is Chilling In Disturbing Post-Holocaust Drama With A Surprising Twist – Toronto Film Festival",
+      "quote": "In 2015, Alyssa Hill’s startling Holocaust-themed script made the Black List of best unproduced screenplays. Now, a decade later, it has finally been made, and somehow the timing is just right for this challenging and…",
+      "publisher": "Deadline",
+      "author": "Pete Hammond",
+      "date": "2026-09-11T03:15:00+00:00",
+      "link": "https://deadline.com/2026/09/the-housewife-review-naomi-watts-holocaust-drama-1237073808/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/The-Housewife-01.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "22b2adb82ea7c7f5",
+      "title": "Donald Trump’s GOP Midterm Convention Fails To Get A Bounce In Cable News Viewership",
+      "quote": "The first night of Donald Trump’s midterm convention failed to generate a ratings bounce for Fox News, with the audiences comparable or even slightly below regular primetime programming. Fox News’s coverage of the…",
+      "publisher": "Deadline",
+      "author": "Ted Johnson",
+      "date": "2026-09-11T02:42:27+00:00",
+      "link": "https://deadline.com/2026/09/trump-gop-convention-ratings-fox-news-1237096205/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2294604716-1.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "ef18ccdeb5ee14a6",
+      "title": "‘Big Brother’ Season 28, Week 9 Eviction: A Reality TV Competition Icon Becomes 2nd Jury Member",
+      "quote": "SPOILER ALERT: This post contains details on Big Brother Season 28, Episode 32, which aired on Thursday, September 10. As Big Brother Season 28 winds down, the game intensifies, and big moves have to be made to make it…",
+      "publisher": "Deadline",
+      "author": "Armando Tinoco",
+      "date": "2026-09-11T00:49:19+00:00",
+      "link": "https://deadline.com/2026/09/big-brother-season-28-week-9-eviction-cbs-1237084415/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/big-brother-cbs-week-9-eviction.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "d7e7bef8cf3ae47d",
+      "title": "‘Ransom Canyon’ Canceled By Netflix After 2 Seasons",
+      "quote": "EXCLUSIVE: Staten and Quinn will be staying together forever as Netflix has opted not to proceed with a third season of the Texas romantic drama Ransom Canyon starring Josh Duhamel and Minka Kelly. The decision comes a…",
       "publisher": "Deadline",
       "author": "Nellie Andreeva",
-      "date": "2026-09-10T20:00:21+00:00",
-      "link": "https://deadline.com/2026/09/leslie-bibb-star-the-rush-whisperer-dark-comedy-hbo-1237073965/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Leslie-Bibb.jpg",
+      "date": "2026-09-11T00:43:26+00:00",
+      "link": "https://deadline.com/2026/09/ransom-canyon-canceled-netflix-minka-kelly-josh-duhamel-1237081961/",
+      "image": "https://deadline.com/wp-content/uploads/2026/04/RC_203_251013_JN_00106r.jpg",
       "category": "World Cinema"
     },
     {
-      "id": "80fdbcdbd0ef42d3",
-      "title": "‘Crew Girl’ Creator Vivian Lin Unpacks Season 1 Ending, Love Triangle Status & Season 2 Hopes",
-      "quote": "SPOILER ALERT: This post spoils the entire first season of Crew Girl now out on Netflix. Just as Teagan Tao (Miku Martineau) has adjusted to her new life as coxswain of Easton Prep’s all-boys rowing team, while…",
+      "id": "8952c1625524b0c0",
+      "title": "‘Stuffed’ Review: Jodie Comer Rises Above a Limp, Gross-Out Corpse-Themed Musical",
+      "quote": "Harry Melling joins the 'Killing Eve' star in a TIFF-bowing body-horror romance about lonely hearts making a strange connection.",
+      "publisher": "The Hollywood Reporter",
+      "author": "Richard Lawson",
+      "date": "2026-09-11T00:30:00+00:00",
+      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/stuffed-review-jodie-comer-harry-melling-musical-1236696924/",
+      "image": null,
+      "category": "Festival Winners"
+    },
+    {
+      "id": "33d7b363e52646c6",
+      "title": "Dan Schneider’s ‘Quiet On Set’ Defamation Suit Shut Down By Appeal Judges In Big Win For WBD",
+      "quote": "Just less than two years after Dan Schneider was given a green light on his Quiet on Set defamation lawsuit against Warner Bros Discovery and others, a trio of appeal judges has handed the former Nickelodeon producer a…",
+      "publisher": "Deadline",
+      "author": "Dominic Patten",
+      "date": "2026-09-11T00:17:22+00:00",
+      "link": "https://deadline.com/2026/09/dan-schneider-quiet-on-set-defamtaion-suit-dismissed-1237078586/",
+      "image": "https://deadline.com/wp-content/uploads/2024/05/Quiet-on-Set.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "fa399602543df22e",
+      "title": "TV Show Book Adaptations Arriving In 2026 So Far",
+      "quote": "Several best-selling books will make way for returning TV shows and new ones in 2026. Summer has seen several adaptations like Every Year After, Netflix’s Little House on the Prairie, Peacock’s The Five-Star Weekend…",
       "publisher": "Deadline",
       "author": "Dessi Gomez",
-      "date": "2026-09-10T20:00:00+00:00",
-      "link": "https://deadline.com/2026/09/crew-girl-creator-season-1-ending-explained-love-triangle-1237073826/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/CREWGIRL_108_250924_CM_00039_f.jpg",
+      "date": "2026-09-11T00:01:19+00:00",
+      "link": "https://deadline.com/feature/tv-show-based-on-books-this-year-1236035246/",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Book-to-TV-Adaptations-Yeehaw.jpg",
       "category": "World Cinema"
     },
     {
-      "id": "190042964c6f59ae",
-      "title": "Kennedy Ryan’s ‘Before I Let Go’ Adaptation Lands Series Order At Peacock",
-      "quote": "A series adaptation of romance author Kennedy Ryan’s Before I Let Go has been in the works at Peacock for over three years. Today, the project received a series order from the NBCUniversal streamer. Deadline broke the…",
-      "publisher": "Deadline",
-      "author": "Peterdeadline",
-      "date": "2026-09-10T20:00:00+00:00",
-      "link": "https://deadline.com/2026/09/kennedy-ryan-before-i-let-go-series-order-peacock-1237073973/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Attica-Locke-Tembi-Locke-Kennedy-Ryan-and-Malcolm-D.-Lee-.jpg",
+      "id": "cca6fbf77c9a393c",
+      "title": "Four-day Kashmir film festival sharpens spotlight on filmmakers’ destination, local storytellers",
+      "quote": "Besides the screening of 120 movies from around 30 countries, scores of locals, including students, film enthusiasts, artists and filmmakers, were provided a platform to meet and learn from the big names of Bollywood…",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-10T21:49:34+00:00",
+      "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/four-day-kashmir-film-festival-sharpens-spotlight-on-filmmakers-destination-local-storytellers/article71453064.ece",
+      "image": "https://th-i.thgim.com/public/incoming/7k2g7/article71453596.ece/alternates/LANDSCAPE_1200/28-INTERNATIONAL-FILM-FESTIVAL-SGR-10-09-2026.JPG",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "f36c16d91580e09f",
+      "title": "‘Zero Intention of Living Quietly’ Review: Doc About ‘A Different Man’ Star Adam Pearson Is Moving, When It’s Not Getting in Its Own Way",
+      "quote": "The Telluride debut centers on the friendship between the actor, who has facial disfigurement from neurofibromatosis, and a teenage girl with the same genetic condition.",
+      "publisher": "The Hollywood Reporter",
+      "author": "Angie Han",
+      "date": "2026-09-10T21:34:44+00:00",
+      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/zero-intention-of-living-quietly-review-adam-pearson-1236690979/",
+      "image": null,
       "category": "World Cinema"
     },
     {
-      "id": "6f3a63aef2528ca0",
-      "title": "Mariska Hargitay Gets Emmy-Hosting Advice From Jimmy Kimmel",
-      "quote": "Mariska Hargitay, coming off her own double Emmy win last weekend, is gearing up to host the Primetime Emmys on Monday, and there’s none better than Jimmy Kimmel, a three-time host himself, for some advice. Hargitay sat…",
-      "publisher": "Deadline",
-      "author": "Denise Petski",
-      "date": "2026-09-10T19:50:40+00:00",
-      "link": "https://deadline.com/2026/09/mariska-hargitay-jimmy-kimmel-emmy-advice-1237073877/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/mariska-jimmy-kimmel.jpg",
+      "id": "90b1c1255e9cbbf5",
+      "title": "The X-Men have found their Germann Angel",
+      "quote": "Asa Germann will join the graduates of Charles Xavier’s School for Gifted Youngsters as Angel in the MCU in 2028.",
+      "publisher": "The A.V. Club",
+      "author": "Matt Schimkowitz",
+      "date": "2026-09-10T21:00:35+00:00",
+      "link": "https://www.avclub.com/marvel-x-men-casting-news-asa-germann-angel",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/10165749/angel-feature.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "3e89eecc23a62e17",
+      "title": "‘The Fix’ Film Review: Ex-CIA Operatives Try To Rescue an Iranian Dissident in a Polished but Uneven Action Thriller",
+      "quote": "Having been shot well before the current U.S.-Iran conflict commenced lends “The Fix” a somewhat anachronistic air, albeit one that sits comfortably enough between its other fuzzy points of political messaging. This…",
+      "publisher": "Variety",
+      "author": "Dharv2014",
+      "date": "2026-09-10T20:50:03+00:00",
+      "link": "https://variety.com/2026/film/reviews/the-fix-film-review-liam-neeson-1236857684/",
+      "image": "https://variety.com/wp-content/uploads/2026/09/THE-FIX-Still-3.webp",
       "category": "World Cinema"
+    },
+    {
+      "id": "42a7fa03d1608beb",
+      "title": "Latest from No Other Land filmmakers, NAZA, breaks Venice applause meter",
+      "quote": "NAZA, the new documentary from Yuval Abraham and Rachel Szor, exposes Israel’s targeted missile strikes on civilians.",
+      "publisher": "The A.V. Club",
+      "author": "Matt Schimkowitz",
+      "date": "2026-09-10T20:14:43+00:00",
+      "link": "https://www.avclub.com/naza-breaks-venice-applause-record",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/10161021/Rachel_Szor_Yuval_Abraham_at_the_83rd_Venice_International_Film_Festival-feature.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "2a47b744e98815b7",
+      "title": "The best TV shows to watch on BritBox",
+      "quote": "From The Other Bennet Sister to Riot Women, BritBox's original programming has never been stronger.",
+      "publisher": "The A.V. Club",
+      "author": "A.V. Club Staff",
+      "date": "2026-09-10T20:00:00+00:00",
+      "link": "https://www.avclub.com/the-best-tv-shows-to-watch-on-britbox",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2025/07/10112321/MixCollage-09-Sep-2026-01-00-PM-8234.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "e56373ecf25fe4e8",
@@ -108,17 +207,6 @@
       "category": "Festival Winners"
     },
     {
-      "id": "27b3c941fdb6c511",
-      "title": "The Obsession For The Next ‘Obsession’ At TIFF: Festival Hot List Includes Pics For Sale With Cynthia Erivo, Chase Infiniti, The Maras, Dave Bautista & More",
-      "quote": "After the Toronto Film Festival last year yielded the highest-grossing fest acquisition ever at the box office with Obsession ($512 million worldwide), and with the arrival of a new market, the million-dollar question…",
-      "publisher": "Deadline",
-      "author": "Anthonypauldalessandro",
-      "date": "2026-09-10T19:30:35+00:00",
-      "link": "https://deadline.com/2026/09/tiff-2026-hot-list-movies-for-sale-1237073074/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Life-Death-of-Wilson-Shedd-Prima-Facie-The-Julia-Set-Alpha-Gang-and-Bucking-Fastard.jpg",
-      "category": "Festival Winners"
-    },
-    {
       "id": "ded62150eefd7d99",
       "title": "‘One Minute to Midnight’ Review: A French Intellectual Takes Stock of His Love Life in a Film That’s Charming, Melancholic and Parisian to a Fault",
       "quote": "Melvil Poupaud stars in the fourth feature by critic turned director Nicolas Pariser, who based some of the movie on his own past as a journalist.",
@@ -130,6 +218,17 @@
       "category": "World Cinema"
     },
     {
+      "id": "bd90bb24cf460f39",
+      "title": "Poisonings and persecution can't stop the journalists of My Undesirable Friends",
+      "quote": "My Undesirable Friends: Part II—Exile, the six-hour finale to Julia Loktev's staggering documentary project, is a celebration of truth.",
+      "publisher": "The A.V. Club",
+      "author": "Jacob Oller",
+      "date": "2026-09-10T19:00:26+00:00",
+      "link": "https://www.avclub.com/my-undesirable-friends-part-ii-exile-poisonings-persecution-longest-documentary-fighting-fascism",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/09133500/exile-header.jpg",
+      "category": "Indie Gems"
+    },
+    {
       "id": "cb4b142f6f1399b8",
       "title": "Paul Wesley's Best Star Trek: Strange New Worlds Episode Makes A Bold Choice For Kirk [Exclusive]",
       "quote": "Star Trek: Strange New Worlds Season 4, Episode 8 is a showcase for Paul Wesley as James T. Kirk, and the episode puts him in a fascinating situation.",
@@ -138,6 +237,28 @@
       "date": "2026-09-10T19:00:00+00:00",
       "link": "https://www.slashfilm.com/2254731/paul-wesley-best-star-trek-strange-new-worlds-episode-bold-kirk-choice/",
       "image": "https://www.slashfilm.com/img/gallery/paul-wesley-best-star-trek-strange-new-worlds-episode-bold-kirk-choice/l-intro-1789066698.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "0dc0a83e25a7d237",
+      "title": "Warrior Nun may get back in the habit",
+      "quote": "After years of attempts, Netflix’s cancelled action series about a demon-slaying woman of God, Warrior Nun, may find itself a new convent.",
+      "publisher": "The A.V. Club",
+      "author": "Matt Schimkowitz",
+      "date": "2026-09-10T18:32:10+00:00",
+      "link": "https://www.avclub.com/warrior-nun-revival-news-simon-barry",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/10142314/warrior-nun-feature.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "2b93f0f8672cf213",
+      "title": "Destin Daniel Cretton to catch gnarly wave with new Hawaii Five-O movie",
+      "quote": "The director is coming off the juggernaut success of <i>Spider-Man: Brand New Day</i>.",
+      "publisher": "The A.V. Club",
+      "author": "Jarrod Jones",
+      "date": "2026-09-10T18:22:03+00:00",
+      "link": "https://www.avclub.com/hawaii-five-o-movie-destin-daniel-cretton",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/10141105/hawaii-five-o-header.jpg",
       "category": "Indie Gems"
     },
     {
@@ -185,6 +306,17 @@
       "category": "Indian Cinema"
     },
     {
+      "id": "d5b338f7d8123f17",
+      "title": "Sarah Jessica Parker welcomes Oh, Mary! to HBO in new teaser",
+      "quote": "Cole Escola's acclaimed play makes the jump to the screen next year.",
+      "publisher": "The A.V. Club",
+      "author": "Drew Gillis",
+      "date": "2026-09-10T18:00:34+00:00",
+      "link": "https://www.avclub.com/oh-mary-hbo-2027",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/07/15140159/MixCollage-15-Jul-2026-02-01-PM-638.jpg",
+      "category": "Indie Gems"
+    },
+    {
       "id": "04ab64fe6442147f",
       "title": "Resident Evil Director Zach Cregger Reveals What His Movie Had To Include From The Games [Exclusive]",
       "quote": "When it came to his Resident Evil movie, director Zach Cregger had specific elements he wanted to carry over from the original video games.",
@@ -216,6 +348,17 @@
       "link": "https://www.hollywoodreporter.com/movies/movie-reviews/union-town-review-barbara-kopple-1236695815/",
       "image": null,
       "category": "World Cinema"
+    },
+    {
+      "id": "528c0f1421d1ecc6",
+      "title": "All Of A Sudden, Ryūsuke Hamaguchi returns with a new film",
+      "quote": "The latest from Ryusuke Hamaguchi, All Of A Sudden, a nursing home drama about two unlikely friends, opens this November.",
+      "publisher": "The A.V. Club",
+      "author": "Matt Schimkowitz",
+      "date": "2026-09-10T17:00:36+00:00",
+      "link": "https://www.avclub.com/all-of-a-sudden-ryusuke-hamaguchi-new-film",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/10124513/all-of-a-sudden-feature.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "01e338cc906af85d",
@@ -438,50 +581,6 @@
       "category": "Indian Cinema"
     },
     {
-      "id": "94b04924038de783",
-      "title": "Remove ‘Shoorveer’ song from ‘Mirzapur The Movie’: Rajasthan BJP leader writes to censor board",
-      "quote": "He also urged the board to ensure that songs, symbols and references associated with historical personalities are not used in a manner that could hurt public sentiments.",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-10T07:04:03+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/remove-shoorveer-song-from-mirzapur-the-movie-rajasthan-bjp-leader-writes-to-censor-board/article71450580.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/ljhssa/article71450595.ece/alternates/LANDSCAPE_1200/Ali%20Fazal%20in%20%E2%80%98Mirzapur%20The%20Movie%E2%80%99",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "22aaf1accea527a9",
-      "title": "The Shards sputters to an insulting close",
-      "quote": "A befuddling non-ending piles on the ambiguity… and not in an interesting way.",
-      "publisher": "The A.V. Club",
-      "author": "Ben Rosenstock",
-      "date": "2026-09-10T02:00:20+00:00",
-      "link": "https://www.avclub.com/the-shards-recap-season-1-episode-9-stairway-to-heaven",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/09214442/MixCollage-09-Sep-2026-08-38-PM-7939.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "543afe70261179c5",
-      "title": "Trump administration chickens out in face of the raw might and fury of Tetris",
-      "quote": "Visitors to the White House's blatantly xenophobic Arcade page will no longer be able to \"Build The Wall.\"",
-      "publisher": "The A.V. Club",
-      "author": "William Hughes",
-      "date": "2026-09-10T01:23:31+00:00",
-      "link": "https://www.avclub.com/trump-chickens-out-tetris-arcade-games-build-the-wall",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/09211746/tetris-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "b459c856960e098f",
-      "title": "South Park guys issue rare, apparently genuine apology for not getting their Kendrick Lamar movie done yet",
-      "quote": "Matt Stone and Trey Parker issued a statement on Wednesday taking \"full responsibility\" for not finishing their Kendrick Lamar collaboration <i>Whitney Springs</i>.",
-      "publisher": "The A.V. Club",
-      "author": "William Hughes",
-      "date": "2026-09-10T00:40:49+00:00",
-      "link": "https://www.avclub.com/south-park-guys-apologize-for-kendrick-lamar-movie-not-being-done",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2025/07/24094136/videoframe_25173.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "1f2d89aa00d515b6",
       "title": "‘The Fire Within You’ Review: An Insufferable Christmas Eve Family Drama in Which the Corrosive Rants Are as Noxious as the Dyspeptic Images",
       "quote": "Let’s hope there was a giant extractor fan on the set of “The Fire Within You,” because the stench of burnt oil must have been overwhelming. It’s not only food that gets blistered in Edoardo De Angelis’ overwrought…",
@@ -491,17 +590,6 @@
       "link": "https://variety.com/2026/film/reviews/the-fire-within-you-review-1236856736/",
       "image": "https://variety.com/wp-content/uploads/2026/09/113575-IL_FUOCO_CHE_TI_PORTI_DENTRO__THE_FIRE_WITHIN_YOU__-_Vanessa_Scalera_and_Lino_Musella__Credits_Anna_Camerlingo_.jpg",
       "category": "World Cinema"
-    },
-    {
-      "id": "c718ae9b5da1d0e8",
-      "title": "Entourage creator sounds pretty pissed at Jeremy Piven for that Entourage sports betting ad",
-      "quote": "\"It makes me puke,\" Doug Ellin said of the sports betting ad, which sees Piven and Grenier acting in very <i>Entourage</i>-ish ways.",
-      "publisher": "The A.V. Club",
-      "author": "William Hughes",
-      "date": "2026-09-09T23:54:33+00:00",
-      "link": "https://www.avclub.com/doug-ellin-entourage-jeremy-piven-adrien-grenier-sports-betting-ad",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/09194850/piven-ad-feature.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "c64feca1cf2f3109",
@@ -526,28 +614,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "1dcc7ff9121fa513",
-      "title": "No one put in the newspaper that Elon is mad about Alex Gibney's Musk",
-      "quote": "Writing that \"dogshit deserves more respect\" and circulating pictures of Gibney with feces on his head, Musk adopted his usual statesmanlike response to the film.",
-      "publisher": "The A.V. Club",
-      "author": "William Hughes",
-      "date": "2026-09-09T22:33:08+00:00",
-      "link": "https://www.avclub.com/elon-musk-responds-to-alex-gibney-documentary",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2024/09/25163618/GettyImages-2158237938.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "69f5b6f6c2726427",
-      "title": "The Supreme Court slowly waddles into the Paramount/Warner Bros. merger",
-      "quote": "The Court has now set a deadline for several state attorneys general from blue states to respond to a challenge from their Iowa and Montana counterparts.",
-      "publisher": "The A.V. Club",
-      "author": "William Hughes",
-      "date": "2026-09-09T21:39:06+00:00",
-      "link": "https://www.avclub.com/supreme-court-waddles-paramount-warner-bros-merger",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/03/25115859/MixCollage-25-Mar-2026-11-56-AM-7642.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "7cf88566905b0401",
       "title": "Why Did I Get Married Again?",
       "quote": "It looks like Perry is officially at the point in his career where he can convince studios to foot the bill on films that are basically expensive getaway trips.",
@@ -557,17 +623,6 @@
       "link": "https://www.rogerebert.com/reviews/why-did-i-get-married-again-tyler-perry-netflix-movie-review-2026",
       "image": null,
       "category": "World Cinema"
-    },
-    {
-      "id": "6484374065843146",
-      "title": "Apple unveils iPhone that folds in half, if that's what you want",
-      "quote": "The iPhone Duo was the star of the a company's \"Sunrise And Shine\" event on Wednesday.",
-      "publisher": "The A.V. Club",
-      "author": "Jarrod Jones",
-      "date": "2026-09-09T20:55:58+00:00",
-      "link": "https://www.avclub.com/iphone-duo-announced",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/09162344/apple-iphone-duo-header.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "620546be002e662f",
@@ -581,39 +636,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "17f754b0c562b0d3",
-      "title": "10 films to watch at the 2026 Toronto International Film Festival",
-      "quote": "From melodramas to a horror-filled technothriller, here are the movies to watch out for at the 2026 Toronto International Film Festival.",
-      "publisher": "The A.V. Club",
-      "author": "Monica Castillo",
-      "date": "2026-09-09T20:00:26+00:00",
-      "link": "https://www.avclub.com/toronto-international-film-festival-2026-most-anticipated",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/08104337/MixCollage-08-Sep-2026-09-43-AM-8744.jpg",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "418e705e4a550ff8",
-      "title": "‘A Good Little Soldier’ Review: A Tense French Workplace Drama About a Woman Caught Between Motherhood and Corporate Hell",
-      "quote": "Alba Rohrwacher ('Hungry Hearts') stars alongside Vincent Lindon ('Titane') in writer-director Stéphane Brizé’s latest story of late-stage capitalism gone awry.",
-      "publisher": "The Hollywood Reporter",
-      "author": "Jordan Mintzer",
-      "date": "2026-09-09T19:16:16+00:00",
-      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/a-good-little-soldier-review-alba-rohrwacher-stephane-brize-1236685106/",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "686531b3636a942d",
-      "title": "‘Holy Wood Dust’ Review: Victor Kossakovsky’s Soothing, if Slightly Dull, Documentary Will Make You Want to Hug a Tree",
-      "quote": "Playing out of competition in Venice, the latest from the 'Gunda' and 'Architecton' helmer is a meditation on the precious beauty and importance of trees.",
-      "publisher": "The Hollywood Reporter",
-      "author": "Leslie Felperin",
-      "date": "2026-09-09T18:33:15+00:00",
-      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/holy-wood-dust-victor-kossakovsky-trees-1236693408/",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
       "id": "3ac9e27e5ead2ba6",
       "title": "‘A Good Little Soldier’ Review: Alba Rohrwacher Goes Corporate Drone in Stéphane Brizé’s Lukewarm Workplace Drama",
       "quote": "There’s not a single moment in Stéphane Brizé’s lukewarm workplace drama “A Good Little Soldier” where Alba Rohrwacher’s Carla Moretti isn’t at work — or on her way to the office, or at a coffee shop around the corner…",
@@ -623,17 +645,6 @@
       "link": "https://variety.com/2026/film/reviews/a-good-little-soldier-review-1236855461/",
       "image": "https://variety.com/wp-content/uploads/2026/09/113569-UN_BON_PETIT_SOLDAT__A_GOOD_LITLLE_SOLDIER__-_Actress_Alba_Rohrwacher.jpg",
       "category": "World Cinema"
-    },
-    {
-      "id": "d60c98f35bbf8072",
-      "title": "‘The Color of the Sun’ Review: A Teenager in Okinawa Navigates Grief and Longing in an Attractive but Undercooked Coming-of-Age Drama",
-      "quote": "First-time feature filmmaker Xavier Tera's tale of adolescent exploration premiered in the Horizons sidebar of the Venice Film Festival.",
-      "publisher": "The Hollywood Reporter",
-      "author": "Richard Lawson",
-      "date": "2026-09-09T17:27:36+00:00",
-      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/the-color-of-the-sun-review-1236692387/",
-      "image": null,
-      "category": "Festival Winners"
     },
     {
       "id": "3fe57567a0379c92",
@@ -666,17 +677,6 @@
       "date": "2026-09-09T11:00:00+00:00",
       "link": "https://www.bbc.com/culture/article/20260909-how-the-obscenity-trial-against-1950s-poem-howl-reshaped-us-free-speech?ocid=global_culture_rss",
       "image": "https://ychef.files.bbci.co.uk/144x81/p0p8p7lm.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "3406221bf0491039",
-      "title": "‘The Burning Giants’ Review: An Arcane, Multi-Pronged Mystery About Ethnic Cleansing in Thailand",
-      "quote": "If it’s a bit too easy to group Thai director Phuttiphong Aroonpheng into a post-Apichatpong Weerasethakul wave of cryptic fablemakers, his latest only strengthens this association. His third feature “The Burning…",
-      "publisher": "Variety",
-      "author": "Guy Lodge",
-      "date": "2026-09-09T07:09:26+00:00",
-      "link": "https://variety.com/2026/film/reviews/the-burning-giants-review-1236855475/",
-      "image": "https://variety.com/wp-content/uploads/2026/09/113697-YAK_MAI__THE_BURNING_GIANTS__-_Official_still.png",
       "category": "World Cinema"
     },
     {
