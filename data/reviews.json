@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T04:12:36.566693+00:00",
+  "generated_at": "2026-09-12T10:30:16.428287+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -8,6 +8,83 @@
     "Indie Gems"
   ],
   "reviews": [
+    {
+      "id": "6c3c7f1ed03e83d0",
+      "title": "Six Oscar contenders from the Venice Film Festival",
+      "quote": "From a wild-eyed performance by R-Patz to a short film about Marilyn at 100",
+      "publisher": "BBC Culture",
+      "author": null,
+      "date": "2026-09-12T11:00:00+00:00",
+      "link": "https://www.bbc.com/culture/article/20260911-six-of-the-best-oscar-contenders-from-the-2026-venice-film-festival?ocid=global_culture_rss",
+      "image": "https://ychef.files.bbci.co.uk/144x81/p0p95nmz.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "1a1d249cdd97d4dd",
+      "title": "'Hanuman Ansh' earns Rs 205.73 crore at box office",
+      "quote": "The film is directed by Vishal Chaturvedi and follows a grieving young Lakshminarayan, who embarks on a spiritual journey in search of God after the death of his mother.",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-12T07:15:12+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/hanuman-ansh-earns-rs-20573-crore-at-box-office/article71459387.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/fypo85/article71459402.ece/alternates/LANDSCAPE_1200/The%20poster%20of%20%E2%80%98Hanuman%20Ansh%E2%80%99",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "de775aaf675a7662",
+      "title": "Venice Film Festival 2026 | How Anuparna Roy and ‘Lovers in the Blue Night’ turn escape into art",
+      "quote": "Songs of Forgotten Trees director, who’s back in Venice after last year’s Orizzonti Best Director win, is rewriting who gets to be seen, and how, in Indian cinema",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-12T07:03:04+00:00",
+      "link": "https://www.thehindu.com/entertainment/venice-film-festival-anuparna-roy-lovers-in-the-blue-night/article71442692.ece",
+      "image": "https://th-i.thgim.com/public/society/wnvr21/article71442618.ece/alternates/LANDSCAPE_1200/Anuparna%20Roy%20in%20Venice.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "3ff602b81160fa90",
+      "title": "Extended reality takes visitors from the ruins of West Bank to 17th-century Amsterdam at Venice Immersive",
+      "quote": "From frivolous to serious, virtual nosy passersby to the impact of climate change, the groundbreaking festival draws to a close – but this year the exhibits live on The first installation one encounters on visiting…",
+      "publisher": "The Guardian",
+      "author": "Xan Brooks in Venice",
+      "date": "2026-09-12T07:00:29+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/12/extended-reality-takes-visitors-from-the-ruins-of-west-bank-to-17th-century-amsterdam-at-venice-immersive",
+      "image": "https://i.guim.co.uk/img/media/af980df5ff44d6b942f74ea758b190b8c5f8bdc4/242_0_1349_1080/master/1349.jpg?width=140&quality=85&auto=format&fit=max&s=c8d6718403598d693d4ed5f24e9a492a",
+      "category": "World Cinema"
+    },
+    {
+      "id": "1848654dd853b1f1",
+      "title": "‘Little Thomas’: Anurag Kashyap-backed children’s film locks release date",
+      "quote": "Directed by Kaushal Oza, the film stars Gulshan Devaiah and Rasika Dugal in pivotal roles",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-12T06:43:10+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/little-thomas-anurag-kashyap-backed-childrens-film-locks-release-date/article71459208.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/1ro4ci/article71459273.ece/alternates/LANDSCAPE_1200/The%20poster%20of%20%E2%80%98Little%20Thomas%E2%80%99%20featuring%20Gulshan%20Devaiah%20Rasika%20Dugal%20and%20Hridansh%20Parekh.",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "a3be11d9069bca0d",
+      "title": "‘Dorothy’: Karthik Subbaraj’s film gets standing ovation during world premiere at TIFF",
+      "quote": "The film features a soundtrack composed by Ilaiyaraaja and stars Keerthy Suresh, Sananth and Rishikanth in pivotal roles",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-12T06:34:34+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/dorothy-karthik-subbarajs-film-gets-standing-ovation-during-world-premiere-at-tiff/article71459235.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/gmx01d/article71459255.ece/alternates/LANDSCAPE_1200/Achin%20Jain%20Rishikanth%20Sananth%20Karthik%20Subbaraj%20Keerthy%20Suresh%20and%20Guneet%20Monga%20Kapoor%20at%20the%20world%20premiere%20of%20%E2%80%98Dorothy%E2%80%99%20at%20the%20Toronto%20International%20Film%20Festival%202026",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "e7e762b71ba80aa8",
+      "title": "‘Chak De! India’ writer Jaideep Sahni: A producer should be a writer’s best friend",
+      "quote": "During a conversation facilitated by The Screenwriters Association’s (SWA), Jaideep spoke about the threat of Artificial Intelligence and the ongoing fight for screenwriting royalties through SRAI",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-12T05:16:02+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/chak-de-india-writer-jaideep-sahni-a-producer-should-be-a-writers-best-friend/article71459185.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/hyxuyo/article71459191.ece/alternates/LANDSCAPE_1200/Jaideep%20Sahni%20during%20a%20conversation%20facilitated%20by%20SWA",
+      "category": "Indian Cinema"
+    },
     {
       "id": "82ba1a4ecd43af73",
       "title": "Ocean Way Festival Canceled In Santa Monica Due To Beach Erosion & “Can No Longer Be Safely Held As Planned”",
@@ -64,6 +141,17 @@
       "category": "World Cinema"
     },
     {
+      "id": "9b79e1b3eb882d06",
+      "title": "A24 somehow making an SCP movie without anybody from The SCP Foundation involved",
+      "quote": "\"The SCP Foundation Wiki is not involved with the film in any way,\" representatives for the online horror collective said of A24's <i>V/H/S/: SCP</i>.",
+      "publisher": "The A.V. Club",
+      "author": "William Hughes",
+      "date": "2026-09-12T00:43:41+00:00",
+      "link": "https://www.avclub.com/a24-scp-vhs-movie-without-scp-foundation",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/04/29113335/MixCollage-29-Apr-2026-11-33-AM-8516.jpg",
+      "category": "Indie Gems"
+    },
+    {
       "id": "0b72a1658ce1c5ba",
       "title": "Toronto Film Festival 2026: Read All Of Deadline’s Reviews",
       "quote": "The 2026 Toronto Film Festival kicked off Thursday, September 10, and features a slew of world premieres including the official opening-night film Being Heumann, Oscar winner Siân Heder‘s follow-up to her Best Picture…",
@@ -94,17 +182,6 @@
       "date": "2026-09-12T00:10:08+00:00",
       "link": "https://deadline.com/2026/09/russell-crowe-charms-1400-venice-audience-love-builds-1237099686/",
       "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2294759062.jpg",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "f5ca708b147ed4c8",
-      "title": "Venice Film Festival: How Anuparna Roy and Lovers in the Blue Night turn escape into art",
-      "quote": "Songs of Forgotten Trees director, who’s back in Venice after last year’s Orizzonti Best Director win, is rewriting who gets to be seen, and how, in Indian cinema",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-12T00:04:35+00:00",
-      "link": "https://www.thehindu.com/entertainment/venice-film-festival-anuparna-roy-lovers-in-the-blue-night/article71442692.ece",
-      "image": "https://th-i.thgim.com/public/society/wnvr21/article71442618.ece/alternates/LANDSCAPE_1200/Anuparna%20Roy%20in%20Venice.jpg",
       "category": "Festival Winners"
     },
     {
@@ -139,6 +216,39 @@
       "link": "https://deadline.com/2026/09/minka-kelly-reacts-ransom-canyon-cancellation-1237099675/",
       "image": "https://deadline.com/wp-content/uploads/2026/04/RCS2_Ep202_PublicityStill_Quinn_042326r.jpg",
       "category": "World Cinema"
+    },
+    {
+      "id": "9f789ec998af73ac",
+      "title": "Digger reportedly not a musical, just weirdly marketed",
+      "quote": "As conspiracy theories about the new Oscar play from Tom Cruise and Alejandro G. Iñárritu spread, insiders say there’s no song and dance at play here.",
+      "publisher": "The A.V. Club",
+      "author": "Matt Schimkowitz",
+      "date": "2026-09-11T23:23:27+00:00",
+      "link": "https://www.avclub.com/digger-not-a-musical-conspiracy-theory",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/11190655/digger-feature.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "009049d82dc63266",
+      "title": "Paramount and California to at least pretend to try to settle their Warner Bros. grudge match",
+      "quote": "Amid threats, ticking fees, and heels digging in on both sides, Paramount and California will at least explore the possibility of settling their grudge match.",
+      "publisher": "The A.V. Club",
+      "author": "William Hughes",
+      "date": "2026-09-11T22:55:28+00:00",
+      "link": "https://www.avclub.com/california-paramount-set-settlement-negotiation-dates",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2025/11/03125222/videoframe_13938.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "0478aa20737545ed",
+      "title": "More parents sue Meta over how it treats their children",
+      "quote": "Two parents and their children in Illinois and California have sued the social media giant over unreleased facial recognition software tied to Meta's smart glasses.",
+      "publisher": "The A.V. Club",
+      "author": "Matt Schimkowitz",
+      "date": "2026-09-11T21:50:39+00:00",
+      "link": "https://www.avclub.com/meta-faceprint-lawsuit-mark-zuckerberg",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2025/09/19100601/videoframe_74524.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "f9495d4b81632b93",
@@ -284,28 +394,6 @@
       "category": "Festival Winners"
     },
     {
-      "id": "b12d56abda55ae50",
-      "title": "Sony reportedly cut off Hideo Kojima's Physint for deadline and budget concerns",
-      "quote": "A new report offers anonymous insights into the split between the company and the developer.",
-      "publisher": "The A.V. Club",
-      "author": "Jarrod Jones",
-      "date": "2026-09-11T18:02:56+00:00",
-      "link": "https://www.avclub.com/sony-reportedly-halted-physint-financing-over-deadline-budget-concerns",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/11135337/physint-header.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "488a159b8200c019",
-      "title": "In Musk, Alex Gibney turns a wannabe Iron Man's own words against him",
-      "quote": "The Going Clear filmmaker lets self-proclaimed genius Elon Musk prove, through his own words, that he’s a con man.",
-      "publisher": "The A.V. Club",
-      "author": "Monica Castillo",
-      "date": "2026-09-11T18:00:41+00:00",
-      "link": "https://www.avclub.com/musk-review-alex-gibney-elon-documentary-corruption",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/11102244/musk-header.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "c33276694f18dfab",
       "title": "American Hostage",
       "quote": "Never as satisfying as it could or should have been, even if we didn’t see this story in film earlier this year.",
@@ -339,17 +427,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "4d4e55d1870e1dc7",
-      "title": "Gary Oldman doesn't know the new James Bond after all",
-      "quote": "The <i>Slow Horses</i> actor had hinted that he was privy to some inside casting news.",
-      "publisher": "The A.V. Club",
-      "author": "Dennis Perkins",
-      "date": "2026-09-11T17:34:00+00:00",
-      "link": "https://www.avclub.com/gary-oldman-james-bond-casting",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/11133233/Oldman-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "9af0ee4f87fce536",
       "title": "‘Hombre al Agua’ Review: Gael García Bernal Directs and Stars in a Sputtering, Screwball-y Dramedy About One Man’s Identity Crisis",
       "quote": "Sifting through Gael García Bernal’s recent roles — from the namesake conquistador of Lav Diaz’s “Magellan,” the grieving wife-guy in Piero Messina’s droopy sci-fi “Another End,” and the fast-aging family man of M…",
@@ -359,17 +436,6 @@
       "link": "https://variety.com/2026/film/reviews/hombre-al-agua-review-gael-garcia-bernal-1236858831/",
       "image": "https://variety.com/wp-content/uploads/2026/09/117052-HOMBRE_AL_AGUA_-_Esmeralda_Pimentel_and_Gael_Garc__a_Bernal_Credits_La_Corriente_del_Golfo_.jpg",
       "category": "World Cinema"
-    },
-    {
-      "id": "f5758132f03dc065",
-      "title": "P-Valley prepares its last dance with first-look photos and final season teaser",
-      "quote": "The acclaimed, award-winning Starz original about Mississippi's most notorious strip club returns one last time this December.",
-      "publisher": "The A.V. Club",
-      "author": "Matt Schimkowitz",
-      "date": "2026-09-11T17:06:22+00:00",
-      "link": "https://www.avclub.com/p-valley-final-season-first-look",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/11125853/p-valley-feaature.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "aa7b922de0e0d1e3",
@@ -548,50 +614,6 @@
       "category": "Indian Cinema"
     },
     {
-      "id": "8e0b6a322f69b674",
-      "title": "‘Aasha’ movie review: Urvashi’s intense act stands out in a mystery that fizzles out after initial promise",
-      "quote": "Urvashi is terrific as a mother battling her own anxieties in a mystery thriller that cannot quite translate its promising premise into a compelling whole",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-11T12:17:28+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/aasha-movie-review-urvashi-aishwarya-lekshmi-joju-george-safar-sanal-govind-vasantha/article71455929.ece",
-      "image": "https://th-i.thgim.com/public/news/national/kerala/wvgqbx/article71455911.ece/alternates/LANDSCAPE_1200/aasha.jpg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "d873c74a33a3c8c7",
-      "title": "Solomon Pappaiah, veteran Tamil scholar and orator, passes away",
-      "quote": "Prof. Pappaiah possessed a rare gift: the ability to explain complex literary, philosophical, and social ideas in simple, engaging language that ordinary people could easily understand and enjoy",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-11T12:12:51+00:00",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/solomon-pappaiah-veteran-tamil-scholar-and-orator-passes-away-at-90-in-madurai/article71455573.ece",
-      "image": "https://th-i.thgim.com/public/incoming/1wbcsh/article71456089.ece/alternates/LANDSCAPE_1200/Solomon_Pappiah_Padma_Shri_03.jpg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "fd1e152b0ed7d5ae",
-      "title": "‘America America 2’ movie review: A familiar story in search of its voice",
-      "quote": "Despite sincere performances from Shanvi Srivastava, Nirup Bhandari and Pruthvi Ambaar, and a decent premise, Nagathihalli Chandrashekhar’s film struggles to bring its many ideas together",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-11T11:45:09+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/america-america-2-movie-review-nagathihalli-chandrashekhar-nirup-bhandari-pruthvi-ambaar/article71453068.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/4fxpco/article71453093.ece/alternates/LANDSCAPE_1200/America%20America%202.jpeg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "e613ae350a95801b",
-      "title": "‘Video’ movie review: One for the attempt, despite the faltering frights",
-      "quote": "Srinidhi Bengaluru’s found-footage film ‘Video’ is a technically accomplished experiment that gets the YouTube world right but takes too long to find its horror",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-11T11:38:29+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/video-kannada-movie-review-video-the-film-found-footage-kannada-horror-srinidhi-bengaluru-dheekshith-shetty/article71455519.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/sy3t59/article71455598.ece/alternates/LANDSCAPE_1200/Video12.jpeg",
-      "category": "Indian Cinema"
-    },
-    {
       "id": "9ea938667298bcb7",
       "title": "The extraordinary story of author Barbara Cartland",
       "quote": "Why has the UK's master of romantic fiction disappeared from memory?",
@@ -622,17 +644,6 @@
       "date": "2026-09-11T06:09:59+00:00",
       "link": "https://www.hollywoodreporter.com/movies/movie-reviews/being-heumann-review-sian-heder-ruth-madeley-apple-tv-1236697415/",
       "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "c1d80eb4cbad122d",
-      "title": "‘People think fame is a magic wand’: Jarvis Cocker on old songs, young fans and his granny’s verdict on Pulp",
-      "quote": "Before the release of a joyful film on the history of the Sheffield band, frontman Cocker and director Garth Jennings talk dark times, taking inspiration from Abba – and why there could yet be another record When the…",
-      "publisher": "The Guardian",
-      "author": "Rebecca Nicholson",
-      "date": "2026-09-11T04:00:05+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/11/people-think-fame-is-a-magic-wand-jarvis-cocker-on-old-songs-young-fans-and-his-grannys-verdict-on-pulp",
-      "image": "https://i.guim.co.uk/img/media/0a9627b107d02453093f91a5ff9d02c2e9b43f82/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=68c7993a8b1a601c6d577de298ffdcd1",
       "category": "World Cinema"
     },
     {
@@ -777,17 +788,6 @@
       "link": "https://www.bbc.com/culture/article/20260903-the-hidden-history-of-the-controversial-six-million-dollar-banana?ocid=global_culture_rss",
       "image": "https://ychef.files.bbci.co.uk/144x81/p0p7vrpd.jpg",
       "category": "World Cinema"
-    },
-    {
-      "id": "04404d538bc6740f",
-      "title": "Oscar contender Wild Horse Nine attacks the CIA",
-      "quote": "The new film by Irish director Martin McDonagh is a 1970s spy yarn with bite",
-      "publisher": "BBC Culture",
-      "author": null,
-      "date": "2026-09-03T18:30:00+00:00",
-      "link": "https://www.bbc.com/culture/article/20260903-oscar-contender-wild-horse-nine-is-a-fierce-attack-on-the-cia-and-may-divide-us-viewers?ocid=global_culture_rss",
-      "image": "https://ychef.files.bbci.co.uk/144x81/p0p7skvf.jpg",
-      "category": "Festival Winners"
     },
     {
       "id": "2e1cabe8778227ad",
