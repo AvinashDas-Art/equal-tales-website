@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T16:01:55.218673+00:00",
+  "generated_at": "2026-09-13T20:37:25.496690+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -9,15 +9,213 @@
   ],
   "reviews": [
     {
-      "id": "a852d72ee083c1c6",
-      "title": "‘Practical Magic 2’ Brews Up $46M WW In Global Opening",
-      "quote": "Refresh for more…Warner Bros/Alcon’s Practical Magic 2 wound up flying to a $46M global debut, with $16M overseas and $30M domestic. Note the sequel to this Sandra Bullock and Nicole Kidman 1990s property is stateside…",
+      "id": "0b1128b79006d2b2",
+      "title": "‘Mr. Irrelevant’ Trailer: David Corenswet Plays NFL’s John Tuggle In Underdog Biopic About Late NY Giants Player",
+      "quote": "Although he’s used to playing a man of steel, David Corenswet’s latest role in Mr. Irrelevant is a classic underdog story. On Sunday, Paramount and Skydance Sports released the trailer for the Jonathan Levine-helmed…",
+      "publisher": "Deadline",
+      "author": "Glenn Garner",
+      "date": "2026-09-13T20:32:54+00:00",
+      "link": "https://deadline.com/2026/09/mr-irrelevant-trailer-david-corenswet-ny-giants-1237101028/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Mr.-Irrelevant.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "40a82c9e427998f1",
+      "title": "‘On Behalf of My Son’ Review: A Strained Brazilian Drama About a Mother’s Apology Tour",
+      "quote": "A Brazilian drama with a powerful premise but labored execution, Gabriel Martins’ “On Behalf of My Son” follows the ripple effects of a tragic bus accident through the eyes of the driver’s mother, Vicentina (Rejane…",
+      "publisher": "Variety",
+      "author": "Siddhant Adlakha",
+      "date": "2026-09-13T20:06:25+00:00",
+      "link": "https://variety.com/2026/film/reviews/on-behalf-of-my-son-review-1236860722/",
+      "image": "https://variety.com/wp-content/uploads/2026/09/VARIETY-SIZING-13.png",
+      "category": "World Cinema"
+    },
+    {
+      "id": "7f74a38639024bf8",
+      "title": "Project Hail Mary Star Sandra Hüller Was Surprised By One Thing During Production",
+      "quote": "Project Hail Mary was a big production, so co-star Sandra Hüller was surprised when it came to its directors' loose approach in one particular regard.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Ryan Scott)",
+      "date": "2026-09-13T19:45:00+00:00",
+      "link": "https://www.slashfilm.com/2254672/project-hail-mary-sandra-huller-surprised-production-freedom/",
+      "image": "https://www.slashfilm.com/img/gallery/project-hail-mary-star-sandra-hller-was-surprised-by-one-thing-during-production/l-intro-1789048405.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "43f7d257f2dad973",
+      "title": "Pierce Brosnan Says Next James Bond Could Be “Someone That None Of Us Know About”; Tom Ellis Reveals Brosnan Said He’d “Make A Good Bond”",
+      "quote": "Many suggestions have circulated about who could be the next 007 agent in the James Bond film franchise, and Pierce Brosnan has a new take on where the studio could go. Auditions for the role in the Denis Villeneuve…",
+      "publisher": "Deadline",
+      "author": "Armando Tinoco",
+      "date": "2026-09-13T19:38:16+00:00",
+      "link": "https://deadline.com/2026/09/pierce-brosnan-next-james-bond-unknown-tom-ellis-1237100945/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/pierce-brosnan-007-james-bond-die-another-day.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "92fc0990fdb62f6b",
+      "title": "Mattel Studios Boss Says “We All Want To See The ‘Barbie’ Sequel” But Timing Remains Unclear",
+      "quote": "Barbie producer and Mattel Studios boss Robbie Brenner talked about a follow-up to the hit live-action movie in a session at the Toronto Film Festival. “We all want to see the Barbie sequel,” she told the TIFF crowd. “I…",
+      "publisher": "Deadline",
+      "author": "Stewart Clarke",
+      "date": "2026-09-13T19:31:12+00:00",
+      "link": "https://deadline.com/2026/09/mattel-studios-boss-wants-to-see-a-barbie-sequel-1237100871/",
+      "image": "https://deadline.com/wp-content/uploads/2024/07/Screenshot-2024-07-28-at-16.06.32.png",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "3bd2cfec19668b1f",
+      "title": "Jeff Daniels Leading Comedy ‘The Reception’ About Chaotic Scottish Wedding; Trudie Styler Directing & Beta Launching TIFF Sales",
+      "quote": "EXCLUSIVE: Two-time Emmy winner and five-time Golden Globe nominee Jeff Daniels has been set to lead comedy The Reception, about a chaotic Scottish wedding. Trudie Styler is directing for her and Celine Rattray’s banner…",
+      "publisher": "Deadline",
+      "author": "Andreas Wiseman",
+      "date": "2026-09-13T19:16:12+00:00",
+      "link": "https://deadline.com/2026/09/jeff-daniels-cast-in-comedy-the-reception-scottish-wedding-1237100951/",
+      "image": "https://deadline.com/wp-content/uploads/2024/08/JD-Sam-Jones-2.2018-COLOR-e1789322082234.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "499f70344aabda3f",
+      "title": "Why Sci-Fi Legend Alan Dean Foster Stuck With Writing Books Instead Of Going Hollywood",
+      "quote": "Alan Dean Foster famously expanded the universes of famous, cinematic sci-fi worlds but never made a movie. Here's his reasoning why.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Ryan Scott)",
+      "date": "2026-09-13T19:00:00+00:00",
+      "link": "https://www.slashfilm.com/2253303/why-sci-fi-legend-alan-dean-foster-write-books-instead-hollywood-scripts/",
+      "image": "https://www.slashfilm.com/img/gallery/why-sci-fi-legend-alan-dean-foster-stuck-with-writing-books-instead-of-going-hollywood/l-intro-1788969555.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "867f3abe70dbd2ef",
+      "title": "‘I Play Rocky’ Review: Anthony Ippolito Is an Endearing Pre-Stardom Sylvester Stallone in Peter Farrelly’s Crowd-Pleasing Making-Of Drama",
+      "quote": "AnnaSophia Robb, Jay Duplass and Matt Dillon also star in this celebration of the modestly budgeted boxing movie that became an indelible cultural phenomenon.",
+      "publisher": "The Hollywood Reporter",
+      "author": "David Rooney",
+      "date": "2026-09-13T18:58:52+00:00",
+      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/i-play-rocky-review-anthony-ippolito-sylvester-stallone-1236699723/",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "7665af2dd8aa9ba9",
+      "title": "‘Diary of a Mad Old Man’ Review: Wayne Wang and Fan Bingbing Unintentionally Find the Boredom in Sex and Death",
+      "quote": "Given its premise — a post-stroke retiree derives sexual pleasure from his daughter-in-law — the perverse qualities of Jun’ichirō Tanizaki’s classic “Diary of a Mad Old Man” are plentiful. But by the standards of…",
+      "publisher": "Variety",
+      "author": "Guy Lodge",
+      "date": "2026-09-13T18:57:04+00:00",
+      "link": "https://variety.com/2026/film/reviews/diary-of-a-mad-old-man-review-1236860647/",
+      "image": "https://variety.com/wp-content/uploads/2026/09/Diary-of-a-Mad-Old-Manl_01.webp",
+      "category": "World Cinema"
+    },
+    {
+      "id": "ad3acb66d8fa61fa",
+      "title": "‘Babies’ Review: Anna Kendrick Is a Comic Dynamo Alongside Seth Rogen in a Sparkling Portrait of a Couple Weighing the Pros and Cons of Parenthood",
+      "quote": "A longtime couple reconsiders their choice to remain childless in this film written and directed by Rogen's real-life wife, Lauren Miller Rogen.",
+      "publisher": "The Hollywood Reporter",
+      "author": "Michael Rechtshaffen",
+      "date": "2026-09-13T18:06:05+00:00",
+      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/babies-review-anna-kendrick-seth-rogen-lauren-miller-rogen-1236699421/",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "f12c8eac45d5c65c",
+      "title": "Emmys Sets Reba McEntire For Dolly Parton Tribute; Adds Big ‘Baywatch’ Contingent, McConaughey & Harrelson, LL Cool J & Caan, More As Presenters",
+      "quote": "More details are coming into light about the 78th Emmy Awards ahead of the September 14 ceremony which will be broadcast live from the Peacock Theater on NBC and Peacock. Jesse Collins confirmed on Thursday that the…",
+      "publisher": "Deadline",
+      "author": "Nellie Andreeva",
+      "date": "2026-09-13T18:05:00+00:00",
+      "link": "https://deadline.com/2026/09/emmys-reba-mcentire-dolly-parton-tribute-baywatch-presnters-1237100936/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/baywatch-reba-dolly-parton.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "1c93c3e2e30560f0",
+      "title": "Before The Big Valley, Lee Majors Made His TV Debut In A Genre-Defining Western Series",
+      "quote": "The Big Valley helped turn Lee Majors into a star, but before that, he appeared in a different genre-defining Western TV show.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Joe Roberts)",
+      "date": "2026-09-13T18:00:00+00:00",
+      "link": "https://www.slashfilm.com/2254611/the-big-valley-lee-majors-tv-debut-western-series-gunsmoke/",
+      "image": "https://www.slashfilm.com/img/gallery/before-the-big-valley-lee-majors-made-his-tv-debut-in-a-genre-defining-western-series/l-intro-1789043652.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "db345582b2b3a5ff",
+      "title": "‘Practical Magic 2’ Opens To $30M U.S., On Par With Recent Sandra Bullock Pics – Box Office Update",
+      "quote": "SUNDAY AM WRITETHRU, after Saturday AM post: Well, it’s clear, the summer moviegoing pace is over at the box office with fall distractions setting in as the entire weekend at $83.4M (per Rentrak), -44% off from a year…",
       "publisher": "Deadline",
       "author": "Anthonypauldalessandro",
-      "date": "2026-09-13T15:52:09+00:00",
-      "link": "https://deadline.com/2026/09/box-office-practical-magic-2-global-1237100627/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Practical-Magic-2_902bef.jpg",
+      "date": "2026-09-13T17:34:00+00:00",
+      "link": "https://deadline.com/2026/09/box-office-practical-magic-2-weekend-1237098516/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/MCDPRMA_WB002.jpg",
       "category": "World Cinema"
+    },
+    {
+      "id": "c48aed29f91d511a",
+      "title": "Peacock Unveils Full Trailer & First-Look Photos For ‘Crystal Lake’ Series Starring Linda Cardellini",
+      "quote": "The full trailer for Peacock’s Friday the 13th prequel series Crystal Lake, which arrives Oct. 15 on the streamer, has been released. From A24 and creator Brad Caleb Kane, Crystal Lake stars Linda Cardellini as Pam…",
+      "publisher": "Deadline",
+      "author": "Dessi Gomez",
+      "date": "2026-09-13T17:10:00+00:00",
+      "link": "https://deadline.com/2026/09/crystal-lake-trailer-first-look-photos-release-date-1236981497/",
+      "image": "https://deadline.com/wp-content/uploads/2026/07/NUP_211121_00008.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "1673fb828e92d4ee",
+      "title": "Comedian Mojo Brookzz Bringing Debut Special ‘I Know You Lying’ To Netflix In October",
+      "quote": "EXCLUSIVE: Comedian Dyon “Mojo” Brooks (aka Mojo Brookzz) has announced that his debut special, I Know You Lying, is set to premiere globally on Netflix on October 6. No word on what Brooks discusses in the special…",
+      "publisher": "Deadline",
+      "author": "Matthewgrobar",
+      "date": "2026-09-13T17:00:00+00:00",
+      "link": "https://deadline.com/2026/09/mojo-brookzz-netflix-special-premiere-date-1237076373/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Mojo-Brooks-IKYFL_Final_01_07_36_13.png",
+      "category": "World Cinema"
+    },
+    {
+      "id": "7006fe0ab467b9ea",
+      "title": "5 Best Sci-Fi Movies From 1996, Ranked",
+      "quote": "Back in 1996, the biggest sci-fi movies ranged from action spectaculars to gonzo comedies. Here are our picks for the top five.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Witney Seibold)",
+      "date": "2026-09-13T17:00:00+00:00",
+      "link": "https://www.slashfilm.com/2254404/best-sci-fi-movies-1996-ranked/",
+      "image": "https://www.slashfilm.com/img/gallery/5-best-sci-fi-movies-from-1996-ranked/l-intro-1788991500.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "b237c3535665e457",
+      "title": "Who Plays Antaan On Lanterns",
+      "quote": "Antaan is a mysterious extraterrestrial character on Lanterns played by an actor that fans of one of HBO's best shows certainly recognize.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Joe Roberts)",
+      "date": "2026-09-13T16:00:00+00:00",
+      "link": "https://www.slashfilm.com/2253126/antaan-lanterns-hbo-actor-paul-ben-victor/",
+      "image": "https://www.slashfilm.com/img/gallery/who-plays-antaan-on-lanterns/l-intro-1788818098.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "74a3d5058e9a6fb2",
+      "title": "‘Union Town’ Review: Barbara Kopple’s Labor Rights Documentary Is Both Aptly Angry and Optimistically Community-Minded",
+      "quote": "Across the harrowing financial realities of late capitalism, an indisputable global fact is the injustices faced by countless workers who deliver everything we have come to rely on, from food orders to Amazon purchases…",
+      "publisher": "Variety",
+      "author": "Tomilaffly",
+      "date": "2026-09-13T15:45:25+00:00",
+      "link": "https://variety.com/2026/film/reviews/union-town-review-1236854414/",
+      "image": "https://variety.com/wp-content/uploads/2026/08/Union-Town-1.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "050150e935e315cc",
+      "title": "Crystal Lake Trailer Gives Us A Bloody Jason Voorhees Origin Story",
+      "quote": "Peacock is reviving the Friday the 13th franchise with Crystal Lake, a prequel series focused on Pamela Voorhees. Watch the trailer right here.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Ryan Scott)",
+      "date": "2026-09-13T15:30:00+00:00",
+      "link": "https://www.slashfilm.com/2256201/crystal-lake-tv-series-trailer/",
+      "image": "https://www.slashfilm.com/img/gallery/crystal-lake-trailer-gives-us-a-bloody-jason-voorhees-origin-story/l-intro-1789148599.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "72e34488d5c73243",
@@ -31,28 +229,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "0b419f882ff08259",
-      "title": "Betty Thomas, Billy Crystal & The Curious Case Of The Emmy-Thieving Imposter",
-      "quote": "On Sept. 22, 1985, the Pasadena Civic Auditorium was filled with 2,700 members of the year’s television elite, gathered together for the 37th Annual Primetime Emmy Awards. Hosted by Dynasty star John Forsythe, the…",
-      "publisher": "Deadline",
-      "author": "Antonia Blyth",
-      "date": "2026-09-13T15:00:00+00:00",
-      "link": "https://deadline.com/2026/09/betty-thomas-billy-crystal-barry-bremen-emmys-imposter-1237100046/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Barry-Bremen-and-Betty-Thomas_9d1574.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "8e9cddc4c3e2b9b9",
-      "title": "Bertil Nilsson’s TIFF Film ‘Masc’ Explores Intersectionality Of Queer, Biracial, Autistic Experience — Clip",
-      "quote": "In Bertil Nillson’s feature directorial debut Masc, the writer/director teams up with co-writer and star Joshua Griffin to share a story of intersectionality and self-love. Making its world premiere last night in TIFF’s…",
-      "publisher": "Deadline",
-      "author": "Glenn Garner",
-      "date": "2026-09-13T15:00:00+00:00",
-      "link": "https://deadline.com/2026/09/bertil-nilsson-tiff-masc-clip-1237100332/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/masc_still_01.jpg",
-      "category": "Festival Winners"
-    },
-    {
       "id": "48a1de55f379d927",
       "title": "‘Your Mother Your Mother Your Mother’ Review: Mahershala Ali Is a Marvel in a Gripping Crime Film With a Big, Aching Heart",
       "quote": "The two-time Oscar winner plays a devout Muslim and contract killer forced to care for his three kids after his wife dies in Bassam Tariq's Texas-set thriller.",
@@ -61,39 +237,6 @@
       "date": "2026-09-13T14:28:36+00:00",
       "link": "https://www.hollywoodreporter.com/movies/movie-reviews/your-mother-your-mother-your-mother-review-mahershala-ali-1236699560/",
       "image": null,
-      "category": "Festival Winners"
-    },
-    {
-      "id": "a8413b57be698603",
-      "title": "Vertical Saves Lily James & Pierce Brosnan Starring ‘Cliffhanger’; Spring 2027 U.S. Release Eyed – TIFF",
-      "quote": "EXCLUSIVE: After the hot new distributor at TIFF last year, Row K, imploded, many films that the label scooped up at the fest were left homeless; one of the big titles they supposed shelled out eight figures for was…",
-      "publisher": "Deadline",
-      "author": "Anthonypauldalessandro",
-      "date": "2026-09-13T14:01:08+00:00",
-      "link": "https://deadline.com/2026/09/cliffhanger-lily-james-vertical-acquisition-1237100608/",
-      "image": "https://deadline.com/wp-content/uploads/2025/09/Cliffhanger.webp",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "d3d667cf79708013",
-      "title": "‘Scooby-Doo: Origins’ Season 1 Production Has Rrrr-Wrapped",
-      "quote": "The cast, crew and star of Scooby-Doo: Origins can finally take a pawse, as production has wrapped on the first season of the upcoming Netflix live-action series. It’s slated to premiere globally on the streamer in…",
-      "publisher": "Deadline",
-      "author": "Denise Petski",
-      "date": "2026-09-13T14:00:00+00:00",
-      "link": "https://deadline.com/2026/09/scooby-doo-origins-season-1-production-wraps-1237099453/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Scooby-Doo-Origins-.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "5586be022a668082",
-      "title": "Midnight Madness! A Caped Canadian Prime Minister Stars In ‘Ladies And Gentlemen, Brian Mulroney’ – Toronto Film Festival",
-      "quote": "Canada’s prime minister, Mark Carney, attended the opening of the Toronto Film Festival last year, helping introduce the documentary John Candy: I Like Me. This year, a former Canadian PM, Brian Mulroney, is appearing…",
-      "publisher": "Deadline",
-      "author": "Matthew Carey",
-      "date": "2026-09-13T14:00:00+00:00",
-      "link": "https://deadline.com/2026/09/ladies-and-gentlemen-brian-mulroney-toronto-film-festival-1237100505/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Mulroney_Still_10_13_26_06.png",
       "category": "Festival Winners"
     },
     {
@@ -128,17 +271,6 @@
       "link": "https://variety.com/2026/film/reviews/the-stunt-driver-review-1236860383/",
       "image": "https://variety.com/wp-content/uploads/2026/09/Still-1-1.jpg",
       "category": "World Cinema"
-    },
-    {
-      "id": "cb645300fac09bb6",
-      "title": "Before Gilligan's Island, Alan Hale Jr. Guest-Starred On A TV Show That John F. Kennedy Advised For",
-      "quote": "There were multiple connections between Gilligan's Island star Alan Hale Jr. and John F. Kennedy, including this show that Hale Jr. guest-starred on.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-09-13T12:00:00+00:00",
-      "link": "https://www.slashfilm.com/2253306/gilligans-island-alan-hale-jr-guest-starred-navy-log/",
-      "image": "https://www.slashfilm.com/img/gallery/before-gilligans-island-alan-hale-jr-guest-starred-on-a-tv-show-that-john-f-kennedy-advised-for/l-intro-1788900529.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "a276ae3ad0d8db81",
@@ -196,17 +328,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "68b3d468d1c5b816",
-      "title": "How Do You Join Star Trek's United Federation Of Planets? A Guide",
-      "quote": "In Star Trek, Earth is a member of the United Federation of Planets. Here are the requirements a world must reach in order to join the organization.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Witney Seibold)",
-      "date": "2026-09-13T08:10:00+00:00",
-      "link": "https://www.slashfilm.com/2253042/star-trek-united-federation-of-planets-explained/",
-      "image": "https://www.slashfilm.com/img/gallery/how-do-you-join-star-treks-united-federation-of-planets-a-guide/l-intro-1788890149.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "ad072fd0f8413b1d",
       "title": "Srinidhi Bengaluru and Dheekshith Shetty on ‘Video’: It’s a found-footage horror thriller for a new-age audience",
       "quote": "Director Srinidhi Bengaluru and actor-producer Dheekshith Shetty open up about taking an unconventional approach to horror and making the genre work for a wider audience with their found-footage Kannada film ‘Video’",
@@ -262,17 +383,6 @@
       "category": "Indian Cinema"
     },
     {
-      "id": "76bf452472a3e2a9",
-      "title": "‘I Play Rocky’ Review: Peter Farrelly’s Sensational Biopic Of The Making Of Stallone’s Classic Is Just As Inspiring As The Original Movie – Toronto Film Festival",
-      "quote": "It is no spoiler to say I am going to reveal the final moments of Peter Farrelly’s fantastic crowd-pleasing biopic I Play Rocky, chronicling the making of the 1976 classic Rocky, which not only made Sylvester Stallone a…",
-      "publisher": "Deadline",
-      "author": "Pete Hammond",
-      "date": "2026-09-13T04:30:21+00:00",
-      "link": "https://deadline.com/2026/09/i-play-rocky-review-peter-farrelly-biopic-tallones-classic-1237100498/",
-      "image": "https://deadline.com/wp-content/uploads/2026/07/DSCF1969_C2-H-2026.webp",
-      "category": "World Cinema"
-    },
-    {
       "id": "dbec17dcc042a965",
       "title": "Your Mother Your Mother Your Mother review – Mahershala Ali is a grieving hitman in soulful thriller",
       "quote": "Toronto film festival: the two-time Oscar-winner is an unusual killer in a compelling mix of pulpy action and family drama Latif, the solemn hitman played soulfully by Mahershala Ali, carries diapers in his kill kit. I…",
@@ -317,28 +427,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "ca03d13f214a2abf",
-      "title": "‘Misty Green’ Review: Rosalind Eleazar Is The Whole Show In Chris Rock’s Sizzling Hollywood Portrait Of A Down-And-Out Emmy Winner Whose Career Is On The Skids – Toronto Film Festival",
-      "quote": "I have to confess I am a sucker for down-on-your-luck Hollywood stories, especially movies about actresses who once had success and are now scraping the bottom. Of course there is the classic of classics, Sunset…",
-      "publisher": "Deadline",
-      "author": "Pete Hammond",
-      "date": "2026-09-13T03:30:00+00:00",
-      "link": "https://deadline.com/2026/09/misty-green-review-rosalind-eleazar-chris-rock-hollywood-1237099694/",
-      "image": "https://deadline.com/wp-content/uploads/2026/07/Screenshot-2026-07-22-at-14.02.44.png",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "7c1c93e8ecbfcd57",
-      "title": "‘I Play Rocky’ Review: Anthony Ippolito Channels Sylvester Stallone in Peter Farrelly’s Cleverly Crafted Crowd-Pleaser About the Making of ‘Rocky’",
-      "quote": "For a biographical drama to work, it’s not required that the central actor do a pinpoint uncanny, so-close-to- the-real-thing-you-might-think-it’s-the-real-thing impersonation of the person he’s playing. But Peter…",
-      "publisher": "Variety",
-      "author": "Owen Gleiberman",
-      "date": "2026-09-13T03:25:45+00:00",
-      "link": "https://variety.com/2026/film/reviews/i-play-rocky-review-anthony-ippolito-peter-farrelly-1236859563/",
-      "image": "https://variety.com/wp-content/uploads/2026/09/I-Play-Rocky_HERO.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "5d9afc8f04e7c05c",
       "title": "‘The Surgeon’ Review: Michelle Yeoh Plays a Kidnapped Doctor Trying to Outwit Her Captors in Deliriously Fun Genre-Bender",
       "quote": "Martin Freeman has a supporting role as a crime boss in this film from Roshan Sethi ('A Nice Indian Boy'), premiering in Toronto.",
@@ -347,39 +435,6 @@
       "date": "2026-09-13T02:02:00+00:00",
       "link": "https://www.hollywoodreporter.com/movies/movie-reviews/the-surgeon-review-michelle-yeoh-roshan-sethi-1236697664/",
       "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "cda2203a0df0c544",
-      "title": "Why Apple TV's Silo Made A Major Change To The Stairs From The Books",
-      "quote": "Silo is one of the best shows on Apple TV, and the author of the book series the show is based on explained why the show made one major change.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Rafael Motamayor)",
-      "date": "2026-09-13T00:45:00+00:00",
-      "link": "https://www.slashfilm.com/2253327/silo-apple-tv-series-change-stairs-books-metal-concrete/",
-      "image": "https://www.slashfilm.com/img/gallery/why-apple-tvs-silo-made-a-major-change-to-the-stairs-from-the-books/l-intro-1788901772.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "2b8f0bacf7fb87bb",
-      "title": "Silo Author Hugh Howey Thinks One Beloved Sci-Fi Book Changed His Writing (For The Better)",
-      "quote": "Silo author Hugh Howey is very fond of the 2019 novel This is How You Lose the Time War by Amal El-Mohtar and Max Gladstone.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Witney Seibold)",
-      "date": "2026-09-12T23:00:00+00:00",
-      "link": "https://www.slashfilm.com/2253933/silo-hugh-howey-sci-fi-book-changed-writing-this-is-how-you-lose-the-time-war/",
-      "image": "https://www.slashfilm.com/img/gallery/silo-author-hugh-howey-thinks-one-beloved-sci-fi-book-changed-his-writing-for-the-better/l-intro-1788972840.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "0258f4f58a27863d",
-      "title": "‘Everybody Wants to F— Me’ Review: Giddily Genre-Crossing Comedy Sees Right Through Taron Egerton’s Nice-Guy Act",
-      "quote": "Just when the victim/villain discourse about sleeper smash “Obsession” was finally beginning to die down, along comes “Everybody Wants to Fuck Me” — another story of a young man’s desires getting violently…",
-      "publisher": "Variety",
-      "author": "Guy Lodge",
-      "date": "2026-09-12T22:58:09+00:00",
-      "link": "https://variety.com/2026/film/reviews/everybody-wants-to-fuck-me-review-taron-egerton-1236859572/",
-      "image": "https://variety.com/wp-content/uploads/2026/09/everybody.jpeg",
       "category": "World Cinema"
     },
     {
@@ -392,28 +447,6 @@
       "link": "https://www.avclub.com/venice-film-festival-winners-2026",
       "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/12174353/venice-header.jpg",
       "category": "Festival Winners"
-    },
-    {
-      "id": "559ea095dfbc8c8f",
-      "title": "This Acclaimed '90s Sci-Fi Show Created By Two X-Files Writers Was Canceled Too Soon",
-      "quote": "After writing for The X-Files, Glen Morgan and James Wong left to create this sci-fi series that was canceled after only one season.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Witney Seibold)",
-      "date": "2026-09-12T22:00:00+00:00",
-      "link": "https://www.slashfilm.com/2247912/the-x-files-writers-90s-sci-fi-show-space-above-and-beyond-canceled/",
-      "image": "https://www.slashfilm.com/img/gallery/this-acclaimed-90s-sci-fi-show-created-by-two-x-files-writers-was-canceled-too-soon/l-intro-1788200564.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "b79cfad1e089e797",
-      "title": "Star Trek Legend Leonard Nimoy Guest-Starred As 3 Different Characters In This Western Series",
-      "quote": "Star Trek fans are likely aware of Leonard Nimoy's history as a Western TV star, but many might not know he played three characters on one series.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Witney Seibold)",
-      "date": "2026-09-12T21:45:00+00:00",
-      "link": "https://www.slashfilm.com/2253425/star-trek-leonard-nimoy-guest-starred-western-series-broken-arrow/",
-      "image": "https://www.slashfilm.com/img/gallery/star-trek-legend-leonard-nimoy-guest-starred-as-3-different-characters-in-this-western-series/l-intro-1788907899.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "e647c8e296df69d1",
@@ -491,17 +524,6 @@
       "link": "https://www.avclub.com/courteney-cox-would-like-to-direct-a-scream-movie",
       "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/12145747/scream-header.jpg",
       "category": "Indie Gems"
-    },
-    {
-      "id": "4f7a6fb8ed4c89b9",
-      "title": "‘Oasis’ Review: A Sleek, Strange Parable about Bullying and Bonding at the Most Difficult Age",
-      "quote": "The difficult teenage years are sometimes characterized as a wasteland, but more resemble a forest for the interdependent trio at the sinking heart of Jannis Lenz’s “Oasis,” the German-born, Austrian-trained filmmaker’s…",
-      "publisher": "Variety",
-      "author": "Jessica Kiang",
-      "date": "2026-09-12T18:27:09+00:00",
-      "link": "https://variety.com/2026/film/reviews/oasis-review-1236859441/",
-      "image": "https://variety.com/wp-content/uploads/2026/09/Oasis.jpg",
-      "category": "Festival Winners"
     },
     {
       "id": "6076db03fd360504",
@@ -592,17 +614,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "37b07ca20cc36681",
-      "title": "‘Back to Buenos Aires’ Review: A Brooding Drama Revisits the Violent Days of Argentina’s Dictatorship, and the Traumas That Remained in Its Wake",
-      "quote": "Director Marco Bechis drew from his experience as a survivor of the 1976 military coup for this story of a political prisoner who returns to the place of his torment 30 years later.",
-      "publisher": "The Hollywood Reporter",
-      "author": "Jordan Mintzer",
-      "date": "2026-09-12T14:38:03+00:00",
-      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/back-to-buenos-aires-review-1236698365/",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
       "id": "6c3c7f1ed03e83d0",
       "title": "Six Oscar contenders from the Venice Film Festival",
       "quote": "From a wild-eyed performance by R-Patz to a short film about Marilyn at 100",
@@ -645,17 +656,6 @@
       "link": "https://www.rogerebert.com/reviews/black-zombie-documentary-film-review-2026",
       "image": null,
       "category": "World Cinema"
-    },
-    {
-      "id": "d4e091601b611957",
-      "title": "‘Faith’ Review: Erin Doherty and James McAvoy Excel in a Sensitive Drama That Goes Off the Rails in the Final Reel",
-      "quote": "The actors play working-class Brits navigating the early stage of a relationship in this TIFF premiere from director Paul Andrew Williams.",
-      "publisher": "The Hollywood Reporter",
-      "author": "Leslie Felperin",
-      "date": "2026-09-11T20:30:00+00:00",
-      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/faith-review-erin-doherty-james-mcavoy-1236696608/",
-      "image": null,
-      "category": "Festival Winners"
     },
     {
       "id": "c33276694f18dfab",
