@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T04:39:29.355815+00:00",
+  "generated_at": "2026-09-13T11:33:47.438992+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -9,9 +9,119 @@
   ],
   "reviews": [
     {
-      "id": "8dc86896ff57967c",
-      "title": "‘I Play Rocky’ Review: Peter Farrelly’s Sensational Biopic Of The Making Of Stallone’s Classic Is Just As Inspiring As The Original Movie Itself – Toronto Film Festival",
-      "quote": "It is no spoiler to say I am going to reveal the final moments of Peter Farrelly’s fantastic crowd pleasing biopic chronicling the making of the 1976 classic, Rocky, that not only made Sylvester Stallone a major star…",
+      "id": "28c921e839bf329e",
+      "title": "‘Masc’ Review: A Sensitive Character Study Where Identity is Found in Imitation and Observation",
+      "quote": "In “Masc,” director Bertil Nilsson pulls off a nifty trick: He observes an observer. Usually a film’s protagonist has the dominant POV, but here, Robin (Joshua Griffin) is trying to find his personality by observing…",
+      "publisher": "Variety",
+      "author": "Murtada Elfadl",
+      "date": "2026-09-13T11:20:41+00:00",
+      "link": "https://variety.com/2026/film/reviews/masc-review-1236859970/",
+      "image": "https://variety.com/wp-content/uploads/2026/09/Masc_HERO.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "6ee61c5809b3ef91",
+      "title": "Shaun the Sheep: The Beast of Mossy Bottom review – Aardman’s spooky-season caper sparkles with fun",
+      "quote": "There’s trouble afoot when Shaun’s pumpkin-supersizing serum ends up in a balding farmer’s hair growth bottle in this third cinematic adventure Summer is over and Halloween is on the way … not for a fair bit, of course…",
+      "publisher": "The Guardian",
+      "author": "Peter Bradshaw",
+      "date": "2026-09-13T11:00:03+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/13/shaun-the-sheep-the-beast-of-mossy-bottom-review-aardman",
+      "image": "https://i.guim.co.uk/img/media/3fa9cebb392048db5203664fcabbb1c911e7f258/592_0_3600_2883/master/3600.jpg?width=140&quality=85&auto=format&fit=max&s=b6f17c3d347ff0a008c25635fcc97c61",
+      "category": "World Cinema"
+    },
+    {
+      "id": "83d25cdb60fe18ae",
+      "title": "‘Shaun the Sheep: The Beast of Mossy Bottom’ Review: The Third Time’s Charming, Just Like the First and Second",
+      "quote": "The farmer becomes a Bigfoot-like creature roaming the countryside in this new big-screen installment of the hit Aardman Animations stop-motion franchise.",
+      "publisher": "The Hollywood Reporter",
+      "author": "Frank Scheck",
+      "date": "2026-09-13T11:00:00+00:00",
+      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/shaun-the-sheep-the-beast-of-mossy-bottom-review-1236697667/",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "2e336bc50c4ab48f",
+      "title": "‘Up Against It’ Review: Antonio Banderas Stars in a British Family Dramedy That Ignores Its Own Conundrums",
+      "quote": "A crisscrossing family dramedy, Trudie Styler’s “Up Against It” features wonderful performances and intriguingly modern ideas, but it seldom coheres as comedy or drama. A tale of divorced parents, their respective…",
+      "publisher": "Variety",
+      "author": "Siddhant Adlakha",
+      "date": "2026-09-13T10:54:51+00:00",
+      "link": "https://variety.com/2026/film/reviews/up-against-it-review-1236860045/",
+      "image": "https://variety.com/wp-content/uploads/2026/09/Up-Against-It_01.webp",
+      "category": "World Cinema"
+    },
+    {
+      "id": "68b3d468d1c5b816",
+      "title": "How Do You Join Star Trek's United Federation Of Planets? A Guide",
+      "quote": "In Star Trek, Earth is a member of the United Federation of Planets. Here are the requirements a world must reach in order to join the organization.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Witney Seibold)",
+      "date": "2026-09-13T08:10:00+00:00",
+      "link": "https://www.slashfilm.com/2253042/star-trek-united-federation-of-planets-explained/",
+      "image": "https://www.slashfilm.com/img/gallery/how-do-you-join-star-treks-united-federation-of-planets-a-guide/l-intro-1788890149.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "ad072fd0f8413b1d",
+      "title": "Srinidhi Bengaluru and Dheekshith Shetty on ‘Video’: It’s a found-footage horror thriller for a new-age audience",
+      "quote": "Director Srinidhi Bengaluru and actor-producer Dheekshith Shetty open up about taking an unconventional approach to horror and making the genre work for a wider audience with their found-footage Kannada film ‘Video’",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-13T07:19:53+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/video-the-film-video-kannada-movie-srinidhi-bengaluru-found-footage-horror-dheekshith-shetty-horror-drama/article71450389.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/j270ht/article71462744.ece/alternates/LANDSCAPE_1200/Srinidhi-Dheekshith.JPEG",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "1b21a2bbf29000eb",
+      "title": "Watch | Vijay’s ‘Varisu’ takes on Ajith’s ‘Thunivu’: Why Tamil cinema fans are excited",
+      "quote": "Two of Tamil cinema’s biggest film stars – Vijay and Ajith – are releasing their films on the same day. As excitement builds in anticipation of the big face off, we meet their vociferously loyal fan groups",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-13T06:18:10+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/vijays-varisu-takes-on-ajiths-thunivu-why-tamil-cinema-fans-are-excited/article66360016.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/chcoj4/article66360031.ece/alternates/LANDSCAPE_1200/varisu-thunivu.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "ca9378625c7ab85c",
+      "title": "Vijay and Ajith Kumar reunite at Silverstone; fans call it “biggest day for Tamil Cinema”",
+      "quote": "Separated by years of public absence, Vijay and Ajith Kumar — the two superstars of Tamil cinema—came together in a moment that transcended their legendary on-screen rivalry",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-13T05:21:00+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/ajith-kumar-vijay-reunion-silverstone-le-mans-cup-race-tamil-superstars-thala-thalapathy-reunion/article71460925.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/7umu3g/article71460920.ece/alternates/LANDSCAPE_1200/VijayAjith.jpeg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "fce406da3d1004f1",
+      "title": "Vijay’s blockbuster opening: How cinema powered the superstar’s rise in Tamil Nadu politics",
+      "quote": "From ‘Thamizhan’ to ‘Jana Nayagan’: This is how TVK chief Vijay used Tamil cinema to lay the groundwork for his historical political debut",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-13T05:15:32+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/vijay-tvk-tamilaga-vettri-kazhagam-jana-nayagan-tn-elections-tamil-cinema/article70942697.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/wc3cvu/article70947115.ece/alternates/LANDSCAPE_1200/JN3.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "8ea31ace848063fa",
+      "title": "T.N. Chief Minister Vijay flags off Silverstone motor race in U.K. as actor Ajith competes",
+      "quote": "The actor and motorsports racer thanks the Chief Minister for coming to the circuit and expresses his wish to see such events come to India",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-13T05:13:25+00:00",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-cm-vijay-to-flag-off-silverstone-motor-race-in-uk-actor-ajith-to-compete/article71459564.ece",
+      "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/15wng4/article71461305.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-12%20at%208.46.40%20PM.jpeg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "76bf452472a3e2a9",
+      "title": "‘I Play Rocky’ Review: Peter Farrelly’s Sensational Biopic Of The Making Of Stallone’s Classic Is Just As Inspiring As The Original Movie – Toronto Film Festival",
+      "quote": "It is no spoiler to say I am going to reveal the final moments of Peter Farrelly’s fantastic crowd-pleasing biopic I Play Rocky, chronicling the making of the 1976 classic Rocky, which not only made Sylvester Stallone a…",
       "publisher": "Deadline",
       "author": "Pete Hammond",
       "date": "2026-09-13T04:30:21+00:00",
@@ -42,6 +152,17 @@
       "category": "Festival Winners"
     },
     {
+      "id": "882d1db0cada80e8",
+      "title": "‘Misty Green’ Review: Chris Rock Tells the Story of a Party-Girl Actress, Brilliantly Played by Rosalind Eleazar, in The Best Movie About Hollywood in Years",
+      "quote": "\"Misty Green\" is an amazing slice of showbiz sociology, riveting in the details of what a contemporary Hollywood actress — even a successful one — is up against. Rock isn’t casting stones. The warped values he depicts…",
+      "publisher": "Variety",
+      "author": "Owen Gleiberman",
+      "date": "2026-09-13T03:30:05+00:00",
+      "link": "https://variety.com/2026/film/reviews/misty-green-review-chris-rock-rosiland-eleazar-1236859541/",
+      "image": "https://variety.com/wp-content/uploads/2026/08/Misty-Green.jpg",
+      "category": "World Cinema"
+    },
+    {
       "id": "7a4a753b3cd9a10a",
       "title": "‘Misty Green’ Review: Rosalind Eleazar Is a Revelation in Chris Rock’s Sharply Observed Love-Hate Portrait of the Hollywood Hustle",
       "quote": "The character study centers on a talented but self-sabotaging actress and singer looking to restart her career, with an ensemble that includes the writer-director alongside Adam Driver, Daniel Kaluuya and Anna Kendrick.",
@@ -53,8 +174,8 @@
       "category": "World Cinema"
     },
     {
-      "id": "b5225bbf4d79abc6",
-      "title": "‘Misty Green’ Review: Rosalind Eleazar Is The Whole Show In Chris Rock’s Sizzling Hollywood Portrait Of A Down And Out Emmy Winner Whose Career Is On The Skids – Toronto Film Festival",
+      "id": "ca03d13f214a2abf",
+      "title": "‘Misty Green’ Review: Rosalind Eleazar Is The Whole Show In Chris Rock’s Sizzling Hollywood Portrait Of A Down-And-Out Emmy Winner Whose Career Is On The Skids – Toronto Film Festival",
       "quote": "I have to confess I am a sucker for down-on-your-luck Hollywood stories, especially movies about actresses who once had success and are now scraping the bottom. Of course there is the classic of classics, Sunset…",
       "publisher": "Deadline",
       "author": "Pete Hammond",
@@ -64,9 +185,20 @@
       "category": "Festival Winners"
     },
     {
-      "id": "eae7b54293628775",
-      "title": "FCC Chairman Brendan Carr Accuses James Talarico Of Running A “Hoax” With Jimmy Kimmel Sit Down; YouTube Interview Nears 7 Million Views",
-      "quote": "As Jimmy Kimmel’s interview with James Talarico nears 7 million views on YouTube, FCC Chairman Brendan Carr weighed in on Saturday evening, accusing the Texas U.S. Senate candidate of orchestrating a “hoax” to drive up…",
+      "id": "7c1c93e8ecbfcd57",
+      "title": "‘I Play Rocky’ Review: Anthony Ippolito Channels Sylvester Stallone in Peter Farrelly’s Cleverly Crafted Crowd-Pleaser About the Making of ‘Rocky’",
+      "quote": "For a biographical drama to work, it’s not required that the central actor do a pinpoint uncanny, so-close-to- the-real-thing-you-might-think-it’s-the-real-thing impersonation of the person he’s playing. But Peter…",
+      "publisher": "Variety",
+      "author": "Owen Gleiberman",
+      "date": "2026-09-13T03:25:45+00:00",
+      "link": "https://variety.com/2026/film/reviews/i-play-rocky-review-anthony-ippolito-peter-farrelly-1236859563/",
+      "image": "https://variety.com/wp-content/uploads/2026/09/I-Play-Rocky_HERO.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "34bdd4e5bdbbc188",
+      "title": "FCC Chairman Brendan Carr Accuses James Talarico Of Running A “Hoax” With Jimmy Kimmel Sit-Down; YouTube Interview Nears 7 Million Views",
+      "quote": "As Jimmy Kimmel’s interview with James Talarico nears 7 million views on YouTube, FCC chairman Brendan Carr weighed in on Saturday evening, accusing the Texas U.S. Senate candidate of orchestrating a “hoax” to drive up…",
       "publisher": "Deadline",
       "author": "Ted Johnson",
       "date": "2026-09-13T02:09:10+00:00",
@@ -77,7 +209,7 @@
     {
       "id": "30e889b8ee48f1df",
       "title": "‘The Surgeon’ Review: Michelle Yeoh Goes All John Wick Taking Her Scalpel To The Bad Guys – Toronto Film Festival",
-      "quote": "After supporting roles in blockbusters like Wicked, Michelle Yeoh has her first all out starring role since winning the Best Actress Oscar for Everything Everywhere All At Once three years ago. Considering her expertise…",
+      "quote": "After supporting roles in blockbusters like Wicked, Michelle Yeoh has her first all-out starring role since winning the Best Actress Oscar for Everything Everywhere All at Once three years ago. Considering her expertise…",
       "publisher": "Deadline",
       "author": "Pete Hammond",
       "date": "2026-09-13T02:05:00+00:00",
@@ -97,9 +229,9 @@
       "category": "World Cinema"
     },
     {
-      "id": "7233584dab5fc82b",
-      "title": "Bill Dubuque Crime-Drama ‘M.I.A.’ Canceled At Peacock After One Season",
-      "quote": "EXCLUSIVE: Peacock has canceled the Miami-set crime-drama series M.I.A. after one season. The series, from creator, writer, and executive producer Bill Dubuque, premiered on May 7 with all 9 hour-long episodes…",
+      "id": "0bd77d6206de5e0d",
+      "title": "Bill Dubuque Crime Drama ‘M.I.A.’ Canceled By Peacock After One Season",
+      "quote": "EXCLUSIVE: Peacock has canceled the Miami-set crime-drama series M.I.A. after one season. The series, from creator, writer and executive producer Bill Dubuque, premiered May 7 with all nine hour-long episodes. Following…",
       "publisher": "Deadline",
       "author": "Rosy Cordero",
       "date": "2026-09-13T01:00:00+00:00",
@@ -119,13 +251,24 @@
       "category": "Festival Winners"
     },
     {
-      "id": "6d93adfebe9740b1",
+      "id": "cda2203a0df0c544",
+      "title": "Why Apple TV's Silo Made A Major Change To The Stairs From The Books",
+      "quote": "Silo is one of the best shows on Apple TV, and the author of the book series the show is based on explained why the show made one major change.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Rafael Motamayor)",
+      "date": "2026-09-13T00:45:00+00:00",
+      "link": "https://www.slashfilm.com/2253327/silo-apple-tv-series-change-stairs-books-metal-concrete/",
+      "image": "https://www.slashfilm.com/img/gallery/why-apple-tvs-silo-made-a-major-change-to-the-stairs-from-the-books/l-intro-1788901772.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "b0c18ed129bb6724",
       "title": "‘Babies’ Review: Lauren Miller Rogen Film Is A Witty, Heartfelt Exploration Of Childless Adulthood & Chosen Family – Toronto Film Festival",
       "quote": "After years of fielding questions about whether she wants to be a mom, Lauren Miller Rogen gives the definitive answer in the form of her witty, heartfelt comedy Babies. Written and directed by Miller Rogen, Babies…",
       "publisher": "Deadline",
       "author": "Lynette Rice",
       "date": "2026-09-13T00:17:00+00:00",
-      "link": "https://deadline.com/2026/09/babies-review-lauren-miller-rogen-film-is-a-witty-heartfelt-exploration-of-childless-adulthood-chosen-family-toronto-film-festival-1237100427/",
+      "link": "https://deadline.com/2026/09/babies-review-lauren-miller-rogen-childless-adulthood-1237100427/",
       "image": "https://deadline.com/wp-content/uploads/2026/08/Babies-e1789244078500.jpg",
       "category": "World Cinema"
     },
@@ -150,6 +293,28 @@
       "link": "https://www.slashfilm.com/2253933/silo-hugh-howey-sci-fi-book-changed-writing-this-is-how-you-lose-the-time-war/",
       "image": "https://www.slashfilm.com/img/gallery/silo-author-hugh-howey-thinks-one-beloved-sci-fi-book-changed-his-writing-for-the-better/l-intro-1788972840.jpg",
       "category": "Indie Gems"
+    },
+    {
+      "id": "0258f4f58a27863d",
+      "title": "‘Everybody Wants to F— Me’ Review: Giddily Genre-Crossing Comedy Sees Right Through Taron Egerton’s Nice-Guy Act",
+      "quote": "Just when the victim/villain discourse about sleeper smash “Obsession” was finally beginning to die down, along comes “Everybody Wants to Fuck Me” — another story of a young man’s desires getting violently…",
+      "publisher": "Variety",
+      "author": "Guy Lodge",
+      "date": "2026-09-12T22:58:09+00:00",
+      "link": "https://variety.com/2026/film/reviews/everybody-wants-to-fuck-me-review-taron-egerton-1236859572/",
+      "image": "https://variety.com/wp-content/uploads/2026/09/everybody.jpeg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "da80ed7c7e7551d7",
+      "title": "Here are the winners of the 2026 Venice Film Festival",
+      "quote": "May el-Toukhy's Woman Unknown took the Golden Lion, and Martin McDonagh's Wild Horse Nine, Lee Chang-dong's Possible Love, and Ilya Khrzhanovsky's DAU also received top honors.",
+      "publisher": "The A.V. Club",
+      "author": "Jarrod Jones",
+      "date": "2026-09-12T22:05:23+00:00",
+      "link": "https://www.avclub.com/venice-film-festival-winners-2026",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/12174353/venice-header.jpg",
+      "category": "Festival Winners"
     },
     {
       "id": "559ea095dfbc8c8f",
@@ -185,14 +350,25 @@
       "category": "Festival Winners"
     },
     {
-      "id": "bd23e46fc28e0942",
-      "title": "Bold and bravura choices as Venice celebrates A Woman Unknown, Possible Love – and NAZA",
+      "id": "57e97c4bd792dc20",
+      "title": "Bold and bravura choices as Venice celebrates A Woman Unknown, Possible Love and NAZA",
       "quote": "After facing heavy criticism over its lack of female directors, the film festival may have redeemed itself with its winners’ list Woman Unknown wins Venice film festival as NAZA takes special jury prize Did the Venice…",
       "publisher": "The Guardian",
       "author": "Peter Bradshaw",
       "date": "2026-09-12T21:07:33+00:00",
       "link": "https://www.theguardian.com/film/2026/sep/12/bold-bravura-choices-venice-film-festival-woman-unknown-possible-love-naza",
       "image": "https://i.guim.co.uk/img/media/eafbbcb2d816155ec192c9d1c235d0d778902bb9/567_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=59f98de8507adfeefa317bbc217c9e0b",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "649ce2314eadbd20",
+      "title": "Venice Film Festival 2026: Anuparna Roy and ‘Lovers in the Blue Night’ turn escape into art",
+      "quote": "Songs of Forgotten Trees director, who’s back in Venice after last year’s Orizzonti Best Director win, is rewriting who gets to be seen, and how, in Indian cinema",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-12T20:54:11+00:00",
+      "link": "https://www.thehindu.com/entertainment/venice-film-festival-anuparna-roy-lovers-in-the-blue-night/article71442692.ece",
+      "image": "https://th-i.thgim.com/public/society/wnvr21/article71442618.ece/alternates/LANDSCAPE_1200/Anuparna%20Roy%20in%20Venice.jpg",
       "category": "Festival Winners"
     },
     {
@@ -262,17 +438,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "8ea31ace848063fa",
-      "title": "T.N. Chief Minister Vijay flags off Silverstone motor race in U.K. as actor Ajith competes",
-      "quote": "The actor and motorsports racer thanks the Chief Minister for coming to the circuit and expresses his wish to see such events come to India",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-12T18:31:19+00:00",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-cm-vijay-to-flag-off-silverstone-motor-race-in-uk-actor-ajith-to-compete/article71459564.ece",
-      "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/15wng4/article71461305.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-12%20at%208.46.40%20PM.jpeg",
-      "category": "Indian Cinema"
-    },
-    {
       "id": "4f7a6fb8ed4c89b9",
       "title": "‘Oasis’ Review: A Sleek, Strange Parable about Bullying and Bonding at the Most Difficult Age",
       "quote": "The difficult teenage years are sometimes characterized as a wasteland, but more resemble a forest for the interdependent trio at the sinking heart of Jannis Lenz’s “Oasis,” the German-born, Austrian-trained filmmaker’s…",
@@ -339,17 +504,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "1aeec8f4f98b3485",
-      "title": "Dolph Lundgren's First TV Show Role Was On A Hit Comedic Spy Series",
-      "quote": "Dolph Lundgren hadn't appeared on a TV show prior to guest-starring in this comedic spy series (although it wasn't his first TV project overall).",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Bill Bria)",
-      "date": "2026-09-12T17:00:00+00:00",
-      "link": "https://www.slashfilm.com/2246375/dolph-lundgren-first-tv-role-hit-comedy-spy-series-chuck/",
-      "image": "https://www.slashfilm.com/img/gallery/dolph-lundgrens-first-tv-show-role-was-on-a-hit-comedic-spy-series/l-intro-1787929935.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "2c56ac37d6aa7c7e",
       "title": "Paramount files new legal statement saying states' antitrust suit misses the whole point of the merger",
       "quote": "The studio is arguing that the goal of the $111 billion merger is to make the combined Paramount competitive with Netflix and Amazon, not rival studios.",
@@ -358,28 +512,6 @@
       "date": "2026-09-12T16:28:27+00:00",
       "link": "https://www.avclub.com/paramount-legal-document-states-antitrust-doesnt-have-juice",
       "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/06105009/MixCollage-06-Aug-2026-10-48-AM-5098.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "ca9378625c7ab85c",
-      "title": "Vijay and Ajith Kumar reunite at Silverstone; fans call it “biggest day for Tamil Cinema”",
-      "quote": "Separated by years of public absence, Vijay and Ajith Kumar — the two superstars of Tamil cinema—came together in a moment that transcended their legendary on-screen rivalry",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-12T16:03:24+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/ajith-kumar-vijay-reunion-silverstone-le-mans-cup-race-tamil-superstars-thala-thalapathy-reunion/article71460925.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/7umu3g/article71460920.ece/alternates/LANDSCAPE_1200/VijayAjith.jpeg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "616bd46d6c26a599",
-      "title": "Who Plays William Macon On Lanterns",
-      "quote": "The actor who plays William Macon on Lanterns might look familiar to fans of Deadwood, Fear the Walking Dead, and modern Western movies.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-09-12T16:00:00+00:00",
-      "link": "https://www.slashfilm.com/2252176/william-macon-lanterns-hbo-actor-garret-dillahunt/",
-      "image": "https://www.slashfilm.com/img/gallery/who-plays-william-macon-on-lanterns/l-intro-1788795633.jpg",
       "category": "Indie Gems"
     },
     {
@@ -405,17 +537,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "c4e276254c4b1fc0",
-      "title": "When Ajith Kumar and Vijay shared the screen: a look at ‘Rajavin Parvaiyile’",
-      "quote": "The two stars, pitted as rivals in cinema, met at the Silverstone racing circuit in London on Saturday",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-12T15:48:22+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/ajith-kumar-vijay-silverstone-meeting-le-mans-cup-rajavin-parvaiyile/article71456584.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/se2y8w/article71460965.ece/alternates/LANDSCAPE_1200/Ajith%20Kumar%20Vijay%20Rajavin%20Parvaiyile.jpg",
-      "category": "Indian Cinema"
-    },
-    {
       "id": "ed67d4c6408d5671",
       "title": "Film producer Jeremy Thomas was a cross between a kindly Cambridge don and the movie world’s cool uncle",
       "quote": "The man behind The Last Emperor had the confidence of an old-fashioned studio boss along with the soul of a cineaste To say that movie producer Jeremy Thomas was British cinema royalty did not quite do justice to his…",
@@ -438,17 +559,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "a59ec73899cb5a0a",
-      "title": "Everybody Wants to F*ck Me review – Taron Egerton is hounded in sharp-toothed dating nightmare",
-      "quote": "Toronto film festival: It’s Get Out meets the viral Shitty Media Men list in this hugely entertaining mix of dark comedy and stalker thriller with a brilliant alternating turn from Taron Egerton Everyone knows an Adam…",
-      "publisher": "The Guardian",
-      "author": "Benjamin Lee in Toronto",
-      "date": "2026-09-12T15:27:17+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/12/everybody-wants-to-fck-me-review-taron-egerton",
-      "image": "https://i.guim.co.uk/img/media/057779f23aa49f6c37b6cacd1674e6fdafbe67c2/425_0_4167_3334/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=2fd3212d31b1305cf846a0de8ae6cc1f",
-      "category": "World Cinema"
-    },
-    {
       "id": "37b07ca20cc36681",
       "title": "‘Back to Buenos Aires’ Review: A Brooding Drama Revisits the Violent Days of Argentina’s Dictatorship, and the Traumas That Remained in Its Wake",
       "quote": "Director Marco Bechis drew from his experience as a survivor of the 1976 military coup for this story of a political prisoner who returns to the place of his torment 30 years later.",
@@ -460,17 +570,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "83d5b2e07bffdc20",
-      "title": "Gary Oldman expects HBO's Harry Potter will satisfy fans",
-      "quote": "The actor played wizard Sirius Black in the original Warner Bros. films.",
-      "publisher": "The A.V. Club",
-      "author": "Jarrod Jones",
-      "date": "2026-09-12T14:35:42+00:00",
-      "link": "https://www.avclub.com/gary-oldman-says-hbo-harry-potter-will-make-fans-happy",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/12100600/oldman-header.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "4c6eaf7dde8b89f9",
       "title": "Jeremy Thomas, British producer of The Last Emperor and Sexy Beast, dies aged 77",
       "quote": "An outstanding figure in the UK film industry, Thomas was noted for collaborations with directors including Bernardo Bertolucci and David Cronenberg Jeremy Thomas, the distinguished British producer of films including…",
@@ -479,28 +578,6 @@
       "date": "2026-09-12T14:01:50+00:00",
       "link": "https://www.theguardian.com/film/2026/sep/12/jeremy-thomas-producer-the-last-emperor-sexy-beast-dies",
       "image": "https://i.guim.co.uk/img/media/6b06745edf445ea166680dbd5bbe6451c687cab1/0_68_1000_800/master/1000.jpg?width=140&quality=85&auto=format&fit=max&s=21334c6fb34bb167d7fe422421bb9aee",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "62eeae1f92eadede",
-      "title": "Kyle Chandler and Aaron Pierre on ‘Lanterns’: ‘They’re fearless rockstars’",
-      "quote": "Kyle Chandler and Aaron Pierre, who play Hal Jordan and John Stewart, speak about what makes their characters tick, the unusual world of ‘Lanterns’ and what it takes to wear the ring",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-12T12:20:06+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/kyle-chandler-and-aaron-pierreon-lanterns-theyre-fearless-rockstars/article71459554.ece",
-      "image": "https://th-i.thgim.com/public/incoming/r1xtre/article71459634.ece/alternates/LANDSCAPE_1200/Aaron%20Pierre%20and%20Kyle%20Chandler%20in%20%E2%80%98Lanterns%E2%80%99",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "649ce2314eadbd20",
-      "title": "Venice Film Festival 2026: Anuparna Roy and ‘Lovers in the Blue Night’ turn escape into art",
-      "quote": "Songs of Forgotten Trees director, who’s back in Venice after last year’s Orizzonti Best Director win, is rewriting who gets to be seen, and how, in Indian cinema",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-12T11:54:31+00:00",
-      "link": "https://www.thehindu.com/entertainment/venice-film-festival-anuparna-roy-lovers-in-the-blue-night/article71442692.ece",
-      "image": "https://th-i.thgim.com/public/society/wnvr21/article71442618.ece/alternates/LANDSCAPE_1200/Anuparna%20Roy%20in%20Venice.jpg",
       "category": "Festival Winners"
     },
     {
@@ -526,17 +603,6 @@
       "category": "Festival Winners"
     },
     {
-      "id": "1a1d249cdd97d4dd",
-      "title": "'Hanuman Ansh' earns Rs 205.73 crore at box office",
-      "quote": "The film is directed by Vishal Chaturvedi and follows a grieving young Lakshminarayan, who embarks on a spiritual journey in search of God after the death of his mother.",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-12T07:15:12+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/hanuman-ansh-earns-rs-20573-crore-at-box-office/article71459387.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/fypo85/article71459402.ece/alternates/LANDSCAPE_1200/The%20poster%20of%20%E2%80%98Hanuman%20Ansh%E2%80%99",
-      "category": "Indian Cinema"
-    },
-    {
       "id": "92ccdf2f22d80451",
       "title": "The Stunt Driver",
       "quote": "A movie with a trunkload of love for its insane protagonist that doesn’t quite sell why this story needs to be told again.",
@@ -545,17 +611,6 @@
       "date": "2026-09-12T04:17:34+00:00",
       "link": "https://www.rogerebert.com/reviews/the-stunt-driver-jay-baruchel-movie-review-2026",
       "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "a506f8fb0dd2d70c",
-      "title": "‘The Julia Set’ Review: Chase Infiniti Confirms Her Movie-Star Mettle in Niki Byrne’s Riveting Math-Geek Bad Romance",
-      "quote": "In \"The Julia Set,\" she portrays a numbers genius in the most convincing way possible — by wearing her virtuosity lightly and casually, as if it were second nature (which, for someone like Julia, it is). But she also…",
-      "publisher": "Variety",
-      "author": "Owen Gleiberman",
-      "date": "2026-09-12T02:54:48+00:00",
-      "link": "https://variety.com/2026/film/reviews/the-julia-set-review-chase-infiniti-1236858794/",
-      "image": "https://variety.com/wp-content/uploads/2026/09/the_julia_set_01.webp",
       "category": "World Cinema"
     },
     {
@@ -581,17 +636,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "03d0f8343e4ee01d",
-      "title": "‘Let Us Through, Dear Ancestors’ Review: Lav Diaz Delivers an Immaculate, Slow-Burn Period Drama of Rare and Restless Insight",
-      "quote": "Set almost a century after Magellan first landed on the Philippine Archipelago, and coming just a year after “Magellan,” director Lav Diaz’s last film, landed in Cannes, “Let Us Through, Dear Ancestors” is a description…",
-      "publisher": "Variety",
-      "author": "Jessica Kiang",
-      "date": "2026-09-11T20:43:28+00:00",
-      "link": "https://variety.com/2026/film/reviews/let-us-through-dear-ancestors-review-lav-diaz-1236847019/",
-      "image": "https://variety.com/wp-content/uploads/2026/08/Let-Us-Through-Dear-Ancestors.jpg",
-      "category": "Festival Winners"
-    },
-    {
       "id": "d4e091601b611957",
       "title": "‘Faith’ Review: Erin Doherty and James McAvoy Excel in a Sensitive Drama That Goes Off the Rails in the Final Reel",
       "quote": "The actors play working-class Brits navigating the early stage of a relationship in this TIFF premiere from director Paul Andrew Williams.",
@@ -601,28 +645,6 @@
       "link": "https://www.hollywoodreporter.com/movies/movie-reviews/faith-review-erin-doherty-james-mcavoy-1236696608/",
       "image": null,
       "category": "Festival Winners"
-    },
-    {
-      "id": "21a17dffb5d25b58",
-      "title": "‘Back to Buenos Aires’ Review: Marco Bechis’ Return to the Screen Covers Similar Ground to Earlier Works but is Only Fitfully Effective",
-      "quote": "The return of Marco Bechis to filmmaking after 10 years is a welcome surprise, and the terrain he covers in “Back to Buenos Aires” is a familiar one for the veteran Chilean-Italian director who himself was caught up in…",
-      "publisher": "Variety",
-      "author": "Guy Lodge",
-      "date": "2026-09-11T19:21:43+00:00",
-      "link": "https://variety.com/2026/film/reviews/back-to-buenos-aires-review-1236859052/",
-      "image": "https://variety.com/wp-content/uploads/2026/09/121668-RITORNO_A_BUENOS_AIRES__BACK_TO_BUENOS_AIRES__-_Actor_Adriano_Giannini__Credits_Fabrizio_La_Palombara___2_.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "ec0bff6e1e27e735",
-      "title": "‘Le Faux Soir’ Review: Fake News Tells the Truth in an Earnest, Slow-Paced Period Piece",
-      "quote": "“Le Faux Soir” sources its high concept — hijacking state media propaganda’s fake news to tell the truth — from Second World War history. In 1943, disgruntled anarchist and poet Marc Aubrion (Arieh Worthalter) is…",
-      "publisher": "Variety",
-      "author": "Guy Lodge",
-      "date": "2026-09-11T19:04:29+00:00",
-      "link": "https://variety.com/2026/film/reviews/le-faux-soir-review-1236859013/",
-      "image": "https://variety.com/wp-content/uploads/2026/09/Le-Faux-Soir.jpg",
-      "category": "World Cinema"
     },
     {
       "id": "5654a3420d6e597d",
@@ -636,17 +658,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "a88f7bf9f4894556",
-      "title": "‘Father Joe’ Review: Kiefer Sutherland and Al Pacino in a Holy Mess of an Action Flick",
-      "quote": "Luc Besson wrote and produced this high-concept, B-grade shoot-em-up about a gun-toting priest who takes on the New York crime world.",
-      "publisher": "The Hollywood Reporter",
-      "author": "Jordan Mintzer",
-      "date": "2026-09-11T18:16:04+00:00",
-      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/father-joe-review-kiefer-sutherland-al-pacino-luc-besson-1236697260/",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
       "id": "c33276694f18dfab",
       "title": "American Hostage",
       "quote": "Never as satisfying as it could or should have been, even if we didn’t see this story in film earlier this year.",
@@ -655,17 +666,6 @@
       "date": "2026-09-11T18:00:00+00:00",
       "link": "https://www.rogerebert.com/reviews/american-hostage-jon-hamm-tv-review-2026",
       "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "9af0ee4f87fce536",
-      "title": "‘Hombre al Agua’ Review: Gael García Bernal Directs and Stars in a Sputtering, Screwball-y Dramedy About One Man’s Identity Crisis",
-      "quote": "Sifting through Gael García Bernal’s recent roles — from the namesake conquistador of Lav Diaz’s “Magellan,” the grieving wife-guy in Piero Messina’s droopy sci-fi “Another End,” and the fast-aging family man of M…",
-      "publisher": "Variety",
-      "author": "Guy Lodge",
-      "date": "2026-09-11T17:15:58+00:00",
-      "link": "https://variety.com/2026/film/reviews/hombre-al-agua-review-gael-garcia-bernal-1236858831/",
-      "image": "https://variety.com/wp-content/uploads/2026/09/117052-HOMBRE_AL_AGUA_-_Esmeralda_Pimentel_and_Gael_Garc__a_Bernal_Credits_La_Corriente_del_Golfo_.jpg",
       "category": "World Cinema"
     },
     {
