@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T20:26:05.618253+00:00",
+  "generated_at": "2026-09-13T04:39:29.355815+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -9,15 +9,202 @@
   ],
   "reviews": [
     {
-      "id": "f9c152dd7f365a8f",
-      "title": "‘The Face of Horror’ Review: Anna Biller’s Medieval Ghost Story Is A Technicolor Fever Dream Of Love, Betrayal & Vengeance — Toronto Film Festival",
-      "quote": "A decade after her sophomore feature The Love Witch, Anna Biller has returned from a whole other era with another technicolor fever dream of female rage. In The Face of Horror, the writer/director updates the Kabuki…",
+      "id": "8dc86896ff57967c",
+      "title": "‘I Play Rocky’ Review: Peter Farrelly’s Sensational Biopic Of The Making Of Stallone’s Classic Is Just As Inspiring As The Original Movie Itself – Toronto Film Festival",
+      "quote": "It is no spoiler to say I am going to reveal the final moments of Peter Farrelly’s fantastic crowd pleasing biopic chronicling the making of the 1976 classic, Rocky, that not only made Sylvester Stallone a major star…",
       "publisher": "Deadline",
-      "author": "Glenn Garner",
-      "date": "2026-09-12T20:13:42+00:00",
-      "link": "https://deadline.com/2026/09/the-face-of-horror-review-anna-billermedieval-ghost-story-1237100318/",
-      "image": "https://deadline.com/wp-content/uploads/2025/12/The-Face-Of-Horror.jpg",
+      "author": "Pete Hammond",
+      "date": "2026-09-13T04:30:21+00:00",
+      "link": "https://deadline.com/2026/09/i-play-rocky-review-peter-farrelly-biopic-tallones-classic-1237100498/",
+      "image": "https://deadline.com/wp-content/uploads/2026/07/DSCF1969_C2-H-2026.webp",
       "category": "World Cinema"
+    },
+    {
+      "id": "dbec17dcc042a965",
+      "title": "Your Mother Your Mother Your Mother review – Mahershala Ali is a grieving hitman in soulful thriller",
+      "quote": "Toronto film festival: the two-time Oscar-winner is an unusual killer in a compelling mix of pulpy action and family drama Latif, the solemn hitman played soulfully by Mahershala Ali, carries diapers in his kill kit. I…",
+      "publisher": "The Guardian",
+      "author": "Radheyan Simonpillai in Toronto",
+      "date": "2026-09-13T04:01:52+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/12/your-mother-your-mother-your-mother-review",
+      "image": "https://i.guim.co.uk/img/media/4775979465f69bdd17d5df9d574f3bca221aa8bf/1053_962_5235_4189/master/5235.jpg?width=140&quality=85&auto=format&fit=max&s=2cfe73cb992583bb52a7fa7e3b474832",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "7268874afa28b838",
+      "title": "Misty Green review – Chris Rock’s jumbled LA drama saved by fiery Rosalind Eleazar",
+      "quote": "Toronto film festival: There’s a stunning lead performance from the breakout British actor but the film surrounding her can’t quite match what she’s bringing There’s a mighty, all-guns-blazing performance at the centre…",
+      "publisher": "The Guardian",
+      "author": "Benjamin Lee in Toronto",
+      "date": "2026-09-13T03:30:51+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/12/misty-green-review-chris-rocks-rosalind-eleazar",
+      "image": "https://i.guim.co.uk/img/media/c9bc0962974e7943bfc9e1cb95165f2f27439952/1000_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=8deede3b90d5945e9c8e8924dc4744d4",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "7a4a753b3cd9a10a",
+      "title": "‘Misty Green’ Review: Rosalind Eleazar Is a Revelation in Chris Rock’s Sharply Observed Love-Hate Portrait of the Hollywood Hustle",
+      "quote": "The character study centers on a talented but self-sabotaging actress and singer looking to restart her career, with an ensemble that includes the writer-director alongside Adam Driver, Daniel Kaluuya and Anna Kendrick.",
+      "publisher": "The Hollywood Reporter",
+      "author": "David Rooney",
+      "date": "2026-09-13T03:30:00+00:00",
+      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/misty-green-review-rosalind-eleazar-chris-rock-1236698536/",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "b5225bbf4d79abc6",
+      "title": "‘Misty Green’ Review: Rosalind Eleazar Is The Whole Show In Chris Rock’s Sizzling Hollywood Portrait Of A Down And Out Emmy Winner Whose Career Is On The Skids – Toronto Film Festival",
+      "quote": "I have to confess I am a sucker for down-on-your-luck Hollywood stories, especially movies about actresses who once had success and are now scraping the bottom. Of course there is the classic of classics, Sunset…",
+      "publisher": "Deadline",
+      "author": "Pete Hammond",
+      "date": "2026-09-13T03:30:00+00:00",
+      "link": "https://deadline.com/2026/09/misty-green-review-rosalind-eleazar-chris-rock-hollywood-1237099694/",
+      "image": "https://deadline.com/wp-content/uploads/2026/07/Screenshot-2026-07-22-at-14.02.44.png",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "eae7b54293628775",
+      "title": "FCC Chairman Brendan Carr Accuses James Talarico Of Running A “Hoax” With Jimmy Kimmel Sit Down; YouTube Interview Nears 7 Million Views",
+      "quote": "As Jimmy Kimmel’s interview with James Talarico nears 7 million views on YouTube, FCC Chairman Brendan Carr weighed in on Saturday evening, accusing the Texas U.S. Senate candidate of orchestrating a “hoax” to drive up…",
+      "publisher": "Deadline",
+      "author": "Ted Johnson",
+      "date": "2026-09-13T02:09:10+00:00",
+      "link": "https://deadline.com/2026/09/jimmy-kimmel-james-talarico-fcc-1237100486/",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/GettyImages-2262365040.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "30e889b8ee48f1df",
+      "title": "‘The Surgeon’ Review: Michelle Yeoh Goes All John Wick Taking Her Scalpel To The Bad Guys – Toronto Film Festival",
+      "quote": "After supporting roles in blockbusters like Wicked, Michelle Yeoh has her first all out starring role since winning the Best Actress Oscar for Everything Everywhere All At Once three years ago. Considering her expertise…",
+      "publisher": "Deadline",
+      "author": "Pete Hammond",
+      "date": "2026-09-13T02:05:00+00:00",
+      "link": "https://deadline.com/2026/09/the-surgeon-review-michelle-yeoh-toronto-film-festival-1237099602/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/the_surgeon_01.webp",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "5d9afc8f04e7c05c",
+      "title": "‘The Surgeon’ Review: Michelle Yeoh Plays a Kidnapped Doctor Trying to Outwit Her Captors in Deliriously Fun Genre-Bender",
+      "quote": "Martin Freeman has a supporting role as a crime boss in this film from Roshan Sethi ('A Nice Indian Boy'), premiering in Toronto.",
+      "publisher": "The Hollywood Reporter",
+      "author": "Caryn James",
+      "date": "2026-09-13T02:02:00+00:00",
+      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/the-surgeon-review-michelle-yeoh-roshan-sethi-1236697664/",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "7233584dab5fc82b",
+      "title": "Bill Dubuque Crime-Drama ‘M.I.A.’ Canceled At Peacock After One Season",
+      "quote": "EXCLUSIVE: Peacock has canceled the Miami-set crime-drama series M.I.A. after one season. The series, from creator, writer, and executive producer Bill Dubuque, premiered on May 7 with all 9 hour-long episodes…",
+      "publisher": "Deadline",
+      "author": "Rosy Cordero",
+      "date": "2026-09-13T01:00:00+00:00",
+      "link": "https://deadline.com/2026/09/bill-dubuque-series-m-i-a-canceled-peacock-1237100435/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/NUP_207360_01829.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "bdd8a9f9c0ddf1a7",
+      "title": "‘NAZA’ Review: Israeli Military Accused Of Depraved Indifference To Palestinian Life, Using AI To Kill In Gaza – Venice Film Festival",
+      "quote": "The devastating documentary NAZA, an investigation into Israel’s mass killing of civilians in Gaza, was shot at night on rooftops in Tel Aviv, in part to avoid potential Israeli eavesdropping, presumably, and to…",
+      "publisher": "Deadline",
+      "author": "Matthew Carey",
+      "date": "2026-09-13T00:56:22+00:00",
+      "link": "https://deadline.com/2026/09/naza-review-venice-film-festival-1237100430/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/NAZA-still.png",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "6d93adfebe9740b1",
+      "title": "‘Babies’ Review: Lauren Miller Rogen Film Is A Witty, Heartfelt Exploration Of Childless Adulthood & Chosen Family – Toronto Film Festival",
+      "quote": "After years of fielding questions about whether she wants to be a mom, Lauren Miller Rogen gives the definitive answer in the form of her witty, heartfelt comedy Babies. Written and directed by Miller Rogen, Babies…",
+      "publisher": "Deadline",
+      "author": "Lynette Rice",
+      "date": "2026-09-13T00:17:00+00:00",
+      "link": "https://deadline.com/2026/09/babies-review-lauren-miller-rogen-film-is-a-witty-heartfelt-exploration-of-childless-adulthood-chosen-family-toronto-film-festival-1237100427/",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Babies-e1789244078500.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "2f313f47f7e2b3b4",
+      "title": "Netflix Developing ‘Diablo’ Animated Series",
+      "quote": "The Diablo video game is coming to Netflix. Blizzard Entertainment chief Johanna Faries revealed at BlizzCon in Anaheim Saturday that the streamer is adapting the game as an animated series. Here’s the description of…",
+      "publisher": "Deadline",
+      "author": "Lynette Rice",
+      "date": "2026-09-12T23:01:00+00:00",
+      "link": "https://deadline.com/2026/09/netflix-developing-diablo-animated-series-1237100389/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Screenshot-2026-09-12-at-3.58.15-PM.png",
+      "category": "World Cinema"
+    },
+    {
+      "id": "2b8f0bacf7fb87bb",
+      "title": "Silo Author Hugh Howey Thinks One Beloved Sci-Fi Book Changed His Writing (For The Better)",
+      "quote": "Silo author Hugh Howey is very fond of the 2019 novel This is How You Lose the Time War by Amal El-Mohtar and Max Gladstone.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Witney Seibold)",
+      "date": "2026-09-12T23:00:00+00:00",
+      "link": "https://www.slashfilm.com/2253933/silo-hugh-howey-sci-fi-book-changed-writing-this-is-how-you-lose-the-time-war/",
+      "image": "https://www.slashfilm.com/img/gallery/silo-author-hugh-howey-thinks-one-beloved-sci-fi-book-changed-his-writing-for-the-better/l-intro-1788972840.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "559ea095dfbc8c8f",
+      "title": "This Acclaimed '90s Sci-Fi Show Created By Two X-Files Writers Was Canceled Too Soon",
+      "quote": "After writing for The X-Files, Glen Morgan and James Wong left to create this sci-fi series that was canceled after only one season.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Witney Seibold)",
+      "date": "2026-09-12T22:00:00+00:00",
+      "link": "https://www.slashfilm.com/2247912/the-x-files-writers-90s-sci-fi-show-space-above-and-beyond-canceled/",
+      "image": "https://www.slashfilm.com/img/gallery/this-acclaimed-90s-sci-fi-show-created-by-two-x-files-writers-was-canceled-too-soon/l-intro-1788200564.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "b79cfad1e089e797",
+      "title": "Star Trek Legend Leonard Nimoy Guest-Starred As 3 Different Characters In This Western Series",
+      "quote": "Star Trek fans are likely aware of Leonard Nimoy's history as a Western TV star, but many might not know he played three characters on one series.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Witney Seibold)",
+      "date": "2026-09-12T21:45:00+00:00",
+      "link": "https://www.slashfilm.com/2253425/star-trek-leonard-nimoy-guest-starred-western-series-broken-arrow/",
+      "image": "https://www.slashfilm.com/img/gallery/star-trek-legend-leonard-nimoy-guest-starred-as-3-different-characters-in-this-western-series/l-intro-1788907899.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "e647c8e296df69d1",
+      "title": "Woman Unknown wins Venice film festival as NAZA takes special jury prize",
+      "quote": "May el-Toukhy becomes eighth female director to take Golden Lion as Lee Chang-dong’s Possible Love and Guardian-produced exposé of Israel’s Gaza killings also awarded Bold and bravura choices as Venice celebrates A…",
+      "publisher": "The Guardian",
+      "author": "Philip Oltermann European culture editor",
+      "date": "2026-09-12T21:17:08+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/12/woman-unknown-wins-venice-film-festival-as-naza-takes-special-jury-prize",
+      "image": "https://i.guim.co.uk/img/media/e728a70a17ef1893740beef47281ee0b88d48838/316_0_3616_2894/master/3616.jpg?width=140&quality=85&auto=format&fit=max&s=caa584783eabcb3ecc102d7950f3162b",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "bd23e46fc28e0942",
+      "title": "Bold and bravura choices as Venice celebrates A Woman Unknown, Possible Love – and NAZA",
+      "quote": "After facing heavy criticism over its lack of female directors, the film festival may have redeemed itself with its winners’ list Woman Unknown wins Venice film festival as NAZA takes special jury prize Did the Venice…",
+      "publisher": "The Guardian",
+      "author": "Peter Bradshaw",
+      "date": "2026-09-12T21:07:33+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/12/bold-bravura-choices-venice-film-festival-woman-unknown-possible-love-naza",
+      "image": "https://i.guim.co.uk/img/media/eafbbcb2d816155ec192c9d1c235d0d778902bb9/567_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=59f98de8507adfeefa317bbc217c9e0b",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "182e6d05a919ecc5",
+      "title": "Planet's most boring parents score big win as Little Tikes rolls out new \"soulless beige\" line of toys",
+      "quote": "Finally: A silly toy car for parents sick of their stupid beautiful children clashing with their overall aesthetic.",
+      "publisher": "The A.V. Club",
+      "author": "William Hughes",
+      "date": "2026-09-12T20:16:04+00:00",
+      "link": "https://www.avclub.com/little-tikes-cozy-coupe-soulless-beige",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/12160439/little-tikes-beige2-feature.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "7b0c32105cb894c5",
@@ -31,28 +218,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "045ec82e9f434741",
-      "title": "Glen Basner & Roeg Sutherland Open Their Global Sales Playbook: “You Have To Reset Yourself Every Two Weeks” — TIFF: The Market",
-      "quote": "Glen Basner and Roeg Sutherland opened their global sales playbook at TIFF: The Market. The duo discussed the realities of working in the modern-day independent film business during a conference session at TIFF’s…",
-      "publisher": "Deadline",
-      "author": "Stewart Clarke",
-      "date": "2026-09-12T19:51:16+00:00",
-      "link": "https://deadline.com/2026/09/glen-basner-roeg-sutherland-indie-film-sales-playbook-tiff-1237100104/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/tiff-the-market-2.jpg",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "9e6e60a6d9b8bd8b",
-      "title": "Gary Myers Dies: NASCAR Driver, Patriarch Of Racing Family Was 76",
-      "quote": "Gary Myers, the former NASCAR driver, stock car legend and patriarch of a noted racing family, died Thursday, September 10, following an extended period of ill health. He was 76. His death was announced on Facebook by…",
-      "publisher": "Deadline",
-      "author": "Greg Evans",
-      "date": "2026-09-12T19:15:56+00:00",
-      "link": "https://deadline.com/2026/09/gary-myers-dead-1237100249/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/myers.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "08f16874adb64847",
       "title": "'Woman Unknown' wins top prize at Venice Film Festival as lone female contender triumphs",
       "quote": "John Malkovich named best actor; Israeli-made Gaza documentary wins special jury prize",
@@ -62,6 +227,28 @@
       "link": "https://www.thehindu.com/entertainment/venice-film-festival-woman-unknown-golden-lion-winners/article71461322.ece",
       "image": "https://th-i.thgim.com/public/incoming/cc90p8/article71461326.ece/alternates/LANDSCAPE_1200/AFP_C8698A2.jpg",
       "category": "Festival Winners"
+    },
+    {
+      "id": "e075555121d1f159",
+      "title": "Netflix announces Diablo animated series",
+      "quote": "Blizzard also announced that <i>Diablo V</i> is coming in 2029.",
+      "publisher": "The A.V. Club",
+      "author": "William Hughes",
+      "date": "2026-09-12T19:10:31+00:00",
+      "link": "https://www.avclub.com/netflix-announces-diablo-animated-series-blizzard",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/12150416/diablo-4-lilith2-feature.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "6278f202b9de2c43",
+      "title": "Courteney Cox would like to direct a Scream",
+      "quote": "Cox expressed interest as she promoted her next directorial effort, <i>Evil Genius</i>.",
+      "publisher": "The A.V. Club",
+      "author": "Jarrod Jones",
+      "date": "2026-09-12T19:05:29+00:00",
+      "link": "https://www.avclub.com/courteney-cox-would-like-to-direct-a-scream-movie",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/12145747/scream-header.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "9ed28b611876c3d1",
@@ -86,6 +273,28 @@
       "category": "Indian Cinema"
     },
     {
+      "id": "4f7a6fb8ed4c89b9",
+      "title": "‘Oasis’ Review: A Sleek, Strange Parable about Bullying and Bonding at the Most Difficult Age",
+      "quote": "The difficult teenage years are sometimes characterized as a wasteland, but more resemble a forest for the interdependent trio at the sinking heart of Jannis Lenz’s “Oasis,” the German-born, Austrian-trained filmmaker’s…",
+      "publisher": "Variety",
+      "author": "Jessica Kiang",
+      "date": "2026-09-12T18:27:09+00:00",
+      "link": "https://variety.com/2026/film/reviews/oasis-review-1236859441/",
+      "image": "https://variety.com/wp-content/uploads/2026/09/Oasis.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "6076db03fd360504",
+      "title": "The Odyssey just became Universal's highest-grossing movie ever",
+      "quote": "Somewhere, a Warner Bros. executive is staring into the darkness, imagining how much money they lost by pissing off Nolan with <i>Tenet</i> back in 2020.",
+      "publisher": "The A.V. Club",
+      "author": "William Hughes",
+      "date": "2026-09-12T18:14:48+00:00",
+      "link": "https://www.avclub.com/odyssey-universals-highest-grossing-movie-ever",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/07/21145122/odyssey-myth-header.jpg",
+      "category": "Indie Gems"
+    },
+    {
       "id": "71126c1a78f87da3",
       "title": "A Marvel TV Star Headlined One Of The Best Superhero Movies You've Never Seen",
       "quote": "Superhero movies exist beyond the DC and Marvel Cinematic Universe, and this super-powered character drama is a must see.",
@@ -108,17 +317,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "4d647222adff3df0",
-      "title": "Searchlight’s Matthew Greenfield On Getting People Into Movie Theaters & Finding New Talent On YouTube — TIFF: The Market",
-      "quote": "Searchlight Pictures boss Matthew Greenfield broke down how YouTube has become fertile ground for finding new stories and filmmakers. The Searchlight Pictures boss also spoke about the battle with familiarity and the…",
-      "publisher": "Deadline",
-      "author": "Stewart Clarke",
-      "date": "2026-09-12T17:35:00+00:00",
-      "link": "https://deadline.com/2026/09/searchlight-matthew-greenfield-on-youtube-and-filmmaking-1237100025/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-12-at-11.15.39-AM.jpeg",
-      "category": "Festival Winners"
-    },
-    {
       "id": "2141acf1c9c37a56",
       "title": "‘The Fire Within You’ Review: A Monstrous Mama Unleashes in an Admirable but Draining Italian Comedy-Drama Set on a Miserable Christmas Eve",
       "quote": "This Venice competitor from Edoardo De Angelis stars Vanessa Scalera as a caustic matriarch hosting family members whom she subjects to constant and withering criticism.",
@@ -128,6 +326,17 @@
       "link": "https://www.hollywoodreporter.com/movies/movie-reviews/the-fire-within-you-review-1236697486/",
       "image": null,
       "category": "World Cinema"
+    },
+    {
+      "id": "a4b5680038b8de6d",
+      "title": "Nashville International Airport changing its name to honor Dolly Parton",
+      "quote": "The Metropolitan Nashville Airport Authority cast a unanimous 6-0 vote to rename the site after the Queen Of Country.",
+      "publisher": "The A.V. Club",
+      "author": "Jarrod Jones",
+      "date": "2026-09-12T17:01:42+00:00",
+      "link": "https://www.avclub.com/nashville-international-airport-to-honor-dolly-parton-with-name-change",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2019/10/14173333/wvsouqs5kohx2rz0nzg4.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "1aeec8f4f98b3485",
@@ -141,48 +350,15 @@
       "category": "Indie Gems"
     },
     {
-      "id": "814055433b5fdf7a",
-      "title": "Venice 2026 Winners: May El-Toukhy’s ‘Woman Unknown’ Wins Golden Lion For Best Film",
-      "quote": "Danish director May El-Toukhy’s Woman Unknown has won the Golden Lion for Best Film at the 83rd Venice Film Festival. The post-World War Two psychological thriller was directed by one of just two female directors in the…",
-      "publisher": "Deadline",
-      "author": "Melanie Goodfellow",
-      "date": "2026-09-12T16:56:24+00:00",
-      "link": "https://deadline.com/2026/09/venice-winners-2026-1237100060/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2294923021.jpg",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "70ed779188a942dd",
-      "title": "‘ER’s Big Payday: How Hit Medical Drama Scored Record $13M An Episode From NBC – Book Excerpt",
-      "quote": "ER was an instant hit when it premiered on NBC in October 1994. But the project had not been an easy sell: it was created by an author, Michael Crichton, with no television record and conceived in a style drastically…",
-      "publisher": "Deadline",
-      "author": "Nellie Andreeva",
-      "date": "2026-09-12T16:47:33+00:00",
-      "link": "https://deadline.com/2026/09/er-license-fee-battle-nbc-oral-histiory-book-excerpt-1237098591/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Lynette-Rice-ER-The-Oral-History.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "3b87fbb0fe9c073c",
-      "title": "Courteney Cox Is Ready To Direct A ‘Scream’ Movie: “I Think I Should”",
-      "quote": "As Courteney Cox returns to the director’s chair for her sophomore feature Evil Genius, she’s ready to take on a franchise she’s been with for 30 years. While discussing the TIFF true-crime film at the Deadline Studio…",
-      "publisher": "Deadline",
-      "author": "Glenn Garner",
-      "date": "2026-09-12T16:46:52+00:00",
-      "link": "https://deadline.com/2026/09/courteney-cox-ready-direct-scream-movie-1237099746/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/P1082OD6-e1789182038584.jpg",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "ec09ec430f4b3f69",
-      "title": "‘Practical Magic 2’ Still Hoping To Conjure $30M U.S. Opening – Box Office Update",
-      "quote": "SATURDAY AM: Well, it’s clear, the summer moviegoing pace is over at the box office with fall distractions setting in as the entire weekend at $84.4M expected to be -32% off from a year ago ($124.5M) when Warner…",
-      "publisher": "Deadline",
-      "author": "Anthonypauldalessandro",
-      "date": "2026-09-12T16:45:00+00:00",
-      "link": "https://deadline.com/2026/09/box-office-practical-magic-2-weekend-1237098516/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/MCDPRMA_WB002.jpg",
-      "category": "World Cinema"
+      "id": "2c56ac37d6aa7c7e",
+      "title": "Paramount files new legal statement saying states' antitrust suit misses the whole point of the merger",
+      "quote": "The studio is arguing that the goal of the $111 billion merger is to make the combined Paramount competitive with Netflix and Amazon, not rival studios.",
+      "publisher": "The A.V. Club",
+      "author": "William Hughes",
+      "date": "2026-09-12T16:28:27+00:00",
+      "link": "https://www.avclub.com/paramount-legal-document-states-antitrust-doesnt-have-juice",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/06105009/MixCollage-06-Aug-2026-10-48-AM-5098.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "ca9378625c7ab85c",
@@ -218,6 +394,17 @@
       "category": "Indian Cinema"
     },
     {
+      "id": "43880e57495d63fb",
+      "title": "Sarah Jessica Parker to reunite with her Family Stone cast for sequel",
+      "quote": "<i>The Families Stone</i> is expected to begin its New York production later this year.",
+      "publisher": "The A.V. Club",
+      "author": "Jarrod Jones",
+      "date": "2026-09-12T15:53:16+00:00",
+      "link": "https://www.avclub.com/the-family-stone-sequel-announced-families-stone",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/12113250/stone-header.jpg",
+      "category": "Indie Gems"
+    },
+    {
       "id": "c4e276254c4b1fc0",
       "title": "When Ajith Kumar and Vijay shared the screen: a look at ‘Rajavin Parvaiyile’",
       "quote": "The two stars, pitted as rivals in cinema, met at the Silverstone racing circuit in London on Saturday",
@@ -240,6 +427,17 @@
       "category": "World Cinema"
     },
     {
+      "id": "4b8c254775b1d6c6",
+      "title": "‘Boatbuilders’ Review: A Mellow Maine Boatyard Study That Offers All the Quiet Rewards of Fine Craftsmanship in Action",
+      "quote": "There are few things as calmingly enjoyable as the modest, closeup spectacle of an expert craftsman at work. Whether the trade is cooking or carpentry, watching them ply their trade with equal parts ease and intense…",
+      "publisher": "Variety",
+      "author": "Guy Lodge",
+      "date": "2026-09-12T15:33:54+00:00",
+      "link": "https://variety.com/2026/film/reviews/boatbuilders-review-1236859475/",
+      "image": "https://variety.com/wp-content/uploads/2026/08/Boatbuilders.jpg",
+      "category": "World Cinema"
+    },
+    {
       "id": "a59ec73899cb5a0a",
       "title": "Everybody Wants to F*ck Me review – Taron Egerton is hounded in sharp-toothed dating nightmare",
       "quote": "Toronto film festival: It’s Get Out meets the viral Shitty Media Men list in this hugely entertaining mix of dark comedy and stalker thriller with a brilliant alternating turn from Taron Egerton Everyone knows an Adam…",
@@ -249,17 +447,6 @@
       "link": "https://www.theguardian.com/film/2026/sep/12/everybody-wants-to-fck-me-review-taron-egerton",
       "image": "https://i.guim.co.uk/img/media/057779f23aa49f6c37b6cacd1674e6fdafbe67c2/425_0_4167_3334/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=2fd3212d31b1305cf846a0de8ae6cc1f",
       "category": "World Cinema"
-    },
-    {
-      "id": "33b4a3b305cf813b",
-      "title": "10 Worst Marvel Post-Credits Scenes, Ranked",
-      "quote": "Marvel Studios made credits scenes a big deal after Iron Man in 2008, but they haven't all been a treat to wait for. Here are the worst Marvel credits scenes.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Sam Stone)",
-      "date": "2026-09-12T15:10:00+00:00",
-      "link": "https://www.slashfilm.com/2252696/worst-marvel-post-credits-scenes-ranked/",
-      "image": "https://www.slashfilm.com/img/gallery/10-worst-marvel-post-credits-scenes-ranked/l-intro-1788880447.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "37b07ca20cc36681",
@@ -273,6 +460,17 @@
       "category": "World Cinema"
     },
     {
+      "id": "83d5b2e07bffdc20",
+      "title": "Gary Oldman expects HBO's Harry Potter will satisfy fans",
+      "quote": "The actor played wizard Sirius Black in the original Warner Bros. films.",
+      "publisher": "The A.V. Club",
+      "author": "Jarrod Jones",
+      "date": "2026-09-12T14:35:42+00:00",
+      "link": "https://www.avclub.com/gary-oldman-says-hbo-harry-potter-will-make-fans-happy",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/12100600/oldman-header.jpg",
+      "category": "Indie Gems"
+    },
+    {
       "id": "4c6eaf7dde8b89f9",
       "title": "Jeremy Thomas, British producer of The Last Emperor and Sexy Beast, dies aged 77",
       "quote": "An outstanding figure in the UK film industry, Thomas was noted for collaborations with directors including Bernardo Bertolucci and David Cronenberg Jeremy Thomas, the distinguished British producer of films including…",
@@ -282,28 +480,6 @@
       "link": "https://www.theguardian.com/film/2026/sep/12/jeremy-thomas-producer-the-last-emperor-sexy-beast-dies",
       "image": "https://i.guim.co.uk/img/media/6b06745edf445ea166680dbd5bbe6451c687cab1/0_68_1000_800/master/1000.jpg?width=140&quality=85&auto=format&fit=max&s=21334c6fb34bb167d7fe422421bb9aee",
       "category": "Festival Winners"
-    },
-    {
-      "id": "00c3e36f480dcc0e",
-      "title": "Roy Scheider's Prematurely Canceled '90s Sci-Fi Series Deserves A Reboot",
-      "quote": "Roy Scheider starred in this canceled '90s sci-fi series, itself a show that absolutely merits a modern-day revival or reboot.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Witney Seibold)",
-      "date": "2026-09-12T14:00:00+00:00",
-      "link": "https://www.slashfilm.com/2253283/roy-scheider-90s-sci-fi-series-seaquest-dsv-canceled/",
-      "image": "https://www.slashfilm.com/img/gallery/roy-scheiders-prematurely-canceled-90s-sci-fi-series-deserves-a-reboot/l-intro-1788898920.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "64405d256fa55108",
-      "title": "Girl Group review – Rebel Wilson’s dreadful music comedy is a spice-free wannabe",
-      "quote": "Toronto film festival: the actor turned writer-director’s ode to girl groups is a shoddily made and embarrassingly unfunny catastrophe There were plentiful on-paper delights for certain music fans of a certain…",
-      "publisher": "The Guardian",
-      "author": "Benjamin Lee in Toronto",
-      "date": "2026-09-12T13:20:23+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/12/girl-group-review-rebel-wilson",
-      "image": "https://i.guim.co.uk/img/media/365ce48b19c915ff59d8a1c617da6b54d11ee4ad/526_0_1757_1406/master/1757.jpg?width=140&quality=85&auto=format&fit=max&s=b8bff6cdb554cbffab5b1e3a79d6dd09",
-      "category": "World Cinema"
     },
     {
       "id": "62eeae1f92eadede",
@@ -328,17 +504,6 @@
       "category": "Festival Winners"
     },
     {
-      "id": "c77a44a672bc5997",
-      "title": "Leif Erickson's '60s Cult Horror Classic Is Worth Revisiting For Free This Weekend",
-      "quote": "Be careful not to lose your head when watching William Castle's classic horror movie Strait-Jacket, starring Leif Erickson and Joan Crawford.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Jeremy Smith)",
-      "date": "2026-09-12T11:45:00+00:00",
-      "link": "https://www.slashfilm.com/2255583/leif-erickson-60s-horror-classic-strait-jacket-streaming-free-youtube/",
-      "image": "https://www.slashfilm.com/img/gallery/leif-ericksons-60s-cult-horror-classic-is-worth-revisiting-for-free-this-weekend/l-intro-1789081017.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "6c3c7f1ed03e83d0",
       "title": "Six Oscar contenders from the Venice Film Festival",
       "quote": "From a wild-eyed performance by R-Patz to a short film about Marilyn at 100",
@@ -347,6 +512,17 @@
       "date": "2026-09-12T11:00:00+00:00",
       "link": "https://www.bbc.com/culture/article/20260911-six-of-the-best-oscar-contenders-from-the-2026-venice-film-festival?ocid=global_culture_rss",
       "image": "https://ychef.files.bbci.co.uk/144x81/p0p95nmz.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "de372b966cc1802c",
+      "title": "‘Dau’ Review: Ilya Khrzhanovsky’s Vast Cinematic Experiment in Historical World-Building Remains More Impressive From a Distance",
+      "quote": "More than six years after Ilya Khrzhanovsky premiered “DAU. Natasha” and “DAU. Degeneration” at the Berlin Film Festival — right before the global COVID lockdown — to a politely muted reception and limited distributor…",
+      "publisher": "Variety",
+      "author": "Guy Lodge",
+      "date": "2026-09-12T10:49:39+00:00",
+      "link": "https://variety.com/2026/film/reviews/dau-review-1236857375/",
+      "image": "https://variety.com/wp-content/uploads/2026/08/dau.jpg",
       "category": "Festival Winners"
     },
     {
@@ -361,14 +537,14 @@
       "category": "Indian Cinema"
     },
     {
-      "id": "3ff602b81160fa90",
-      "title": "Extended reality takes visitors from the ruins of West Bank to 17th-century Amsterdam at Venice Immersive",
-      "quote": "From frivolous to serious, virtual nosy passersby to the impact of climate change, the groundbreaking festival draws to a close – but this year the exhibits live on The first installation one encounters on visiting…",
-      "publisher": "The Guardian",
-      "author": "Xan Brooks in Venice",
-      "date": "2026-09-12T07:00:29+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/12/extended-reality-takes-visitors-from-the-ruins-of-west-bank-to-17th-century-amsterdam-at-venice-immersive",
-      "image": "https://i.guim.co.uk/img/media/af980df5ff44d6b942f74ea758b190b8c5f8bdc4/242_0_1349_1080/master/1349.jpg?width=140&quality=85&auto=format&fit=max&s=c8d6718403598d693d4ed5f24e9a492a",
+      "id": "92ccdf2f22d80451",
+      "title": "The Stunt Driver",
+      "quote": "A movie with a trunkload of love for its insane protagonist that doesn’t quite sell why this story needs to be told again.",
+      "publisher": "RogerEbert.com",
+      "author": "Brian Tallerico",
+      "date": "2026-09-12T04:17:34+00:00",
+      "link": "https://www.rogerebert.com/reviews/the-stunt-driver-jay-baruchel-movie-review-2026",
+      "image": null,
       "category": "World Cinema"
     },
     {
@@ -385,68 +561,13 @@
     {
       "id": "c889c30efcea9c36",
       "title": "Being Heumann",
-      "quote": "A stellar example of a film that wholeheartedly believes in the power of its story and message.",
+      "quote": "A film that wholeheartedly believes in the power of its story and message.",
       "publisher": "RogerEbert.com",
       "author": "Zachary Lee",
       "date": "2026-09-12T00:54:30+00:00",
       "link": "https://www.rogerebert.com/reviews/being-heumann-sian-heder-apple-tv-documentary-movie-review-2026",
       "image": null,
       "category": "World Cinema"
-    },
-    {
-      "id": "9b79e1b3eb882d06",
-      "title": "A24 somehow making an SCP movie without anybody from The SCP Foundation involved",
-      "quote": "\"The SCP Foundation Wiki is not involved with the film in any way,\" representatives for the online horror collective said of A24's <i>V/H/S/: SCP</i>.",
-      "publisher": "The A.V. Club",
-      "author": "William Hughes",
-      "date": "2026-09-12T00:43:41+00:00",
-      "link": "https://www.avclub.com/a24-scp-vhs-movie-without-scp-foundation",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/04/29113335/MixCollage-29-Apr-2026-11-33-AM-8516.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "9f789ec998af73ac",
-      "title": "Digger reportedly not a musical, just weirdly marketed",
-      "quote": "As conspiracy theories about the new Oscar play from Tom Cruise and Alejandro G. Iñárritu spread, insiders say there’s no song and dance at play here.",
-      "publisher": "The A.V. Club",
-      "author": "Matt Schimkowitz",
-      "date": "2026-09-11T23:23:27+00:00",
-      "link": "https://www.avclub.com/digger-not-a-musical-conspiracy-theory",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/11190655/digger-feature.jpg",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "009049d82dc63266",
-      "title": "Paramount and California to at least pretend to try to settle their Warner Bros. grudge match",
-      "quote": "Amid threats, ticking fees, and heels digging in on both sides, Paramount and California will at least explore the possibility of settling their grudge match.",
-      "publisher": "The A.V. Club",
-      "author": "William Hughes",
-      "date": "2026-09-11T22:55:28+00:00",
-      "link": "https://www.avclub.com/california-paramount-set-settlement-negotiation-dates",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2025/11/03125222/videoframe_13938.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "0478aa20737545ed",
-      "title": "More parents sue Meta over how it treats their children",
-      "quote": "Two parents and their children in Illinois and California have sued the social media giant over unreleased facial recognition software tied to Meta's smart glasses.",
-      "publisher": "The A.V. Club",
-      "author": "Matt Schimkowitz",
-      "date": "2026-09-11T21:50:39+00:00",
-      "link": "https://www.avclub.com/meta-faceprint-lawsuit-mark-zuckerberg",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2025/09/19100601/videoframe_74524.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "f9495d4b81632b93",
-      "title": "ABC's reportedly looking to drastically cut Kimmel's budget",
-      "quote": "Reports suggest Jimmy Kimmel is being asked to reduce <i>Live!</i>'s budget by 20 percent to stay on the air for another year.",
-      "publisher": "The A.V. Club",
-      "author": "William Hughes",
-      "date": "2026-09-11T21:16:00+00:00",
-      "link": "https://www.avclub.com/abcs-reportedly-looking-to-drastically-cut-kimmels-budget",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2025/09/26101357/videoframe_364532.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "3df1635a8dd447e8",
@@ -471,17 +592,6 @@
       "category": "Festival Winners"
     },
     {
-      "id": "13fbc96729e07ac1",
-      "title": "Faith review – intense performances power startling and unsettling tale of mysterious suitor",
-      "quote": "Toronto film festival: Erin Doherty plays a happily single mother in a downbeat town courted by an enigmatic James McAvoy in this expertly taut drama Erin Doherty and James McAvoy both bring their A-game in this…",
-      "publisher": "The Guardian",
-      "author": "Peter Bradshaw",
-      "date": "2026-09-11T20:30:14+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/11/faith-review-erin-doherty-james-mcavoy",
-      "image": "https://i.guim.co.uk/img/media/1b5808a995b901e5b3d38dbc1bd8e375b3ae4001/107_47_1007_806/master/1007.jpg?width=140&quality=85&auto=format&fit=max&s=fa19057fc848e84129b2ab8c46c68eb0",
-      "category": "World Cinema"
-    },
-    {
       "id": "d4e091601b611957",
       "title": "‘Faith’ Review: Erin Doherty and James McAvoy Excel in a Sensitive Drama That Goes Off the Rails in the Final Reel",
       "quote": "The actors play working-class Brits navigating the early stage of a relationship in this TIFF premiere from director Paul Andrew Williams.",
@@ -491,28 +601,6 @@
       "link": "https://www.hollywoodreporter.com/movies/movie-reviews/faith-review-erin-doherty-james-mcavoy-1236696608/",
       "image": null,
       "category": "Festival Winners"
-    },
-    {
-      "id": "18c353bf297f657f",
-      "title": "Great Job, Internet!: Elephant Graveyard takes Comedy Mothership back to Planet Rogan",
-      "quote": "Elephant Graveyard examines the comedy crash-out of the Joe Rogan extended universe, their billionaire buddies, and Carlos Mencia.",
-      "publisher": "The A.V. Club",
-      "author": "Matt Schimkowitz",
-      "date": "2026-09-11T20:22:42+00:00",
-      "link": "https://www.avclub.com/gji-elephant-graveyard-comedy-cataclysm-video",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2025/10/21093846/joe-rogan-october-2025-screenshot-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "16a10f34dbaf14d5",
-      "title": "AMC hangs ten with Point Break sequel series greenlight",
-      "quote": "The network plans to start production in early 2027.",
-      "publisher": "The A.V. Club",
-      "author": "Jarrod Jones",
-      "date": "2026-09-11T19:48:07+00:00",
-      "link": "https://www.avclub.com/amc-greenlights-point-break-series",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/11154250/point-break-header.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "21a17dffb5d25b58",
@@ -537,17 +625,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "27f2938a26e53222",
-      "title": "George W. Bush paints his way through 9/11 anniversary",
-      "quote": "The former President posted a portrait of his infamous reaction to the 2001 terrorist attacks on Instagram.",
-      "publisher": "The A.V. Club",
-      "author": "Dennis Perkins",
-      "date": "2026-09-11T18:45:58+00:00",
-      "link": "https://www.avclub.com/george-w-bush-painting-9-11-anniversary",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/11144257/Bush-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "5654a3420d6e597d",
       "title": "‘Magazine’ Review: A Keenly Observed Snapshot of a Young Woman’s Coming of Age Within an Industry on the Brink",
       "quote": "Lily McInerny stars with Jake Lacy and Lukita Maxwell in Alexandra Pechman's directorial debut, following an aspiring poet who interns at a prestigious literary mag in 2010s New York.",
@@ -570,17 +647,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "9cdfb2a3e8e694a5",
-      "title": "River review – so-so survival slasher offers more of the same and little else",
-      "quote": "Toronto film festival: strong performances from two experienced scream queens and some surprisingly thoughtful direction can’t elevate yet another stalk-by-numbers horror It would be unwise and unfair to expect that…",
-      "publisher": "The Guardian",
-      "author": "Benjamin Lee in Toronto",
-      "date": "2026-09-11T18:08:05+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/11/river-movie-review",
-      "image": "https://i.guim.co.uk/img/media/0e6919ca3b872dc01748d62a8c7b5c346fc87ca0/926_0_4628_3703/master/4628.jpg?width=140&quality=85&auto=format&fit=max&s=bc384029057b06f49adbfd037bf59717",
-      "category": "Festival Winners"
-    },
-    {
       "id": "c33276694f18dfab",
       "title": "American Hostage",
       "quote": "Never as satisfying as it could or should have been, even if we didn’t see this story in film earlier this year.",
@@ -588,17 +654,6 @@
       "author": "Brian Tallerico",
       "date": "2026-09-11T18:00:00+00:00",
       "link": "https://www.rogerebert.com/reviews/american-hostage-jon-hamm-tv-review-2026",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "cf9b5147688c9cfb",
-      "title": "‘A Bit of Light’ Review: A Despondent Man Stumbles Into a Renewed Sense of Connection in a Mournful, Quietly Comic Drama From Iran",
-      "quote": "Ali Asgari, one of the writer-directors of ‘Terrestrial Verses,’ enters Venice’s main competition with the story of a persecuted Iranian doctor and his matter-of-fact plan to end his life.",
-      "publisher": "The Hollywood Reporter",
-      "author": "Sheri Linden",
-      "date": "2026-09-11T17:56:23+00:00",
-      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/a-bit-of-light-review-ali-asgari-iran-1236694416/",
       "image": null,
       "category": "World Cinema"
     },
@@ -614,28 +669,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "aa7b922de0e0d1e3",
-      "title": "‘One Minute to Midnight’ Review: A Stellar Cast Deliver Interesting but Overly Preachy Disquisitions on the Changing Nature of Male-Female Relations",
-      "quote": "Nicolas Pariser makes solid, philosophically absorbed films — like “The Great Game” and “Alice and the Mayor” — that make no apologies for engaging with social and political trends. Classically directed and always…",
-      "publisher": "Variety",
-      "author": "Guy Lodge",
-      "date": "2026-09-11T16:10:07+00:00",
-      "link": "https://variety.com/2026/film/reviews/one-minute-to-midnight-review-1236858792/",
-      "image": "https://variety.com/wp-content/uploads/2026/09/113597-UN_PEU_AVANT_MINUIT__ONE_MINUTE_TO_MIDNIGHT__-_Chiara_Mastroianni_and_Melvil_Poupaud.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "26f911bfcbdc8700",
-      "title": "‘A Bit of Light’ Review: A Life-Affirming Drama About a Suicidal Iranian Doctor",
-      "quote": "Although its story unspools on the precipice of the U.S.-Iran war, Ali Asgari’s gentle family drama “A Bit of Light” was filmed in the conflict’s wake, under shellfire in Tehran. The production was eventually forced to…",
-      "publisher": "Variety",
-      "author": "Siddhant Adlakha",
-      "date": "2026-09-11T15:15:00+00:00",
-      "link": "https://variety.com/2026/film/reviews/a-bit-of-light-review-1236841903/",
-      "image": "https://variety.com/wp-content/uploads/2026/08/A-Bit-of-Light.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "5f13b00a8bc7a798",
       "title": "The Oldest Person in the World",
       "quote": "The intensely personal approach renders the doc overly sentimental at times.",
@@ -645,17 +678,6 @@
       "link": "https://www.rogerebert.com/reviews/the-oldest-person-in-the-world-documentary-film-review-2026",
       "image": null,
       "category": "World Cinema"
-    },
-    {
-      "id": "79908ef22e35eaff",
-      "title": "‘The Housewife’ Review: Naomi Watts Is Superb in an Initially Riveting, Increasingly Generic Portrait of Deceptive 1960s American Domesticity",
-      "quote": "Directed by newcomer Ben Shirinian, the TIFF-bowing thriller about a Nazi officer living in Queens also stars Tye Sheridan, Michael Imperioli, Luke Evans and Lena Olin.",
-      "publisher": "The Hollywood Reporter",
-      "author": "Michael Rechtshaffen",
-      "date": "2026-09-11T14:59:14+00:00",
-      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/the-housewife-review-naomi-watts-tye-sheridan-1236696090/",
-      "image": null,
-      "category": "Festival Winners"
     },
     {
       "id": "bfd85c56eb85c13d",
@@ -691,17 +713,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "1573ef7dc8788214",
-      "title": "Mighty Mary",
-      "quote": "“Mighty Mary” is a well-assembled, confident piece of non-fiction filmmaking that tells a story that most don’t know.",
-      "publisher": "RogerEbert.com",
-      "author": "Brian Tallerico",
-      "date": "2026-09-11T13:00:00+00:00",
-      "link": "https://www.rogerebert.com/reviews/mighty-mary-hugh-jackman-elizabeth-banks-documentary-film-review-2026",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
       "id": "9ea938667298bcb7",
       "title": "The extraordinary story of author Barbara Cartland",
       "quote": "Why has the UK's master of romantic fiction disappeared from memory?",
@@ -710,17 +721,6 @@
       "date": "2026-09-11T11:00:00+00:00",
       "link": "https://www.bbc.com/culture/article/20260910-the-extraordinary-story-of-barbara-cartland-the-forgotten-billions-selling-romance-author?ocid=global_culture_rss",
       "image": "https://ychef.files.bbci.co.uk/144x81/p0p8zkyt.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "10d29ef92e758256",
-      "title": "‘Being Heumann’ Review: Siân Heder’s First Film Since ‘CODA’ Is a Bold and Stirring Dramatization of the Protest That Launched the Disabled-Rights Revolution",
-      "quote": "\"Being Huemann\" isn’t as transporting a movie as \"CODA\" was, yet it’s a stirring drama cut from the same cloth of cathartic empathy.",
-      "publisher": "Variety",
-      "author": "Owen Gleiberman",
-      "date": "2026-09-11T03:56:38+00:00",
-      "link": "https://variety.com/2026/film/reviews/being-heumann-review-sian-heder-judith-heumann-1236857936/",
-      "image": "https://variety.com/wp-content/uploads/2026/09/Being_Heumann_01.webp",
       "category": "World Cinema"
     },
     {
