@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T11:33:47.438992+00:00",
+  "generated_at": "2026-09-13T16:01:55.218673+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -8,6 +8,149 @@
     "Indie Gems"
   ],
   "reviews": [
+    {
+      "id": "a852d72ee083c1c6",
+      "title": "‘Practical Magic 2’ Brews Up $46M WW In Global Opening",
+      "quote": "Refresh for more…Warner Bros/Alcon’s Practical Magic 2 wound up flying to a $46M global debut, with $16M overseas and $30M domestic. Note the sequel to this Sandra Bullock and Nicole Kidman 1990s property is stateside…",
+      "publisher": "Deadline",
+      "author": "Anthonypauldalessandro",
+      "date": "2026-09-13T15:52:09+00:00",
+      "link": "https://deadline.com/2026/09/box-office-practical-magic-2-global-1237100627/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Practical-Magic-2_902bef.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "72e34488d5c73243",
+      "title": "10 Best Spaghetti Westerns Not Directed By Sergio Leone",
+      "quote": "Sergio Leone is the first name cinephiles think of when discussing spaghetti westerns, but these are the best in the genre from other filmmakers.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Sam Stone)",
+      "date": "2026-09-13T15:10:00+00:00",
+      "link": "https://www.slashfilm.com/2253866/best-spaghetti-westerns-not-directed-sergio-leone/",
+      "image": "https://www.slashfilm.com/img/gallery/10-best-spaghetti-westerns-not-directed-by-sergio-leone/l-intro-1788970038.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "0b419f882ff08259",
+      "title": "Betty Thomas, Billy Crystal & The Curious Case Of The Emmy-Thieving Imposter",
+      "quote": "On Sept. 22, 1985, the Pasadena Civic Auditorium was filled with 2,700 members of the year’s television elite, gathered together for the 37th Annual Primetime Emmy Awards. Hosted by Dynasty star John Forsythe, the…",
+      "publisher": "Deadline",
+      "author": "Antonia Blyth",
+      "date": "2026-09-13T15:00:00+00:00",
+      "link": "https://deadline.com/2026/09/betty-thomas-billy-crystal-barry-bremen-emmys-imposter-1237100046/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Barry-Bremen-and-Betty-Thomas_9d1574.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "8e9cddc4c3e2b9b9",
+      "title": "Bertil Nilsson’s TIFF Film ‘Masc’ Explores Intersectionality Of Queer, Biracial, Autistic Experience — Clip",
+      "quote": "In Bertil Nillson’s feature directorial debut Masc, the writer/director teams up with co-writer and star Joshua Griffin to share a story of intersectionality and self-love. Making its world premiere last night in TIFF’s…",
+      "publisher": "Deadline",
+      "author": "Glenn Garner",
+      "date": "2026-09-13T15:00:00+00:00",
+      "link": "https://deadline.com/2026/09/bertil-nilsson-tiff-masc-clip-1237100332/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/masc_still_01.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "48a1de55f379d927",
+      "title": "‘Your Mother Your Mother Your Mother’ Review: Mahershala Ali Is a Marvel in a Gripping Crime Film With a Big, Aching Heart",
+      "quote": "The two-time Oscar winner plays a devout Muslim and contract killer forced to care for his three kids after his wife dies in Bassam Tariq's Texas-set thriller.",
+      "publisher": "The Hollywood Reporter",
+      "author": "Jon Frosch",
+      "date": "2026-09-13T14:28:36+00:00",
+      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/your-mother-your-mother-your-mother-review-mahershala-ali-1236699560/",
+      "image": null,
+      "category": "Festival Winners"
+    },
+    {
+      "id": "a8413b57be698603",
+      "title": "Vertical Saves Lily James & Pierce Brosnan Starring ‘Cliffhanger’; Spring 2027 U.S. Release Eyed – TIFF",
+      "quote": "EXCLUSIVE: After the hot new distributor at TIFF last year, Row K, imploded, many films that the label scooped up at the fest were left homeless; one of the big titles they supposed shelled out eight figures for was…",
+      "publisher": "Deadline",
+      "author": "Anthonypauldalessandro",
+      "date": "2026-09-13T14:01:08+00:00",
+      "link": "https://deadline.com/2026/09/cliffhanger-lily-james-vertical-acquisition-1237100608/",
+      "image": "https://deadline.com/wp-content/uploads/2025/09/Cliffhanger.webp",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "d3d667cf79708013",
+      "title": "‘Scooby-Doo: Origins’ Season 1 Production Has Rrrr-Wrapped",
+      "quote": "The cast, crew and star of Scooby-Doo: Origins can finally take a pawse, as production has wrapped on the first season of the upcoming Netflix live-action series. It’s slated to premiere globally on the streamer in…",
+      "publisher": "Deadline",
+      "author": "Denise Petski",
+      "date": "2026-09-13T14:00:00+00:00",
+      "link": "https://deadline.com/2026/09/scooby-doo-origins-season-1-production-wraps-1237099453/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Scooby-Doo-Origins-.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "5586be022a668082",
+      "title": "Midnight Madness! A Caped Canadian Prime Minister Stars In ‘Ladies And Gentlemen, Brian Mulroney’ – Toronto Film Festival",
+      "quote": "Canada’s prime minister, Mark Carney, attended the opening of the Toronto Film Festival last year, helping introduce the documentary John Candy: I Like Me. This year, a former Canadian PM, Brian Mulroney, is appearing…",
+      "publisher": "Deadline",
+      "author": "Matthew Carey",
+      "date": "2026-09-13T14:00:00+00:00",
+      "link": "https://deadline.com/2026/09/ladies-and-gentlemen-brian-mulroney-toronto-film-festival-1237100505/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Mulroney_Still_10_13_26_06.png",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "116f8357559c5ef3",
+      "title": "Before Star Trek, Leonard Nimoy Appeared In A Clint Eastwood Western Series",
+      "quote": "Leonard Nimoy is most remembered for his time on Star Trek, but he also had a celebrated career in TV Westerns before pivoting to sci-fi.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Joe Roberts)",
+      "date": "2026-09-13T14:00:00+00:00",
+      "link": "https://www.slashfilm.com/2252977/star-trek-leonard-nimoy-clint-eastwood-western-series-rawhide/",
+      "image": "https://www.slashfilm.com/img/gallery/before-star-trek-leonard-nimoy-appeared-in-a-clint-eastwood-western-series/l-intro-1788888629.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "cbfcebeee8a6d7e3",
+      "title": "Trash Mountain review – Caleb Hearon’s coming home indie is a funny if familiar journey",
+      "quote": "Toronto film festival : a city-dwelling gay guy has to go home to rural Missouri after his father dies in this Sundance-by-numbers comedy drama that has its moments It might be premiering at Toronto 2026 but we’re very…",
+      "publisher": "The Guardian",
+      "author": "Benjamin Lee in Toronto",
+      "date": "2026-09-13T12:28:16+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/13/trash-mountain-review-caleb-hearon",
+      "image": "https://i.guim.co.uk/img/media/723a63e21e1874731da162030db5f6689868374f/761_0_2699_2160/master/2699.jpg?width=140&quality=85&auto=format&fit=max&s=f83a017eaf1cdde1d9ea0fd82551baf8",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "0b397a4de5a5cde5",
+      "title": "‘The Stunt Driver’ Review: Jay Baruchel Takes a Leap into Tepid Biopic Territory",
+      "quote": "In “The Stunt Driver,” Jay Baruchel reteams with his “Goon” director Michael Dowse and takes on a showy lead part as stunt driver Ken Carter, who’s best remembered for a jump he didn’t make: a proposed mile-long leap…",
+      "publisher": "Variety",
+      "author": "Guy Lodge",
+      "date": "2026-09-13T12:12:46+00:00",
+      "link": "https://variety.com/2026/film/reviews/the-stunt-driver-review-1236860383/",
+      "image": "https://variety.com/wp-content/uploads/2026/09/Still-1-1.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "cb645300fac09bb6",
+      "title": "Before Gilligan's Island, Alan Hale Jr. Guest-Starred On A TV Show That John F. Kennedy Advised For",
+      "quote": "There were multiple connections between Gilligan's Island star Alan Hale Jr. and John F. Kennedy, including this show that Hale Jr. guest-starred on.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Joe Roberts)",
+      "date": "2026-09-13T12:00:00+00:00",
+      "link": "https://www.slashfilm.com/2253306/gilligans-island-alan-hale-jr-guest-starred-navy-log/",
+      "image": "https://www.slashfilm.com/img/gallery/before-gilligans-island-alan-hale-jr-guest-starred-on-a-tv-show-that-john-f-kennedy-advised-for/l-intro-1788900529.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "a276ae3ad0d8db81",
+      "title": "‘Girl Group’ Review: Rebel Wilson’s Bawdy Pop Comedy Is All Fizz and Little Substance",
+      "quote": "Toward the end of Rebel Wilson’s “Girl Group,” a fizzy, gaudy clone of “Pitch Perfect” sculpted from the mentor formula of “Bad News Bears,” the movie spirals into an interminable sequence of pop music performances. The…",
+      "publisher": "Variety",
+      "author": "Guy Lodge",
+      "date": "2026-09-13T11:52:33+00:00",
+      "link": "https://variety.com/2026/film/reviews/girl-group-review-rebel-wilson-1236860366/",
+      "image": "https://variety.com/wp-content/uploads/2026/09/girl-group.jpg",
+      "category": "World Cinema"
+    },
     {
       "id": "28c921e839bf329e",
       "title": "‘Masc’ Review: A Sensitive Character Study Where Identity is Found in Imitation and Observation",
@@ -196,28 +339,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "34bdd4e5bdbbc188",
-      "title": "FCC Chairman Brendan Carr Accuses James Talarico Of Running A “Hoax” With Jimmy Kimmel Sit-Down; YouTube Interview Nears 7 Million Views",
-      "quote": "As Jimmy Kimmel’s interview with James Talarico nears 7 million views on YouTube, FCC chairman Brendan Carr weighed in on Saturday evening, accusing the Texas U.S. Senate candidate of orchestrating a “hoax” to drive up…",
-      "publisher": "Deadline",
-      "author": "Ted Johnson",
-      "date": "2026-09-13T02:09:10+00:00",
-      "link": "https://deadline.com/2026/09/jimmy-kimmel-james-talarico-fcc-1237100486/",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/GettyImages-2262365040.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "30e889b8ee48f1df",
-      "title": "‘The Surgeon’ Review: Michelle Yeoh Goes All John Wick Taking Her Scalpel To The Bad Guys – Toronto Film Festival",
-      "quote": "After supporting roles in blockbusters like Wicked, Michelle Yeoh has her first all-out starring role since winning the Best Actress Oscar for Everything Everywhere All at Once three years ago. Considering her expertise…",
-      "publisher": "Deadline",
-      "author": "Pete Hammond",
-      "date": "2026-09-13T02:05:00+00:00",
-      "link": "https://deadline.com/2026/09/the-surgeon-review-michelle-yeoh-toronto-film-festival-1237099602/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/the_surgeon_01.webp",
-      "category": "Festival Winners"
-    },
-    {
       "id": "5d9afc8f04e7c05c",
       "title": "‘The Surgeon’ Review: Michelle Yeoh Plays a Kidnapped Doctor Trying to Outwit Her Captors in Deliriously Fun Genre-Bender",
       "quote": "Martin Freeman has a supporting role as a crime boss in this film from Roshan Sethi ('A Nice Indian Boy'), premiering in Toronto.",
@@ -229,28 +350,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "0bd77d6206de5e0d",
-      "title": "Bill Dubuque Crime Drama ‘M.I.A.’ Canceled By Peacock After One Season",
-      "quote": "EXCLUSIVE: Peacock has canceled the Miami-set crime-drama series M.I.A. after one season. The series, from creator, writer and executive producer Bill Dubuque, premiered May 7 with all nine hour-long episodes. Following…",
-      "publisher": "Deadline",
-      "author": "Rosy Cordero",
-      "date": "2026-09-13T01:00:00+00:00",
-      "link": "https://deadline.com/2026/09/bill-dubuque-series-m-i-a-canceled-peacock-1237100435/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/NUP_207360_01829.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "bdd8a9f9c0ddf1a7",
-      "title": "‘NAZA’ Review: Israeli Military Accused Of Depraved Indifference To Palestinian Life, Using AI To Kill In Gaza – Venice Film Festival",
-      "quote": "The devastating documentary NAZA, an investigation into Israel’s mass killing of civilians in Gaza, was shot at night on rooftops in Tel Aviv, in part to avoid potential Israeli eavesdropping, presumably, and to…",
-      "publisher": "Deadline",
-      "author": "Matthew Carey",
-      "date": "2026-09-13T00:56:22+00:00",
-      "link": "https://deadline.com/2026/09/naza-review-venice-film-festival-1237100430/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/NAZA-still.png",
-      "category": "Festival Winners"
-    },
-    {
       "id": "cda2203a0df0c544",
       "title": "Why Apple TV's Silo Made A Major Change To The Stairs From The Books",
       "quote": "Silo is one of the best shows on Apple TV, and the author of the book series the show is based on explained why the show made one major change.",
@@ -260,28 +359,6 @@
       "link": "https://www.slashfilm.com/2253327/silo-apple-tv-series-change-stairs-books-metal-concrete/",
       "image": "https://www.slashfilm.com/img/gallery/why-apple-tvs-silo-made-a-major-change-to-the-stairs-from-the-books/l-intro-1788901772.jpg",
       "category": "Indie Gems"
-    },
-    {
-      "id": "b0c18ed129bb6724",
-      "title": "‘Babies’ Review: Lauren Miller Rogen Film Is A Witty, Heartfelt Exploration Of Childless Adulthood & Chosen Family – Toronto Film Festival",
-      "quote": "After years of fielding questions about whether she wants to be a mom, Lauren Miller Rogen gives the definitive answer in the form of her witty, heartfelt comedy Babies. Written and directed by Miller Rogen, Babies…",
-      "publisher": "Deadline",
-      "author": "Lynette Rice",
-      "date": "2026-09-13T00:17:00+00:00",
-      "link": "https://deadline.com/2026/09/babies-review-lauren-miller-rogen-childless-adulthood-1237100427/",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Babies-e1789244078500.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "2f313f47f7e2b3b4",
-      "title": "Netflix Developing ‘Diablo’ Animated Series",
-      "quote": "The Diablo video game is coming to Netflix. Blizzard Entertainment chief Johanna Faries revealed at BlizzCon in Anaheim Saturday that the streamer is adapting the game as an animated series. Here’s the description of…",
-      "publisher": "Deadline",
-      "author": "Lynette Rice",
-      "date": "2026-09-12T23:01:00+00:00",
-      "link": "https://deadline.com/2026/09/netflix-developing-diablo-animated-series-1237100389/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Screenshot-2026-09-12-at-3.58.15-PM.png",
-      "category": "World Cinema"
     },
     {
       "id": "2b8f0bacf7fb87bb",
@@ -383,17 +460,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "7b0c32105cb894c5",
-      "title": "Tina Louise Starred In One Of The Most Important '70s Cult Sci-Fi Movies",
-      "quote": "After Gilligan's Island, Ginger actress Tina Louise played a crucial role in one of the most important cult sci-fi films of the 1970s.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Witney Seibold)",
-      "date": "2026-09-12T20:00:00+00:00",
-      "link": "https://www.slashfilm.com/2253364/tina-louise-70s-cult-sci-fi-movie-the-stepford-wives/",
-      "image": "https://www.slashfilm.com/img/gallery/tina-louise-starred-in-one-of-the-most-important-70s-cult-sci-fi-movies/l-intro-1788903365.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "08f16874adb64847",
       "title": "'Woman Unknown' wins top prize at Venice Film Festival as lone female contender triumphs",
       "quote": "John Malkovich named best actor; Israeli-made Gaza documentary wins special jury prize",
@@ -427,17 +493,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "9ed28b611876c3d1",
-      "title": "Gilligan's Island Star Alan Hale Jr. Had 3 Different Gunsmoke Guest Roles",
-      "quote": "Alan Hale Jr. is synonymous with his role on Gilligan's Island, but he had three guest-starring roles on this classic Western.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-09-12T19:00:00+00:00",
-      "link": "https://www.slashfilm.com/2252344/gilligans-island-alan-hale-jr-gunsmoke-guest-roles/",
-      "image": "https://www.slashfilm.com/img/gallery/gilligans-island-star-alan-hale-jr-had-3-different-gunsmoke-guest-roles/l-intro-1788823955.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "4f7a6fb8ed4c89b9",
       "title": "‘Oasis’ Review: A Sleek, Strange Parable about Bullying and Bonding at the Most Difficult Age",
       "quote": "The difficult teenage years are sometimes characterized as a wasteland, but more resemble a forest for the interdependent trio at the sinking heart of Jannis Lenz’s “Oasis,” the German-born, Austrian-trained filmmaker’s…",
@@ -457,17 +512,6 @@
       "date": "2026-09-12T18:14:48+00:00",
       "link": "https://www.avclub.com/odyssey-universals-highest-grossing-movie-ever",
       "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/07/21145122/odyssey-myth-header.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "71126c1a78f87da3",
-      "title": "A Marvel TV Star Headlined One Of The Best Superhero Movies You've Never Seen",
-      "quote": "Superhero movies exist beyond the DC and Marvel Cinematic Universe, and this super-powered character drama is a must see.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Witney Seibold)",
-      "date": "2026-09-12T18:00:00+00:00",
-      "link": "https://www.slashfilm.com/2246004/marvel-tv-gugu-mbatha-raw-best-superhero-movies-never-seen-fast-color/",
-      "image": "https://www.slashfilm.com/img/gallery/a-marvel-tv-star-headlined-one-of-the-best-superhero-movies-youve-never-seen/l-intro-1787866574.jpg",
       "category": "Indie Gems"
     },
     {
@@ -548,17 +592,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "4b8c254775b1d6c6",
-      "title": "‘Boatbuilders’ Review: A Mellow Maine Boatyard Study That Offers All the Quiet Rewards of Fine Craftsmanship in Action",
-      "quote": "There are few things as calmingly enjoyable as the modest, closeup spectacle of an expert craftsman at work. Whether the trade is cooking or carpentry, watching them ply their trade with equal parts ease and intense…",
-      "publisher": "Variety",
-      "author": "Guy Lodge",
-      "date": "2026-09-12T15:33:54+00:00",
-      "link": "https://variety.com/2026/film/reviews/boatbuilders-review-1236859475/",
-      "image": "https://variety.com/wp-content/uploads/2026/08/Boatbuilders.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "37b07ca20cc36681",
       "title": "‘Back to Buenos Aires’ Review: A Brooding Drama Revisits the Violent Days of Argentina’s Dictatorship, and the Traumas That Remained in Its Wake",
       "quote": "Director Marco Bechis drew from his experience as a survivor of the 1976 military coup for this story of a political prisoner who returns to the place of his torment 30 years later.",
@@ -570,17 +603,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "4c6eaf7dde8b89f9",
-      "title": "Jeremy Thomas, British producer of The Last Emperor and Sexy Beast, dies aged 77",
-      "quote": "An outstanding figure in the UK film industry, Thomas was noted for collaborations with directors including Bernardo Bertolucci and David Cronenberg Jeremy Thomas, the distinguished British producer of films including…",
-      "publisher": "The Guardian",
-      "author": "Andrew Pulver",
-      "date": "2026-09-12T14:01:50+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/12/jeremy-thomas-producer-the-last-emperor-sexy-beast-dies",
-      "image": "https://i.guim.co.uk/img/media/6b06745edf445ea166680dbd5bbe6451c687cab1/0_68_1000_800/master/1000.jpg?width=140&quality=85&auto=format&fit=max&s=21334c6fb34bb167d7fe422421bb9aee",
-      "category": "Festival Winners"
-    },
-    {
       "id": "6c3c7f1ed03e83d0",
       "title": "Six Oscar contenders from the Venice Film Festival",
       "quote": "From a wild-eyed performance by R-Patz to a short film about Marilyn at 100",
@@ -589,17 +611,6 @@
       "date": "2026-09-12T11:00:00+00:00",
       "link": "https://www.bbc.com/culture/article/20260911-six-of-the-best-oscar-contenders-from-the-2026-venice-film-festival?ocid=global_culture_rss",
       "image": "https://ychef.files.bbci.co.uk/144x81/p0p95nmz.jpg",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "de372b966cc1802c",
-      "title": "‘Dau’ Review: Ilya Khrzhanovsky’s Vast Cinematic Experiment in Historical World-Building Remains More Impressive From a Distance",
-      "quote": "More than six years after Ilya Khrzhanovsky premiered “DAU. Natasha” and “DAU. Degeneration” at the Berlin Film Festival — right before the global COVID lockdown — to a politely muted reception and limited distributor…",
-      "publisher": "Variety",
-      "author": "Guy Lodge",
-      "date": "2026-09-12T10:49:39+00:00",
-      "link": "https://variety.com/2026/film/reviews/dau-review-1236857375/",
-      "image": "https://variety.com/wp-content/uploads/2026/08/dau.jpg",
       "category": "Festival Winners"
     },
     {
@@ -645,17 +656,6 @@
       "link": "https://www.hollywoodreporter.com/movies/movie-reviews/faith-review-erin-doherty-james-mcavoy-1236696608/",
       "image": null,
       "category": "Festival Winners"
-    },
-    {
-      "id": "5654a3420d6e597d",
-      "title": "‘Magazine’ Review: A Keenly Observed Snapshot of a Young Woman’s Coming of Age Within an Industry on the Brink",
-      "quote": "Lily McInerny stars with Jake Lacy and Lukita Maxwell in Alexandra Pechman's directorial debut, following an aspiring poet who interns at a prestigious literary mag in 2010s New York.",
-      "publisher": "The Hollywood Reporter",
-      "author": "Angie Han",
-      "date": "2026-09-11T18:30:00+00:00",
-      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/magazine-review-lily-mcinerny-jake-lacy-lukita-maxwell-1236684881/",
-      "image": null,
-      "category": "World Cinema"
     },
     {
       "id": "c33276694f18dfab",
