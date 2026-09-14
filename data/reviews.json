@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T04:31:28.925138+00:00",
+  "generated_at": "2026-09-14T12:27:40.870140+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -9,26 +9,279 @@
   ],
   "reviews": [
     {
-      "id": "ad85ab7e1e4a17aa",
-      "title": "Steve Ballmer Apologizes To Fans, Says He Has Paid $30M NBA Fine, But Does Not Admit Guilt",
-      "quote": "Steve Ballmer seems to have gotten to the acceptance stage of grief. Less than two weeks after — his word — “vehemently” denying the results of a year-long NBA investigation that found the Clippers had circumvented the…",
+      "id": "b24ec176b2c24306",
+      "title": "‘Your Mother Your Mother Your Mother’ Review: A Blistering Spiritual Actioner Finally Gives Mahershala Ali a Leading Role Worth His While",
+      "quote": "Since winning two Oscars in three years less than a decade ago, Mahershala Ali has bided his time as one of Hollywood’s great untapped commodities. Not counting some disposable franchise support duty, he’s had only a…",
+      "publisher": "Variety",
+      "author": "Guy Lodge",
+      "date": "2026-09-14T12:10:49+00:00",
+      "link": "https://variety.com/2026/film/reviews/your-mother-your-mother-your-mother-mahershala-ali-1236860755/",
+      "image": "https://variety.com/wp-content/uploads/2026/09/Your-Mother-Your-Mother-Your-Mother_Still_HERO-H-2026.webp",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "987bb55c2b6a78c6",
+      "title": "Beta Cinema Posts Fresh Deals For Trudie Styler’s ‘Up Against It’ Ahead Of TIFF Debut",
+      "quote": "Beta Cinema has unveiled a raft of new deals for Trudie Styler’s comedy Up Against It ahead of its world premiere as a gala presentation in Toronto later this week. The fresh deals include to Spain (Youplanet…",
       "publisher": "Deadline",
-      "author": "Tomt",
-      "date": "2026-09-14T04:11:05+00:00",
-      "link": "https://deadline.com/2026/09/steve-ballmer-apologizes-does-not-admit-guilt-1237101424/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Steve-Ballmer.jpg",
+      "author": "Melanie Goodfellow",
+      "date": "2026-09-14T12:00:02+00:00",
+      "link": "https://deadline.com/2026/09/beta-cinema-new-deals-for-trudie-styler-up-against-it-1237101572/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Roses-Baby_main-still-s-c-Andrew-Cooper_Roses-Baby-Film-Limited-202588.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "054abdbeee885808",
+      "title": "Wild Horse Nine Review: John Malkovich And Sam Rockwell Are A Great Duo In Martin McDonagh's Subversive Modern Western",
+      "quote": "Martin McDonagh's Wild Horse Nine, with John Malkovich And Sam Rockwell, is a wonderfully written, beautifully performed elegy of a film.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Bill Bria)",
+      "date": "2026-09-14T12:00:00+00:00",
+      "link": "https://www.slashfilm.com/2255960/wild-horse-nine-review/",
+      "image": "https://www.slashfilm.com/img/gallery/wild-horse-nine-review-john-malkovich-and-sam-rockwell-are-a-great-duo-in-martin-mcdonaghs-subversive-modern-western/l-intro-1789138836.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "1c19a67e1dc60cad",
+      "title": "The Miami Vice Character You Likely Forgot Julia Roberts Played",
+      "quote": "Before Julia Roberts became one of the most famous actresses in the world, she appeared in a single episode of Miami Vice.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Bill Bria)",
+      "date": "2026-09-14T11:30:00+00:00",
+      "link": "https://www.slashfilm.com/2246892/julia-roberts-miami-vice-character-polly-wheeler/",
+      "image": "https://www.slashfilm.com/img/gallery/the-miami-vice-character-you-likely-forgot-julia-roberts-played/l-intro-1787964375.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "db4b27515fd0988e",
+      "title": "Jeremy Thomas Tributes: Figures From Across The Industry Remember Legendary UK Producer Of ‘The Last Emperor’ & ‘Crash’",
+      "quote": "Tributes from across the industry have been rolling in this weekend following the death of veteran producer Jeremy Thomas. He died on September 11. He was 77 years old. His family announced his death in a statement on…",
+      "publisher": "Deadline",
+      "author": "Zac Ntim",
+      "date": "2026-09-14T11:08:01+00:00",
+      "link": "https://deadline.com/2026/09/jeremy-thomas-tributes-producer-the-last-emperor-crash-1237101548/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/MixCollage-12-Sep-2026-03-17-PM-2698.jpg",
       "category": "World Cinema"
     },
     {
-      "id": "c85b7acfc357597e",
-      "title": "Israel’s Culture Minister Calls For Oscar-Winning Israeli Filmmakers Behind Gaza Doc ‘NAZA’ To Lose Their Citizenship",
-      "quote": "The day after Yuval Abraham and Rachel Szor‘s bombshell Israeli documentary NAZA alleging the Israeli army targeted civilians in Gaza won the Special Jury Prize at Venice, Israel’s Culture Minister Miki Zohar announced…",
+      "id": "35f55de0766b0c0c",
+      "title": "The tomb raiders who plundered million-dollar pots",
+      "quote": "In 1975, the BBC investigated the lucrative global trade in stolen antiquities",
+      "publisher": "BBC Culture",
+      "author": null,
+      "date": "2026-09-14T11:00:00+00:00",
+      "link": "https://www.bbc.com/culture/article/20260911-the-tomb-raiders-who-plundered-million-dollar-pots?ocid=global_culture_rss",
+      "image": "https://ychef.files.bbci.co.uk/144x81/p0p961lr.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "0dda17e6165c8f8e",
+      "title": "‘One Piece’ Star Taz Skylar Returns For Crime-Thriller ‘Villains’; Double Dutch Selling At TIFF Market",
+      "quote": "EXCLUSIVE: Taz Skylar, best known for Netflix’s One Piece and Amazon’s Brit gangster film Gassed Up, has joined Craig Fairbrass, who returns as Eddie Franks, in crime sequel Villains, which has wrapped principal…",
       "publisher": "Deadline",
-      "author": "Tomt",
-      "date": "2026-09-14T03:33:27+00:00",
-      "link": "https://deadline.com/2026/09/israel-culture-minister-naza-filmmakers-citizenship-1237101397/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2294920464.jpg",
+      "author": "Andreas Wiseman",
+      "date": "2026-09-14T10:28:03+00:00",
+      "link": "https://deadline.com/2026/09/one-piece-taz-skylar-returns-for-villains-craig-fairbrass-1237101537/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Villains.jpg",
       "category": "Festival Winners"
+    },
+    {
+      "id": "1e2667228d6774ef",
+      "title": "‘House Of The Dragon’ Actress Maddie Evans Leads Brit Horror ‘Pendle 1612’ About Notorious Witch Trials",
+      "quote": "EXCLUSIVE: Maddie Evans (House of the Dragon) is set to lead upcoming British horror feature Pendle 1612, alongside newcomer Ella Moss and Gemma Laurie (Shetland). Written and directed by Lancashire-born twin filmmakers…",
+      "publisher": "Deadline",
+      "author": "Andreas Wiseman",
+      "date": "2026-09-14T10:06:31+00:00",
+      "link": "https://deadline.com/2026/09/house-of-the-dragon-actress-maddie-evans-horror-pendle-1612-1237101534/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Maddie-Evans-Ella-Moss-and-Gemma-Laurie.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "2bbb7dd3ca6363fb",
+      "title": "‘Nightsleeper’ Season 2: Colin Morgan, Madeleine Mantock & Christian Cooke Lead Return Of BBC Thriller Drama",
+      "quote": "EXCLUSIVE: Colin Morgan (The Boy That Never Was), Madeleine Mantock (The Long Song) and Christian Cooke (Frauds) will lead the cast of BBC real-time thriller Nightsleeper Season 2. The trio assume the mantle from Season…",
+      "publisher": "Deadline",
+      "author": "Jesse Whittock",
+      "date": "2026-09-14T10:00:00+00:00",
+      "link": "https://deadline.com/2026/09/nightsleeper-season-2-cast-bbc-thriller-drama-1237100524/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Nightsleeper-main-cast.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "dc1b7a77a72d6cd1",
+      "title": "‘Heated Rivalry’ Distributor Sphere Abacus Buys Digital Outfit Rocket Rights",
+      "quote": "Canada’s Heated Rivalry distributor Sphere Abacus has bought digital seller Rocket Rights/Rights Booster, renaming it Rocket Booster. Founder Matthew Frank has become executive director of the newly-named company while…",
+      "publisher": "Deadline",
+      "author": "Max Goldbart",
+      "date": "2026-09-14T09:42:28+00:00",
+      "link": "https://deadline.com/2026/09/sphere-abacus-buys-rocket-rights-booster-heated-rivalry-1237101529/",
+      "image": "https://deadline.com/wp-content/uploads/2025/12/Heated-Rivalry.png",
+      "category": "World Cinema"
+    },
+    {
+      "id": "51763b8f398bbea0",
+      "title": "Emily Maitlis To Host Global Podcast Tracing Jeffrey Epstein’s Links To The UK",
+      "quote": "EXCLUSIVE: After laying bare Andrew Mountbatten-Windsor’s links to Jeffrey Epstein in a bombshell interview, Emily Maitlis is now delving deeper into the world of the deceased child sex offender. The former BBC…",
+      "publisher": "Deadline",
+      "author": "Jake Kanter",
+      "date": "2026-09-14T09:42:26+00:00",
+      "link": "https://deadline.com/2026/09/emily-maitlis-global-podcast-jeffrey-epstein-links-uk-1237101528/",
+      "image": "https://deadline.com/wp-content/uploads/2024/04/GettyImages-1806577800-e1712307309265.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "fcba38f5a5fe1bdb",
+      "title": "‘I never pass up a rewatch’: why Valley Girl is my feelgood movie",
+      "quote": "The latest in our series of writers explaining their most rewatched comfort films brings us back to 1980s LA As a teenager growing up in the 1990s, I was deeply obsessed with all things 1980s pop culture. Chalk it up to…",
+      "publisher": "The Guardian",
+      "author": "Annie Zaleski",
+      "date": "2026-09-14T09:00:53+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/14/valley-girl-my-feelgood-movie",
+      "image": "https://i.guim.co.uk/img/media/711bbc03ae93b11a385f2f4665bb4a37310ff7e8/210_0_2360_1888/master/2360.jpg?width=140&quality=85&auto=format&fit=max&s=be1470735f7d92e60cd46acdd5fddcf1",
+      "category": "World Cinema"
+    },
+    {
+      "id": "deecab7e6cbb659f",
+      "title": "‘Aadarsha Kutumbam - AK47’ teaser: Venkatesh, Trivikram Srinivas promise a hilarious action entertainer",
+      "quote": "With music scored by Thaman S, the film is set to release in theatres on October 2",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-14T08:58:45+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/aadarsha-kutumbam-ak47-teaser-venkatesh-daggubati-trivikram-srinivas-srinidhi-shetty-thaman-s/article71465701.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/stoanz/article71465750.ece/alternates/LANDSCAPE_1200/aadarsha%20kutumbam%20venkatesh%20trivikram%20srinivas%20teaser.png",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "f75bbfedfd3da79f",
+      "title": "‘Adolescence’ Scribe Jack Thorne Claims Fellow Writers Are Using AI To “Cheat” & Says Those Caught Should Be Punished",
+      "quote": "Jack Thorne, one of the UK’s most respected screenwriters, has alleged that some of his peers are using artificial intelligence to generate scripts. In a wide-ranging speech about AI on behalf of the Writers’ Guild of…",
+      "publisher": "Deadline",
+      "author": "Jake Kanter",
+      "date": "2026-09-14T08:51:03+00:00",
+      "link": "https://deadline.com/2026/09/adolescence-jack-thorne-ai-writer-cheat-1237101521/",
+      "image": "https://deadline.com/wp-content/uploads/2026/06/GettyImages-1431930110-e1789374020583.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "811f89f2fdb935bd",
+      "title": "Emmys 2026: When and where to watch the award ceremony LIVE",
+      "quote": "In India, Emmys 2026 will take place on Tuesday, September 15, with the red carpet coverage beginning at 4:30 am IST",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-14T08:29:52+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/emmys-2026-when-and-where-to-watch-the-award-ceremony-live/article71465682.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/q5vtez/article71465695.ece/alternates/LANDSCAPE_1200/cvr%2090.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "4d07defe78f3a584",
+      "title": "Dhruv Vikram next is ‘Jackie,’ produced by Mythri Movie Makers; first look out",
+      "quote": "The film is directed by Karan Arvind Kumar, who previousy worked as an assistant director under writer-director RJ Balaji",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-14T08:10:49+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/dhruv-vikram-next-is-jackie-produced-by-mythri-movie-makers-first-look-out/article71465658.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/1q6q2x/article71465674.ece/alternates/LANDSCAPE_1200/jackie%20Dhruv%20Vikram.jpeg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "85618d1a8396c406",
+      "title": "The Twilight Zone's Rod Serling Wrote A Movie Featuring Boxing Legend Muhammad Ali",
+      "quote": "The Twilight Zone and Night Gallery impresario Rod Serling once wrote a movie that featured acclaimed boxer Muhammad Ali's acting debut.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Joe Roberts)",
+      "date": "2026-09-14T08:10:00+00:00",
+      "link": "https://www.slashfilm.com/2254250/the-twilight-zone-rod-serling-movie-requiem-for-a-heavyweight-muhammad-ali/",
+      "image": "https://www.slashfilm.com/img/gallery/the-twilight-zones-rod-serling-wrote-a-movie-featuring-boxing-legend-muhammad-ali/l-intro-1788982347.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "7d77399bb8fb6ed2",
+      "title": "Goody Goody review – intriguing natural childbirth horror lurches into demonic occult blowout",
+      "quote": "After Samantha Robinson decides a forest cabin in deep winter is the perfect spot to bear her child, it’s going to be a very bad shift for the doula and midwife Conception, pregnancy and childbirth are defining human…",
+      "publisher": "The Guardian",
+      "author": "Phil Hoad",
+      "date": "2026-09-14T08:00:27+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/14/goody-goody-review-childbirth-drama",
+      "image": "https://i.guim.co.uk/img/media/2cfcf462d1cff0a56fb8ce7fea6e532133fb79b9/203_0_5838_4672/master/5838.jpg?width=140&quality=85&auto=format&fit=max&s=0d1957d73141b6433b11e4ebc138fc23",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "9ec593e3e7400fae",
+      "title": "Malashree, Rukmini Vasanth to headline ‘Mangala Gowri’; first look out",
+      "quote": "Directed by ‘Sakutumba Sametha’ director Rahul PK, the film is produced by Venkat K Narayana and Hemanth M Rao",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-14T07:49:50+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/malashree-rukmini-vasanth-mangala-gowri-first-look-rahul-pk-hemanth-m-rao/article71465624.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/ovqk44/article71465618.ece/alternates/LANDSCAPE_1200/Mangala%20Gowri%20Rukmini%20Vasanth%20Malashree.jfif",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "83351b4d924e72c8",
+      "title": "‘Crystal Lake’ trailer: Linda Cardellini becomes Pamela Voorhees in ‘Friday the 13th’ prequel series",
+      "quote": "The first full trailer for Peacock and A24’s ‘Friday the 13th’ prequel puts Jason Voorhees’ mother at the centre of a bloody mystery at Camp Crystal Lake",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-14T07:41:13+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/crystal-lake-trailer-linda-cardellini-becomes-pamela-voorhees-in-friday-the-13th-prequel-series/article71465633.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/dzpcmy/article71465629.ece/alternates/LANDSCAPE_1200/MV5BMTVhYmE1OGQtMmNmZi00MTFkLTg0NTktZjQ3NjRjZWFmOTMzXkEyXkFqcGc._V1_.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "fe9df294bd83088a",
+      "title": "‘Jai Jai Ram’: First song from Nitesh Tiwari’s ‘Ramayana’ out",
+      "quote": "Composed by AR Rahman, penned by Dr. Kumar Vishwas, the song features vocals by Arijit Singh and Shreya Ghoshal",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-14T07:39:44+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/jai-jai-ram-first-song-from-nitesh-tiwaris-ramayana-out/article71465604.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/xf7yaz/article71465625.ece/alternates/LANDSCAPE_1200/Ranbir%20Kapoor%20and%20Sai%20Pallavi%20in%20Nitesh%20Tiwari%E2%80%99s%20%E2%80%98Ramayana%E2%80%99%20",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "eb99f6fca738656e",
+      "title": "‘Mookuthi Amman 2 - Maha Sakthi’ teaser: Nayanthara’s titular Goddess takes on a new, powerful foe",
+      "quote": "Directed by Sundar C, ‘Mookuthi Amman 2’ is set for a release in theatres on November 6 during Deepavali",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-14T07:35:22+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/mookuthi-amman-2-maha-sakthi-teaser-nayanthara-sundar-c-regena-cassandrra-hiphop-tamizha/article71465551.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/hwhf14/article71465554.ece/alternates/LANDSCAPE_1200/Nayanthara%20Mookuthi%20Amman%202%20teaser.png",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "8e1f8c76ddaf0e4d",
+      "title": "Ganesh Acharya announces next directorial titled ‘Ganesh: Dust to Stardust’",
+      "quote": "Co-written and directed by Ganesh Acharya, the film is produced by Soundarya",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-14T07:06:46+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/ganesh-acharya-announces-next-directorial-titled-ganesh-dust-to-stardust/article71465565.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/8ydf41/article71465570.ece/alternates/LANDSCAPE_1200/First%20look%20poster%20of%20Ganesh%20Acharya%E2%80%99s%20%E2%80%98Ganesh%20Dust%20to%20Stardust%E2%80%99",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "a574e8aeeb116132",
+      "title": "Lenore review – incel’s obsession with online influencer turns into anatomy of dislocated digital-age mindset",
+      "quote": "Digital-age Australian psychodrama tracks the shut-in mania of dangerously disaffected male fan, but doesn’t get inside his mind If the parasocial phenomenon is a kind of hell, then Max Wren, protagonist of this…",
+      "publisher": "The Guardian",
+      "author": "Phil Hoad",
+      "date": "2026-09-14T06:00:25+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/14/lenore-review-incels-obsession-with-online-influencer-turns-into-anatomy-of-dislocated-digital-age-mindset",
+      "image": "https://i.guim.co.uk/img/media/2f75e6c5307a034f48dfaf0555bd1a2129342ca9/285_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=1cb35761d858a45c3eea9aa51d6846b3",
+      "category": "World Cinema"
+    },
+    {
+      "id": "30ca29a096a4ea6b",
+      "title": "‘Pretenders’ Review: A Superb Portrait of Chrissie Hynde and Her Legendary Band Captures Their Incandescence…and Tragedy",
+      "quote": "Hynde, though she had the feelings of punk in her bones, was the most romantic songwriter of that entire scene. I don’t mean romantic as in \"love songs,\" but as in conjuring the majestic romanticism of life. Just listen…",
+      "publisher": "Variety",
+      "author": "Owen Gleiberman",
+      "date": "2026-09-14T05:42:48+00:00",
+      "link": "https://variety.com/2026/film/reviews/pretenders-review-chrissie-hynde-tiff-1236860631/",
+      "image": "https://variety.com/wp-content/uploads/2026/09/Pretenders-Main-Still.png",
+      "category": "World Cinema"
     },
     {
       "id": "a9b686e1385f07eb",
@@ -40,6 +293,17 @@
       "link": "https://www.theguardian.com/film/2026/sep/13/life-and-deaths-of-wilson-shedd-review",
       "image": "https://i.guim.co.uk/img/media/6ce022ad5fe746be60b44e004346081742488577/318_0_1328_1063/master/1328.jpg?width=140&quality=85&auto=format&fit=max&s=f5bad30888ce530759e6bd4fa8d03240",
       "category": "Festival Winners"
+    },
+    {
+      "id": "808e6aa10b1960ca",
+      "title": "‘All That She Wants’ Review: Annie Murphy and Cooper Raiff Are Well-Matched in a Generation-Gap Romcom",
+      "quote": "Millennials get their Mrs. Robinson moment with “All That She Wants,” an age-gap romcom titled after the 1992 Ace of Base hit. If you remember listening to that song on a cassingle, it’s time to ask your doctor about…",
+      "publisher": "Variety",
+      "author": "Guy Lodge",
+      "date": "2026-09-14T03:30:00+00:00",
+      "link": "https://variety.com/2026/film/reviews/all-that-she-wants-review-1236860677/",
+      "image": "https://variety.com/wp-content/uploads/2026/09/all-that.jpg",
+      "category": "World Cinema"
     },
     {
       "id": "c687f561e3cefdde",
@@ -61,28 +325,6 @@
       "date": "2026-09-14T03:19:31+00:00",
       "link": "https://www.rogerebert.com/reviews/your-mother-your-mother-your-mother-mahershala-ali-movie-review-2026",
       "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "aaca1c40f17d5d08",
-      "title": "‘The Last Photograph’ Review: DC’s Zack Snyder Comes Back Down To Earth With A Violent But Surprisingly Human Action Drama – Toronto Film Festival",
-      "quote": "After so many years in the DC universe, Zack Snyder comes back down to earth again with a violent but surprisingly human action thriller set in the jungles of an unidentified Latin American country. Its plotline — more…",
-      "publisher": "Deadline",
-      "author": "Damon Wise",
-      "date": "2026-09-14T03:14:12+00:00",
-      "link": "https://deadline.com/2026/09/the-last-photograph-review-zack-snyder-stuart-martin-toronto-1237101249/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/THE-new-LAST-PHOTOGRAPH-C-Zack-Snyder-2.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "a878a031bac80ffc",
-      "title": "’60 Minutes’ Debuts New Season With A Pentagon Exclusive And Hidden Camera Expose — Amid Plenty Of Scrutiny Of The Show Itself",
-      "quote": "60 Minutes debuted its new season on Sunday with an exclusive sit down with an Air Force officer who told of his harrowing rescue in Iran. It featured a hideen camera segment on pardon brokers who collect hundreds of…",
-      "publisher": "Deadline",
-      "author": "Ted Johnson",
-      "date": "2026-09-14T03:00:25+00:00",
-      "link": "https://deadline.com/2026/09/60-minutes-debut-bari-weiss-1237101187/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/60MINUTES_NorahODonnell_RescueIran.jpg",
       "category": "World Cinema"
     },
     {
@@ -108,17 +350,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "a80ca4d846a6f1f0",
-      "title": "‘Love Of Your Life’ Review: Margaret Qualley On A Quest To Find Herself In Wandering Romantic Drama Of Grief And Renewal – Toronto Film Festival",
-      "quote": "Margaret Qualley makes Amazon MGM’s new romantic drama worth watching. This is an actress who consistently becomes more fascinating it seems with each role, and as Maya in Love Of Your Life she plays a woman who finds…",
-      "publisher": "Deadline",
-      "author": "Pete Hammond",
-      "date": "2026-09-14T02:30:00+00:00",
-      "link": "https://deadline.com/2026/09/love-of-your-life-review-margaret-qualley-toronto-film-fest-1237101197/",
-      "image": "https://deadline.com/wp-content/uploads/2023/03/Pete-Hammond-Badge.jpg?w=150&h=1000",
-      "category": "World Cinema"
-    },
-    {
       "id": "3c0d25d2750e4058",
       "title": "Lanterns Episode 5 Raises A Major Question About The Guardians Of The Universe",
       "quote": "The Guardians of the Universe are a powerful presence in Lanterns, and Episode 5 raises a major question about their motives.",
@@ -130,15 +361,26 @@
       "category": "Indie Gems"
     },
     {
-      "id": "ccec8ac1db294892",
-      "title": "‘Lanterns’ Star Poorna Jagannathan “Made A Meal” Out Of Playing The Sympathetic Villain",
-      "quote": "SPOILER ALERT! This post contains details from Episode 5 of HBO’s Lanterns. John Stewart (Aaron Pierre) has successfully taken down the last living manhunter and retrieved the power ring from Hal Jordan (Kyle Chandler)…",
-      "publisher": "Deadline",
-      "author": "Katie Campione",
-      "date": "2026-09-14T02:05:00+00:00",
-      "link": "https://deadline.com/2026/09/lanterns-poorna-jagannathan-villain-manhunter-explained-hbo-1237101025/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/aaron-pierre-poorna-jagannathan.jpg",
-      "category": "World Cinema"
+      "id": "2d1aa099d0aa3db9",
+      "title": "Lanterns' momentous twist surprised Poorna Jagannathan, too",
+      "quote": "The actor opens up about how a pivotal monologue in episode five cracked open Zoe Macon for her.",
+      "publisher": "The A.V. Club",
+      "author": "Saloni Gajjar",
+      "date": "2026-09-14T02:00:57+00:00",
+      "link": "https://www.avclub.com/poorna-jagannathan-interview-lanterns-episode-5",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/11163608/poorna-jagannathan.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "e87fd2de5aa58ec0",
+      "title": "Lanterns blows up real good—and wants you to feel the hollowness in the aftershock",
+      "quote": "There’s no room for catharsis in John and Hal having it out—with the Manhunter and with each other.",
+      "publisher": "The A.V. Club",
+      "author": "Dennis Perkins",
+      "date": "2026-09-14T02:00:10+00:00",
+      "link": "https://www.avclub.com/lanterns-season-1-episode-5-lights-out",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/13211409/MixCollage-13-Sep-2026-08-13-PM-4386.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "dc0fb8fb9d4793cb",
@@ -150,17 +392,6 @@
       "link": "https://www.slashfilm.com/2256077/lanterns-episode-5-manhunters-comic-accurate-origin-twist/",
       "image": "https://www.slashfilm.com/img/gallery/lanterns-episode-5-gives-the-manhunters-a-comic-accurate-origin/l-intro-1789144741.jpg",
       "category": "Indie Gems"
-    },
-    {
-      "id": "a5e00fb6b92a1a95",
-      "title": "‘Young Guns’ Cast Reunites At Fan Event",
-      "quote": "Alas, Jack Palance was off in heaven doing one-armed pushups, but just about every other star from the landmark gathering of late ’80s young actors known as Young Guns was in Dallas this weekend for a Fan Expo. Lou…",
-      "publisher": "Deadline",
-      "author": "Tomt",
-      "date": "2026-09-14T01:27:35+00:00",
-      "link": "https://deadline.com/2026/09/young-guns-cast-reunion-photos-1237101198/",
-      "image": "https://deadline.com/wp-content/uploads/2017/10/youngguns.jpg",
-      "category": "World Cinema"
     },
     {
       "id": "7d7d48d53214f213",
@@ -185,17 +416,6 @@
       "category": "Festival Winners"
     },
     {
-      "id": "18ac2eb7b1cc0bef",
-      "title": "‘Prima Facie’ Review: Cynthia Erivo Is Lawyer Who Finds Herself The Victim Of Rape, Which Goes On Trial – Toronto Film Festival",
-      "quote": "In 2022 Jodie Comer took the theatrical world by storm in Suzie Miller’s one-woman play, Prima Facie, which won Olivier Awards for the West End production, including Best Actress for Comer who repeated her triumph on…",
-      "publisher": "Deadline",
-      "author": "Pete Hammond",
-      "date": "2026-09-13T23:45:00+00:00",
-      "link": "https://deadline.com/2026/09/prima-facie-review-cynthia-erivo-as-lawyer-who-finds-herself-as-victim-in-rape-trial-in-uneven-film-version-of-tony-and-olivier-winning-stage-play-toronto-film-festival-1237100300/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Prima-Facie.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "a64ea087ef47b201",
       "title": "How Neil DeGrasse Tyson Really Feels About Project Hail Mary",
       "quote": "Astrophysicist and frequent wet blanket Neil deGrasse Tyson often judges the accuracy of sci-fi movies. So what does he think about Project Hail Mary?",
@@ -218,28 +438,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "e83ccfd3a1f2d8d9",
-      "title": "Why Ayn Rand's Dystopian Sci-Fi Story Was Rejected By Two Television Networks",
-      "quote": "A TV adaptation of Ayn Rand's infamous sci-fi novel Atlas Shrugged was rejected by multiple networks in the 1970s, and it's not hard to grasp why.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Witney Seibold)",
-      "date": "2026-09-13T22:00:00+00:00",
-      "link": "https://www.slashfilm.com/2254850/why-ayn-rand-dystopian-sci-fi-atlas-shrugged-rejected-tv-networks/",
-      "image": "https://www.slashfilm.com/img/gallery/why-ayn-rands-dystopian-sci-fi-story-was-rejected-by-two-television-networks/l-intro-1789054576.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "2242f3c8553d78da",
-      "title": "The Gilligan's Island Set Was Cleverly Reused In This Hilarious '60s Sitcom",
-      "quote": "One of Gilligan's Island's fellow 1960s sitcoms reused its lagoon set during an episode that tipped its hat to the series.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-09-13T21:00:00+00:00",
-      "link": "https://www.slashfilm.com/2254754/gilligans-island-set-reused-60s-sitcom-get-smart/",
-      "image": "https://www.slashfilm.com/img/gallery/the-gilligans-island-set-was-cleverly-reused-in-this-hilarious-60s-sitcom/l-intro-1789051276.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "40a82c9e427998f1",
       "title": "‘On Behalf of My Son’ Review: A Strained Brazilian Drama About a Mother’s Apology Tour",
       "quote": "A Brazilian drama with a powerful premise but labored execution, Gabriel Martins’ “On Behalf of My Son” follows the ripple effects of a tragic bus accident through the eyes of the driver’s mother, Vicentina (Rejane…",
@@ -249,17 +447,6 @@
       "link": "https://variety.com/2026/film/reviews/on-behalf-of-my-son-review-1236860722/",
       "image": "https://variety.com/wp-content/uploads/2026/09/VARIETY-SIZING-13.png",
       "category": "World Cinema"
-    },
-    {
-      "id": "7f74a38639024bf8",
-      "title": "Project Hail Mary Star Sandra Hüller Was Surprised By One Thing During Production",
-      "quote": "Project Hail Mary was a big production, so co-star Sandra Hüller was surprised when it came to its directors' loose approach in one particular regard.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Ryan Scott)",
-      "date": "2026-09-13T19:45:00+00:00",
-      "link": "https://www.slashfilm.com/2254672/project-hail-mary-sandra-huller-surprised-production-freedom/",
-      "image": "https://www.slashfilm.com/img/gallery/project-hail-mary-star-sandra-hller-was-surprised-by-one-thing-during-production/l-intro-1789048405.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "d12a020b857e328d",
@@ -317,28 +504,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "649ce2314eadbd20",
-      "title": "Venice Film Festival 2026: Anuparna Roy and ‘Lovers in the Blue Night’ turn escape into art",
-      "quote": "The 2025 Orizzonti Best Director, who has won the 2026 NETPAC Award for Best Asian Film in Venice, is rewriting who gets to be seen in Indian cinema and how",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-13T17:38:51+00:00",
-      "link": "https://www.thehindu.com/entertainment/venice-film-festival-anuparna-roy-lovers-in-the-blue-night/article71442692.ece",
-      "image": "https://th-i.thgim.com/public/life-and-style/homes-and-gardens/nj5l31/article71464378.ece/alternates/LANDSCAPE_1200/Untitled%20design%20-%202026-09-13T230811.138.jpg",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "a3be11d9069bca0d",
-      "title": "‘Dorothy’: Karthik Subbaraj’s film gets standing ovation during world premiere at TIFF",
-      "quote": "The film features a soundtrack composed by Ilaiyaraaja and stars Keerthy Suresh, Sananth and Rishikanth in pivotal roles",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-13T17:33:32+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/dorothy-karthik-subbarajs-film-gets-standing-ovation-during-world-premiere-at-tiff/article71459235.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/gmx01d/article71459255.ece/alternates/LANDSCAPE_1200/Achin%20Jain%20Rishikanth%20Sananth%20Karthik%20Subbaraj%20Keerthy%20Suresh%20and%20Guneet%20Monga%20Kapoor%20at%20the%20world%20premiere%20of%20%E2%80%98Dorothy%E2%80%99%20at%20the%20Toronto%20International%20Film%20Festival%202026",
-      "category": "Festival Winners"
-    },
-    {
       "id": "552bc896e800f76c",
       "title": "Seth Rogen hints his Figment movie isn't just our imagination",
       "quote": "The <i>Freaks and Geeks</i> star first announced his involvement with the theme park-based animated film back in 2022.",
@@ -348,17 +513,6 @@
       "link": "https://www.avclub.com/seth-rogen-figment-movie-update",
       "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/13124225/figment-feature.jpg",
       "category": "Indie Gems"
-    },
-    {
-      "id": "9079c9b458d63950",
-      "title": "Pradhama Drishtiya Kuttakkar movie review: A taut thriller that rarely has a misstep",
-      "quote": "",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-13T16:09:01+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/pradhama-drishtiya-kuttakkar-movie-review-a-taut-thriller-that-rarely-has-a-misstep/article71463940.ece",
-      "image": "https://th-i.thgim.com/public/news/national/kerala/1hfgbi/article71463915.ece/alternates/LANDSCAPE_1200/Pradhama.jpg",
-      "category": "Indian Cinema"
     },
     {
       "id": "74a3d5058e9a6fb2",
@@ -427,17 +581,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "153cb9e927e208ab",
-      "title": "In its return, SNL UK reluctantly welcomes back Harry and Meghan",
-      "quote": "The Jeff Goldblum-hosted second season premiere of <i>Saturday Night Live</i>'s British branch aired yesterday.",
-      "publisher": "The A.V. Club",
-      "author": "Dennis Perkins",
-      "date": "2026-09-13T13:27:51+00:00",
-      "link": "https://www.avclub.com/snl-uk-premiere-harry-and-meghan",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/13092349/SNLUK-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "cbfcebeee8a6d7e3",
       "title": "Trash Mountain review – Caleb Hearon’s coming home indie is a funny if familiar journey",
       "quote": "Toronto film festival : a city-dwelling gay guy has to go home to rural Missouri after his father dies in this Sundance-by-numbers comedy drama that has its moments It might be premiering at Toronto 2026 but we’re very…",
@@ -471,28 +614,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "28c921e839bf329e",
-      "title": "‘Masc’ Review: A Sensitive Character Study Where Identity is Found in Imitation and Observation",
-      "quote": "In “Masc,” director Bertil Nilsson pulls off a nifty trick: He observes an observer. Usually a film’s protagonist has the dominant POV, but here, Robin (Joshua Griffin) is trying to find his personality by observing…",
-      "publisher": "Variety",
-      "author": "Murtada Elfadl",
-      "date": "2026-09-13T11:20:41+00:00",
-      "link": "https://variety.com/2026/film/reviews/masc-review-1236859970/",
-      "image": "https://variety.com/wp-content/uploads/2026/09/Masc_HERO.jpg",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "c596791d8a6104ab",
-      "title": "What's on TV this week—Slow Horses and The Traitors are back",
-      "quote": "Here is what's happening on TV from Sunday, September 13 through Saturday, September 19.",
-      "publisher": "The A.V. Club",
-      "author": "Christina Izzo",
-      "date": "2026-09-13T11:00:50+00:00",
-      "link": "https://www.avclub.com/what-to-watch-on-tv-september-13-19",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/11150541/MixCollage-11-Sep-2026-01-45-PM-221.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "6ee61c5809b3ef91",
       "title": "Shaun the Sheep: The Beast of Mossy Bottom review – Aardman’s spooky-season caper sparkles with fun",
       "quote": "There’s trouble afoot when Shaun’s pumpkin-supersizing serum ends up in a balding farmer’s hair growth bottle in this third cinematic adventure Summer is over and Halloween is on the way … not for a fair bit, of course…",
@@ -515,105 +636,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "2e336bc50c4ab48f",
-      "title": "‘Up Against It’ Review: Antonio Banderas Stars in a British Family Dramedy That Ignores Its Own Conundrums",
-      "quote": "A crisscrossing family dramedy, Trudie Styler’s “Up Against It” features wonderful performances and intriguingly modern ideas, but it seldom coheres as comedy or drama. A tale of divorced parents, their respective…",
-      "publisher": "Variety",
-      "author": "Siddhant Adlakha",
-      "date": "2026-09-13T10:54:51+00:00",
-      "link": "https://variety.com/2026/film/reviews/up-against-it-review-1236860045/",
-      "image": "https://variety.com/wp-content/uploads/2026/09/Up-Against-It_01.webp",
-      "category": "World Cinema"
-    },
-    {
-      "id": "ad072fd0f8413b1d",
-      "title": "Srinidhi Bengaluru and Dheekshith Shetty on ‘Video’: It’s a found-footage horror thriller for a new-age audience",
-      "quote": "Director Srinidhi Bengaluru and actor-producer Dheekshith Shetty open up about taking an unconventional approach to horror and making the genre work for a wider audience with their found-footage Kannada film ‘Video’",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-13T07:19:53+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/video-the-film-video-kannada-movie-srinidhi-bengaluru-found-footage-horror-dheekshith-shetty-horror-drama/article71450389.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/j270ht/article71462744.ece/alternates/LANDSCAPE_1200/Srinidhi-Dheekshith.JPEG",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "1b21a2bbf29000eb",
-      "title": "Watch | Vijay’s ‘Varisu’ takes on Ajith’s ‘Thunivu’: Why Tamil cinema fans are excited",
-      "quote": "Two of Tamil cinema’s biggest film stars – Vijay and Ajith – are releasing their films on the same day. As excitement builds in anticipation of the big face off, we meet their vociferously loyal fan groups",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-13T06:18:10+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/vijays-varisu-takes-on-ajiths-thunivu-why-tamil-cinema-fans-are-excited/article66360016.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/chcoj4/article66360031.ece/alternates/LANDSCAPE_1200/varisu-thunivu.jpg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "ca9378625c7ab85c",
-      "title": "Vijay and Ajith Kumar reunite at Silverstone; fans call it “biggest day for Tamil Cinema”",
-      "quote": "Separated by years of public absence, Vijay and Ajith Kumar — the two superstars of Tamil cinema—came together in a moment that transcended their legendary on-screen rivalry",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-13T05:21:00+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/ajith-kumar-vijay-reunion-silverstone-le-mans-cup-race-tamil-superstars-thala-thalapathy-reunion/article71460925.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/7umu3g/article71460920.ece/alternates/LANDSCAPE_1200/VijayAjith.jpeg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "fce406da3d1004f1",
-      "title": "Vijay’s blockbuster opening: How cinema powered the superstar’s rise in Tamil Nadu politics",
-      "quote": "From ‘Thamizhan’ to ‘Jana Nayagan’: This is how TVK chief Vijay used Tamil cinema to lay the groundwork for his historical political debut",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-13T05:15:32+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/vijay-tvk-tamilaga-vettri-kazhagam-jana-nayagan-tn-elections-tamil-cinema/article70942697.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/wc3cvu/article70947115.ece/alternates/LANDSCAPE_1200/JN3.jpg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "8ea31ace848063fa",
-      "title": "T.N. Chief Minister Vijay flags off Silverstone motor race in U.K. as actor Ajith competes",
-      "quote": "The actor and motorsports racer thanks the Chief Minister for coming to the circuit and expresses his wish to see such events come to India",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-13T05:13:25+00:00",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-cm-vijay-to-flag-off-silverstone-motor-race-in-uk-actor-ajith-to-compete/article71459564.ece",
-      "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/15wng4/article71461305.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-12%20at%208.46.40%20PM.jpeg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "dbec17dcc042a965",
-      "title": "Your Mother Your Mother Your Mother review – Mahershala Ali is a grieving hitman in soulful thriller",
-      "quote": "Toronto film festival: the two-time Oscar-winner is an unusual killer in a compelling mix of pulpy action and family drama Latif, the solemn hitman played soulfully by Mahershala Ali, carries diapers in his kill kit. I…",
-      "publisher": "The Guardian",
-      "author": "Radheyan Simonpillai in Toronto",
-      "date": "2026-09-13T04:01:52+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/12/your-mother-your-mother-your-mother-review",
-      "image": "https://i.guim.co.uk/img/media/4775979465f69bdd17d5df9d574f3bca221aa8bf/1053_962_5235_4189/master/5235.jpg?width=140&quality=85&auto=format&fit=max&s=2cfe73cb992583bb52a7fa7e3b474832",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "7268874afa28b838",
-      "title": "Misty Green review – Chris Rock’s jumbled LA drama saved by fiery Rosalind Eleazar",
-      "quote": "Toronto film festival: There’s a stunning lead performance from the breakout British actor but the film surrounding her can’t quite match what she’s bringing There’s a mighty, all-guns-blazing performance at the centre…",
-      "publisher": "The Guardian",
-      "author": "Benjamin Lee in Toronto",
-      "date": "2026-09-13T03:30:51+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/12/misty-green-review-chris-rocks-rosalind-eleazar",
-      "image": "https://i.guim.co.uk/img/media/c9bc0962974e7943bfc9e1cb95165f2f27439952/1000_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=8deede3b90d5945e9c8e8924dc4744d4",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "882d1db0cada80e8",
-      "title": "‘Misty Green’ Review: Chris Rock Tells the Story of a Party-Girl Actress, Brilliantly Played by Rosalind Eleazar, in The Best Movie About Hollywood in Years",
-      "quote": "\"Misty Green\" is an amazing slice of showbiz sociology, riveting in the details of what a contemporary Hollywood actress — even a successful one — is up against. Rock isn’t casting stones. The warped values he depicts…",
-      "publisher": "Variety",
-      "author": "Owen Gleiberman",
-      "date": "2026-09-13T03:30:05+00:00",
-      "link": "https://variety.com/2026/film/reviews/misty-green-review-chris-rock-rosiland-eleazar-1236859541/",
-      "image": "https://variety.com/wp-content/uploads/2026/08/Misty-Green.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "7a4a753b3cd9a10a",
       "title": "‘Misty Green’ Review: Rosalind Eleazar Is a Revelation in Chris Rock’s Sharply Observed Love-Hate Portrait of the Hollywood Hustle",
       "quote": "The character study centers on a talented but self-sabotaging actress and singer looking to restart her career, with an ensemble that includes the writer-director alongside Adam Driver, Daniel Kaluuya and Anna Kendrick.",
@@ -623,17 +645,6 @@
       "link": "https://www.hollywoodreporter.com/movies/movie-reviews/misty-green-review-rosalind-eleazar-chris-rock-1236698536/",
       "image": null,
       "category": "World Cinema"
-    },
-    {
-      "id": "e647c8e296df69d1",
-      "title": "Woman Unknown wins Venice film festival as NAZA takes special jury prize",
-      "quote": "May el-Toukhy becomes eighth female director to take Golden Lion as Lee Chang-dong’s Possible Love and Guardian-produced exposé of Israel’s Gaza killings also awarded Bold and bravura choices as Venice celebrates A…",
-      "publisher": "The Guardian",
-      "author": "Philip Oltermann European culture editor",
-      "date": "2026-09-12T21:17:08+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/12/woman-unknown-wins-venice-film-festival-as-naza-takes-special-jury-prize",
-      "image": "https://i.guim.co.uk/img/media/e728a70a17ef1893740beef47281ee0b88d48838/316_0_3616_2894/master/3616.jpg?width=140&quality=85&auto=format&fit=max&s=caa584783eabcb3ecc102d7950f3162b",
-      "category": "Festival Winners"
     },
     {
       "id": "6c3c7f1ed03e83d0",
@@ -776,17 +787,6 @@
       "date": "2026-09-05T16:35:00+00:00",
       "link": "https://www.bbc.com/culture/article/20260905-primetime-review-robert-pattinson-is-extraordinary-as-controversial-paedophile-hunter-chris-hansen?ocid=global_culture_rss",
       "image": "https://ychef.files.bbci.co.uk/144x81/p0p84qtz.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "22b19edef1a501e6",
-      "title": "The hidden history of a controversial $6m banana",
-      "quote": "Maurizio Cattelan's Comedian reveals lessons about shock tactics in art",
-      "publisher": "BBC Culture",
-      "author": null,
-      "date": "2026-09-04T11:00:00+00:00",
-      "link": "https://www.bbc.com/culture/article/20260903-the-hidden-history-of-the-controversial-six-million-dollar-banana?ocid=global_culture_rss",
-      "image": "https://ychef.files.bbci.co.uk/144x81/p0p7vrpd.jpg",
       "category": "World Cinema"
     },
     {
