@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T04:31:44.248311+00:00",
+  "generated_at": "2026-09-15T11:31:57.337605+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -9,14 +9,256 @@
   ],
   "reviews": [
     {
-      "id": "2d686908ffb847db",
-      "title": "‘Pluribus’ Creator Vince Gilligan Reveals That Season 2 Is Already Mapped Out – Emmys Backstage",
-      "quote": "Rhea Seehorn was the first to tell the press backstage at the Emmys tonight that Pluribus creator Vince Gilligan has completed the first two scripts of season 2. “I don’t have anything,” the Primetime Emmy winning Best…",
+      "id": "12f12f0c4e8cfca2",
+      "title": "The unsolved mystery of the Fall River axe murders",
+      "quote": "In 1893, Lizzie Borden was acquitted of killing her father and stepmother",
+      "publisher": "BBC Culture",
+      "author": null,
+      "date": "2026-09-15T11:00:00+00:00",
+      "link": "https://www.bbc.com/culture/article/20260914-the-unsolved-mystery-of-lizzie-borden-and-the-grisly-fall-river-axe-murders?ocid=global_culture_rss",
+      "image": "https://ychef.files.bbci.co.uk/144x81/p0p9kzxm.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "827b5d3594039d00",
+      "title": "‘We Will Dance Again’ Exec Joins Israel’s Yoav Gross Productions To Run Content",
+      "quote": "EXCLUSIVE: The exec producer behind Emmy-winning October 7 doc We Will Dance Again has joined Israel’s Yoav Gross Productions (YGP) as VP of Content & Partnerships. Ariel Weisbrod has joined the Red Skies maker as part…",
       "publisher": "Deadline",
-      "author": "Anthonypauldalessandro",
-      "date": "2026-09-15T04:24:47+00:00",
-      "link": "https://deadline.com/2026/09/emmys-pluribus-season-2-vince-gilligan-rhea-seehorn-1237103471/",
-      "image": "https://deadline.com/wp-content/uploads/2026/06/Seehorn-Gilligan-01-EDIT.jpg",
+      "author": "Max Goldbart",
+      "date": "2026-09-15T11:00:00+00:00",
+      "link": "https://deadline.com/2026/09/ariel-weisbrod-joins-yoav-gross-we-will-dance-again-1237103720/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/MixCollage-15-Sep-2026-10-04-AM-2478.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "ecdc8d4e08893a79",
+      "title": "Venice best actress winner says she signed on at Danish job centre days before her victory",
+      "quote": "Mathilde Arcel, who won the Volpi Cup on Saturday for her role in Golden Lion winner Woman Unknown, said job offers have now begun to arrive The winner of this year’s best actress prize at the Venice film festival has…",
+      "publisher": "The Guardian",
+      "author": "Philip Oltermann European culture editor",
+      "date": "2026-09-15T10:37:22+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/15/mathilde-arcel-job-centre-venice-film-festival-volpi-cup-woman-unknown",
+      "image": "https://i.guim.co.uk/img/media/fe3ca0c3c52441d4281bfcd22389234903c8399b/212_0_2120_1696/master/2120.jpg?width=140&quality=85&auto=format&fit=max&s=11269ae59fdb527ffe5bf10a9b90eb7a",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "3baa5f36606d2d99",
+      "title": "Zurich To Honor ‘The Artist’, ‘Moonlight’ & ‘I’m Still Here’ Distributor DCM",
+      "quote": "The Zurich Film Festival will honor Berlin and Zurich-based distributor DCM with a Career Achievement Award at its upcoming edition kicking off on September 24. The award is being given to the company’s co-founders Marc…",
+      "publisher": "Deadline",
+      "author": "Melanie Goodfellow",
+      "date": "2026-09-15T10:15:09+00:00",
+      "link": "https://deadline.com/2026/09/zurich-honor-distributor-dcm-1237103755/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/dcmteamfoto.png",
+      "category": "World Cinema"
+    },
+    {
+      "id": "5319242885bb1179",
+      "title": "Legend of Destruction review – starry voices grace animated telling of the Jewish revolt against the Romans",
+      "quote": "Eight years in the making, the innovative film uses painted still images – it’s like being read a graphic novel by a cast including Oscar Isaac, Evangeline Lilly and Elliott Gould This Israeli animated film has been…",
+      "publisher": "The Guardian",
+      "author": "Leslie Felperin",
+      "date": "2026-09-15T10:00:40+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/15/legend-of-destruction-review-starry-voices-grace-animated-telling-of-thejewish-revolt-against-the-romans",
+      "image": "https://i.guim.co.uk/img/media/2affff4a06a87cec1249905a2ca7d7639c9be259/409_0_1349_1080/master/1349.jpg?width=140&quality=85&auto=format&fit=max&s=dd86415ce6512915f529993c61b964a8",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "9a38433d52c941e6",
+      "title": "Channel 4 & Paramount’s 5 Make History With Advertising Deal",
+      "quote": "Channel 4 and Paramount UK network 5 (previously Channel 5) have struck a historic pact over advertising. For the first time, two UK public service broadcasters will join together on ads, with Channel 4 Sales becoming…",
+      "publisher": "Deadline",
+      "author": "Max Goldbart",
+      "date": "2026-09-15T09:58:05+00:00",
+      "link": "https://deadline.com/2026/09/channel-4-paramount-5-make-history-advertising-partnership-1237103747/",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/79486_S17_-Embargoed-2100-Sunday-16th-August-GBBO-S17-First-Look-1-e1787952561416.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "3b19e4fd19a31c99",
+      "title": "‘The Paper’ Season 2 review: Domhnall Gleeson and friends bring earnest charisma to the Toledo Truth Teller’s latest exploits",
+      "quote": "‘The Office’ spinoff continues to float by on charm and good vibes as it dives enthusiastically into podcasts and potholes",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-15T09:13:39+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/the-paper-season-2-review-domhnall-gleeson-and-friends-bring-earnest-charisma-to-the-toledo-truth-tellers-latest-exploits/article71467027.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/4m8ipi/article71467389.ece/alternates/LANDSCAPE_1200/the-paper-main-090525-83d430b35b474d729f38c924aa757bdf.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "c2f8a473439ddb9f",
+      "title": "PBS Buys Dutch Dementia Doc ‘Human Forever’, Which Follows ‘The Greta Thunberg Of Healthcare’",
+      "quote": "EXCLUSIVE: PBS has picked up a Dutch documentary that follows Teun Toebes, a humanitarian activist known as ‘the Greta Thunberg of healthcare.’ Human Forever comes from indie Dutch producer Super7even Productions, which…",
+      "publisher": "Deadline",
+      "author": "Jesse Whittock",
+      "date": "2026-09-15T09:10:44+00:00",
+      "link": "https://deadline.com/2026/09/pbs-buys-human-forever-dementia-documentary-1237103721/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Human-Forever.png",
+      "category": "World Cinema"
+    },
+    {
+      "id": "beea25dd7ad6ed1b",
+      "title": "‘Last Man in Tower’: How Ben Rekhi’s ‘outsider’ gaze places Manoj Bajpayee at the heart of Mumbai’s redevelopment horror",
+      "quote": "The filmmaker discusses what went into adapting Aravind Adiga’s book, the suggestions he receieved from the writer, why he thinks Manoj Bajpayee is an intuitive actor and more",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-15T09:02:31+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/last-man-in-tower-how-ben-rekhis-outsider-gaze-places-manoj-bajpayee-at-the-heart-of-mumbais-redevelopment-horror/article71466608.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/s31hfy/article71466668.ece/alternates/LANDSCAPE_1200/Ben%20Rekhi%20and%20Manoj%20Bajpayee%E2%80%99s%20still%20from%20%E2%80%98Last%20Man%20in%20Tower%E2%80%99",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "477be9a949ba3ddf",
+      "title": "‘Jaadugar: A Witch in Mongolia’ series review: A wickedly well-read corrective to Orientalist caricature",
+      "quote": "One of the year’s most erudite historical anime, ‘Jaadugar’ rummages through the machinery of empire with scholarly curiosity, gives Islamic history the dignity of lived experience, and discovers that the Mongol court…",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-15T09:01:16+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/jaadugar-a-witch-in-mongolia-series-review-a-wickedly-well-read-corrective-to-orientalist-caricature/article71467279.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/f8u18i/article71467313.ece/alternates/LANDSCAPE_1200/HSPZZKaWkAA7XuY.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "18d0daf1d854a2db",
+      "title": "Snäxx Launches As Europe’s Latest Microdrama App Player",
+      "quote": "Europe has its latest microdrama platform, Snäxx. The service, which has been in the works for some time, has the backing of Germany vertical video business Black Forest Studios and a board of “top-level” media…",
+      "publisher": "Deadline",
+      "author": "Jesse Whittock",
+      "date": "2026-09-15T08:37:03+00:00",
+      "link": "https://deadline.com/2026/09/snaxx-launches-europe-microdrama-app-1237103706/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Black-Forest-Studios.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "e31366e8e298b44e",
+      "title": "Rashmika Mandanna to play MS Subbulakshmi; Anirudh Ravichander to compose music",
+      "quote": "The film, directed by Gowtam Tinnanuri, is set to be launched tomorrow in Chennai on the singer’s 110th birth anniversary",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-15T08:12:27+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/rashmika-mandanna-ms-subbulakshmi-biopic-anirudh-ravichander-gowtam-tinnanuri/article71467205.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/oase73/article71467203.ece/alternates/LANDSCAPE_1200/MS%20Subbulakshmi%20Rashmika%20Mandanna.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "7ce8f39cfefa6500",
+      "title": "Andy Weir's Original Dream Casting For The Martian Wasn't Matt Damon",
+      "quote": "Sci-fi author Andy Weir praised Matt Damon's leading performance in The Martian, but he originally envisaged another actor in the role.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Ryan Scott)",
+      "date": "2026-09-15T08:10:00+00:00",
+      "link": "https://www.slashfilm.com/2256947/andy-weir-original-the-martian-casting-bradley-cooper-not-matt-damon/",
+      "image": "https://www.slashfilm.com/img/gallery/andy-weirs-original-dream-casting-for-the-martian-wasnt-matt-damon/l-intro-1789315330.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "4736180421de8c46",
+      "title": "Night of the Coyotes review – border-crossing role-play is tourist attraction in struggling Mexican town",
+      "quote": "Clara Trischler’s absorbing feature sees residents of the small town of El Alberto hired to play characters in a re-enactment of the migrant experience In contrast to other migration documentaries, which focus on the…",
+      "publisher": "The Guardian",
+      "author": "Phuong Le",
+      "date": "2026-09-15T08:00:29+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/15/night-of-the-coyotes-review-role-playing-migrants-highlight-loss-in-a-depleted-mexican-town",
+      "image": "https://i.guim.co.uk/img/media/fc5f543fd1f1ef56c9e3a52ad72e497efe3cc44f/571_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=3e100153c2c8a33485c2177826e38794",
+      "category": "World Cinema"
+    },
+    {
+      "id": "8f9aa63c896d3750",
+      "title": "Premature review – sunny charm provides screwball energy for surprise-pregnancy comedy",
+      "quote": "First-time director Kevin Walls creates a film sweet-natured enough to cancel out some comedy misfires as flatmates Eilidh and Cameron prepare for parenthood The pram in the hallway is the enemy of good art, or so the…",
+      "publisher": "The Guardian",
+      "author": "Cath Clarke",
+      "date": "2026-09-15T06:00:29+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/15/premature-review-sunny-charm-provides-screwball-energy-for-surprise-pregnancy-comedy",
+      "image": "https://i.guim.co.uk/img/media/ac4253394bba6e601549810df17c21663c462c66/975_0_2143_1716/master/2143.jpg?width=140&quality=85&auto=format&fit=max&s=1d5df4aac491362c81930078e2f1d9ec",
+      "category": "World Cinema"
+    },
+    {
+      "id": "8666ae9fa368c92e",
+      "title": "Goodfellas Boards World Sales On Kamila Andini’s ‘Four Seasons In Java’ Ahead Of Toronto Premiere",
+      "quote": "Goodfellas has picked up international sales rights to Indonesian filmmaker Kamila Andini’s Four Seasons In Java ahead of its world premiere in the Centrepiece programme at Toronto International Film Festival. Produced…",
+      "publisher": "Deadline",
+      "author": "Liz Shackleton",
+      "date": "2026-09-15T05:34:18+00:00",
+      "link": "https://deadline.com/2026/09/goodfellas-kamila-andini-putri-marino-four-seasons-in-java-1237103639/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Four-Seasons-In-Java.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "2907c60b44914524",
+      "title": "Emmys 2026: When and where to watch the award ceremony",
+      "quote": "In India, Emmys 2026 will take place on Tuesday, September 15, with the red carpet coverage beginning at 4:30 am IST",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-15T05:29:33+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/emmys-2026-when-and-where-to-watch-the-award-ceremony-live/article71465682.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/q5vtez/article71465695.ece/alternates/LANDSCAPE_1200/cvr%2090.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "b77455c94d1c640b",
+      "title": "‘Fjord’ trailer: Cristian Mungiu’s Palme d’Or winner stars Sebastian Stan and Renate Reinsve",
+      "quote": "The Romanian filmmaker’s first English-language feature follows a religious Romanian-Norwegian family whose lives unravel after allegations of child abuse",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-15T05:25:19+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/fjord-trailer-cristian-mungius-palme-dor-winner-stars-sebastian-stan-and-renate-reinsve/article71399875.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/j1r37a/article71399873.ece/alternates/LANDSCAPE_1200/Fjord-trailer-082726-2-228d2ae6791a4b96849b37e9edac6ee2.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "b9d6a550541dd41d",
+      "title": "‘All of a Sudden’ trailer: Ryusuke Hamaguchi’s Cannes-winning drama promises an emotional rollercoaster",
+      "quote": "The film earned its lead actors, Virginie Efira and Tao Okamoto, a shared Best Actress award at the 79th Cannes Film Festival this year",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-15T05:24:25+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/all-of-a-sudden-trailer-ryusuke-hamaguchi-cannes-virginie-efira-tao-okamoto/article71455271.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/3v0g8n/article71455294.ece/alternates/LANDSCAPE_1200/all%20of%20a%20sudden%20trailer.png",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "9474fbaf2ffe5896",
+      "title": "Apple Takes Victory Lap After Emmy Bonanza: “You Can’t Predict These Things”",
+      "quote": "Eddy Cue joined Apple in 1989, the year that shows such as Cheers and L.A. Law were dominating the Emmys. Fast forward 37 years and it is Apple that dominated the ceremony with a record-breaking night for Widow’s Bay…",
+      "publisher": "Deadline",
+      "author": "Peterdeadline",
+      "date": "2026-09-15T05:17:20+00:00",
+      "link": "https://deadline.com/2026/09/apple-emmy-reaction-wins-eddy-cue-interview-1237103594/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Widows_Bay_Photo_010403.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "2363c8c8c489bc6b",
+      "title": "Emmys 2026: Matthew Rhys makes Emmy history with double wins for ‘Widow’s Bay’ and ‘The Beast in Me’",
+      "quote": "The win this year has also made him the first male actor to grab an Emmy in all three lead acting categories",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-15T05:12:17+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/emmys-2026-matthew-rhys-makes-emmy-history-with-double-wins-for-widows-bay-and-the-beast-in-me/article71466557.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/jxjl3x/article71466563.ece/alternates/LANDSCAPE_1200/Matthew%20Rhys%20accepts%20the%20Emmy%20for%20Outstanding%20Lead%20Actor%20in%20a%20Comedy%20Series%20for%20Widow%E2%80%99s%20Bay%20during%20the%20Television%20Academy%E2%80%99s%2078th%20Emmy%20Awards",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "c80c9a90102afbc5",
+      "title": "‘The Pitt’ Celebrates Wins With Season 3 Update; Noah Wyle On Enjoying Latest Success Years After ‘ER’ – Emmys Backstage",
+      "quote": "For a second year in a row, The Pitt has been honored with the Emmy Award for Outstanding Drama Series. The hit HBO Max medical drama scored five additional wins this year: Outstanding Lead Actor in a Drama Series for…",
+      "publisher": "Deadline",
+      "author": "Rosy Cordero",
+      "date": "2026-09-15T04:41:20+00:00",
+      "link": "https://deadline.com/2026/09/the-pitt-emmy-win-season-2-2026-outstanding-drama-1237103303/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2295332042.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "628cafe3e2a701f5",
+      "title": "‘The Life and Deaths of Wilson Shedd’ Review: Amanda Seyfried and Scoot McNairy Are Powerful in Tim Blake Nelson’s Twisty Dark-Side Prison Saga",
+      "quote": "Tim Blake Nelson’s \"The Life and Deaths of Wilson Shedd\" is a gripping, wrenching, dark-as-midnight crime drama that taps into a phenomenon many might view as an underground secret (or maybe they just don’t know…",
+      "publisher": "Variety",
+      "author": "Owen Gleiberman",
+      "date": "2026-09-15T04:21:56+00:00",
+      "link": "https://variety.com/2026/film/reviews/the-life-and-deaths-of-wilson-shedd-review-amanda-seyfried-1236861069/",
+      "image": "https://variety.com/wp-content/uploads/2026/08/THE-LIFE-AND-DEATHS-OF-WILSON-SHED.jpg",
       "category": "World Cinema"
     },
     {
@@ -31,28 +273,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "a92781912b3ffc44",
-      "title": "Emmys 2026: Michael J. Fox receives Bob Hope Humanitarian Award",
-      "quote": "A five-time Emmy Award-winning actor, Michael receieved the Humanitarian honour for his Parkinson’s advocacy",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-15T04:10:36+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/emmys-2026-michael-j-fox-receives-bob-hope-humanitarian-award/article71466585.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/flksuf/article71466588.ece/alternates/LANDSCAPE_1200/Michael%20J.%20Fox%20accepts%20the%20Bob%20Hope%20Humanitarian%20Award%20during%20the%2078th%20Primetime%20Emmy%20Awards%20in%20Los%20Angeles%20California%20U.S.%20September%2014%202026.",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "33d2868e0f862ccd",
-      "title": "Emmys 2026 winners list: ‘Widow’s Bay’ dominates, ‘The Pitt’ holds on — full results and surprises",
-      "quote": "The 2026 Emmys delivered a night of upsets and history as ‘Widow’s Bay’ dominated the comedy race, ‘The Pitt’ defended its drama series crown and ‘DTF St. Louis’ pulled off a major win in the limited series race",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-15T04:01:36+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/emmys-2026-winners-full-list-emmy-awards/article71466454.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/c2sgq0/article71466650.ece/alternates/LANDSCAPE_1200/Copy%20of%20G2%20Cover.jpg",
-      "category": "Indian Cinema"
-    },
-    {
       "id": "e451b6178585300c",
       "title": "I Play Rocky",
       "quote": "Farrelly and his team land their punches in remarkably crowd-pleasing ways.",
@@ -64,114 +284,48 @@
       "category": "World Cinema"
     },
     {
-      "id": "f41e3077d3ff3a2a",
-      "title": "Sally Field Reflects On Filming ‘Remarkably Bright Creatures’ In Canada: “Let’s Keep Our Neighbors Close” — Emmys Backstage",
-      "quote": "Sally Field would like the United States to play nice with its neighbors to the north. After winning an Emmy award on Monday night for Netflix’s Remarkably Bright Creatures, the actress used some of her time backstage…",
-      "publisher": "Deadline",
-      "author": "Katie Campione",
-      "date": "2026-09-15T03:54:20+00:00",
-      "link": "https://deadline.com/2026/09/sally-field-remarkably-bright-creatures-filming-canada-emmys-1237103305/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2295315509.jpg",
-      "category": "World Cinema"
+      "id": "c40daf6532ae1f0b",
+      "title": "Catherine O'Hara's onscreen kids pay tribute to \"mama\" at the Emmys",
+      "quote": "Macauley Culkin, Annie Murphy and Dan Levy said an emotional farewell to the <i>Home Alone</i> and <i>Schitt's Creek</i> star before the show's In Memoriam segment.",
+      "publisher": "The A.V. Club",
+      "author": "Dennis Perkins",
+      "date": "2026-09-15T03:39:33+00:00",
+      "link": "https://www.avclub.com/catherine-ohara-tribute-macauley-culkin-dan-levy",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/14232305/OHARA-feature.jpg",
+      "category": "Indie Gems"
     },
     {
-      "id": "71fb1eea3b698360",
-      "title": "Emmys: What You Didn’t See On TV; Tom Holland, Zendaya, Charlie Hunnam, Nicole Kidman & More",
-      "quote": "There were plenty of memorable moments on camera at Monday night’s 78th Emmy Awards, but much went on off-camera as well. Emmy history was made tonight by Matthew Rhys, who became the first actor to win across all three…",
-      "publisher": "Deadline",
-      "author": "Denise Petski",
-      "date": "2026-09-15T03:37:07+00:00",
-      "link": "https://deadline.com/2026/09/emmys-2026-off-camera-moments-behind-the-scenes-1237102313/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Matthew-Rhys-jean-smart.jpg",
-      "category": "World Cinema"
+      "id": "5e4d4b9170064892",
+      "title": "Olivia Benson tries to solve the case, \"Will Taylor Swift be at the Emmys?\"",
+      "quote": "The cast of <i>Law & Order: SVU</i> (and Taylor Swift) helps work through Mariska Hargitay's conspiracy board.",
+      "publisher": "The A.V. Club",
+      "author": "Dennis Perkins",
+      "date": "2026-09-15T02:01:17+00:00",
+      "link": "https://www.avclub.com/taylor-swift-olivia-benson-ice-t-emmys",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/14220011/benson-swift-feature.jpg",
+      "category": "Indie Gems"
     },
     {
-      "id": "fcfe7298420ebeed",
-      "title": "Emmys 2026: Tributes paid to Dolly Parton, Catherine O’Hara, Rob Reiner and others",
-      "quote": "Noah Kahan performed ‘Bridge Over Troubled Water’ as images were displayed of all those from the TV industry who passed away last year, including, Anthony Head, Diane Ladd, Dolly, James Van Der Beek, Robert Duvall, Eric…",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-15T03:23:10+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/emmys-2026-tributes-paid-to-dolly-parton-catherine-ohara-rob-reiner-and-others/article71466631.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/dd4vd2/article71466637.ece/alternates/LANDSCAPE_1200/Macaulay%20Culkin%20Annie%20Murphy%20and%20Dan%20Levy%20pay%20tribute%20to%20Catherine%20O%E2%80%99Hara%20during%20the%2078th%20Emmy%20Awards%20at%20the%20Peacock%20Theater%20in%20Los%20Angeles.%20",
-      "category": "Indian Cinema"
+      "id": "acfd6dd0a028710d",
+      "title": "Matthew Rhys collects two lead actor Emmys in the same night",
+      "quote": "Rhys became the first man to pull it off, and the first actor since Glenda Jackson in 1972.",
+      "publisher": "The A.V. Club",
+      "author": "Drew Gillis",
+      "date": "2026-09-15T01:44:11+00:00",
+      "link": "https://www.avclub.com/emmys-2026-matthew-rhys-two-awards",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/14214301/MixCollage-14-Sep-2026-09-42-PM-7944.jpg",
+      "category": "Indie Gems"
     },
     {
-      "id": "5b2de6b20fc37cc7",
-      "title": "Emmy Analysis & Scorecards: Apple Breaks Records & Leads Honors With Huge Night For ‘Widow’s Bay’",
-      "quote": "From the moment that “Lancashire lass” Kate O’Flynn won the Emmy for Outstanding Supporting Actress in a Comedy Series for her role as “sassy broad” Patricia, it was clear that Apple and Widow’s Bay were going to have a…",
-      "publisher": "Deadline",
-      "author": "Peterdeadline",
-      "date": "2026-09-15T03:12:31+00:00",
-      "link": "https://deadline.com/2026/09/emmy-scorecards-apple-records-top-honors-widows-bay-1237103340/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/RP_A3526_9d27fe.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "1d1d802fc6295fed",
-      "title": "Emmy TV Review: Host Mariska Hargitay Let Down By Skits, Script & Taylor Swift Cameo Way Below ‘Law & Order: SVU’ Star’s Pay Grade",
-      "quote": "The 78th Primetime Emmy Awards had a distinct bicoastal approach Monday night, and let’s be honest, something truly got lost along the way, to put it politely. Sorry, Stephen Colbert, but “if you like the comedy…",
-      "publisher": "Deadline",
-      "author": "Dominic Patten",
-      "date": "2026-09-15T03:05:41+00:00",
-      "link": "https://deadline.com/2026/09/emmys-review-broadcast-2026-ceremony-nbc-1237102392/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2295305577.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "e332415fc77b5bd1",
-      "title": "Emotional Tributes To Catherine O’Hara And Rob Reiner Bookend Emmys In Memoriam Segment",
-      "quote": "The Emmys in memoriam segment hit harder than usual at Monday night’s ceremony, bookending its 10 minutes of airtime with heartfelt tributes to Catherine O’Hara and Rob Reiner. Macalay Culkin, who appeared in the first…",
-      "publisher": "Deadline",
-      "author": "Dade Hayes",
-      "date": "2026-09-15T03:05:34+00:00",
-      "link": "https://deadline.com/2026/09/emmys-in-memoriam-2026-catherine-ohara-1237102549/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2294869779.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "ec11c6278fca29f5",
-      "title": "‘Charlie’s Angels’ Stars Kate Jackson, Jaclyn Smith & Cheryl Ladd Reunite At Emmys, Remember Farrah Fawcett",
-      "quote": "As Charlie’s Angels marks its 50th anniversary since its launch in 1976, stars Kate Jackson, Jaclyn Smith and Cheryl Ladd reunited Monday night at the 78th Emmy Awards to present the Outstanding Drama Series Emmy,. The…",
-      "publisher": "Deadline",
-      "author": "Denise Petski",
-      "date": "2026-09-15T03:05:02+00:00",
-      "link": "https://deadline.com/2026/09/charlies-angels-reunion-2026-emmys-kate-jackson-jaclyn-smith-1237099553/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/RP_B1545.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "0086879aa196e59a",
-      "title": "‘Widow’s Bay’ Wins Best Comedy Series, Breaks Emmy Comedy Record With 14 Wins, Topping Last Year’s ‘The Studio’",
-      "quote": "Widow’s Bay wins Emmy night! After one of the most talked-about Emmy races in recent memory, Katie Dippold’s Apple TV comedy about a group of oddballs living on a haunted Massachusetts island has taken home the Emmy for…",
-      "publisher": "Deadline",
-      "author": "Antonia Blyth",
-      "date": "2026-09-15T03:04:25+00:00",
-      "link": "https://deadline.com/2026/09/widows-bay-emmy-win-2026-outstanding-comedy-1237103077/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/RP_A3526.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "6dc699b9bead7448",
-      "title": "Emmys 2026: Jean Smart creates history as she bags best actress award for ‘Hacks’",
-      "quote": "Jean has become the first comedy lead actor to win the award for every season of a single television series",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-15T02:48:51+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/emmy-awards-2026-jean-smart-creates-history-as-she-bags-best-actress-award-for-hacks/article71466508.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/vlpllg/article71466511.ece/alternates/LANDSCAPE_1200/Jean%20Smart%20receives%20Best%20Lead%20Actress%20in%20a%20Comedy%20Series%20for%20%E2%80%98Hacks%E2%80%99%20during%20the%2078th%20Primetime%20Emmy%20Awards%20in%20Los%20Angeles%20California%20U.S.",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "2363c8c8c489bc6b",
-      "title": "Emmys 2026: Matthew Rhys makes Emmy history with double wins for ‘Widow’s Bay’ and ‘The Beast in Me’",
-      "quote": "The win this year has also made him the first male actor to grab an Emmy in all three lead acting categories",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-15T02:01:28+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/emmys-2026-matthew-rhys-makes-emmy-history-with-double-wins-for-widows-bay-and-the-beast-in-me/article71466557.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/jxjl3x/article71466563.ece/alternates/LANDSCAPE_1200/Matthew%20Rhys%20accepts%20the%20Emmy%20for%20Outstanding%20Lead%20Actor%20in%20a%20Comedy%20Series%20for%20Widow%E2%80%99s%20Bay%20during%20the%20Television%20Academy%E2%80%99s%2078th%20Emmy%20Awards",
-      "category": "Indian Cinema"
+      "id": "325222bc0ff505cc",
+      "title": "Mariska Hargitay opens the Emmys by belting out Joan Jett and cuddling Jean Smart",
+      "quote": "The <i>Law & Order</i> star's opening number also included a basketball star, a TV legend, and some mid-air nudity.",
+      "publisher": "The A.V. Club",
+      "author": "Dennis Perkins",
+      "date": "2026-09-15T00:58:16+00:00",
+      "link": "https://www.avclub.com/emmys-hargitay-musical-number",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/14205707/Mariska-Jean-feature.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "4894df7be7fb7bee",
@@ -196,6 +350,17 @@
       "category": "Indie Gems"
     },
     {
+      "id": "d528fe25de4bf002",
+      "title": "Jean Smart goes 5 for 5 at the Emmys",
+      "quote": "For the fifth time in a row, the actor behind Deborah Vance earned the Emmy Award for Best Actress in a Comedy Series.",
+      "publisher": "The A.V. Club",
+      "author": "Drew Gillis",
+      "date": "2026-09-15T00:37:32+00:00",
+      "link": "https://www.avclub.com/jean-smart-hacks-fifth-win",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/14203550/MixCollage-14-Sep-2026-08-34-PM-6113.jpg",
+      "category": "Indie Gems"
+    },
+    {
       "id": "956c34c95ad7fc64",
       "title": "2026 Emmys Winners List: 'Widow's Bay' And 'The Pitt' Score Big",
       "quote": "Wondering who came away as a winner on television's biggest night? Here's the full list of Emmy winners from the 2026 ceremony.",
@@ -204,6 +369,39 @@
       "date": "2026-09-14T23:55:59+00:00",
       "link": "https://www.slashfilm.com/2258477/2026-emmys-winners-list/",
       "image": "https://www.slashfilm.com/img/gallery/2026-emmys-winners-list/l-intro-1789440901.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "4d55d3f96515fc18",
+      "title": "‘A Talent for Murder’ Review: Helen Mirren Is a Deliciously Bitter Patricia Highsmith in a Sleek Literary Noir That Doesn’t Quite Draw Blood",
+      "quote": "We’ve grown so used to seeing Helen Mirren imperiously slumming her way through boilerplate grande dame roles in recent years that it’s a genuine thrill to see the actress bare her teeth in “A Talent for Murder” —…",
+      "publisher": "Variety",
+      "author": "Guy Lodge",
+      "date": "2026-09-14T23:51:56+00:00",
+      "link": "https://variety.com/2026/film/reviews/a-talent-for-murder-review-helen-mirren-1236861698/",
+      "image": "https://variety.com/wp-content/uploads/2026/09/A-Talent-for-Murder-01.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "ea5041a32fbf1cf1",
+      "title": "All of the winners at the 78th Primetime Emmy Awards",
+      "quote": "Mariska Hargitay hosts the ceremony on NBC and Peacock.",
+      "publisher": "The A.V. Club",
+      "author": "Drew Gillis",
+      "date": "2026-09-14T23:49:54+00:00",
+      "link": "https://www.avclub.com/emmys-2026-winners-list",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/01/09144356/emmy-statues.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "00fd1bd04a88922a",
+      "title": "We've reached the Crazy Taxi point of Hollywood's video game movie rush",
+      "quote": "Netflix is teaming with Sega for a new Sonic TV show and a film based on the upcoming game Stranger Than Heaven. But what we really want to know is: Are The Offspring involved with the Crazy Taxi movie?",
+      "publisher": "The A.V. Club",
+      "author": "Matt Schimkowitz",
+      "date": "2026-09-14T23:31:49+00:00",
+      "link": "https://www.avclub.com/crazy-taxi-movie",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/14192524/Screenshot-2026-09-14-at-4.24.27-PM.jpg",
       "category": "Indie Gems"
     },
     {
@@ -251,17 +449,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "651e6a2eac196a90",
-      "title": "Audience is growing with FX's Adults",
-      "quote": "Proving itself not a Netflix show, Adults' audience has jumped by more than 40% in season two.",
-      "publisher": "The A.V. Club",
-      "author": "Matt Schimkowitz",
-      "date": "2026-09-14T20:09:48+00:00",
-      "link": "https://www.avclub.com/fx-hulu-adults-second-season-grows",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/12094815/adults-season-2.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "63097c2df2fc8683",
       "title": "Before Gilligan's Island, Tina Louise Appeared In A Well-Liked Sitcom We Don't Talk About Anymore",
       "quote": "Before Tina Louise had her big breakout role in Gilligan's Island, she guest-starred on another successful sitcom that's since been forgotten.",
@@ -270,17 +457,6 @@
       "date": "2026-09-14T20:00:00+00:00",
       "link": "https://www.slashfilm.com/2256997/gilligans-island-tina-louise-sitcom-appearance-the-real-mccoys/",
       "image": "https://www.slashfilm.com/img/gallery/before-gilligans-island-tina-louise-appeared-in-a-well-liked-sitcom-we-dont-talk-about-anymore/l-intro-1789337500.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "6da692f7445b6f48",
-      "title": "2026 Emmy Awards Live Updates: Biggest Moments, Surprises, And Highlights",
-      "quote": "Follow along with us as we tune in to watch the 78th Emmy Awards to track the night's biggest surprises, bits, and wins - live.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Nina Starner)",
-      "date": "2026-09-14T19:20:46+00:00",
-      "link": "https://www.slashfilm.com/2258144/2026-emmy-awards-live-updates/",
-      "image": "https://www.slashfilm.com/img/gallery/2026-emmy-awards-live-updates/l-intro-1789441206.jpg",
       "category": "Indie Gems"
     },
     {
@@ -306,17 +482,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "7df4def31cf3f5b7",
-      "title": "Vertical catches Cliffhanger reboot mid-freefall",
-      "quote": "Lily James and Pierce Brosnan star in a reboot of the Sylvester Stallone action film Cliffhanger, opening Spring 2027.",
-      "publisher": "The A.V. Club",
-      "author": "Matt Schimkowitz",
-      "date": "2026-09-14T18:29:06+00:00",
-      "link": "https://www.avclub.com/vertical-acquires-cliffhanger-rights",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/14142308/cliffhanger-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "ef4078bdd18fc188",
       "title": "‘Love of Your Life’ Review: Margaret Qualley Eats, Grieves and Loves in an Unpersuasive Romantic Travelogue",
       "quote": "The actress stars alongside Patrick Schwarzenegger, Aaron Pierre and Gabriel Basso in the Rachel Morrison-directed drama premiering in Toronto.",
@@ -326,17 +491,6 @@
       "link": "https://www.hollywoodreporter.com/movies/movie-reviews/love-of-your-life-review-margaret-qualley-rachel-morrison-1236700696/",
       "image": null,
       "category": "World Cinema"
-    },
-    {
-      "id": "9d32820f92a8dabb",
-      "title": "Canada's Knievel gets his due in the warmhearted comedy The Stunt Driver",
-      "quote": "The daredeviling comedy biopic from Jay Baruchel and Michael Dowse, The Stunt Driver charms even if it doesn't quite stick the landing.",
-      "publisher": "The A.V. Club",
-      "author": "Monica Castillo",
-      "date": "2026-09-14T18:00:44+00:00",
-      "link": "https://www.avclub.com/the-stunt-driver-review-ken-carter-jay-baruchel",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/14105623/the-stunt-driver-header.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "773d77246c25662e",
@@ -350,39 +504,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "997480a2e165ac86",
-      "title": "Philomena Cunk On Cinema puts Michael Bay, Benedict Cumberbatch in the hot director's chair",
-      "quote": "Cunk On Cinema, Philomena Cunk's latest exploration into the truth, will be available on the BBC in the U.K. and Ireland and on Netflix for the rest of us.",
-      "publisher": "The A.V. Club",
-      "author": "Matt Schimkowitz",
-      "date": "2026-09-14T17:33:54+00:00",
-      "link": "https://www.avclub.com/philomena-cunk-on-cinema-first-look-photo",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/14132548/cunk-on-cinema-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "8f60db34fa3d3704",
-      "title": "R.I.P. Bob Mackie, costume designer for Cher, Carol Burnett, and many more",
-      "quote": "Mackie, who dressed Hollywood for decades, was 87.",
-      "publisher": "The A.V. Club",
-      "author": "Drew Gillis",
-      "date": "2026-09-14T17:14:11+00:00",
-      "link": "https://www.avclub.com/bob-mackie-dies-carol-burnett-cher",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/14131003/MixCollage-14-Sep-2026-01-09-PM-5331.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "749bd368734b1729",
-      "title": "It turns out The Uprising isn't really a Robin Hood movie",
-      "quote": "While Robin Hood died at the movies this year, the would-be origin story of The Uprising only reincarnates a lookalike.",
-      "publisher": "The A.V. Club",
-      "author": "Jacob Oller",
-      "date": "2026-09-14T17:00:58+00:00",
-      "link": "https://www.avclub.com/spoiler-space-the-uprising-isnt-a-robin-hood-movie",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/10162440/uprising-wat-header.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "4e63161074140871",
       "title": "Jeremy Thomas obituary",
       "quote": "Film producer who enjoyed his greatest success with the 1987 epic The Last Emperor for which he won an Oscar Asked whether he had ever cautioned restraint from a director, the film producer Jeremy Thomas replied: “My…",
@@ -392,17 +513,6 @@
       "link": "https://www.theguardian.com/film/2026/sep/14/jeremy-thomas-obituary",
       "image": "https://i.guim.co.uk/img/media/e309f533d7a91c5cb7107d3901b3de39e7660482/305_35_2191_1753/master/2191.jpg?width=140&quality=85&auto=format&fit=max&s=ed428d23d8754e2f94104af52d463339",
       "category": "Festival Winners"
-    },
-    {
-      "id": "8e973d7bb83b93af",
-      "title": "France introduces an awards contender in Minotaur trailer",
-      "quote": "The new feature from writer/director Andrey Zvyagintsev opens in select theaters on November 20.",
-      "publisher": "The A.V. Club",
-      "author": "Drew Gillis",
-      "date": "2026-09-14T15:55:56+00:00",
-      "link": "https://www.avclub.com/minotaur-trailer-france-oscar",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/14115339/MixCollage-14-Sep-2026-11-49-AM-7047.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "65fece1b16bbe57c",
@@ -425,39 +535,6 @@
       "link": "https://www.hollywoodreporter.com/movies/movie-reviews/the-last-photograph-review-zack-snyder-1236699771/",
       "image": null,
       "category": "World Cinema"
-    },
-    {
-      "id": "46234e08c1b4d07f",
-      "title": "Vijay meets Ajith Kumar: 4 memorable times the Tamil stars met in the past",
-      "quote": "Former actor and Tamil Nadu Chief Minister Vijay’s meeting with actor and racer Ajith Kumar on the sidelines of the Michelin Le Mans Cup at Silverstone in the UK has taken the Internet by storm",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-14T13:08:39+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/vijay-meets-ajith-kumar-silverstone-le-mans-car-race-thala-thalapathy-london/article71455432.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/5922t4/article71460959.ece/alternates/LANDSCAPE_1200/Ajith%20Kumar%20Vijay%20Silverstone%20Le%20Mans%20Meeting%201.jpg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "6ed4a19e20010336",
-      "title": "‘Power House’ is Vikram’s next with Anand Shankar; title teaser out",
-      "quote": "‘Power House’, previously called ‘Chiyaan 63’, will release in 2027",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-14T13:03:36+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/power-house-chiyaan-vikram-anand-shankar-riya-shibu-sathya-jyothi-films/article71465917.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/ucqaud/article71466067.ece/alternates/LANDSCAPE_1200/Chiyaan%20Vikram%20Power%20House.png",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "d48fb8da0fda1fea",
-      "title": "‘The Ghost in the Shell’ series review: Science SARU’s sprightly cyberpunk adaptation gives Shirow’s ghost a freshly minted shell",
-      "quote": "Science SARU’s manga-faithful reboot gives Masamune Shirow’s seminal cyberpunk blueprint a timely system update, preserving its unruly intelligence while sharpening its suspicions about consciousness as a commodity",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-14T13:02:15+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/the-ghost-in-the-shell-anime-review-science-saru/article71466013.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/gsbbqv/article71466017.ece/alternates/LANDSCAPE_1200/HMGiD1WXEAA3LlM.jpg",
-      "category": "Indian Cinema"
     },
     {
       "id": "76b155a135c2eae5",
@@ -501,50 +578,6 @@
       "date": "2026-09-14T11:00:00+00:00",
       "link": "https://www.bbc.com/culture/article/20260911-the-tomb-raiders-who-plundered-million-dollar-pots?ocid=global_culture_rss",
       "image": "https://ychef.files.bbci.co.uk/144x81/p0p961lr.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "4288c6ef610dc85e",
-      "title": "The Route to Cappyness review – capybara boosterism is an ode to the internet’s favourite rodent",
-      "quote": "From a cappy-cafe owner in Japan to an escaped capybara in the UK, this homespun film takes the temperature of an international obsession One of Midlands-based film-maker Sharon Walia’s previous works was The Keepers of…",
-      "publisher": "The Guardian",
-      "author": "Leslie Felperin",
-      "date": "2026-09-14T10:00:55+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/14/the-route-to-cappyness-review-capybara-boosterism-is-an-ode-to-the-internets-favourite-rodent",
-      "image": "https://i.guim.co.uk/img/media/03d41308c30ffa53a3973a71766573a4d69f6365/0_282_1440_1152/master/1440.jpg?width=140&quality=85&auto=format&fit=max&s=09b83ddd0354d11465c84daf74f37a21",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "fcba38f5a5fe1bdb",
-      "title": "‘I never pass up a rewatch’: why Valley Girl is my feelgood movie",
-      "quote": "The latest in our series of writers explaining their most rewatched comfort films brings us back to 1980s LA As a teenager growing up in the 1990s, I was deeply obsessed with all things 1980s pop culture. Chalk it up to…",
-      "publisher": "The Guardian",
-      "author": "Annie Zaleski",
-      "date": "2026-09-14T09:00:53+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/14/valley-girl-my-feelgood-movie",
-      "image": "https://i.guim.co.uk/img/media/711bbc03ae93b11a385f2f4665bb4a37310ff7e8/210_0_2360_1888/master/2360.jpg?width=140&quality=85&auto=format&fit=max&s=be1470735f7d92e60cd46acdd5fddcf1",
-      "category": "World Cinema"
-    },
-    {
-      "id": "7d77399bb8fb6ed2",
-      "title": "Goody Goody review – intriguing natural childbirth horror lurches into demonic occult blowout",
-      "quote": "After Samantha Robinson decides a forest cabin in deep winter is the perfect spot to bear her child, it’s going to be a very bad shift for the doula and midwife Conception, pregnancy and childbirth are defining human…",
-      "publisher": "The Guardian",
-      "author": "Phil Hoad",
-      "date": "2026-09-14T08:00:27+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/14/goody-goody-review-childbirth-drama",
-      "image": "https://i.guim.co.uk/img/media/2cfcf462d1cff0a56fb8ce7fea6e532133fb79b9/203_0_5838_4672/master/5838.jpg?width=140&quality=85&auto=format&fit=max&s=0d1957d73141b6433b11e4ebc138fc23",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "a574e8aeeb116132",
-      "title": "Lenore review – incel’s obsession with online influencer turns into anatomy of dislocated digital-age mindset",
-      "quote": "Digital-age Australian psychodrama tracks the shut-in mania of dangerously disaffected male fan, but doesn’t get inside his mind If the parasocial phenomenon is a kind of hell, then Max Wren, protagonist of this…",
-      "publisher": "The Guardian",
-      "author": "Phil Hoad",
-      "date": "2026-09-14T06:00:25+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/14/lenore-review-incels-obsession-with-online-influencer-turns-into-anatomy-of-dislocated-digital-age-mindset",
-      "image": "https://i.guim.co.uk/img/media/2f75e6c5307a034f48dfaf0555bd1a2129342ca9/285_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=1cb35761d858a45c3eea9aa51d6846b3",
       "category": "World Cinema"
     },
     {
@@ -658,17 +691,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "74a3d5058e9a6fb2",
-      "title": "‘Union Town’ Review: Barbara Kopple’s Labor Rights Documentary Is Both Aptly Angry and Optimistically Community-Minded",
-      "quote": "Across the harrowing financial realities of late capitalism, an indisputable global fact is the injustices faced by countless workers who deliver everything we have come to rely on, from food orders to Amazon purchases…",
-      "publisher": "Variety",
-      "author": "Tomilaffly",
-      "date": "2026-09-13T15:45:25+00:00",
-      "link": "https://variety.com/2026/film/reviews/union-town-review-1236854414/",
-      "image": "https://variety.com/wp-content/uploads/2026/08/Union-Town-1.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "b016b778474ae60f",
       "title": "Shaun the Sheep: The Beast of Mossy Bottom",
       "quote": "A clever, funny flick that may not live up to the standards of the first two features, but largely because they set the bar so high.",
@@ -677,17 +699,6 @@
       "date": "2026-09-13T14:00:00+00:00",
       "link": "https://www.rogerebert.com/reviews/shaun-the-sheep-the-beast-of-mossy-bottom-movie-review-2026",
       "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "0b397a4de5a5cde5",
-      "title": "‘The Stunt Driver’ Review: Jay Baruchel Takes a Leap into Tepid Biopic Territory",
-      "quote": "In “The Stunt Driver,” Jay Baruchel reteams with his “Goon” director Michael Dowse and takes on a showy lead part as stunt driver Ken Carter, who’s best remembered for a jump he didn’t make: a proposed mile-long leap…",
-      "publisher": "Variety",
-      "author": "Guy Lodge",
-      "date": "2026-09-13T12:12:46+00:00",
-      "link": "https://variety.com/2026/film/reviews/the-stunt-driver-review-1236860383/",
-      "image": "https://variety.com/wp-content/uploads/2026/09/Still-1-1.jpg",
       "category": "World Cinema"
     },
     {
@@ -787,17 +798,6 @@
       "date": "2026-09-07T11:00:00+00:00",
       "link": "https://www.bbc.com/culture/article/20260904-the-poison-tipped-umbrella-that-pointed-to-a-kgb-murder?ocid=global_culture_rss",
       "image": "https://ychef.files.bbci.co.uk/144x81/p0p80lkj.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "aab88996d0bece9f",
-      "title": "Robert Pattinson is remarkable in film Primetime",
-      "quote": "Robert Pattinson is extraordinary as a paedophile hunter in new film Primetime",
-      "publisher": "BBC Culture",
-      "author": null,
-      "date": "2026-09-05T16:35:00+00:00",
-      "link": "https://www.bbc.com/culture/article/20260905-primetime-review-robert-pattinson-is-extraordinary-as-controversial-paedophile-hunter-chris-hansen?ocid=global_culture_rss",
-      "image": "https://ychef.files.bbci.co.uk/144x81/p0p84qtz.jpg",
       "category": "World Cinema"
     },
     {
