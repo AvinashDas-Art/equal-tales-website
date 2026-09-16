@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T04:27:17.844258+00:00",
+  "generated_at": "2026-09-16T11:17:50.561789+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -9,47 +9,201 @@
   ],
   "reviews": [
     {
-      "id": "12bcdf85cd46f1e6",
-      "title": "NBC L.A. TV News Chopper Crashes, Three Dead",
-      "quote": "Los Angeles Fire Department has confirmed that a helicopter was downed in Chatsworth, leaving at least three people dead. NBC 4 in Los Angeles later confirmed that it was their chopper that went down. Longtime local…",
-      "publisher": "Deadline",
-      "author": "Armando Tinoco",
-      "date": "2026-09-16T04:00:43+00:00",
-      "link": "https://deadline.com/2026/09/tv-news-helicopter-crashes-three-dead-1237104938/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/helicopter-nbc4.jpg",
+      "id": "41ec784f015f8e1e",
+      "title": "Resident Evil: First Reactions To Zach Cregger Horror Movie Surface Online",
+      "quote": "The first reactions to Zach Cregger's take on Resident Evil are flooding in, and they all seem to be overwhelmingly positive.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Chris Evangelista)",
+      "date": "2026-09-16T11:08:49+00:00",
+      "link": "https://www.slashfilm.com/2259915/zach-cregger-resident-evil-movie-first-reactions/",
+      "image": "https://www.slashfilm.com/img/gallery/resident-evil-first-reactions-to-zach-cregger-horror-movie-surface-online/l-intro-1789556815.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "2f165a899c166b38",
+      "title": "Why Mary Magdalene is a divisive biblical figure",
+      "quote": "The iconic saint is surrounded by myth and mystery – as these 10 paintings show",
+      "publisher": "BBC Culture",
+      "author": null,
+      "date": "2026-09-16T11:00:00+00:00",
+      "link": "https://www.bbc.com/culture/article/20260915-why-mary-magdalene-is-a-divisive-biblical-figure?ocid=global_culture_rss",
+      "image": "https://ychef.files.bbci.co.uk/144x81/p0p9rchf.jpg",
       "category": "World Cinema"
     },
     {
-      "id": "403017e145656fb7",
-      "title": "Fired ‘Shrinking’ Crew Member Accuses Warner Bros TV Of Doing Nothing Over Sexual Harassment By EP; Being Scapegoated After Complaining",
-      "quote": "Despite 10 nominations, Shrinking came up short at the Emmys on Monday, but the Warner Bros Television produced show may be taking centerstage in court soon. A longtime Key Second Assistant Director on the Jason Segel…",
-      "publisher": "Deadline",
-      "author": "Dominic Patten",
-      "date": "2026-09-16T02:33:23+00:00",
-      "link": "https://deadline.com/2026/09/shrinking-sexual-harassment-lawsuit-1237104769/",
-      "image": "https://deadline.com/wp-content/uploads/2026/01/Shrinking.jpg",
+      "id": "9f6ee261791cb135",
+      "title": "15 Years Ago Today: One Of The Best Neo-Noir Thrillers Ever Made Arrived In Theaters",
+      "quote": "Put on your scorpion jacket and crank the Kavinsky music as we look back at Nicolas Winding Refn's Drive for its 15th anniversary.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Ryan Scott)",
+      "date": "2026-09-16T11:00:00+00:00",
+      "link": "https://www.slashfilm.com/2259248/drive-best-neo-noir-thriller-ever-15-year-anniversary/",
+      "image": "https://www.slashfilm.com/img/gallery/15-years-ago-today-one-of-the-best-neo-noir-thrillers-ever-made-arrived-in-theaters/l-intro-1789491483.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "c1b085e0efc2baf0",
+      "title": "Your mission, Tom Cruise, is to improve at interviews. And please keep sending the cakes",
+      "quote": "He risks his life for entertainment, but getting an anecdote out of him is a trickier matter. Happily, Cruise is no stranger to knuckling down and pulling off the impossible By now, we’ve grown used to watching Tom…",
+      "publisher": "The Guardian",
+      "author": "Stuart Heritage",
+      "date": "2026-09-16T10:24:01+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/16/your-mission-tom-cruise-is-to-improve-at-interviews-and-please-keep-sending-the-cakes",
+      "image": "https://i.guim.co.uk/img/media/e6552c72052af6953ffc7ae055106a9afdc8a68a/241_0_2565_2052/master/2565.jpg?width=140&quality=85&auto=format&fit=max&s=e5d5d1368a07985aa99af07975361749",
       "category": "World Cinema"
     },
     {
-      "id": "babc89a5eff94538",
-      "title": "‘Possible Love’ DoP Kim Ji-yong, ‘The Blue Road’ Director Han Jun-hee & WETA FX’s Kimball Thurston Among Speakers For Netflix ‘Creative Asia’ At BIFF",
-      "quote": "Netflix has announced that speakers including Possible Love DoP Kim Ji-yong, The Blue Road director Han Jun-hee and WETA FX’s CTO Kimball Thurston will join the streamer’s Creative Asia programme at this year’s Busan…",
+      "id": "b28fe5c283e69ba9",
+      "title": "Whisper of the Heart review – Studio Ghibli deep cut is pep talk on how to live the artistic life",
+      "quote": "Hayao Miyazaki-scripted 90s teen romance sees an aspiring writer drawn to a potential soulmate thanks to library books and a curmudgeonly cat While 2013’s The Wind Rises and 2023’s The Boy and the Heron saw Hayao…",
+      "publisher": "The Guardian",
+      "author": "Phil Hoad",
+      "date": "2026-09-16T10:00:17+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/16/whisper-of-the-heart-review-studio-ghibli-deep-cut-hayao-miyazaki",
+      "image": "https://i.guim.co.uk/img/media/553eae5974f4ebdf9ca20e905cbdc2b15d090151/686_0_2924_2341/master/2924.jpg?width=140&quality=85&auto=format&fit=max&s=c0eacc652f75863e1bde8f741483f28a",
+      "category": "World Cinema"
+    },
+    {
+      "id": "fba31b16a20dd47c",
+      "title": "Wonder Studios: AI Producer Expands LA Office By Hiring CAA Agent & Ex-Westbrook Executive",
+      "quote": "EXCLUSIVE: Wonder Studios, the UK-based AI production outfit valued at $50 million last year, has expanded its Los Angeles operation with two hires. Inder Gill, a media finance agent at CAA, is joining Wonder as head of…",
       "publisher": "Deadline",
-      "author": "Liz Shackleton",
-      "date": "2026-09-16T02:14:03+00:00",
-      "link": "https://deadline.com/2026/09/netflix-creative-asia-possible-love-the-blue-road-busan-1237104843/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/BIFF_3.jpg",
+      "author": "Jake Kanter",
+      "date": "2026-09-16T09:54:27+00:00",
+      "link": "https://deadline.com/2026/09/wonder-studios-la-office-caa-fanfix-1237104999/",
+      "image": "https://deadline.com/wp-content/uploads/2026/05/Wonder-boys-0-e1778675691196_1d74e4.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "6f6078124ceb077a",
+      "title": "‘Hunting Gary Glitter’: Netflix Unveils Trailer & Launch Date For Doc About Race To Expose Serial Sex Abuser",
+      "quote": "Trailer has dropped for Netflix’s Hunting Gary Glitter, the former pop superstar who was exposed as a serial child abuser. Check it out above. Launching October 14, the doc follows the pursuit of journalists alongside…",
+      "publisher": "Deadline",
+      "author": "Max Goldbart",
+      "date": "2026-09-16T09:45:47+00:00",
+      "link": "https://deadline.com/2026/09/netflix-trailer-hunting-gary-glitter-october-14-premiere-1237105002/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/huntinggaryglitteruniversal-base_na_06_zxx-copy.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "0665da14305c856e",
+      "title": "Oscars: Spain Selects ‘La Bola Negra’ For International Feature Film Race",
+      "quote": "Javier Calvo and Javier Ambrossi’s breakout Cannes title La Bola Negra has been selected as Spain’s entry for the Best International Feature Film category at the 99th Academy Awards. The Spanish Film Academy confirmed…",
+      "publisher": "Deadline",
+      "author": "Zac Ntim",
+      "date": "2026-09-16T09:17:18+00:00",
+      "link": "https://deadline.com/2026/09/la-bola-negra-spain-oscars-international-feature-film-1237104996/",
+      "image": "https://deadline.com/wp-content/uploads/2026/05/200723.webp",
       "category": "Festival Winners"
     },
     {
-      "id": "ef101c6124fc9a3c",
-      "title": "‘Dancing With The Stars’ Season 35 Premiere Recap: The Men Take The Lead In First Of Two-Night Kick Off & Someone Goes Home Already",
-      "quote": "SPOILER ALERT! This post contains details from night one of the Season 35 premiere of Dancing with the Stars. Back like they never left! The ballroom at CBS Television City was once again glittering with celebrities on…",
+      "id": "f36abdfff75b2559",
+      "title": "Bill Nighy Playing Socially-Challenged Literary Titan In Richard Curtis’ Debut Audio Sitcom",
+      "quote": "EXCLUSIVE: Richard Curtis is returning to the sitcom game, this time through audio. The Vicar of Dibley, Blackadder and Mr Bean writer-director is making Greatest Living Writer for BBC Radio 4 starring Bill Nighy…",
       "publisher": "Deadline",
-      "author": "Katie Campione",
-      "date": "2026-09-16T01:59:11+00:00",
-      "link": "https://deadline.com/2026/09/dancing-with-the-stars-season-35-premiere-recap-1237104755/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/dancing-with-the-stars-season-35-cast-photos-abc.jpg",
+      "author": "Max Goldbart",
+      "date": "2026-09-16T09:00:00+00:00",
+      "link": "https://deadline.com/2026/09/richard-curtis-audio-sitcom-bill-nighy-jim-broadbent-1237104987/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/MixCollage-16-Sep-2026-09-31-AM-8007.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "a72ceb265e964f31",
+      "title": "Jodie Whittaker To Star As Hotshot Media Lawyer In ITV Drama ‘In Contempt’",
+      "quote": "EXCLUSIVE: Jodie Whittaker’s next starring role will be a hotshot media lawyer in ITV drama In Contempt. Ahead of her role in Hulu pilot Chicks and a part in the London-set Only Murders in the Building Season 6…",
+      "publisher": "Deadline",
+      "author": "Jesse Whittock",
+      "date": "2026-09-16T08:30:00+00:00",
+      "link": "https://deadline.com/2026/09/jodie-whittaker-itv-drama-in-contempt-1237103764/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Jodie-Whittaker-Pip-e1789468416721.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "d81f81493105e567",
+      "title": "Disney Seeking Next Big K-Pop Hit After Striking Ten-Project Deal With Kakao",
+      "quote": "Could Disney be about to unearth the next big K-pop hit? Disney Korea has struck a deal with Kakao Entertainment to launch what they are calling a “K-culture fund” and is aiming to pursue around 10 projects over the…",
+      "publisher": "Deadline",
+      "author": "Max Goldbart",
+      "date": "2026-09-16T08:09:14+00:00",
+      "link": "https://deadline.com/2026/09/disney-kpop-deal-kakao-korea-kpop-demon-hunters-1237104978/",
+      "image": "https://deadline.com/wp-content/uploads/2026/05/KPop-Demon-Hunters-04-e1784726646544.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "50202bcdcaa7d6d3",
+      "title": "The Cycle of Love review – a 6,000-mile bike ride caps a real life Swedish-Indian romance",
+      "quote": "One Oscar-winning director, one horoscope-prompted meet-cute and a continent-crossing cyclist – is this the start of documentaries that make you happy-cry? Here is a story that on the face of it seems so wildly unlikely…",
+      "publisher": "The Guardian",
+      "author": "Leslie Felperin",
+      "date": "2026-09-16T08:00:14+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/16/the-cycle-of-love-review-a-6000-mile-bike-ride-caps-a-real-life-swedish-indian-romance",
+      "image": "https://i.guim.co.uk/img/media/b39a5c477545e1c8ffd3a2e08543d8182e1ea9e6/300_0_2026_1621/master/2026.jpg?width=140&quality=85&auto=format&fit=max&s=f224389fe85c3eba4a78b50ed094a685",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "8c51ecfd6c7a3d40",
+      "title": "Cate Blanchett To Attend Tokyo Film Festival With Displacement Film Fund Shorts",
+      "quote": "Cate Blanchett will attend this year’s Tokyo Film Festival with a series of short films supported by her Displacement Film Fund. TIFF will screen five short works produced with support from the Displacement Film Fund…",
+      "publisher": "Deadline",
+      "author": "Zac Ntim",
+      "date": "2026-09-16T07:31:31+00:00",
+      "link": "https://deadline.com/2026/09/cate-blanchett-tokyo-film-festival-displacement-film-fund-1237103780/",
+      "image": "https://deadline.com/wp-content/uploads/2026/05/GettyImages-2276702391.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "10f2e493dd791edc",
+      "title": "It’s Bummer Season as Slow Horses returns for a funereal premiere",
+      "quote": "Old characters are dropping like flies, as Apple’s spy thriller wrestles with a new enemy: Long-form narrative callbacks.",
+      "publisher": "The A.V. Club",
+      "author": "William Hughes",
+      "date": "2026-09-16T07:00:31+00:00",
+      "link": "https://www.avclub.com/slow-horses-season-6-premiere-review",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/15210607/slow-horses-premiere-feature.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "1d3f9d8d8e6fd388",
+      "title": "Ted Lasso finally focuses on the heart of its fourth season",
+      "quote": "\"Yes & Baby\" sheds some—although not nearly enough—light on the women's team.",
+      "publisher": "The A.V. Club",
+      "author": "Saloni Gajjar",
+      "date": "2026-09-16T07:00:29+00:00",
+      "link": "https://www.avclub.com/ted-lasso-recap-season-4-episode-7-yes-and-baby",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/15200456/MixCollage-15-Sep-2026-06-53-PM-6596.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "9b68ae8c8c664248",
+      "title": "Seriesly Berlin Crowns ‘Hands Up’, Music Drama Featuring Israeli & Palestinian Characters",
+      "quote": "Seriesly Berlin kept up its reputation for backing complex TV series with its latest batch of award winners. Hands Up, a music drama series pitch from the U.S. focused on an Israeli musician and a Palestinian singer…",
+      "publisher": "Deadline",
+      "author": "Jesse Whittock",
+      "date": "2026-09-16T06:21:00+00:00",
+      "link": "https://deadline.com/2026/09/seriesly-berlin-pitch-winners-hands-up-1237104964/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Hands-up-2_c_Seriesly-Berlin_William-Veder-e1789539511360.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "8776608c7c694ee0",
+      "title": "‘NAZA’: More than 1,500 Israeli filmmakers sign petition backing directors after citizenship threats",
+      "quote": "Prominent Israeli filmmakers have joined more than 1,500 industry figures in defending Yuval Abraham and Rachel Szor after officials threatened to revoke their citizenship over the Venice-winning documentary",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-16T05:34:04+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/naza-more-than-1500-israeli-filmmakers-sign-petition-backing-directors-after-citizenship-threats/article71471221.ece",
+      "image": "https://th-i.thgim.com/public/incoming/fw3l99/article71471215.ece/alternates/LANDSCAPE_1200/2026-09-15T161529Z_1167827264_RC2RJNA3X3WM_RTRMADP_3_FILMFESTIVAL-VENICE-NAZA-ISRAEL.JPG",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "d245843849beedf7",
+      "title": "‘Love of Your Life’ Review: Margaret Qualley Goes on a Pretty but Surface-Level Healing Journey",
+      "quote": "It would probably be glib to refer to “Love of Your Life” as “Grieve Pray Love.” Rachel Morrison’s film about COVID-era loss, recovery and renewal is serious in intent and earnest in execution, grounded by a performance…",
+      "publisher": "Variety",
+      "author": "Guy Lodge",
+      "date": "2026-09-16T01:34:30+00:00",
+      "link": "https://variety.com/2026/film/reviews/love-of-your-life-review-margaret-qualley-1236863581/",
+      "image": "https://variety.com/wp-content/uploads/2026/09/LOYL_TIFF_FirstLook.webp",
       "category": "World Cinema"
     },
     {
@@ -64,17 +218,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "28f964668a4fdee6",
-      "title": "‘A Talent For Murder’ Review: Helen Mirren Is Mesmerizing As Tortured Genius Crime Writer Patricia Highsmith – Toronto Film Festival",
-      "quote": "This flawed but very entertaining two-hander belongs in the unique subgenre of literary biographies in which a cult author’s life is investigated through the highly specific prism of their work. Shirley Jackson, for…",
-      "publisher": "Deadline",
-      "author": "Damon Wise",
-      "date": "2026-09-16T01:09:28+00:00",
-      "link": "https://deadline.com/2026/09/a-talent-for-murder-review-helen-mirren-anton-corbijn-patricia-highsmith-1237104717/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Helen-Mirren-and-Alden-Ehrenreich-in-A-TALENT-FOR-MURDER-Courtesy-Bleecker-Street-and-LD-Entertainment-.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "9ca317ef31adac54",
       "title": "Tina Louise's Last TV Role Was A Guest Appearance In A Forgotten '90s Crime Show",
       "quote": "For her final TV role (at the time of writing, anyway), Tina Louise played a violent criminal in a 1990s crime series you've almost certainly not heard of.",
@@ -86,37 +229,15 @@
       "category": "Indie Gems"
     },
     {
-      "id": "ba48f22260b9a474",
-      "title": "Judge Sets Date For Settlement Talks In Paramount-WBD Antitrust Case",
-      "quote": "Paramount and the state attorneys general suing to block its merger with Warner Bros. Discovery were ordered by a judge to appear for a two-day settlement conference October 14-15 in a San Francisco courtroom. It’s a…",
-      "publisher": "Deadline",
-      "author": "Jillg366",
-      "date": "2026-09-16T00:02:29+00:00",
-      "link": "https://deadline.com/2026/09/paramount-attorneys-general-settlement-talks-in-october-1237104639/",
-      "image": "https://deadline.com/wp-content/uploads/2026/03/Rob-Bonta-and-David-Ellison.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "09b9e6b8b590ce89",
-      "title": "‘NCIS: New York’ Trailer Reveals LL Cool J’s Character Sam Hanna’s Return & His New Team",
-      "quote": "NCIS: New York has dropped its first trailer (above), and there are so many details packed into the video, setting up the series premiere on October 6. In the pilot, after years of special assignments and covert ops…",
-      "publisher": "Deadline",
-      "author": "Rosy Cordero",
-      "date": "2026-09-15T23:42:52+00:00",
-      "link": "https://deadline.com/2026/09/ncis-new-york-trailer-ll-cool-j-1237104585/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/3243796_NCNY_S1_1286b_f.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "78d08055bcb07701",
-      "title": "Mikayla Matthews Says That “The Only Reason” She’s Leaving Hulu’s ‘Mormon Wives’ Is “Because I Was Told A Certain Person Was Coming Back”",
-      "quote": "Mikayla Matthews isn’t mincing words, and a day after saying she was leaving The Secret Lives of Mormon Wives, she confirmed it was because Taylor Frankie Paul was returning to filming. The Hulu reality series is…",
-      "publisher": "Deadline",
-      "author": "Armando Tinoco",
-      "date": "2026-09-15T23:42:35+00:00",
-      "link": "https://deadline.com/2026/09/mormon-wives-mikayla-matthews-taylor-frankie-paul-season-6-filming-return-1237104657/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/mikayla-matthews-taylor-frankie-paul-secret-lives-of-mormon-wives.jpg",
-      "category": "World Cinema"
+      "id": "e8b312bfc508d175",
+      "title": "Paul Verhoeven reiterates his Starship Troopers are Nazis",
+      "quote": "\"It's based on the style of Leni Riefenstahl,\" says Verhoeven after President Trump posted a gen-AI mockup of his SS-inspired Space Force uniforms.",
+      "publisher": "The A.V. Club",
+      "author": "Matt Schimkowitz",
+      "date": "2026-09-15T23:43:21+00:00",
+      "link": "https://www.avclub.com/paul-verhoeven-donald-trump-space-force-uniforms",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2024/10/17144429/starship-trooper-feat.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "8daccfd6f032f31e",
@@ -128,6 +249,28 @@
       "link": "https://www.slashfilm.com/2259133/x-men-shawn-ashmore-beloved-fantasy-book-adaptation-earthsea/",
       "image": "https://www.slashfilm.com/img/gallery/x-men-actor-shawn-ashmore-was-in-an-adaptation-of-this-beloved-fantasy-book-series/l-intro-1789488052.jpg",
       "category": "Indie Gems"
+    },
+    {
+      "id": "78b43fca73db323d",
+      "title": "Actually, Trump will close the Kennedy Center now, thanks",
+      "quote": "President Trump announced the center would remain closed until the Supreme Court rules he can put his name on the building.",
+      "publisher": "The A.V. Club",
+      "author": "Matt Schimkowitz",
+      "date": "2026-09-15T22:22:23+00:00",
+      "link": "https://www.avclub.com/president-trump-kennedy-center-closed",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/06/12160211/kennedy-livestream-feature.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "d79cabe25cddb034",
+      "title": "A Talent for Murder review – Helen Mirren is a viperous Patricia Highsmith in hit-and-miss thriller",
+      "quote": "Toronto film festival: A fictionalised version of the cantankerous crime author plots a murder with an ambitious editor in a story in need of a sharper edge The restrictions of Covid led to an inevitable rise in safely…",
+      "publisher": "The Guardian",
+      "author": "Benjamin Lee in Toronto",
+      "date": "2026-09-15T21:58:01+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/15/talent-for-murder-movie-review",
+      "image": "https://i.guim.co.uk/img/media/c0546f1edb151cbb516a59ee2f6cc6544f750044/439_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=0dc4c6ddc38a4ad5de3f8cd9ba4ea5ba",
+      "category": "Festival Winners"
     },
     {
       "id": "1af21d6e5fcc2fd6",
@@ -218,6 +361,17 @@
       "category": "Indie Gems"
     },
     {
+      "id": "cf58f67f263edc3f",
+      "title": "Bad Lieutenant: Tokyo review – Takashi Miike follows Ferrara and Herzog with a disappointment",
+      "quote": "Toronto film festival: There’s a surprisingly tame quality to the gorehound’s contribution to the rough and ready franchise and a general aimlessness that frustrates Abel Ferrera’s Bad Lieutenant, starring Harvey Keitel…",
+      "publisher": "The Guardian",
+      "author": "Radheyan Simonpillai in Toronto",
+      "date": "2026-09-15T19:14:35+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/15/bad-lieutenant-tokyo-movie-review",
+      "image": "https://i.guim.co.uk/img/media/7c7a74056129c3518a65b9c65bc21d808985cf74/409_0_3100_2480/master/3100.jpg?width=140&quality=85&auto=format&fit=max&s=eebb64adf164eda5676a93f5fbea05b4",
+      "category": "World Cinema"
+    },
+    {
       "id": "61eb48fa5304c30f",
       "title": "Ethan Hawke comfortably shoulders The Weight of a throwback '70s-style adventure",
       "quote": "In The Weight, a group of men trek through danger while carrying hefty packs of stolen gold, with great performances and exciting set pieces.",
@@ -226,17 +380,6 @@
       "date": "2026-09-15T19:00:43+00:00",
       "link": "https://www.avclub.com/the-weight-review-ethan-hawke-russell-crowe-old-school-adventure",
       "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/28131930/the-weight-header.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "21bd4085aeff2fff",
-      "title": "How Spock Led Isaac Asimov To A Major Star Trek And Personal Breakthrough",
-      "quote": "Isaac Asimov's daughter blew the famed sci-fi author's mind when she told him how she felt about Spock on Star Trek: The Original Series.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Witney Seibold)",
-      "date": "2026-09-15T19:00:00+00:00",
-      "link": "https://www.slashfilm.com/2257499/spock-isaac-asimov-major-star-trek-personal-breakthrough/",
-      "image": "https://www.slashfilm.com/img/gallery/how-spock-led-isaac-asimov-to-a-major-star-trek-and-personal-breakthrough/l-intro-1789398139.jpg",
       "category": "Indie Gems"
     },
     {
@@ -251,61 +394,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "3c98eeb0137436fb",
-      "title": "Emmys may follow the Oscars and leave broadcast TV",
-      "quote": "After years of failing to be Emmy's favorites streamer, Amazon's Prime Video might just buy the whole freaking award show.",
-      "publisher": "The A.V. Club",
-      "author": "Matt Schimkowitz",
-      "date": "2026-09-15T18:40:47+00:00",
-      "link": "https://www.avclub.com/emmys-may-move-to-amazon-prime-video",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/01/09144356/emmy-statues.jpg",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "22f3f4732cd70933",
-      "title": "Melissa McCarthy and Clive Owen are grieving parents in The Murder Of JonBenét Ramsey first look",
-      "quote": "The Netflix limited series premieres in December.",
-      "publisher": "The A.V. Club",
-      "author": "Drew Gillis",
-      "date": "2026-09-15T18:00:20+00:00",
-      "link": "https://www.avclub.com/jonbenet-ramsey-netflix-first-look-melissa-mccarthy",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/15133024/MixCollage-15-Sep-2026-01-19-PM-282.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "60f36a90d8ddab79",
-      "title": "Andy Weir's Favorite Doctor Who Actor Might Surprise Hardcore Fans",
-      "quote": "Project Hail Mary author Andy Weir is a Doctor Who fan, but his favorite version of the titular character might be surprising to fans of the franchise.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Witney Seibold)",
-      "date": "2026-09-15T18:00:00+00:00",
-      "link": "https://www.slashfilm.com/2258401/andy-weir-favorite-doctor-who-actor-peter-davison/",
-      "image": "https://www.slashfilm.com/img/gallery/andy-weirs-favorite-doctor-who-actor-might-surprise-hardcore-fans/l-intro-1789423187.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "9ea553f0ceb3fe74",
-      "title": "Jessica Chastain continues to freak us out in new Other Mommy trailer",
-      "quote": "The Blumhouse-Atomic Monster co-production drops on October 9.",
-      "publisher": "The A.V. Club",
-      "author": "Jarrod Jones",
-      "date": "2026-09-15T17:51:10+00:00",
-      "link": "https://www.avclub.com/other-mommy-2026-trailer-2",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/15134447/other-mommy-header.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "72a4eb5a6c9c39e6",
-      "title": "Nick Reiner won't face the death penalty for his parents' deaths",
-      "quote": "Nick Reiner stands accused of the killing of his parents, Rob and Michele Reiner, last December. He won't face the death penalty.",
-      "publisher": "The A.V. Club",
-      "author": "Matt Schimkowitz",
-      "date": "2026-09-15T17:30:19+00:00",
-      "link": "https://www.avclub.com/nick-reiner-wont-get-death-penalty",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/15132614/nick-reiner-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "8de2fc11f06225f5",
       "title": "‘This should be condemned by any thinking human’: film industry rallies behind NAZA directors",
       "quote": "Backing comes after Yuval Abraham and Rachel Szor were threatened with having their citizenship revoked and accused of treason Film industry heavyweights across the globe have expressed solidarity with Yuval Abraham and…",
@@ -313,7 +401,7 @@
       "author": "Catherine Shoard  in London and Lorenzo Tondo in Jerusalem",
       "date": "2026-09-15T16:44:12+00:00",
       "link": "https://www.theguardian.com/film/2026/sep/15/naza-directors-yuval-abraham-rachel-szor-film-industry-support",
-      "image": "https://i.guim.co.uk/img/media/111c31690202c6b76fa105e1cc307538272e4f19/451_0_4488_3592/master/4488.jpg?width=140&quality=85&auto=format&fit=max&s=dbe3b277dbeb8a9627a06863643f3657",
+      "image": "https://i.guim.co.uk/img/media/111c31690202c6b76fa105e1cc307538272e4f19/597_81_4088_3270/master/4088.jpg?width=140&quality=85&auto=format&fit=max&s=0faa05f3bfe46c3bdc40c475354bb417",
       "category": "Festival Winners"
     },
     {
@@ -394,28 +482,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "ecdc8d4e08893a79",
-      "title": "Venice best actress winner says she signed on at Danish job centre days before her victory",
-      "quote": "Mathilde Arcel, who won the Volpi Cup on Saturday for her role in Golden Lion winner Woman Unknown, said job offers have now begun to arrive The winner of this year’s best actress prize at the Venice film festival has…",
-      "publisher": "The Guardian",
-      "author": "Philip Oltermann European culture editor",
-      "date": "2026-09-15T10:37:22+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/15/mathilde-arcel-job-centre-venice-film-festival-volpi-cup-woman-unknown",
-      "image": "https://i.guim.co.uk/img/media/fe3ca0c3c52441d4281bfcd22389234903c8399b/212_0_2120_1696/master/2120.jpg?width=140&quality=85&auto=format&fit=max&s=11269ae59fdb527ffe5bf10a9b90eb7a",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "5319242885bb1179",
-      "title": "Legend of Destruction review – starry voices grace animated telling of the Jewish revolt against the Romans",
-      "quote": "Eight years in the making, the innovative film uses painted still images – it’s like being read a graphic novel by a cast including Oscar Isaac, Evangeline Lilly and Elliott Gould This Israeli animated film has been…",
-      "publisher": "The Guardian",
-      "author": "Leslie Felperin",
-      "date": "2026-09-15T10:00:40+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/15/legend-of-destruction-review-starry-voices-grace-animated-telling-of-thejewish-revolt-against-the-romans",
-      "image": "https://i.guim.co.uk/img/media/2affff4a06a87cec1249905a2ca7d7639c9be259/409_0_1349_1080/master/1349.jpg?width=140&quality=85&auto=format&fit=max&s=dd86415ce6512915f529993c61b964a8",
-      "category": "Festival Winners"
-    },
-    {
       "id": "3b19e4fd19a31c99",
       "title": "‘The Paper’ Season 2 review: Domhnall Gleeson and friends bring earnest charisma to the Toledo Truth Teller’s latest exploits",
       "quote": "‘The Office’ spinoff continues to float by on charm and good vibes as it dives enthusiastically into podcasts and potholes",
@@ -460,17 +526,6 @@
       "category": "Indian Cinema"
     },
     {
-      "id": "8f9aa63c896d3750",
-      "title": "Premature review – sunny charm provides screwball energy for surprise-pregnancy comedy",
-      "quote": "First-time director Kevin Walls creates a film sweet-natured enough to cancel out some comedy misfires as flatmates Eilidh and Cameron prepare for parenthood The pram in the hallway is the enemy of good art, or so the…",
-      "publisher": "The Guardian",
-      "author": "Cath Clarke",
-      "date": "2026-09-15T06:00:29+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/15/premature-review-sunny-charm-provides-screwball-energy-for-surprise-pregnancy-comedy",
-      "image": "https://i.guim.co.uk/img/media/ac4253394bba6e601549810df17c21663c462c66/975_0_2143_1716/master/2143.jpg?width=140&quality=85&auto=format&fit=max&s=1d5df4aac491362c81930078e2f1d9ec",
-      "category": "World Cinema"
-    },
-    {
       "id": "2907c60b44914524",
       "title": "Emmys 2026: When and where to watch the award ceremony",
       "quote": "In India, Emmys 2026 will take place on Tuesday, September 15, with the red carpet coverage beginning at 4:30 am IST",
@@ -479,17 +534,6 @@
       "date": "2026-09-15T05:29:33+00:00",
       "link": "https://www.thehindu.com/entertainment/movies/emmys-2026-when-and-where-to-watch-the-award-ceremony-live/article71465682.ece",
       "image": "https://th-i.thgim.com/public/entertainment/movies/q5vtez/article71465695.ece/alternates/LANDSCAPE_1200/cvr%2090.jpg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "b77455c94d1c640b",
-      "title": "‘Fjord’ trailer: Cristian Mungiu’s Palme d’Or winner stars Sebastian Stan and Renate Reinsve",
-      "quote": "The Romanian filmmaker’s first English-language feature follows a religious Romanian-Norwegian family whose lives unravel after allegations of child abuse",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-15T05:25:19+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/fjord-trailer-cristian-mungius-palme-dor-winner-stars-sebastian-stan-and-renate-reinsve/article71399875.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/j1r37a/article71399873.ece/alternates/LANDSCAPE_1200/Fjord-trailer-082726-2-228d2ae6791a4b96849b37e9edac6ee2.jpg",
       "category": "Indian Cinema"
     },
     {
@@ -526,17 +570,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "50f8f02ba0fbabe0",
-      "title": "Benedict Cumberbatch on his Earth-saving eco film: ‘We are in the last grab of the extraction era’",
-      "quote": "From Obama’s chef to a big cat obsessive, the actor has gathered experts from all over the world for a film about how to heal our besieged planet. He talks about naysayers, elephant tusks – and the wonders of venison…",
-      "publisher": "The Guardian",
-      "author": "Helena Horton",
-      "date": "2026-09-15T04:00:25+00:00",
-      "link": "https://www.theguardian.com/culture/2026/sep/15/benedict-cumberbatch-how-to-live-on-earth-obama-venison",
-      "image": "https://i.guim.co.uk/img/media/eab2ae04d2bb6cbcc8adfd716c17352fd3ad7bf9/1686_1544_4511_3609/master/4511.jpg?width=140&quality=85&auto=format&fit=max&s=fc5e1e8f47a16740d6ca2ece3d2f6271",
-      "category": "World Cinema"
-    },
-    {
       "id": "4d55d3f96515fc18",
       "title": "‘A Talent for Murder’ Review: Helen Mirren Is a Deliciously Bitter Patricia Highsmith in a Sleek Literary Noir That Doesn’t Quite Draw Blood",
       "quote": "We’ve grown so used to seeing Helen Mirren imperiously slumming her way through boilerplate grande dame roles in recent years that it’s a genuine thrill to see the actress bare her teeth in “A Talent for Murder” —…",
@@ -546,17 +579,6 @@
       "link": "https://variety.com/2026/film/reviews/a-talent-for-murder-review-helen-mirren-1236861698/",
       "image": "https://variety.com/wp-content/uploads/2026/09/A-Talent-for-Murder-01.jpg",
       "category": "World Cinema"
-    },
-    {
-      "id": "44c1907f03b6ac42",
-      "title": "Elsinore review – Andrew Scott is astonishing as Ian Charleson in devastating Aids drama",
-      "quote": "Toronto film festival: the actor gives his greatest screen performance to date as the Chariots of Fire star who spends his final months playing Hamlet on stage It was an endlessly parodied cliche that any queer film…",
-      "publisher": "The Guardian",
-      "author": "Benjamin Lee in Toronto",
-      "date": "2026-09-14T21:59:00+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/14/elsinore-movie-review-andrew-scott",
-      "image": "https://i.guim.co.uk/img/media/0f864bb228335b662713414c4c8d09f7311c76cb/430_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=8634801149e8d1d82234f83de59b5a48",
-      "category": "Festival Winners"
     },
     {
       "id": "9c901cf25a10d075",
@@ -655,17 +677,6 @@
       "date": "2026-09-14T04:03:48+00:00",
       "link": "https://www.rogerebert.com/reviews/misty-green-chris-rock-film-review-2026",
       "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "808e6aa10b1960ca",
-      "title": "‘All That She Wants’ Review: Annie Murphy and Cooper Raiff Are Well-Matched in a Generation-Gap Romcom",
-      "quote": "Millennials get their Mrs. Robinson moment with “All That She Wants,” an age-gap romcom titled after the 1992 Ace of Base hit. If you remember listening to that song on a cassingle, it’s time to ask your doctor about…",
-      "publisher": "Variety",
-      "author": "Guy Lodge",
-      "date": "2026-09-14T03:30:00+00:00",
-      "link": "https://variety.com/2026/film/reviews/all-that-she-wants-review-1236860677/",
-      "image": "https://variety.com/wp-content/uploads/2026/09/all-that.jpg",
       "category": "World Cinema"
     },
     {
@@ -787,17 +798,6 @@
       "date": "2026-09-08T11:00:00+00:00",
       "link": "https://www.bbc.com/culture/article/20260907-10-stunning-buildings-blended-with-nature?ocid=global_culture_rss",
       "image": "https://ychef.files.bbci.co.uk/144x81/p0p8cd91.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "62ac0b99fcb18c28",
-      "title": "The poisoned umbrella that pointed to a KGB murder",
-      "quote": "A 1978 killing is one of the great unsolved mysteries of the Cold War",
-      "publisher": "BBC Culture",
-      "author": null,
-      "date": "2026-09-07T11:00:00+00:00",
-      "link": "https://www.bbc.com/culture/article/20260904-the-poison-tipped-umbrella-that-pointed-to-a-kgb-murder?ocid=global_culture_rss",
-      "image": "https://ychef.files.bbci.co.uk/144x81/p0p80lkj.jpg",
       "category": "World Cinema"
     },
     {
