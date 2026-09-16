@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T11:17:50.561789+00:00",
+  "generated_at": "2026-09-16T16:38:09.182155+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -9,15 +9,334 @@
   ],
   "reviews": [
     {
-      "id": "41ec784f015f8e1e",
-      "title": "Resident Evil: First Reactions To Zach Cregger Horror Movie Surface Online",
-      "quote": "The first reactions to Zach Cregger's take on Resident Evil are flooding in, and they all seem to be overwhelmingly positive.",
+      "id": "aed89957d7ff332d",
+      "title": "BBC Studios LA Promotes Unscripted Chief Ryan O’Dowd To Oversee Scripted As Mark Linsey & Angie Stephenson Exit",
+      "quote": "EXCLUSIVE: BBC Studios’ Los Angeles division is taking a new approach to scripted and has promoted its unscripted chief Ryan O’Dowd to oversee it. O’Dowd, who was President, Unscripted, has been named President, BBC…",
+      "publisher": "Deadline",
+      "author": "Peterdeadline",
+      "date": "2026-09-16T16:30:00+00:00",
+      "link": "https://deadline.com/2026/09/bbc-studios-la-ryan-odowd-oversee-scripted-1237104573/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/split-single-1000x667-2.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "647da74b82219267",
+      "title": "Does Resident Evil (2026) Have A Post-Credits Scene? A Spoiler-Free Guide",
+      "quote": "Zach Cregger's Resident Evil ushers in a new era for the horror video game film series, but does it have a post-credits scene? Here's the spoiler-free answer.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Ryan Scott)",
+      "date": "2026-09-16T16:15:00+00:00",
+      "link": "https://www.slashfilm.com/2260289/resident-evil-2026-movie-post-credits-scene-guide/",
+      "image": "https://www.slashfilm.com/img/gallery/does-resident-evil-2026-have-a-post-credits-scene-a-spoiler-free-guide/l-intro-1789574307.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "0b2d9b0147496b84",
+      "title": "MS Subbulakshmi was a pan-India superstar, says Kamal Haasan at biopic launch",
+      "quote": "Rashmika Mandana plays the late legendary singer in the biopic that will have music by Anirudh Ravichander",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-16T16:10:37+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/ms-subbulakshmi-was-a-pan-india-superstar-says-kamal-haasan-at-biopic-launch/article71473599.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/6pvif6/article71473756.ece/alternates/LANDSCAPE_1200/Kamal%20Haasan%20and%20Rashmika%20Mandanna%20during%20the%20launch%20of%20MS%20Subbulakshmi%20biopic%20in%20Chennai%20on%20Wednesday%20September%2016%202026",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "aa247787bdcedfca",
+      "title": "Ben Saunders Dies: Dutch Winner Of First-Ever Version Of ‘The Voice’ Was 43",
+      "quote": "Ben Saunders, the London-born Dutch singer who won the first-ever incarnation of The Voice, was found dead Tuesday, September 15, in a popular Netherlands recreational lake. He was 43. His death was announced on…",
+      "publisher": "Deadline",
+      "author": "Greg Evans",
+      "date": "2026-09-16T16:09:49+00:00",
+      "link": "https://deadline.com/2026/09/ben-saunders-dead-1237105267/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-117167542.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "5aed035fecb3fbe2",
+      "title": "Macro Acquires Streaming Service AllBlk From AMC Global Media",
+      "quote": "Charles D. King’s Macro is getting into the direct-to-consumer business, acquiring streaming service AllBlk from AMC Global Media. The service, which targets Black viewers, was launched in 2014 as UMC (short for Urban…",
+      "publisher": "Deadline",
+      "author": "Dade Hayes",
+      "date": "2026-09-16T16:05:25+00:00",
+      "link": "https://deadline.com/2026/09/macro-acquires-streaming-service-allblk-amc-global-media-1237105134/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/MACRO-ALLBLK-1.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "139137b06497046e",
+      "title": "Resident Evil review – Zach Cregger’s rebooted action horror is a wild rollercoaster ride",
+      "quote": "The Weapons director delivers a seat-edge thriller with a standout lead performance from Austin Abrams as an everyman navigating chaos Typically horror fans react to blatant on-screen stupidity with vocal derision…",
+      "publisher": "The Guardian",
+      "author": "Jesse Hassenger",
+      "date": "2026-09-16T16:00:23+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/16/resident-evil-reboot-movie-review",
+      "image": "https://i.guim.co.uk/img/media/fbbc7a8cc12b46d1a7d2687cfe582e06d6dc9753/715_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=9a542304fb735e37ddfc69444c70791c",
+      "category": "World Cinema"
+    },
+    {
+      "id": "8535532afed52d17",
+      "title": "‘Resident Evil’ Review: Zach Cregger Gives a Fatigued Franchise an Exhilarating Shot in the Arm",
+      "quote": "The auteur behind 'Weapons' and 'Barbarians' co-writes and directs the latest reboot of the horror film series based on the video games.",
+      "publisher": "The Hollywood Reporter",
+      "author": "Frank Scheck",
+      "date": "2026-09-16T16:00:00+00:00",
+      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/resident-evil-review-zach-cregger-austin-abrams-1236702545/",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "df6608f9dde0f94c",
+      "title": "‘Resident Evil’ Review: Zach Cregger Brings Style, Humor, And A Game Austin Abrams To Make Smart Original Reboot Of Horror Franchise",
+      "quote": "After exploding on to the horror movie universe with fresh and inventive films, Barbarian and the Oscar winning Weapons, I was a little worried to hear Zach Cregger’s next film was going to be yet another entry in…",
+      "publisher": "Deadline",
+      "author": "Pete Hammond",
+      "date": "2026-09-16T16:00:00+00:00",
+      "link": "https://deadline.com/2026/09/resident-evil-review-zach-cregger-austin-abrams-horror-1237105163/",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/MCDREEV_SP017.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "8d0f1da2b1cad01e",
+      "title": "Resident Evil Review: Zach Cregger's Game Adaptation Is A Lean, Mean Gross-Out Machine",
+      "quote": "Zach Cregger's Resident Evil is a fast-paced, ultra-gross horror-comedy that's immensely fun to watch. Here's our review.",
       "publisher": "/Film",
       "author": "staff@slashfilm.com (Chris Evangelista)",
-      "date": "2026-09-16T11:08:49+00:00",
-      "link": "https://www.slashfilm.com/2259915/zach-cregger-resident-evil-movie-first-reactions/",
-      "image": "https://www.slashfilm.com/img/gallery/resident-evil-first-reactions-to-zach-cregger-horror-movie-surface-online/l-intro-1789556815.jpg",
+      "date": "2026-09-16T16:00:00+00:00",
+      "link": "https://www.slashfilm.com/2260033/zach-cregger-resident-evil-movie-review/",
+      "image": "https://www.slashfilm.com/img/gallery/zach-cregger-resident-evil-movie-review/l-intro-1789572864.jpg",
       "category": "Indie Gems"
+    },
+    {
+      "id": "71c4a4b67831f455",
+      "title": "Netflix Developing Action Thriller ‘Scope’ From ‘Warfare’s Ray Mendoza, Jaume Collet-Serra",
+      "quote": "EXCLUSIVE: Netflix is developing Scope, a mystery action thriller from Warfare helmer Ray Mendoza and producer Jaume Collet-Serra, Deadline has learned. Billed as a mystery action thriller in the vein of Disturbia and…",
+      "publisher": "Deadline",
+      "author": "Matthewgrobar",
+      "date": "2026-09-16T15:45:00+00:00",
+      "link": "https://deadline.com/2026/09/ray-mendoza-to-direct-scope-netflix-jaume-collet-serra-1237104644/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/ay-Mendoza-Jaume-Collet-Serra.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "f14c7e0f2868f1c3",
+      "title": "Laika Unveils Final Trailer For Latest Stop-Motion Fantasy Adventure ‘Wildwood’",
+      "quote": "UPDATED, 8:16 a.m.: Laika has unveiled a final trailer for Wildwood, its sixth stop-motion feature opening exclusively in theatres on October 23. Tickets for the film, directed and produced by the studio’s Travis…",
+      "publisher": "Deadline",
+      "author": "Patrick Hipes",
+      "date": "2026-09-16T15:18:00+00:00",
+      "link": "https://deadline.com/2026/09/wildwood-trailer-laika-movie-1236900381/",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/img-ef60389c-c295-47ef-a77e-2904cb2ef337.jpeg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "b098e7da76e19d24",
+      "title": "‘Trash Mountain’ Review: A Gay Man Returns to His Conservative Hometown in a Warm, Perceptive Indie Comedy-Drama",
+      "quote": "Caleb Hearon and Zooey Deschanel star as siblings reconnecting after their father dies in the latest from filmmaker Kris Rey, premiering at the Toronto Film Festival.",
+      "publisher": "The Hollywood Reporter",
+      "author": "Jon Frosch",
+      "date": "2026-09-16T15:10:27+00:00",
+      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/trash-mountain-review-kris-rey-zooey-deschanel-1236703428/",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "b3a59cca96961d3b",
+      "title": "Spider-Man: Brand New Day Just Stole A Giant Box Office Record From Star Wars: The Force Awakens",
+      "quote": "Spider-Man: Brand New Day has overtaken Star Wars: The Force Awakens to become the highest-grossing domestic release of all time.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Ryan Scott)",
+      "date": "2026-09-16T15:10:16+00:00",
+      "link": "https://www.slashfilm.com/2260214/spider-man-brand-new-day-star-wars-the-force-awakens-domestic-box-office-record/",
+      "image": "https://www.slashfilm.com/img/gallery/spider-man-brand-new-day-just-stole-a-giant-box-office-record-from-star-wars-the-force-awakens/l-intro-1789571297.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "87880620bb07ac13",
+      "title": "James Cameron’s Lightstorm Vision Acquires Creative-Tech Collective Outsyders",
+      "quote": "James Cameron’s Lightstorm Vision has acquired AI-driven tech startup and 3D specialist Outsyders for an undisclosed price as the company positions itself as a one-stop shop for 3D content creation. The two companies…",
+      "publisher": "Deadline",
+      "author": "Jillg366",
+      "date": "2026-09-16T15:09:17+00:00",
+      "link": "https://deadline.com/2026/09/james-cameron-lightstorm-vision-outsyders-3d-content-1237105102/",
+      "image": "https://deadline.com/wp-content/uploads/2026/05/manchester-day1-@henryhwu-50-e1777657969982.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "426415da2dfd0c64",
+      "title": "Patti LuPone To Portray Vogue Editor Diana Vreeland In Solo Off Broadway Play ‘Full Gallop’",
+      "quote": "Triple-Tony winner Patti LuPone is returning to the New York stage to portray iconic fashion editor Diana Vreeland in the one-woman Off Broadway play Full Gallop. The production, directed by Gordon Greenberg (Rope…",
+      "publisher": "Deadline",
+      "author": "Greg Evans",
+      "date": "2026-09-16T15:05:04+00:00",
+      "link": "https://deadline.com/2026/09/patti-lupone-diana-vreeland-full-gallop-1237105167/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/2152478804-1418245061-1000x667-1-e1789569867122.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "b35409347ade7464",
+      "title": "5 Classic Sitcoms You Didn't Know Were Based On Beloved Books",
+      "quote": "We rounded up 5 different sitcoms that you might not know were adapted from books. Or maybe you did know. We can't read your mind.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Nina Starner)",
+      "date": "2026-09-16T15:00:00+00:00",
+      "link": "https://www.slashfilm.com/2257342/sitcoms-based-on-books/",
+      "image": "https://www.slashfilm.com/img/gallery/5-classic-sitcoms-you-didnt-know-were-based-on-beloved-books/l-intro-1789394150.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "5edff0eddba1b29c",
+      "title": "Anant Nag to be honoured with Dadasaheb Phalke award",
+      "quote": "Anant Nag was a part of the popular Doordashan serial “Malgudi Days”, the TV adaptation of R.K. Narayan’s popular work that was directed by his filmmaker brother, Shankar Nag",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-16T14:38:31+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/actor-anant-nag-to-be-honoured-with-dadasaheb-phalke-award/article71472645.ece",
+      "image": "https://th-i.thgim.com/public/incoming/9n477l/article71472655.ece/alternates/LANDSCAPE_1200/_JAI7534.jpeg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "b71b23d3dd178bae",
+      "title": "‘Our Loves’ Review: An Overwhelming Subject Gets Underwhelming Treatment in Israeli Drama About People Trying to Survive the October 7th Attack",
+      "quote": "Writer-director Avi Nesher assembles a large ensemble of locally well-known actors to tell this story of fear and trauma, premiering at the Toronto Film Festival.",
+      "publisher": "The Hollywood Reporter",
+      "author": "Leslie Felperin",
+      "date": "2026-09-16T14:34:50+00:00",
+      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/our-loves-review-israeli-film-october-7-1236702156/",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "f1a19a697bb2ab37",
+      "title": "Smile at Last review – photo-love-story style parable of a teen abandoned at a tough Soviet youth facility",
+      "quote": "With handheld camerawork, this unsentimental rite of passage film follows Mari, who tries to escape from a residential home in Estonia This intriguing 1985 film from Estonia uses nonprofessionals and handheld…",
+      "publisher": "The Guardian",
+      "author": "Peter Bradshaw",
+      "date": "2026-09-16T14:00:22+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/16/smile-at-last-review-estonia",
+      "image": "https://i.guim.co.uk/img/media/d988dd61375d7c58040ba1c8b3124383eeff2ecc/537_0_1349_1080/master/1349.jpg?width=140&quality=85&auto=format&fit=max&s=0ffc0e2f4e9c7936752692608963bfd5",
+      "category": "World Cinema"
+    },
+    {
+      "id": "c3a4f58891df0dd5",
+      "title": "Reacher Season 4 Features One Of The Wildest Fights In Jack Reacher History [Set Visit]",
+      "quote": "The Season 4 finale of Reacher puts our hulking hero in a position he's never been in before, and the result is one of the wildest fights in the show's history.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Joe Roberts)",
+      "date": "2026-09-16T14:00:00+00:00",
+      "link": "https://www.slashfilm.com/2259001/reacher-season-4-wildest-fight-jack-reacher-history/",
+      "image": "https://www.slashfilm.com/img/gallery/reacher-season-4-features-one-of-the-wildest-fights-in-jack-reacher-history-set-visit/l-intro-1789483480.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "8ac6a7653adecdfa",
+      "title": "Centre reconstitutes CBFC; Preity Zinta, Pankaj Tripathi among 18 members",
+      "quote": "The new board, headed by CBFC chairperson Shashi Shekhar Vempati, has been constituted with immediate effect for three years or until further orders, whichever is earlier.",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-16T13:59:24+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/centre-reconstitutes-cbfc-preity-zinta-pankaj-tripathi-among-18-members/article71472888.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/x7rnpm/article71472933.ece/alternates/LANDSCAPE_1200/Preity%20Zinta%20and%20Pankaj%20Tripathi%20",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "35c7803ad6714ecf",
+      "title": "Battle of Chile director Patricio Guzmán dies aged 85",
+      "quote": "Passionate documentary maker won international acclaim for unsparing but poetic films exploring the impact of the Pinochet regime in Chile Patricio Guzmán, the film-maker who chronicled Chile’s bloody 1970s political…",
+      "publisher": "The Guardian",
+      "author": "Andrew Pulver",
+      "date": "2026-09-16T13:15:02+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/16/battle-of-chile-director-patricio-guzman-dies-aged-85",
+      "image": "https://i.guim.co.uk/img/media/43b24454f17b84b616666f19f2c396e773ad772e/0_0_2430_1944/master/2430.jpg?width=140&quality=85&auto=format&fit=max&s=c45821b728caf00418e1c2a704c6d34e",
+      "category": "World Cinema"
+    },
+    {
+      "id": "68158fc20ffbbb64",
+      "title": "The Hunger Games: Sunrise On The Reaping Trailer Pits Haymitch Against President Snow",
+      "quote": "The latest trailer for The Hunger Games: Sunrise On The Reaping is here, showing how Haymitch competed in the fiftieth Hunger Games.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Chris Evangelista)",
+      "date": "2026-09-16T13:12:32+00:00",
+      "link": "https://www.slashfilm.com/2260003/the-hunger-games-sunrise-on-the-reaping-second-trailer-haymitch-snow/",
+      "image": "https://www.slashfilm.com/img/gallery/the-hunger-games-sunrise-on-the-reaping-second-trailer-haymitch-snow/l-intro-1789567735.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "7c9bb231da410170",
+      "title": "Slow Horses Season 6's First Major Death Brings Back A Forgotten Season 1 Character",
+      "quote": "Slow Horses Season 6 begins with a murder of a character we've seen before, but it's been a long while since he's factored into any action.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Jeremy Mathai)",
+      "date": "2026-09-16T13:00:00+00:00",
+      "link": "https://www.slashfilm.com/2257442/slow-horses-season-6-death-forgotten-character-struan-loy/",
+      "image": "https://www.slashfilm.com/img/gallery/slow-horses-season-6s-first-major-death-brings-back-a-forgotten-season-1-character/l-intro-1789396823.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "649ce2314eadbd20",
+      "title": "Venice Film Festival 2026: Anuparna Roy and ‘Lovers in the Blue Night’ turn escape into art",
+      "quote": "The 2025 Orizzonti Best Director, who has won the 2026 NETPAC Award for Best Asian Film in Venice, is rewriting who gets to be seen in Indian cinema and how",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-16T12:08:07+00:00",
+      "link": "https://www.thehindu.com/entertainment/venice-film-festival-anuparna-roy-lovers-in-the-blue-night/article71442692.ece",
+      "image": "https://th-i.thgim.com/public/society/gozsjt/article71472353.ece/alternates/LANDSCAPE_1200/Untitled%20design%20-%202026-09-16T173605.147.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "bf17d818fca49323",
+      "title": "In-I in Motion review – Juliette Binoche pulls back the curtain on dance duet with Akram Khan",
+      "quote": "The actor makes her directing debut with a raw, fascinating film about her 2008 collaboration with the British dancer In the way that wedding rehearsals can be more emotional than the big day – all the untidy feelings…",
+      "publisher": "The Guardian",
+      "author": "Cath Clarke",
+      "date": "2026-09-16T12:00:19+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/16/in-i-in-motion-review-juliette-binoche-dance-duet-akram-khan",
+      "image": "https://i.guim.co.uk/img/media/e798f1fcb44e3eef92689229d862bb243abb8e27/1230_0_5625_4500/master/5625.jpg?width=140&quality=85&auto=format&fit=max&s=173fb835942fc98446f2a26ca50b9971",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "fa3a1dca11bf524d",
+      "title": "Slow Horses Season 6 Features The Return Of A Major Villain",
+      "quote": "The Season 6 premiere of Apple TV's Slow Horses features the return of arguably the show's most dangerous villain so far.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Joe Roberts)",
+      "date": "2026-09-16T12:00:00+00:00",
+      "link": "https://www.slashfilm.com/2257408/slow-horses-season-6-return-villain-frank-harkness-hugo-weaving/",
+      "image": "https://www.slashfilm.com/img/gallery/slow-horses-season-6-features-the-return-of-a-major-villain/l-intro-1789396027.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "ddba692e871a943a",
+      "title": "‘If I were a chicken, I would eat humans’: György Pálfi on the eight-chicken ensemble in ‘Hen’ and making films under Viktor Orbán",
+      "quote": "The Hungarian filmmaker talks about the eight chickens who share the role of his leading lady in ‘Hen’, the politics that have shaped who gets to make films in Hungary, and the advantages of knowing your dinner…",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-16T11:33:39+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/hungarian-filmmaker-gyorgy-palfi-on-the-eight-chicken-ensemble-in-hen-and-making-films-under-viktor-orban/article71471806.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/x4ith5/article71471790.ece/alternates/LANDSCAPE_1200/Copy%20of%20G2%20Cover.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "6732d8291da2cb79",
+      "title": "Malayalam short film ‘Sootradhaarini’ which pivots women heads to the Atlanta Indian Film Festival",
+      "quote": "The short, directed by debutant Vijaya S Nambiar, has a cast comprising entirely of amateurs, who live in the same apartment building",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-16T11:26:58+00:00",
+      "link": "https://www.thehindu.com/entertainment/malayalam-short-film-sootradhaarini-which-pivots-women-heads-to-the-atlanta-indian-film-festival/article71442085.ece",
+      "image": "https://th-i.thgim.com/public/incoming/zc6cz8/article71446642.ece/alternates/LANDSCAPE_1200/kimp_shortfilm1ii.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "a4ecea5366106c2e",
+      "title": "Vanishing bonds: Ankur Hooda’s ‘The Calf Doll’ exposes the price of progress",
+      "quote": "In Ankur Hooda’s evocative docudrama, making waves in the festival circuit, the ancient practice of crafting a calf doll becomes a powerful lens for examining the relationship between villagers and their livestock",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-16T11:25:19+00:00",
+      "link": "https://www.thehindu.com/entertainment/vanishing-bonds-ankur-hoodas-thecalf-doll-exposes-the-price-of-progress/article71467420.ece",
+      "image": "https://th-i.thgim.com/public/incoming/zepzjd/article71467423.ece/alternates/LANDSCAPE_1200/The%20Calf%20Doll_01.png",
+      "category": "Indian Cinema"
     },
     {
       "id": "2f165a899c166b38",
@@ -29,17 +348,6 @@
       "link": "https://www.bbc.com/culture/article/20260915-why-mary-magdalene-is-a-divisive-biblical-figure?ocid=global_culture_rss",
       "image": "https://ychef.files.bbci.co.uk/144x81/p0p9rchf.jpg",
       "category": "World Cinema"
-    },
-    {
-      "id": "9f6ee261791cb135",
-      "title": "15 Years Ago Today: One Of The Best Neo-Noir Thrillers Ever Made Arrived In Theaters",
-      "quote": "Put on your scorpion jacket and crank the Kavinsky music as we look back at Nicolas Winding Refn's Drive for its 15th anniversary.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Ryan Scott)",
-      "date": "2026-09-16T11:00:00+00:00",
-      "link": "https://www.slashfilm.com/2259248/drive-best-neo-noir-thriller-ever-15-year-anniversary/",
-      "image": "https://www.slashfilm.com/img/gallery/15-years-ago-today-one-of-the-best-neo-noir-thrillers-ever-made-arrived-in-theaters/l-intro-1789491483.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "c1b085e0efc2baf0",
@@ -64,70 +372,15 @@
       "category": "World Cinema"
     },
     {
-      "id": "fba31b16a20dd47c",
-      "title": "Wonder Studios: AI Producer Expands LA Office By Hiring CAA Agent & Ex-Westbrook Executive",
-      "quote": "EXCLUSIVE: Wonder Studios, the UK-based AI production outfit valued at $50 million last year, has expanded its Los Angeles operation with two hires. Inder Gill, a media finance agent at CAA, is joining Wonder as head of…",
-      "publisher": "Deadline",
-      "author": "Jake Kanter",
-      "date": "2026-09-16T09:54:27+00:00",
-      "link": "https://deadline.com/2026/09/wonder-studios-la-office-caa-fanfix-1237104999/",
-      "image": "https://deadline.com/wp-content/uploads/2026/05/Wonder-boys-0-e1778675691196_1d74e4.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "6f6078124ceb077a",
-      "title": "‘Hunting Gary Glitter’: Netflix Unveils Trailer & Launch Date For Doc About Race To Expose Serial Sex Abuser",
-      "quote": "Trailer has dropped for Netflix’s Hunting Gary Glitter, the former pop superstar who was exposed as a serial child abuser. Check it out above. Launching October 14, the doc follows the pursuit of journalists alongside…",
-      "publisher": "Deadline",
-      "author": "Max Goldbart",
-      "date": "2026-09-16T09:45:47+00:00",
-      "link": "https://deadline.com/2026/09/netflix-trailer-hunting-gary-glitter-october-14-premiere-1237105002/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/huntinggaryglitteruniversal-base_na_06_zxx-copy.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "0665da14305c856e",
-      "title": "Oscars: Spain Selects ‘La Bola Negra’ For International Feature Film Race",
-      "quote": "Javier Calvo and Javier Ambrossi’s breakout Cannes title La Bola Negra has been selected as Spain’s entry for the Best International Feature Film category at the 99th Academy Awards. The Spanish Film Academy confirmed…",
-      "publisher": "Deadline",
-      "author": "Zac Ntim",
-      "date": "2026-09-16T09:17:18+00:00",
-      "link": "https://deadline.com/2026/09/la-bola-negra-spain-oscars-international-feature-film-1237104996/",
-      "image": "https://deadline.com/wp-content/uploads/2026/05/200723.webp",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "f36abdfff75b2559",
-      "title": "Bill Nighy Playing Socially-Challenged Literary Titan In Richard Curtis’ Debut Audio Sitcom",
-      "quote": "EXCLUSIVE: Richard Curtis is returning to the sitcom game, this time through audio. The Vicar of Dibley, Blackadder and Mr Bean writer-director is making Greatest Living Writer for BBC Radio 4 starring Bill Nighy…",
-      "publisher": "Deadline",
-      "author": "Max Goldbart",
-      "date": "2026-09-16T09:00:00+00:00",
-      "link": "https://deadline.com/2026/09/richard-curtis-audio-sitcom-bill-nighy-jim-broadbent-1237104987/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/MixCollage-16-Sep-2026-09-31-AM-8007.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "a72ceb265e964f31",
-      "title": "Jodie Whittaker To Star As Hotshot Media Lawyer In ITV Drama ‘In Contempt’",
-      "quote": "EXCLUSIVE: Jodie Whittaker’s next starring role will be a hotshot media lawyer in ITV drama In Contempt. Ahead of her role in Hulu pilot Chicks and a part in the London-set Only Murders in the Building Season 6…",
-      "publisher": "Deadline",
-      "author": "Jesse Whittock",
-      "date": "2026-09-16T08:30:00+00:00",
-      "link": "https://deadline.com/2026/09/jodie-whittaker-itv-drama-in-contempt-1237103764/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Jodie-Whittaker-Pip-e1789468416721.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "d81f81493105e567",
-      "title": "Disney Seeking Next Big K-Pop Hit After Striking Ten-Project Deal With Kakao",
-      "quote": "Could Disney be about to unearth the next big K-pop hit? Disney Korea has struck a deal with Kakao Entertainment to launch what they are calling a “K-culture fund” and is aiming to pursue around 10 projects over the…",
-      "publisher": "Deadline",
-      "author": "Max Goldbart",
-      "date": "2026-09-16T08:09:14+00:00",
-      "link": "https://deadline.com/2026/09/disney-kpop-deal-kakao-korea-kpop-demon-hunters-1237104978/",
-      "image": "https://deadline.com/wp-content/uploads/2026/05/KPop-Demon-Hunters-04-e1784726646544.jpg",
-      "category": "World Cinema"
+      "id": "d4659e349aca8bea",
+      "title": "‘Silent Friend’ movie review: Tony Leung gets In the Mood for a Gingko tree in Ildikó Enyedi’s strange, sensual wonder",
+      "quote": "Ildikó Enyedi has created one of the year’s most eccentric cinematic seductions — a piece of arboreal erotica that would leave your local trees blushing through their leaves",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-16T09:34:15+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/silent-friend-movie-review-tony-leung-gets-in-the-mood-for-a-gingko-tree-in-ildiko-enyedis-strange-sensual-wonder/article70746735.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/wdoij1/article70746692.ece/alternates/LANDSCAPE_1200/Screenshot%202026-03-15%20185600.png",
+      "category": "Indian Cinema"
     },
     {
       "id": "50202bcdcaa7d6d3",
@@ -138,17 +391,6 @@
       "date": "2026-09-16T08:00:14+00:00",
       "link": "https://www.theguardian.com/film/2026/sep/16/the-cycle-of-love-review-a-6000-mile-bike-ride-caps-a-real-life-swedish-indian-romance",
       "image": "https://i.guim.co.uk/img/media/b39a5c477545e1c8ffd3a2e08543d8182e1ea9e6/300_0_2026_1621/master/2026.jpg?width=140&quality=85&auto=format&fit=max&s=f224389fe85c3eba4a78b50ed094a685",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "8c51ecfd6c7a3d40",
-      "title": "Cate Blanchett To Attend Tokyo Film Festival With Displacement Film Fund Shorts",
-      "quote": "Cate Blanchett will attend this year’s Tokyo Film Festival with a series of short films supported by her Displacement Film Fund. TIFF will screen five short works produced with support from the Displacement Film Fund…",
-      "publisher": "Deadline",
-      "author": "Zac Ntim",
-      "date": "2026-09-16T07:31:31+00:00",
-      "link": "https://deadline.com/2026/09/cate-blanchett-tokyo-film-festival-displacement-film-fund-1237103780/",
-      "image": "https://deadline.com/wp-content/uploads/2026/05/GettyImages-2276702391.jpg",
       "category": "Festival Winners"
     },
     {
@@ -174,28 +416,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "9b68ae8c8c664248",
-      "title": "Seriesly Berlin Crowns ‘Hands Up’, Music Drama Featuring Israeli & Palestinian Characters",
-      "quote": "Seriesly Berlin kept up its reputation for backing complex TV series with its latest batch of award winners. Hands Up, a music drama series pitch from the U.S. focused on an Israeli musician and a Palestinian singer…",
-      "publisher": "Deadline",
-      "author": "Jesse Whittock",
-      "date": "2026-09-16T06:21:00+00:00",
-      "link": "https://deadline.com/2026/09/seriesly-berlin-pitch-winners-hands-up-1237104964/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Hands-up-2_c_Seriesly-Berlin_William-Veder-e1789539511360.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "8776608c7c694ee0",
-      "title": "‘NAZA’: More than 1,500 Israeli filmmakers sign petition backing directors after citizenship threats",
-      "quote": "Prominent Israeli filmmakers have joined more than 1,500 industry figures in defending Yuval Abraham and Rachel Szor after officials threatened to revoke their citizenship over the Venice-winning documentary",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-16T05:34:04+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/naza-more-than-1500-israeli-filmmakers-sign-petition-backing-directors-after-citizenship-threats/article71471221.ece",
-      "image": "https://th-i.thgim.com/public/incoming/fw3l99/article71471215.ece/alternates/LANDSCAPE_1200/2026-09-15T161529Z_1167827264_RC2RJNA3X3WM_RTRMADP_3_FILMFESTIVAL-VENICE-NAZA-ISRAEL.JPG",
-      "category": "Indian Cinema"
-    },
-    {
       "id": "d245843849beedf7",
       "title": "‘Love of Your Life’ Review: Margaret Qualley Goes on a Pretty but Surface-Level Healing Journey",
       "quote": "It would probably be glib to refer to “Love of Your Life” as “Grieve Pray Love.” Rachel Morrison’s film about COVID-era loss, recovery and renewal is serious in intent and earnest in execution, grounded by a performance…",
@@ -218,17 +438,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "9ca317ef31adac54",
-      "title": "Tina Louise's Last TV Role Was A Guest Appearance In A Forgotten '90s Crime Show",
-      "quote": "For her final TV role (at the time of writing, anyway), Tina Louise played a violent criminal in a 1990s crime series you've almost certainly not heard of.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-09-16T00:45:00+00:00",
-      "link": "https://www.slashfilm.com/2257247/tina-louise-last-tv-role-90s-crime-show-la-heat/",
-      "image": "https://www.slashfilm.com/img/gallery/tina-louises-last-tv-role-was-a-guest-appearance-in-a-forgotten-90s-crime-show/l-intro-1789390882.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "e8b312bfc508d175",
       "title": "Paul Verhoeven reiterates his Starship Troopers are Nazis",
       "quote": "\"It's based on the style of Leni Riefenstahl,\" says Verhoeven after President Trump posted a gen-AI mockup of his SS-inspired Space Force uniforms.",
@@ -237,17 +446,6 @@
       "date": "2026-09-15T23:43:21+00:00",
       "link": "https://www.avclub.com/paul-verhoeven-donald-trump-space-force-uniforms",
       "image": "https://img.pastemagazine.com/wp-content/avuploads/2024/10/17144429/starship-trooper-feat.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "8daccfd6f032f31e",
-      "title": "X-Men Actor Shawn Ashmore Was In An Adaptation Of This Beloved Fantasy Book Series",
-      "quote": "Shawn Ashmore was hot off starring in Fox's first two X-Men movies when he fronted this fantasy miniseries adaptation of a celebrated book series.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Ryan Scott)",
-      "date": "2026-09-15T23:00:00+00:00",
-      "link": "https://www.slashfilm.com/2259133/x-men-shawn-ashmore-beloved-fantasy-book-adaptation-earthsea/",
-      "image": "https://www.slashfilm.com/img/gallery/x-men-actor-shawn-ashmore-was-in-an-adaptation-of-this-beloved-fantasy-book-series/l-intro-1789488052.jpg",
       "category": "Indie Gems"
     },
     {
@@ -262,17 +460,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "d79cabe25cddb034",
-      "title": "A Talent for Murder review – Helen Mirren is a viperous Patricia Highsmith in hit-and-miss thriller",
-      "quote": "Toronto film festival: A fictionalised version of the cantankerous crime author plots a murder with an ambitious editor in a story in need of a sharper edge The restrictions of Covid led to an inevitable rise in safely…",
-      "publisher": "The Guardian",
-      "author": "Benjamin Lee in Toronto",
-      "date": "2026-09-15T21:58:01+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/15/talent-for-murder-movie-review",
-      "image": "https://i.guim.co.uk/img/media/c0546f1edb151cbb516a59ee2f6cc6544f750044/439_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=0dc4c6ddc38a4ad5de3f8cd9ba4ea5ba",
-      "category": "Festival Winners"
-    },
-    {
       "id": "1af21d6e5fcc2fd6",
       "title": "‘Salvation’ Review: A Pin-Sharp Portrait of an Aspiring Life Coach in Personal Freefall",
       "quote": "Our first impression of Danny Carlton, the callow protagonist of “Salvation,” is that he doesn’t look like a man you’d trust with your life. He’s young, but that’s not the issue. It’s more the palpable air of…",
@@ -282,28 +469,6 @@
       "link": "https://variety.com/2026/film/reviews/salvation-review-2-1236863013/",
       "image": "https://variety.com/wp-content/uploads/2026/09/salvation1.jpg",
       "category": "World Cinema"
-    },
-    {
-      "id": "d180f1316a4d9771",
-      "title": "Avengers Endgame: Encore Could Give Marvel The Biggest Box Office Record Of Them All",
-      "quote": "Will Avengers: Endgame's re-release, titled Avengers Endgame: Encore, give the Marvel film the biggest box office record of all? Here's how things look.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Ryan Scott)",
-      "date": "2026-09-15T21:00:00+00:00",
-      "link": "https://www.slashfilm.com/2259520/avengers-endgame-encore-marvel-box-office-preview/",
-      "image": "https://www.slashfilm.com/img/gallery/avengers-endgame-encore-could-give-marvel-the-biggest-box-office-record-of-them-all/l-intro-1789501996.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "57c00fd44e4e8327",
-      "title": "How Zack Snyder Really Feels About The Reactions To His New Movie The Last Photograph",
-      "quote": "Zack Snyder has weighed in about the reactions to his new movie The Last Photograph, which has been critically annihilated so far.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Ryan Scott)",
-      "date": "2026-09-15T20:57:25+00:00",
-      "link": "https://www.slashfilm.com/2259602/how-zack-snyder-feels-reactions-new-movie-the-last-photograph/",
-      "image": "https://www.slashfilm.com/img/gallery/how-zack-snyder-really-feels-about-the-reactions-to-his-new-movie-the-last-photograph/l-intro-1789505679.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "449522cf9627751b",
@@ -339,39 +504,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "737038387437b9b8",
-      "title": "How To Watch Super Troopers 3 At Home",
-      "quote": "If you missed Super Troopers 3 in theaters and want to catch up with the gang's latest adventure at home, here's how and when you can do that.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Jeremy Smith)",
-      "date": "2026-09-15T20:12:07+00:00",
-      "link": "https://www.slashfilm.com/2259538/how-watch-super-troopers-3-at-home/",
-      "image": "https://www.slashfilm.com/img/gallery/how-to-watch-super-troopers-3-at-home/l-intro-1789503109.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "fc9947f1c2eb93ae",
-      "title": "This Beloved '60s Spaghetti Western Was Banned In The UK For Nearly Three Decades",
-      "quote": "An ultra-violent spaghetti western from the 1960s was banned in the UK until the 1990s, which only helped it to become a cult favorite.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Witney Seibold)",
-      "date": "2026-09-15T20:00:00+00:00",
-      "link": "https://www.slashfilm.com/2259056/django-60s-spaghetti-western-banned-uk/",
-      "image": "https://www.slashfilm.com/img/gallery/this-beloved-60s-spaghetti-western-was-banned-in-the-uk-for-nearly-three-decades/l-intro-1789485243.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "cf58f67f263edc3f",
-      "title": "Bad Lieutenant: Tokyo review – Takashi Miike follows Ferrara and Herzog with a disappointment",
-      "quote": "Toronto film festival: There’s a surprisingly tame quality to the gorehound’s contribution to the rough and ready franchise and a general aimlessness that frustrates Abel Ferrera’s Bad Lieutenant, starring Harvey Keitel…",
-      "publisher": "The Guardian",
-      "author": "Radheyan Simonpillai in Toronto",
-      "date": "2026-09-15T19:14:35+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/15/bad-lieutenant-tokyo-movie-review",
-      "image": "https://i.guim.co.uk/img/media/7c7a74056129c3518a65b9c65bc21d808985cf74/409_0_3100_2480/master/3100.jpg?width=140&quality=85&auto=format&fit=max&s=eebb64adf164eda5676a93f5fbea05b4",
-      "category": "World Cinema"
-    },
-    {
       "id": "61eb48fa5304c30f",
       "title": "Ethan Hawke comfortably shoulders The Weight of a throwback '70s-style adventure",
       "quote": "In The Weight, a group of men trek through danger while carrying hefty packs of stolen gold, with great performances and exciting set pieces.",
@@ -392,17 +524,6 @@
       "link": "https://www.avclub.com/american-idol-leaves-california-georgia",
       "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/15144041/Idol-feature.jpg",
       "category": "Indie Gems"
-    },
-    {
-      "id": "8de2fc11f06225f5",
-      "title": "‘This should be condemned by any thinking human’: film industry rallies behind NAZA directors",
-      "quote": "Backing comes after Yuval Abraham and Rachel Szor were threatened with having their citizenship revoked and accused of treason Film industry heavyweights across the globe have expressed solidarity with Yuval Abraham and…",
-      "publisher": "The Guardian",
-      "author": "Catherine Shoard  in London and Lorenzo Tondo in Jerusalem",
-      "date": "2026-09-15T16:44:12+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/15/naza-directors-yuval-abraham-rachel-szor-film-industry-support",
-      "image": "https://i.guim.co.uk/img/media/111c31690202c6b76fa105e1cc307538272e4f19/597_81_4088_3270/master/4088.jpg?width=140&quality=85&auto=format&fit=max&s=0faa05f3bfe46c3bdc40c475354bb417",
-      "category": "Festival Winners"
     },
     {
       "id": "6b876d5b6c2dd1f7",
@@ -427,17 +548,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "47921e8914d2fef7",
-      "title": "‘Odiyan: The Age of Illusion’: Rahul Sadasivan’s film with Prithviraj Sukumaran goes on floors",
-      "quote": "Malayalam horror drama movie ‘Odiyan: The Age of Illusion’, starring Prithviraj Sukumaran and Manju Warrier, marks the Malayalam debut of Karan Johar’s Dharma Productions",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-15T13:25:16+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/odiyan-the-age-of-illusion-goes-on-floors-odiyan-malayalam-movie-prithviraj-rahul-sadasivan-manju-warrier/article71468257.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/wl8uiv/article71468547.ece/alternates/LANDSCAPE_1200/Odiyan.jpeg",
-      "category": "Indian Cinema"
-    },
-    {
       "id": "cea0fabfe5fc455c",
       "title": "James McNeill Whistler review – painter’s work shines through attention-grabbing life story",
       "quote": "The latest Exhibition on Screen documentary does a good job balancing the famous scandals with the subtle brilliance of his art Timed to coincide with Tate Britain’s impressive gallery show – which closes at the end of…",
@@ -446,28 +556,6 @@
       "date": "2026-09-15T12:00:42+00:00",
       "link": "https://www.theguardian.com/film/2026/sep/15/james-mcneill-whistler-review-painter",
       "image": "https://i.guim.co.uk/img/media/37cc74348c984903d3292e9226575c03805f1eb0/0_137_5851_4680/master/5851.jpg?width=140&quality=85&auto=format&fit=max&s=dc6cbc216a97888392137c99788b56ef",
-      "category": "World Cinema"
-    },
-    {
-      "id": "ccce7f72f83716e8",
-      "title": "Vanishing bonds: Ankur Hooda’s The Calf Doll exposes the price of progress",
-      "quote": "In Ankur Hooda’s evocative docudrama, making waves in the festival circuit, the ancient practice of crafting a calf doll becomes a powerful lens for examining the relationship between villagers and their livestock",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-15T11:51:54+00:00",
-      "link": "https://www.thehindu.com/entertainment/vanishing-bonds-ankur-hoodas-thecalf-doll-exposes-the-price-of-progress/article71467420.ece",
-      "image": "https://th-i.thgim.com/public/incoming/zepzjd/article71467423.ece/alternates/LANDSCAPE_1200/The%20Calf%20Doll_01.png",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "bd8371a21112b597",
-      "title": "The Debut review – Julianne Moore is a thrill in Jesse Eisenberg’s oddball comedy",
-      "quote": "Toronto film festival: riotous lead performance holds together third movie from actor turned film-maker, about a housewife who joins a local musical Jesse Eisenberg’s last two directorial efforts – the prickly comedy…",
-      "publisher": "The Guardian",
-      "author": "Richard Lawson in Toronto",
-      "date": "2026-09-15T11:51:47+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/15/the-debut-review-julianne-moore",
-      "image": "https://i.guim.co.uk/img/media/ae94f03afd4c97b0dfaa2e93d416e5292834ed4e/453_0_4526_3622/master/4526.jpg?width=140&quality=85&auto=format&fit=max&s=477869aa5b78f238dd12f249b89ec68b",
       "category": "World Cinema"
     },
     {
@@ -480,61 +568,6 @@
       "link": "https://www.bbc.com/culture/article/20260914-the-unsolved-mystery-of-lizzie-borden-and-the-grisly-fall-river-axe-murders?ocid=global_culture_rss",
       "image": "https://ychef.files.bbci.co.uk/144x81/p0p9kzxm.jpg",
       "category": "World Cinema"
-    },
-    {
-      "id": "3b19e4fd19a31c99",
-      "title": "‘The Paper’ Season 2 review: Domhnall Gleeson and friends bring earnest charisma to the Toledo Truth Teller’s latest exploits",
-      "quote": "‘The Office’ spinoff continues to float by on charm and good vibes as it dives enthusiastically into podcasts and potholes",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-15T09:13:39+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/the-paper-season-2-review-domhnall-gleeson-and-friends-bring-earnest-charisma-to-the-toledo-truth-tellers-latest-exploits/article71467027.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/4m8ipi/article71467389.ece/alternates/LANDSCAPE_1200/the-paper-main-090525-83d430b35b474d729f38c924aa757bdf.jpg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "beea25dd7ad6ed1b",
-      "title": "‘Last Man in Tower’: How Ben Rekhi’s ‘outsider’ gaze places Manoj Bajpayee at the heart of Mumbai’s redevelopment horror",
-      "quote": "The filmmaker discusses what went into adapting Aravind Adiga’s book, the suggestions he receieved from the writer, why he thinks Manoj Bajpayee is an intuitive actor and more",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-15T09:02:31+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/last-man-in-tower-how-ben-rekhis-outsider-gaze-places-manoj-bajpayee-at-the-heart-of-mumbais-redevelopment-horror/article71466608.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/s31hfy/article71466668.ece/alternates/LANDSCAPE_1200/Ben%20Rekhi%20and%20Manoj%20Bajpayee%E2%80%99s%20still%20from%20%E2%80%98Last%20Man%20in%20Tower%E2%80%99",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "477be9a949ba3ddf",
-      "title": "‘Jaadugar: A Witch in Mongolia’ series review: A wickedly well-read corrective to Orientalist caricature",
-      "quote": "One of the year’s most erudite historical anime, ‘Jaadugar’ rummages through the machinery of empire with scholarly curiosity, gives Islamic history the dignity of lived experience, and discovers that the Mongol court…",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-15T09:01:16+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/jaadugar-a-witch-in-mongolia-series-review-a-wickedly-well-read-corrective-to-orientalist-caricature/article71467279.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/f8u18i/article71467313.ece/alternates/LANDSCAPE_1200/HSPZZKaWkAA7XuY.jpg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "e31366e8e298b44e",
-      "title": "Rashmika Mandanna to play MS Subbulakshmi; Anirudh Ravichander to compose music",
-      "quote": "The film, directed by Gowtam Tinnanuri, is set to be launched tomorrow in Chennai on the singer’s 110th birth anniversary",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-15T08:12:27+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/rashmika-mandanna-ms-subbulakshmi-biopic-anirudh-ravichander-gowtam-tinnanuri/article71467205.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/oase73/article71467203.ece/alternates/LANDSCAPE_1200/MS%20Subbulakshmi%20Rashmika%20Mandanna.jpg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "2907c60b44914524",
-      "title": "Emmys 2026: When and where to watch the award ceremony",
-      "quote": "In India, Emmys 2026 will take place on Tuesday, September 15, with the red carpet coverage beginning at 4:30 am IST",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-15T05:29:33+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/emmys-2026-when-and-where-to-watch-the-award-ceremony-live/article71465682.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/q5vtez/article71465695.ece/alternates/LANDSCAPE_1200/cvr%2090.jpg",
-      "category": "Indian Cinema"
     },
     {
       "id": "628cafe3e2a701f5",
@@ -614,28 +647,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "773d77246c25662e",
-      "title": "‘Everybody Wants To F*ck Me’ Review: A Hard-Working Taron Egerton Is Blameless in Muddled Takedown of the Faux-Feminist Male",
-      "quote": "Jessica Henwick and Charly Clive also star in writer-director Jonathan Schey’s first feature, a comedy that morphs into horror about a womanizer whose pick-up strategy is posing as a softboi.",
-      "publisher": "The Hollywood Reporter",
-      "author": "David Rooney",
-      "date": "2026-09-14T17:49:05+00:00",
-      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/everybody-wants-to-fck-me-review-taron-egerton-1236700600/",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "24920515e1fa72b1",
-      "title": "‘The Last Photograph’ Review: Zack Snyder Tries Indie Filmmaking on for Size, With Painfully Ponderous Results",
-      "quote": "The DC filmmaker's passion project stars Stuart Martin as an ex-DEA operative who ventures into the mountains of South America to track down the abducted children of his murdered brother and sister-in-law.",
-      "publisher": "The Hollywood Reporter",
-      "author": "Michael Rechtshaffen",
-      "date": "2026-09-14T14:22:39+00:00",
-      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/the-last-photograph-review-zack-snyder-1236699771/",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
       "id": "b24ec176b2c24306",
       "title": "‘Your Mother Your Mother Your Mother’ Review: A Blistering Spiritual Actioner Finally Gives Mahershala Ali a Leading Role Worth His While",
       "quote": "Since winning two Oscars in three years less than a decade ago, Mahershala Ali has bided his time as one of Hollywood’s great untapped commodities. Not counting some disposable franchise support duty, he’s had only a…",
@@ -676,17 +687,6 @@
       "author": "Cortlyn Kelly",
       "date": "2026-09-14T04:03:48+00:00",
       "link": "https://www.rogerebert.com/reviews/misty-green-chris-rock-film-review-2026",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "c687f561e3cefdde",
-      "title": "‘All That She Wants’ Review: Annie Murphy Is All That in a Fizzy Rom-Com That Works Best When It Isn’t Trying Too Hard",
-      "quote": "Toplining a feature for the first time, the ‘Schitt’s Creek’ star plays a 30-something who’s ready for motherhood, if not a relationship, in a comedy that also stars Zosia Mamet, Cooper Raiff and Christine Baranski.",
-      "publisher": "The Hollywood Reporter",
-      "author": "Sheri Linden",
-      "date": "2026-09-14T03:30:00+00:00",
-      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/all-that-she-wants-review-annie-murphy-cooper-raiff-1236698118/",
       "image": null,
       "category": "World Cinema"
     },
