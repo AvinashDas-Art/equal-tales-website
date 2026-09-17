@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T11:26:16.359541+00:00",
+  "generated_at": "2026-09-17T16:45:05.812836+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -9,15 +9,202 @@
   ],
   "reviews": [
     {
-      "id": "47a0930d3f4e4544",
-      "title": "Pingyao Film Festival Unveils 10th Edition Line-up; ‘Spring In A Small Town’ Set As Opening Film",
-      "quote": "China’s Pingyao International Film Festival (PYIFF) has announced the line-up for its tenth anniversary edition, which will open with a 4K restoration of Fei Mu’s Spring In A Small Town. Good Trip, co-directed by Hong…",
-      "publisher": "Deadline",
-      "author": "Liz Shackleton",
-      "date": "2026-09-17T11:13:17+00:00",
-      "link": "https://deadline.com/2026/09/jia-zhangke-pingyao-film-festival-spring-in-a-small-town-1237106295/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Torino-Shadow.jpg",
+      "id": "7560ede79a184aed",
+      "title": "‘Onwards and Sideways’ Review: Laura Linney and Rhys Ifans Cut Through the Sweetness of a Gentle, Compassionate Parkinson’s Drama",
+      "quote": "There’s nothing fun about Parkinson’s disease, and no film about it can engineer an uncompromised happy ending. But John Madden’s “Onwards and Sideways” finds more uplift than one might expect in a story of two people…",
+      "publisher": "Variety",
+      "author": "Guy Lodge",
+      "date": "2026-09-17T16:40:43+00:00",
+      "link": "https://variety.com/2026/film/reviews/onwards-and-sideways-review-1236865721/",
+      "image": "https://variety.com/wp-content/uploads/2026/09/Onwards-and-Sideways_Still_Hero.jpg",
       "category": "World Cinema"
+    },
+    {
+      "id": "f6900e0c8fa87edb",
+      "title": "‘Doctor Who’ Regen Is Go! BBC Calls On Producers To Pitch “Brave” New Vision For Sci-Fi Series",
+      "quote": "The BBC has fired the starting gun on the regeneration of Doctor Who. The British broadcaster has today launched a competitive tender for Season 16, in which producers will pitch in a bake-off-style process to refresh…",
+      "publisher": "Deadline",
+      "author": "Jake Kanter",
+      "date": "2026-09-17T16:35:21+00:00",
+      "link": "https://deadline.com/2026/09/doctor-who-tender-bbc-calls-1237106539/",
+      "image": "https://deadline.com/wp-content/uploads/2025/06/525172-e1750264502579.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "0ba38e84508bc0d0",
+      "title": "Pitt Street Productions Developing Feature Adaptation of Jessica Joyce Romance Novel ‘The Ex Vows’",
+      "quote": "EXCLUSIVE: Pitt Street Productions has locked down feature film rights to Jessica Joyce’s 2024 romance novel The Ex Vows with plans to package an adaptation imminently. An instant USA Today bestseller, The Ex Vows…",
+      "publisher": "Deadline",
+      "author": "Matthewgrobar",
+      "date": "2026-09-17T16:30:00+00:00",
+      "link": "https://deadline.com/2026/09/the-ex-vows-movie-set-jessica-joyce-book-pitt-street-1237106490/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/split-2-split-1000x667-5.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "16bb0951c19a9c51",
+      "title": "Hot Springs Documentary Film Festival Announces 2026 Lineup, Honorary Chair Darlene Love & Awards For Joe Berlinger, Yoruba Richen",
+      "quote": "EXCLUSIVE: The Hot Springs Documentary Film Festival announced its 2026 lineup Thursday, the 35th edition of the prestigious festival in central Arkansas. The cinematic event running October 9-17 in the historic spa…",
+      "publisher": "Deadline",
+      "author": "Matthew Carey",
+      "date": "2026-09-17T16:29:10+00:00",
+      "link": "https://deadline.com/2026/09/2026-hot-springs-documentary-film-festival-lineup-annoucement-1237106495/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/HSDFF-2026.png",
+      "category": "World Cinema"
+    },
+    {
+      "id": "a2b09d332050b455",
+      "title": "What To Expect For ‘Heated Rivalry’ Season 2: Everything We Know So Far",
+      "quote": "There is still a long wait to be had for the highly anticipated second season of Heated Rivalry. When Season 1 of the Crave book adaptation of Rachel Reid’s Game Changers series skated quietly onto HBO Max on Nov. 28…",
+      "publisher": "Deadline",
+      "author": "Dessi Gomez",
+      "date": "2026-09-17T16:25:58+00:00",
+      "link": "https://deadline.com/feature/heated-rivalry-season-2-news-updates-everything-we-know-1236867258/",
+      "image": "https://deadline.com/wp-content/uploads/2026/01/hudson-williams_2.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "f8c4c5919871fea0",
+      "title": "Naomi Scott & Kit Harington Romance ‘Eternal Return’ Gets North American Deal & Theatrical Release Date",
+      "quote": "EXCLUSIVE: Quiver Distribution has licensed North American rights to Eternal Return, the Macro Film Studios and BK Studios picture from writer-director Yaniv Raz. Naomi Scott (Smile 2) and Kit Harington (Industry) star…",
+      "publisher": "Deadline",
+      "author": "Andreas Wiseman",
+      "date": "2026-09-17T16:15:00+00:00",
+      "link": "https://deadline.com/2026/09/kit-harington-naomi-scott-romance-eternal-return-us-release-1237106283/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Eternal-Return.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "5212d3c74be8dd36",
+      "title": "David Dobkin’s Matt Rife Road Trip Comedy Gets New Title As Seven Join Cast",
+      "quote": "EXCLUSIVE: Production is underway on Unaccompanied Minor, Wedding Crashers helmer David Dobkin’s new road trip comedy formerly titled The Escort, starring comedian Matt Rife. Seven have joined the cast of the film…",
+      "publisher": "Deadline",
+      "author": "Matthewgrobar",
+      "date": "2026-09-17T16:15:00+00:00",
+      "link": "https://deadline.com/2026/09/matt-rife-movie-unaccompanied-minor-casts-seven-1237106453/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Matt-Rife-and-David-Dobkin.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "8882110f0dc3e833",
+      "title": "All The Songs In ‘Ted Lasso’ Season 4 So Far",
+      "quote": "Ted’s back! Well, first, Rebecca (Hannah Waddingham), Leslie Higgins (Jeremy Swift) and Keeley Jones (Juno Temple) have to visit him in Kansas City, where he has taken up a cashier job at the supermarket. After…",
+      "publisher": "Deadline",
+      "author": "Dessi Gomez",
+      "date": "2026-09-17T16:06:20+00:00",
+      "link": "https://deadline.com/feature/ted-lasso-season-4-songs-soundtrack-1237018779/",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Ted_Lasso_Photo_040203.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "e9c829a05b43ce94",
+      "title": "‘Shrek’ Books Shared-Reality Run At Cosm In Kickoff To Universal Partnership",
+      "quote": "Shared reality company Cosm will kick off a multi-film partnership with Universal by presenting a retooled version of Shrek 25 years after the film’s original release. The venture-funded company, which recently received…",
+      "publisher": "Deadline",
+      "author": "Dade Hayes",
+      "date": "2026-09-17T16:01:03+00:00",
+      "link": "https://deadline.com/2026/09/shrek-25th-anniversary-cosm-universal-1237106450/",
+      "image": "https://deadline.com/wp-content/uploads/2024/07/MCDSHRE_EC025.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "399b339f26230ce4",
+      "title": "Narnia: First Official Look At Meryl Streep's Aslan In Netflix Movie",
+      "quote": "Here's our first look at Greta Gerwig's upcoming Narnia movie The Magician's Nephew, which has cast Meryl Streep as the voice of Aslan the Lion.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Ben Pearson)",
+      "date": "2026-09-17T15:39:22+00:00",
+      "link": "https://www.slashfilm.com/2261304/narnia-netflix-movie-meryl-streep-aslan-first-look/",
+      "image": "https://www.slashfilm.com/img/gallery/narnia-netflix-movie-meryl-streep-aslan-first-look/l-intro-1789660741.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "70f0677f03bf6603",
+      "title": "5 Yellowstone Characters Who Deserve Their Own Spin-Offs",
+      "quote": "If there are going to be more Yellowstone spin-offs - and there probably are - here are 5 characters who deserve their own time in the spotlight.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Joe Roberts)",
+      "date": "2026-09-17T15:00:00+00:00",
+      "link": "https://www.slashfilm.com/2257671/yellowstone-characters-deserve-own-spin-offs/",
+      "image": "https://www.slashfilm.com/img/gallery/5-yellowstone-characters-who-deserve-their-own-spin-offs/l-intro-1789401311.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "777362c7e4ec1717",
+      "title": "‘Tiny Fugitives’ Review: Alternately Tiresome and Amusing, Johnny Knoxville’s Chaotic Jewish Camp Comedy Is Essentially What You’d Expect",
+      "quote": "The 'Jackass' star plays a counselor desperately trying to retrieve some of his charges, who've made a break for it, in Michael Lewen's new film.",
+      "publisher": "The Hollywood Reporter",
+      "author": "Frank Scheck",
+      "date": "2026-09-17T14:33:33+00:00",
+      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/tiny-fugitives-review-johnny-knoxville-1236702463/",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "01c3e6161e440fe8",
+      "title": "‘The Life and Deaths of Wilson Shedd’ Review: Amanda Seyfried and Scoot McNairy Bring Raw Intensity to Tim Blake Nelson’s Death Row Drama",
+      "quote": "The director also appears in a stacked ensemble that includes Missi Pyle, Devyn Tyler, Elizabeth Marvel, Grant Harvey, William Jackson Harper and Wunmi Mosaku.",
+      "publisher": "The Hollywood Reporter",
+      "author": "David Rooney",
+      "date": "2026-09-17T14:03:35+00:00",
+      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/the-life-and-deaths-of-wilson-shedd-review-amanda-seyfried-1236704277/",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "5bc5a60b6cd4a2be",
+      "title": "Star Trek: Strange New Worlds Season 4 Has A Sequel To The Show's First Controversial Episode",
+      "quote": "For its penultimate episode, Star Trek: Strange New Worlds Season 4 revisits a controversial episode from the show's first season.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Devin Meenan)",
+      "date": "2026-09-17T14:00:00+00:00",
+      "link": "https://www.slashfilm.com/2257742/star-trek-strange-new-worlds-season-4-sequel-controversial-episode/",
+      "image": "https://www.slashfilm.com/img/gallery/star-trek-strange-new-worlds-season-4-sequel-controversial-episode/l-intro-1789406807.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "88833e06da360c5c",
+      "title": "5 Years Ago Today: Clint Eastwood Released A Western That Flopped In Theaters",
+      "quote": "2021 saw Clint Eastwood both direct and star in a Western film that flopped at the box office but deserved a better fate.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Witney Seibold)",
+      "date": "2026-09-17T13:00:00+00:00",
+      "link": "https://www.slashfilm.com/2252277/cry-macho-clint-eastwood-western-5-year-anniversary/",
+      "image": "https://www.slashfilm.com/img/gallery/5-years-ago-today-clint-eastwood-released-a-western-that-flopped-in-theaters/l-intro-1788809829.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "cd01a79aad2883a9",
+      "title": "‘#Love’: Tamil series starring Arjun Das and Aishwarya Lekshmi locks premiere date",
+      "quote": "Showrun and produced by Soundarya Rajinikanth, ‘#Love’ is directed by Balaji Mohan and the web series explores modern dating and deep emotional bonds",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-17T12:30:30+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/love-tamil-series-arjun-das-aishwarya-lekshmi-premiere-date/article71476388.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/z9vpk9/article71476596.ece/alternates/LANDSCAPE_1200/Love.jpeg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "0f58115c8dc31317",
+      "title": "50 Years of Punk review – rock’n’roll rebels fondly recall the filth and fury a half-century on",
+      "quote": "Glen Matlock, Viv Albertine and Rat Scabies revisit the music, clothes and disgusting spitting in a likable documentary marking half a century of British punk As the majority of them ease into their eighth decade, the…",
+      "publisher": "The Guardian",
+      "author": "Andrew Pulver",
+      "date": "2026-09-17T12:00:49+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/17/50-years-of-punk-review-rocknroll-rebels-fondly-recall-the-filth-and-fury-a-half-century-on",
+      "image": "https://i.guim.co.uk/img/media/d36e1df567af0baf17d1e63049416a3211aacf70/50_0_1470_1177/master/1470.jpg?width=140&quality=85&auto=format&fit=max&s=006799583b153740cf351f25232102c3",
+      "category": "World Cinema"
+    },
+    {
+      "id": "ab32848b3f893fee",
+      "title": "16 Years Ago Today: Ben Affleck Gave Audiences One Of The Best Crime Thrillers Ever Made",
+      "quote": "Ben Affleck's crime thriller The Town hit theaters 16 years ago today, resulting in a big hit for the actor turned director.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Devin Meenan)",
+      "date": "2026-09-17T11:43:19+00:00",
+      "link": "https://www.slashfilm.com/2260991/ben-affleck-crime-thiller-the-town-16-year-anniversary/",
+      "image": "https://www.slashfilm.com/img/gallery/16-years-ago-today-ben-affleck-gave-audiences-one-of-the-best-crime-thrillers-ever-made/l-intro-1789645254.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "63daafd4638b5b27",
@@ -28,17 +215,6 @@
       "date": "2026-09-17T11:00:48+00:00",
       "link": "https://www.theguardian.com/film/2026/sep/17/winnie-the-pooh-horror-movies-copyright",
       "image": "https://i.guim.co.uk/img/media/3a012be4a1838998307f72743dcccb7a23697382/669_0_1390_1112/master/1390.jpg?width=140&quality=85&auto=format&fit=max&s=d69c2eeaf641e487b61afb648b848b2b",
-      "category": "World Cinema"
-    },
-    {
-      "id": "96cddda5b6c36940",
-      "title": "Channel 4 Rules Out Reviewing Record Executive Pay Amid Dramatic Job Cuts",
-      "quote": "EXCLUSIVE: Channel 4 has no plans to review record levels of executive pay in recent years despite the UK network’s ambition to radically reduce its cost base. Deadline understands that Channel 4’s board is not giving…",
-      "publisher": "Deadline",
-      "author": "Jake Kanter",
-      "date": "2026-09-17T11:00:25+00:00",
-      "link": "https://deadline.com/2026/09/channel-4-review-record-executive-pay-amid-job-cuts-1237106247/",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/79486_S17_-Embargoed-2100-Sunday-16th-August-GBBO-S17-First-Look-1-e1787952561416.jpg",
       "category": "World Cinema"
     },
     {
@@ -75,17 +251,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "1951b2da13227ce5",
-      "title": "‘Happily Ever After’: First Look Footage Of K-Pop Star Shuhua In Movie Debut — Toronto Film Festival",
-      "quote": "EXCLUSIVE: Here’s your first-look footage of K-pop star Shuhua in her movie debut, Happily Ever After, which is debuting this week at the Toronto Film Festival. The Korea-based Taiwanese singer, a member of the girl…",
-      "publisher": "Deadline",
-      "author": "Andreas Wiseman",
-      "date": "2026-09-17T09:45:23+00:00",
-      "link": "https://deadline.com/2026/09/shuhua-movie-debut-first-look-happily-ever-after-1237106263/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Happily-Ever-After.webp",
-      "category": "World Cinema"
-    },
-    {
       "id": "12932f8d48747ecc",
       "title": "‘Dare Devil’: Ajith Kumar’s first look from Adhik Ravichandran’s film out; filming begins soon",
       "quote": "‘Dare Devil’ reunites Tamil star Ajith Kumar with director Adhik Ravichandran after the 2025 blockbuster ‘Good Bad Ugly’",
@@ -97,39 +262,6 @@
       "category": "Indian Cinema"
     },
     {
-      "id": "81451eead3c34a7f",
-      "title": "STV Studios Ups Stake In ‘Patrick Melrose’ & ‘Army Of Shadows’ Producer Two Cities Once Again",
-      "quote": "EXCLUSIVE: STV Studios has once again upped its stake in Patrick Melrose and Blue Lights producer Two Cities Television. The Scottish production giant has shifted its ownership from 51% to 75%, according to a recent…",
-      "publisher": "Deadline",
-      "author": "Max Goldbart",
-      "date": "2026-09-17T09:25:10+00:00",
-      "link": "https://deadline.com/2026/09/stv-stake-two-cities-upped-patrick-melrose-blue-lights-1237106246/",
-      "image": "https://deadline.com/wp-content/uploads/2018/03/patrick-melrose-2.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "1e36d7c884aba84d",
-      "title": "Princess Diana Documentary Featuring Unheard Tapes Set For International Launch At MIPCOM",
-      "quote": "EXCLUSIVE: Diana Unheard, a new documentary series featuring previously unheard audio recordings of the Princess candidly discussing her life, loves and the royal family, is getting an international launch. Cineflix has…",
-      "publisher": "Deadline",
-      "author": "Stewart Clarke",
-      "date": "2026-09-17T08:13:49+00:00",
-      "link": "https://deadline.com/2026/09/princess-diana-unheard-tapes-documentary-sales-cineflix-1237106198/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Diana-Unheard-key-art-image-credit-Tim-Graham-Getty-Images.jpg",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "cf042dc565651951",
-      "title": "Audiences Flocking To Anime On Netflix At 10 Times The Rate Of Other Genres, Report Reveals",
-      "quote": "Viewing to anime on Netflix has rocketed at almost 10 times the rate of the streamer’s total viewing numbers over the past three years. A Media Partners Asia (MPA) report into anime shone a spotlight on audiences’ love…",
-      "publisher": "Deadline",
-      "author": "Max Goldbart",
-      "date": "2026-09-17T08:08:46+00:00",
-      "link": "https://deadline.com/2026/09/netflix-anime-viewing-rising-fast-mpa-report-reveals-1237106192/",
-      "image": "https://deadline.com/wp-content/uploads/2025/12/TCDBLEY_ZX002.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "c9b763c2f4a61668",
       "title": "Bad Apples review – Saoirse Ronan’s suffering teacher best thing about school horror-satire",
       "quote": "Ronan plays a teacher who finds a way to deal with a disruptive pupil in Jonatan Etzler’s implausible film, but it’s not shocking or funny enough Here is a strange, heavy-handed and unpersuasive black comedy which owes…",
@@ -138,17 +270,6 @@
       "date": "2026-09-17T08:00:43+00:00",
       "link": "https://www.theguardian.com/film/2026/sep/17/bad-apples-review-saoirse-ronans-suffering-teacher-best-thing-about-school-horror-satire",
       "image": "https://i.guim.co.uk/img/media/fd720e1e3da30d4c0952b2826bc6612ffcd58207/486_0_2027_1622/master/2027.jpg?width=140&quality=85&auto=format&fit=max&s=43bef17f63bad8b70e722209b1d02cfa",
-      "category": "World Cinema"
-    },
-    {
-      "id": "c17be9631f95e69d",
-      "title": "CJ ENM Sells ‘Hotel Del Luna’, ‘Signal’ & Other Hit K-Dramas To CME Slovakia & Czech Channels",
-      "quote": "Korean studio CJ ENM has signed partnerships with TV Markíza in Slovakia and TV Nova in the Czech Republic, both owned by European media giant Central European Media Enterprises (CME), as part of an expansion of its…",
-      "publisher": "Deadline",
-      "author": "Liz Shackleton",
-      "date": "2026-09-17T07:59:30+00:00",
-      "link": "https://deadline.com/2026/09/hotel-del-luna-signal-cj-enm-cme-central-eastern-europe-1237106124/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Hotel-Del-Luna.jpg",
       "category": "World Cinema"
     },
     {
@@ -182,17 +303,6 @@
       "date": "2026-09-17T07:03:18+00:00",
       "link": "https://www.theguardian.com/film/2026/sep/17/real-life-tale-behind-the-cycle-of-love",
       "image": "https://i.guim.co.uk/img/media/710ee56e8738bbac8495bf42f26189afd5058dfa/556_0_2027_1622/master/2027.jpg?width=140&quality=85&auto=format&fit=max&s=2a32c67e4413c218f66ab4f6368b4d55",
-      "category": "World Cinema"
-    },
-    {
-      "id": "ed909e387713878c",
-      "title": "Matthew Rhys, Ruth Wilson, Phoebe Dynevor & Harriet Walter Set For Audible Thriller ‘All She Wants For Christmas’",
-      "quote": "EXCLUSIVE: Matthew Rhys, fresh off his double Emmy win, Ruth Wilson, Phoebe Dynevor and Harriet Walter have been set to star in Lisa Jewell’s Audible Original, All She Wants for Christmas, which will launch November 2…",
-      "publisher": "Deadline",
-      "author": "Andreas Wiseman",
-      "date": "2026-09-17T07:01:00+00:00",
-      "link": "https://deadline.com/2026/09/matthew-rhys-ruth-wilson-phoebe-dynevor-audible-cast-1237105149/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Matthew-Rhys-Ruth-Wilson-Phoebe-Dynevor-and-Harriet-Walter.jpg",
       "category": "World Cinema"
     },
     {
@@ -238,17 +348,6 @@
       "link": "https://www.theguardian.com/film/2026/sep/17/the-watergate-caper-richard-nixon-and-the-death-of-the-american-dream-review-political-scandal-70s-style",
       "image": "https://i.guim.co.uk/img/media/27566afdee9211a2b3d53c1702d404c9a2d3f380/280_0_2564_2052/master/2564.jpg?width=140&quality=85&auto=format&fit=max&s=c724d774fe4ae61e1fa0fb6d99d763bc",
       "category": "World Cinema"
-    },
-    {
-      "id": "92de8b75f1e5e46f",
-      "title": "40 Years of Transformers: Remembering Peter Cullen, Chester Bennington and the Hasbro childhood",
-      "quote": "On Transformers Day, a look back at how a few cool pieces of plastic gave children elaborate battles to stage, worlds to invent, heroes to admire and eventually a soundtrack to grow up with that taught a generation…",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-17T06:00:01+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/40-years-of-transformers-remembering-peter-cullen-chester-bennington-and-the-hasbro-childhood/article71474178.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/rxxtpu/article71474347.ece/alternates/LANDSCAPE_1200/transformers-the-movie-4k-uhd-blu-ray-review-high-def-digest-title.png",
-      "category": "Indian Cinema"
     },
     {
       "id": "cabc36c4f0ff9477",
@@ -427,50 +526,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "a28a1f56a8699199",
-      "title": "The Liberation review – Carrie Coon joins all-female cult in unsettling drama",
-      "quote": "Toronto film festival: Director Guy Nattiv draws on personal experience for an 80s-set tale of a woman abandoning her family for a creepy commune We remain fascinated and horrified by the hows and whys of cult…",
-      "publisher": "The Guardian",
-      "author": "Benjamin Lee in Toronto",
-      "date": "2026-09-16T18:22:24+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/16/liberation-movie-review-carrie-coon",
-      "image": "https://i.guim.co.uk/img/media/ece0e82c2b0b48b402b1a7723c76b0dc4759f8cb/649_0_2698_2160/master/2698.jpg?width=140&quality=85&auto=format&fit=max&s=7a9f5edfd52feb73c3ceef08546967dc",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "1a005ca7e5c11034",
-      "title": "Slow Horses Season 6 Premiere Finally Reveals Jackson Lamb's Biggest Secret",
-      "quote": "Slow Horses' Jackson Lamb has been hiding a big secret from one of his closest colleagues for years. In the Season 6 premiere, that secret finally comes out.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-09-16T18:00:00+00:00",
-      "link": "https://www.slashfilm.com/2257935/slow-horses-season-6-premiere-jackson-lamb-secret-reveal/",
-      "image": "https://www.slashfilm.com/img/gallery/slow-horses-season-6-premiere-finally-reveals-jackson-lambs-biggest-secret/l-intro-1789408052.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "9956e6f218ada120",
-      "title": "Zach Cregger's Resident Evil Movie Officially Breaks All-Time Rotten Tomatoes Record",
-      "quote": "Zach Cregger's Resident Evil is already breaking records: it's the best-reviewed video game movie of all time, at least according to Rotten Tomatoes.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Ryan Scott)",
-      "date": "2026-09-16T17:49:48+00:00",
-      "link": "https://www.slashfilm.com/2260475/zach-cregger-resident-evil-movie-rotten-tomatoes-record/",
-      "image": "https://www.slashfilm.com/img/gallery/zach-creggers-resident-evil-movie-officially-breaks-all-time-rotten-tomatoes-record/l-intro-1789580825.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "13304fe01eb6aeb0",
-      "title": "Why The Star Trek: Year One Spin-Off Series Isn't Happening",
-      "quote": "Fans want a Star Trek: Year One spin-off show that bridges the gap between Strange New Worlds and The Original Series, but it looks like that won't happen.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Witney Seibold)",
-      "date": "2026-09-16T17:45:31+00:00",
-      "link": "https://www.slashfilm.com/2260468/why-star-trek-year-one-spin-off-series-not-happening/",
-      "image": "https://www.slashfilm.com/img/gallery/why-the-star-trek-year-one-spin-off-series-isnt-happening/l-intro-1789580573.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "e7a2789880cdbf40",
       "title": "‘Girl Group’ Review: Rebel Wilson Writes, Directs and Stars in Derivative Pop Slop as Bland and Unimaginative as Its Title",
       "quote": "A washed-up former girl group singer turned messy drunk gets a shot at redemption after being forced to coach a bunch of teens preparing for a record label competition.",
@@ -480,28 +535,6 @@
       "link": "https://www.hollywoodreporter.com/movies/movie-reviews/girl-group-review-rebel-wilson-1236703423/",
       "image": null,
       "category": "World Cinema"
-    },
-    {
-      "id": "c174337a93b1f2e0",
-      "title": "Slow Horses Season 6 Immediately Fixes The Main Problem With Season 5",
-      "quote": "The Season 6 premiere of Slow Horses seems to jettison the more comedic approach the show had in Season 5, marking a welcome return to form.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-09-16T17:00:00+00:00",
-      "link": "https://www.slashfilm.com/2257494/slow-horses-season-6-fix-main-problem-season-5-apple-tv/",
-      "image": "https://www.slashfilm.com/img/gallery/slow-horses-season-6-immediately-fixes-the-main-problem-with-season-5/l-intro-1789398252.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "2e32e85c6a594b8f",
-      "title": "Neagley Delivers The Cameo Everyone Was Hoping For In Its Premiere",
-      "quote": "Prime Video's series premiere of Neagley, the Jack Reacher spin-off show, features a cameo that fans will certainly appreciate.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-09-16T16:30:00+00:00",
-      "link": "https://www.slashfilm.com/2259406/neagley-premiere-alan-ritchson-reacher-return-explained/",
-      "image": "https://www.slashfilm.com/img/gallery/neagley-delivers-the-cameo-everyone-was-hoping-for-in-its-premiere/l-intro-1789497380.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "244830fad51fbf8e",
@@ -614,17 +647,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "36c6f4bf9d692846",
-      "title": "‘Julián’ Review: A Mermaid-Loving Dominican American Boy Finds Acceptance in a Vibrant Animated Delight",
-      "quote": "The wondrous paintbrush of Cartoon Saloon has now reached the Latino community of Brooklyn. The acclaimed Irish studio gained international prominence (and multiple Oscar nominations) with local folktales in gorgeous…",
-      "publisher": "Variety",
-      "author": "Carlos Aguilar",
-      "date": "2026-09-16T13:17:28+00:00",
-      "link": "https://variety.com/2026/film/reviews/julian-review-1236860501/",
-      "image": "https://variety.com/wp-content/uploads/2026/09/Julian_Still001_JulianFloating-1-1.png",
-      "category": "Festival Winners"
-    },
-    {
       "id": "2f165a899c166b38",
       "title": "Why Mary Magdalene is a divisive biblical figure",
       "quote": "The iconic saint is surrounded by myth and mystery – as these 10 paintings show",
@@ -633,28 +655,6 @@
       "date": "2026-09-16T11:00:00+00:00",
       "link": "https://www.bbc.com/culture/article/20260915-why-mary-magdalene-is-a-divisive-biblical-figure?ocid=global_culture_rss",
       "image": "https://ychef.files.bbci.co.uk/144x81/p0p9rchf.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "e1b35b26fb2171bd",
-      "title": "‘Closing Night’ Review: Sarah Paulson and Naomi Watts Lead a Deluxe Cast in a Shrill Family Melodrama in Search of a Binding Tone",
-      "quote": "Dianne Wiest, Toby Wallace and Odessa A’zion flesh out the ensemble of actor Cody Fern’s first feature as director and co-writer, about a famed actress grappling with a dark secret in a time of crisis.",
-      "publisher": "The Hollywood Reporter",
-      "author": "David Rooney",
-      "date": "2026-09-16T01:12:07+00:00",
-      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/closing-night-review-sarah-paulson-naomi-watts-cody-fern-1236702691/",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "19403c5c83feb763",
-      "title": "‘Evil Genius’ Review: A Hilarious Patricia Arquette and David Harbour Make for a Bonkers Bonnie and Clyde in Courteney Cox’s Twisted True-Crime Yarn",
-      "quote": "The comic dramatization of 2003's notorious \"Pizza Bomber\" incident takes its cue from the Netflix series 'Evil Genius: The True Story of America's Most Diabolical Bank Heist.\"",
-      "publisher": "The Hollywood Reporter",
-      "author": "Michael Rechtshaffen",
-      "date": "2026-09-15T20:14:18+00:00",
-      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/evil-genius-review-patricia-arquette-david-harbour-1236700717/",
-      "image": null,
       "category": "World Cinema"
     },
     {
