@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T16:14:00.337350+00:00",
+  "generated_at": "2026-09-18T20:45:07.835274+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -9,59 +9,158 @@
   ],
   "reviews": [
     {
-      "id": "54f9599be08aed00",
-      "title": "Project Healthy Minds’ Mental Health Events To Feature Bill Lawrence, New York Knicks’ Karl-Anthony Towns, Terry Crews & More",
-      "quote": "Project Healthy Minds has set the lineups for two New York City events focusing on mental health, with TV producer Bill Lawrence, New York Knicks star Karl-Anthony Towns and actor Terry Crews due to appear. The…",
+      "id": "80fbebd917b3d3c2",
+      "title": "‘All About Corinne’ Review: Isabelle Huppert Shines As Movie Extra With Bigger Ambitions In Delightful Take On French Film Industry – Toronto Film Festival",
+      "quote": "The great French icon Isabelle Huppert was honored this week with the TIFF Tribute Performer Award at the Toronto International Film Festival and her latest movie, All About Corinne, which had its recent World Premiere…",
       "publisher": "Deadline",
-      "author": "Dade Hayes",
-      "date": "2026-09-18T16:06:41+00:00",
-      "link": "https://deadline.com/2026/09/bill-lawrence-karl-anthony-towns-project-healthy-minds-world-mental-health-day-1237107483/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/World-Mental-Health.jpg",
+      "author": "Pete Hammond",
+      "date": "2026-09-18T20:09:55+00:00",
+      "link": "https://deadline.com/2026/09/all-about-corinne-review-isabelle-huppert-toronto-film-fest-1237107852/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/All-About-Corinne.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "fa399602543df22e",
+      "title": "TV Show Book Adaptations Arriving In 2026 So Far",
+      "quote": "Several best-selling books will make way for returning TV shows and new ones in 2026. Fall and the end of the year have some classics and modern best-seller adaptations in store. Summer has seen several adaptations like…",
+      "publisher": "Deadline",
+      "author": "Dessi Gomez",
+      "date": "2026-09-18T19:49:02+00:00",
+      "link": "https://deadline.com/feature/tv-show-based-on-books-this-year-1236035246/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Books-TV-Shows.jpg",
       "category": "World Cinema"
     },
     {
-      "id": "4b4528ff94524ef8",
-      "title": "Nicole Wallace Joins Josh Heuston In Amazon MGM Romance ‘Throttled’",
-      "quote": "Spanish-American actress Nicole Wallace has landed the female lead opposite Off Campus‘ Josh Heuston in Throttled, Amazon MGM’s romance based on the first book in Lauren Asher’s bestselling Dirty Air series. Wallace…",
+      "id": "5456c5655df66504",
+      "title": "Banned: CNN & MS Now Shut Out Of White House By Trump; POTUS Says “Other Fake News Media Outlets To Follow”",
+      "quote": "(Updated with Oval Office remarks & CNN Response) The President of the United States has banned CNN, MS Now and others from the White House. Floundering in the polls and in the war with Iran, the notoriously thinned…",
       "publisher": "Deadline",
-      "author": "Matthewgrobar",
-      "date": "2026-09-18T16:00:00+00:00",
-      "link": "https://deadline.com/2026/09/throttled-movie-sets-nicole-wallace-josh-heuston-1237106642/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Nicole-Wallace-cred.-Pablo-Curto-jpg.jpeg",
+      "author": "Dominic Patten",
+      "date": "2026-09-18T19:42:54+00:00",
+      "link": "https://deadline.com/2026/09/trump-bans-cnn-ms-now-politico-1237107905/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/White-House_389a11.jpg",
       "category": "World Cinema"
     },
     {
-      "id": "d42496bdd3a2473b",
-      "title": "Joe Morton, Elizabeth Rodriguez & Jen Tullock Among 7 Joining Post-9/11 Limited Series ‘The Best Of Us’ As Production Begins",
-      "quote": "EXCLUSIVE: As cameras begin to roll on the Paramount+ limited series The Best of Us in New York City, 7 actors have joined the cast as guest stars. They include LaChanze (The Blacklist), Richard Schiff (The West Wing)…",
+      "id": "8f825fac643dcb71",
+      "title": "Lea Michele Remembers Duncan Sheik: Death Of ‘Spring Awakening’ Composer “Does Not Seem Real”",
+      "quote": "Lea Michele, who gained her first major fame as a cast member of Broadway’s Spring Awakening, paid tribute to the musical’s late composer Duncan Sheik today, remembering their first meeting and her thoughts upon his…",
       "publisher": "Deadline",
-      "author": "Rosy Cordero",
-      "date": "2026-09-18T16:00:00+00:00",
-      "link": "https://deadline.com/2026/09/the-best-of-us-series-rounds-out-cast-joe-morton-1237107088/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/TBOU-Cast.png",
+      "author": "Greg Evans",
+      "date": "2026-09-18T19:42:30+00:00",
+      "link": "https://deadline.com/2026/09/lea-michele-duncan-sheik-spring-awakening-1237107874/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Duncan-Sheik-and-Lea-Michele.jpg",
       "category": "World Cinema"
     },
     {
-      "id": "324f5f1d3c97117f",
-      "title": "Hulu Orders ‘Heatwave’ Ibiza-Set Limited Series From ‘Joan’ Creator Anna Symon",
-      "quote": "EXCLUSIVE: Hulu is heading to Ibiza for its next limited series. The Disney streamer has greenlighted Heatwave, created, written and executive produced by Anna Symon, creator of the ITV/CW series Joan starring Sophie…",
+      "id": "93c8ed9778b51598",
+      "title": "‘Wonder Man’ Had 52% Audience Retention Yet Was Canceled As Broadcast TV Sees Higher Renewal Rates Than Streaming — Report",
+      "quote": "In an interesting turn of events, broadcast series are more likely to be renewed than those on streaming, according to a new report from data intelligence company Luminate. The report, released Friday, found that the…",
+      "publisher": "Deadline",
+      "author": "Katie Campione",
+      "date": "2026-09-18T19:32:25+00:00",
+      "link": "https://deadline.com/2026/09/wonder-man-most-watched-canceled-series-streaming-broadcast-1237107820/",
+      "image": "https://deadline.com/wp-content/uploads/2026/07/Wonder-Man.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "700cf7cfab44022e",
+      "title": "Costume Designers Guild Dresses Up Its 2027 Awards Date & Timeline",
+      "quote": "Start dressing that set: The Costume Designers Guild said Friday that its 29th annual CDG Awards is set for Thursday, February 25, in Los Angeles. It also revealed other key dates for the 2027 CDGA; see them below…",
+      "publisher": "Deadline",
+      "author": "Erik Pedersen",
+      "date": "2026-09-18T19:15:37+00:00",
+      "link": "https://deadline.com/2026/09/2027-costume-designers-guild-awards-date-1237107842/",
+      "image": "https://deadline.com/wp-content/uploads/2025/09/CDGA-Logo.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "a05f41cf6f948f94",
+      "title": "‘Moonfish’ Review: Morgan Spector and Lucy Liu Voice a Spare but Evocative Animated Sci-Fi Suffused With Loneliness",
+      "quote": "Brooklyn-based artist Daniel Zvereff's Venice-bowing feature debut focuses on a pair of astronauts sent to an asteroid to collect a certain quota of rocks or risk being left there forever.",
+      "publisher": "The Hollywood Reporter",
+      "author": "Leslie Felperin",
+      "date": "2026-09-18T19:12:55+00:00",
+      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/moonfish-venice-writer-director-animator-daniel-zvereff-explores-the-loneliness-of-the-long-distance-miner-in-this-beautiful-mostly-monochromatic-animated-feature-1236705246/",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "2e343de90047e5f2",
+      "title": "HBO Lands ‘The Spread’ Starring Javier Bardem With Series Order After Big Bidding War; Miami Drama Comes From Bill Dubuque & Fifth Season",
+      "quote": "EXCLUSIVE: The fall TV selling season is off to a hot start with a star package triggering frenzied bidding and a slew of big offers from all major streamers, ultimately landing at HBO with a straight-to-series order…",
       "publisher": "Deadline",
       "author": "Nellie Andreeva",
-      "date": "2026-09-18T16:00:00+00:00",
-      "link": "https://deadline.com/2026/09/heatwave-hulu-limited-series-ibiza-anna-symon-1237107204/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Anna-Symon.jpg",
+      "date": "2026-09-18T19:02:48+00:00",
+      "link": "https://deadline.com/2026/09/javier-bardem-the-spread-hbo-drama-series-bill-dubuque-1237101032/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Javier-Bardem-inset-Bill-Dubuque.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "63741fedf998de20",
+      "title": "Explosive ‘NAZA’ Documentary, Attacked By Israeli Government, To Be Released In U.S. Theaters",
+      "quote": "The investigative documentary NAZA, which caused a sensation at the Venice Film Festival but has been attacked by Israeli politicians including Prime Minister Benjamin Netanyahu, will soon reach U.S. theaters…",
+      "publisher": "Deadline",
+      "author": "Matthew Carey",
+      "date": "2026-09-18T19:01:54+00:00",
+      "link": "https://deadline.com/2026/09/naza-u-s-theatrical-release-1237107835/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/NAZA-still.png",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "36392d71fc67e18b",
+      "title": "Spider-Man: Brand New Day's Most Impressive Visual Effect Is Almost Impossible To Spot",
+      "quote": "/Film spoke with one of the visual effects supervisors of Spider-Man: Brand New Day and learned about the movie's most impressive (and invisible) visual effect.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Ben Pearson)",
+      "date": "2026-09-18T19:00:00+00:00",
+      "link": "https://www.slashfilm.com/2261827/spider-man-brand-new-day-visual-effect-almost-impossible-spot/",
+      "image": "https://www.slashfilm.com/img/gallery/spider-man-brand-new-day-visual-effect-almost-impossible-spot/l-intro-1789678719.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "fea07c9d697fc7df",
+      "title": "Why Michelle Yeoh's Philippa Georgiou Is Star Trek's Most Dangerous Starfleet Member",
+      "quote": "As far as Star Trek villains go, Empress Philippa Georgiou, played by Oscar-winner Michelle Yeoh, is the most sadistic character.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Witney Seibold)",
+      "date": "2026-09-18T18:00:00+00:00",
+      "link": "https://www.slashfilm.com/2257773/why-michelle-yeoh-philippa-georgiou-star-trek-most-dangerous-starfleet-member/",
+      "image": "https://www.slashfilm.com/img/gallery/why-michelle-yeohs-philippa-georgiou-is-star-treks-most-dangerous-starfleet-member/l-intro-1789403807.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "524fa2b48a50d06c",
+      "title": "Resident Evil's Twisted Ending Pays Homage To A Key Part Of The Games",
+      "quote": "The somewhat surprising ending of the new Resident Evil movie from director Zach Cregger feels like a callback to a key part of the games.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Devin Meenan)",
+      "date": "2026-09-18T17:55:33+00:00",
+      "link": "https://www.slashfilm.com/2262634/resident-evil-2026-movie-ending-homage-games/",
+      "image": "https://www.slashfilm.com/img/gallery/resident-evils-twisted-ending-pays-homage-to-a-key-part-of-the-games/l-intro-1789753329.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "d473133f5095077b",
+      "title": "‘The Face of Horror’ Review: Kristine Froseth Sparkles, but Anna Biller’s Medieval Tale Can’t Stop Getting in Its Own Way",
+      "quote": "The actress stars alongside Jonah Hauer-King, Ellie Bamber, Leo Suter and Bella Heathcote in the latest from the director of 'The Love Witch.'",
+      "publisher": "The Hollywood Reporter",
+      "author": "Jon Frosch",
+      "date": "2026-09-18T17:25:16+00:00",
+      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/the-face-of-horror-review-anna-biller-1236705322/",
+      "image": null,
       "category": "World Cinema"
     },
     {
-      "id": "a90f13d64cb5a5b4",
-      "title": "Gersh Signs Business & Culture Creator Jaclyn Johnson",
-      "quote": "EXCLUSIVE: Gersh has signed Jaclyn Johnson, the business, investment and culture content creator. Johnson is known as the founder of Create & Cultivate, a women’s global media and events platform that launched back in…",
-      "publisher": "Deadline",
-      "author": "Jesse Whittock",
-      "date": "2026-09-18T16:00:00+00:00",
-      "link": "https://deadline.com/2026/09/gersh-signs-jaclyn-johnson-1237107360/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Jaclyn-Johnson-e1789731641471.png",
-      "category": "World Cinema"
+      "id": "8c57480659364e2d",
+      "title": "Narnia: First Official Look At Daniel Craig's Magician In Netflix Movie",
+      "quote": "Check out Daniel Craig as a terrible (?) magician in Narnia: The Magician's Nephew, the upcoming Netflix movie directed by Greta Gerwig.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Sandy Schaefer)",
+      "date": "2026-09-18T17:01:58+00:00",
+      "link": "https://www.slashfilm.com/2262505/narnia-netflix-movie-daniel-craig-magician-first-look/",
+      "image": "https://www.slashfilm.com/img/gallery/narnia-first-official-look-at-daniel-craigs-magician-in-netflix-movie/l-intro-1789750790.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "90e2914d027e01fd",
@@ -75,17 +174,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "cab85c32efb1e35f",
-      "title": "‘You Can See Everything’: A24 Solidifies October Release Date For Elizabeth Holmes Documentary",
-      "quote": "While the world knew when the trailer dropped for A24’s Telluride surprise Elizabeth Holmes documentary, You Can See Everything that the Lance Oppenheim and Nathan Fielder directed title was coming out in October, it…",
-      "publisher": "Deadline",
-      "author": "Anthonypauldalessandro",
-      "date": "2026-09-18T15:54:28+00:00",
-      "link": "https://deadline.com/2026/09/you-can-see-everything-release-date-1237107510/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/You-Can-See-Everything.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "ed704ae8b4edb337",
       "title": "‘Masc’ Review: A Neurodivergent Gay Man Navigates the World in a Striking and Distinctive Debut Feature",
       "quote": "Joshua Griffin plays the protagonist in Britain-based Swedish director Bertil Nilsson's film, premiering at the Toronto Film Festival.",
@@ -95,28 +183,6 @@
       "link": "https://www.hollywoodreporter.com/movies/movie-reviews/masc-review-joshua-griffin-bertil-nilsson-1236704737/",
       "image": null,
       "category": "Festival Winners"
-    },
-    {
-      "id": "858db11b64ba203b",
-      "title": "ColorCreative Signs ‘Beauty In Black’s Taylor Polidore Williams",
-      "quote": "EXCLUSIVE: Actress Taylor Polidore Williams, who stars in Tyler Perry’s Netflix series Beauty in Black, has signed with ColorCreative for representation in all areas. Beauty in Black is a drama following Polidore’s…",
-      "publisher": "Deadline",
-      "author": "Matthewgrobar",
-      "date": "2026-09-18T15:30:13+00:00",
-      "link": "https://deadline.com/2026/09/taylor-polidore-williams-signs-colorcreative-1237105940/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Headshot-Credit_-Alex-Rogers-copy.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "64832eaf047a707d",
-      "title": "Destry Allyn Spielberg Wraps Crime-Thriller ‘Girl’ With Jason Isaacs, Sofia Wylie, Luke Newton & Maddie Ziegler",
-      "quote": "EXCLUSIVE: Destry Allyn Spielberg’s (Please Don’t Feed the Children) sophomore feature, the psychological crime-thriller Girl, has wrapped in Savannah, Georgia. Cast is led by Jason Isaacs (The White Lotus), Sofia Wylie…",
-      "publisher": "Deadline",
-      "author": "Andreas Wiseman",
-      "date": "2026-09-18T15:30:00+00:00",
-      "link": "https://deadline.com/2026/09/jason-isaacs-sofia-wylie-luke-newton-maddie-ziegler-girl-1237107383/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/ason-Isaacs-Sofia-Wylie-Luke-Newton-and-Maddie-Ziegler.jpg",
-      "category": "World Cinema"
     },
     {
       "id": "8b208994833ee15d",
@@ -284,17 +350,6 @@
       "category": "Festival Winners"
     },
     {
-      "id": "1455ccb4868bf7c2",
-      "title": "Zach Cregger's Resident Evil Movie Has A Complicated Place In The Video Game Timeline",
-      "quote": "Resident Evil brings the beloved video game series to the big screen in a whole new way, but does it fit into the franchise's canon? It's a bit complicated.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Jeremy Mathai)",
-      "date": "2026-09-18T12:00:00+00:00",
-      "link": "https://www.slashfilm.com/2261629/zach-cregger-resident-evil-movie-video-game-timeline/",
-      "image": "https://www.slashfilm.com/img/gallery/zach-cregger-resident-evil-movie-video-game-timeline/l-intro-1789669362.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "6983af420678627a",
       "title": "‘Resident Evil’ movie review: 97 minutes is all Zach Cregger can spare for this monstrously good time",
       "quote": "Zach Cregger turns one doomed delivery into an infectiously funny ‘Resident Evil’ speedrun. A certified Raccoon City banger",
@@ -359,17 +414,6 @@
       "link": "https://www.bbc.com/culture/article/20260917-10-of-the-best-tv-shows-to-watch-this-october?ocid=global_culture_rss",
       "image": "https://ychef.files.bbci.co.uk/144x81/p0pb53kg.jpg",
       "category": "World Cinema"
-    },
-    {
-      "id": "562c7e827f09ea55",
-      "title": "11 Years Ago Today: Jake Gyllenhaal Starred In A Survival Movie Based On A Terrifying True Story",
-      "quote": "Jake Gyllenhaal was one of several big-name stars who appeared in this 2015 disaster film, which was based on a real-life mountain climbing tragedy.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-09-18T11:00:00+00:00",
-      "link": "https://www.slashfilm.com/2260897/jake-gyllenhaal-survival-movie-everest-11-year-anniversary/",
-      "image": "https://www.slashfilm.com/img/gallery/11-years-ago-today-jake-gyllenhaal-starred-in-a-survival-movie-based-on-a-terrifying-true-story/l-intro-1789622605.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "96ef4fdbd69a4a4b",
@@ -471,17 +515,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "ca9491904686fb6b",
-      "title": "5 Best Movies Like 2026's Resident Evil",
-      "quote": "If you like what Zach Cregger's Resident Evil has to offer, here's a handful of other movies that you might want to seek out next.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Bill Bria)",
-      "date": "2026-09-18T00:00:00+00:00",
-      "link": "https://www.slashfilm.com/2261865/best-movies-like-2026-resident-evil/",
-      "image": "https://www.slashfilm.com/img/gallery/5-best-movies-like-2026s-resident-evil/l-intro-1789679454.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "29cb1e38fd393d51",
       "title": "Noah Hawley recruits a bunch of heavy hitters to help Rob Mac play Far Cry",
       "quote": "Brendan Gleeson, Jennifer Jason Leigh, and <i>A Knight Of The Seven Kingdoms</i>' Sam Spruell have all joined the FX adaptation.",
@@ -546,17 +579,6 @@
       "link": "https://www.hollywoodreporter.com/movies/movie-reviews/strange-neighbors-review-oldenburg-1236704521/",
       "image": null,
       "category": "World Cinema"
-    },
-    {
-      "id": "d9721d765830f271",
-      "title": "Star Trek: Strange New Worlds Season 4 Makes Perfect Use Of An Iconic Arthur C. Clarke Quote",
-      "quote": "The latest episode of Star Trek: Strange New Worlds Season 4 spotlights a famous quote from science fiction legend Arthur C. Clarke.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Witney Seibold)",
-      "date": "2026-09-17T17:00:00+00:00",
-      "link": "https://www.slashfilm.com/2260620/star-trek-strange-new-worlds-season-4-arthur-c-clarke-quote/",
-      "image": "https://www.slashfilm.com/img/gallery/star-trek-strange-new-worlds-season-4-makes-perfect-use-of-an-iconic-arthur-c-clarke-quote/l-intro-1789585472.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "7560ede79a184aed",
@@ -647,17 +669,6 @@
       "category": "Festival Winners"
     },
     {
-      "id": "296f5461041d357d",
-      "title": "‘Onwards and Sideways’ Review: Lovely Turns by Laura Linney and Rhys Ifans Lift John Madden’s Parkinson’s Dramedy",
-      "quote": "Also featuring Rory Kinnear and Monica Dolan, the British film, about two people who bond over their shared diagnosis, is based on an autobiographical script by Paul Mayhew-Archer.",
-      "publisher": "The Hollywood Reporter",
-      "author": "Michael Rechtshaffen",
-      "date": "2026-09-16T19:46:11+00:00",
-      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/onwards-and-sideways-review-laura-linney-rhys-ifans-1236702940/",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
       "id": "9eaedd14996dc660",
       "title": "‘Growth of the Soil’ Review: Norway’s Oscar Entry Is a Robustly Classical, Weatherbeaten Rural Epic",
       "quote": "The wind deserves above-the-title billing in “Growth of the Soil” — even in the most serene scenes of Hans Petter Moland’s muscular period epic, you can hear it rattling and wheezing and moaning away in the background…",
@@ -667,17 +678,6 @@
       "link": "https://variety.com/2026/film/reviews/growth-of-the-soil-review-1236864341/",
       "image": "https://variety.com/wp-content/uploads/2026/07/Growth-of-the-Soil.jpg",
       "category": "Festival Winners"
-    },
-    {
-      "id": "e7a2789880cdbf40",
-      "title": "‘Girl Group’ Review: Rebel Wilson Writes, Directs and Stars in Derivative Pop Slop as Bland and Unimaginative as Its Title",
-      "quote": "A washed-up former girl group singer turned messy drunk gets a shot at redemption after being forced to coach a bunch of teens preparing for a record label competition.",
-      "publisher": "The Hollywood Reporter",
-      "author": "David Rooney",
-      "date": "2026-09-16T17:27:13+00:00",
-      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/girl-group-review-rebel-wilson-1236703423/",
-      "image": null,
-      "category": "World Cinema"
     },
     {
       "id": "244830fad51fbf8e",
