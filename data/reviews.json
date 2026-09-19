@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T20:45:07.835274+00:00",
+  "generated_at": "2026-09-19T04:14:35.228937+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -9,70 +9,169 @@
   ],
   "reviews": [
     {
-      "id": "80fbebd917b3d3c2",
-      "title": "‘All About Corinne’ Review: Isabelle Huppert Shines As Movie Extra With Bigger Ambitions In Delightful Take On French Film Industry – Toronto Film Festival",
-      "quote": "The great French icon Isabelle Huppert was honored this week with the TIFF Tribute Performer Award at the Toronto International Film Festival and her latest movie, All About Corinne, which had its recent World Premiere…",
+      "id": "009497cccca0626b",
+      "title": "Gerrit Graham Dead: ‘Star Trek’ & ‘Phantom of the Paradise’ Actor Was 76",
+      "quote": "Gerrit Graham, the actor known for roles in Phantom of the Paradise (1974) and Star Trek, has died. He was 76. The actor died of lung disease and other health complications on Tuesday in Rhinebeck, NY, according to…",
       "publisher": "Deadline",
-      "author": "Pete Hammond",
-      "date": "2026-09-18T20:09:55+00:00",
-      "link": "https://deadline.com/2026/09/all-about-corinne-review-isabelle-huppert-toronto-film-fest-1237107852/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/All-About-Corinne.jpg",
+      "author": "Glenn Garner",
+      "date": "2026-09-19T03:28:21+00:00",
+      "link": "https://deadline.com/2026/09/gerrit-graham-dead-1237108310/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/MSDPHOF_FE004.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "3ebc90e4e2263693",
+      "title": "‘Murderous’ Review: Neil LaBute’s New Film Is Undone by Its Overly Familiar Premise and Obvious Plot Machinations",
+      "quote": "A successful filmmaker receives an unwelcome visit from a former collaborator in this thriller receiving its world premiere at the Oldenburg International Film Festival.",
+      "publisher": "The Hollywood Reporter",
+      "author": "Frank Scheck",
+      "date": "2026-09-19T02:57:57+00:00",
+      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/murderous-review-neil-labute-thomas-sadoski-1236705377/",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "dbfd14273ae44e7e",
+      "title": "Deadline’s L.A. Law Summit: Nina Shaw & Patricia Glaser Honored On Day Of Big Ideas, Big Insights; Watch The Video Presentations",
+      "quote": "Deadline’s inaugural L.A. Law Summit honored two powerhouses of the profession with awards Thursday for Patricia Glaser and Nina Shaw “If you’re perceived, and underline the word perceived, as good, the sky’s the limit…",
+      "publisher": "Deadline",
+      "author": "Dominic Patten",
+      "date": "2026-09-19T02:17:31+00:00",
+      "link": "https://deadline.com/2026/09/patricia-glaser-nina-west-honored-1237107005/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Nina-Shaw-and-Patricia-Glaser.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "c415c1e2db7ebe28",
+      "title": "The Best Films of the Fall Festivals: THR Critics’ Picks",
+      "quote": "A shape-shifting Elizabeth Holmes doc, a star vehicle for Mahershala Ali, and new gems from Mike Leigh and Lee Chang-dong were among THR reviewers’ 13 favorite world premieres out of Venice, Telluride and Toronto.",
+      "publisher": "The Hollywood Reporter",
+      "author": "Angie Han",
+      "date": "2026-09-19T02:08:26+00:00",
+      "link": "https://www.hollywoodreporter.com/lists/best-films-fall-festivals-2026-venice-toronto-telluride/",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "f7d40b214d802a6c",
+      "title": "‘Darlene Love: I Know Where I’ve Been’ Review: A Stirring Pop Doc Traces How the Great Singer of ‘He’s a Rebel’ and Other Classics Reclaimed Her Name",
+      "quote": "\"Darlene Love: I Know Where I’ve Been\" tracks the unique fusion of glory, injustice, fleeting opportunity, dashed dreams, resilience, and latter-day recognition that defines her story. The movie, like Love’s life and…",
+      "publisher": "Variety",
+      "author": "Owen Gleiberman",
+      "date": "2026-09-19T02:02:24+00:00",
+      "link": "https://variety.com/2026/film/reviews/darlene-love-i-know-where-ive-been-review-1236865848/",
+      "image": "https://variety.com/wp-content/uploads/2026/09/Darlene-Love-I-Know-Where-I-ve-Been_Still_02.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "0f22b08e73071e4c",
+      "title": "‘Lollipop Chainsaw’: Cult Japanese Video Game Getting The Live Action Feature Treatment",
+      "quote": "EXCLUSIVE: Cult Japanese video game Lollipop Chainsaw is heading to the big screen. Deadline can reveal that a live action feature version is in the works as the game’s creators look to establish “a new model for…",
+      "publisher": "Deadline",
+      "author": "Max Goldbart",
+      "date": "2026-09-19T01:30:00+00:00",
+      "link": "https://deadline.com/2026/09/lollipop-chainsaw-cult-japanese-video-game-feature-film-1237107425/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Lollipop-Chainsaw.jpeg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "a545c4fce250785d",
+      "title": "Kohner Agency Lays Off Its Talent Agents Due To “Profound & Unprecedented Economic Pressures”",
+      "quote": "EXCLUSIVE: The Kohner Agency is downsizing. Its three talent agents have been laid off. The talent department will stay open to service existing contracts and collect commission only. Owner and President Pearl Wexler…",
+      "publisher": "Deadline",
+      "author": "Nellie Andreeva",
+      "date": "2026-09-19T01:13:33+00:00",
+      "link": "https://deadline.com/2026/09/the-kohner-agency-layoffs-talent-agents-downsizing-1237108249/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Kohner-Agency-Logo.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "3a036ec6fcc29864",
+      "title": "‘VisionQuest’ Creator Terry Matalas Says No GenAI Was Used In Making Of Show: “There Hasn’t Really Been A Need”",
+      "quote": "Despite VisionQuest‘s subject matter as the first solo outing of the title artificial intelligence, the Marvel series kept things strictly human-made. Series creator Terry Matalas recently confirmed there was no GenAI…",
+      "publisher": "Deadline",
+      "author": "Glenn Garner",
+      "date": "2026-09-19T00:40:52+00:00",
+      "link": "https://deadline.com/2026/09/visionquest-creator-no-gen-ai-was-used-making-show-1237108242/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/VisionQuest_TF_1.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "621621b7e8057f53",
+      "title": "Paramount And State AGs Begin Preliminary Talks Ahead Of October Settlement Meetings",
+      "quote": "They’re talking! Or are they? And what are they actually talking about? Does everyone need to chill out? Paramount and state attorneys general are talking, we are told. However, the discussions that are occurring over…",
+      "publisher": "Deadline",
+      "author": "Dominic Patten",
+      "date": "2026-09-18T23:44:12+00:00",
+      "link": "https://deadline.com/2026/09/paramount-antitrust-lawsuit-negotiations-1237108152/",
+      "image": "https://deadline.com/wp-content/uploads/2026/03/FOR-CAROUSEL-ONLY-Rob-Bonta-and-David-Ellison.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "17f01031bd516f13",
+      "title": "John Wilson Lays Down ‘The History of Concrete’ With ‘The Weight’, ‘Shaun The Sheep’ In Packed Indie Weekend – Specialty Preview",
+      "quote": "It’s a busy specialty weekend with fewer new studio releases. Well-reviewed Depression-era western The Weight starring Ethan Hawke and Russell Crowe in wide release joins comedic doc The History of Concrete by John…",
+      "publisher": "Deadline",
+      "author": "Jillg366",
+      "date": "2026-09-18T23:15:00+00:00",
+      "link": "https://deadline.com/2026/09/indie-films-opening-the-weight-history-of-concrete-aardman-1237108082/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/The-Weight-and-A-History-Of-Concrete-and-Shaun-the-Sheep-The-Beast-of-Mossy-Bottom.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "bc9721805a7f4863",
+      "title": "Book-To-Movie Adaptations Coming Out In 2026",
+      "quote": "Many books will provide backbone to both theatrical and streaming releases in 2026. From the long-awaited rom com film adaptation of Emily Henry’s People We Meet on Vacation, which hit Netflix in January, to the Ridley…",
+      "publisher": "Deadline",
+      "author": "Dessi Gomez",
+      "date": "2026-09-18T22:54:39+00:00",
+      "link": "https://deadline.com/feature/book-to-movie-adaptations-1236035322/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Book-To-Movies-Adaptations.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "0cec40d0d2d3ea46",
+      "title": "‘Knife: The Attempted Murder of Salman Rushdie’ Review: Alex Gibney Profiles the Controversial Author During His Harrowing Hospitalization",
+      "quote": "There’s nothing more distressing in “Knife: The Attempted Murder of Salman Rushdie’ than the unflinching closeups of the author’s wounded body in the days and weeks after August 12, 2022, when he was repeatedly stabbed…",
+      "publisher": "Variety",
+      "author": "Guy Lodge",
+      "date": "2026-09-18T21:01:04+00:00",
+      "link": "https://variety.com/2026/film/reviews/knife-the-attempted-murder-of-salman-rushdie-review-1236867255/",
+      "image": "https://variety.com/wp-content/uploads/2026/05/KNIFE-Still_3.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "fef396f82653ab98",
+      "title": "Javier Bardem teams up with Ozark co-creator for his own HBO show",
+      "quote": "Fresh off <i>Monsters</i> and <i>Cape Fear</i>, Oscar-winner Bardem has apparently caught the prestige TV bug.",
+      "publisher": "The A.V. Club",
+      "author": "William Hughes",
+      "date": "2026-09-18T20:29:43+00:00",
+      "link": "https://www.avclub.com/javier-bardem-ozark-co-creator-hbo-show-the-spread-matthew-vaughn",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2024/11/18140648/CGA_3224_y4FjsXTs.jpg",
       "category": "Festival Winners"
     },
     {
-      "id": "fa399602543df22e",
-      "title": "TV Show Book Adaptations Arriving In 2026 So Far",
-      "quote": "Several best-selling books will make way for returning TV shows and new ones in 2026. Fall and the end of the year have some classics and modern best-seller adaptations in store. Summer has seen several adaptations like…",
-      "publisher": "Deadline",
-      "author": "Dessi Gomez",
-      "date": "2026-09-18T19:49:02+00:00",
-      "link": "https://deadline.com/feature/tv-show-based-on-books-this-year-1236035246/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Books-TV-Shows.jpg",
-      "category": "World Cinema"
+      "id": "fd7587652fe9271d",
+      "title": "R.I.P. Gerrit Graham, actor in Phantom Of The Paradise and The Critic",
+      "quote": "Best known for roles in Phantom Of The Paradise, Used Cars, and The Critic, Gerrit Graham died on Tuesday at age 77.",
+      "publisher": "The A.V. Club",
+      "author": "Matt Schimkowitz",
+      "date": "2026-09-18T20:07:01+00:00",
+      "link": "https://www.avclub.com/gerrit-graham-obituary",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/09/18/gerrit-graham-feature.jpg",
+      "category": "Indie Gems"
     },
     {
-      "id": "5456c5655df66504",
-      "title": "Banned: CNN & MS Now Shut Out Of White House By Trump; POTUS Says “Other Fake News Media Outlets To Follow”",
-      "quote": "(Updated with Oval Office remarks & CNN Response) The President of the United States has banned CNN, MS Now and others from the White House. Floundering in the polls and in the war with Iran, the notoriously thinned…",
-      "publisher": "Deadline",
-      "author": "Dominic Patten",
-      "date": "2026-09-18T19:42:54+00:00",
-      "link": "https://deadline.com/2026/09/trump-bans-cnn-ms-now-politico-1237107905/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/White-House_389a11.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "8f825fac643dcb71",
-      "title": "Lea Michele Remembers Duncan Sheik: Death Of ‘Spring Awakening’ Composer “Does Not Seem Real”",
-      "quote": "Lea Michele, who gained her first major fame as a cast member of Broadway’s Spring Awakening, paid tribute to the musical’s late composer Duncan Sheik today, remembering their first meeting and her thoughts upon his…",
-      "publisher": "Deadline",
-      "author": "Greg Evans",
-      "date": "2026-09-18T19:42:30+00:00",
-      "link": "https://deadline.com/2026/09/lea-michele-duncan-sheik-spring-awakening-1237107874/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Duncan-Sheik-and-Lea-Michele.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "93c8ed9778b51598",
-      "title": "‘Wonder Man’ Had 52% Audience Retention Yet Was Canceled As Broadcast TV Sees Higher Renewal Rates Than Streaming — Report",
-      "quote": "In an interesting turn of events, broadcast series are more likely to be renewed than those on streaming, according to a new report from data intelligence company Luminate. The report, released Friday, found that the…",
-      "publisher": "Deadline",
-      "author": "Katie Campione",
-      "date": "2026-09-18T19:32:25+00:00",
-      "link": "https://deadline.com/2026/09/wonder-man-most-watched-canceled-series-streaming-broadcast-1237107820/",
-      "image": "https://deadline.com/wp-content/uploads/2026/07/Wonder-Man.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "700cf7cfab44022e",
-      "title": "Costume Designers Guild Dresses Up Its 2027 Awards Date & Timeline",
-      "quote": "Start dressing that set: The Costume Designers Guild said Friday that its 29th annual CDG Awards is set for Thursday, February 25, in Los Angeles. It also revealed other key dates for the 2027 CDGA; see them below…",
-      "publisher": "Deadline",
-      "author": "Erik Pedersen",
-      "date": "2026-09-18T19:15:37+00:00",
-      "link": "https://deadline.com/2026/09/2027-costume-designers-guild-awards-date-1237107842/",
-      "image": "https://deadline.com/wp-content/uploads/2025/09/CDGA-Logo.jpg",
-      "category": "World Cinema"
+      "id": "d591da44b3f30790",
+      "title": "Zach Cregger isn't afraid of video game fan backlash because he's an adult",
+      "quote": "\"The internet is going to internet,\" Cregger said of fans mad his <i>Resident Evil</i> doesn't directly adapt any of the games.",
+      "publisher": "The A.V. Club",
+      "author": "William Hughes",
+      "date": "2026-09-18T19:46:30+00:00",
+      "link": "https://www.avclub.com/zach-cregger-not-afraid-resident-evil-fan-backlash-because-hes-an-adult",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2025/01/24191617/cregger-feature.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "a05f41cf6f948f94",
@@ -86,28 +185,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "2e343de90047e5f2",
-      "title": "HBO Lands ‘The Spread’ Starring Javier Bardem With Series Order After Big Bidding War; Miami Drama Comes From Bill Dubuque & Fifth Season",
-      "quote": "EXCLUSIVE: The fall TV selling season is off to a hot start with a star package triggering frenzied bidding and a slew of big offers from all major streamers, ultimately landing at HBO with a straight-to-series order…",
-      "publisher": "Deadline",
-      "author": "Nellie Andreeva",
-      "date": "2026-09-18T19:02:48+00:00",
-      "link": "https://deadline.com/2026/09/javier-bardem-the-spread-hbo-drama-series-bill-dubuque-1237101032/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Javier-Bardem-inset-Bill-Dubuque.jpg",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "63741fedf998de20",
-      "title": "Explosive ‘NAZA’ Documentary, Attacked By Israeli Government, To Be Released In U.S. Theaters",
-      "quote": "The investigative documentary NAZA, which caused a sensation at the Venice Film Festival but has been attacked by Israeli politicians including Prime Minister Benjamin Netanyahu, will soon reach U.S. theaters…",
-      "publisher": "Deadline",
-      "author": "Matthew Carey",
-      "date": "2026-09-18T19:01:54+00:00",
-      "link": "https://deadline.com/2026/09/naza-u-s-theatrical-release-1237107835/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/NAZA-still.png",
-      "category": "Festival Winners"
-    },
-    {
       "id": "36392d71fc67e18b",
       "title": "Spider-Man: Brand New Day's Most Impressive Visual Effect Is Almost Impossible To Spot",
       "quote": "/Film spoke with one of the visual effects supervisors of Spider-Man: Brand New Day and learned about the movie's most impressive (and invisible) visual effect.",
@@ -116,6 +193,50 @@
       "date": "2026-09-18T19:00:00+00:00",
       "link": "https://www.slashfilm.com/2261827/spider-man-brand-new-day-visual-effect-almost-impossible-spot/",
       "image": "https://www.slashfilm.com/img/gallery/spider-man-brand-new-day-visual-effect-almost-impossible-spot/l-intro-1789678719.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "5ec9278045a425a3",
+      "title": "How to get into How To With John Wilson in five episodes",
+      "quote": "A pre-History Of Concrete.",
+      "publisher": "The A.V. Club",
+      "author": "Erik Adams",
+      "date": "2026-09-18T19:00:00+00:00",
+      "link": "https://www.avclub.com/how-to-with-john-wilson-best-episodes-history-of-concrete",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/09/18/MixCollage-18-Sep-2026-01-25-PM-476.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "ca488334970fda58",
+      "title": "Brad Pitt is taking another shot at a World War Z sequel",
+      "quote": "Academy Award-winning director Edward Berger will helm the film, which is said to be actually happening this time.",
+      "publisher": "The A.V. Club",
+      "author": "Matt Schimkowitz",
+      "date": "2026-09-18T18:35:51+00:00",
+      "link": "https://www.avclub.com/world-war-z-sequel-announced-brad-pitt-edward-berger",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/09/18/world-war-z-feature.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "517fb1ff2fe927c4",
+      "title": "Alan Ritchson in talks to take over big-guy role in Helldivers after Jason Momoa exit",
+      "quote": "Justin Lin's video game adaptation is expected to hit theaters on November 10, 2027.",
+      "publisher": "The A.V. Club",
+      "author": "Jarrod Jones",
+      "date": "2026-09-18T18:29:53+00:00",
+      "link": "https://www.avclub.com/alan-ritchson-in-talks-to-star-in-sony-helldivers",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/09/18/ritchson-header.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "36bab3b93d1f94fd",
+      "title": "Our sympathy for the zombie has run dry",
+      "quote": "Zombie fans swarming to the theater prefer the comic mayhem of Resident Evil to the empathy of 28 Years Later: The Bone Temple.",
+      "publisher": "The A.V. Club",
+      "author": "James Grebey",
+      "date": "2026-09-18T18:00:39+00:00",
+      "link": "https://www.avclub.com/sympathy-for-zombies-resident-evil-28-years-later-the-bone-temple",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/09/17/MixCollage-17-Sep-2026-12-29-PM-6845.jpg",
       "category": "Indie Gems"
     },
     {
@@ -149,6 +270,28 @@
       "date": "2026-09-18T17:25:16+00:00",
       "link": "https://www.hollywoodreporter.com/movies/movie-reviews/the-face-of-horror-review-anna-biller-1236705322/",
       "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "461ca1017d7958b9",
+      "title": "The House Of David is closing up shop",
+      "quote": "The faith-based TV series about the Bible's most famous slingshot-wielding king is coming to an end after three seasons.",
+      "publisher": "The A.V. Club",
+      "author": "Matt Schimkowitz",
+      "date": "2026-09-18T17:22:47+00:00",
+      "link": "https://www.avclub.com/house-of-david-ending-after-three-seasons",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/09/18/house-of-david.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "fbccde2c2570d230",
+      "title": "‘Shaun the Sheep: The Beast of Mossy Bottom’ Review: The Ovine Adventurer Returns for a Perfectly Silly Halloween Treat",
+      "quote": "It’s a good year for sheep at the movies, which makes it a good year for pretty much anyone at the movies: Months after “The Sheep Detectives” proved one of the surprise delights of the spring, Aardman’s reliably…",
+      "publisher": "Variety",
+      "author": "Guy Lodge",
+      "date": "2026-09-18T17:08:20+00:00",
+      "link": "https://variety.com/2026/film/reviews/shaun-the-sheep-the-beast-of-mossy-bottom-review-1236866749/",
+      "image": "https://variety.com/wp-content/uploads/2026/09/shaun_the_sheep_the_beast_of_mossy_bottom_sffilm_1200x675-1024x576.jpg.webp",
       "category": "World Cinema"
     },
     {
@@ -350,6 +493,17 @@
       "category": "Festival Winners"
     },
     {
+      "id": "11342ed474142451",
+      "title": "‘The man’s a psychopath when it comes to hedgerows’: Derek vs Derek, the unexpectedly heartwarming doc about farmers at war",
+      "quote": "One Devon farmer, called Derek, is committed to rewilding his land. His neighbour, also a Derek, tends cattle and crops. What happened when a film-maker decided to follow the bickering pair? Derek Gow and Derek Banbury…",
+      "publisher": "The Guardian",
+      "author": "Patrick Barkham",
+      "date": "2026-09-18T12:00:19+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/18/derek-vs-derek-farming-film-documentary-derek-gow-derek-banbury",
+      "image": "https://i.guim.co.uk/img/media/576d22b08110f4f139d7c216133ed69351ad7667/443_0_10920_8736/master/10920.jpg?width=140&quality=85&auto=format&fit=max&s=9c431c77c0fee6c105c28f9146f327b8",
+      "category": "World Cinema"
+    },
+    {
       "id": "6983af420678627a",
       "title": "‘Resident Evil’ movie review: 97 minutes is all Zach Cregger can spare for this monstrously good time",
       "quote": "Zach Cregger turns one doomed delivery into an infectiously funny ‘Resident Evil’ speedrun. A certified Raccoon City banger",
@@ -427,17 +581,6 @@
       "category": "Festival Winners"
     },
     {
-      "id": "5bc5dcc4745d92c9",
-      "title": "Lanterns can't quite make up its mind about aliens",
-      "quote": "Puzzling out the HBO show's extraterrestrial metaphor.",
-      "publisher": "The A.V. Club",
-      "author": "Joshua Rivera",
-      "date": "2026-09-18T09:00:57+00:00",
-      "link": "https://www.avclub.com/lanterns-hbo-what-do-the-aliens-stand-for",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/09/18/MixCollage-17-Sep-2026-09-13-PM-4409.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "e32921216597751b",
       "title": "Pulp: What Do You Do for an Encore? review – Jarvis Cocker’s wit and warmth upstage the hits",
       "quote": "Wonderful archive footage charts the Sheffield outsiders’ unlikely rise, but the distant camerawork struggles to capture the thrill of their triumphant O2 gigs In 1978, in the classroom of a comprehensive school in…",
@@ -480,83 +623,6 @@
       "link": "https://www.theguardian.com/film/2026/sep/18/the-damage-was-much-worse-than-i-had-imagined-the-shocking-inside-story-of-salman-rushdies-survival",
       "image": "https://i.guim.co.uk/img/media/74e3d1d7529c31667e560fd0f26373357c5ac35d/1057_0_6147_4918/master/6147.jpg?width=140&quality=85&auto=format&fit=max&s=2306a717bc141c4d3ae41edb02af7953",
       "category": "Festival Winners"
-    },
-    {
-      "id": "216e24b0e2413dcd",
-      "title": "Amazon goes on the attack against Criminal harassment accuser",
-      "quote": "Amazon MGM's lawyers called former PA Ijaaz Noohu, who has claimed showrunner Ed Brubaker pointed a functional firearm at him and pulled the trigger, an \"opportunist\"",
-      "publisher": "The A.V. Club",
-      "author": "William Hughes",
-      "date": "2026-09-18T03:23:02+00:00",
-      "link": "https://www.avclub.com/amazon-ed-brubaker-harassment-accuser-opportunist-criminal",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/03204559/ed-brubaker-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "2c2a273ee0b6a13f",
-      "title": "The Traitors: New Blood premiere ditches the celebrities, and the game is better for it",
-      "quote": "In a leaner, all-civilian run of Peacock’s megahit, the stakes feel appropriately higher.",
-      "publisher": "The A.V. Club",
-      "author": "Shannon Miller",
-      "date": "2026-09-18T02:00:33+00:00",
-      "link": "https://www.avclub.com/the-traitors-new-blood-premiere-recap-episodes-1-and-2",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/09/18/MixCollage-17-Sep-2026-08-45-PM-9631.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "a5cb1e05c291821e",
-      "title": "Microsoft execs admit AI news is unleashing a \"doom loop\" on journalism in unsealed legal filing",
-      "quote": "\"LLMs are a product that destroys its supply chain,\" an unnamed Microsoft exec wrote in a document quoted by a recent <i>New York Times</i> legal filing.",
-      "publisher": "The A.V. Club",
-      "author": "William Hughes",
-      "date": "2026-09-18T01:29:11+00:00",
-      "link": "https://www.avclub.com/microsoft-doom-loop-openai-new-york-times",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/09/18/microsoft-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "29cb1e38fd393d51",
-      "title": "Noah Hawley recruits a bunch of heavy hitters to help Rob Mac play Far Cry",
-      "quote": "Brendan Gleeson, Jennifer Jason Leigh, and <i>A Knight Of The Seven Kingdoms</i>' Sam Spruell have all joined the FX adaptation.",
-      "publisher": "The A.V. Club",
-      "author": "William Hughes",
-      "date": "2026-09-17T23:56:08+00:00",
-      "link": "https://www.avclub.com/noah-hawley-fx-fargo-brendan-gleeson-jennifer-jason-leigh",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/09/17/fc-collage.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "8480053f6bde9bd1",
-      "title": "Dead To Me creator Liz Feldman is still All The Rage at Netflix",
-      "quote": "Liz Feldman's latest show, All The Rage, is a half-hour dark comedy about vengeful best friends.",
-      "publisher": "The A.V. Club",
-      "author": "Matt Schimkowitz",
-      "date": "2026-09-17T23:40:00+00:00",
-      "link": "https://www.avclub.com/dead-to-me-creator-liz-feldman-all-the-rage-netflix-announcement",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/09/17/liz-feldman-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "330266515581b919",
-      "title": "Best Of The Best tells a refreshing, rare South Asian-American coming-of-age story",
-      "quote": "Bollywood meets Booksmart in Lena Khan’s flashy yet tender coming-of-age story, Netflix's Best Of The Best.",
-      "publisher": "The A.V. Club",
-      "author": "Saloni Gajjar",
-      "date": "2026-09-17T23:00:03+00:00",
-      "link": "https://www.avclub.com/best-of-the-best-review-netflix-maitreyi-ramakrishnan-priyanka-kedia-lena-khan",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/15102647/best-of-the-best-header.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "dc92ac4e5b075325",
-      "title": "The witch is back—along with many, many others—in the teaser for American Horror Story: 13",
-      "quote": "Jessica Lange, Sarah Paulson, Evan Peters, Angela Bassett, Kathy Bates, Emma Roberts, Billie Lourd, and John Waters join the \"Grand Unveiling\" of AHS' unluckiest season yet.",
-      "publisher": "The A.V. Club",
-      "author": "Matt Schimkowitz",
-      "date": "2026-09-17T22:38:18+00:00",
-      "link": "https://www.avclub.com/american-horror-story-season-13-teaser-trailer",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/09/17/american-horror-story-13-feature.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "158e27e27518cde8",
@@ -603,17 +669,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "01c3e6161e440fe8",
-      "title": "‘The Life and Deaths of Wilson Shedd’ Review: Amanda Seyfried and Scoot McNairy Bring Raw Intensity to Tim Blake Nelson’s Death Row Drama",
-      "quote": "The director also appears in a stacked ensemble that includes Missi Pyle, Devyn Tyler, Elizabeth Marvel, Grant Harvey, William Jackson Harper and Wunmi Mosaku.",
-      "publisher": "The Hollywood Reporter",
-      "author": "David Rooney",
-      "date": "2026-09-17T14:03:35+00:00",
-      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/the-life-and-deaths-of-wilson-shedd-review-amanda-seyfried-1236704277/",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
       "id": "b31e4f33da1f81a8",
       "title": "Queen at Sea review – crushingly sad dementia drama offers a startling portrait of intimacy",
       "quote": "Driven by fine performances from Tom Courtenay and Anna Calder-Marshall, Lance Hammer’s comeback is unbearable in its tragic candour and essential in its moral questioning This inexpressibly painful and sad story –…",
@@ -623,17 +678,6 @@
       "link": "https://www.theguardian.com/film/2026/feb/18/queen-at-sea-review-crushingly-sad-dementia-drama-offers-a-startling-portrait-of-intimacy",
       "image": "https://i.guim.co.uk/img/media/0ae9b3ec0d5c5dc0d5129a1b8b2c8d9147261f63/667_0_2698_2160/master/2698.jpg?width=140&quality=85&auto=format&fit=max&s=c03f61428367f0d9181943656a66b13d",
       "category": "Festival Winners"
-    },
-    {
-      "id": "0f58115c8dc31317",
-      "title": "50 Years of Punk review – rock’n’roll rebels fondly recall the filth and fury a half-century on",
-      "quote": "Glen Matlock, Viv Albertine and Rat Scabies revisit the music, clothes and disgusting spitting in a likable documentary marking half a century of British punk As the majority of them ease into their eighth decade, the…",
-      "publisher": "The Guardian",
-      "author": "Andrew Pulver",
-      "date": "2026-09-17T12:00:49+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/17/50-years-of-punk-review-rocknroll-rebels-fondly-recall-the-filth-and-fury-a-half-century-on",
-      "image": "https://i.guim.co.uk/img/media/d36e1df567af0baf17d1e63049416a3211aacf70/50_0_1470_1177/master/1470.jpg?width=140&quality=85&auto=format&fit=max&s=006799583b153740cf351f25232102c3",
-      "category": "World Cinema"
     },
     {
       "id": "63daafd4638b5b27",
@@ -656,17 +700,6 @@
       "link": "https://www.bbc.com/culture/article/20260916-the-secret-life-of-outrageous-us-showman-liberace?ocid=global_culture_rss",
       "image": "https://ychef.files.bbci.co.uk/144x81/p0p9xgfm.jpg",
       "category": "World Cinema"
-    },
-    {
-      "id": "d9973def40729c47",
-      "title": "‘Re/Pair’ Review: David Schwimmer, W. Kamau Bell and Van Jones Lead Pragmatic Doc About the Past and Present of Black-Jewish Relations",
-      "quote": "Lacey Schwartz Delgado's TIFF-premiering documentary explores the shifting dynamic between Blacks and Jews in America via 19 paired conversations.",
-      "publisher": "The Hollywood Reporter",
-      "author": "Daniel Fienberg",
-      "date": "2026-09-17T00:35:56+00:00",
-      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/re-pair-review-black-jewish-relations-documentary-1236702418/",
-      "image": null,
-      "category": "Festival Winners"
     },
     {
       "id": "9eaedd14996dc660",
@@ -700,39 +733,6 @@
       "link": "https://variety.com/2026/film/reviews/guria-review-1236861802/",
       "image": "https://variety.com/wp-content/uploads/2026/09/Guria.jpg",
       "category": "Festival Winners"
-    },
-    {
-      "id": "375a8f2f8aa1cbb1",
-      "title": "‘Resident Evil’ Review: Zach Cregger’s Reboot Is Funky Monster Fun, a One-Man-Against-the-Squish-Zombies Lark That Never Gets Bogged Down in Video-Game Sludge",
-      "quote": "His \"Resident Evil\" is different, and much better, than the other \"Resident Evil\" movies — it’s a creepy-crawly squishfest that takes its time and has a weird innocence about it. (At moments it reminded me of \"Planet…",
-      "publisher": "Variety",
-      "author": "Owen Gleiberman",
-      "date": "2026-09-16T16:00:36+00:00",
-      "link": "https://variety.com/2026/film/reviews/resident-evil-review-zach-cregger-1236863421/",
-      "image": "https://variety.com/wp-content/uploads/2026/09/MCDREEV_SP038.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "a664b1a7ced32447",
-      "title": "‘Closing Night’ Review: Sarah Paulson and Naomi Watts Are Warring Sisters in Cody Fern’s Deliciously Histrionic Melodrama",
-      "quote": "Toward the end of the deep-feeling, deliciously histrionic drama “Closing Night,” the film shifts tone. The first two acts — a whirlwind of long-deferred confrontations and fiery disclosures — lean on lively dark comedy…",
-      "publisher": "Variety",
-      "author": "Guy Lodge",
-      "date": "2026-09-16T15:35:05+00:00",
-      "link": "https://variety.com/2026/film/reviews/closing-night-review-sarah-paulson-naomi-watts-1236864204/",
-      "image": "https://variety.com/wp-content/uploads/2026/09/Closing-Night.webp",
-      "category": "World Cinema"
-    },
-    {
-      "id": "f7f081a789777836",
-      "title": "‘Run Hide Fight: Infidels’ Review: Jonathan Majors Scrapes the Barrel in This Islamophobic Drivel",
-      "quote": "More an epic act of trolling than a sincere creative endeavor, “Run Hide Fight: Infidels” aspires to “own the libs” and antagonize Muslims, but the filmmaking is so shoddy that neither group will likely seek it out…",
-      "publisher": "Variety",
-      "author": "Todd Gilchrist",
-      "date": "2026-09-16T14:59:36+00:00",
-      "link": "https://variety.com/2026/film/reviews/run-hide-fight-infidels-review-1236864093/",
-      "image": "https://variety.com/wp-content/uploads/2026/09/run-hide.webp",
-      "category": "World Cinema"
     },
     {
       "id": "2f165a899c166b38",
