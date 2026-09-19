@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T15:45:15.980792+00:00",
+  "generated_at": "2026-09-19T20:26:03.182745+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -8,6 +8,182 @@
     "Indie Gems"
   ],
   "reviews": [
+    {
+      "id": "6b34da9b73f18fad",
+      "title": "‘The Smell of Apples’ Review: A Sun-Soaked but Chilling Child’s-Eye View of Apartheid-Era Privilege and Denial",
+      "quote": "Every surface period detail is present and correct to an eerie degree in “The Smell of Apples”: the gawkily short seasonal school uniforms, the ickily patterned kitchen tiles, the garden chairs like steel satellite…",
+      "publisher": "Variety",
+      "author": "Guy Lodge",
+      "date": "2026-09-19T20:14:52+00:00",
+      "link": "https://variety.com/2026/film/reviews/the-smell-of-apples-review-1236869637/",
+      "image": "https://variety.com/wp-content/uploads/2026/09/Smell-of-Apples_1.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "9c154822c010ef5b",
+      "title": "Rose Friedman Dies: NPR Arts Editor & ‘Books We Love’ Co-Creator Was 38",
+      "quote": "Rose Friedman, an NPR editor and reporter who shaped the public radio network’s arts & culture coverage and co-created its popular reading guide Books We Love, died of cancer Thursday, September 17, at her home in New…",
+      "publisher": "Deadline",
+      "author": "Greg Evans",
+      "date": "2026-09-19T20:02:52+00:00",
+      "link": "https://deadline.com/2026/09/rose-friedman-dead-1237108488/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/nprs-editor-in-chief-edith-chapin-announces-she-is-stepping-1000x667-1-e1789846710203.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "cc8776df01401444",
+      "title": "Before Star Trek, Leonard Nimoy Guest-Starred In A Western Series No One Remembers",
+      "quote": "A Man Called Shenandoah, a short-lived Western series that seemingly no one remembers, featured a guest appearance from Star Trek's Leonard Nimoy.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Joe Roberts)",
+      "date": "2026-09-19T20:00:00+00:00",
+      "link": "https://www.slashfilm.com/2260274/star-trek-leonard-nimoy-western-series-a-man-called-shenandoah/",
+      "image": "https://www.slashfilm.com/img/gallery/before-star-trek-leonard-nimoy-guest-starred-in-a-western-series-no-one-remembers/l-intro-1789570818.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "be9e8f2eb02a080c",
+      "title": "Block The Merger & Elizabeth Warren Call Out AGs For Betrayal In Deal Talks With Paramount: “A Win Only For David Ellison”",
+      "quote": "Whatever the true state of settlement talks this weekend between Paramount, a coalition of state Attorneys General and the Writers Guild of America to end the antitrust action over the $111 billion Warner Bros Discovery…",
+      "publisher": "Deadline",
+      "author": "Dominic Patten",
+      "date": "2026-09-19T19:22:26+00:00",
+      "link": "https://deadline.com/2026/09/paramount-settlement-opposition-1237108466/",
+      "image": "https://deadline.com/wp-content/uploads/2026/06/Paramount-and-Warner-Bros.-Towers.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "5db78a43c9dd2778",
+      "title": "Joel Kinnaman Knows Why Sci-Fi Fans Love Apple TV's For All Mankind So Much",
+      "quote": "For All Mankind is one of Apple TV's most celebrated sci-fi series, and star Joel Kinnaman understands its appeal all too well.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Joe Roberts)",
+      "date": "2026-09-19T19:00:00+00:00",
+      "link": "https://www.slashfilm.com/2260072/joel-kinnaman-explains-why-sci-fi-fans-love-for-all-mankind/",
+      "image": "https://www.slashfilm.com/img/gallery/joel-kinnaman-knows-why-sci-fi-fans-love-apple-tvs-for-all-mankind-so-much/l-intro-1789567030.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "014c248c57007de8",
+      "title": "Cate Blanchett Asks London Audience To Stop Filming Play, Says Stage Is Place “Where We Can Simply Be Together And Be Present”",
+      "quote": "Enjoying the show? Then please put away your cellphone. That was the message delivered by Cate Blachett from the London stage of National Theatre’s Lyttelton Theatre after the curtain call of Electra/Persona, the new…",
+      "publisher": "Deadline",
+      "author": "Greg Evans",
+      "date": "2026-09-19T18:41:42+00:00",
+      "link": "https://deadline.com/2026/09/cate-blanchett-london-stage-cellphones-1237108459/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/cate.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "aca56a8d442afc03",
+      "title": "Not in a mould | Anant Nag",
+      "quote": "The versatile Kannada actor, who explored multiple genres ranging from social drama and romance to comedy and horror, has been honoured with the Dadasaheb Phalke Award",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-19T18:34:15+00:00",
+      "link": "https://www.thehindu.com/news/national/karnataka/not-in-a-mould-anant-nag/article71485785.ece",
+      "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/wsykrc/article71485786.ece/alternates/LANDSCAPE_1200/Anant_Nag.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "91a1e73370ed2765",
+      "title": "Editors Guild Praises California’s New Post-Production Tax Credit Law As “Historic”",
+      "quote": "UPDATE, with CAA statement: The Motion Picture Editors Guild is praising California’s bill offering tax incentives for productions that shoot outside the state but bring their post work to California. The bill, signed…",
+      "publisher": "Deadline",
+      "author": "Greg Evans",
+      "date": "2026-09-19T18:06:48+00:00",
+      "link": "https://deadline.com/2026/09/editors-guild-california-post-production-tax-credit-newsom-1237108455/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2292827572.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "b65b21998f2e3007",
+      "title": "This Cozy Western Series Streaming On Netflix Is A Comforting Watch",
+      "quote": "If you're looking for a Western series without the intensity and violence of Taylor Sheridan's work, you may watch to catch this show on Netflix.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Joe Roberts)",
+      "date": "2026-09-19T18:00:00+00:00",
+      "link": "https://www.slashfilm.com/2260009/cozy-western-series-when-hope-calls-streaming-netflix/",
+      "image": "https://www.slashfilm.com/img/gallery/this-cozy-western-series-streaming-on-netflix-is-a-comforting-watch/l-intro-1789564618.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "3642c8bc97e9f3a0",
+      "title": "Union I&B Ministry denies censor exemption to 31 films at IDSFFK in Keralam",
+      "quote": "The films being prevented from screening at the IDSFFK include 18 officially selected films for the festival, nine films in the International Non-Fiction section, three films in the Festival Winners section and one film…",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-19T17:54:46+00:00",
+      "link": "https://www.thehindu.com/news/national/kerala/union-ib-ministry-denies-censor-exemption-to-31-films-at-idsffk-in-keralam/article71485856.ece",
+      "image": "https://th-i.thgim.com/public/news/national/kerala/2xecum/article71485853.ece/alternates/LANDSCAPE_1200/1001057780.png",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "4cf860fbfec1dd95",
+      "title": "The Biggest Complaint About Zach Cregger's Resident Evil Was Addressed In Another Movie",
+      "quote": "Resident Evil video game fans have taken issue with Zach Cregger's movie adaptation, but another film has already addressed their critiques.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Ryan Scott)",
+      "date": "2026-09-19T17:00:00+00:00",
+      "link": "https://www.slashfilm.com/2262846/zach-cregger-resident-evil-biggest-complaint-addressed-other-movie/",
+      "image": "https://www.slashfilm.com/img/gallery/the-biggest-complaint-about-zach-creggers-resident-evil-was-addressed-in-another-movie/l-intro-1789760628.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "3a948c3e542cfa55",
+      "title": "40 Years Ago Today: A Genre-Defining Neo-Noir Mystery Movie Changed Hollywood Forever",
+      "quote": "Released 40 years ago today, David Lynch's Blue Velvet was a true game changing moment for both David Lynch himself and Hollywood.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Bill Bria)",
+      "date": "2026-09-19T16:30:00+00:00",
+      "link": "https://www.slashfilm.com/2251163/blue-velvet-neo-noir-mystery-movie-40-year-anniversary/",
+      "image": "https://www.slashfilm.com/img/gallery/40-years-ago-today-a-genre-defining-neo-noir-mystery-movie-changed-hollywood-forever/l-intro-1788537160.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "b692f704cfc14079",
+      "title": "BritBox Reveals First Look At ‘The Other Bennet Sister’ Christmas Special",
+      "quote": "BritBox is giving a first look at the three-part Christmas special The Other Bennet Sister starring Ella Bruccoleri and Dónal Finn. Check out the photo above. The Other Bennet Sister continues the story of Mary Bennet…",
+      "publisher": "Deadline",
+      "author": "Greg Evans",
+      "date": "2026-09-19T16:20:19+00:00",
+      "link": "https://deadline.com/2026/09/britbox-other-bennet-sister-christmas-special-1237108434/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/88c87f6c-2147-41d6-bf09-65684fbabc9d-1.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "25a158c7b176d276",
+      "title": "The Big Bang Theory Showrunner Calls This Amy Episode His 'Least Favorite' Of The Series",
+      "quote": "Former Big Bang Theory showrunner Steve Holland has a problem with this Amy-centric episode, calling it his 'least favorite' on the show.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Nina Starner)",
+      "date": "2026-09-19T16:00:00+00:00",
+      "link": "https://www.slashfilm.com/2259554/the-big-bang-theory-showrunner-amy-episode-least-favorite/",
+      "image": "https://www.slashfilm.com/img/gallery/the-big-bang-theory-showrunner-calls-this-amy-episode-his-least-favorite-of-the-series/l-intro-1789504196.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "a8af9d03d9f99c5a",
+      "title": "Ghost in the Cell",
+      "quote": "“The Shawshank Redemption” meets “Hellraiser.”",
+      "publisher": "RogerEbert.com",
+      "author": "Brian Tallerico",
+      "date": "2026-09-19T15:45:31+00:00",
+      "link": "https://www.rogerebert.com/reviews/ghost-in-the-cell",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "e227da2acd7095b6",
+      "title": "10 Underrated Sci-Fi Movies From The 1980s You Need To See",
+      "quote": "Plenty of the greatest sci-fi movies of all time hit the screen in the 1980s, but here are some of the genre's underrated flicks from the decade worth watching.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Sam Stone)",
+      "date": "2026-09-19T15:10:00+00:00",
+      "link": "https://www.slashfilm.com/2258040/underrated-1980-sci-fi-movies/",
+      "image": "https://www.slashfilm.com/img/gallery/underrated-1980-sci-fi-movies/l-intro-1789486090.jpg",
+      "category": "Indie Gems"
+    },
     {
       "id": "b96509a7459a2764",
       "title": "‘Vintage Violence’ Review: Cole Sprouse Heads Up a Hyper-Online Gonzo Freakout in Japan",
@@ -86,61 +262,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "2faadab3bb1a6b02",
-      "title": "CNN, MS NOW And Politico Journalists Denied White House Entry Following Donald Trump’s Announced Ban",
-      "quote": "UPDATED: President Donald Trump is following through on pledge to ban journalists he doesn’t like from the White House: This morning, CNN and MS NOW, formerly MSNBC, as well as Politico announced that their journalists…",
-      "publisher": "Deadline",
-      "author": "Greg Evans",
-      "date": "2026-09-19T13:40:57+00:00",
-      "link": "https://deadline.com/2026/09/ms-now-journalists-denied-white-house-entry-following-donald-trumps-announced-ban-1237108359/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/ms-now.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "e74101d126dd0b50",
-      "title": "Anthony Page Dies: Tony-Winning, Emmy-Nominated Director Of Stage & Screen Was 90",
-      "quote": "Anthony Page, the prolific British stage, film and TV director who won a Tony Award for his 1997 Broadway production of A Doll’s House and was twice Emmy-nominated for acclaimed TV movies in the 1970s, died September 11…",
-      "publisher": "Deadline",
-      "author": "Greg Evans",
-      "date": "2026-09-19T13:11:46+00:00",
-      "link": "https://deadline.com/2026/09/anthony-page-dead-1237108346/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2588434.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "02036a96dad01732",
-      "title": "Resident Evil Director Zach Cregger Has A Stealthy Cameo That You Probably Missed",
-      "quote": "If you're looking for director Zach Cregger's cameo in his new Resident Evil movie, you won't see it. But if you keep your ears open, you'll hear it.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Ryan Scott)",
-      "date": "2026-09-19T13:00:00+00:00",
-      "link": "https://www.slashfilm.com/2263000/resident-evil-director-zach-cregger-cameo-explained/",
-      "image": "https://www.slashfilm.com/img/gallery/resident-evil-director-zach-cregger-has-a-stealthy-cameo-that-you-probably-missed/l-intro-1789766978.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "9449f19f3818aea0",
-      "title": "Why Carl From Resident Evil Looks So Familiar",
-      "quote": "Here's the familiar actor who plays Carl in Zach Cregger's new Resident Evil movie, which is now playing in theaters everywhere.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Rafael Motamayor)",
-      "date": "2026-09-19T12:00:00+00:00",
-      "link": "https://www.slashfilm.com/2258045/carl-resident-evil-2026-movie-actor-paul-walter-hauser/",
-      "image": "https://www.slashfilm.com/img/gallery/carl-resident-evil-2026-movie-actor-paul-walter-hauser/l-intro-1789557749.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "cd1522eda47a3969",
-      "title": "5 Best Crime TV Shows Of 2026 (So Far)",
-      "quote": "2026's best crime drama TV series to date have been fueled by twisty plots, great performances, and compelling subject matter. Let's run through them, shall we?",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Nina Starner)",
-      "date": "2026-09-19T11:45:00+00:00",
-      "link": "https://www.slashfilm.com/2258992/best-crime-tv-shows-2026/",
-      "image": "https://www.slashfilm.com/img/gallery/5-best-crime-tv-shows-of-2026-so-far/l-intro-1789483407.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "dce329c72b31d977",
       "title": "Waheeda Rehman to play Gandhi’s mother in Sudhir Mishra’s film",
       "quote": "The period-drama is headlined by Manoj Bajpayee and produced by Anubhav Sinha",
@@ -196,17 +317,6 @@
       "category": "Indian Cinema"
     },
     {
-      "id": "d608cba70fea9f8d",
-      "title": "Naomi Watts Says She’d Like To Work With Paul Thomas Anderson & Praises The Advancements Older Women Have Made In Hollywood — San Sebastián",
-      "quote": "“I started, by Hollywood standards, quite late,” Naomi Watts began this morning when quizzed on whether the treatment of older women in Hollywood has improved during a press conference at the San Sebastián Film…",
-      "publisher": "Deadline",
-      "author": "Zac Ntim",
-      "date": "2026-09-19T09:26:10+00:00",
-      "link": "https://deadline.com/2026/09/naomi-watts-paul-thomas-anderson-san-sebastian-1237108327/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2295261411.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "e5a737e4c94b5044",
       "title": "John Wilson on his unlikely concrete movie: ‘There might be a kind of sickness in shooting things this way’",
       "quote": "The creator of How To with John Wilson has returned with his first film, a documentary about how to sell a documentary about concrete As mayor of New York City, Zohran Mamdani has frequently demonstrated impressive…",
@@ -218,17 +328,6 @@
       "category": "Festival Winners"
     },
     {
-      "id": "f8134e1da88d290d",
-      "title": "Avengers: Doomsday's Directors Produced This Forgotten Comic Book TV Show That Needs More Love",
-      "quote": "Not all of the comic book exploits from Anthony & Joe Russo turned out to be hits. But their Syfy adaptation of the comic Deadly Class is worth checking out.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Devin Meenan)",
-      "date": "2026-09-19T08:10:00+00:00",
-      "link": "https://www.slashfilm.com/2258057/avengers-doomsday-the-russo-brothers-comic-book-tv-show-deadly-class/",
-      "image": "https://www.slashfilm.com/img/gallery/avengers-doomsdays-directors-produced-this-forgotten-comic-book-tv-show-that-needs-more-love/l-intro-1789411424.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "6c0122bf61c75d4b",
       "title": "CBFC’s new film certification guidelines: Statutory warning for scenes on drug use",
       "quote": "The Ministry of Information and Broadcasting notified the revised guidelines on September 16, 2026, under the Cinematograph Act.",
@@ -237,28 +336,6 @@
       "date": "2026-09-19T07:30:43+00:00",
       "link": "https://www.thehindu.com/news/national/cbfc-new-film-certification-guidelinesstatutorywarning-scenes-drug-use/article71479923.ece",
       "image": null,
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "b76c0db004d26227",
-      "title": "‘Golmaal 5’: Rohit Shetty’s multistarrer comedy gets release date",
-      "quote": "The film stars Ajay Devgn, Akshay Kumar, Shreyas Talpade, Arshad Warsi, Tusshar Kapoor and Sharman Joshi in pivotal roles",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-19T07:04:04+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/golmaal-5-rohit-shettys-multistarrer-comedy-gets-release-date-ajay-devgn-arshad-warsi/article71483896.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/k445xh/article71483893.ece/alternates/LANDSCAPE_1200/Poster%20of%20%E2%80%98Golmaal%205%E2%80%99%20featuring%20Ajay%20Devgn%20Arshad%20Warsi%20Tusshar%20Kapoor%20Shreyas%20Talpade%20Sharman%20Joshi%20and%20Kunal%20Kemmu",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "27dcc950e479b2aa",
-      "title": "‘Musafiri’: Trailer of Richa Chadha’s non-fiction series unveiled",
-      "quote": "The eight-episode series will uncover stories of people and places of Mumbai",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-19T06:47:49+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/musafiri-trailer-of-richa-chadhas-non-fiction-series-unveiled/article71483882.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/c3jw6f/article71483890.ece/alternates/LANDSCAPE_1200/Richa%20Chadha%20in%20%E2%80%98Musafiri%E2%80%99",
       "category": "Indian Cinema"
     },
     {
@@ -284,17 +361,6 @@
       "category": "Festival Winners"
     },
     {
-      "id": "1896bf54fdbdc19e",
-      "title": "Gerrit Graham Dies: ‘Star Trek’ & ‘Phantom Of The Paradise’ Actor Was 76",
-      "quote": "Gerrit Graham, the actor known for roles in Phantom of the Paradise (1974) and Star Trek, has died. He was 76. The actor died of lung disease and other health complications on Tuesday in Rhinebeck, NY, according to…",
-      "publisher": "Deadline",
-      "author": "Glenn Garner",
-      "date": "2026-09-19T03:28:21+00:00",
-      "link": "https://deadline.com/2026/09/gerrit-graham-dead-1237108310/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/MSDPHOF_FE004.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "3ebc90e4e2263693",
       "title": "‘Murderous’ Review: Neil LaBute’s New Film Is Undone by Its Overly Familiar Premise and Obvious Plot Machinations",
       "quote": "A successful filmmaker receives an unwelcome visit from a former collaborator in this thriller receiving its world premiere at the Oldenburg International Film Festival.",
@@ -303,17 +369,6 @@
       "date": "2026-09-19T02:57:57+00:00",
       "link": "https://www.hollywoodreporter.com/movies/movie-reviews/murderous-review-neil-labute-thomas-sadoski-1236705377/",
       "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "dbfd14273ae44e7e",
-      "title": "Deadline’s L.A. Law Summit: Nina Shaw & Patricia Glaser Honored On Day Of Big Ideas, Big Insights; Watch The Video Presentations",
-      "quote": "Deadline’s inaugural L.A. Law Summit honored two powerhouses of the profession with awards Thursday for Patricia Glaser and Nina Shaw “If you’re perceived, and underline the word perceived, as good, the sky’s the limit…",
-      "publisher": "Deadline",
-      "author": "Dominic Patten",
-      "date": "2026-09-19T02:17:31+00:00",
-      "link": "https://deadline.com/2026/09/patricia-glaser-nina-west-honored-1237107005/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Nina-Shaw-and-Patricia-Glaser.jpg",
       "category": "World Cinema"
     },
     {
@@ -449,17 +504,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "36392d71fc67e18b",
-      "title": "Spider-Man: Brand New Day's Most Impressive Visual Effect Is Almost Impossible To Spot",
-      "quote": "/Film spoke with one of the visual effects supervisors of Spider-Man: Brand New Day and learned about the movie's most impressive (and invisible) visual effect.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Ben Pearson)",
-      "date": "2026-09-18T19:00:00+00:00",
-      "link": "https://www.slashfilm.com/2261827/spider-man-brand-new-day-visual-effect-almost-impossible-spot/",
-      "image": "https://www.slashfilm.com/img/gallery/spider-man-brand-new-day-visual-effect-almost-impossible-spot/l-intro-1789678719.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "434296f77c641a7b",
       "title": "The History of Concrete",
       "quote": "From onetime HBO star John Wilson, an abstract film on a concrete subject",
@@ -469,28 +513,6 @@
       "link": "https://www.rogerebert.com/reviews/the-history-of-concrete-john-wilson-documentary-film-review-2026",
       "image": null,
       "category": "World Cinema"
-    },
-    {
-      "id": "fea07c9d697fc7df",
-      "title": "Why Michelle Yeoh's Philippa Georgiou Is Star Trek's Most Dangerous Starfleet Member",
-      "quote": "As far as Star Trek villains go, Empress Philippa Georgiou, played by Oscar-winner Michelle Yeoh, is the most sadistic character.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Witney Seibold)",
-      "date": "2026-09-18T18:00:00+00:00",
-      "link": "https://www.slashfilm.com/2257773/why-michelle-yeoh-philippa-georgiou-star-trek-most-dangerous-starfleet-member/",
-      "image": "https://www.slashfilm.com/img/gallery/why-michelle-yeohs-philippa-georgiou-is-star-treks-most-dangerous-starfleet-member/l-intro-1789403807.jpg",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "524fa2b48a50d06c",
-      "title": "Resident Evil's Twisted Ending Pays Homage To A Key Part Of The Games",
-      "quote": "The somewhat surprising ending of the new Resident Evil movie from director Zach Cregger feels like a callback to a key part of the games.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Devin Meenan)",
-      "date": "2026-09-18T17:55:33+00:00",
-      "link": "https://www.slashfilm.com/2262634/resident-evil-2026-movie-ending-homage-games/",
-      "image": "https://www.slashfilm.com/img/gallery/resident-evils-twisted-ending-pays-homage-to-a-key-part-of-the-games/l-intro-1789753329.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "d473133f5095077b",
@@ -566,17 +588,6 @@
       "author": "Nell Minow",
       "date": "2026-09-18T13:00:00+00:00",
       "link": "https://www.rogerebert.com/reviews/without-blood-salma-hayek-angelina-jolie-movie-review-2026",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "f371bc43c198fcf4",
-      "title": "Knife: The Attempted Murder of Salman Rushdie",
-      "quote": "A simple but strong document about the importance of art as a way to comment on the world.",
-      "publisher": "RogerEbert.com",
-      "author": "Peter Sobczynski",
-      "date": "2026-09-18T13:00:00+00:00",
-      "link": "https://www.rogerebert.com/reviews/knife-the-attempted-murder-of-salman-rushdie-documentary-movie-review-2026",
       "image": null,
       "category": "World Cinema"
     },
@@ -688,17 +699,6 @@
       "date": "2026-09-17T18:18:15+00:00",
       "link": "https://www.hollywoodreporter.com/movies/movie-reviews/strange-neighbors-review-oldenburg-1236704521/",
       "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "7560ede79a184aed",
-      "title": "‘Onwards and Sideways’ Review: Laura Linney and Rhys Ifans Cut Through the Sweetness of a Gentle, Compassionate Parkinson’s Drama",
-      "quote": "There’s nothing fun about Parkinson’s disease, and no film about it can engineer an uncompromised happy ending. But John Madden’s “Onwards and Sideways” finds more uplift than one might expect in a story of two people…",
-      "publisher": "Variety",
-      "author": "Guy Lodge",
-      "date": "2026-09-17T16:40:43+00:00",
-      "link": "https://variety.com/2026/film/reviews/onwards-and-sideways-review-1236865721/",
-      "image": "https://variety.com/wp-content/uploads/2026/09/Onwards-and-Sideways_Still_Hero.jpg",
       "category": "World Cinema"
     },
     {
