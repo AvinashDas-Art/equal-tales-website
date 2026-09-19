@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T10:43:25.097972+00:00",
+  "generated_at": "2026-09-19T15:45:15.980792+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -9,6 +9,138 @@
   ],
   "reviews": [
     {
+      "id": "b96509a7459a2764",
+      "title": "‘Vintage Violence’ Review: Cole Sprouse Heads Up a Hyper-Online Gonzo Freakout in Japan",
+      "quote": "Eugene Kotlyarenko has built a career on drawing upon his widely-viewed cinephilic base of knowledge to consider more contemporary forms of hyper-online, of-the-moment provocation, and “Vintage Violence” is no…",
+      "publisher": "Variety",
+      "author": "Guy Lodge",
+      "date": "2026-09-19T15:04:40+00:00",
+      "link": "https://variety.com/2026/film/reviews/vintage-violence-review-1236869473/",
+      "image": "https://variety.com/wp-content/uploads/2026/09/Vintage_Violence_01.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "12260dbbcbf8ff93",
+      "title": "‘Resident Evil’s Austin Abrams Recalls “Harrowing” Stunt Shoot For Zach Cregger’s Video Game Adaptation: “You Don’t Wanna F*ck Up”",
+      "quote": "As Zach Cregger puts audiences in the player’s POV with Resident Evil, Austin Abrams had to begin with Level One. The actor admitted he wasn’t familiar with the Resident Evil video games or movies before taking the lead…",
+      "publisher": "Deadline",
+      "author": "Glenn Garner",
+      "date": "2026-09-19T15:00:00+00:00",
+      "link": "https://deadline.com/2026/09/resident-evil-austin-abrams-harrowing-stunt-shoots-1237108267/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/MCDREEV_SP040.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "8028826b6972da0c",
+      "title": "As Fall Approaches, Camden International Film Festival Spends Time With ‘The Illusion Of An Everlasting Summer’",
+      "quote": "The 2026 Camden International Film Festival in mid-coast Maine has reached its midway point. The prestigious all-documentary festival continues Saturday with the world premieres of Sierra Pettengill’s Argonauts at the…",
+      "publisher": "Deadline",
+      "author": "Matthew Carey",
+      "date": "2026-09-19T15:00:00+00:00",
+      "link": "https://deadline.com/2026/09/camden-film-festival-the-illusion-of-an-everlasting-summer-1237108335/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/CIFF-2026-graphic.png",
+      "category": "World Cinema"
+    },
+    {
+      "id": "71b38b7103bf1880",
+      "title": "‘Resident Evil’ Reviving Fall With $53M-$60M U.S. Opening: Best Ever For Zach Cregger & Franchise – Box Office Update",
+      "quote": "SATURDAY AM: Zach Cregger’s R-rated Resident Evil is giving the fall box office a blood transfusion with an opening that could approach $60M per rivals, this after last weekend’s less robust start of Practical Magic 2…",
+      "publisher": "Deadline",
+      "author": "Anthonypauldalessandro",
+      "date": "2026-09-19T14:55:00+00:00",
+      "link": "https://deadline.com/2026/09/box-office-resident-evil-1237107316/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/MCDREEV_SP019.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "466f1c515c821522",
+      "title": "‘Anchors Aweigh’ Review: A Cynical Comedian Reflects on His Youth in an Abridged Mockumentary",
+      "quote": "In Matt Barats’ “Anchors Aweigh,” a caustic alt-comedian is left adrift after his failed proposal, prompting him to revisit old footage from his college days and ruminate on his arrested development. It’s a lot less…",
+      "publisher": "Variety",
+      "author": "Siddhant Adlakha",
+      "date": "2026-09-19T14:18:47+00:00",
+      "link": "https://variety.com/2026/film/reviews/anchors-aweigh-review-1236866281/",
+      "image": "https://variety.com/wp-content/uploads/2026/09/anchors-aweigh.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "ad72d2d6c7379b9d",
+      "title": "‘Trees Are Watching’ Review: Eva Green Fights A.I. Generated Horrors in Self-Serious Misfire Boarded by Martin Scorsese",
+      "quote": "Bahman Ghobadi directs some fascinating performances in “Trees Are Watching,” his horror movie based on the Kurdish legend of people being reborn as trees and living second lives as furniture. Not only does actress Eva…",
+      "publisher": "Variety",
+      "author": "Siddhant Adlakha",
+      "date": "2026-09-19T14:08:04+00:00",
+      "link": "https://variety.com/2026/film/reviews/trees-are-watching-review-1236865892/",
+      "image": "https://variety.com/wp-content/uploads/2026/09/trees-are-watching.webp",
+      "category": "World Cinema"
+    },
+    {
+      "id": "f424dc628b17e73a",
+      "title": "Tina Louise Starred In Some Of The Best '70s Detective TV Shows Ever Made",
+      "quote": "Tina Louise, aka Ginger from Gilligan's Island, had one heck of a run appearing in multiple hit detective TV shows of the 1970s.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Witney Seibold)",
+      "date": "2026-09-19T14:00:00+00:00",
+      "link": "https://www.slashfilm.com/2259203/tina-louise-best-70s-detective-shows/",
+      "image": "https://www.slashfilm.com/img/gallery/tina-louise-starred-in-some-of-the-best-70s-detective-tv-shows-ever-made/l-intro-1789490048.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "2faadab3bb1a6b02",
+      "title": "CNN, MS NOW And Politico Journalists Denied White House Entry Following Donald Trump’s Announced Ban",
+      "quote": "UPDATED: President Donald Trump is following through on pledge to ban journalists he doesn’t like from the White House: This morning, CNN and MS NOW, formerly MSNBC, as well as Politico announced that their journalists…",
+      "publisher": "Deadline",
+      "author": "Greg Evans",
+      "date": "2026-09-19T13:40:57+00:00",
+      "link": "https://deadline.com/2026/09/ms-now-journalists-denied-white-house-entry-following-donald-trumps-announced-ban-1237108359/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/ms-now.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "e74101d126dd0b50",
+      "title": "Anthony Page Dies: Tony-Winning, Emmy-Nominated Director Of Stage & Screen Was 90",
+      "quote": "Anthony Page, the prolific British stage, film and TV director who won a Tony Award for his 1997 Broadway production of A Doll’s House and was twice Emmy-nominated for acclaimed TV movies in the 1970s, died September 11…",
+      "publisher": "Deadline",
+      "author": "Greg Evans",
+      "date": "2026-09-19T13:11:46+00:00",
+      "link": "https://deadline.com/2026/09/anthony-page-dead-1237108346/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2588434.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "02036a96dad01732",
+      "title": "Resident Evil Director Zach Cregger Has A Stealthy Cameo That You Probably Missed",
+      "quote": "If you're looking for director Zach Cregger's cameo in his new Resident Evil movie, you won't see it. But if you keep your ears open, you'll hear it.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Ryan Scott)",
+      "date": "2026-09-19T13:00:00+00:00",
+      "link": "https://www.slashfilm.com/2263000/resident-evil-director-zach-cregger-cameo-explained/",
+      "image": "https://www.slashfilm.com/img/gallery/resident-evil-director-zach-cregger-has-a-stealthy-cameo-that-you-probably-missed/l-intro-1789766978.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "9449f19f3818aea0",
+      "title": "Why Carl From Resident Evil Looks So Familiar",
+      "quote": "Here's the familiar actor who plays Carl in Zach Cregger's new Resident Evil movie, which is now playing in theaters everywhere.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Rafael Motamayor)",
+      "date": "2026-09-19T12:00:00+00:00",
+      "link": "https://www.slashfilm.com/2258045/carl-resident-evil-2026-movie-actor-paul-walter-hauser/",
+      "image": "https://www.slashfilm.com/img/gallery/carl-resident-evil-2026-movie-actor-paul-walter-hauser/l-intro-1789557749.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "cd1522eda47a3969",
+      "title": "5 Best Crime TV Shows Of 2026 (So Far)",
+      "quote": "2026's best crime drama TV series to date have been fueled by twisty plots, great performances, and compelling subject matter. Let's run through them, shall we?",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Nina Starner)",
+      "date": "2026-09-19T11:45:00+00:00",
+      "link": "https://www.slashfilm.com/2258992/best-crime-tv-shows-2026/",
+      "image": "https://www.slashfilm.com/img/gallery/5-best-crime-tv-shows-of-2026-so-far/l-intro-1789483407.jpg",
+      "category": "Indie Gems"
+    },
+    {
       "id": "dce329c72b31d977",
       "title": "Waheeda Rehman to play Gandhi’s mother in Sudhir Mishra’s film",
       "quote": "The period-drama is headlined by Manoj Bajpayee and produced by Anubhav Sinha",
@@ -17,6 +149,17 @@
       "date": "2026-09-19T10:34:53+00:00",
       "link": "https://www.thehindu.com/entertainment/movies/waheeda-rehman-to-play-gandhis-mother-in-sudhir-mishras-film/article71484373.ece",
       "image": "https://th-i.thgim.com/public/entertainment/movies/bf8h07/article71484381.ece/alternates/LANDSCAPE_1200/Waheeda%20Rehman%20as%20Putlibai%20in%20the%20upcoming%20film%20on%20Mohandas%20Gandhi",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "1bf111d00fd58c83",
+      "title": "Fact, fiction and flying objects: This new docufiction journeys across prehistory, colonial records and UFO encounters in Pavagada",
+      "quote": "Bengaluru-based economist and documentary filmmaker Sashi Sivramkrishna’s latest docufiction, The Incidents at Pawgur, 1830, blends fictional characters and stories with real history",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-19T10:13:23+00:00",
+      "link": "https://www.thehindu.com/entertainment/fact-fiction-and-flying-objects-this-new-docufiction-journeys-across-prehistory-colonial-records-and-ufo-encounters-in-pavagada/article71483457.ece",
+      "image": "https://th-i.thgim.com/public/life-and-style/gkqh4u/article71483459.ece/alternates/LANDSCAPE_1200/Pawgur%20Final1.jpg",
       "category": "Indian Cinema"
     },
     {
@@ -130,17 +273,6 @@
       "category": "Festival Winners"
     },
     {
-      "id": "6732356eda7538ae",
-      "title": "‘Practical Magic 2’ movie review: Sandra Bullock and Nicole Kidman provide the enchantment in bland sequel",
-      "quote": "The sequel to the 1998 cult favourite offers little in the way of romance or magic apart from its luminescent leads",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-19T05:11:52+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/practical-magic-2-movie-review-sandra-bullock-and-nicole-kidman-provide-the-enchantment-in-bland-sequel/article71481690.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/b01z7s/article71483723.ece/alternates/LANDSCAPE_1200/Nicole%20Kidman%20and%20Sandra%20Bullock%20in%20%E2%80%98Practical%20Magic%202%E2%80%99",
-      "category": "Indian Cinema"
-    },
-    {
       "id": "a333c7601d4739e0",
       "title": "From ovations in Venice to death threats in Israel: the extreme responses to NAZA documentary",
       "quote": "As Gaza documentary wins cinematic acclaim, its directors face vitriol in Israel amid a febrile election campaign First there was a moment of stunned silence. Then, in the Sala Grande, the main screening hall of the…",
@@ -152,8 +284,8 @@
       "category": "Festival Winners"
     },
     {
-      "id": "009497cccca0626b",
-      "title": "Gerrit Graham Dead: ‘Star Trek’ & ‘Phantom of the Paradise’ Actor Was 76",
+      "id": "1896bf54fdbdc19e",
+      "title": "Gerrit Graham Dies: ‘Star Trek’ & ‘Phantom Of The Paradise’ Actor Was 76",
       "quote": "Gerrit Graham, the actor known for roles in Phantom of the Paradise (1974) and Star Trek, has died. He was 76. The actor died of lung disease and other health complications on Tuesday in Rhinebeck, NY, according to…",
       "publisher": "Deadline",
       "author": "Glenn Garner",
@@ -207,17 +339,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "0f22b08e73071e4c",
-      "title": "‘Lollipop Chainsaw’: Cult Japanese Video Game Getting The Live Action Feature Treatment",
-      "quote": "EXCLUSIVE: Cult Japanese video game Lollipop Chainsaw is heading to the big screen. Deadline can reveal that a live action feature version is in the works as the game’s creators look to establish “a new model for…",
-      "publisher": "Deadline",
-      "author": "Max Goldbart",
-      "date": "2026-09-19T01:30:00+00:00",
-      "link": "https://deadline.com/2026/09/lollipop-chainsaw-cult-japanese-video-game-feature-film-1237107425/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Lollipop-Chainsaw.jpeg",
-      "category": "World Cinema"
-    },
-    {
       "id": "05c14d34da02c2a7",
       "title": "Nick Reiner says money from grandfather Carl Reiner should be available for his defense",
       "quote": "\"Nick is not accused of causing his death,\" a new legal filing states of Carl Reiner, who reportedly left his grandson money as part of his trust.",
@@ -229,39 +350,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "a545c4fce250785d",
-      "title": "Kohner Agency Lays Off Its Talent Agents Due To “Profound & Unprecedented Economic Pressures”",
-      "quote": "EXCLUSIVE: The Kohner Agency is downsizing. Its three talent agents have been laid off. The talent department will stay open to service existing contracts and collect commission only. Owner and President Pearl Wexler…",
-      "publisher": "Deadline",
-      "author": "Nellie Andreeva",
-      "date": "2026-09-19T01:13:33+00:00",
-      "link": "https://deadline.com/2026/09/the-kohner-agency-layoffs-talent-agents-downsizing-1237108249/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Kohner-Agency-Logo.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "3a036ec6fcc29864",
-      "title": "‘VisionQuest’ Creator Terry Matalas Says No GenAI Was Used In Making Of Show: “There Hasn’t Really Been A Need”",
-      "quote": "Despite VisionQuest‘s subject matter as the first solo outing of the title artificial intelligence, the Marvel series kept things strictly human-made. Series creator Terry Matalas recently confirmed there was no GenAI…",
-      "publisher": "Deadline",
-      "author": "Glenn Garner",
-      "date": "2026-09-19T00:40:52+00:00",
-      "link": "https://deadline.com/2026/09/visionquest-creator-no-gen-ai-was-used-making-show-1237108242/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/VisionQuest_TF_1.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "621621b7e8057f53",
-      "title": "Paramount And State AGs Begin Preliminary Talks Ahead Of October Settlement Meetings",
-      "quote": "They’re talking! Or are they? And what are they actually talking about? Does everyone need to chill out? Paramount and state attorneys general are talking, we are told. However, the discussions that are occurring over…",
-      "publisher": "Deadline",
-      "author": "Dominic Patten",
-      "date": "2026-09-18T23:44:12+00:00",
-      "link": "https://deadline.com/2026/09/paramount-antitrust-lawsuit-negotiations-1237108152/",
-      "image": "https://deadline.com/wp-content/uploads/2026/03/FOR-CAROUSEL-ONLY-Rob-Bonta-and-David-Ellison.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "81df2f397e3f667f",
       "title": "NAZA arrives in the U.S. later this month",
       "quote": "As Israeli officials seek to strip its filmmakers of citizenship, the Venice-winning documentary NAZA will open in New York City.",
@@ -271,17 +359,6 @@
       "link": "https://www.avclub.com/naza-documentary-us-release",
       "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/10161021/Rachel_Szor_Yuval_Abraham_at_the_83rd_Venice_International_Film_Festival-feature.jpg",
       "category": "Indie Gems"
-    },
-    {
-      "id": "17f01031bd516f13",
-      "title": "John Wilson Lays Down ‘The History of Concrete’ With ‘The Weight’, ‘Shaun The Sheep’ In Packed Indie Weekend – Specialty Preview",
-      "quote": "It’s a busy specialty weekend with fewer new studio releases. Well-reviewed Depression-era western The Weight starring Ethan Hawke and Russell Crowe in wide release joins comedic doc The History of Concrete by John…",
-      "publisher": "Deadline",
-      "author": "Jillg366",
-      "date": "2026-09-18T23:15:00+00:00",
-      "link": "https://deadline.com/2026/09/indie-films-opening-the-weight-history-of-concrete-aardman-1237108082/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/The-Weight-and-A-History-Of-Concrete-and-Shaun-the-Sheep-The-Beast-of-Mossy-Bottom.jpg",
-      "category": "World Cinema"
     },
     {
       "id": "8861fdd33c608372",
@@ -438,17 +515,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "8c57480659364e2d",
-      "title": "Narnia: First Official Look At Daniel Craig's Magician In Netflix Movie",
-      "quote": "Check out Daniel Craig as a terrible (?) magician in Narnia: The Magician's Nephew, the upcoming Netflix movie directed by Greta Gerwig.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Sandy Schaefer)",
-      "date": "2026-09-18T17:01:58+00:00",
-      "link": "https://www.slashfilm.com/2262505/narnia-netflix-movie-daniel-craig-magician-first-look/",
-      "image": "https://www.slashfilm.com/img/gallery/narnia-first-official-look-at-daniel-craigs-magician-in-netflix-movie/l-intro-1789750790.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "2d1fc02b726e470b",
       "title": "Monster: The Lizzie Borden Story",
       "quote": "Netflix has delivered another rendition of “Monster” that doesn’t quite know what it wants to be.",
@@ -458,17 +524,6 @@
       "link": "https://www.rogerebert.com/reviews/monster-the-lizzie-borden-story-ryan-murphy-netflix-tv-review-2026",
       "image": null,
       "category": "World Cinema"
-    },
-    {
-      "id": "90e2914d027e01fd",
-      "title": "I Play Rocky Review: This Syrupy But Loving Tribute To A Classic Boasts An Uncanny Lead Performance",
-      "quote": "I Play Rocky is a crowd pleasing look at the making of a movie classic, featuring a great lead turn from Anthony Ippolito. Here's our review.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Bill Bria)",
-      "date": "2026-09-18T16:00:00+00:00",
-      "link": "https://www.slashfilm.com/2261212/i-play-rocky-movie-review/",
-      "image": "https://www.slashfilm.com/img/gallery/i-play-rocky-review-this-syrupy-but-loving-tribute-to-a-classic-boasts-an-uncanny-lead-performance/l-intro-1789650715.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "ed704ae8b4edb337",
@@ -491,28 +546,6 @@
       "link": "https://www.rogerebert.com/reviews/best-of-the-best-netflix-movie-review-2026",
       "image": null,
       "category": "World Cinema"
-    },
-    {
-      "id": "8b208994833ee15d",
-      "title": "What Is Resident Evil's Umbrella Corporation? A Primer For New Fans",
-      "quote": "The nefarious Umbrella Corporation inevitably comes up in the new Resident Evil movie. Here's what you need to know about them.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Ryan Scott)",
-      "date": "2026-09-18T15:00:00+00:00",
-      "link": "https://www.slashfilm.com/2261566/resident-evil-umbrella-corporation-explained/",
-      "image": "https://www.slashfilm.com/img/gallery/what-is-resident-evils-umbrella-corporation-a-primer-for-new-fans/l-intro-1789665417.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "33f160f9745e1751",
-      "title": "Why Bryan From Resident Evil Looks So Familiar",
-      "quote": "Austin Abrams is having a moment. In addition to playing Bryan in the new Resident Evil, he's also in this year's Whalefall. Here's where else you've seen him.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Bill Bria)",
-      "date": "2026-09-18T14:00:00+00:00",
-      "link": "https://www.slashfilm.com/2259426/bryan-resident-evil-2026-movie-actor-austin-abrams/",
-      "image": "https://www.slashfilm.com/img/gallery/why-bryan-from-resident-evil-looks-so-familiar/l-intro-1789497842.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "8750f8c7283b8cff",
@@ -700,39 +733,6 @@
       "link": "https://www.bbc.com/culture/article/20260916-the-secret-life-of-outrageous-us-showman-liberace?ocid=global_culture_rss",
       "image": "https://ychef.files.bbci.co.uk/144x81/p0p9xgfm.jpg",
       "category": "World Cinema"
-    },
-    {
-      "id": "9eaedd14996dc660",
-      "title": "‘Growth of the Soil’ Review: Norway’s Oscar Entry Is a Robustly Classical, Weatherbeaten Rural Epic",
-      "quote": "The wind deserves above-the-title billing in “Growth of the Soil” — even in the most serene scenes of Hans Petter Moland’s muscular period epic, you can hear it rattling and wheezing and moaning away in the background…",
-      "publisher": "Variety",
-      "author": "Guy Lodge",
-      "date": "2026-09-16T19:43:26+00:00",
-      "link": "https://variety.com/2026/film/reviews/growth-of-the-soil-review-1236864341/",
-      "image": "https://variety.com/wp-content/uploads/2026/07/Growth-of-the-Soil.jpg",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "244830fad51fbf8e",
-      "title": "‘Edward Said: Between Worlds’ Review: A Documentary That Connects the Renowned Intellectual’s Life to the History of Palestine",
-      "quote": "In “Edward Said: Between Worlds,” documentarian Maiken Baird does not follow the tried-and-true formula of a bio-doc. Instead of trying to cram a whole lifetime in under two hours, she lets the protagonist speak for…",
-      "publisher": "Variety",
-      "author": "Murtada Elfadl",
-      "date": "2026-09-16T16:23:56+00:00",
-      "link": "https://variety.com/2026/film/reviews/edward-said-between-worlds-review-1236861256/",
-      "image": "https://variety.com/wp-content/uploads/2026/09/Edward-Said-Between-Worlds_Still_Hero.webp",
-      "category": "World Cinema"
-    },
-    {
-      "id": "9d38247c388257b5",
-      "title": "‘Guria’ Review: Everything Is Scarce but Charm Is Abundant in Georgia’s Deadpan Oscar Submission",
-      "quote": "There’s a certain wavelength of hangdog humor that denizens of the former Soviet Republics seem able to tune into at will, and Georgian director Levan Koguashvili more than most. In his fourth feature film, and his…",
-      "publisher": "Variety",
-      "author": "Jessica Kiang",
-      "date": "2026-09-16T16:22:25+00:00",
-      "link": "https://variety.com/2026/film/reviews/guria-review-1236861802/",
-      "image": "https://variety.com/wp-content/uploads/2026/09/Guria.jpg",
-      "category": "Festival Winners"
     },
     {
       "id": "2f165a899c166b38",
