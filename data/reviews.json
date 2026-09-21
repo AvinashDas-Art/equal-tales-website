@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T12:34:06.990478+00:00",
+  "generated_at": "2026-09-21T21:53:54.547597+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -9,59 +9,334 @@
   ],
   "reviews": [
     {
-      "id": "a58ceefdc57d7a21",
-      "title": "‘The Further Mis-Adventures Of Cliff Booth’ Trailer: Brad Pitt Revisits The Character That Won Him An Oscar In David Fincher’s Latest",
-      "quote": "We have the first trailer for David Fincher’s latest, The Further Mis-Adventures of Cliff Booth. Directed by Fincher from a screenplay by Quentin Tarantino, the film will premiere in IMAX on November 25 for a two-week…",
+      "id": "c53d523a6c564959",
+      "title": "Tom Cruise Earns Applause With Six-Minute Monologue On Why Art Beats AI In Filmmaking: “There Is Nothing Like Human”",
+      "quote": "Tom Cruise earned spontaneous applause at a BAFTA event in London after spending more than six minutes eulogizing about the power of art over AI. Speaking at a BAFTA: Life in Pictures event, during which Cruise…",
       "publisher": "Deadline",
-      "author": "Zac Ntim",
-      "date": "2026-09-21T12:18:35+00:00",
-      "link": "https://deadline.com/2026/09/the-further-mis-adventures-of-cliff-booth-trailer-brad-pitt-1237109166/",
-      "image": "https://deadline.com/wp-content/uploads/2026/05/Brad-Pitt-Cliff-Booth-Once-Upon-a-Time-in-Hollywood.jpg",
+      "author": "Jake Kanter",
+      "date": "2026-09-21T21:29:20+00:00",
+      "link": "https://deadline.com/2026/09/tom-cruise-ai-filmmaking-bafta-1237109599/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2215809697-e1790023650535.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "f94a33d57d321946",
+      "title": "‘Daredevil: Born Again’ To End With Season 3 At Disney+",
+      "quote": "The end is near for Daredevil: Born Again. The series starring Charlie Cox as the titular character, will end with the upcoming third season, Deadline has confirmed. Sources told Deadline that calls were made this…",
+      "publisher": "Deadline",
+      "author": "Denise Petski",
+      "date": "2026-09-21T21:27:33+00:00",
+      "link": "https://deadline.com/2026/09/daredevil-born-again-ending-season-3-disney-marvel-1237109610/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/TCDDABO_G5070.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "85b5a1dadd2beae3",
+      "title": "Jennifer Eckhart Dies: Fired Fox Business Staffer Who Sued Network & Ed Henry For Sexual Harassment Was 36",
+      "quote": "Jennifer Eckhart, a former Fox Business staffer who sued the network and its then-anchor Ed Henry for sexual harassment and retaliation and later hosted a podcast, was found dead September 19 at her home in Hobe Sound…",
+      "publisher": "Deadline",
+      "author": "Erik Pedersen",
+      "date": "2026-09-21T21:25:00+00:00",
+      "link": "https://deadline.com/2026/09/jennifer-eckhart-dead-fox-business-staffer-who-sued-fox-news-was-36-1237109602/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/jennifer-eckhart.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "a1f5187cbf24c831",
+      "title": "Daredevil: Born Again Canceled By Marvel Ahead Of Season 3",
+      "quote": "Daredevil: Born Again Season 3 will be the final season of the show, because Marvel has cancelled the series and not renewed the showrunner's contract.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Ryan Scott)",
+      "date": "2026-09-21T21:12:19+00:00",
+      "link": "https://www.slashfilm.com/2264733/marvel-daredevil-born-again-canceled-disney-plus/",
+      "image": "https://www.slashfilm.com/img/gallery/daredevil-born-again-canceled-by-marvel-ahead-of-season-3/l-intro-1790024974.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "bb18aa9d69fcfbd2",
+      "title": "Paramount Shares Fall After Antitrust Deal, But Wall Streeters Marvel At Favorable Terms",
+      "quote": "While Warner Bros. Discovery shares soared 11%, as is often the case of a company about to be acquired, while Paramount shares stumbled on news the companies’ merger will take another two weeks to complete. The stocks’…",
+      "publisher": "Deadline",
+      "author": "Dade Hayes",
+      "date": "2026-09-21T20:38:39+00:00",
+      "link": "https://deadline.com/2026/09/paramount-stock-antitrust-settlement-wall-street-1237109547/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Paramount-NY-corporate.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "04ef2ce746cea7d4",
+      "title": "Donald Trump Vows To Appeal Ruling In Networks’ White House Ban Lawsuit, Even Though Judge Has Yet To Rule",
+      "quote": "Donald Trump has vowed to appeal a judge’s ruling in the networks’ challenge of his ban on their access to the White House, even though a federal judge has yet to issue a ruling in the case. Shortly after CNN, Politico…",
+      "publisher": "Deadline",
+      "author": "Ted Johnson",
+      "date": "2026-09-21T20:37:12+00:00",
+      "link": "https://deadline.com/2026/09/trump-white-house-ban-judge-appeal-1237109563/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2294604716-1.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "da6fce4e12ac4108",
+      "title": "The Final Stretch: California AG Rob Bonta On How Settlement On Paramount-WBD Merger Came Together After Stalemate",
+      "quote": "Paramount’s settlement with the 12 Democratic state attorneys general appeared to be a Yom Kippur affair, with the final signoff coming after sundown on Sunday. California Attorney General Rob Bonta was cagey when asked…",
+      "publisher": "Deadline",
+      "author": "Nellie Andreeva",
+      "date": "2026-09-21T20:25:05+00:00",
+      "link": "https://deadline.com/2026/09/paramount-settlement-deal-timeline-1237109472/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Paramount-Rob-Bontas.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "5a59e8743305c8b5",
+      "title": "Midnight Madness Revisited: Which TIFF Title Could Become The Next Box Office Obsession?",
+      "quote": "“Art dies in the boardroom.” That was a dark omen I read on a stranger’s poster board last week as I walked Festival Street at the 51st Toronto International Film Festival, heading to a Midnight Madness screening while…",
+      "publisher": "Deadline",
+      "author": "Glenn Garner",
+      "date": "2026-09-21T20:14:27+00:00",
+      "link": "https://deadline.com/2026/09/midnight-madness-revisited-tiff-next-box-office-obsession-1237105994/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Midnight-Madness-TIFF-border-4_5582b5.jpg",
       "category": "Festival Winners"
     },
     {
-      "id": "bd268f6862d647ae",
-      "title": "The Further Mis-Adventures Of Cliff Booth Trailer Teams David Fincher With Quentin Tarantino",
-      "quote": "Brad Pitt's Cliff Booth leaves the '60s behind and heads to Hollywood in the '70s in the trailer for David Fincher's The Further Mis-Adventures Of Cliff Booth.",
+      "id": "4231fee46ff617d6",
+      "title": "Nation granted reprieve as Trump inadvertently bans microphones from press conference",
+      "quote": "There is, apparently, an upside to the president violating press freedom: Not having to hear his thoughts.",
+      "publisher": "The A.V. Club",
+      "author": "Matt Schimkowitz",
+      "date": "2026-09-21T20:14:07+00:00",
+      "link": "https://www.avclub.com/trump-bans-press-pool-no-microphones",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/09/21/trump-hearing-feature.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "411d8ef4f5053928",
+      "title": "Spider-Man: Brand New Day's Villain Was Almost A Much Different X-Men Character",
+      "quote": "Few people expected Jean Grey to be the villain in Spider-Man: Brand New Day, but a different X-Men character was set to fulfill that role early on.",
       "publisher": "/Film",
       "author": "staff@slashfilm.com (Devin Meenan)",
-      "date": "2026-09-21T12:13:42+00:00",
-      "link": "https://www.slashfilm.com/2263689/the-further-mis-adventures-of-cliff-booth-trailer/",
-      "image": "https://www.slashfilm.com/img/gallery/the-further-mis-adventures-of-cliff-booth-trailer/l-intro-1789993326.jpg",
+      "date": "2026-09-21T20:14:02+00:00",
+      "link": "https://www.slashfilm.com/2264654/spider-man-brand-new-day-villain-different-x-men-character-shadow-king/",
+      "image": "https://www.slashfilm.com/img/gallery/spider-man-brand-new-days-villain-was-almost-a-much-different-x-men-character/l-intro-1790021375.jpg",
       "category": "Indie Gems"
     },
     {
-      "id": "7f4d6d8267fe5a87",
-      "title": "25 Years Ago Today: Mariah Carey Starred In One Of The Worst Movies Ever Made",
-      "quote": "All that glitters was not gold when Mariah Carey's infamous movie Glitter hit theaters 25 years ago today and was panned by virtually everyone.",
+      "id": "9cc762a4a81fe2ff",
+      "title": "Arnold Schwarzenegger's been writing about growth mindsets",
+      "quote": "The action star, decorated bodybuilder, and former Governor of California is releasing another motivational book.",
+      "publisher": "The A.V. Club",
+      "author": "Olivia Singh",
+      "date": "2026-09-21T20:09:14+00:00",
+      "link": "https://www.avclub.com/arnold-schwarzenegger-book-better-every-day",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/09/21/arnold-schwarzenegger-better-every-day-book-featured.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "de9f7ec9f3e68e53",
+      "title": "The Lioness Season 3 Finale Leaves One Major Question Unanswered",
+      "quote": "Taylor Sheridan has left one big question dangling after the end of Lioness Season 3, and it's left fans searching for answers.",
       "publisher": "/Film",
       "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-09-21T12:00:00+00:00",
-      "link": "https://www.slashfilm.com/2250325/mariah-carey-glitter-worst-movie-ever-25-year-anniversary/",
-      "image": "https://www.slashfilm.com/img/gallery/25-years-ago-today-mariah-carey-starred-in-one-of-the-worst-movies-ever-made/l-intro-1788446155.jpg",
+      "date": "2026-09-21T19:45:00+00:00",
+      "link": "https://www.slashfilm.com/2264547/lioness-season-3-finale-one-major-question-who-is-the-mole/",
+      "image": "https://www.slashfilm.com/img/gallery/the-lioness-season-3-finale-leaves-one-major-question-unanswered/l-intro-1790018146.jpg",
       "category": "Indie Gems"
     },
     {
-      "id": "db4196372f0a834f",
-      "title": "Lanterns Episode 6 Fixes A Superhero Mistake From Zack Snyder's Extended Universe",
-      "quote": "Lanterns Episode 6 serves as a reflective, somber, and stark contrast to the DC Extended Universe that came before.",
+      "id": "daac8876c13bf649",
+      "title": "Paramount-WBD Settlement Sets Up Editorial Independence Board For CNN And CBS News",
+      "quote": "The potential ownership of CBS News and CNN under one corporate owner has generated months of fear, anxiety and loathing at both networks, but the Paramount-Warner Bros. Discovery settlement tries to resolve some of the…",
+      "publisher": "Deadline",
+      "author": "Ted Johnson",
+      "date": "2026-09-21T19:40:58+00:00",
+      "link": "https://deadline.com/2026/09/cnn-cbs-news-editorial-independence-board-1237109434/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/cnn-CBS-news-logos_2bb62f.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "5252fdd0934dd6fd",
+      "title": "A Traumatizing Animated '80s Classic Is A Box Office Success 40 Years Later",
+      "quote": "40 years later, this cult favorite animated '80s film has become a box office success thanks to its theatrical re-release.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Ryan Scott)",
+      "date": "2026-09-21T19:38:25+00:00",
+      "link": "https://www.slashfilm.com/2264578/transformers-the-movie-80s-animated-classic-box-office-success-september-2026/",
+      "image": "https://www.slashfilm.com/img/gallery/a-traumatizing-animated-80s-classic-is-a-box-office-success-40-years-later/l-intro-1790019336.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "1b1aa4ec744d7f5b",
+      "title": "Zach Cregger's Original Resident Evil Ending Would Have Been Even Bleaker",
+      "quote": "As dark as the ending to Zach Cregger's Resident Evil movie is, an earlier (albeit less effective) version was even bleaker.",
       "publisher": "/Film",
       "author": "staff@slashfilm.com (Jeremy Mathai)",
-      "date": "2026-09-21T11:30:00+00:00",
-      "link": "https://www.slashfilm.com/2263645/lanterns-episode-6-fix-superhero-mistake-zack-snyder-dc-extended-universe/",
-      "image": "https://www.slashfilm.com/img/gallery/lanterns-episode-6-fixes-a-superhero-mistake-from-zack-snyders-extended-universe/l-intro-1789965961.jpg",
+      "date": "2026-09-21T19:00:00+00:00",
+      "link": "https://www.slashfilm.com/2264175/zach-cregger-original-resident-evil-2026-ending-bleak/",
+      "image": "https://www.slashfilm.com/img/gallery/zach-creggers-original-resident-evil-ending-would-have-been-even-bleaker/l-intro-1790007093.jpg",
       "category": "Indie Gems"
     },
     {
-      "id": "06e71a99c801d3e5",
-      "title": "Robert Pattinson's A24 Sci-Fi Movie That Flew Under Everyone's Radar Is A Prime Video Must-Watch",
-      "quote": "Audiences didn't really take to this admittedly indecipherable A24 sci-fi film starring Robert Pattinson, which is why it merits another look on Prime Video.",
+      "id": "c29b3de9f395f980",
+      "title": "AMC vigilante arrested for pepper-spraying phone-using moviegoer",
+      "quote": "A 34-year-old was arrested at a California AMC for pepper-spraying a fellow theatergoer last week.",
+      "publisher": "The A.V. Club",
+      "author": "Matt Schimkowitz",
+      "date": "2026-09-21T18:50:24+00:00",
+      "link": "https://www.avclub.com/amc-theatergoer-pepper-sprays-phone-user",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/09/21/amc-burbank-feature.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "e6891b8df4309c51",
+      "title": "Disney Plus' ad-free experience no longer ad-free for European subscribers",
+      "quote": "Subscribers are asked to agree to ads before and after movies, even on the streamer's premium tier.",
+      "publisher": "The A.V. Club",
+      "author": "Dennis Perkins",
+      "date": "2026-09-21T18:48:47+00:00",
+      "link": "https://www.avclub.com/disney-plus-adds-ads-europe",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/09/21/remy-feature.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "7fc2a7458201e6b1",
+      "title": "5 Best '90s Sitcoms That Only Lasted One Season, Ranked",
+      "quote": "The 1990s were a strong decade for sitcoms, but here are 5 '90s sitcoms that didn't last very long, even though they deserved better.",
       "publisher": "/Film",
       "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-09-21T11:30:00+00:00",
-      "link": "https://www.slashfilm.com/2259603/robert-pattinson-a24-sci-fi-movie-high-life-streaming-prime-video/",
-      "image": "https://www.slashfilm.com/img/gallery/robert-pattinsons-a24-sci-fi-movie-that-flew-under-everyones-radar-is-a-prime-video-must-watch/l-intro-1789505729.jpg",
+      "date": "2026-09-21T18:45:00+00:00",
+      "link": "https://www.slashfilm.com/2264000/best-90s-sitcoms-lasted-one-season-ranked/",
+      "image": "https://www.slashfilm.com/img/gallery/5-best-90s-sitcoms-that-only-lasted-one-season-ranked/l-intro-1790003811.jpg",
       "category": "Indie Gems"
+    },
+    {
+      "id": "d519b06b82c81526",
+      "title": "Enter to win a copy of Everything Is Everything: Tom Wilson And Pop Music In 1966",
+      "quote": "Author Steven E. Jones has put together a long overdue celebration of a man who revolutionized the '60s musical landscape. Enter to win your free copy.",
+      "publisher": "The A.V. Club",
+      "author": "The A.V. Club",
+      "date": "2026-09-21T18:30:45+00:00",
+      "link": "https://www.avclub.com/giveaway-everything-is-everything-tom-wilson-and-pop-music-in-1966",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/09/21/MixCollage-21-Sep-2026-12-44-PM-5716.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "53442596195ef48c",
+      "title": "Lioness Season 3 Ends On A Major Cliffhanger That Brings Back An Old Enemy",
+      "quote": "At this exact moment, Lioness hasn't been renewed for Season 4, but we hope it will be, because Season 3 ended with a pretty big cliffhanger.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Joe Roberts)",
+      "date": "2026-09-21T18:25:29+00:00",
+      "link": "https://www.slashfilm.com/2264471/lioness-season-3-cliffhanger-aaliyah-return/",
+      "image": "https://www.slashfilm.com/img/gallery/lioness-season-3-ends-on-a-major-cliffhanger-that-brings-back-an-old-enemy/l-intro-1790015078.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "a0650b549cf2b34d",
+      "title": "Paramount reaches deal with states to settle their case challenging Warner buyout, AP source say",
+      "quote": "‘Today, billionaires have yet again bribed, censored, and bullied their way to the top,’ Alvaro Bedoya, senior adviser at the American Economic Liberties Project and former FTC commissioner, said in a statement",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-21T18:24:03+00:00",
+      "link": "https://www.thehindu.com/entertainment/paramount-warner-bros-merger-lawsuit-settlement-state-deal/article71493016.ece",
+      "image": "https://th-i.thgim.com/public/incoming/g0wxxa/article71493020.ece/alternates/LANDSCAPE_1200/2026-09-21T174840Z_2003065999_RC2TNNALNNHG_RTRMADP_3_WARNER-BROS-DIS-M-A-PARAMOUNT-SKYDANCE.JPG",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "7418d6931d9e728e",
+      "title": "Resident Evil leaves the door open for more traditional, game-centric sequels",
+      "quote": "The door is open for more viruses: Zach Cregger's singular Resident Evil series reboot isn't quarantined by its downer ending.",
+      "publisher": "The A.V. Club",
+      "author": "Matt Schimkowitz",
+      "date": "2026-09-21T18:00:12+00:00",
+      "link": "https://www.avclub.com/spoiler-space-resident-evil-ending-reboot-franchise-sequels-secret-prequel",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/09/17/resident-evil-header-2.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "55b9b7120bfa0976",
+      "title": "Jeremy Saulnier welcomes fall with cryptic, unsettling Slayground trailer",
+      "quote": "Director Jeremy Saulnier’s return to horror looks like a scary-good time.",
+      "publisher": "The A.V. Club",
+      "author": "Olivia Singh",
+      "date": "2026-09-21T17:55:41+00:00",
+      "link": "https://www.avclub.com/slayground-teaser-trailer-jeremy-saulnier",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/09/21/slayground-teaser-trailer-featured-1.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "7dba333893695c75",
+      "title": "Henry Cavill's 122-Minute War Movie Is One Of Netflix's Biggest Streaming Hits",
+      "quote": "Guy Ritchie's 2024 war film starring Henry Cavill, Alan Ritchson, and more didn't perform well in theaters, but it's become a hit on Netflix.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Witney Seibold)",
+      "date": "2026-09-21T17:43:02+00:00",
+      "link": "https://www.slashfilm.com/2264379/henry-cavill-war-movie-the-ministry-of-ungentlemanly-warfare-netflix-september-2026/",
+      "image": "https://www.slashfilm.com/img/gallery/henry-cavills-122-minute-war-movie-is-one-of-netflixs-biggest-streaming-hits/l-intro-1790012401.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "0feadb24993068ab",
+      "title": "Martin Mull's famous friends introduce a charmed career in the trailer for Who Is Martin Mull?",
+      "quote": "Netflix's documentary about Hollywood Renaissance man Martin Mull arrives this October.",
+      "publisher": "The A.V. Club",
+      "author": "Matt Schimkowitz",
+      "date": "2026-09-21T17:36:36+00:00",
+      "link": "https://www.avclub.com/who-is-martin-mull-trailer",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/09/21/who-is-martin-mull-feature.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "befec21cc5806167",
+      "title": "The Cycle",
+      "quote": "“The Cycle” isn’t the first film to transform a family drama into a monster movie, but it feels fresh due to the commitment of its creators.",
+      "publisher": "RogerEbert.com",
+      "author": "Brian Tallerico",
+      "date": "2026-09-21T15:27:24+00:00",
+      "link": "https://www.rogerebert.com/reviews/the-cycle",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "697559761ade0a31",
+      "title": "Sense and Sensibility review – Daisy Edgar-Jones leads sober-minded next-gen do-over of Austen romcom",
+      "quote": "With Edgar-Jones and Esmé Creed-Miles as the Dashwood sisters, this fresh take on a beloved classic is not to be confused with Ang Lee’s There’s no reason for anyone working on a new adaptation of Jane Austen’s Sense…",
+      "publisher": "The Guardian",
+      "author": "Peter Bradshaw",
+      "date": "2026-09-21T15:00:35+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/21/sense-and-sensibility-review-romcom-austen-daisy-edgar-jones",
+      "image": "https://i.guim.co.uk/img/media/1eed5e9a0f3dee04f67119b9ba0af661f051ba8f/424_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=70d49e07473c60b2a3bb7553e89da025",
+      "category": "World Cinema"
+    },
+    {
+      "id": "e05ce74aa4a5fb00",
+      "title": "‘Sense and Sensibility’ Review: Georgia Oakley Puts a Moody, Naturalistic Spin on the Jane Austen Classic",
+      "quote": "It’s been over 30 years since Ang Lee’s “Sense and Sensibility” became (for this critic, as for many) the Platonic ideal of the Jane Austen adaptation. Lush but controlled, dryly funny (thanks to Emma Thompson’s…",
+      "publisher": "Variety",
+      "author": "Guy Lodge",
+      "date": "2026-09-21T15:00:00+00:00",
+      "link": "https://variety.com/2026/film/reviews/sense-and-sensibility-review-1236871039/",
+      "image": "https://variety.com/wp-content/uploads/2026/06/sense-sensibility.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "39137f0dc5d2339b",
+      "title": "‘Sense and Sensibility’ Review: Daisy Edgar-Jones and George MacKay Are Standouts in a Jane Austen Redo That’s Fine if Not Strictly Necessary",
+      "quote": "Georgia Oakley directs the latest version of the classic Regency romance, also starring Esmé Creed-Miles, Caitríona Balfe, Frank Dillane, Herbert Nordrum and Fiona Shaw.",
+      "publisher": "The Hollywood Reporter",
+      "author": "David Rooney",
+      "date": "2026-09-21T15:00:00+00:00",
+      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/sense-and-sensibility-review-daisy-edgar-jones-jane-austen-1236706666/",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "0cf290c89f7eeeb9",
+      "title": "Dunesday: will this be Barbenheimer on steroids – the biggest weekend of cinema ever?",
+      "quote": "Since the mammoth success of the films Barbie and Oppenheimer in 2023, Hollywood has taken to jointly marketing movies released on the same day – and December’s matchup of Dune: Part Three and Avengers: Doomsday could…",
+      "publisher": "The Guardian",
+      "author": "Guardian Staff",
+      "date": "2026-09-21T12:29:16+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/21/dunesday-barbenheimer-on-steroids-biggest-weekend-cinema-ever",
+      "image": "https://i.guim.co.uk/img/media/48244c8ac2887f3549e2cfbbf6e787ca41b2c5e6/193_0_2615_2091/master/2615.jpg?width=140&quality=85&auto=format&fit=max&s=b20ad587991a71628bf2d9f0e42be69a",
+      "category": "World Cinema"
     },
     {
       "id": "4b4ef287fda5e896",
@@ -75,17 +350,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "82c07329478637f8",
-      "title": "CNN, MS NOW And Politico To Sue Donald Trump Over His White House Ban",
-      "quote": "CNN, Politico and MS NOW are suing Donald Trump and other White House officials after the president banned him from the complex. In the lawsuit, the news outlets are asking a federal judge to immediately restore their…",
-      "publisher": "Deadline",
-      "author": "Ted Johnson",
-      "date": "2026-09-21T10:43:38+00:00",
-      "link": "https://deadline.com/2026/09/trump-sued-by-cnn-ms-now-politico-white-house-ban-1237109153/",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/GettyImages-2292883112.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "9cf6d225b7b53b06",
       "title": "The Seasons review – Portuguese pastoral offers poetic excavation of myth and mapping",
       "quote": "The rugged roads and lush vegetation of southern Portugal are showcased in this weaving-together of disparate threads of history and landscape In a sea of doomsday ecological documentaries, Maureen Fazendeiro’s pastoral…",
@@ -94,50 +358,6 @@
       "date": "2026-09-21T10:00:21+00:00",
       "link": "https://www.theguardian.com/film/2026/sep/21/the-seasons-review-portuguese-pastoral-offers-poetic-excavation-of-myth-and-mapping",
       "image": "https://i.guim.co.uk/img/media/a814667944261ee6a91d7bc3d3b0e38ce9f7cb09/0_0_1888_1512/master/1888.jpg?width=140&quality=85&auto=format&fit=max&s=a63b26a5452af658855116b6bbb9cf61",
-      "category": "World Cinema"
-    },
-    {
-      "id": "4eb0022badcb65e0",
-      "title": "Saudi Arabia’s Red Sea Film Festival Cancels 2026 Edition",
-      "quote": "Saudi Arabia’s Red Sea Film Foundation has cancelled the 2026 edition of the Red Sea International Film Festival, saying in a statement that the sixth edition had been postponed to the fourth quarter of 2027. The…",
-      "publisher": "Deadline",
-      "author": "Melanie Goodfellow",
-      "date": "2026-09-21T10:00:21+00:00",
-      "link": "https://deadline.com/2026/09/saudi-arabia-red-sea-film-festival-cancels-2026-edition-1237109142/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2251407472.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "ad809120bddccdf4",
-      "title": "BBC Drama ‘Ministry Of Time’ Adds Adeel Akhtar, Ciaran Hinds & Eight More To Cast",
-      "quote": "BAFTA winner Adeel Akhtar (Sherwood) and Academy Award nominee Ciarán Hinds (Belfast) have joined the cast of A24’s BBC drama series Ministry of Time. Also announced this morning are Hong Chau (The Whale), Tamara…",
-      "publisher": "Deadline",
-      "author": "Jesse Whittock",
-      "date": "2026-09-21T10:00:00+00:00",
-      "link": "https://deadline.com/2026/09/ministry-of-time-akhtar-ciaran-hinds-more-cast-bbc-a24-1237109124/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Ministry-of-Time-headshot-grid.jpg",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "999b444de981b3d7",
-      "title": "BBC Removes Blackface Sketches From ‘That Mitchell And Webb Look’",
-      "quote": "The BBC has cut Blackface and other sketches from That Mitchell and Webb Look after making the comedy series available on iPlayer. The British broadcaster recently reinstated That Mitchell and Webb Look online to mark…",
-      "publisher": "Deadline",
-      "author": "Jake Kanter",
-      "date": "2026-09-21T09:47:18+00:00",
-      "link": "https://deadline.com/2026/09/bbc-cut-blackface-that-mitchell-and-webb-look-1237109112/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/p0p2fnwp.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "619cec3487a593d3",
-      "title": "Eagle Eye Drama Acquires ‘The Great Dictator’, Matthew Sweet’s Biography Of Barbara Cartland",
-      "quote": "EXCLUSIVE: Eagle Eye Drama has acquired the rights to The Great Dictator, Matthew Sweet’s biography of the flamboyant and eccentric late Dame Barbara Cartland. Historian, novelist and screenwriter Sweet’s book tells the…",
-      "publisher": "Deadline",
-      "author": "Jesse Whittock",
-      "date": "2026-09-21T09:29:54+00:00",
-      "link": "https://deadline.com/2026/09/barbara-cartland-biography-tv-adaptation-eagle-eye-drama-1237109132/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/The-Great-Dictator.jpg",
       "category": "World Cinema"
     },
     {
@@ -185,17 +405,6 @@
       "category": "Indian Cinema"
     },
     {
-      "id": "17b845dabf5b0a7d",
-      "title": "5 Star Trek: Voyager Episodes With Great Space Battles",
-      "quote": "Voyager was more apt to enter a weapons-hot space battle than many other ships in Star Trek, so let's count down five great battle-centric episodes.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Witney Seibold)",
-      "date": "2026-09-21T08:10:00+00:00",
-      "link": "https://www.slashfilm.com/2259680/star-trek-voyager-episodes-great-space-battles/",
-      "image": "https://www.slashfilm.com/img/gallery/star-trek-voyager-episodes-great-space-battles/l-intro-1789734691.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "7908a9c320aa12d5",
       "title": "Rising Up at Night review – community spirit shines bright in Kinshasa’s shadows",
       "quote": "Religion and collective resilience are beacons of hope in an electricity-deprived DRC in this otherworldly documentary debut In Nelson Makengo’s feature documentary debut, night stretches on to infinity. The film opens…",
@@ -238,94 +447,6 @@
       "link": "https://www.theguardian.com/film/2026/sep/21/legend-of-the-white-dragon-review",
       "image": "https://i.guim.co.uk/img/media/7502efa0fa37b1bbc0d71215c10c24307460bf28/126_0_1600_1280/master/1600.jpg?width=140&quality=85&auto=format&fit=max&s=123ee3d7d69f283a8ae10c898837a0b3",
       "category": "World Cinema"
-    },
-    {
-      "id": "39f3e2ce78de524e",
-      "title": "Presley Gerber Dies: Model, Son Of Cindy Crawford & Rande Gerber Was 27",
-      "quote": "Presley Walker Gerber, a model and the only son of Cindy Crawford and Rande Gerber, has died. A representative for the family confirmed the news to Deadline. He was 27. A statement from the family read as follows: “The…",
-      "publisher": "Deadline",
-      "author": "Tomt",
-      "date": "2026-09-21T03:44:41+00:00",
-      "link": "https://deadline.com/2026/09/presley-gerber-dead-cindy-crawford-son-1237109082/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/presley-gerber.png",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "64a16302a1489e8f",
-      "title": "Sharon Horgan's Youth is bawdy fun for most ages",
-      "quote": "A fiftysomething mom and her teenage son both struggle to find their way in Sharon Horgan's witty and insightful new series.",
-      "publisher": "The A.V. Club",
-      "author": "Danette Chavez",
-      "date": "2026-09-21T03:00:16+00:00",
-      "link": "https://www.avclub.com/youth-premiere-recap-sharon-horgan-lockjaw-wagon-burner",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/09/21/Feat_YouthPremiere.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "b559c87dbb90aa52",
-      "title": "Paramount Settlement Talks Prospects Dim For Now As Gang Of Four AGs Resist Quick Ellison Deal",
-      "quote": "EXCLUSIVE: As Hollywood celebrates Yom Kippur tonight, a framework for a settlement of the antitrust suit hampering Paramount’s $111 billion acquisition of Warner Bros Discovery has hit some political potholes, even as…",
-      "publisher": "Deadline",
-      "author": "Dominic Patten",
-      "date": "2026-09-21T02:43:07+00:00",
-      "link": "https://deadline.com/2026/09/paramount-settlement-latest-opposition-bonta-1237109024/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Rob-Bontas-Leticia-James-and-David-Ellison.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "0968a578f86c3364",
-      "title": "Lanterns Episode 6 Features The DC Universe's First Live-Action Batman Reference",
-      "quote": "Batman has yet to make his live-action DC Universe debut, but Lanterns Episode 6 includes the first non-animated nod to the DCU's Dark Knight.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-09-21T02:30:00+00:00",
-      "link": "https://www.slashfilm.com/2262276/lanterns-episode-6-first-dc-universe-live-action-batman-reference/",
-      "image": "https://www.slashfilm.com/img/gallery/lanterns-episode-6-features-the-dc-universes-first-live-action-batman-reference/l-intro-1789742577.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "ffd2258927691c05",
-      "title": "Lanterns remains an exercise in withholding while opening itself up to the wider DC Universe",
-      "quote": "In “Bad Optics,” John and Kerry warily pick up the pieces while the show reassembles its superhero connections.",
-      "publisher": "The A.V. Club",
-      "author": "Dennis Perkins",
-      "date": "2026-09-21T02:00:16+00:00",
-      "link": "https://www.avclub.com/lanterns-recap-season-1-episode-6-bad-optics",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/09/18/MixCollage-18-Sep-2026-03-57-PM-2028.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "752b5c002d9f28fe",
-      "title": "​​Nathan Fillion's Small But Vital Return As Guy Gardner In Lanterns, Explained",
-      "quote": "Nathan Fillion's Guy Gardner doesn't seem like a character who would fit the tone of Lanterns, yet Episode 6 makes his appearance work quite nicely.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-09-21T02:00:00+00:00",
-      "link": "https://www.slashfilm.com/2262200/nathan-fillion-guy-gardner-lanterns-return-explained/",
-      "image": "https://www.slashfilm.com/img/gallery/nathan-fillions-small-but-vital-return-as-guy-gardner-in-lanterns-explained/l-intro-1789739962.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "b24ed63b5aafd41c",
-      "title": "Lee Majors' First Credited Movie Role Was In This Rarely Talked About 1968 Western",
-      "quote": "Lee Majors made his first credited movie appearance in this forgotten 1968 Western that also featured Charlton Heston and Donald Pleasence.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-09-21T00:45:00+00:00",
-      "link": "https://www.slashfilm.com/2258914/lee-majors-first-credited-movie-1968-western-will-penny/",
-      "image": "https://www.slashfilm.com/img/gallery/lee-majors-first-credited-movie-role-was-in-this-rarely-talked-about-1968-western/l-intro-1789478208.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "5c3caa36e2886666",
-      "title": "It's finally safe for Jessica Chastain's The Savant to hunt hate groups again",
-      "quote": "Apple TV decides enough time has passed since Charlie Kirk's murder to condemn white supremacists.",
-      "publisher": "The A.V. Club",
-      "author": "Dennis Perkins",
-      "date": "2026-09-20T22:36:57+00:00",
-      "link": "https://www.avclub.com/the-savant-apple-tv-jessica-chastain-finally-coming-out",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/09/20/savant-feature.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "b3e2a695a78c3fd6",
@@ -372,61 +493,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "8f8da6ede19b9b2d",
-      "title": "Channeling Mark Zuckerberg made Jeremy Strong into a jerk, unsurprisingly",
-      "quote": "Aaron Sorkin explained to the crew that the <i>Succession</i> star would \"treat you the way he imagines Mark treats the people around him.\"",
-      "publisher": "The A.V. Club",
-      "author": "Dennis Perkins",
-      "date": "2026-09-20T18:21:19+00:00",
-      "link": "https://www.avclub.com/jeremy-strong-the-social-reckoning-method-aaron-sorkin",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/09/20/strong-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "9a7a809120a581cb",
-      "title": "Henry Winkler was too cool for the original Scream poster",
-      "quote": "The <i>Barry</i> star says the ghost of The Fonz cost him visibility for his role in Wes Craven's 1996 slasher classic.",
-      "publisher": "The A.V. Club",
-      "author": "Dennis Perkins",
-      "date": "2026-09-20T17:33:10+00:00",
-      "link": "https://www.avclub.com/henry-winkler-scream-the-fonz",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/09/20/winkler-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "1d4c34e52a8a461d",
-      "title": "My Brother's Wedding, an early classic from a Black cinema pioneer, gets a second life",
-      "quote": "Charles Burnett talks about My Brother's Wedding, his long-languishing follow-up to Killer Of Sheep, as it finds its way to the big screen.",
-      "publisher": "The A.V. Club",
-      "author": "Monica Castillo",
-      "date": "2026-09-20T17:00:05+00:00",
-      "link": "https://www.avclub.com/my-brothers-wedding-4k-restoration-charles-burnett-interview",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/09/18/my-brothers-wedding-header.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "9abde159d97c6133",
-      "title": "Surprisingly, Amazon chooses the latter, cancels hit series Ride Or Die",
-      "quote": "The Hannah Waddingham-Octavia Spencer assassin buddy dramedy scored with both critics and viewers in its first season.",
-      "publisher": "The A.V. Club",
-      "author": "Dennis Perkins",
-      "date": "2026-09-20T16:06:59+00:00",
-      "link": "https://www.avclub.com/ride-or-die-waddingham-spencer-cancelled",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/09/20/ride-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "eb22f3f3c4ae87d4",
-      "title": "Ed Sheeran tries to both-sides his apology for dropping Macklemore",
-      "quote": "The singer prefaced his first show since dropping his opening act by saying not very much.",
-      "publisher": "The A.V. Club",
-      "author": "Dennis Perkins",
-      "date": "2026-09-20T15:06:31+00:00",
-      "link": "https://www.avclub.com/sheeran-apologizes-macklemore-philadelphia",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/09/20/sheeran-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "f65d7ea6f4b19f05",
       "title": "Censor exemption transforms from a routine process to a roadblock for film festivals and filmmakers",
       "quote": "The upcoming International Documentary and Short Film Festival of Kerala faces the prospect of not screening as many as 31 films that were denied exemption mainly due to their political content",
@@ -460,17 +526,6 @@
       "category": "Indian Cinema"
     },
     {
-      "id": "00fd677ceb357304",
-      "title": "‘Resident Evil movies? I’ve never seen one’: Weapons director Zach Cregger on resurrecting the beloved zombie franchise",
-      "quote": "Raised on punk, alt-comedy and the church, Cregger’s Lynchian approach to horror is anything but typical. After two wildly original hits, his pivot to a 30-year-old video game has caused a storm among protective fans…",
-      "publisher": "The Guardian",
-      "author": "Ellen E Jones",
-      "date": "2026-09-20T09:00:12+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/20/zach-cregger-director-interview-resident-movie-evil-weapons-barbarian",
-      "image": "https://i.guim.co.uk/img/media/343bc2c556eb8bc6407d9ad6e0bab21b6151f565/232_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=4bf1d6bce52fff5831f37d6f1500eb3b",
-      "category": "Festival Winners"
-    },
-    {
       "id": "3bcac1b9f13a00a1",
       "title": "Shalini Adnani’s ‘Our Share of Sand’: Inside the Indian sand-mining story heading to Venice",
       "quote": "Ahead of the world premiere of ‘Our Share of Sand’ at Venice Critics’ Week, the Chilean-Indian filmmaker discusses growing up between two cultures, the human cost of India’s development boom and the moral compromises…",
@@ -479,17 +534,6 @@
       "date": "2026-09-20T08:07:28+00:00",
       "link": "https://www.thehindu.com/entertainment/movies/shalini-adnanis-our-share-of-sand-inside-the-indian-sand-mining-story-heading-to-venice/article71383898.ece",
       "image": "https://th-i.thgim.com/public/entertainment/movies/pp1cu7/article71383925.ece/alternates/LANDSCAPE_1200/Copy%20of%20G2%20Cover.jpg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "ebfdb38156810f24",
-      "title": "Rajinikanth’s ‘Jailer 2’ makers unveil SJ Suryah and Suraj Venjaramoodu’s characters",
-      "quote": "Directed by Nelson, 'Jailer 2’ is set to release in theatres on October 15",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-20T07:51:41+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/rajinikanth-jailer-2-nelson-sj-suryah-suraj-venjaramoodu-anirudh-ravichander-sun-pictures/article71487324.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/lpavki/article71487336.ece/alternates/LANDSCAPE_1200/SJ%20Suryah%20Jailer%202.png",
       "category": "Indian Cinema"
     },
     {
@@ -559,17 +603,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "e5a737e4c94b5044",
-      "title": "John Wilson on his unlikely concrete movie: ‘There might be a kind of sickness in shooting things this way’",
-      "quote": "The creator of How To with John Wilson has returned with his first film, a documentary about how to sell a documentary about concrete As mayor of New York City, Zohran Mamdani has frequently demonstrated impressive…",
-      "publisher": "The Guardian",
-      "author": "Adrian Horton",
-      "date": "2026-09-19T09:00:42+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/19/john-wilson-concrete-documentary-movie",
-      "image": "https://i.guim.co.uk/img/media/b6e284cc48795545df1e01b109d872e662892ab4/581_0_2697_2160/master/2697.jpg?width=140&quality=85&auto=format&fit=max&s=e048817fc5dca70ebd439bc3cb05aaf6",
-      "category": "Festival Winners"
-    },
-    {
       "id": "3ebc90e4e2263693",
       "title": "‘Murderous’ Review: Neil LaBute’s New Film Is Undone by Its Overly Familiar Premise and Obvious Plot Machinations",
       "quote": "A successful filmmaker receives an unwelcome visit from a former collaborator in this thriller receiving its world premiere at the Oldenburg International Film Festival.",
@@ -589,17 +622,6 @@
       "date": "2026-09-19T02:08:26+00:00",
       "link": "https://www.hollywoodreporter.com/lists/best-films-fall-festivals-2026-venice-toronto-telluride/",
       "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "f7d40b214d802a6c",
-      "title": "‘Darlene Love: I Know Where I’ve Been’ Review: A Stirring Pop Doc Traces How the Great Singer of ‘He’s a Rebel’ and Other Classics Reclaimed Her Name",
-      "quote": "\"Darlene Love: I Know Where I’ve Been\" tracks the unique fusion of glory, injustice, fleeting opportunity, dashed dreams, resilience, and latter-day recognition that defines her story. The movie, like Love’s life and…",
-      "publisher": "Variety",
-      "author": "Owen Gleiberman",
-      "date": "2026-09-19T02:02:24+00:00",
-      "link": "https://variety.com/2026/film/reviews/darlene-love-i-know-where-ive-been-review-1236865848/",
-      "image": "https://variety.com/wp-content/uploads/2026/09/Darlene-Love-I-Know-Where-I-ve-Been_Still_02.jpg",
       "category": "World Cinema"
     },
     {
@@ -680,17 +702,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "ff246adc4776aa35",
-      "title": "Without Blood",
-      "quote": "A meditation on violence, grief, memory, trauma, and locating the line between justice and revenge.",
-      "publisher": "RogerEbert.com",
-      "author": "Nell Minow",
-      "date": "2026-09-18T13:00:00+00:00",
-      "link": "https://www.rogerebert.com/reviews/without-blood-salma-hayek-angelina-jolie-movie-review-2026",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
       "id": "c3797a4e5cdb31bc",
       "title": "10 of the best TV shows to watch this October",
       "quote": "From adaptations of East of Eden and Carrie to a new serial killer thriller",
@@ -709,17 +720,6 @@
       "author": "David Rooney",
       "date": "2026-09-18T04:05:14+00:00",
       "link": "https://www.hollywoodreporter.com/movies/movie-reviews/bad-lieutenant-tokyo-review-shun-oguri-lily-james-1236705118/",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "9bce9666af45b73f",
-      "title": "‘Strange Neighbors’ Review: A Pretty but Familiar-Feeling Environmental Doc Portrays Natural Beauty Jostled by Man-Made Ugliness",
-      "quote": "Mi Steinbach's Oldenburg Fest world premiere examines the disparity between the wildlife on a small island and the factories, ships, and refineries closely adjacent to it.",
-      "publisher": "The Hollywood Reporter",
-      "author": "Frank Scheck",
-      "date": "2026-09-17T18:18:15+00:00",
-      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/strange-neighbors-review-oldenburg-1236704521/",
       "image": null,
       "category": "World Cinema"
     },
