@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T04:27:26.352251+00:00",
+  "generated_at": "2026-09-22T11:21:48.839343+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -8,6 +8,171 @@
     "Indie Gems"
   ],
   "reviews": [
+    {
+      "id": "9ebcdbf71e7dc119",
+      "title": "Eight homes for wildlife around the world",
+      "quote": "From a bat refuge in the UK countryside to a multi-species home in the Catskills",
+      "publisher": "BBC Culture",
+      "author": null,
+      "date": "2026-09-22T11:00:00+00:00",
+      "link": "https://www.bbc.com/culture/article/20260918-eight-ingenious-homes-for-wildlife-around-the-world?ocid=global_culture_rss",
+      "image": "https://ychef.files.bbci.co.uk/144x81/p0pbbfbj.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "3cd0c6cf005f94fa",
+      "title": "‘Gangs Of London’ Producers Suing Vice, Claiming They Are Owed $20M From Sale Of Pulse Films",
+      "quote": "EXCLUSIVE: Thomas Benski and Marisa Clifford, founders of Gangs of London producer Pulse Films, are suing Vice Media, claiming they are owed more than $20 million. Vice took a majority stake in Pulse Films in 2016…",
+      "publisher": "Deadline",
+      "author": "Jake Kanter",
+      "date": "2026-09-22T10:38:19+00:00",
+      "link": "https://deadline.com/2026/09/gangs-of-london-producers-sue-vice-media-1237109903/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/GANGS20OF20LONDON20S32027092420SeriesPreview_01_GOL_S02-copy.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "43999344f0f4188a",
+      "title": "‘Prima Facie’ Trailer: ‘Wicked’ Actress Cynthia Erivo Stars As Hotshot Lawyer In Adaptation Of Hit Stage Play",
+      "quote": "Sony Pictures has dropped the official trailer for Prima Facie starring Wicked Oscar-nominated actress Cynthia Erivo as hotshot young barrister Tessa whose personal life and career unravel after she is brutally sexually…",
+      "publisher": "Deadline",
+      "author": "Melanie Goodfellow",
+      "date": "2026-09-22T10:32:46+00:00",
+      "link": "https://deadline.com/2026/09/prima-facie-trailer-wicked-actress-cynthia-erivo-lawyer-1237109914/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Prima-Facie.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "93e817b76c150590",
+      "title": "Oscars 2027: Is ‘La Bola Negra’ the biggest threat to ‘The Odyssey’ for Best Picture?",
+      "quote": "Javier Calvo and Javier Ambrossi’s ‘La Bola Negra’ has added the TIFF People’s Choice Award to its Cannes Best Director prize and Spain’s official Oscar submission, giving the Netflix film one of the strongest early…",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-22T10:17:33+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/oscars-2027-is-la-bola-negra-the-biggest-threat-to-the-odyssey-for-best-picture/article71494635.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/ryoxgk/article71494631.ece/alternates/LANDSCAPE_1200/HLljMVeWUAABlbN.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "115ec6ceb6497a7b",
+      "title": "Heresy review – feminist folk horror summons something scary in the woods with supply of fresh blood",
+      "quote": "A childless woman flees into the forest and emerges with a swollen belly in director Didier Konings’ short, sharp fable Before fertility tourism, the only option for your average medieval serf struggling to conceive was…",
+      "publisher": "The Guardian",
+      "author": "Phil Hoad",
+      "date": "2026-09-22T10:00:53+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/22/heresy-review-feminist-folk-horror-summons-something-scary-in-the-woods-with-supply-of-fresh-blood",
+      "image": "https://i.guim.co.uk/img/media/68fc534ef382e5d5799ec54e55e8cd64fbb6cf28/285_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=9744f0544c97dacec73e5d2ff7d1f2dc",
+      "category": "World Cinema"
+    },
+    {
+      "id": "f93f6aaeb01ebe02",
+      "title": "‘The Gentlemen’ Star Chanel Cresswell Boards Netflix’s ‘The Lords’ Day’",
+      "quote": "EXCLUSIVE: Chanel Cresswell, star of This is England and The Gentlemen, has boarded Netflix’s upcoming series The Lords’ Day. The BAFTA-winning star will play an as-yet-unrevealed role in the high-stakes political…",
+      "publisher": "Deadline",
+      "author": "Max Goldbart",
+      "date": "2026-09-22T09:33:30+00:00",
+      "link": "https://deadline.com/2026/09/the-lords-day-chanel-cresswell-netflix-damson-idris-1237109907/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/split-single-1000x667-4.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "62cc36b71db2cbb5",
+      "title": "Lili Reinhart and Tom Bateman interview: On ‘The Love Hypothesis’ and the science of romance",
+      "quote": "Lili Reinhart and Tom Bateman talk about the rom-com adaptation of Ali Hazelwood’s bestselling novel, and bringing Olive and Adam’s grumpy-meets-sunshine romance to the big screen",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-22T09:13:25+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/lili-reinhart-and-tom-bateman-interview-on-the-love-hypothesis-and-the-science-of-romance/article71494434.ece",
+      "image": "https://th-i.thgim.com/public/life-and-style/5mdjgx/article71494411.ece/alternates/LANDSCAPE_1200/LVHY_2026_UT_250728_BOSPHI_04142RC_1_3000.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "8aa223b94c9c2aaf",
+      "title": "Piers Morgan To Sue Princess Diana’s Brother Over “Bulls***” Claims In His Bombshell Memoir: “Why Should We Believe Anything In This Book?”",
+      "quote": "Piers Morgan is on the warpath over Swan Song, the bombshell memoir from Charles Spencer, brother of the late Princess Diana. Spencer’s book has dominated the headlines in the UK for days following his explosive…",
+      "publisher": "Deadline",
+      "author": "Jake Kanter",
+      "date": "2026-09-22T08:53:23+00:00",
+      "link": "https://deadline.com/2026/09/piers-morgan-charles-spencer-diana-sue-book-swan-song-1237109893/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2152059641-copy.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "73dd8d5632502a85",
+      "title": "David Tennant Starred In One Of The Worst HBO Miniseries Ever",
+      "quote": "HBO has a long tradition of quality miniseries and high-profile, short-lived TV productions. This show starring David Tennant isn't one of them.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Witney Seibold)",
+      "date": "2026-09-22T08:10:00+00:00",
+      "link": "https://www.slashfilm.com/2262737/david-tennant-worst-hbo-miniseries-ever-camping/",
+      "image": "https://www.slashfilm.com/img/gallery/david-tennant-starred-in-one-of-the-worst-hbo-miniseries-ever/l-intro-1789757086.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "ff4f4be3d7c65ac1",
+      "title": "Brixton Community Cinema Creator Abiba Coulibaly On Why She Decided To End The Popular London Film Club",
+      "quote": "Next month, the Brixton Community Cinema, the roving cinema project that has quickly become one of the UK’s most admired film communities under the stewardship of independent programmer Abiba Coulibaly, will close…",
+      "publisher": "Deadline",
+      "author": "Zac Ntim",
+      "date": "2026-09-22T08:02:56+00:00",
+      "link": "https://deadline.com/2026/09/brixton-community-cinema-abiba-coulibaly-final-season-1237109180/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/45520038-1.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "9d62613b6abdf16d",
+      "title": "Shadows of Beirut review – chaos and crisis as woman goes back to birth city in fractured Covid-era drama",
+      "quote": "A London-dwelling émigrée goes back to Lebanon to see her dying father in this somewhat overwrought film examining a difficult childhood This somewhat overwrought drama was apparently shot during the Covid-19 pandemic…",
+      "publisher": "The Guardian",
+      "author": "Leslie Felperin",
+      "date": "2026-09-22T08:00:39+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/22/shadows-of-beirut-review-chaos-and-crisis-as-woman-goes-back-to-birth-city-in-fractured-covid-era-drama",
+      "image": "https://i.guim.co.uk/img/media/ce03afe7644b58c7a89435f7290788df2e86b50b/457_0_1006_805/master/1006.jpg?width=140&quality=85&auto=format&fit=max&s=a180b4899e3fab62784830d6ac7e31ec",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "4b16cfa6b9c23de3",
+      "title": "Brigitte Bardot’s personal items sell for nearly €1m at auction in Paris",
+      "quote": "Dog collars, guitars and self-portraits among 285 objects, with money going to her animal welfare foundation and son An auction of the French film star turned animal rights activist Brigitte Bardot’s personal items has…",
+      "publisher": "The Guardian",
+      "author": "Guardian staff and Agence France-Presse",
+      "date": "2026-09-22T07:14:05+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/22/brigitte-bardot-auction-paris-animal-welfare",
+      "image": "https://i.guim.co.uk/img/media/b787d43d8f92582cf86594df3ca90ebcd51253d4/240_0_2572_2057/master/2572.jpg?width=140&quality=85&auto=format&fit=max&s=adf8a161c1750f07d38a9d4fc8975654",
+      "category": "World Cinema"
+    },
+    {
+      "id": "9593fc30f505c822",
+      "title": "Babystar review – a new arrival upends camera-ready life in disturbing family influencer satire",
+      "quote": "Every ethical issue surrounding parents vlogging their kids’ childhoods for money is raised in Joscha Bongard’s debut, but it releases the dysfunctional tension too easily When teenager Luca (Maja Bons) wants to watch…",
+      "publisher": "The Guardian",
+      "author": "Cath Clarke",
+      "date": "2026-09-22T06:00:38+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/22/babystar-review-a-new-arrival-upends-camera-ready-life-in-disturbing-family-influencer-satire",
+      "image": "https://i.guim.co.uk/img/media/9df5577203b29df4ceaec13a14e9dcc171ccaff5/1927_492_3161_2530/master/3161.jpg?width=140&quality=85&auto=format&fit=max&s=fbfd62932dce91a4a9d869ef1c891d2b",
+      "category": "World Cinema"
+    },
+    {
+      "id": "cce2ba7a16a4d005",
+      "title": "‘Addiction is not only caused by weak will’: how a talking pigeon got Czechia to face up to its alcohol problem",
+      "quote": "Director Pepa Lubojacki’s heartbreaking film chronicles the lives of her brother as he struggles with drink and homelessness – and her own shame in the face of societal prejudice Czech film-maker Pepa Lubojacki…",
+      "publisher": "The Guardian",
+      "author": "Miloš Hroch",
+      "date": "2026-09-22T06:00:37+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/22/czech-documentary-homelessness-pepa-lubojacki-if-pigeons-turned-to-gold",
+      "image": "https://i.guim.co.uk/img/media/19b8c0ab6ad2320c83e1d86531b6399010ef8590/490_0_2578_2065/master/2578.jpg?width=140&quality=85&auto=format&fit=max&s=2a128028e7e66d87cc83f7ad7b81ed60",
+      "category": "World Cinema"
+    },
+    {
+      "id": "6fc58776c9e8e10c",
+      "title": "‘The Further Mis-adventures of Cliff Booth’ trailer: Brad Pitt returns as Tarantino’s stuntman in David Fincher’s Hollywood crime story",
+      "quote": "Brad Pitt reprises his Oscar-winning role as Cliff Booth in David Fincher’s Quentin Tarantino-penned follow-up to ‘Once Upon a Time in Hollywood’, set eight years after the events of the 2019 film",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-22T05:23:33+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/the-further-mis-adventures-of-cliff-booth-trailer-brad-pitt-returns-as-tarantinos-stuntman-in-david-finchers-hollywood-crime-story/article71494259.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/yisngt/article71494257.ece/alternates/LANDSCAPE_1200/full-trailer-the-further-misadventures-of-cliff-booth.jpg",
+      "category": "Festival Winners"
+    },
     {
       "id": "3ff008221aa11e68",
       "title": "Muse Entertainment Unveils ‘Doula: A True Crime’ Trailer As Boat Rocker Studios Boards CBC Doc",
@@ -42,28 +207,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "a80b0a1bbfbda068",
-      "title": "Post-Merger Paramount May Overdeliver On Settlement Terms With 36-Film 2027 Slate Amid Speculation About Duplication & WB Leadership",
-      "quote": "California Attorney General Rob Bonta can rest easy: A merged Paramount Warner Bros. Discovery would already account for 36 movies on the release schedule for 2027. Note, that’s an organic number of theatrical releases…",
-      "publisher": "Deadline",
-      "author": "Anthonypauldalessandro",
-      "date": "2026-09-22T02:17:49+00:00",
-      "link": "https://deadline.com/2026/09/paramount-deal-36-film-movie-slate-1237109549/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/mcdmimo-wb041-mcdqupl-pa019-mcdsoth-pa042-mcdsupe-wb040-mcdq-1000x667-1.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "48662e8cb44da179",
-      "title": "Oscar Winner Barbara Kopple On ‘Union Town,’ Her Third Towering Film On American Labor – Camden Film Festival",
-      "quote": "Fifty years ago, a young director named Barbara Kopple came out with her first film, a documentary she thought would be little seen. “When I started making the film, I thought, ‘Oh, my parents will see it and their…",
-      "publisher": "Deadline",
-      "author": "Matthew Carey",
-      "date": "2026-09-22T00:50:50+00:00",
-      "link": "https://deadline.com/2026/09/union-town-interview-director-barbara-kopple-1237109699/",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Union-Town-courtesy-Venice-Film-Festival.png",
-      "category": "Festival Winners"
-    },
-    {
       "id": "c416e1c83cfc870d",
       "title": "A Harry Potter Star's Short-Lived Fantasy Series Is A Must-Watch Gem On Prime Video",
       "quote": "Jason Isaacs, who played Lucius Malfoy in the Harry Potter films, was the star of a one-season NBC show that deserves another look.",
@@ -75,37 +218,26 @@
       "category": "Indie Gems"
     },
     {
-      "id": "d8564b7b64f5ebdf",
-      "title": "Paramount Settlement Protects Pluto TV, Sets BET & Comedy Central As Potential Divesture Targets While Omitting Premium Channels & TV Studios",
-      "quote": "Here is a concession no one really asked for — the settlement of state attorneys generals’ anti-trust lawsuit over the proposed Paramount-Warner Bros. Discovery merger includes a provision ensuring that Paramount will…",
-      "publisher": "Deadline",
-      "author": "Nellie Andreeva",
-      "date": "2026-09-22T00:27:15+00:00",
-      "link": "https://deadline.com/2026/09/paramount-settlement-pluto-tv-bet-comedy-central-divesture-1237109340/",
-      "image": "https://deadline.com/wp-content/uploads/2022/12/GettyImages-1235079819.jpg",
-      "category": "World Cinema"
+      "id": "fc7eb070aaaab94f",
+      "title": "Dave Filoni is doubling down on Clone Wars lore for Ahsoka season two",
+      "quote": "Ahead of Ahsoka's return, the president of Star Wars has begun teasing the entrance of Clone Wars' Mortis Gods.",
+      "publisher": "The A.V. Club",
+      "author": "Matt Schimkowitz",
+      "date": "2026-09-22T00:24:54+00:00",
+      "link": "https://www.avclub.com/mortis-gods-coming-to-star-wars-ahsoka",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/09/22/ahsoka-mortis-gods-feature.jpg",
+      "category": "Indie Gems"
     },
     {
-      "id": "663ec7674870da8b",
-      "title": "‘Forgotten Island’ Review: H.E.R. And Dave Franco Give Life To Gorgeously Animated And Frenetic ‘Toon",
-      "quote": "You have to give points to DreamWorks’ latest animated feature, Forgotten Island, just simply for being an original from a studio system that rewards familiarity. And it comes from writer/directors Joel Crawford and…",
-      "publisher": "Deadline",
-      "author": "Pete Hammond",
-      "date": "2026-09-21T23:05:58+00:00",
-      "link": "https://deadline.com/2026/09/forgotten-island-review-h-e-r-and-dave-franco-frentetic-toon-1237109630/",
-      "image": "https://deadline.com/wp-content/uploads/2026/06/Forgotten-Island.jpeg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "7ff7eb715ae19cd0",
-      "title": "Top UK YouTubers Launch Alliance Pushing For Better Conditions For Content Creators",
-      "quote": "Top UK creators have banded together to launch an independent alliance championing their interests. YouTube UK is backing Creator Voices, which consists of The Sidemen’s rep Jordan Schwarzenberger, DamienTalksMoney…",
-      "publisher": "Deadline",
-      "author": "Max Goldbart",
-      "date": "2026-09-21T23:01:00+00:00",
-      "link": "https://deadline.com/2026/09/youtubers-inc-sidemen-rep-launch-creator-voices-uk-1237107549/",
-      "image": "https://deadline.com/wp-content/uploads/2024/11/INSIDE-S2-The-Sidemen.jpg",
-      "category": "World Cinema"
+      "id": "eeab3d80af79e36e",
+      "title": "Daredevil: Born Again to die again after season three",
+      "quote": "Matt Murdock's Disney+, Daredevil: Born Again, revival joins Wonder Man in the great streaming carousel in the sky.",
+      "publisher": "The A.V. Club",
+      "author": "Matt Schimkowitz",
+      "date": "2026-09-21T22:23:58+00:00",
+      "link": "https://www.avclub.com/daredevil-born-again-ends-season-three-marvel-disney",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/09/21/daredevil-born-again-feature.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "a1f5187cbf24c831",
@@ -229,17 +361,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "53442596195ef48c",
-      "title": "Lioness Season 3 Ends On A Major Cliffhanger That Brings Back An Old Enemy",
-      "quote": "At this exact moment, Lioness hasn't been renewed for Season 4, but we hope it will be, because Season 3 ended with a pretty big cliffhanger.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-09-21T18:25:29+00:00",
-      "link": "https://www.slashfilm.com/2264471/lioness-season-3-cliffhanger-aaliyah-return/",
-      "image": "https://www.slashfilm.com/img/gallery/lioness-season-3-ends-on-a-major-cliffhanger-that-brings-back-an-old-enemy/l-intro-1790015078.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "a0650b549cf2b34d",
       "title": "Paramount reaches deal with states to settle their case challenging Warner buyout, AP source say",
       "quote": "‘Today, billionaires have yet again bribed, censored, and bullied their way to the top,’ Alvaro Bedoya, senior adviser at the American Economic Liberties Project and former FTC commissioner, said in a statement",
@@ -259,28 +380,6 @@
       "date": "2026-09-21T18:00:12+00:00",
       "link": "https://www.avclub.com/spoiler-space-resident-evil-ending-reboot-franchise-sequels-secret-prequel",
       "image": "https://www.avclub.com/wp-content/uploads/2026/09/17/resident-evil-header-2.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "55b9b7120bfa0976",
-      "title": "Jeremy Saulnier welcomes fall with cryptic, unsettling Slayground trailer",
-      "quote": "Director Jeremy Saulnier’s return to horror looks like a scary-good time.",
-      "publisher": "The A.V. Club",
-      "author": "Olivia Singh",
-      "date": "2026-09-21T17:55:41+00:00",
-      "link": "https://www.avclub.com/slayground-teaser-trailer-jeremy-saulnier",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/09/21/slayground-teaser-trailer-featured-1.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "0feadb24993068ab",
-      "title": "Martin Mull's famous friends introduce a charmed career in the trailer for Who Is Martin Mull?",
-      "quote": "Netflix's documentary about Hollywood Renaissance man Martin Mull arrives this October.",
-      "publisher": "The A.V. Club",
-      "author": "Matt Schimkowitz",
-      "date": "2026-09-21T17:36:36+00:00",
-      "link": "https://www.avclub.com/who-is-martin-mull-trailer",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/09/21/who-is-martin-mull-feature.jpg",
       "category": "Indie Gems"
     },
     {
@@ -361,17 +460,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "1931c3fbe50a2dd5",
-      "title": "Heart of the action: why organ couriers are cinema’s new heroes",
-      "quote": "Whether its a nod to frontline Covid heroes or a return to biology in a world of digital noise, there’s a rich vein of new films featuring organ deliveries, including Runner and the latest Resident Evil Hollywood loves…",
-      "publisher": "The Guardian",
-      "author": "Jonathan Wells",
-      "date": "2026-09-21T09:23:34+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/21/human-organ-couriers-action-heroes-resident-evil-runner",
-      "image": "https://i.guim.co.uk/img/media/95b6d4be459953daf2ed99921d25047e31586216/231_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=6ae63189cca2a9626f8607ba13dae1b7",
-      "category": "World Cinema"
-    },
-    {
       "id": "dfb8627aa2d29772",
       "title": "‘Kamathipura Express,’ starring Vipin Sharma, wins 2026 Bronze Student Academy Award",
       "quote": "A Warsaw Film School production directed by Leon Korzyński, the film is now eligible for consideration in the Live Action Short Film category at the 99th Academy Awards",
@@ -383,17 +471,6 @@
       "category": "Festival Winners"
     },
     {
-      "id": "f580ea913f4b1928",
-      "title": "‘Still feel a jolt of joy’: why Dirty Dancing is my feelgood movie",
-      "quote": "The latest in our ongoing series of writers highlighting their most rewatched comfort films remembers a 1987 teenage girl classic There is probably a Swedish word for the emotional state engendered in me by Dirty…",
-      "publisher": "The Guardian",
-      "author": "Hannah Marriott",
-      "date": "2026-09-21T09:00:20+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/21/dirty-dancing-feelgood-movie",
-      "image": "https://i.guim.co.uk/img/media/01f054f1e5949eba44438f8028124ae64600f89e/129_0_1919_1536/master/1919.jpg?width=140&quality=85&auto=format&fit=max&s=cdde61bd99bd2579b8e186d097544b81",
-      "category": "World Cinema"
-    },
-    {
       "id": "afbb842f7bf6c376",
       "title": "Actor-producer Unni Mukundan joins hands with Panaroma Studios for his 50th film",
       "quote": "Unni Mukundan takes on the role of writer-director for the action thriller film, set to release on a pan-Indian canvas",
@@ -403,17 +480,6 @@
       "link": "https://www.thehindu.com/entertainment/movies/unni-mukundan-joins-hands-with-panaroma-studios-for-his-50th-film/article71490606.ece",
       "image": "https://th-i.thgim.com/public/life-and-style/wbrbl2/article71490640.ece/alternates/LANDSCAPE_1200/Unni%20Mukundan.jpeg",
       "category": "Indian Cinema"
-    },
-    {
-      "id": "7908a9c320aa12d5",
-      "title": "Rising Up at Night review – community spirit shines bright in Kinshasa’s shadows",
-      "quote": "Religion and collective resilience are beacons of hope in an electricity-deprived DRC in this otherworldly documentary debut In Nelson Makengo’s feature documentary debut, night stretches on to infinity. The film opens…",
-      "publisher": "The Guardian",
-      "author": "Phuong Le",
-      "date": "2026-09-21T08:05:16+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/21/rising-up-at-night-review",
-      "image": "https://i.guim.co.uk/img/media/26c2ad565cce5a744e069241d936a1261f2cc1ea/198_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=28b6745d1f595e3d5aa2c484e306027b",
-      "category": "World Cinema"
     },
     {
       "id": "d2969b6624cb0df0",
@@ -436,17 +502,6 @@
       "link": "https://www.thehindu.com/entertainment/movies/rampaw-founder-rameshwar-nath-kao-dharma-productions-leo-media-collective/article71490478.ece",
       "image": "https://th-i.thgim.com/public/entertainment/movies/1346ps/article71490487.ece/alternates/LANDSCAPE_1200/Rameshwar%20Nath%20Kao.jpeg",
       "category": "Indian Cinema"
-    },
-    {
-      "id": "7c7b88ab8bc03f97",
-      "title": "Legend of the White Dragon review – Power Rangers alumni back for more in low-budget superhero retread",
-      "quote": "Simple but emphatic martial arts and a couple of classy cameos are all that give this blandly modern action film a fighting chance Despite featuring a clutch of Power Rangers graduates, including Jason David Frank , who…",
-      "publisher": "The Guardian",
-      "author": "Phil Hoad",
-      "date": "2026-09-21T06:00:38+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/21/legend-of-the-white-dragon-review",
-      "image": "https://i.guim.co.uk/img/media/7502efa0fa37b1bbc0d71215c10c24307460bf28/126_0_1600_1280/master/1600.jpg?width=140&quality=85&auto=format&fit=max&s=123ee3d7d69f283a8ae10c898837a0b3",
-      "category": "World Cinema"
     },
     {
       "id": "b3e2a695a78c3fd6",
@@ -493,17 +548,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "f65d7ea6f4b19f05",
-      "title": "Censor exemption transforms from a routine process to a roadblock for film festivals and filmmakers",
-      "quote": "The upcoming International Documentary and Short Film Festival of Kerala faces the prospect of not screening as many as 31 films that were denied exemption mainly due to their political content",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-20T14:54:59+00:00",
-      "link": "https://www.thehindu.com/news/national/kerala/censor-exemption-transforms-from-a-routine-process-to-a-roadblock-for-film-festivals-and-filmmakers/article71488261.ece",
-      "image": "https://th-i.thgim.com/public/news/national/kerala/fl8o95/article71488248.ece/alternates/LANDSCAPE_1200/IDSFFK%20LOGO%20PRIMARY.png",
-      "category": "Indian Cinema"
-    },
-    {
       "id": "79ac0c592535c96f",
       "title": "‘Forgotten Island’ Review: Dreamworks Animation’s Latest Celebrates Filipino Folklore With Dazzling Wit and Imagination",
       "quote": "The voice cast for this tale of friendship, heritage and growing up includes H.E.R., Dave Franco, Liza Soberano, Jenny Slate, Manny Jacinto, Dolly de Leon and Jo Koy.",
@@ -513,28 +557,6 @@
       "link": "https://www.hollywoodreporter.com/movies/movie-reviews/forgotten-island-review-dreamworks-animation-1236706120/",
       "image": null,
       "category": "World Cinema"
-    },
-    {
-      "id": "e36d152bbcf5b295",
-      "title": "‘Slow Horses’ Season 6 review: Another impeccable season of Britain’s finest caught with its trousers down",
-      "quote": "With Gary Oldman and Jack Lowden leading the charge, ‘Slow Horses’ remains television’s most endlessly entertaining case study in British competence, or the conspicuous lack thereof",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-20T10:39:25+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/slow-horses-season-6-review-another-impeccable-season-of-britains-finest-caught-with-its-trousers-down/article71487589.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/zg1y1w/article71487595.ece/alternates/LANDSCAPE_1200/Slow_Horses_Photo_060102.jpg.photo_modal_show_home_large.jpg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "3bcac1b9f13a00a1",
-      "title": "Shalini Adnani’s ‘Our Share of Sand’: Inside the Indian sand-mining story heading to Venice",
-      "quote": "Ahead of the world premiere of ‘Our Share of Sand’ at Venice Critics’ Week, the Chilean-Indian filmmaker discusses growing up between two cultures, the human cost of India’s development boom and the moral compromises…",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-20T08:07:28+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/shalini-adnanis-our-share-of-sand-inside-the-indian-sand-mining-story-heading-to-venice/article71383898.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/pp1cu7/article71383925.ece/alternates/LANDSCAPE_1200/Copy%20of%20G2%20Cover.jpg",
-      "category": "Indian Cinema"
     },
     {
       "id": "b8c25a3e42c5120c",
@@ -724,17 +746,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "b31e4f33da1f81a8",
-      "title": "Queen at Sea review – crushingly sad dementia drama offers a startling portrait of intimacy",
-      "quote": "Driven by fine performances from Tom Courtenay and Anna Calder-Marshall, Lance Hammer’s comeback is unbearable in its tragic candour and essential in its moral questioning This inexpressibly painful and sad story –…",
-      "publisher": "The Guardian",
-      "author": "Peter Bradshaw",
-      "date": "2026-09-17T13:05:02+00:00",
-      "link": "https://www.theguardian.com/film/2026/feb/18/queen-at-sea-review-crushingly-sad-dementia-drama-offers-a-startling-portrait-of-intimacy",
-      "image": "https://i.guim.co.uk/img/media/0ae9b3ec0d5c5dc0d5129a1b8b2c8d9147261f63/667_0_2698_2160/master/2698.jpg?width=140&quality=85&auto=format&fit=max&s=c03f61428367f0d9181943656a66b13d",
-      "category": "Festival Winners"
-    },
-    {
       "id": "8120080ac0555ae6",
       "title": "The secret life of outrageous showman Liberace",
       "quote": "The glitzy pianist was dismissed as a \"vulgar joke\" in his lifetime",
@@ -788,17 +799,6 @@
       "link": "https://www.bbc.com/culture/article/20260911-six-of-the-best-oscar-contenders-from-the-2026-venice-film-festival?ocid=global_culture_rss",
       "image": "https://ychef.files.bbci.co.uk/144x81/p0p95nmz.jpg",
       "category": "Festival Winners"
-    },
-    {
-      "id": "9ea938667298bcb7",
-      "title": "The extraordinary story of author Barbara Cartland",
-      "quote": "Why has the UK's master of romantic fiction disappeared from memory?",
-      "publisher": "BBC Culture",
-      "author": null,
-      "date": "2026-09-11T11:00:00+00:00",
-      "link": "https://www.bbc.com/culture/article/20260910-the-extraordinary-story-of-barbara-cartland-the-forgotten-billions-selling-romance-author?ocid=global_culture_rss",
-      "image": "https://ychef.files.bbci.co.uk/144x81/p0p8zkyt.jpg",
-      "category": "World Cinema"
     },
     {
       "id": "76d8786d13278ebb",
