@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T21:53:54.547597+00:00",
+  "generated_at": "2026-09-22T04:27:26.352251+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -9,36 +9,102 @@
   ],
   "reviews": [
     {
-      "id": "c53d523a6c564959",
-      "title": "Tom Cruise Earns Applause With Six-Minute Monologue On Why Art Beats AI In Filmmaking: “There Is Nothing Like Human”",
-      "quote": "Tom Cruise earned spontaneous applause at a BAFTA event in London after spending more than six minutes eulogizing about the power of art over AI. Speaking at a BAFTA: Life in Pictures event, during which Cruise…",
+      "id": "3ff008221aa11e68",
+      "title": "Muse Entertainment Unveils ‘Doula: A True Crime’ Trailer As Boat Rocker Studios Boards CBC Doc",
+      "quote": "EXCLUSIVE: Here’s a trailer for Doula – A True Crime, a Canadian doc series from The Walrus and the Whistleblower filmmaker Nathalie Bibeau about a bizarre criminal case of a woman who faked pregnancies. The…",
       "publisher": "Deadline",
-      "author": "Jake Kanter",
-      "date": "2026-09-21T21:29:20+00:00",
-      "link": "https://deadline.com/2026/09/tom-cruise-ai-filmmaking-bafta-1237109599/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2215809697-e1790023650535.jpg",
+      "author": "Jesse Whittock",
+      "date": "2026-09-22T04:01:00+00:00",
+      "link": "https://deadline.com/2026/09/doula-true-crime-trailer-boat-rocker-studios-cbc-1237109202/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Doula-a-True-Crime.png",
       "category": "World Cinema"
     },
     {
-      "id": "f94a33d57d321946",
-      "title": "‘Daredevil: Born Again’ To End With Season 3 At Disney+",
-      "quote": "The end is near for Daredevil: Born Again. The series starring Charlie Cox as the titular character, will end with the upcoming third season, Deadline has confirmed. Sources told Deadline that calls were made this…",
+      "id": "74d71a43d33a688a",
+      "title": "‘Trump TV’ Promo Uses Clips From ‘The Simpsons,’ ‘Seinfeld,’ ‘Friends,’ ‘The Dark Knight’ & Many More",
+      "quote": "Donald Trump has defied copyright complaints from Neil Young, Ariana Grande, Beyoncé and everyone in between for unauthorized use of their music. Today, it posted a promo video for Trump TV that made use of footage from…",
       "publisher": "Deadline",
-      "author": "Denise Petski",
-      "date": "2026-09-21T21:27:33+00:00",
-      "link": "https://deadline.com/2026/09/daredevil-born-again-ending-season-3-disney-marvel-1237109610/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/TCDDABO_G5070.jpg",
+      "author": "Tomt",
+      "date": "2026-09-22T03:46:44+00:00",
+      "link": "https://deadline.com/2026/09/trump-tv-promo-clips-simpsons-seinfeld-friends-1237109786/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/trump-tv.png",
       "category": "World Cinema"
     },
     {
-      "id": "85b5a1dadd2beae3",
-      "title": "Jennifer Eckhart Dies: Fired Fox Business Staffer Who Sued Network & Ed Henry For Sexual Harassment Was 36",
-      "quote": "Jennifer Eckhart, a former Fox Business staffer who sued the network and its then-anchor Ed Henry for sexual harassment and retaliation and later hosted a podcast, was found dead September 19 at her home in Hobe Sound…",
+      "id": "787efd39176bee2f",
+      "title": "‘Resident Evil’ $108.3M WW Opening A Record For Franchise & Zach Cregger, ‘Coyote Vs. Acme’ Nears $100M WW – Global Box Office Update",
+      "quote": "UPDATED: TriStar Pictures/Constantin Film/Davis Films’ Resident Evil rang up a massive $108.3M worldwide, not only the best start the franchise has ever seen, but also Zach Cregger’s biggest start as filmmaker…",
       "publisher": "Deadline",
-      "author": "Erik Pedersen",
-      "date": "2026-09-21T21:25:00+00:00",
-      "link": "https://deadline.com/2026/09/jennifer-eckhart-dead-fox-business-staffer-who-sued-fox-news-was-36-1237109602/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/jennifer-eckhart.jpg",
+      "author": "Anthonypauldalessandro",
+      "date": "2026-09-22T03:00:00+00:00",
+      "link": "https://deadline.com/2026/09/box-office-global-resident-evil-1237108765/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/MCDREEV_SP028.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "a80b0a1bbfbda068",
+      "title": "Post-Merger Paramount May Overdeliver On Settlement Terms With 36-Film 2027 Slate Amid Speculation About Duplication & WB Leadership",
+      "quote": "California Attorney General Rob Bonta can rest easy: A merged Paramount Warner Bros. Discovery would already account for 36 movies on the release schedule for 2027. Note, that’s an organic number of theatrical releases…",
+      "publisher": "Deadline",
+      "author": "Anthonypauldalessandro",
+      "date": "2026-09-22T02:17:49+00:00",
+      "link": "https://deadline.com/2026/09/paramount-deal-36-film-movie-slate-1237109549/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/mcdmimo-wb041-mcdqupl-pa019-mcdsoth-pa042-mcdsupe-wb040-mcdq-1000x667-1.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "48662e8cb44da179",
+      "title": "Oscar Winner Barbara Kopple On ‘Union Town,’ Her Third Towering Film On American Labor – Camden Film Festival",
+      "quote": "Fifty years ago, a young director named Barbara Kopple came out with her first film, a documentary she thought would be little seen. “When I started making the film, I thought, ‘Oh, my parents will see it and their…",
+      "publisher": "Deadline",
+      "author": "Matthew Carey",
+      "date": "2026-09-22T00:50:50+00:00",
+      "link": "https://deadline.com/2026/09/union-town-interview-director-barbara-kopple-1237109699/",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Union-Town-courtesy-Venice-Film-Festival.png",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "c416e1c83cfc870d",
+      "title": "A Harry Potter Star's Short-Lived Fantasy Series Is A Must-Watch Gem On Prime Video",
+      "quote": "Jason Isaacs, who played Lucius Malfoy in the Harry Potter films, was the star of a one-season NBC show that deserves another look.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Witney Seibold)",
+      "date": "2026-09-22T00:45:00+00:00",
+      "link": "https://www.slashfilm.com/2260128/harry-potter-jason-isaacs-awake-fantasy-series-prime-video/",
+      "image": "https://www.slashfilm.com/img/gallery/a-harry-potter-stars-short-lived-fantasy-series-is-a-must-watch-gem-on-prime-video/l-intro-1789568719.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "d8564b7b64f5ebdf",
+      "title": "Paramount Settlement Protects Pluto TV, Sets BET & Comedy Central As Potential Divesture Targets While Omitting Premium Channels & TV Studios",
+      "quote": "Here is a concession no one really asked for — the settlement of state attorneys generals’ anti-trust lawsuit over the proposed Paramount-Warner Bros. Discovery merger includes a provision ensuring that Paramount will…",
+      "publisher": "Deadline",
+      "author": "Nellie Andreeva",
+      "date": "2026-09-22T00:27:15+00:00",
+      "link": "https://deadline.com/2026/09/paramount-settlement-pluto-tv-bet-comedy-central-divesture-1237109340/",
+      "image": "https://deadline.com/wp-content/uploads/2022/12/GettyImages-1235079819.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "663ec7674870da8b",
+      "title": "‘Forgotten Island’ Review: H.E.R. And Dave Franco Give Life To Gorgeously Animated And Frenetic ‘Toon",
+      "quote": "You have to give points to DreamWorks’ latest animated feature, Forgotten Island, just simply for being an original from a studio system that rewards familiarity. And it comes from writer/directors Joel Crawford and…",
+      "publisher": "Deadline",
+      "author": "Pete Hammond",
+      "date": "2026-09-21T23:05:58+00:00",
+      "link": "https://deadline.com/2026/09/forgotten-island-review-h-e-r-and-dave-franco-frentetic-toon-1237109630/",
+      "image": "https://deadline.com/wp-content/uploads/2026/06/Forgotten-Island.jpeg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "7ff7eb715ae19cd0",
+      "title": "Top UK YouTubers Launch Alliance Pushing For Better Conditions For Content Creators",
+      "quote": "Top UK creators have banded together to launch an independent alliance championing their interests. YouTube UK is backing Creator Voices, which consists of The Sidemen’s rep Jordan Schwarzenberger, DamienTalksMoney…",
+      "publisher": "Deadline",
+      "author": "Max Goldbart",
+      "date": "2026-09-21T23:01:00+00:00",
+      "link": "https://deadline.com/2026/09/youtubers-inc-sidemen-rep-launch-creator-voices-uk-1237107549/",
+      "image": "https://deadline.com/wp-content/uploads/2024/11/INSIDE-S2-The-Sidemen.jpg",
       "category": "World Cinema"
     },
     {
@@ -49,52 +115,8 @@
       "author": "staff@slashfilm.com (Ryan Scott)",
       "date": "2026-09-21T21:12:19+00:00",
       "link": "https://www.slashfilm.com/2264733/marvel-daredevil-born-again-canceled-disney-plus/",
-      "image": "https://www.slashfilm.com/img/gallery/daredevil-born-again-canceled-by-marvel-ahead-of-season-3/l-intro-1790024974.jpg",
+      "image": "https://www.slashfilm.com/img/gallery/marvel-daredevil-born-again-canceled-disney-plus/l-intro-1790027758.jpg",
       "category": "Indie Gems"
-    },
-    {
-      "id": "bb18aa9d69fcfbd2",
-      "title": "Paramount Shares Fall After Antitrust Deal, But Wall Streeters Marvel At Favorable Terms",
-      "quote": "While Warner Bros. Discovery shares soared 11%, as is often the case of a company about to be acquired, while Paramount shares stumbled on news the companies’ merger will take another two weeks to complete. The stocks’…",
-      "publisher": "Deadline",
-      "author": "Dade Hayes",
-      "date": "2026-09-21T20:38:39+00:00",
-      "link": "https://deadline.com/2026/09/paramount-stock-antitrust-settlement-wall-street-1237109547/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Paramount-NY-corporate.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "04ef2ce746cea7d4",
-      "title": "Donald Trump Vows To Appeal Ruling In Networks’ White House Ban Lawsuit, Even Though Judge Has Yet To Rule",
-      "quote": "Donald Trump has vowed to appeal a judge’s ruling in the networks’ challenge of his ban on their access to the White House, even though a federal judge has yet to issue a ruling in the case. Shortly after CNN, Politico…",
-      "publisher": "Deadline",
-      "author": "Ted Johnson",
-      "date": "2026-09-21T20:37:12+00:00",
-      "link": "https://deadline.com/2026/09/trump-white-house-ban-judge-appeal-1237109563/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2294604716-1.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "da6fce4e12ac4108",
-      "title": "The Final Stretch: California AG Rob Bonta On How Settlement On Paramount-WBD Merger Came Together After Stalemate",
-      "quote": "Paramount’s settlement with the 12 Democratic state attorneys general appeared to be a Yom Kippur affair, with the final signoff coming after sundown on Sunday. California Attorney General Rob Bonta was cagey when asked…",
-      "publisher": "Deadline",
-      "author": "Nellie Andreeva",
-      "date": "2026-09-21T20:25:05+00:00",
-      "link": "https://deadline.com/2026/09/paramount-settlement-deal-timeline-1237109472/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Paramount-Rob-Bontas.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "5a59e8743305c8b5",
-      "title": "Midnight Madness Revisited: Which TIFF Title Could Become The Next Box Office Obsession?",
-      "quote": "“Art dies in the boardroom.” That was a dark omen I read on a stranger’s poster board last week as I walked Festival Street at the 51st Toronto International Film Festival, heading to a Midnight Madness screening while…",
-      "publisher": "Deadline",
-      "author": "Glenn Garner",
-      "date": "2026-09-21T20:14:27+00:00",
-      "link": "https://deadline.com/2026/09/midnight-madness-revisited-tiff-next-box-office-obsession-1237105994/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Midnight-Madness-TIFF-border-4_5582b5.jpg",
-      "category": "Festival Winners"
     },
     {
       "id": "4231fee46ff617d6",
@@ -139,17 +161,6 @@
       "link": "https://www.slashfilm.com/2264547/lioness-season-3-finale-one-major-question-who-is-the-mole/",
       "image": "https://www.slashfilm.com/img/gallery/the-lioness-season-3-finale-leaves-one-major-question-unanswered/l-intro-1790018146.jpg",
       "category": "Indie Gems"
-    },
-    {
-      "id": "daac8876c13bf649",
-      "title": "Paramount-WBD Settlement Sets Up Editorial Independence Board For CNN And CBS News",
-      "quote": "The potential ownership of CBS News and CNN under one corporate owner has generated months of fear, anxiety and loathing at both networks, but the Paramount-Warner Bros. Discovery settlement tries to resolve some of the…",
-      "publisher": "Deadline",
-      "author": "Ted Johnson",
-      "date": "2026-09-21T19:40:58+00:00",
-      "link": "https://deadline.com/2026/09/cnn-cbs-news-editorial-independence-board-1237109434/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/cnn-CBS-news-logos_2bb62f.jpg",
-      "category": "World Cinema"
     },
     {
       "id": "5252fdd0934dd6fd",
@@ -259,17 +270,6 @@
       "date": "2026-09-21T17:55:41+00:00",
       "link": "https://www.avclub.com/slayground-teaser-trailer-jeremy-saulnier",
       "image": "https://www.avclub.com/wp-content/uploads/2026/09/21/slayground-teaser-trailer-featured-1.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "7dba333893695c75",
-      "title": "Henry Cavill's 122-Minute War Movie Is One Of Netflix's Biggest Streaming Hits",
-      "quote": "Guy Ritchie's 2024 war film starring Henry Cavill, Alan Ritchson, and more didn't perform well in theaters, but it's become a hit on Netflix.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Witney Seibold)",
-      "date": "2026-09-21T17:43:02+00:00",
-      "link": "https://www.slashfilm.com/2264379/henry-cavill-war-movie-the-ministry-of-ungentlemanly-warfare-netflix-september-2026/",
-      "image": "https://www.slashfilm.com/img/gallery/henry-cavills-122-minute-war-movie-is-one-of-netflixs-biggest-streaming-hits/l-intro-1790012401.jpg",
       "category": "Indie Gems"
     },
     {
