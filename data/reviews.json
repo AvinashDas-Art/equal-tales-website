@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T11:17:12.320092+00:00",
+  "generated_at": "2026-09-23T16:39:16.353898+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -9,15 +9,224 @@
   ],
   "reviews": [
     {
-      "id": "de1fcccefed78c4c",
-      "title": "Brad Pitt Praises Streamers For Creating Opportunities & Says He Believes The Indie Film Space Is Currently Just As Strong As In The ’90s — San Sebastián",
-      "quote": "Brad Pitt was optimistic about the current indie film landscape during a packed-out press conference this morning at the San Sebastián Film Festival, where he is set to screen his latest feature, Heart of the Beast…",
+      "id": "47dc7c4eebaa5dfa",
+      "title": "West Wilson Among Stars Joining ‘Million Dollar Secret’ As Netflix Brings In Celebs For Season 3",
+      "quote": "EXCLUSIVE: West Wilson’s had a busy year. The Summer House star got together with Amanda Batula, his friend Kyle Cook’s wife and his ex-girlfriend Ciara Miller’s former bestie, causing a Scandoval-shaped controversy for…",
       "publisher": "Deadline",
-      "author": "Zac Ntim",
-      "date": "2026-09-23T11:09:00+00:00",
-      "link": "https://deadline.com/2026/09/brad-pitt-streaming-indie-film-1990s-san-sebastian-1237111090/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/heartbeast01.jpg",
+      "author": "Peterdeadline",
+      "date": "2026-09-23T16:30:00+00:00",
+      "link": "https://deadline.com/2026/09/west-wilson-million-dollar-secret-netflix-season-3-1237061282/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/CELEBRITY_MDS_S1_Seamless_West_Wilson_01647_RC-1000.jpg",
       "category": "World Cinema"
+    },
+    {
+      "id": "cdc45849f9e7bafa",
+      "title": "‘Hoops’ Drama Series Based On Kennedy Ryan’s Books In Works At Netflix",
+      "quote": "EXCLUSIVE: In a highly competitive situation, Netflix has landed Hoops, based on Kennedy Ryan’s book series, for drama series development. The projects hails from Ryan, Adrian Dukes (All American), Will Packer Media…",
+      "publisher": "Deadline",
+      "author": "Denise Petski",
+      "date": "2026-09-23T16:30:00+00:00",
+      "link": "https://deadline.com/2026/09/hoops-drama-series-kennedy-ryan-books-development-netflix-1237110985/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Kennedy-Ryan-Hooks-and-Adrian-Dukes.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "29e95306253f5bbc",
+      "title": "Shaftesbury Provides Ailing Canadian Kids’ TV Biz With $850,000 Gift Package & Issues “Urgent Call To Action”",
+      "quote": "EXCLUSIVE: Veteran producer Christina Jennings has begun a mission to save the Canadian kids’ TV business. Today at the Ottawa International Animation Festival (OIAF), the Shaftesbury founder issued an “urgent call to…",
+      "publisher": "Deadline",
+      "author": "Jesse Whittock",
+      "date": "2026-09-23T16:24:20+00:00",
+      "link": "https://deadline.com/2026/09/shaftesbury-canada-kids-tv-urgent-call-action-gift-package-1237111272/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Shaftesbury-at-the-OIAF_.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "fa3f59b789963713",
+      "title": "All The Songs In ‘The Love Hypothesis’ Film Adaptation: Gracie Abrams To Haim",
+      "quote": "SPOILER ALERT: This post contains the full soundtrack for Prime Video’s The Love Hypothesis movie, now streaming. Ali Hazelwood’s The Love Hypothesis has come off the page to the small screen in Prime Video’s adaptation…",
+      "publisher": "Deadline",
+      "author": "Dessi Gomez",
+      "date": "2026-09-23T16:16:04+00:00",
+      "link": "https://deadline.com/2026/09/the-love-hypothesis-soundtrack-songs-prime-video-movie-1237111373/",
+      "image": "https://deadline.com/wp-content/uploads/2026/06/LVHY_2026_UT_250818_BOSPHI_07356RC2.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "677d52915973993b",
+      "title": "‘My Darling California’: Evans, Chastain, Pine, Madison & Cheadle Begin Shoot On L.A. Noir As Financiers Join Project",
+      "quote": "EXCLUSIVE: Magazine Dreams filmmaker Elijah Bynum’s next film, My Darling California, has begun shooting in the Golden State with a stacked cast comprising Oscar winner Jessica Chastain, Avengers star Chris Evans, Star…",
+      "publisher": "Deadline",
+      "author": "Andreas Wiseman",
+      "date": "2026-09-23T16:12:26+00:00",
+      "link": "https://deadline.com/2026/09/my-darling-california-evans-chastain-pine-begin-shoot-1237111327/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/My-Darling-California.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "d4abe66ed3d2db51",
+      "title": "UTA Signs ‘Club Kid’ Star Reggie Absolom",
+      "quote": "EXCLUSIVE: United Talent Agency is now representing young British actor Reggie Absolom in all areas. Absolom steals the screen in Jordan Firstman’s feature directorial debut Club Kid, playing the surprise son, Arlo, to…",
+      "publisher": "Deadline",
+      "author": "Anthonypauldalessandro",
+      "date": "2026-09-23T16:11:43+00:00",
+      "link": "https://deadline.com/2026/09/club-kid-reggie-absolom-uta-1237111339/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Reggie-Absolom-.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "03373df1f517982d",
+      "title": "Netflix Delays Launch Of Gary Glitter Doc Following “New Legal Information”",
+      "quote": "Netflix has delayed its Gary Glitter documentary following “legal information we recently became aware of.” A spokesman for the streamer wouldn’t disclose further detail but said an update is coming soon on the doc…",
+      "publisher": "Deadline",
+      "author": "Max Goldbart",
+      "date": "2026-09-23T16:08:43+00:00",
+      "link": "https://deadline.com/2026/09/netflix-delays-gary-glitter-doc-new-legal-information-1237111351/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/huntinggaryglitteruniversal-base_na_06_zxx-copy.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "6532edf8ba83bb85",
+      "title": "Disney Hikes Price Of Disney+ and Hulu Streaming Plans",
+      "quote": "Disney has raised the prices of most Disney+ and Hulu streaming plans with the biggest increase for Premium subscriptions, which that are ad free. It’s the latest in a round of price hikes by streamers and Disney’s…",
+      "publisher": "Deadline",
+      "author": "Jillg366",
+      "date": "2026-09-23T16:06:43+00:00",
+      "link": "https://deadline.com/2026/09/disney-hikes-price-disney-hulu-streaming-plans-1237111325/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Daredevil-Born-Again.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "e5e319b9f8d7456c",
+      "title": "Slow Horses Season 6 Pays Homage To One Of The Greatest HBO Shows Ever Made",
+      "quote": "In a blink-and-you'll-miss-it moment, Slow Horses Season 6 pays homage to The Wire, arguably the greatest HBO series ever.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Jeremy Mathai)",
+      "date": "2026-09-23T16:00:00+00:00",
+      "link": "https://www.slashfilm.com/2261719/slow-horses-season-6-hbo-the-wire-homage/",
+      "image": "https://www.slashfilm.com/img/gallery/slow-horses-season-6-pays-homage-to-one-of-the-greatest-hbo-shows-ever-made/l-intro-1789671375.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "07670e152de0f3ca",
+      "title": "‘Brace Your Heart’ Review: Tradition and Modernity Collide in an Impassioned Ode to Sámi Womanhood",
+      "quote": "For those of us who only ever think about reindeer when December draws in, and even then in a fairly abstract sense, “Brace Your Heart” arrives as a flinty reality check. Following the life and trials of a young female…",
+      "publisher": "Variety",
+      "author": "Guy Lodge",
+      "date": "2026-09-23T15:06:31+00:00",
+      "link": "https://variety.com/2026/film/reviews/brace-your-heart-review-1236873135/",
+      "image": "https://variety.com/wp-content/uploads/2026/08/BRACE-YOUR-HEART.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "cb9acd08f16abbe8",
+      "title": "Before Star Trek, Nichelle Nichols Starred In Another TV Show From Writer Gene Roddenberry",
+      "quote": "Before Nichelle Nichols suited up as Lt. Uhura on the original Star Trek, she appeared in another TV show on which Trek creator Gene Roddenberry worked.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Witney Seibold)",
+      "date": "2026-09-23T15:00:00+00:00",
+      "link": "https://www.slashfilm.com/2264709/star-trek-writer-gene-roddenberry-the-lieutenant-nichelle-nichols/",
+      "image": "https://www.slashfilm.com/img/gallery/before-star-trek-nichelle-nichols-starred-in-another-tv-show-from-writer-gene-roddenberry/l-intro-1790024038.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "dde8c0554f93bed6",
+      "title": "No Dhanush vs Rajinikanth: ‘Om’ postponed to avert clash with ‘Jailer 2’",
+      "quote": "Dhanush has also announced that since Suriya’s ‘Scene’ is slated to release in theatres on November 6 for Deepavali, ‘Om’ will defer its release until after the festival",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-23T14:16:22+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/dhanush-rajinikanth-om-chapter-1-postponed-jailer-2-suriya-scene/article71500363.ece",
+      "image": "https://th-i.thgim.com/public/incoming/221qeu/article71500436.ece/alternates/LANDSCAPE_1200/NDBL-13-25-10-21.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "27df95fdedf3c173",
+      "title": "Why Dr. Adam Carlsen From The Love Hypothesis Looks So Familiar",
+      "quote": "There's something very fitting about the casting of Dr. Adam Carlsen in The Love Hypothesis, given the inspiration for the book the film is based on.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Witney Seibold)",
+      "date": "2026-09-23T14:00:00+00:00",
+      "link": "https://www.slashfilm.com/2261650/dr-adam-carlsen-the-love-hypothesis-actor-tom-bateman/",
+      "image": "https://www.slashfilm.com/img/gallery/why-dr-adam-carlsen-from-the-love-hypothesis-looks-so-familiar/l-intro-1789669544.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "b663630bee3d84ee",
+      "title": "‘He made something every single day’: David Lynch’s inscrutable photography celebrated in LA show",
+      "quote": "The director’s surrealist films defined Los Angeles. Now the city is celebrating his other passion: photography No one can bring Los Angeles together like David Lynch . The first posthumous exhibition of the director…",
+      "publisher": "The Guardian",
+      "author": "Dave Schilling in Los Angeles",
+      "date": "2026-09-23T13:00:50+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/23/david-lynch-photographs-art-los-angeles",
+      "image": "https://i.guim.co.uk/img/media/522a6e265f86eed31b4ab4c2bd877dd5c2baa777/961_0_6777_5425/master/6777.jpg?width=140&quality=85&auto=format&fit=max&s=52e8fb4d05ef17eacaeb351b58fdad13",
+      "category": "World Cinema"
+    },
+    {
+      "id": "28846b3a77e3d9ef",
+      "title": "Take Me Home",
+      "quote": "Brutally patient and triumphant in its love for its characters, it captures reality with painstaking clarity while reimagining a better world.",
+      "publisher": "RogerEbert.com",
+      "author": "Zachary Lee",
+      "date": "2026-09-23T13:00:00+00:00",
+      "link": "https://www.rogerebert.com/reviews/take-me-home-film-review-2026",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "42ae0bd6cd899df6",
+      "title": "The Love Hypothesis",
+      "quote": "It’s a miracle of miracles: a new romantic comedy that's actually charming!",
+      "publisher": "RogerEbert.com",
+      "author": "Marya E. Gates",
+      "date": "2026-09-23T13:00:00+00:00",
+      "link": "https://www.rogerebert.com/reviews/the-love-hypothesis-lili-reinhart-prime-video-movie-review-2026",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "4eb72a5602309907",
+      "title": "Ray Gunn Trailer Brings Brad Bird To Netflix With An Animated Sci-Fi Noir",
+      "quote": "The Incredibles director Brad Bird is back with Ray Gunn, an animated sci-fi noir headed to Netflix. Watch the trailer here.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Chris Evangelista)",
+      "date": "2026-09-23T13:00:00+00:00",
+      "link": "https://www.slashfilm.com/2266236/ray-gunn-trailer-netflix/",
+      "image": "https://www.slashfilm.com/img/gallery/ray-gunn-trailer-netflix/l-intro-1790169055.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "1c34d204c073d012",
+      "title": "Brad Bird's Ray Gunn: Everything We Learned About The Netflix Movie",
+      "quote": "Brad Bird has been trying to make Ray Gunn for decades. Here are the most interesting things we learned about the long-awaited film at an early press day.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (BJ Colangelo)",
+      "date": "2026-09-23T13:00:00+00:00",
+      "link": "https://www.slashfilm.com/2252686/brad-bird-ray-gunn-netflix-movie-details/",
+      "image": "https://www.slashfilm.com/img/gallery/brad-birds-ray-gunn-everything-we-learned-about-the-netflix-movie/l-intro-1788879807.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "471fc768e2a74bdd",
+      "title": "Manhunter review – Michael Mann serves up a bold and queasy starter to the serial killer spectacle",
+      "quote": "Before Anthony Hopkins’ Dr Lecter in The Silence of the Lambs, Brian Cox played a cannibalistic killer in Mann’s pioneering Red Dragon adaptation Five years before The Silence of the Lambs, there was writer-director…",
+      "publisher": "The Guardian",
+      "author": "Peter Bradshaw",
+      "date": "2026-09-23T12:00:47+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/23/manhunter-review-brian-cox-hannibal-michael-mann-red-dragon-adaptation",
+      "image": "https://i.guim.co.uk/img/media/9bf37bb60e46359bd54af65f312a7d1b895d56ab/500_0_2340_1872/master/2340.jpg?width=140&quality=85&auto=format&fit=max&s=bf63c9274396ecb0df33b53e91aac371",
+      "category": "World Cinema"
+    },
+    {
+      "id": "f087b13e83b26bd7",
+      "title": "10 Years Ago Today: Denzel Washington Led A Star-Studded Western That Deserved Better",
+      "quote": "In 2016, Denzel Washington reunited with his Training Day director (and a co-star) for a star-studded Western that's worth a watch.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Jeremy Smith)",
+      "date": "2026-09-23T12:00:00+00:00",
+      "link": "https://www.slashfilm.com/2254172/denzel-washington-western-the-magnificent-seven-10-year-anniversary/",
+      "image": "https://www.slashfilm.com/img/gallery/10-years-ago-today-denzel-washington-led-a-star-studded-western-that-deserved-better/l-intro-1788979607.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "22c487c4c9df340c",
@@ -42,17 +251,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "b253b9168f8757f9",
-      "title": "Studiocanal Announces Wrap Of Final Film In Ambitious German-Language ‘Woodwalkers’ Trilogy",
-      "quote": "Studiocanal has announced the official wrap of the final instalment in hit German-language trilogy Woodwalkers alongside unveiling a January 28, 2027 theatrical launch date in Germany and a first image. A production…",
-      "publisher": "Deadline",
-      "author": "Melanie Goodfellow",
-      "date": "2026-09-23T10:48:31+00:00",
-      "link": "https://deadline.com/2026/09/studiocanal-wraps-woodwalkers-trilogy-release-date-1237111096/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Woodwalkers3_001.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "04b8f1764667bb1a",
       "title": "Dia Mirza-voiced documentary ‘The Hornbill Promise’ looks at Latpanchar’s rufous-necked hornbills",
       "quote": "Safique Hazarika and Vinod K Reddy, directors of The Hornbill Promise, an upcoming wildlife documentary, talk about the making of this film",
@@ -75,17 +273,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "a81233aa1cadd5cc",
-      "title": "Oscars: Italy Submits Paolo Strippoli’s ‘The Spiral’ For Best International Feature Film",
-      "quote": "Italy has selected Paolo Strippoli’s The Spiral (L’Estranea) as its candidate for the Best International Feature Film at the 99th Academy Awards. The drama, which world premiered in Competition at this year’s Venice…",
-      "publisher": "Deadline",
-      "author": "Melanie Goodfellow",
-      "date": "2026-09-23T09:56:37+00:00",
-      "link": "https://deadline.com/2026/09/oscars-italy-paolo-strippolis-spiral-1237111088/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/lestranea.jpg",
-      "category": "Festival Winners"
-    },
-    {
       "id": "1c9a31d84043b5eb",
       "title": "‘Heart of the Beast’ movie review: A rugged Brad Pitt snuggles warmth in aching canine bromance",
       "quote": "Running on a rather straightforward design, the simplicity of ‘Heart of the Beast’ is surprisingly enticing, as it goes back to the basics to cherish smaller moments over bigger joys",
@@ -95,17 +282,6 @@
       "link": "https://www.thehindu.com/entertainment/movies/heart-of-the-beast-movie-review-a-rugged-brad-pitt-snuggles-warmth-in-aching-canine-bromance/article71497150.ece",
       "image": "https://th-i.thgim.com/public/entertainment/movies/lidel8/article71498258.ece/alternates/LANDSCAPE_1200/Brad%20Pitt%20and%20Odin%20in%20%E2%80%98Heart%20of%20the%20Beast%E2%80%99",
       "category": "Indian Cinema"
-    },
-    {
-      "id": "a660e7a84d123b72",
-      "title": "Chapter One Producers Complete Management Buyout From Anonymous Content; Take Investment From Former Fifth Season CEO Chris Rice",
-      "quote": "EXCLUSIVE: Mr Bates vs The Post Office producer Patrick Spence has taken control of AC Chapter One, completing a management buyout from Anonymous Content and UK agencies Casarotto Ramsay and United Agents. AC Chapter…",
-      "publisher": "Deadline",
-      "author": "Jake Kanter",
-      "date": "2026-09-23T09:45:10+00:00",
-      "link": "https://deadline.com/2026/09/chapter-one-management-buyout-anonymous-content-chris-rice-1237111074/",
-      "image": "https://deadline.com/wp-content/uploads/2023/06/412631-d2ba25a-e1686663625359.jpg",
-      "category": "World Cinema"
     },
     {
       "id": "ff84b8f05417a4de",
@@ -152,39 +328,6 @@
       "category": "Indian Cinema"
     },
     {
-      "id": "cb93e41525cbb4ed",
-      "title": "Qatar’s Doha Film Festival To Open With Yemeni Female-Focused Drama ‘The Station’",
-      "quote": "Qatar’s Doha Film Festival has announced The Station – set against the backdrop of a women-only petrol station in war-torn Yemen – as the opening film of its second edition this November. The drama, which world…",
-      "publisher": "Deadline",
-      "author": "Melanie Goodfellow",
-      "date": "2026-09-23T09:00:01+00:00",
-      "link": "https://deadline.com/2026/09/doha-film-festival-opening-film-station-1237111065/",
-      "image": "https://deadline.com/wp-content/uploads/2026/04/06-Kiosk00114209_8a6322.jpg",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "4a4255724784ab31",
-      "title": "Rosalind Franklin TV Series In The Works From Groundbreaking Scientist’s Great-Niece & ‘Outer Banks’ Director Valerie Weiss",
-      "quote": "EXCLUSIVE: Natalie Portman is playing her in a movie, Nicole Kidman portrayed her on stage and now the life of groundbreaking British scientist Rosalind Franklin, whose work was crucial to DNA and Covid-19 vaccines, is…",
-      "publisher": "Deadline",
-      "author": "Max Goldbart",
-      "date": "2026-09-23T09:00:00+00:00",
-      "link": "https://deadline.com/2026/09/rosalind-franklin-tv-show-secret-of-life-valerie-weiss-1237109938/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/jessica-franklin-valerie-weiss-1500x845-1.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "d0f8989fcfaa463d",
-      "title": "‘On Standby’ Renewed For Season 2 At Israel’s Yes",
-      "quote": "EXCLUSIVE: Breakout Israeli comic Gitit Fisher’s Yes series On Standby has landed a second season. On Standby follows Sagit, a 33-year-old airport security screener whose brutally honest view of the world and chaotic…",
-      "publisher": "Deadline",
-      "author": "Max Goldbart",
-      "date": "2026-09-23T09:00:00+00:00",
-      "link": "https://deadline.com/2026/09/on-standby-renewed-season-2-israel-yes-gitit-fisher-1237110041/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/ON-STANDBY.jpeg",
-      "category": "World Cinema"
-    },
-    {
       "id": "5ff503ba369a5531",
       "title": "‘Steel Ball Run: Jojo’s Bizarre Adventure’ premiere review: Campy cowboy mythmaking kicks off the greatest race in anime history",
       "quote": "Few anime make the medium feel as embarrassingly underdressed as ‘JJBA’, and ‘Steel Ball Run’ begins this bizarre new Western leg in Hirohiko Araki’s beloved saga like it’s already several moves ahead",
@@ -194,28 +337,6 @@
       "link": "https://www.thehindu.com/entertainment/movies/steel-ball-run-jojos-bizarre-adventure-anime-premiere-review-gyro-zepelli-johnny-joestar-diego-brando/article70765416.ece",
       "image": "https://th-i.thgim.com/public/entertainment/movies/dtcw5/article70765506.ece/alternates/LANDSCAPE_1200/HDy3ozvXsAA8X6n.png",
       "category": "Indian Cinema"
-    },
-    {
-      "id": "59b047132374dd0e",
-      "title": "‘Gondhal’ director Santosh Davakhar: We were confident that our film will stand out",
-      "quote": "As ‘Gondhal’ gets selected as India’s official entry to the Oscars 2027, director Santosh Davakhar talks about making the film for the international circuit, working with music maestro Ilaiyaraaja, and more",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-23T08:22:50+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/gondhal-director-santosh-davakhar-we-were-confident-that-our-film-will-stand-out/article71494529.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/jbfwpe/article71494908.ece/alternates/LANDSCAPE_1200/Santosh%20Davakhar%20and%20a%20still%20from%20%E2%80%98Gondhal%E2%80%99",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "8f984368a39c72e3",
-      "title": "MIP London Comes To An End After Two Years; Organizers Launching New Event Alongside London Book Fair",
-      "quote": "EXCLUSIVE: After just two years, MIP London is no more. Deadline can reveal that organizer RX France is instead launching a new two-day conference called MIP Talks that will run alongside the London Book Fair in March…",
-      "publisher": "Deadline",
-      "author": "Stewart Clarke",
-      "date": "2026-09-23T08:01:08+00:00",
-      "link": "https://deadline.com/2026/09/mip-london-over-mip-talks-launching-at-london-book-fair-1237110657/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/ExCel-in-East-London.jpg",
-      "category": "World Cinema"
     },
     {
       "id": "ce1a31ce0cab5fed",
@@ -306,28 +427,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "26a0e1aac2de0ef2",
-      "title": "TV Legend Leif Erickson Starred Alongside Ingrid Bergman In This Classic Historical Drama",
-      "quote": "TV is where actor Leif Erickson found the most fame, but he also appeared in this Victor Fleming movie starring Ingrid Bergman.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-09-22T23:00:00+00:00",
-      "link": "https://www.slashfilm.com/2263800/leif-erickson-ingrid-bergman-historical-drama-joan-of-arc/",
-      "image": "https://www.slashfilm.com/img/gallery/tv-legend-leif-erickson-starred-alongside-ingrid-bergman-in-this-classic-historical-drama/l-intro-1789998922.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "37713240b1ca1328",
-      "title": "Marvel's Daredevil: Born Again And The Netflix Show Have One Tragic Thing In Common",
-      "quote": "The cancellation of Daredevil: Born Again mirrors what happened to Charlie Cox's Matt Murdock during his first go around on Netflix's Daredevil.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Ryan Scott)",
-      "date": "2026-09-22T22:06:02+00:00",
-      "link": "https://www.slashfilm.com/2266007/marvel-daredevil-born-again-netflix-series-one-thing-common-canceled-3-seasons/",
-      "image": "https://www.slashfilm.com/img/gallery/marvels-daredevil-born-again-and-the-netflix-show-have-one-tragic-thing-in-common/l-intro-1790114645.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "92473271f0d40b24",
       "title": "After Werwulf, Robert Eggers plans on mucking up Romeo And Juliet",
       "quote": "The Nosferatu director pauses his updates of old-world monster movies, but he's staying in the old world.",
@@ -336,17 +435,6 @@
       "date": "2026-09-22T21:52:00+00:00",
       "link": "https://www.avclub.com/robert-eggers-romeo-and-juliet-announcement",
       "image": "https://img.pastemagazine.com/wp-content/avuploads/2024/12/02135247/nosferatu-header.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "5ed1394cab0b143b",
-      "title": "Digger Reactions: Here's What Critics Are Saying About Tom Cruise's New Movie",
-      "quote": "The first reactions of Tom Cruise's Digger have arrived, and, well, it sounds like an Alejandro González Iñárritu movie, for better and worse.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Jeremy Smith)",
-      "date": "2026-09-22T21:28:08+00:00",
-      "link": "https://www.slashfilm.com/2265982/tom-cruise-digger-first-reactions/",
-      "image": "https://www.slashfilm.com/img/gallery/tom-cruise-digger-first-reactions/l-intro-1790119411.jpg",
       "category": "Indie Gems"
     },
     {
@@ -361,17 +449,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "e31f4ed89b1311f8",
-      "title": "Joel Kinnaman's 5 Best TV Shows, Ranked",
-      "quote": "Joel Kinnaman has seemingly had the most success on TV, so we went ahead and ranked his 5 best TV show so far, because that's the sort of thing we do.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-09-22T21:00:00+00:00",
-      "link": "https://www.slashfilm.com/2265718/joel-kinnaman-best-tv-shows-ranked/",
-      "image": "https://www.slashfilm.com/img/gallery/joel-kinnamans-5-best-tv-shows-ranked/l-intro-1790101478.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "8e577794b4b1f69d",
       "title": "Surprise, Meta's latest AI gimmick is just underpaid humans",
       "quote": "Much like the rest of the AI industry, Meta is using human workers to make its AI agents look like magic.",
@@ -381,17 +458,6 @@
       "link": "https://www.avclub.com/meta-muse-ai-human-labor",
       "image": "https://img.pastemagazine.com/wp-content/avuploads/2025/01/29212657/zuck-feature.jpg",
       "category": "Indie Gems"
-    },
-    {
-      "id": "c5b8642ac118f3b4",
-      "title": "Not The 100, Not The Last Of Us: This Post-Apocalyptic Sci-Fi Series Deserves More Attention",
-      "quote": "More people should check out this post-apocalyptic sci-fi series, which is all about the value of hope and art in difficult times.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Sandy Schaefer)",
-      "date": "2026-09-22T20:00:00+00:00",
-      "link": "https://www.slashfilm.com/2265525/station-eleven-post-apocalyptic-sci-fi-series-the-100-last-of-us-fans/",
-      "image": "https://www.slashfilm.com/img/gallery/station-eleven-post-apocalyptic-sci-fi-series-the-100-last-of-us-fans/l-intro-1790109364.jpg",
-      "category": "Festival Winners"
     },
     {
       "id": "6330cfe96a425257",
@@ -413,17 +479,6 @@
       "date": "2026-09-22T19:16:18+00:00",
       "link": "https://www.avclub.com/norm-the-tale-of-norm-macdonald-trailer-netflix",
       "image": "https://www.avclub.com/wp-content/uploads/2026/09/22/norm-header.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "46894f524c4e0ab4",
-      "title": "What Slow Horses Writer Mick Herron Thinks Will Happen When The Apple TV Series Runs Out Of Books",
-      "quote": "Slow Horses has pumped out so many seasons in such a quick time period that it's running out of books to adapt. Writer Mick Herron has thoughts on that.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-09-22T19:00:00+00:00",
-      "link": "https://www.slashfilm.com/2265411/slow-horses-writer-mick-herron-what-happens-apple-tv-series-runs-out-of-books/",
-      "image": "https://www.slashfilm.com/img/gallery/what-slow-horses-writer-mick-herron-thinks-will-happen-when-the-apple-tv-series-runs-out-of-books/l-intro-1790088622.jpg",
       "category": "Indie Gems"
     },
     {
@@ -471,17 +526,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "0a45c939b45ad7b0",
-      "title": "Heart of the Beast review – Brad Pitt survivalist dogmance serves up wilderness with side of cheese",
-      "quote": "Pitt and loyal hound Odin get stuck in remote Alaska in this serviceable adventure with hints of Jack London and Marley & Me One man and his dog have an amazing adventure in this survivalist drama starring Brad Pitt…",
-      "publisher": "The Guardian",
-      "author": "Peter Bradshaw",
-      "date": "2026-09-22T13:00:02+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/22/heart-of-the-beast-review-brad-pitt-survivalist-dogmance-serves-up-wilderness-with-side-of-cheese",
-      "image": "https://i.guim.co.uk/img/media/8065dc9045482a0e3aed97cc813e8de8c2c6bcb4/26_0_2124_1699/master/2124.jpg?width=140&quality=85&auto=format&fit=max&s=207671f647ed5516b35114696c47aed9",
-      "category": "World Cinema"
-    },
-    {
       "id": "b29e799001ecc976",
       "title": "‘Heart of the Beast’ Review: Brad Pitt and His Canine Co-Star Earn Your Tears in David Ayer’s Tense, Tender Survival Thriller",
       "quote": "A former Special Forces soldier and his combat dog struggle to survive in the Alaskan wilderness in this adventure from the 'Fury' filmmaker.",
@@ -501,17 +545,6 @@
       "date": "2026-09-22T11:00:00+00:00",
       "link": "https://www.bbc.com/culture/article/20260918-eight-ingenious-homes-for-wildlife-around-the-world?ocid=global_culture_rss",
       "image": "https://ychef.files.bbci.co.uk/144x81/p0pbbfbj.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "115ec6ceb6497a7b",
-      "title": "Heresy review – feminist folk horror summons something scary in the woods with supply of fresh blood",
-      "quote": "A childless woman flees into the forest and emerges with a swollen belly in director Didier Konings’ short, sharp fable Before fertility tourism, the only option for your average medieval serf struggling to conceive was…",
-      "publisher": "The Guardian",
-      "author": "Phil Hoad",
-      "date": "2026-09-22T10:00:53+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/22/heresy-review-feminist-folk-horror-summons-something-scary-in-the-woods-with-supply-of-fresh-blood",
-      "image": "https://i.guim.co.uk/img/media/68fc534ef382e5d5799ec54e55e8cd64fbb6cf28/285_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=9744f0544c97dacec73e5d2ff7d1f2dc",
       "category": "World Cinema"
     },
     {
@@ -636,17 +669,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "6b34da9b73f18fad",
-      "title": "‘The Smell of Apples’ Review: A Sun-Soaked but Chilling Child’s-Eye View of Apartheid-Era Privilege and Denial",
-      "quote": "Every surface period detail is present and correct to an eerie degree in “The Smell of Apples”: the gawkily short seasonal school uniforms, the ickily patterned kitchen tiles, the garden chairs like steel satellite…",
-      "publisher": "Variety",
-      "author": "Guy Lodge",
-      "date": "2026-09-19T20:14:52+00:00",
-      "link": "https://variety.com/2026/film/reviews/the-smell-of-apples-review-1236869637/",
-      "image": "https://variety.com/wp-content/uploads/2026/09/Smell-of-Apples_1.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "a8af9d03d9f99c5a",
       "title": "Ghost in the Cell",
       "quote": "“The Shawshank Redemption” meets “Hellraiser.”",
@@ -713,17 +735,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "2d1fc02b726e470b",
-      "title": "Monster: The Lizzie Borden Story",
-      "quote": "Netflix has delivered another rendition of “Monster” that doesn’t quite know what it wants to be.",
-      "publisher": "RogerEbert.com",
-      "author": "Kaiya Shunyata",
-      "date": "2026-09-18T16:01:32+00:00",
-      "link": "https://www.rogerebert.com/reviews/monster-the-lizzie-borden-story-ryan-murphy-netflix-tv-review-2026",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
       "id": "ed704ae8b4edb337",
       "title": "‘Masc’ Review: A Neurodivergent Gay Man Navigates the World in a Striking and Distinctive Debut Feature",
       "quote": "Joshua Griffin plays the protagonist in Britain-based Swedish director Bertil Nilsson's film, premiering at the Toronto Film Festival.",
@@ -733,17 +744,6 @@
       "link": "https://www.hollywoodreporter.com/movies/movie-reviews/masc-review-joshua-griffin-bertil-nilsson-1236704737/",
       "image": null,
       "category": "Festival Winners"
-    },
-    {
-      "id": "7dc2c780449b6398",
-      "title": "Best of the Best",
-      "quote": "For a film primarily about dancing, the editing undercuts the choreography at every turn.",
-      "publisher": "RogerEbert.com",
-      "author": "Nandini Balial",
-      "date": "2026-09-18T15:00:06+00:00",
-      "link": "https://www.rogerebert.com/reviews/best-of-the-best-netflix-movie-review-2026",
-      "image": null,
-      "category": "World Cinema"
     },
     {
       "id": "c3797a4e5cdb31bc",
