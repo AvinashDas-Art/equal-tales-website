@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T16:57:38.686999+00:00",
+  "generated_at": "2026-09-24T21:24:16.525910+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -9,92 +9,169 @@
   ],
   "reviews": [
     {
-      "id": "3d8f45cac1d1220a",
-      "title": "Range Signs ‘Chef’s Table’s David Gelb",
-      "quote": "EXCLUSIVE: Range has signed David Gelb, the four-time James Beard Award–winning, Emmy- and Grammy-nominated filmmaker, for representation. Known for his work in the culinary world, Gelb’s critically acclaimed debut…",
+      "id": "766b38347a644f5c",
+      "title": "Judge Tosses Donald Trump’s Lawsuit Against Des Moines Register And Pollster Ann Selzer",
+      "quote": "An Iowa judge has tossed out Donald Trump’s lawsuit against the Des Moines Register and pollster Ann Selzer, concluding that the president and his allies “stretch both Iowa statutory and common law beyond their current…",
+      "publisher": "Deadline",
+      "author": "Ted Johnson",
+      "date": "2026-09-24T21:23:30+00:00",
+      "link": "https://deadline.com/2026/09/trump-lawsuit-pollster-ann-selzer-dismissed-1237113185/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/trump-aug-31-getty.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "fd2aeeaf2d8e3531",
+      "title": "Writer Stephen King Has A Perfect Horror Miniseries Recommendation On Netflix",
+      "quote": "Stephen King, the master of horror and master recommender, is at it again with a suggestion of a Netflix horror miniseries that you should check out.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Joe Roberts)",
+      "date": "2026-09-24T21:17:58+00:00",
+      "link": "https://www.slashfilm.com/2268365/writer-stephen-king-horror-miniseries-my-sad-dead-streaming-netflix/",
+      "image": "https://www.slashfilm.com/img/gallery/writer-stephen-king-has-a-perfect-horror-miniseries-recommendation-on-netflix/l-intro-1790284558.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "8159736240b8188d",
+      "title": "As Letterboxd Draws Interest From The New York Times, A24 And Others, One Of Its Bankers Calls It “A Phenomenon”",
+      "quote": "With Letterboxd acquisition talks heating up, dealmakers touted the company as “a phenomenon” and a key to the 2026 box office revival. A report in the New York Times said its corporate parent is among the suitors for…",
+      "publisher": "Deadline",
+      "author": "Dade Hayes",
+      "date": "2026-09-24T20:49:02+00:00",
+      "link": "https://deadline.com/2026/09/letterboxd-new-york-times-a24-acquisition-liontree-1237113055/",
+      "image": "https://deadline.com/wp-content/uploads/2022/08/letterboxd-logo-v-neg-rgb-1000px.png",
+      "category": "World Cinema"
+    },
+    {
+      "id": "cf2d2e98ba73e149",
+      "title": "Hannah Einbinder, Susan Sarandon Among Protesters Detained Outside UN Amid Netanyahu Arrival; Dozens Of Delegates Walk Out During Israeli PM’s Speech",
+      "quote": "Benjamin Netanyahu’s arrival to New York City was meet with chants of “Free Palestine” outside the United Nations on Thursday. Hannah Einbinder and Susan Sarandon were among as many as 100 anti-war protesters who were…",
+      "publisher": "Deadline",
+      "author": "Glenn Garner",
+      "date": "2026-09-24T20:39:26+00:00",
+      "link": "https://deadline.com/2026/09/hannah-einbinder-susan-sarandon-protest-detained-un-netanyahu-1237113084/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2296948337.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "f84410ffe64e7d55",
+      "title": "How ‘All American’ Survived Long Enough To End Its 8-Season Run As The Lone YA Series Left At The CW: An Oral History",
+      "quote": "All American entered the television scene nearly eight years ago as yet another trailblazing coming-of-age story on a network with a history and a 2018 fall slate full of them. It’ll end its eight-season run on Monday…",
+      "publisher": "Deadline",
+      "author": "Katie Campione",
+      "date": "2026-09-24T20:30:00+00:00",
+      "link": "https://deadline.com/2026/09/all-american-oral-history-series-explained-the-cw-1237112264/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/All-American.jpeg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "05c3bc237f9cc43e",
+      "title": "Michael Lewen To Direct High-Concept Comedy ‘White Knight’ For Screen Gems",
+      "quote": "EXCLUSIVE: Shortly on the heels of releasing his new comedy Tiny Fugitives, Michael Lewen has inked a deal to direct White Knight, a high-concept comedy that landed at Sony’s Screen Gems earlier this year, as we first…",
       "publisher": "Deadline",
       "author": "Matthewgrobar",
-      "date": "2026-09-24T16:56:38+00:00",
-      "link": "https://deadline.com/2026/09/david-gelb-signs-range-media-partners-1237112707/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Zackery-Michael.jpg",
+      "date": "2026-09-24T20:20:03+00:00",
+      "link": "https://deadline.com/2026/09/michael-lewen-to-direct-white-knight-comedy-screen-gems-1237113128/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2295504852.jpg",
       "category": "World Cinema"
     },
     {
-      "id": "a426c3560027b37c",
-      "title": "BBC Rebukes ‘Have I Got News For You’ After Complaints About “Gratuitously Offensive” Victoria Beckham Joke",
-      "quote": "The BBC has edited out a Victoria Beckham joke from Have I Got News for You after the UK broadcaster ruled that it was editorially unjustified. The BBC received complaints from two viewers, who argued that a gag in…",
-      "publisher": "Deadline",
-      "author": "Jake Kanter",
-      "date": "2026-09-24T16:47:35+00:00",
-      "link": "https://deadline.com/2026/09/bbc-rebukes-have-i-got-news-victoria-beckham-joke-1237112594/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2239999465.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "eaa56cc363b518e7",
-      "title": "Alice Kremelberg, Matthew Leone & Christine Taylor Join Indie Addiction Drama ‘Madison’",
-      "quote": "EXCLUSIVE: Alice Kremelberg (The Boroughs), Matthew Leone (Atonement) and Christine Taylor (The Dink) are set to star in Madison, an independent drama that begins shooting on the East Coast this winter. Marking the…",
-      "publisher": "Deadline",
-      "author": "Matthewgrobar",
-      "date": "2026-09-24T16:38:23+00:00",
-      "link": "https://deadline.com/2026/09/alice-kremelberg-matthew-leone-christine-taylor-star-madison-1237112667/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/split-3-split-a-1000x667-2.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "0833bc81c290b8ef",
-      "title": "Zurich Summit 2026: FilmNation, AMPAS, Sony Classics, Mubi, Mattel, Komplizen, Mediawan, CAA, UTA, TikTok & YouTube Among Speakers At Swiss Conference",
-      "quote": "FilmNation Entertainment CEO Glen Basner, Backrooms director Kane Parsons, Tilly Norwood creator Eline van der Velden, AMPAS CEO Bill Kramer, CAA Media Finance Co-Head Roeg Sutherland, Mediawan Pictures CEO Elisabeth…",
-      "publisher": "Deadline",
-      "author": "Melanie Goodfellow",
-      "date": "2026-09-24T16:33:35+00:00",
-      "link": "https://deadline.com/2026/09/zurich-summit-speakers-program-2026-1237112428/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/ZFF26_Zurich_Summit_96dpi.png",
-      "category": "World Cinema"
-    },
-    {
-      "id": "d2f7fed42145a1cf",
-      "title": "Macklemore Launches Free Palestine Tour; U.S. Dates To Be Announced",
-      "quote": "Macklemore is taking his show on the road without any help from Ed Sheeran: The rapper, who was dumped from the opening act slot on Sheeran’s tour after making a pro-Palestine speech from a New Jersey stage earlier this…",
-      "publisher": "Deadline",
-      "author": "Greg Evans",
-      "date": "2026-09-24T16:30:21+00:00",
-      "link": "https://deadline.com/2026/09/macklemore-free-palestine-tour-1237112587/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2153053747-e1790267414382.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "2c9be2f567513224",
-      "title": "‘Off Campus’ Star Belmont Cameli Joins Sydney Sweeney In Sony’s ‘Hollow’",
-      "quote": "EXCLUSIVE: Sony Pictures looks to have found its Brom Bones for its upcoming Sleepy Hollow movie. Sources tell Deadline that Belmont Cameli is set to join Sydney Sweeney in the studio’s adaptation of Hollow, the project…",
+      "id": "8c717340f9539ece",
+      "title": "‘Fake Skating’ Feature Adaptation At Sony Taps Amélie Hoeferle and Graham Campbell To Star",
+      "quote": "EXCLUSIVE: Sony Pictures and Will Gluck’s Olive Bridge Entertainment have tapped Amélie Hoeferle and Graham Campbell to star in Fake Skating, a film adaptation based on Lynn Painter’s New York Times bestselling book…",
       "publisher": "Deadline",
       "author": "Justin Kroll",
-      "date": "2026-09-24T16:30:00+00:00",
-      "link": "https://deadline.com/2026/09/off-campus-belmont-cameli-hollow-sydney-sweeney-1237112055/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Belmont-Cameli-Sydney-Sweeney.jpg",
+      "date": "2026-09-24T20:15:00+00:00",
+      "link": "https://deadline.com/2026/09/fake-skating-movie-amelie-hoeferle-graham-campbell-cast-1237111520/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Amelie-Hoeferle-and-Graham-Campbell.jpg",
       "category": "World Cinema"
     },
     {
-      "id": "ed898cd96729c1e5",
-      "title": "Netflix Gives First Look At Charlie Brooker’s New Series ‘Blackmere’ As Rory Kinnear Joins Cast",
-      "quote": "He featured in the first ever Black Mirror and now Rory Kinnear has landed a role in Charlie Brooker’s next project for Netflix, an absurdist comedy newly titled Blackmere. At a UK upfronts event this afternoon in…",
+      "id": "dc5cf7963643245a",
+      "title": "‘Séance’: Vivian Kerr Victorian Gothic Thriller Conjures Fall Theatrical Release – Watch Clips",
+      "quote": "EXCLUSIVE: The Vivian Kerr directed and starring Victorian Gothic thriller Séance will begin a limited U.S. theatrical release on Oct. 2, followed by a North American VOD release Friday Nov. 13. Also written and…",
       "publisher": "Deadline",
-      "author": "Max Goldbart",
-      "date": "2026-09-24T16:21:08+00:00",
-      "link": "https://deadline.com/2026/09/netflix-black-doves-season-2-trailer-charlie-brooker-blackmere-1237112593/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Charlie_Brookers_Blackmere_FKA_Codename_n_S1_E2_00_23_08_14-1.png",
+      "author": "Anthonypauldalessandro",
+      "date": "2026-09-24T20:10:00+00:00",
+      "link": "https://deadline.com/2026/09/seance-release-date-1237113058/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Still_2.png",
       "category": "World Cinema"
     },
     {
-      "id": "169fe5664da26052",
-      "title": "Paramount Moves Ahead With $7.5 Billion Debt Raise, Part Of Package To Finance WBD Acquisition",
-      "quote": "Paramount has started syndication for a proposed senior secured term loan of $7.5 billion – a chunk of change it needs to fund the acquisition of Warner Bros. Discovery. It began the process after a legal settlement…",
+      "id": "82c862cccc0045a5",
+      "title": "Tamera Mowry-Housley To Guest Star On ‘Scrubs’ Season 2",
+      "quote": "ABC’s Scrubs will have Tamera Mowry-Housley guest-starring in its upcoming second season. She will play Dr. Steffie, a pediatric doctor who tries to persuade Tosh (Ava Bunn) to choose peds as her specialty. The show…",
       "publisher": "Deadline",
-      "author": "Jillg366",
-      "date": "2026-09-24T16:20:51+00:00",
-      "link": "https://deadline.com/2026/09/paramount-starts-raising-debt-to-finance-wbd-deal-1237112515/",
-      "image": "https://deadline.com/wp-content/uploads/2025/10/Paramount-and-Warner-Bros.-lot.jpg",
+      "author": "Rosy Cordero",
+      "date": "2026-09-24T20:00:00+00:00",
+      "link": "https://deadline.com/2026/09/tamera-mowry-housley-cast-scrubs-season-2-1237112985/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Tamera-Preferred-Headshot-Kwaku-Alston.jpg",
       "category": "World Cinema"
+    },
+    {
+      "id": "779fdc3f3df37cc8",
+      "title": "Does Odin The Dog Die In Brad Pitt's Heart Of The Beast?",
+      "quote": "We come to this place to answer the most important question about Brad Pitt's new movie Heart of the Beast: does the dog die?",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Bill Bria)",
+      "date": "2026-09-24T20:00:00+00:00",
+      "link": "https://www.slashfilm.com/2267533/does-odin-dog-die-brad-pitt-heart-of-the-beast/",
+      "image": "https://www.slashfilm.com/img/gallery/does-odin-the-dog-die-in-brad-pitts-heart-of-the-beast/l-intro-1790256329.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "38d2b13284ada0db",
+      "title": "La bola negra",
+      "quote": "An act of reclamation of emotional truth from the grip of fascism and the burying tide of history.",
+      "publisher": "RogerEbert.com",
+      "author": "Brian Tallerico",
+      "date": "2026-09-24T17:55:12+00:00",
+      "link": "https://www.rogerebert.com/reviews/la-bola-negra-netflix-penelope-cruz-glenn-close-film-review-2026",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "0729bc0ebd4ec161",
+      "title": "Lili Reinhart's 112-Minute Rom-Com Is Officially Prime Video's Biggest Streaming Hit",
+      "quote": "Sure enough, this best-selling novel turned Prime Video rom-com flick (starring Lili Reinhart) is quickly becoming a streaming hit.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Joe Roberts)",
+      "date": "2026-09-24T17:46:47+00:00",
+      "link": "https://www.slashfilm.com/2267980/lili-reinhart-rom-com-the-love-hypothesis-prime-video-september-2026/",
+      "image": "https://www.slashfilm.com/img/gallery/lili-reinharts-112-minute-rom-com-is-officially-prime-videos-biggest-streaming-hit/l-intro-1790271957.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "493b4ecc9098abf4",
+      "title": "Why Robert Pattinson Doubts That His Batman Will Be In James Gunn's DC Universe",
+      "quote": "Robert Pattinson has chimed in about whether his Batman will appear in the DC Universe, and the actor explains why it'd be tough to imagine that happening.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Ryan Scott)",
+      "date": "2026-09-24T17:34:43+00:00",
+      "link": "https://www.slashfilm.com/2267956/why-robert-pattinson-batman-doubt-james-gunn-dc-universe/",
+      "image": "https://www.slashfilm.com/img/gallery/why-robert-pattinson-doubts-that-his-batman-will-be-in-james-gunns-dc-universe/l-intro-1790271142.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "0c2ed0a7c4ec7bdf",
+      "title": "The Madden Trailer Makes Us Wonder How David O. Russell Is Still Making Movies",
+      "quote": "Nicolas Cage is John Madden in the trailer for David O. Russell's Madden, a film that, by the look of it, may finally land Russell in directors' jail.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Jeremy Smith)",
+      "date": "2026-09-24T17:13:23+00:00",
+      "link": "https://www.slashfilm.com/2267915/madden-trailer-how-david-o-russell-still-making-movies/",
+      "image": "https://www.slashfilm.com/img/gallery/the-madden-trailer-makes-us-wonder-how-david-o-russell-is-still-making-movies/l-intro-1790269848.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "8f4c0d7a1b7f42fe",
+      "title": "5 Years Ago Today: One Of The Worst Broadway Adaptations Ever Made Arrived In Theaters",
+      "quote": "Once you know the premise for this Broadway musical adaptation, you can see why the movie became a disaster five years ago.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Sandy Schaefer)",
+      "date": "2026-09-24T17:00:00+00:00",
+      "link": "https://www.slashfilm.com/2266950/dear-evan-hansen-worst-broadway-adaptation-5-year-anniversary/",
+      "image": "https://www.slashfilm.com/img/gallery/dear-evan-hansen-worst-broadway-adaptation-5-year-anniversary/l-intro-1790205847.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "0b9f577936efce97",
@@ -106,6 +183,17 @@
       "link": "https://www.thehindu.com/entertainment/movies/actor-mushtaq-khan-dies-at-75/article71505206.ece",
       "image": "https://th-i.thgim.com/public/incoming/lqsvq0/article71505235.ece/alternates/LANDSCAPE_1200/HS_g_3GagAAG35F.jpeg",
       "category": "Indian Cinema"
+    },
+    {
+      "id": "3e1dcacc75ec950e",
+      "title": "‘Cracking auction, Gromit!’ Original Aardman puppets go under the hammer",
+      "quote": "Wallace and Gromit stop-motion models and other beloved creations raise money to train new generations of animators Wallace’s reaction as the auction got into full swing might have been a trademark “good grief!” – and…",
+      "publisher": "The Guardian",
+      "author": "Steven Morris",
+      "date": "2026-09-24T16:00:52+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/24/wallace-gromit-auction-aardman-stop-motion-puppets-animators",
+      "image": "https://i.guim.co.uk/img/media/30cf379d4f08a3a0b15601a8f8ff9bc6b6191a5a/483_0_4825_3860/master/4825.jpg?width=140&quality=85&auto=format&fit=max&s=949b3d633d4b5344f493d638655bd7b4",
+      "category": "World Cinema"
     },
     {
       "id": "417d59eb1fe8f294",
@@ -163,17 +251,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "1340856ac04cb963",
-      "title": "Star Trek: Strange New Worlds Season 4 Finale Gives Us A Taste Of A Year One Spin-Off",
-      "quote": "A proposed Star Trek: Year One spin-off isn't happening, but the Strange New Worlds Season 4 finale shows us what it could have been.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Devin Meenan)",
-      "date": "2026-09-24T13:00:00+00:00",
-      "link": "https://www.slashfilm.com/2267414/star-trek-strange-new-worlds-season-4-taste-year-one-spin-off/",
-      "image": "https://www.slashfilm.com/img/gallery/star-trek-strange-new-worlds-season-4-finale-gives-us-a-taste-of-a-year-one-spin-off/l-intro-1790250571.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "a0636741f7cdef79",
       "title": "‘NAZA’ to stream for free on The Guardian after global theatrical run, explores screenings in Israel and Palestinian territories",
       "quote": "The Venice Special Jury Prize winner will open in 56 territories, with The Guardian also exploring screenings in Israel and the occupied Palestinian territories",
@@ -183,17 +260,6 @@
       "link": "https://www.thehindu.com/entertainment/movies/naza-to-stream-for-free-on-the-guardian-after-global-theatrical-run-explores-screenings-in-israel-and-palestinian-territories/article71504060.ece",
       "image": "https://th-i.thgim.com/public/incoming/aewfv2/article71504077.ece/alternates/LANDSCAPE_1200/Italy_Venice_Film_Festival_Awards_Photo_Call_77392.jpg",
       "category": "Indian Cinema"
-    },
-    {
-      "id": "47a3948d49dd1f76",
-      "title": "Star Trek: Strange New Worlds Season 4 Finale Confirms The Fate Of Several Beloved Characters",
-      "quote": "Since Star Trek: Strange New Worlds is a prequel, the fates of several characters who don't appear later are up in the air. Season 4 provides some answers.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Devin Meenan)",
-      "date": "2026-09-24T12:00:00+00:00",
-      "link": "https://www.slashfilm.com/2267409/star-trek-strange-new-worlds-season-4-finale-fate-beloved-characters/",
-      "image": "https://www.slashfilm.com/img/gallery/star-trek-strange-new-worlds-season-4-finale-confirms-the-fate-of-several-beloved-characters/l-intro-1790248879.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "3ca3c60b9bfde246",
@@ -238,17 +304,6 @@
       "link": "https://www.bbc.com/culture/article/20260923-12-of-the-best-films-to-watch-this-october?ocid=global_culture_rss",
       "image": "https://ychef.files.bbci.co.uk/144x81/p0pc2hz9.jpg",
       "category": "World Cinema"
-    },
-    {
-      "id": "fb7a9dbf2b76536f",
-      "title": "5 Years Ago Today: Apple TV Launched One Of The Most Ambitious Sci-Fi Shows Ever Made",
-      "quote": "Five years ago today, Apple TV took a big risk launching its highly ambitious TV adaptation of Foundation. It paid off in the end.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Rafael Motamayor)",
-      "date": "2026-09-24T11:00:00+00:00",
-      "link": "https://www.slashfilm.com/2254169/foundation-apple-tv-sci-fi-series-5-year-anniversary/",
-      "image": "https://www.slashfilm.com/img/gallery/5-years-ago-today-apple-tv-launched-one-of-the-most-ambitious-sci-fi-shows-ever-made/l-intro-1788979479.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "cf4797f1012744be",
@@ -416,17 +471,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "331ad2eff2b5d04d",
-      "title": "Why Marvel's Daredevil: Born Again Was Canceled At Disney Plus",
-      "quote": "Daredevil: Born Again has been canceled by Marvel Studios, but its ratings aren't the only thing that led to the Disney+ series' demise.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-09-23T19:45:56+00:00",
-      "link": "https://www.slashfilm.com/2266955/why-marvel-daredevil-born-again-canceled-disney-plus/",
-      "image": "https://www.slashfilm.com/img/gallery/why-marvels-daredevil-born-again-was-canceled-at-disney-plus/l-intro-1790192611.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "36a5d693ff3dcdbf",
       "title": "‘Les Misérables’ Review: A Starry, Lavishly Empty, French-Language Version of Victor Hugo’s Epic",
       "quote": "Nobody sings in the latest adaptation of Victor Hugo’s 1462-page cinder-block classic, but the absence of rousing musical numbers does not mean that Fred Cavayé’s “Les Misérables” is going for gritty realism. The…",
@@ -482,28 +526,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "345c9386b4f35219",
-      "title": "The Love Hypothesis Ending Explained: Do Olive And Adam End Up Together?",
-      "quote": "Let's discuss the ending of The Love Hypothesis and how the movie version of the hit Star Wars fan fiction story turned rom-com novel plays out.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Nina Starner)",
-      "date": "2026-09-23T18:00:00+00:00",
-      "link": "https://www.slashfilm.com/2264729/the-love-hypothesis-movie-ending-explained/",
-      "image": "https://www.slashfilm.com/img/gallery/the-love-hypothesis-ending-explained-do-olive-and-adam-end-up-together/l-intro-1790024732.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "075eccfb1fc17f27",
-      "title": "Why Olive Smith From The Love Hypothesis Looks So Familiar",
-      "quote": "Olive Smith in Prime Video's The Love Hypothesis will look familiar to anyone who watched one of the wildest CW series in recent memory.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-09-23T17:00:00+00:00",
-      "link": "https://www.slashfilm.com/2261842/olive-smith-the-love-hypothesis-actress-lili-reinhart/",
-      "image": "https://www.slashfilm.com/img/gallery/why-olive-smith-from-the-love-hypothesis-looks-so-familiar/l-intro-1789677770.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "07670e152de0f3ca",
       "title": "‘Brace Your Heart’ Review: Tradition and Modernity Collide in an Impassioned Ode to Sámi Womanhood",
       "quote": "For those of us who only ever think about reindeer when December draws in, and even then in a fairly abstract sense, “Brace Your Heart” arrives as a flinty reality check. Following the life and trials of a young female…",
@@ -534,17 +556,6 @@
       "date": "2026-09-23T13:00:00+00:00",
       "link": "https://www.rogerebert.com/reviews/the-love-hypothesis-lili-reinhart-prime-video-movie-review-2026",
       "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "471fc768e2a74bdd",
-      "title": "Manhunter review – Michael Mann serves up a bold and queasy starter to the serial killer spectacle",
-      "quote": "Before Anthony Hopkins’ Dr Lecter in The Silence of the Lambs, Brian Cox played a cannibalistic killer in Mann’s pioneering Red Dragon adaptation Five years before The Silence of the Lambs, there was writer-director…",
-      "publisher": "The Guardian",
-      "author": "Peter Bradshaw",
-      "date": "2026-09-23T12:00:47+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/23/manhunter-review-brian-cox-hannibal-michael-mann-red-dragon-adaptation",
-      "image": "https://i.guim.co.uk/img/media/9bf37bb60e46359bd54af65f312a7d1b895d56ab/500_0_2340_1872/master/2340.jpg?width=140&quality=85&auto=format&fit=max&s=bf63c9274396ecb0df33b53e91aac371",
       "category": "World Cinema"
     },
     {
@@ -720,17 +731,6 @@
       "author": "Frank Scheck",
       "date": "2026-09-20T14:38:22+00:00",
       "link": "https://www.hollywoodreporter.com/movies/movie-reviews/forgotten-island-review-dreamworks-animation-1236706120/",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "b8c25a3e42c5120c",
-      "title": "Run Terry Run",
-      "quote": "Should be studied for how it properly builds a documentary around its archival footage.",
-      "publisher": "RogerEbert.com",
-      "author": "Zachary Lee",
-      "date": "2026-09-19T22:15:00+00:00",
-      "link": "https://www.rogerebert.com/reviews/run-terry-run-documentary-film-review-2026",
       "image": null,
       "category": "World Cinema"
     },
