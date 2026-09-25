@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T11:37:24.777094+00:00",
+  "generated_at": "2026-09-25T16:59:41.755177+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -9,6 +9,347 @@
   ],
   "reviews": [
     {
+      "id": "41e31d6056678736",
+      "title": "‘The Rehearsal’s Nathan Fielder Just Helped A Pilots’ Mental Health Bill Become Law",
+      "quote": "Nathan Fielder has had a wild year. Fielder caused a media storm earlier this month at the Telluride Film Festival after it was revealed that he and Lance Oppenheim had made a secret documentary with Elizabeth Holmes…",
+      "publisher": "Deadline",
+      "author": "Peterdeadline",
+      "date": "2026-09-25T16:55:15+00:00",
+      "link": "https://deadline.com/2026/09/nathan-fielder-pilots-mental-health-the-rehearsal-law-1237113905/",
+      "image": "https://deadline.com/wp-content/uploads/2025/08/nathan-fielder_32.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "d06b758cf72e45ef",
+      "title": "‘Off Campus’ Star Ella Bright Joins Mason Thames In Sony Coming-Of-Age Comedy ‘Narcs’",
+      "quote": "EXCLUSIVE: Ella Bright, star of Prime Video’s hit romantic drama series Off Campus, has landed her first big studio feature role. She’s signed on for the female lead opposite The Black Phone‘s Mason Thames in Narcs, the…",
+      "publisher": "Deadline",
+      "author": "Matthewgrobar",
+      "date": "2026-09-25T16:30:00+00:00",
+      "link": "https://deadline.com/2026/09/off-campus-ella-bright-joins-narcs-comedy-sony-1237113813/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/EllaJPG.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "9fa8fb7556fef736",
+      "title": "Mary Higgins Clark Literary Estate Signs With IAG, Literate Management & Curtis Brown",
+      "quote": "EXCLUSIVE: The literary estate of #1 New York Times bestselling author Mary Higgins Clark has signed with Independent Artist Group, Literate Management, and Curtis Brown Ltd. for representation. Together, the companies…",
+      "publisher": "Deadline",
+      "author": "Matthewgrobar",
+      "date": "2026-09-25T16:23:40+00:00",
+      "link": "https://deadline.com/2026/09/mary-higgins-clark-estate-signs-iag-literate-curtis-brown-1237113870/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/MaryHigginsClark-KisstheGirls-BernardVidal.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "8882110f0dc3e833",
+      "title": "All The Songs In ‘Ted Lasso’ Season 4 So Far",
+      "quote": "Ted’s back! Well, first, Rebecca (Hannah Waddingham), Leslie Higgins (Jeremy Swift) and Keeley Jones (Juno Temple) have to visit him in Kansas City, where he has taken up a cashier job at the supermarket. After…",
+      "publisher": "Deadline",
+      "author": "Dessi Gomez",
+      "date": "2026-09-25T16:18:43+00:00",
+      "link": "https://deadline.com/feature/ted-lasso-season-4-songs-soundtrack-1237018779/",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Ted_Lasso_Photo_040203.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "12fe28a84afeeb3b",
+      "title": "Ella Purnell, Caleb Landry Jones & Samba Schutte Latest To Join Ari Aster’s ‘Scapegoat’ For A24 & Square Peg",
+      "quote": "EXCLUSIVE: Ari Aster has added three more to the cast of his new A24 film, Scapegoat: Fallout‘s Ella Purnell, Caleb Landry Jones (Get Out), and Pluribus breakout Samba Schutte. Character details are being kept under…",
+      "publisher": "Deadline",
+      "author": "Matthewgrobar",
+      "date": "2026-09-25T16:15:00+00:00",
+      "link": "https://deadline.com/2026/09/ella-purnell-caleb-landry-jones-samba-schutte-scapegoat-1237113203/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Ella-Purnell-Caleb-Landry-Jones-and-Samba-Schutte.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "7864bb72e98536cb",
+      "title": "Bleecker Street Hires A24’s Frank Martinez As Head Of Distribution",
+      "quote": "A24’s Head of Theatrical Sales, Frank Martinez, is heading over to Bleecker Street as their new Head of Distribution, effective today. This comes in the wake of Bleecker Street’s former Distribution Chief, Kyle Davies…",
+      "publisher": "Deadline",
+      "author": "Anthonypauldalessandro",
+      "date": "2026-09-25T16:15:00+00:00",
+      "link": "https://deadline.com/2026/09/bleecker-street-frank-martinez-distribution-1237113841/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Frank-Martinez.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "3487c1cb51d34e08",
+      "title": "Sharon Levy Leaving Endemol Shine North America After Nearly A Decade",
+      "quote": "EXCLUSIVE: Sharon Levy is moving on from Endemol Shine North America. Levy, a well-known member of the unscripted television community, is leaving the MasterChef producer after nearly ten years. Deadline understands…",
+      "publisher": "Deadline",
+      "author": "Peterdeadline",
+      "date": "2026-09-25T16:14:00+00:00",
+      "link": "https://deadline.com/2026/09/sharon-levy-exiting-endemol-shine-north-america-1237113142/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Sharon_Levy.png",
+      "category": "World Cinema"
+    },
+    {
+      "id": "f16b7a5043296307",
+      "title": "‘Yaga’ Trailer Teases Spooky, Steamy Thriller With Carrie-Anne Moss & Hudson Williams",
+      "quote": "We’re getting an extended look at Yaga in the official trailer for the mystery thriller series ahead of its October 23 premiere on AMC+. Set to Alanis Morissette’s haunting cover of Donovan’s “Season of the Witch”, the…",
+      "publisher": "Deadline",
+      "author": "Denise Petski",
+      "date": "2026-09-25T16:13:54+00:00",
+      "link": "https://deadline.com/2026/09/yaga-trailer-hudson-williams-carrie-anne-moss-1237113827/",
+      "image": "https://deadline.com/wp-content/uploads/2026/07/MAIN_IMAGE_LtoR_Hudson_Williams_and_Carrie-Anne_Moss_in_YAGA_photo_credit_Crave_and_Christopher_Lawrence-1.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "e5311ba148fcc5ad",
+      "title": "Dark Matter Season 2 Includes A Deep-Cut The Lord Of The Rings Reference",
+      "quote": "Dark Matter Season 2 contains a poignant reference to J.R.R. Tolkien's The Fellowship of the Ring. Here's how the LOTR reference fits into this show.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Jeremy Mathai)",
+      "date": "2026-09-25T16:00:00+00:00",
+      "link": "https://www.slashfilm.com/2266529/dark-matter-season-2-episode-5-lord-of-the-rings-reference-explained/",
+      "image": "https://www.slashfilm.com/img/gallery/dark-matter-season-2-includes-a-deep-cut-the-lord-of-the-rings-reference/l-intro-1790177196.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "6f30a3404ea9fcc4",
+      "title": "‘Charlie Harper’ Review: Emilia Jones and Nick Robinson Come Apart, in Fits and Starts, in a Fuzzy, Non-Linear Breakup Drama",
+      "quote": "The first thing to know about “Charlie Harper” is that it’s not, in fact, about someone called Charlie Harper. Charlie (Nick Robinson) and Harper (Emilia Jones) are a couple, meeting and parting at various stages across…",
+      "publisher": "Variety",
+      "author": "Guy Lodge",
+      "date": "2026-09-25T15:35:10+00:00",
+      "link": "https://variety.com/2026/film/reviews/charlie-harper-review-1236875513/",
+      "image": "https://variety.com/wp-content/uploads/2025/09/Charlie-Harper_Still__c50ef8.webp",
+      "category": "World Cinema"
+    },
+    {
+      "id": "dd801a196bf66cb5",
+      "title": "18th IDSFFK begins under a cloud of censorship",
+      "quote": "Uncertainty remains over the 31 films for which the Union Ministry of Information and Broadcasting (I&B) has denied censor exemption even as Minister for Cultural Affairs said the Kerala State Chalachitra Academy is…",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-25T15:19:39+00:00",
+      "link": "https://www.thehindu.com/news/national/kerala/18th-idsffk-begins-under-a-cloud-of-censorship/article71509212.ece",
+      "image": "https://th-i.thgim.com/public/incoming/4hy7bv/article71509727.ece/alternates/LANDSCAPE_1200/6.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "221ef32f4f200b3f",
+      "title": "Dark Matter Season 2 Subtly Adapts The Most Tragic Scene From Blake Crouch's Book",
+      "quote": "The latest episode of Apple TV's Dark Matter takes a fascinating creative swing - and along the way, it adapts a tragic moment from the original sci-fi novel.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Jeremy Mathai)",
+      "date": "2026-09-25T15:00:00+00:00",
+      "link": "https://www.slashfilm.com/2265310/dark-matter-season-2-episode-5-adapts-book-tragic-scene/",
+      "image": "https://www.slashfilm.com/img/gallery/dark-matter-season-2-subtly-adapts-the-most-tragic-scene-from-blake-crouchs-book/l-intro-1790088903.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "a9213c908d569093",
+      "title": "‘Village Rockstars 2’ movie review: Rima Das returns with a psalm of resistance",
+      "quote": "If the 2017 original was a euphoric, barefoot sprint through childhood fantasies, this luminous sequel is a melancholic exhale of coming of age.",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-25T14:47:20+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/village-rockstars-2-movie-review-rima-das-returns-with-a-psalm-of-resistance/article71509483.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/ol52jr/article71509520.ece/alternates/LANDSCAPE_1200/Bhanita%20Das%20in%20%E2%80%98Village%20Rockstars%202%E2%80%99",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "d876fac8eff610c5",
+      "title": "DreamWorks' New Animated Sci-Fi Movie Took Notes From A Late Anime Legend [Exclusive]",
+      "quote": "The directors of Forgotten Island tell us about how the movie's best scene was inspired by legendary anime filmmaker Satoshi Kon.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Ben Pearson)",
+      "date": "2026-09-25T14:00:00+00:00",
+      "link": "https://www.slashfilm.com/2262937/dreamworks-sci-fi-movie-forgotten-island-anime-influence/",
+      "image": "https://www.slashfilm.com/img/gallery/dreamworks-new-animated-sci-fi-movie-took-notes-from-a-late-anime-legend-exclusive/l-intro-1789751502.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "40cf3c4e13bd55f2",
+      "title": "‘Dhoomakethu’ movie review: A humorous time loop film which works in parts",
+      "quote": "For a part of the film’s runtime, a blend of the now familiar time loop trope with humour seems to work, until some of the hard work unravels due to weak writing of the background story",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-25T13:28:28+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/dhoomakethu-movie-review-a-humorous-time-loop-film-which-works-in-parts/article71508467.ece",
+      "image": "https://th-i.thgim.com/public/news/national/kerala/ko3bwn/article71508459.ece/alternates/LANDSCAPE_1200/dhoomakethu.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "4a72b43951c9293a",
+      "title": "‘Primetime’ movie review: Robert Pattinson is fiendishly good in Lance Oppenheim’s vivisection of televised virtue",
+      "quote": "Lance Oppenheim is turning the machine back onto its makers. This is exploitation art made from exploitative artists, and it’s wickedly entertaining to witness",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-25T13:01:02+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/primetime-movie-review-robert-pattinson-is-fiendishly-good-in-lance-oppenheims-vivisection-of-televised-virtue/article71508788.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/5xfs9x/article71508783.ece/alternates/LANDSCAPE_1200/images.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "64232db90353fd19",
+      "title": "Forgotten Island",
+      "quote": "A raucous folktale filled with unique characters and situations, from the team behind \"Puss in Boots: The Last Wish.\"",
+      "publisher": "RogerEbert.com",
+      "author": "Matt Zoller Seitz",
+      "date": "2026-09-25T13:00:00+00:00",
+      "link": "https://www.rogerebert.com/reviews/forgotten-island-animated-film-review-2026",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "69961c5a82916e98",
+      "title": "Heart of the Beast",
+      "quote": "When the movie is giving us time with its actual flesh-and-blood components, “Heart of the Beast” is consistently moving.",
+      "publisher": "RogerEbert.com",
+      "author": "Glenn Kenny",
+      "date": "2026-09-25T13:00:00+00:00",
+      "link": "https://www.rogerebert.com/reviews/heart-of-the-beast-brad-pitt-dog-film-review-2026",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "5433ce0ae7647989",
+      "title": "The Scout",
+      "quote": "Gonzalez-Nasser’s personal knowledge of this role makes “The Scout” peculiarly poetic.",
+      "publisher": "RogerEbert.com",
+      "author": "Cortlyn Kelly",
+      "date": "2026-09-25T13:00:00+00:00",
+      "link": "https://www.rogerebert.com/reviews/the-scout-movie-review-2026",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "73ae8aca99d84338",
+      "title": "Unabomber",
+      "quote": "A hackneyed blend of true-crime drama and banal biopic tropes.",
+      "publisher": "RogerEbert.com",
+      "author": "Robert Daniels",
+      "date": "2026-09-25T13:00:00+00:00",
+      "link": "https://www.rogerebert.com/reviews/unabomber-jacob-tremblay-russell-crowe-netflix-movie-review-2026",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "fb9ded0537df952d",
+      "title": "The Deputy",
+      "quote": "A diligent, but ultimately staid genre pastiche that banks hard on its stolid young lead’s charisma.",
+      "publisher": "RogerEbert.com",
+      "author": "Simon Abrams",
+      "date": "2026-09-25T13:00:00+00:00",
+      "link": "https://www.rogerebert.com/reviews/the-deputy-duke-nicholson-william-h-macy-movie-review-2026",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "719b78f7b1961c12",
+      "title": "Never After Dark",
+      "quote": "Boyle and his collaborators take a few jarring creative shortcuts and by-passes, but pull off most of what they attempt.",
+      "publisher": "RogerEbert.com",
+      "author": "Simon Abrams",
+      "date": "2026-09-25T13:00:00+00:00",
+      "link": "https://www.rogerebert.com/reviews/never-after-dark-horror-film-review-2026",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "31db421fc805498b",
+      "title": "Twiggy",
+      "quote": "An inspiring story of Twiggy’s extraordinary resilience through difficult times.",
+      "publisher": "RogerEbert.com",
+      "author": "Nell Minow",
+      "date": "2026-09-25T13:00:00+00:00",
+      "link": "https://www.rogerebert.com/reviews/twiggy-documentary-film-review-2026",
+      "image": null,
+      "category": "Festival Winners"
+    },
+    {
+      "id": "8f028200b8c3a91d",
+      "title": "Ha-chan, Shake Your Booty!",
+      "quote": "Rinko Kikuchi is radiant in the film.",
+      "publisher": "RogerEbert.com",
+      "author": "Nell Minow",
+      "date": "2026-09-25T13:00:00+00:00",
+      "link": "https://www.rogerebert.com/reviews/ha-chan-shake-your-booty-rinko-kikuchi-movie-review-2026",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "2a0aad67ddded28a",
+      "title": "How Accurate Is Robert Pattinson's Chris Hansen Performance In Primetime?",
+      "quote": "In Primetime, Robert Pattinson plays To Catch a Predator host Chris Hansen. But just how accurate is Pattinson's portrayal of the real life figure?",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Chris Evangelista)",
+      "date": "2026-09-25T13:00:00+00:00",
+      "link": "https://www.slashfilm.com/2266679/robert-pattinson-chris-hansen-performance-primetime-accuracy/",
+      "image": "https://www.slashfilm.com/img/gallery/robert-pattinson-chris-hansen-performance-primetime-accuracy/l-intro-1790247387.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "605260c9d3998864",
+      "title": "‘Runner’ movie review: Alan Ritchson and Owen Wilson charm in action comedy",
+      "quote": "Good action sequences, crackling chemistry between Alan Ritchson and Owen Wilson, and some genuine laughs, come together in a serviceable thriller undone by an overwrought third act",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-25T12:57:17+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/runner-movie-review/article71508294.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/kfiy13/article71508851.ece/alternates/LANDSCAPE_1200/Screenshot-2026-04-13-at-5.03.13-PM.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "4b09f8053f6630a3",
+      "title": "‘Dorothy’ movie review: Karthik Subbaraj’s most audacious, disruptive film yet is a crowning achievement",
+      "quote": "In ‘Dorothy’, Karthik Subbaraj turns a sensitive story of masculine violence into a poignant and radical examination of repression, caste and identity, while quietly striking back at the hatred it has attracted online",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-25T12:52:23+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/dorothy-movie-review-karthik-subbaraj-ilaiyaraaja-sananth-rishikanth-keerthy-suresh/article71508353.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/rxb6hx/article71508419.ece/alternates/LANDSCAPE_1200/dorothy%20review.jpeg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "d9480536b5a75786",
+      "title": "‘In our deepest hearts we are voyeurs’: the paedophile-hunting show that inspired Robert Pattinson’s new film",
+      "quote": "Experts and insiders explain how To Catch A Predator became the most controversial show on 2000s TV A man from Long Beach, California, is here to have sex with someone he believes is a 13-year-old girl. When the…",
+      "publisher": "The Guardian",
+      "author": "David Smith in Washington",
+      "date": "2026-09-25T12:17:13+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/25/chris-hansen-paedophile-show-robert-pattinson",
+      "image": "https://i.guim.co.uk/img/media/eeee71025119e7232798f56cfffc2a12e945d94e/394_0_1860_1488/master/1860.jpg?width=140&quality=85&auto=format&fit=max&s=c347599cba3cde7efe9d27226d6dcb73",
+      "category": "World Cinema"
+    },
+    {
+      "id": "7114c0d287775df1",
+      "title": "Star Trek: Strange New Worlds Season 4 Finale Features Cameos From '70s Characters Fans Never Expected To See Again",
+      "quote": "Characters from Star Trek: The Animated Series make their live-action debut in the Season 4 finale of Strange New Worlds.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Jeremy Mathai)",
+      "date": "2026-09-25T12:00:00+00:00",
+      "link": "https://www.slashfilm.com/2267439/star-trek-strange-new-worlds-season-4-finale-70s-characters-cameos/",
+      "image": "https://www.slashfilm.com/img/gallery/star-trek-strange-new-worlds-season-4-finale-features-cameos-from-70s-characters-fans-never-expected-to-see-again/l-intro-1790251923.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "536ba04c7b07c44b",
+      "title": "Meryl Streep’s casting as Aslan has angered the Christian right. Don’t they have more pressing issues?",
+      "quote": "The Oscar-winner is voicing Narnia’s wise lion in Greta Gerwig’s adaptation of The Magician’s Nephew, leading to roars of fury from US evangelical commentators It is a confusing time to be alive, given how often these…",
+      "publisher": "The Guardian",
+      "author": "Ben Child",
+      "date": "2026-09-25T11:50:46+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/25/meryl-streep-aslan-magicians-nephew-cs-lewis-greta-gerwig",
+      "image": "https://i.guim.co.uk/img/media/4f497d0890904cc92c2d1d356f56daf503c4f9a9/941_166_1923_1540/master/1923.jpg?width=140&quality=85&auto=format&fit=max&s=b7d92fe2c342e6eae3924d05ff1cd7e5",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "cc0760186493cb5f",
+      "title": "Spark: From boardrooms to the big screen",
+      "quote": "Spark, the debut offering by GAP Studios, hits the screens this week",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-25T11:47:58+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/spark-from-boardrooms-to-the-big-screen/article71502899.ece",
+      "image": "https://th-i.thgim.com/public/incoming/7l22g1/article71502998.ece/alternates/LANDSCAPE_1200/287A0162.JPG",
+      "category": "Indian Cinema"
+    },
+    {
       "id": "8adb1da763af40cd",
       "title": "‘Hunkkaar’ series review: Aneet Padda brings grace to an affective social-drama",
       "quote": "Despite its shortfalls, the show appeals with the heartfelt rigor in its writing and aesthetics that are derived out of care",
@@ -17,17 +358,6 @@
       "date": "2026-09-25T11:29:02+00:00",
       "link": "https://www.thehindu.com/entertainment/movies/hunkkaar-series-review-aneet-padda-brings-grace-to-an-affective-social-drama/article71507899.ece",
       "image": "https://th-i.thgim.com/public/entertainment/movies/djkm9d/article71507940.ece/alternates/LANDSCAPE_1200/cvr%20-%202026-09-25T142337.569.jpg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "09f2925b14b249bf",
-      "title": "‘Monster: The Lizzie Borden Story’ series review: Ryan Murphy’s hack job collapses into a pile of ‘female serial killer’ stereotypes",
-      "quote": "Murphy and Brennan’s attempt to link one female killer to another, flattens all the women to represent the sum of the crimes committed against them, and the crimes they subsequently committed against others",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-25T11:05:23+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/monster-the-lizzie-borden-story-series-review-ryan-murphys-hack-job-collapses-into-a-pile-of-female-serial-killer-stereotypes/article71507919.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/w6nup6/article71508401.ece/alternates/LANDSCAPE_1200/Ella%20Beatty%20in%20%E2%80%98Monster%20The%20Lizzie%20Borden%20Story%E2%80%99",
       "category": "Indian Cinema"
     },
     {
@@ -42,17 +372,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "95990665c97434fa",
-      "title": "Noel Hedges Joins Boat Rocker Studios In Global Acquisitions Role",
-      "quote": "EXCLUSIVE: International TV industry veteran Noel Hedges has found his next gig. We can reveal Hedges has joined Canada’s Boat Rocker Studios as Senior VP, Global Acquisitions and Content Strategy. The role will be…",
-      "publisher": "Deadline",
-      "author": "Jesse Whittock",
-      "date": "2026-09-25T11:00:00+00:00",
-      "link": "https://deadline.com/2026/09/noel-hedges-joins-boat-rocker-studios-1237113006/",
-      "image": "https://deadline.com/wp-content/uploads/2026/01/Noel-Hedges.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "57eacdf948aa73b8",
       "title": "12 Years Ago Today, Denzel Washington Launched One Of The 2010s Best Action Thriller Franchises",
       "quote": "12 years ago today, the great Denzel Washington reunited with his Training Day director to launch an action thriller franchise that's still ongoing.",
@@ -64,72 +383,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "f689211d207da993",
-      "title": "‘Heggana Muddu’ movie review: Poorna is brilliant in a relationship drama undone by its contradictions",
-      "quote": "The Kannada relationship drama ‘Heggana Muddu’ dives into an arranged marriage that starts real and ends complicated, with performances from Poornachandra Mysore and Aditi Sagar being the major positive",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-25T10:55:27+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/heggana-muddu-review-heggana-muddu-movie-review-dhananjaya-poornachandra-mysore-aditi-sagar/article71507097.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/pc6ops/article71507110.ece/alternates/LANDSCAPE_1200/Heggana%20Muddu.jpeg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "b7e3e16e64fea7e3",
-      "title": "BBC Studios Names Mediawan’s Sally Habbershaw President Of Global Distribution",
-      "quote": "BBC Studios has a new global distribution chief in place. Sally Habbershaw is exiting Mediawan after less than a year to become President of Global Distribution at the BBC’s commercial arm. Her London-based role will…",
-      "publisher": "Deadline",
-      "author": "Jesse Whittock",
-      "date": "2026-09-25T10:54:20+00:00",
-      "link": "https://deadline.com/2026/09/bbc-studios-names-sally-habbershaw-president-distribution-1237113669/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Sally-Habbershaw-1-e1790333157671.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "ca3abc37ed03887c",
-      "title": "‘Pooja Meri Jaan’: Trailer of Huma Qureshi and Mrunal Thakur’s film unveiled",
-      "quote": "Directed by Navjot Gulati, the film also stars Vikram Singh Chauhan and Vijay Raaz in pivotal roles",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-25T10:29:56+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/pooja-meri-jaan-trailer-of-huma-qureshi-and-mrunal-thakurs-film-unveiled/article71508254.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/h1rjb9/article71508263.ece/alternates/LANDSCAPE_1200/Huma%20Qureshi%20and%20Mrunal%20Thakur%20in%20the%20poster%20of%20%E2%80%98Pooja%20Meri%20Jaan%E2%80%99",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "411ff3ce82671a51",
-      "title": "‘Anumana Pakshi’ movie review: A cluttered, exhausting crime comedy",
-      "quote": "Director Vimal Krishna’s sophomore film shares a few similarities with his debut, ‘DJ Tillu’, but fails to utilise the strengths of a potent lineup that includes Rag Mayur",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-25T10:26:03+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/anumana-pakshi-movie-review-a-cluttered-exhausting-crime-comedy/article71507980.ece",
-      "image": "https://th-i.thgim.com/public/incoming/yynu2w/article71508156.ece/alternates/LANDSCAPE_1200/anumana%20pakshi%201.jpeg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "06826afb18189be8",
-      "title": "‘Meesaya Murukku 2’ movie review: Hiphop Tamizha Adhi’s gaana-driven underdog tale struggles to find rhythm",
-      "quote": "‘Meesaya Murukku 2’ takes on gaana culture, caste and class barriers in the music industry, but its many ideas come at the cost of a focussed story",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-25T10:00:17+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/meesaya-murukku-2-movie-review-hiphop-tamizha-adhis-gaana-driven-underdog-tale-struggles-to-find-rhythm/article71507822.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/wil844/article71507976.ece/alternates/LANDSCAPE_1200/ZD2A1481.jpg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "0ca245ac9debcfda",
-      "title": "Percy Hynes White & Jeff Wahlberg Lead Lovers-On-The-Run Thriller ‘Crime Novella’, Roland Emmerich Exec-Producing & First Look Revealed",
-      "quote": "EXCLUSIVE: Percy Hynes White (My Old Ass), Jeff Wahlberg (Euphoria), Zlatko Burić (Triangle of Sadness), Bobby Soto (The Tax Collector) and Ava del Cielo (House of Cards) have been cast in writer-director Omar de Soto’s…",
-      "publisher": "Deadline",
-      "author": "Andreas Wiseman",
-      "date": "2026-09-25T10:00:00+00:00",
-      "link": "https://deadline.com/2026/09/percy-hynes-white-jeff-wahlberg-lead-film-crime-novella-1237113163/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Percy-Hynes-White-Jeff-Wahlberg-Zlatko-Buric-Bobby-Soto-and-Ava-del-Cielo.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "7b8205e89ca947d3",
       "title": "‘She never accepted no’: Liam Neeson on dogged heroine behind Tuam mass baby grave film",
       "quote": "Catherine Corless’s exposure of almost 800 infant deaths at a home led by nuns prompted Neeson to bring the story to screen Liam Neeson still remembers his shock and shame when he read a New York Times article about the…",
@@ -138,72 +391,6 @@
       "date": "2026-09-25T09:53:48+00:00",
       "link": "https://www.theguardian.com/film/2026/sep/25/liam-neeson-tuam-babies-film-ireland-catherine-corless-dogged-heroine-monica-dolan",
       "image": "https://i.guim.co.uk/img/media/d38a26ab0e2a7b9283a82f3f9354141f1435233c/0_222_2293_1832/master/2293.jpg?width=140&quality=85&auto=format&fit=max&s=4edf2157dc12f0412d79e2fa4422d60b",
-      "category": "World Cinema"
-    },
-    {
-      "id": "a47eb644e1f1f319",
-      "title": "‘The Vvaan: Force of the Forest’ movie review: Sidharth Malhotra slogs in a lopsided eco-thriller",
-      "quote": "Engineered to exploit the current devotional fervour at the box office, in this tale of divine retribution, both the plot and the message are ultimately buried beneath a high-pitched, artificial theme-park aesthetic.",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-25T09:27:38+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/the-vvaan-force-of-the-forest-movie-review-sidharth-malhotra-slogs-in-a-lopsided-eco-thriller/article71507723.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/e55plg/article71507875.ece/alternates/LANDSCAPE_1200/Sidharth%20Malhotra%20in%20%E2%80%98The%20Vvaan%20Force%20of%20the%20Forest%E2%80%99",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "6a1c7e5b8800f7b5",
-      "title": "Tales Of Syria’s Disappeared; Lebanese Wartime Adoption & Palestinian Mental Health Set For Cinemed-Aflamuna Project Incubator",
-      "quote": "France’s Montpellier Mediterranean Film Festival, also known as Cinemed, and Beirut-based Arab cinema platform Aflamuna have unveiled the selection for their fifth project incubator event, which will take place within…",
-      "publisher": "Deadline",
-      "author": "Melanie Goodfellow",
-      "date": "2026-09-25T09:26:36+00:00",
-      "link": "https://deadline.com/2026/09/cinemed-aflamuna-project-incubator-selection-2026-1237113656/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/CINEMED-MEETINGS-2025_21-10_pitch-AFLAMUNA_my_name_is_khalil.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "0c643756445063c5",
-      "title": "Oscars: Denmark Selects May El-Toukhy’s ‘Woman Unknown’ For International Feature Film Race",
-      "quote": "Denmark has selected May el-Toukhy’s Golden Lion-winning title Woman Unknown as its entry for the Best International Feature Film category at the 99th Academy Awards. The post-World War II, Denmark-set psychological…",
-      "publisher": "Deadline",
-      "author": "Zac Ntim",
-      "date": "2026-09-25T08:59:32+00:00",
-      "link": "https://deadline.com/2026/09/may-el-toukhy-woman-unknown-oscars-denmark-1237113653/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Woman-Unknown.jpeg",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "98b47207204b8059",
-      "title": "‘Have I Got News For You’ Producer Torches BBC Investigation Into Victoria Beckham Joke As “Total Waste” Of Money",
-      "quote": "EXCLUSIVE: Have I Got News for You producer Jimmy Mulville is unhappy with the BBC’s decision to censure the show over a joke involving Victoria Beckham. In a statement shared with Deadline, Mulville — a producer who…",
-      "publisher": "Deadline",
-      "author": "Jake Kanter",
-      "date": "2026-09-25T08:37:44+00:00",
-      "link": "https://deadline.com/2026/09/have-i-got-news-for-you-attacks-bbc-victoria-beckham-ruling-1237113643/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Screenshot-2026-09-25-at-09.13.00-e1790324906514.png",
-      "category": "World Cinema"
-    },
-    {
-      "id": "4bc8142eed0a08bf",
-      "title": "ParaBros Foes Urge Court To Reject Settlement In Midnight Filings: “This Merger Lessens Competition”",
-      "quote": "“The Attorney General for the lead Plaintiff State, California, publicly criticized the very behavioral remedies that the parties now ask the Court to approve,”exclaims an amicus brief just filed in federal court by the…",
-      "publisher": "Deadline",
-      "author": "Dominic Patten",
-      "date": "2026-09-25T08:07:38+00:00",
-      "link": "https://deadline.com/2026/09/paramont-merger-foes-latest-1237113622/",
-      "image": "https://deadline.com/wp-content/uploads/2026/02/paramount-warner-bros-towers.jpg",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "531fe9b17bb540dd",
-      "title": "‘The Lion King’ Director Rob Minkoff To Develop & Exec Produce Family Pic ‘Storm Dogs’ From Tilly Norwood Creator Particle 6",
-      "quote": "EXCLUSIVE: Rob Minkoff, co-director of Disney’s classic animated hit The Lion King, is in advanced discussions to develop and executive produce Storm Dogs, an upcoming family adventure title from Tilly Norwood creator…",
-      "publisher": "Deadline",
-      "author": "Dianalodderhose",
-      "date": "2026-09-25T07:33:20+00:00",
-      "link": "https://deadline.com/2026/09/the-lion-king-rob-minkoff-storm-dogs-tilly-norwood-1237113606/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Storm-Dogs-1500.jpg",
       "category": "World Cinema"
     },
     {
@@ -227,17 +414,6 @@
       "link": "https://www.theguardian.com/film/2026/sep/25/my-dad-was-a-monster-sara-karloff-on-reviving-frankenstein-95-years-on",
       "image": "https://i.guim.co.uk/img/media/47ced4e0a3f3f6848f6301549289ffee8627102e/0_79_864_691/master/864.jpg?width=140&quality=85&auto=format&fit=max&s=226115fde353828f877055f3d458cd6c",
       "category": "World Cinema"
-    },
-    {
-      "id": "455a40d6e3e63166",
-      "title": "‘Neagley’ series review: A jolly good comfort watch",
-      "quote": "The Maria Sten-led spin-off takes the baton from Reacher and delivers an engaging first season",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-25T06:47:11+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/neagley-series-review-a-jolly-good-comfort-watch-reacher-maria-sten-prime-video/article71498553.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/ky6tqe/article71507506.ece/alternates/LANDSCAPE_1200/Maria%20Sten%20in%20%E2%80%98Neagley%E2%80%99%20season%201",
-      "category": "Indian Cinema"
     },
     {
       "id": "c1c4f8dfb8afae38",
@@ -275,7 +451,7 @@
     {
       "id": "23c9d5265dbdbdb4",
       "title": "‘Unabomber’ Review: Jacob Tremblay and Russell Crowe in a Facile Rendering of Ted Kaczynski’s College Days",
-      "quote": "Director Janus Metz's psychological true-crime thriller, also starring Shailene Woodley, attempts to plumb the depths of a pivotal moment in the infamous murderer’s life, during his time as a Harvard student.",
+      "quote": "Director Janus Metz's thriller, also starring Shailene Woodley, attempts to plumb the depths of a pivotal moment in the infamous murderer’s life — his time as a Harvard student.",
       "publisher": "The Hollywood Reporter",
       "author": "Richard Lawson",
       "date": "2026-09-25T01:00:00+00:00",
@@ -350,17 +526,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "fd2aeeaf2d8e3531",
-      "title": "Writer Stephen King Has A Perfect Horror Miniseries Recommendation On Netflix",
-      "quote": "Stephen King, the master of horror and master recommender, is at it again with a suggestion of a Netflix horror miniseries that you should check out.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-09-24T21:17:58+00:00",
-      "link": "https://www.slashfilm.com/2268365/writer-stephen-king-horror-miniseries-my-sad-dead-streaming-netflix/",
-      "image": "https://www.slashfilm.com/img/gallery/writer-stephen-king-has-a-perfect-horror-miniseries-recommendation-on-netflix/l-intro-1790284558.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "377dcd788ba13ece",
       "title": "Susan Sarandon, Hannah Einbinder arrested while protesting Netanyahu's UN trip [Updated]",
       "quote": "Israeli Prime Minister Benjamin Netanyahu, whom the United Nations accused of leading a genocide, spoke at the UN today.",
@@ -383,50 +548,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "779fdc3f3df37cc8",
-      "title": "Does Odin The Dog Die In Brad Pitt's Heart Of The Beast?",
-      "quote": "We come to this place to answer the most important question about Brad Pitt's new movie Heart of the Beast: does the dog die?",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Bill Bria)",
-      "date": "2026-09-24T20:00:00+00:00",
-      "link": "https://www.slashfilm.com/2267533/does-odin-dog-die-brad-pitt-heart-of-the-beast/",
-      "image": "https://www.slashfilm.com/img/gallery/does-odin-the-dog-die-in-brad-pitts-heart-of-the-beast/l-intro-1790256329.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "38d2b13284ada0db",
-      "title": "La bola negra",
-      "quote": "An act of reclamation of emotional truth from the grip of fascism and the burying tide of history.",
-      "publisher": "RogerEbert.com",
-      "author": "Brian Tallerico",
-      "date": "2026-09-24T17:55:12+00:00",
-      "link": "https://www.rogerebert.com/reviews/la-bola-negra-netflix-penelope-cruz-glenn-close-film-review-2026",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "0729bc0ebd4ec161",
-      "title": "Lili Reinhart's 112-Minute Rom-Com Is Officially Prime Video's Biggest Streaming Hit",
-      "quote": "Sure enough, this best-selling novel turned Prime Video rom-com flick (starring Lili Reinhart) is quickly becoming a streaming hit.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-09-24T17:46:47+00:00",
-      "link": "https://www.slashfilm.com/2267980/lili-reinhart-rom-com-the-love-hypothesis-prime-video-september-2026/",
-      "image": "https://www.slashfilm.com/img/gallery/lili-reinharts-112-minute-rom-com-is-officially-prime-videos-biggest-streaming-hit/l-intro-1790271957.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "493b4ecc9098abf4",
-      "title": "Why Robert Pattinson Doubts That His Batman Will Be In James Gunn's DC Universe",
-      "quote": "Robert Pattinson has chimed in about whether his Batman will appear in the DC Universe, and the actor explains why it'd be tough to imagine that happening.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Ryan Scott)",
-      "date": "2026-09-24T17:34:43+00:00",
-      "link": "https://www.slashfilm.com/2267956/why-robert-pattinson-batman-doubt-james-gunn-dc-universe/",
-      "image": "https://www.slashfilm.com/img/gallery/why-robert-pattinson-doubts-that-his-batman-will-be-in-james-gunns-dc-universe/l-intro-1790271142.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "39fe7fd9f0defb59",
       "title": "‘Forgotten Island’ Review: A Delightful Animated Celebration of Friendship and Filipino Culture",
       "quote": "In Hollywood, parallel thought is a funny thing. As in every other sphere, two or more people can have a similar idea at the same time, but when those ideas bloom into movies, their release can feel like a land rush…",
@@ -436,17 +557,6 @@
       "link": "https://variety.com/2026/film/reviews/forgotten-island-review-1236874557/",
       "image": "https://variety.com/wp-content/uploads/2026/09/Forgotten-Island.jpg",
       "category": "World Cinema"
-    },
-    {
-      "id": "0c2ed0a7c4ec7bdf",
-      "title": "The Madden Trailer Makes Us Wonder How David O. Russell Is Still Making Movies",
-      "quote": "Nicolas Cage is John Madden in the trailer for David O. Russell's Madden, a film that, by the look of it, may finally land Russell in directors' jail.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Jeremy Smith)",
-      "date": "2026-09-24T17:13:23+00:00",
-      "link": "https://www.slashfilm.com/2267915/madden-trailer-how-david-o-russell-still-making-movies/",
-      "image": "https://www.slashfilm.com/img/gallery/the-madden-trailer-makes-us-wonder-how-david-o-russell-is-still-making-movies/l-intro-1790269848.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "88e3fa714a492b34",
@@ -471,28 +581,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "8917051664a7f6fa",
-      "title": "Your Mother Your Mother Your Mother",
-      "quote": "A breathtaking hybrid of religious commentary, samurai action and family drama.",
-      "publisher": "RogerEbert.com",
-      "author": "Brian Tallerico",
-      "date": "2026-09-24T13:54:43+00:00",
-      "link": "https://www.rogerebert.com/reviews/your-mother-your-mother-your-mother-mahershala-ali-movie-review-2026",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "2e82ac2a796ab364",
-      "title": "Primetime",
-      "quote": "\"Primetime\" gets under your skin and stays there.",
-      "publisher": "RogerEbert.com",
-      "author": "Matt Zoller Seitz",
-      "date": "2026-09-24T13:53:25+00:00",
-      "link": "https://www.rogerebert.com/reviews/primetime-robert-pattinson-a24-film-review-2026",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
       "id": "20cf54e7631a37a7",
       "title": "12 of the best films to watch this October",
       "quote": "From Verity and Digger to Sense and Sensibility",
@@ -513,28 +601,6 @@
       "link": "https://www.theguardian.com/film/2026/sep/24/global-release-announced-for-acclaimed-gaza-documentary-naza",
       "image": "https://i.guim.co.uk/img/media/3fa7c1678f5a6282da9f66019bda1865327570a9/126_119_2548_2038/master/2548.jpg?width=140&quality=85&auto=format&fit=max&s=962fcc2a1a38fffcafa8426ddfcbaf5c",
       "category": "Festival Winners"
-    },
-    {
-      "id": "2eec9e9eba09b269",
-      "title": "Post your questions for Zach Braff",
-      "quote": "Known to many as JD in Scrubs, Zach Braff has forged a path as a successful writer and director since the release of his acclaimed 2004 indie film Garden State. Now’s your chance to ask him your burning questions…",
-      "publisher": "The Guardian",
-      "author": "Rich Pelley",
-      "date": "2026-09-24T09:51:37+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/24/post-your-questions-for-zach-braff",
-      "image": "https://i.guim.co.uk/img/media/275c442b935516a0108b64429deb8e754b8727bf/398_0_4044_3235/master/4044.jpg?width=140&quality=85&auto=format&fit=max&s=98becca0345a1898c05eed583ee3cfc7",
-      "category": "World Cinema"
-    },
-    {
-      "id": "cf5cca97e456438c",
-      "title": "‘I’m a writer but then nobody’s perfect’: how Billy Wilder conquered Hollywood",
-      "quote": "From émigré roots to a titan of modern cinema, penning classics such as Double Indemnity, Some Like It Hot and The Apartment, a new retrospective celebrates the father of film noir’s incredible career Like all…",
-      "publisher": "The Guardian",
-      "author": "Darren Richman",
-      "date": "2026-09-24T08:49:55+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/24/how-billy-wilder-conquered-hollywood-double-indemnity-some-like-it-hot-the-apartment",
-      "image": "https://i.guim.co.uk/img/media/73ef69088a4b4bbe60f9b262a8d948e716d29b73/56_0_1388_1111/master/1388.jpg?width=140&quality=85&auto=format&fit=max&s=ec635ee583df09ba01af7301377ce0e3",
-      "category": "World Cinema"
     },
     {
       "id": "4834702821c2cc94",
@@ -592,28 +658,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "28846b3a77e3d9ef",
-      "title": "Take Me Home",
-      "quote": "Brutally patient and triumphant in its love for its characters, it captures reality with painstaking clarity while reimagining a better world.",
-      "publisher": "RogerEbert.com",
-      "author": "Zachary Lee",
-      "date": "2026-09-23T13:00:00+00:00",
-      "link": "https://www.rogerebert.com/reviews/take-me-home-film-review-2026",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "42ae0bd6cd899df6",
-      "title": "The Love Hypothesis",
-      "quote": "It’s a miracle of miracles: a new romantic comedy that's actually charming!",
-      "publisher": "RogerEbert.com",
-      "author": "Marya E. Gates",
-      "date": "2026-09-23T13:00:00+00:00",
-      "link": "https://www.rogerebert.com/reviews/the-love-hypothesis-lili-reinhart-prime-video-movie-review-2026",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
       "id": "22c487c4c9df340c",
       "title": "Four things Jane Austen adaptations get wrong",
       "quote": "As a new Sense and Sensibility hits cinemas, experts share the common mistakes",
@@ -647,28 +691,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "9a5c15710e6ad1d9",
-      "title": "Beware Boiúna",
-      "quote": "A giant snake movie that barely lets us see the snake, choosing to throw the camera around and turn up the aggressive score every time it attacks characters that are almost impossible to care about.",
-      "publisher": "RogerEbert.com",
-      "author": "Brian Tallerico",
-      "date": "2026-09-22T14:51:41+00:00",
-      "link": "https://www.rogerebert.com/reviews/beware-boiuna-horror-movie-review-2026",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "ec728bfb6b61e54d",
-      "title": "‘Heart of the Beast’ Review: Brad Pitt Is a Veteran Stranded With His Combat Dog in David Ayer’s Stirringly Crafted Survival-in-the-Wild Saga",
-      "quote": "Ayer and Pitt (both producers on the film) have teamed up to make something that isn’t so far removed, in form and spirit, from an old-school Disney movie. But the real surprise of \"Heart of the Beast\" is how well-made…",
-      "publisher": "Variety",
-      "author": "Owen Gleiberman",
-      "date": "2026-09-22T13:01:17+00:00",
-      "link": "https://variety.com/2026/film/reviews/heart-of-the-beast-review-brad-pitt-1236870505/",
-      "image": "https://variety.com/wp-content/uploads/2026/09/HOTB_03224R.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "b29e799001ecc976",
       "title": "‘Heart of the Beast’ Review: Brad Pitt and His Canine Co-Star Earn Your Tears in David Ayer’s Tense, Tender Survival Thriller",
       "quote": "A former Special Forces soldier and his combat dog struggle to survive in the Alaskan wilderness in this adventure from the 'Fury' filmmaker.",
@@ -688,17 +710,6 @@
       "date": "2026-09-22T11:00:00+00:00",
       "link": "https://www.bbc.com/culture/article/20260918-eight-ingenious-homes-for-wildlife-around-the-world?ocid=global_culture_rss",
       "image": "https://ychef.files.bbci.co.uk/144x81/p0pbbfbj.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "befec21cc5806167",
-      "title": "The Cycle",
-      "quote": "“The Cycle” isn’t the first film to transform a family drama into a monster movie, but it feels fresh due to the commitment of its creators.",
-      "publisher": "RogerEbert.com",
-      "author": "Brian Tallerico",
-      "date": "2026-09-21T15:27:24+00:00",
-      "link": "https://www.rogerebert.com/reviews/the-cycle",
-      "image": null,
       "category": "World Cinema"
     },
     {
@@ -732,17 +743,6 @@
       "date": "2026-09-21T11:00:00+00:00",
       "link": "https://www.bbc.com/culture/article/20260918-the-most-tragic-moment-in-the-lord-of-the-rings?ocid=global_culture_rss",
       "image": "https://ychef.files.bbci.co.uk/144x81/p0pbb15r.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "dd1d218e7d7728f8",
-      "title": "A Prayer for the Dying",
-      "quote": "One of the bleakest Westerns ever made.",
-      "publisher": "RogerEbert.com",
-      "author": "Brian Tallerico",
-      "date": "2026-09-20T18:45:43+00:00",
-      "link": "https://www.rogerebert.com/reviews/a-prayer-for-the-dying-john-c-reilly-johnny-flynn-western-film-review-2026",
-      "image": null,
       "category": "World Cinema"
     },
     {
