@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T21:24:16.525910+00:00",
+  "generated_at": "2026-09-25T04:32:22.514245+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -9,14 +9,146 @@
   ],
   "reviews": [
     {
-      "id": "766b38347a644f5c",
-      "title": "Judge Tosses Donald Trump’s Lawsuit Against Des Moines Register And Pollster Ann Selzer",
-      "quote": "An Iowa judge has tossed out Donald Trump’s lawsuit against the Des Moines Register and pollster Ann Selzer, concluding that the president and his allies “stretch both Iowa statutory and common law beyond their current…",
+      "id": "ee2c0c05c3ff6105",
+      "title": "‘Jimmy Kimmel Live’ Sets Brooklyn Week With Guests Mamdani, Springsteen, Fellow Late-Night Hosts & More",
+      "quote": "As Jimmy Kimmel returns to his late-night post, he’s ready to take the show across the river for Brooklyn Week once again. On Thursday, ABC announced that Jimmy Kimmel Live! will head to Brooklyn Academy of Music’s…",
+      "publisher": "Deadline",
+      "author": "Glenn Garner",
+      "date": "2026-09-25T04:00:00+00:00",
+      "link": "https://deadline.com/2026/09/jimmy-kimmel-live-brooklyn-week-mamdani-springsteen-1237113526/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Jimmy-Kimmel-Live-Brooklyn-Week-5-shot.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "2e591abefe092447",
+      "title": "Disney Legal Chief Warns Of “Hard Choices” & “Much Smaller Organization” Coming As Company Layoffs Loom",
+      "quote": "EXCLUSIVE: An end-of-week memo from Disney’s Chief Legal and Global Affairs Officer has given an blunt warning that layoffs are coming amidst a “transformation process” that includes “automating certain workflows by…",
+      "publisher": "Deadline",
+      "author": "Dominic Patten",
+      "date": "2026-09-25T02:40:31+00:00",
+      "link": "https://deadline.com/2026/09/disney-layoffs-warning-legal-executive-1237113458/",
+      "image": "https://deadline.com/wp-content/uploads/2021/12/Horacio-Gutierrez-Walt-Disney-Company.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "bc18402bc1c1caf3",
+      "title": "How Telugu film music is changing: A space where mass, class and niche coexist",
+      "quote": "In the age of reels and streaming, here’s how music composers, from Devi Sri Prasad and Thaman to Vijai Bulganin and Chaitan Bharadwaj, are rewriting the rules of a soundtrack",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-25T02:38:07+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/how-telugu-film-music-is-changing-a-space-where-mass-class-and-niche-coexist/article71490718.ece",
+      "image": "https://th-i.thgim.com/public/incoming/c45uf8/article71490812.ece/alternates/LANDSCAPE_1200/Paradise%20aayasher%20Plain.jpg.jpeg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "cd91a2c3e337748b",
+      "title": "‘Big Brother’ Season 28, Week 11 Eviction Results: Final 3 Houseguests Revealed",
+      "quote": "SPOILER ALERT: This post contains details on Big Brother Season 28, Episode 39, which aired on Thursday, September 24. Big Brother Season 28 is down to its final four, and the night will reveal the final three…",
+      "publisher": "Deadline",
+      "author": "Armando Tinoco",
+      "date": "2026-09-25T01:47:16+00:00",
+      "link": "https://deadline.com/2026/09/big-brother-season-28-week-11-eviction-results-final-3-1237113438/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/big-brother-season-28-week-11-eviction-results.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "65a8c03cba661524",
+      "title": "‘Stuart Fails To Save The Universe’ Creators On Magic Of Returning To ‘Big Bang’ Stage, Going Multi-Cam In Meta Season 1 Finale & Season 2 Plans",
+      "quote": "SPOILER ALERT: The story includes details about the Season 1 finale “Spoiler: Filmed In Front Of a Live Studio Audience” of HBO Max’s Stuart Fails To Save the Universe. The Big Bang Theory single-camera spinoff Stuart…",
+      "publisher": "Deadline",
+      "author": "Nellie Andreeva",
+      "date": "2026-09-25T01:25:00+00:00",
+      "link": "https://deadline.com/2026/09/stuart-fails-season-1-finale-ending-explained-multi-cam-qa-1237107301/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/lauren-lapkus-kevin-sussman-john-ross-bowie-brian-posehn.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "2cdd3d5389bb5486",
+      "title": "Hannah Einbinder Speaks Out After UN Arrest, Calls For U.S. To “Bring An End” To Israel Attacks On Gaza",
+      "quote": "Following her arrest Thursday at a demonstration outside the United Nations General Assembly, Hannah Einbinder doesn’t want her message to get lost in the headlines. The Emmy-winning Hacks star urged the U.S. government…",
+      "publisher": "Deadline",
+      "author": "Glenn Garner",
+      "date": "2026-09-25T01:23:12+00:00",
+      "link": "https://deadline.com/2026/09/hannah-einbinder-speaks-out-arrest-end-israel-attacks-gaza-1237113491/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/P107ONFB-e1790298917810.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "23c9d5265dbdbdb4",
+      "title": "‘Unabomber’ Review: Jacob Tremblay and Russell Crowe in a Facile Rendering of Ted Kaczynski’s College Days",
+      "quote": "Director Janus Metz's psychological true-crime thriller, also starring Shailene Woodley, attempts to plumb the depths of a pivotal moment in the infamous murderer’s life, during his time as a Harvard student.",
+      "publisher": "The Hollywood Reporter",
+      "author": "Richard Lawson",
+      "date": "2026-09-25T01:00:00+00:00",
+      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/unabomber-review-jacob-tremblay-russell-crowe-netflix-1236709412/",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "df90b6a640f231a6",
+      "title": "Unabomber Review: This Well-Acted Netflix Thriller Should've Stuck To One Timeline",
+      "quote": "Jacob Tremblay is intense as a young Ted Kaczynski in the Netflix thriller Unabomber, also starring Russell Crowe. Here's our review.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Chris Evangelista)",
+      "date": "2026-09-25T01:00:00+00:00",
+      "link": "https://www.slashfilm.com/2267847/unabomber-netflix-2026-movie-review/",
+      "image": "https://www.slashfilm.com/img/gallery/unabomber-review-this-well-acted-netflix-thriller-shouldve-stuck-to-one-timeline/l-intro-1790267705.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "d41fa58e548205c4",
+      "title": "Robert Pattinson Thinks Matt Reeves’ ‘The Batman’ Would Be “Tough” To Fit Into James Gunn’s DCU",
+      "quote": "With sequels in the Batman and Superman franchises on the horizon, a DC team-up between the Dark Knight and the Man of Steel doesn’t seem to be in the immediate future. Robert Pattinson admitted it “would be kind of…",
+      "publisher": "Deadline",
+      "author": "Glenn Garner",
+      "date": "2026-09-25T00:47:26+00:00",
+      "link": "https://deadline.com/2026/09/robert-pattinson-matt-reeves-batman-tough-fit-james-gunn-dcu-1237113460/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Superman-The-Batman-2-shot.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "f48eb8cffacf0b10",
+      "title": "CNN & MS Now Say They Were Denied White House Access To Cover Trump’s State Dinner For Chinese President Xi Jinping",
+      "quote": "UPDATED with White House response: Shortly after CNN said that it was denied access to cover the arrivals at the White House State Dinner for Chinese President Xi Jinping tonight, MS NOW announced that it, too, had been…",
       "publisher": "Deadline",
       "author": "Ted Johnson",
-      "date": "2026-09-24T21:23:30+00:00",
-      "link": "https://deadline.com/2026/09/trump-lawsuit-pollster-ann-selzer-dismissed-1237113185/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/trump-aug-31-getty.jpg",
+      "date": "2026-09-25T00:27:34+00:00",
+      "link": "https://deadline.com/2026/09/trump-state-dinner-cnn-coverage-1237113326/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2296986930.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "de091a3bf9a4a96e",
+      "title": "David Ellison Dines With Trump & Xi As CEO’s Soon-To-Be Owned CNN Banned From White House, Again",
+      "quote": "Reporters from CNN aren’t allowed in to the White House’s state dinner Thursday for China’s president Xi Jinping, but the news outlet’s soon-to-be owner will be breaking bread with Xi and Donald Trump, along with a…",
+      "publisher": "Deadline",
+      "author": "Dominic Patten",
+      "date": "2026-09-25T00:17:44+00:00",
+      "link": "https://deadline.com/2026/09/david-ellison-trump-china-dinner-1237113399/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/white-house-china-state-dinner.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "bad26c51bdf4c6c7",
+      "title": "Primetime Ending Explained: Why To Catch A Predator Came To An End",
+      "quote": "We're taking a look at the shocking ending of Primetime, the new A24 movie starring Robert Pattinson as To Catch a Predator host Chris Hansen.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Chris Evangelista)",
+      "date": "2026-09-24T22:00:00+00:00",
+      "link": "https://www.slashfilm.com/2266868/primetime-movie-ending-explained/",
+      "image": "https://www.slashfilm.com/img/gallery/primetime-movie-ending-explained/l-intro-1790247300.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "3e1dcacc75ec950e",
+      "title": "‘Cracking auction, Gromit!’ Original Aardman puppets go under the hammer",
+      "quote": "Wallace and Gromit stop-motion models and other beloved creations raise money to train new generations of animators Wallace’s reaction as the auction got into full swing might have been a trademark “good grief!” – and…",
+      "publisher": "The Guardian",
+      "author": "Steven Morris",
+      "date": "2026-09-24T21:41:31+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/24/wallace-gromit-auction-aardman-stop-motion-puppets-animators",
+      "image": "https://i.guim.co.uk/img/media/30cf379d4f08a3a0b15601a8f8ff9bc6b6191a5a/483_0_4825_3860/master/4825.jpg?width=140&quality=85&auto=format&fit=max&s=949b3d633d4b5344f493d638655bd7b4",
       "category": "World Cinema"
     },
     {
@@ -31,81 +163,26 @@
       "category": "Indie Gems"
     },
     {
-      "id": "8159736240b8188d",
-      "title": "As Letterboxd Draws Interest From The New York Times, A24 And Others, One Of Its Bankers Calls It “A Phenomenon”",
-      "quote": "With Letterboxd acquisition talks heating up, dealmakers touted the company as “a phenomenon” and a key to the 2026 box office revival. A report in the New York Times said its corporate parent is among the suitors for…",
-      "publisher": "Deadline",
-      "author": "Dade Hayes",
-      "date": "2026-09-24T20:49:02+00:00",
-      "link": "https://deadline.com/2026/09/letterboxd-new-york-times-a24-acquisition-liontree-1237113055/",
-      "image": "https://deadline.com/wp-content/uploads/2022/08/letterboxd-logo-v-neg-rgb-1000px.png",
-      "category": "World Cinema"
+      "id": "2cb272278257d824",
+      "title": "Susan Sarandon, Hannah Einbinder arrested while protesting Netanyahu's UN trip",
+      "quote": "Israeli Prime Minister Benjamin Netanyahu, whom the United Nations accused of leading a genocide, spoke at the UN today.",
+      "publisher": "The A.V. Club",
+      "author": "Matt Schimkowitz",
+      "date": "2026-09-24T21:04:32+00:00",
+      "link": "https://www.avclub.com/susan-sarandon-hannah-einbinder-arrested-netanyahu-protest",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/09/24/MixCollage-24-Sep-2026-01-59-PM-9214.jpg",
+      "category": "Indie Gems"
     },
     {
-      "id": "cf2d2e98ba73e149",
-      "title": "Hannah Einbinder, Susan Sarandon Among Protesters Detained Outside UN Amid Netanyahu Arrival; Dozens Of Delegates Walk Out During Israeli PM’s Speech",
-      "quote": "Benjamin Netanyahu’s arrival to New York City was meet with chants of “Free Palestine” outside the United Nations on Thursday. Hannah Einbinder and Susan Sarandon were among as many as 100 anti-war protesters who were…",
-      "publisher": "Deadline",
-      "author": "Glenn Garner",
-      "date": "2026-09-24T20:39:26+00:00",
-      "link": "https://deadline.com/2026/09/hannah-einbinder-susan-sarandon-protest-detained-un-netanyahu-1237113084/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2296948337.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "f84410ffe64e7d55",
-      "title": "How ‘All American’ Survived Long Enough To End Its 8-Season Run As The Lone YA Series Left At The CW: An Oral History",
-      "quote": "All American entered the television scene nearly eight years ago as yet another trailblazing coming-of-age story on a network with a history and a 2018 fall slate full of them. It’ll end its eight-season run on Monday…",
-      "publisher": "Deadline",
-      "author": "Katie Campione",
-      "date": "2026-09-24T20:30:00+00:00",
-      "link": "https://deadline.com/2026/09/all-american-oral-history-series-explained-the-cw-1237112264/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/All-American.jpeg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "05c3bc237f9cc43e",
-      "title": "Michael Lewen To Direct High-Concept Comedy ‘White Knight’ For Screen Gems",
-      "quote": "EXCLUSIVE: Shortly on the heels of releasing his new comedy Tiny Fugitives, Michael Lewen has inked a deal to direct White Knight, a high-concept comedy that landed at Sony’s Screen Gems earlier this year, as we first…",
-      "publisher": "Deadline",
-      "author": "Matthewgrobar",
-      "date": "2026-09-24T20:20:03+00:00",
-      "link": "https://deadline.com/2026/09/michael-lewen-to-direct-white-knight-comedy-screen-gems-1237113128/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2295504852.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "8c717340f9539ece",
-      "title": "‘Fake Skating’ Feature Adaptation At Sony Taps Amélie Hoeferle and Graham Campbell To Star",
-      "quote": "EXCLUSIVE: Sony Pictures and Will Gluck’s Olive Bridge Entertainment have tapped Amélie Hoeferle and Graham Campbell to star in Fake Skating, a film adaptation based on Lynn Painter’s New York Times bestselling book…",
-      "publisher": "Deadline",
-      "author": "Justin Kroll",
-      "date": "2026-09-24T20:15:00+00:00",
-      "link": "https://deadline.com/2026/09/fake-skating-movie-amelie-hoeferle-graham-campbell-cast-1237111520/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Amelie-Hoeferle-and-Graham-Campbell.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "dc5cf7963643245a",
-      "title": "‘Séance’: Vivian Kerr Victorian Gothic Thriller Conjures Fall Theatrical Release – Watch Clips",
-      "quote": "EXCLUSIVE: The Vivian Kerr directed and starring Victorian Gothic thriller Séance will begin a limited U.S. theatrical release on Oct. 2, followed by a North American VOD release Friday Nov. 13. Also written and…",
-      "publisher": "Deadline",
-      "author": "Anthonypauldalessandro",
-      "date": "2026-09-24T20:10:00+00:00",
-      "link": "https://deadline.com/2026/09/seance-release-date-1237113058/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Still_2.png",
-      "category": "World Cinema"
-    },
-    {
-      "id": "82c862cccc0045a5",
-      "title": "Tamera Mowry-Housley To Guest Star On ‘Scrubs’ Season 2",
-      "quote": "ABC’s Scrubs will have Tamera Mowry-Housley guest-starring in its upcoming second season. She will play Dr. Steffie, a pediatric doctor who tries to persuade Tosh (Ava Bunn) to choose peds as her specialty. The show…",
-      "publisher": "Deadline",
-      "author": "Rosy Cordero",
-      "date": "2026-09-24T20:00:00+00:00",
-      "link": "https://deadline.com/2026/09/tamera-mowry-housley-cast-scrubs-season-2-1237112985/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Tamera-Preferred-Headshot-Kwaku-Alston.jpg",
-      "category": "World Cinema"
+      "id": "acfdf84480a15d53",
+      "title": "Seth Meyers developing a new NBC workplace sitcom",
+      "quote": "The half-hour comedy is reportedly called <i>The Game Room</i>.",
+      "publisher": "The A.V. Club",
+      "author": "Olivia Singh",
+      "date": "2026-09-24T20:53:03+00:00",
+      "link": "https://www.avclub.com/seth-meyers-nbc-sitcom",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/09/24/late-night-with-seth-meyers-featured.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "779fdc3f3df37cc8",
@@ -119,6 +196,61 @@
       "category": "Indie Gems"
     },
     {
+      "id": "62e7147ef1e9fa26",
+      "title": "Charlie Brooker goes from Black Mirror to Blackmere in first look at new Netflix show",
+      "quote": "The new show from the Black Mirror creator is an absurd comedy disguised as a crime thriller.",
+      "publisher": "The A.V. Club",
+      "author": "Matt Schimkowitz",
+      "date": "2026-09-24T19:56:48+00:00",
+      "link": "https://www.avclub.com/charlie-brooker-blackmere-first-look-photos",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/09/24/blackmere-photo-feature.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "c883c304e802ce7e",
+      "title": "Actually, The Beast In Me isn't a limited series anymore",
+      "quote": "The Emmy-winning series has been renewed for a second season.",
+      "publisher": "The A.V. Club",
+      "author": "Olivia Singh",
+      "date": "2026-09-24T19:23:20+00:00",
+      "link": "https://www.avclub.com/the-beast-in-me-season-2-renewal",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/09/24/the-beast-in-me-s1-claire-danes-and-matthew-rhys-featured.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "fc8ac9bbf8fdd409",
+      "title": "Musk trailer takes golden chainsaw to the trillionaire's legacy",
+      "quote": "As Elon Musk attempts to block the film's release and Universal wavers on giving it international distribution, Alex Gibney's documentary nears its domestic debut.",
+      "publisher": "The A.V. Club",
+      "author": "Matt Schimkowitz",
+      "date": "2026-09-24T18:54:37+00:00",
+      "link": "https://www.avclub.com/alex-gibney-musk-trailer",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/09/24/musk-traler-feature.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "4e8628f890f9e7df",
+      "title": "Ebon Moss-Bachrach could be feeling the Heat 2 around the corner",
+      "quote": "The actor is reportedly in final talks to join the Michael Mann sequel.",
+      "publisher": "The A.V. Club",
+      "author": "Jarrod Jones",
+      "date": "2026-09-24T18:47:34+00:00",
+      "link": "https://www.avclub.com/ebon-moss-bachrach-in-talks-for-heat-2-michael-mann",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/09/24/moss-bachrach-header.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "1d62eb8688f99eb5",
+      "title": "Ambitious dance dramedy Ha-Chan, Shake Your Booty! makes moves, not all of them smooth",
+      "quote": "Rinko Kikuchi returns to Western film with Ha-Chan, Shake Your Booty!, a sensitive yet uneven dance about getting one's groove back.",
+      "publisher": "The A.V. Club",
+      "author": "Monica Castillo",
+      "date": "2026-09-24T18:00:19+00:00",
+      "link": "https://www.avclub.com/ha-chan-shake-your-booty-review-rinko-kikuchi-ballroom-dance",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/09/24/ha-chan-header.jpg",
+      "category": "Indie Gems"
+    },
+    {
       "id": "38d2b13284ada0db",
       "title": "La bola negra",
       "quote": "An act of reclamation of emotional truth from the grip of fascism and the burying tide of history.",
@@ -128,6 +260,17 @@
       "link": "https://www.rogerebert.com/reviews/la-bola-negra-netflix-penelope-cruz-glenn-close-film-review-2026",
       "image": null,
       "category": "World Cinema"
+    },
+    {
+      "id": "2aa84a77d086bd5d",
+      "title": "Rick Moranis remembers a comedy golden era in the trailer for SCTV: The Greatest Show You've Never Heard Of",
+      "quote": "The new documentary drops October 30 on Netflix.",
+      "publisher": "The A.V. Club",
+      "author": "Jarrod Jones",
+      "date": "2026-09-24T17:47:49+00:00",
+      "link": "https://www.avclub.com/sctv-the-greatest-show-youve-never-heard-of-trailer-netflix",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/09/24/sctv-header.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "0729bc0ebd4ec161",
@@ -150,6 +293,17 @@
       "link": "https://www.slashfilm.com/2267956/why-robert-pattinson-batman-doubt-james-gunn-dc-universe/",
       "image": "https://www.slashfilm.com/img/gallery/why-robert-pattinson-doubts-that-his-batman-will-be-in-james-gunns-dc-universe/l-intro-1790271142.jpg",
       "category": "Indie Gems"
+    },
+    {
+      "id": "39fe7fd9f0defb59",
+      "title": "‘Forgotten Island’ Review: A Delightful Animated Celebration of Friendship and Filipino Culture",
+      "quote": "In Hollywood, parallel thought is a funny thing. As in every other sphere, two or more people can have a similar idea at the same time, but when those ideas bloom into movies, their release can feel like a land rush…",
+      "publisher": "Variety",
+      "author": "Todd Gilchrist",
+      "date": "2026-09-24T17:14:30+00:00",
+      "link": "https://variety.com/2026/film/reviews/forgotten-island-review-1236874557/",
+      "image": "https://variety.com/wp-content/uploads/2026/09/Forgotten-Island.jpg",
+      "category": "World Cinema"
     },
     {
       "id": "0c2ed0a7c4ec7bdf",
@@ -185,37 +339,15 @@
       "category": "Indian Cinema"
     },
     {
-      "id": "3e1dcacc75ec950e",
-      "title": "‘Cracking auction, Gromit!’ Original Aardman puppets go under the hammer",
-      "quote": "Wallace and Gromit stop-motion models and other beloved creations raise money to train new generations of animators Wallace’s reaction as the auction got into full swing might have been a trademark “good grief!” – and…",
-      "publisher": "The Guardian",
-      "author": "Steven Morris",
-      "date": "2026-09-24T16:00:52+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/24/wallace-gromit-auction-aardman-stop-motion-puppets-animators",
-      "image": "https://i.guim.co.uk/img/media/30cf379d4f08a3a0b15601a8f8ff9bc6b6191a5a/483_0_4825_3860/master/4825.jpg?width=140&quality=85&auto=format&fit=max&s=949b3d633d4b5344f493d638655bd7b4",
+      "id": "88e3fa714a492b34",
+      "title": "‘Ancestors’ Review: An Exquisite Éanna Hardwicke Carries a Queer Elegy for a Lost Generation",
+      "quote": "It’s at the tail of its closing credit scroll that “Ancestors” drops its final, plainly worded message, also setting its title in context: “No survivors, only descendants.” As the sign-off for this heartbroken drama of…",
+      "publisher": "Variety",
+      "author": "Guy Lodge",
+      "date": "2026-09-24T14:33:00+00:00",
+      "link": "https://variety.com/2026/film/reviews/ancestors-review-1236873402/",
+      "image": "https://variety.com/wp-content/uploads/2026/09/Ancestors_Still_01.jpg",
       "category": "World Cinema"
-    },
-    {
-      "id": "417d59eb1fe8f294",
-      "title": "What Is A White Hole? Star Trek: Strange New Worlds Season 4's Space Anomaly Explained",
-      "quote": "You've heard of black holes, but Star Trek: Strange New Worlds Season 4 features a white hole, too. Is that scientifically accurate, or made up? Let's explore.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Jeremy Mathai)",
-      "date": "2026-09-24T16:00:00+00:00",
-      "link": "https://www.slashfilm.com/2266890/white-hole-star-trek-strange-new-worlds-season-4-explained/",
-      "image": "https://www.slashfilm.com/img/gallery/what-is-a-white-hole-star-trek-strange-new-worlds-season-4s-space-anomaly-explained/l-intro-1790190089.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "e794a5a9dddb2205",
-      "title": "Digger Is Shaping Up To Be A Box Office Disaster For Tom Cruise",
-      "quote": "Digger, director Alejandro G. Iñárritu's comedy starring Tom Cruise, is not tracking well for its opening weekend. Is this a box office bomb in the making?",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Ryan Scott)",
-      "date": "2026-09-24T15:00:00+00:00",
-      "link": "https://www.slashfilm.com/2266614/tom-cruise-digger-movie-box-office-preview/",
-      "image": "https://www.slashfilm.com/img/gallery/tom-cruise-digger-movie-box-office-preview/l-intro-1790262591.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "bb26d69873e5787a",
@@ -372,17 +504,6 @@
       "category": "Indian Cinema"
     },
     {
-      "id": "be07f49a6014cc9c",
-      "title": "Why Kannadasan’s words still resonate",
-      "quote": "In his birth centenary year, a look at how the legendary lyricist brought philosophy, classical Tamil literature and the realities of everyday life to the common man in simple language.",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-24T07:58:03+00:00",
-      "link": "https://www.thehindu.com/entertainment/music/why-the-legendary-lyricist-kannadasans-words-still-resonate/article71479932.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/music/lxx6v7/article71496705.ece/alternates/LANDSCAPE_1200/25fr_kannadasan1RGB.jpg",
-      "category": "Indian Cinema"
-    },
-    {
       "id": "95ce08f8783144c9",
       "title": "Forgotten Island review – best friends forever trapped in frantic DreamWorks animation",
       "quote": "This over-controlled adventure never takes a breath or a moment to let its characters come to life Frantically and even stroboscopically over-energised, this big new movie from DreamWorks about best friends for ever…",
@@ -394,17 +515,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "13344ec9e756922d",
-      "title": "Ryan Murphy now openly threatening planet with a Glee reunion",
-      "quote": "Murphy revealed that he and co-creators Brad Falchuk and Ian Brennan have \"just finished\" a script for a <i>Glee</i> revival project.",
-      "publisher": "The A.V. Club",
-      "author": "William Hughes",
-      "date": "2026-09-24T03:24:04+00:00",
-      "link": "https://www.avclub.com/ryan-murphy-threatens-with-glee-reunion",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2024/09/30161919/GettyImages-1455637287.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "4834702821c2cc94",
       "title": "‘Milo’ Review: Marion Cotillard Carries a Somber, Classically Made French Drama With Hints of Film Noir",
       "quote": "Théodore Pellerin also stars in the latest feature by 80-year-old actress turned director Nicole Garcia ('My American Uncle'), which premiered in competition at San Sebastián.",
@@ -414,50 +524,6 @@
       "link": "https://www.hollywoodreporter.com/movies/movie-reviews/milo-review-marion-cotillard-nicole-garcia-1236706349/",
       "image": null,
       "category": "World Cinema"
-    },
-    {
-      "id": "c5220c6364e363e7",
-      "title": "Gremlins 3 to hide from the harsh, Mogwai-killing light of day until October 2028",
-      "quote": "You will now have to wait until October 2028 to see if your <i>Gremlins</i> nostalgia is strong enough to propel you back into theaters.",
-      "publisher": "The A.V. Club",
-      "author": "William Hughes",
-      "date": "2026-09-24T01:11:01+00:00",
-      "link": "https://www.avclub.com/gremlins-3-delayed-october-2028",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2025/11/06092558/gremlins-screenshot-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "97cff22ed6d79738",
-      "title": "Wendi McLendon-Covey and Jeff Garlin still aren't cool over his Goldbergs exit",
-      "quote": "McLendon-Covey popped up in the Instagram comments of Garlin's take on his departure from the ABC sitcom to dispute its veracity.",
-      "publisher": "The A.V. Club",
-      "author": "William Hughes",
-      "date": "2026-09-24T00:19:38+00:00",
-      "link": "https://www.avclub.com/goldbergs-jeff-garlin-wendi-mclendon-covey-still-feuding",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/09/24/mclendon-garlin-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "392bed84e91bbf51",
-      "title": "Jude Law is the next star to step into one of Ari Aster's nightmares",
-      "quote": "Law is reportedly in talks to co-star with Scarlett Johansson and Jacob Elordi in Aster's upcoming film <i>Scapegoat</i>.",
-      "publisher": "The A.V. Club",
-      "author": "William Hughes",
-      "date": "2026-09-23T21:42:49+00:00",
-      "link": "https://www.avclub.com/jude-law-ari-aster-scarlett-johansson-scapegoat",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2025/01/10154633/jude-law-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "136b52a5671cd0f7",
-      "title": "AI investor Jeffrey Katzenberg says resisting AI is pointless",
-      "quote": "\"To resist technology is to risk irrelevance,\" he wrote on X.",
-      "publisher": "The A.V. Club",
-      "author": "Olivia Singh",
-      "date": "2026-09-23T21:13:47+00:00",
-      "link": "https://www.avclub.com/jeffrey-katzenberg-ai-resistance-pointless",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/09/23/jeffrey-katzenberg-featured.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "592107d07e3f5798",
@@ -482,28 +548,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "304a439ecc4155fb",
-      "title": "Jean Smart might be The Family Stone's new mommy",
-      "quote": "The movie will be set 20 years after Diane Keaton's beloved character, Sybil Stone, died.",
-      "publisher": "The A.V. Club",
-      "author": "Olivia Singh",
-      "date": "2026-09-23T19:29:35+00:00",
-      "link": "https://www.avclub.com/the-family-stone-sequel-jean-smart",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/09/23/jean-smart-hacks-featured.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "51b49dc507a84833",
-      "title": "Nothing else on TV knows how to end like Futurama",
-      "quote": "Across its 27 years of stops and starts, the animated sci-fi series has gotten a lot of practice at crafting a conclusion.",
-      "publisher": "The A.V. Club",
-      "author": "Jesse Hassenger",
-      "date": "2026-09-23T19:00:38+00:00",
-      "link": "https://www.avclub.com/futurama-finale-hulu",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/09/23/MixCollage-23-Sep-2026-01-27-PM-8281.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "8584997c6cd254b4",
       "title": "‘Krux’ Review: An Extremely Bleak, Strikingly Realized Chronicle of a German Village at the End of World War II",
       "quote": "German writer-director Tony Vahl's debut feature, set in a remote northeastern town while the Nazi regime crumbles, premiered in Toronto before playing in competition at San Sebastian.",
@@ -513,17 +557,6 @@
       "link": "https://www.hollywoodreporter.com/movies/movie-reviews/krux-review-tony-vahl-world-war-ii-germany-1236708260/",
       "image": null,
       "category": "World Cinema"
-    },
-    {
-      "id": "75e5b7e75f856d7e",
-      "title": "Paramount reportedly—and predictably—turns to Elon Musk for cash",
-      "quote": "As a judge weighs the agreed-upon Paramount-Warner Bros. merger, the Ellisons look to partner with the fellow right-wing billionaire.",
-      "publisher": "The A.V. Club",
-      "author": "Dennis Perkins",
-      "date": "2026-09-23T18:38:09+00:00",
-      "link": "https://www.avclub.com/paramount-ellison-musk-merger",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/09/23/musk-feature.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "07670e152de0f3ca",
@@ -691,28 +724,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "b3e2a695a78c3fd6",
-      "title": "‘The Assassin(s)’ Review: A Riveting South Korean Popcorn Thriller About a Real Assassination",
-      "quote": "Hur Jin-ho’s star-studded “The Assassin(s)” turns the holes in a public investigation into an imaginative mystery along the lines of Oliver Stone’s “JFK.” Like Stone’s provocative thriller, Hur crafts a clockwork…",
-      "publisher": "Variety",
-      "author": "Siddhant Adlakha",
-      "date": "2026-09-20T20:58:41+00:00",
-      "link": "https://variety.com/2026/film/reviews/the-assassins-review-1236869794/",
-      "image": "https://variety.com/wp-content/uploads/2026/09/The-Assassin_s__01.webp",
-      "category": "World Cinema"
-    },
-    {
-      "id": "f3b65befb87713ed",
-      "title": "‘Magazine’ Review: Lily McInerny Scores Her Dream Internship in Alexandra Pechman’s Warmly Nostalgic Study of a Bygone Literary Scene",
-      "quote": "In an era when glamorous writing jobs have acquired the unreality of folklore, it feels fitting that Alexandra Pechman’s alluring and affectionate feature debut, “Magazine,” should portray its literary world as a fairy…",
-      "publisher": "Variety",
-      "author": "Guy Lodge",
-      "date": "2026-09-20T20:53:16+00:00",
-      "link": "https://variety.com/2026/film/reviews/magazine-review-2-1236870524/",
-      "image": "https://variety.com/wp-content/uploads/2026/09/MAGAZINE_Key-Still-1.jpeg",
-      "category": "World Cinema"
-    },
-    {
       "id": "dd1d218e7d7728f8",
       "title": "A Prayer for the Dying",
       "quote": "One of the bleakest Westerns ever made.",
@@ -742,17 +753,6 @@
       "author": "Frank Scheck",
       "date": "2026-09-19T02:57:57+00:00",
       "link": "https://www.hollywoodreporter.com/movies/movie-reviews/murderous-review-neil-labute-thomas-sadoski-1236705377/",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "c415c1e2db7ebe28",
-      "title": "The Best Films of the Fall Festivals: THR Critics’ Picks",
-      "quote": "A shape-shifting Elizabeth Holmes doc, a star vehicle for Mahershala Ali, and new gems from Mike Leigh and Lee Chang-dong were among THR reviewers’ 13 favorite world premieres out of Venice, Telluride and Toronto.",
-      "publisher": "The Hollywood Reporter",
-      "author": "Angie Han",
-      "date": "2026-09-19T02:08:26+00:00",
-      "link": "https://www.hollywoodreporter.com/lists/best-films-fall-festivals-2026-venice-toronto-telluride/",
       "image": null,
       "category": "World Cinema"
     },
