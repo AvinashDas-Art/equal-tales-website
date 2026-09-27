@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T04:56:07.036148+00:00",
+  "generated_at": "2026-09-27T11:49:54.240849+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -8,6 +8,83 @@
     "Indie Gems"
   ],
   "reviews": [
+    {
+      "id": "367a3a8f6b0d1079",
+      "title": "Film Execs Ponder Federal Film Tax Credit Impact, Timeline & Potential Price Rises — Zurich Summit",
+      "quote": "At this weekend’s Zurich Summit a group of film financiers were asked by Deadline for their thoughts on the prospects of a U.S. federal film incentive. Last week, a bipartisan group of lawmakers unveiled the bill for a…",
+      "publisher": "Deadline",
+      "author": "Andreas Wiseman",
+      "date": "2026-09-27T11:43:46+00:00",
+      "link": "https://deadline.com/2026/09/federal-film-tax-incentives-impact-timeline-price-rises-1237114676/",
+      "image": "https://deadline.com/wp-content/uploads/2026/06/hollywood-sign.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "abf0618aa0184746",
+      "title": "Welcome To Space College: How Do You Join Starfleet Academy On Star Trek?",
+      "quote": "Starfleet Academy has been referenced in Star Trek since its inception, but what does the admissions process actually look like? Here's what it takes to get in.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Witney Seibold)",
+      "date": "2026-09-27T08:10:00+00:00",
+      "link": "https://www.slashfilm.com/2266369/how-join-starfleet-academy-star-trek/",
+      "image": "https://www.slashfilm.com/img/gallery/welcome-to-space-college-how-do-you-join-starfleet-academy-on-star-trek/l-intro-1790172488.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "d49f8b8dac56fd8f",
+      "title": "‘Forgotten Island’ movie review: Folklore and friendship power a visually dazzling adventure",
+      "quote": "Cute demon babies, vampires with detachable bodies, and other creatures inspired by Filipino folklore fuel this frenetic tale of friendship and memory",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-27T07:49:43+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/forgotten-island-movie-review-folklore-and-friendship-power-a-visually-dazzling-adventure/article71512543.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/s4u66f/article71515533.ece/alternates/LANDSCAPE_1200/images.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "d0879b05d1423cea",
+      "title": "Jalen Brunson takes a laid-back and belated victory lap on the season premiere of Saturday Night Live",
+      "quote": "",
+      "publisher": "The A.V. Club",
+      "author": "Jesse Hassenger",
+      "date": "2026-09-27T06:27:07+00:00",
+      "link": "https://www.avclub.com/saturay-night-live-recap-season-52-episode-1",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/09/27/Jalen-Brunson-SNL.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "0e29a8aa04658b97",
+      "title": "How ‘SNL’ Introduced Season 52’s New Cast Members Saidah Belo-Osagie & Grace Reiter",
+      "quote": "For those wondering how SNL‘s new cast members factored into tonight’s season premiere, the answer was: not much. The two new featured players, Saidah Belo-Osagie and Grace Reiter, were introduced together, as part of…",
+      "publisher": "Deadline",
+      "author": "Matthewgrobar",
+      "date": "2026-09-27T05:10:35+00:00",
+      "link": "https://deadline.com/2026/09/snl-new-cast-members-season-52-skits-1237114592/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/split-2-split-1000x667-9.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "a65a11baed4c2d85",
+      "title": "‘Saturday Night Live’: Jalen Brunson Dunks On ‘High School Musical’ Lead, Katseye Crowns Awkward New Girl Group In Season 52 Premiere",
+      "quote": "Following the Knicks’ big win at Madison Square Garden, Jalen Brunson took the stage at 30 Rockefeller Center for his Saturday Night Live hosting debut. On Saturday’s Season 52 premiere, the NBA Finals 2026 MVP showed…",
+      "publisher": "Deadline",
+      "author": "Glenn Garner",
+      "date": "2026-09-27T05:10:17+00:00",
+      "link": "https://deadline.com/2026/09/saturday-night-live-jalen-brunson-high-school-musical-katseye-1237114610/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Screenshot-2026-09-26-at-9.26.50-PM.png",
+      "category": "World Cinema"
+    },
+    {
+      "id": "ac5783be3cc20617",
+      "title": "‘A joyful place’: a new museum coaxes Austrians to embrace The Sound of Music",
+      "quote": "Sixty years after the film’s release, Salzburg is embracing a Hollywood classic it once kept at arm’s length Let’s start at the very beginning – famously, a very good place to start. Just two decades after the second…",
+      "publisher": "The Guardian",
+      "author": "Deborah Cole in Salzburg",
+      "date": "2026-09-27T05:00:55+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/27/salzburg-new-sound-of-music-museum-celebrates-true-story-of-von-trapp-family",
+      "image": "https://i.guim.co.uk/img/media/c89295dbd8ca17f0bf9901aeded91036df02ce9e/367_227_4397_3520/master/4397.jpg?width=140&quality=85&auto=format&fit=max&s=e453e3982486f987c68e683ca927761e",
+      "category": "World Cinema"
+    },
     {
       "id": "c9511c5bdb6c8128",
       "title": "‘SNL’s Weekend Update Mocks Paramount+, ‘Spider-Man’, ‘The Odyssey’ & ‘Obsession’",
@@ -42,8 +119,8 @@
       "category": "World Cinema"
     },
     {
-      "id": "cf93c56a94907d79",
-      "title": "‘Saturday Night Live’ Opens With Riff On Donald Trump’s Need For More Time With Zohran Mamdani: “Please Let Me Stay Here With You”",
+      "id": "ad573e043e2f660f",
+      "title": "‘Saturday Night Live’ Opens Season With Riff On Donald Trump’s Need For More Time With Zohran Mamdani: “Please Let Me Stay Here With You”",
       "quote": "The cold open of the new season of Saturday Night Live featured Ramy Youssef as New York Mayor Zohran Mamdani, getting another visit from President Donald Trump (James Austin Johnson). It was a riff on their latest…",
       "publisher": "Deadline",
       "author": "Ted Johnson",
@@ -64,15 +141,15 @@
       "category": "World Cinema"
     },
     {
-      "id": "f0e647178d7377d0",
-      "title": "Ina Garten Explains Why She’s “Always Said No” To A Biopic: “It’s My Story”",
-      "quote": "After sharing her story in her 2024 memoir Be Ready When The Luck Happens, Ina Garten is reluctant to trust a filmmaker with the adaptation. The Barefoot Contessa celebrity chef recently explained why she’s “never been…",
-      "publisher": "Deadline",
-      "author": "Glenn Garner",
-      "date": "2026-09-27T01:00:08+00:00",
-      "link": "https://deadline.com/2026/09/ina-garten-always-said-no-biopic-1237114577/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/P113S8ZP-e1790468252240.jpg",
-      "category": "World Cinema"
+      "id": "9e943d22afb52301",
+      "title": "NAZA film-makers address threats at documentary’s New York City premiere",
+      "quote": "Yuval Abraham and Rachel Szor defend findings on Israel’s killing of Palestinians amid threats from Israeli officials The film-makers behind NAZA , the award-winning documentary on Israel’s systemic mass killing of…",
+      "publisher": "The Guardian",
+      "author": "Adrian Horton",
+      "date": "2026-09-27T00:48:09+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/27/naza-film-new-york-city-premiere",
+      "image": "https://i.guim.co.uk/img/media/f99511fa96fa6effe955f538724bdd141ae05a37/377_0_4788_3830/master/4788.jpg?width=140&quality=85&auto=format&fit=max&s=14c0ab0fc29eccdb375cec9b407695f9",
+      "category": "Festival Winners"
     },
     {
       "id": "3a5fd8abced83789",
@@ -97,6 +174,17 @@
       "category": "Indie Gems"
     },
     {
+      "id": "14d02f755b99e960",
+      "title": "‘Godzilla Minus Zero’ Review: Godzilla and King Ghidorah Battle to the Death in the Even Grander Follow-Up to ‘Godzilla Minus One’",
+      "quote": "Yamazaki, who rebooted the genre and took it to a new peak in the revelatory 2023 retro kaiju classic \"Godzilla Minus One,\" works with a quality that none of the filmmakers of recent decades has summoned: a fairy-tale…",
+      "publisher": "Variety",
+      "author": "Owen Gleiberman",
+      "date": "2026-09-27T00:30:00+00:00",
+      "link": "https://variety.com/2026/film/reviews/godzilla-minus-zero-review-takashi-yamazaki-nyff-1236876075/",
+      "image": "https://variety.com/wp-content/uploads/2026/09/godzilla-minus-zero-in-imax-4702965.jpg",
+      "category": "World Cinema"
+    },
+    {
       "id": "2bc35e1d245b0b1b",
       "title": "‘Godzilla Minus Zero’ Review: Monster Movie Genius Takashi Yamazaki Returns With a Crackling Kaiju Epic Every Bit as Exciting as Its Predecessor",
       "quote": "This direct sequel to the 2023 global sensation picks up in 1949, as a makeshift family finds its domestic harmony again threatened by a rampaging creature’s path of destruction.",
@@ -108,15 +196,15 @@
       "category": "World Cinema"
     },
     {
-      "id": "9bfb6b900d8317b4",
-      "title": "Robert Eggers Wants To Do ‘Romeo & Juliet’ Because Things Got “So Dark” After ‘Werwulf’, Joking: “So, I’ll Do Something About Two Teenagers Killing Themselves”",
-      "quote": "SPOILER ALERT for anyone who skipped freshman English! Robert Eggers is teasing his take on William Shakespeare’s Romeo & Juliet. During a post-screening Q&A for his latest macabre title Werwulf, premiering Christmas…",
-      "publisher": "Deadline",
-      "author": "Glenn Garner",
-      "date": "2026-09-26T23:34:30+00:00",
-      "link": "https://deadline.com/2026/09/robert-eggers-making-romeo-juliet-after-so-dark-werwulf-1237114572/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Romeo-Juliet-Robert-Eggers.jpg",
-      "category": "World Cinema"
+      "id": "af9cd5bb98277760",
+      "title": "Godzilla Minus Zero review – spectacular Japanese action continues franchise’s winning streak",
+      "quote": "New York film festival: The follow-up to 2023’s Oscar-winning Godzilla Minus One dazzles with smart social commentary and jaw-dropping effects Even by the standards of older movie stars catching a major second wind…",
+      "publisher": "The Guardian",
+      "author": "Jesse Hassenger",
+      "date": "2026-09-27T00:00:49+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/26/godzilla-minus-zero-review-new-york-film-festival",
+      "image": "https://i.guim.co.uk/img/media/7b50bc9cd07cd78c83a0f28f2bf0d60a0a1e65e7/357_0_3578_2864/master/3578.jpg?width=140&quality=85&auto=format&fit=max&s=5dfc4a94c1baffd9bf82a8e9d6cf4e98",
+      "category": "Festival Winners"
     },
     {
       "id": "c216541ebaaa02a7",
@@ -130,15 +218,15 @@
       "category": "Indie Gems"
     },
     {
-      "id": "4ba9f2ec0a89818a",
-      "title": "Sylvester Stallone Thought His Dad Would “Be Proud” To Make ‘Rocky’ Cameo: “It Got Really Nasty”",
-      "quote": "As Sylvester Stallone made his breakout performance in Rocky, there was one person he couldn’t quite turn into a fan. While discussing his memoir The Steps, releasing Oct. 23, the 3x Oscar nominee recalled things on set…",
-      "publisher": "Deadline",
-      "author": "Glenn Garner",
-      "date": "2026-09-26T22:10:21+00:00",
-      "link": "https://deadline.com/2026/09/sylvester-stallone-dad-rocky-cameo-really-nasty-1237114559/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Rocky.jpg",
-      "category": "Festival Winners"
+      "id": "d235db6a699fe652",
+      "title": "‘My Sad Dead’ Review: An Urban Community Gets the Haunting It Deserves in Pablo Larraín’s Superb Modern Gothic",
+      "quote": "Macabre and melancholy but suffused with a delicious absurdism that somehow doesn’t clog the arteries of its hopeful little heart, Pablo Larraín’s sprawling, peculiar, terrific “My Sad Dead” is about 20 things at once…",
+      "publisher": "Variety",
+      "author": "Jessica Kiang",
+      "date": "2026-09-26T22:05:25+00:00",
+      "link": "https://variety.com/2026/film/reviews/my-sad-dead-review-1236873618/",
+      "image": "https://variety.com/wp-content/uploads/2026/09/My-Sad-Dead.jpg",
+      "category": "World Cinema"
     },
     {
       "id": "090823d6d632edd5",
@@ -218,17 +306,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "344f1976346508d0",
-      "title": "TV Veteran Leif Erickson Appeared In A '70s Sci-Fi Series That We Don't Talk About Anymore",
-      "quote": "Leif Erickson appeared in one episode of a 1970s sci-fi series that was inspired by the real-life Project Blue Book, a government study of UFOs.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Jeremy Smith)",
-      "date": "2026-09-26T19:00:00+00:00",
-      "link": "https://www.slashfilm.com/2265809/leif-erickon-70s-sci-fi-series-project-ufo/",
-      "image": "https://www.slashfilm.com/img/gallery/tv-veteran-leif-erickson-appeared-in-a-70s-sci-fi-series-that-we-dont-talk-about-anymore/l-intro-1790104346.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "017d51fcb47a5b48",
       "title": "Elizabeth Banks descends into AI doppelganger hell in Alex Prager's trippy new DreamQuil trailer",
       "quote": "Prager's sci-fi dystopia isn't shy about its references, with John C. Reilly namechecking the thrills of having \"our own <i>Stepford Wife</i>.\"",
@@ -293,17 +370,6 @@
       "link": "https://www.thehindu.com/entertainment/movies/chris-hansen-primetime-robert-pattinson-to-catch-a-predator-lance-oppenheim-a24-crime-thriller/article71513546.ece",
       "image": "https://th-i.thgim.com/public/entertainment/movies/8vqctc/article71513675.ece/alternates/LANDSCAPE_1200/Robert.jpeg",
       "category": "Indian Cinema"
-    },
-    {
-      "id": "49d8381d2657e1f7",
-      "title": "Focus Features releases new Werwulf trailyr, invites us to \"devoureth all mankynde\" online",
-      "quote": "Robert Eggers' horror movie claws into theaters on December 25.",
-      "publisher": "The A.V. Club",
-      "author": "Jarrod Jones",
-      "date": "2026-09-26T15:40:59+00:00",
-      "link": "https://www.avclub.com/werwulf-trailer-devoureth-all-mankynde-focus-features",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/09/26/werwulf-header.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "5eda9dd0ac955f1f",
@@ -380,17 +446,6 @@
       "date": "2026-09-26T09:34:44+00:00",
       "link": "https://www.thehindu.com/entertainment/movies/sk-27-sivakarthikeyan-kayadu-lohar-parking-director-ramkumar-balakrishnan-sathya-jyothi-films-seyon/article71512262.ece",
       "image": "https://th-i.thgim.com/public/entertainment/movies/iq8n6y/article71512272.ece/alternates/LANDSCAPE_1200/SK27.jpeg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "de4f4e241018af1c",
-      "title": "‘I Want to Talk’ interview | Abhishek Bachchan and Shoojit Sircar on life, death and everything in between",
-      "quote": "With their relationship drama ‘I Want to Talk’ in theatres, Abhishek Bachchan and Shoojit Sircar discuss bringing to screen the story of cancer survivor Arjun Sen, the peculiarities of parenthood, and the role of family…",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-26T04:38:55+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/watch-abhishek-bachchan-interview-shoojit-sircar-i-want-to-talk/article68905550.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/njgozh/article68909719.ece/alternates/LANDSCAPE_1200/Abhishek%20Bachchan.JPG",
       "category": "Indian Cinema"
     },
     {
@@ -581,17 +636,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "3e1dcacc75ec950e",
-      "title": "‘Cracking auction, Gromit!’ Original Aardman puppets go under the hammer",
-      "quote": "Wallace and Gromit stop-motion models and other beloved creations raise money to train new generations of animators Wallace’s reaction as the auction got into full swing might have been a trademark “good grief!” – and…",
-      "publisher": "The Guardian",
-      "author": "Steven Morris",
-      "date": "2026-09-24T21:41:31+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/24/wallace-gromit-auction-aardman-stop-motion-puppets-animators",
-      "image": "https://i.guim.co.uk/img/media/30cf379d4f08a3a0b15601a8f8ff9bc6b6191a5a/483_0_4825_3860/master/4825.jpg?width=140&quality=85&auto=format&fit=max&s=949b3d633d4b5344f493d638655bd7b4",
-      "category": "World Cinema"
-    },
-    {
       "id": "39fe7fd9f0defb59",
       "title": "‘Forgotten Island’ Review: A Delightful Animated Celebration of Friendship and Filipino Culture",
       "quote": "In Hollywood, parallel thought is a funny thing. As in every other sphere, two or more people can have a similar idea at the same time, but when those ideas bloom into movies, their release can feel like a land rush…",
@@ -614,17 +658,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "bb26d69873e5787a",
-      "title": "‘I get lost going to the bathroom’: John Hannah on world travel, stealing props and being ‘the Scottish Eminem’",
-      "quote": "The Four Weddings and a Funeral actor answers your questions on being confused with James Nesbitt, his own Sliding Doors moment and a new perspective since turning 60 How often do you get asked to recite that WH Auden…",
-      "publisher": "The Guardian",
-      "author": "As told to Rich Pelley",
-      "date": "2026-09-24T14:00:20+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/24/john-hannah-on-world-travel-stealing-props-and-being-the-scottish-eminem",
-      "image": "https://i.guim.co.uk/img/media/45a68decda7c91d66c54e1353bfd25ffa1adbae3/456_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=64638154797cb4f0720cde86a72eb8d4",
-      "category": "World Cinema"
-    },
-    {
       "id": "20cf54e7631a37a7",
       "title": "12 of the best films to watch this October",
       "quote": "From Verity and Digger to Sense and Sensibility",
@@ -634,17 +667,6 @@
       "link": "https://www.bbc.com/culture/article/20260923-12-of-the-best-films-to-watch-this-october?ocid=global_culture_rss",
       "image": "https://ychef.files.bbci.co.uk/144x81/p0pc2hz9.jpg",
       "category": "World Cinema"
-    },
-    {
-      "id": "e82dab58ca225dca",
-      "title": "Global release announced for acclaimed Gaza documentary NAZA",
-      "quote": "Theatrical rollout across 56 territories planned for documentary about Israel’s mass killing of civilians in Gaza before film will stream on Guardian website NAZA, the award-winning documentary from Israeli film-makers…",
-      "publisher": "The Guardian",
-      "author": "Catherine Shoard  and Lorenzo Tondo",
-      "date": "2026-09-24T10:00:05+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/24/global-release-announced-for-acclaimed-gaza-documentary-naza",
-      "image": "https://i.guim.co.uk/img/media/3fa7c1678f5a6282da9f66019bda1865327570a9/126_119_2548_2038/master/2548.jpg?width=140&quality=85&auto=format&fit=max&s=962fcc2a1a38fffcafa8426ddfcbaf5c",
-      "category": "Festival Winners"
     },
     {
       "id": "4834702821c2cc94",
@@ -691,17 +713,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "07670e152de0f3ca",
-      "title": "‘Brace Your Heart’ Review: Tradition and Modernity Collide in an Impassioned Ode to Sámi Womanhood",
-      "quote": "For those of us who only ever think about reindeer when December draws in, and even then in a fairly abstract sense, “Brace Your Heart” arrives as a flinty reality check. Following the life and trials of a young female…",
-      "publisher": "Variety",
-      "author": "Guy Lodge",
-      "date": "2026-09-23T15:06:31+00:00",
-      "link": "https://variety.com/2026/film/reviews/brace-your-heart-review-1236873135/",
-      "image": "https://variety.com/wp-content/uploads/2026/08/BRACE-YOUR-HEART.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "22c487c4c9df340c",
       "title": "Four things Jane Austen adaptations get wrong",
       "quote": "As a new Sense and Sensibility hits cinemas, experts share the common mistakes",
@@ -710,17 +721,6 @@
       "date": "2026-09-23T11:00:00+00:00",
       "link": "https://www.bbc.com/culture/article/20260922-four-things-jane-austen-adaptations-get-wrong?ocid=global_culture_rss",
       "image": "https://ychef.files.bbci.co.uk/144x81/p0pbxgxm.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "77a6647d4e283d62",
-      "title": "‘The Housewife’ Review: Naomi Watts Anchors a Watchable but Underpowered True Story of Hidden Nazism in Suburban Queens",
-      "quote": "Long before the relevant authorities do, you’ll figure out the secret that immigrant homemaker Hermine Ryan (née Braunsteiner) holds close to her chest in “The Housewife” — a giveaway that may be the fault of some…",
-      "publisher": "Variety",
-      "author": "Guy Lodge",
-      "date": "2026-09-23T00:42:45+00:00",
-      "link": "https://variety.com/2026/film/reviews/the-housewife-review-naomi-watts-1236870548/",
-      "image": "https://variety.com/wp-content/uploads/2026/09/MV5BZTA5MWMxZGQtNjcyMC00M2FkLWJhOTItZTM2MmZmZWM4NDMzXkEyXkFqcGc@._V1_.jpg",
       "category": "World Cinema"
     },
     {
