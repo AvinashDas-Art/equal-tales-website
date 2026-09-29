@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T05:22:51.454437+00:00",
+  "generated_at": "2026-09-29T12:35:00.595813+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -9,25 +9,256 @@
   ],
   "reviews": [
     {
-      "id": "c442d4c5855a0311",
-      "title": "Fahadh Faasil interview: ‘Don’t Trouble The Trouble’ is a kids’ film for grown-ups",
-      "quote": "Ahead of his new film, the actor talks about shooting on real Hyderabad locations, the Malayalam, Telugu and Tamil industries, and his 24 years in cinema",
+      "id": "9742a4b5ccbf17ca",
+      "title": "Jeremy Clarkson Working On “Unbelievably Ambitious” Show Amid Uncertainty Over ‘Clarkson’s Farm’ Future",
+      "quote": "Jeremy Clarkson has revealed that he his thinking about life after Diddly Squat Farm. The British presenter has just wrapped Season 6 of Clarkson’s Farm for Amazon Prime Video, but said he was uncertain about whether…",
+      "publisher": "Deadline",
+      "author": "Jake Kanter",
+      "date": "2026-09-29T12:34:23+00:00",
+      "link": "https://deadline.com/2026/09/jeremy-clarkson-farm-amazon-new-show-ambitious-1237116005/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/SEI250913858-e1790671820167.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "bc478634e3dcdaad",
+      "title": "Freshworks’ Girish Mathrubootham turns producer with ‘Sarpatta Parambarai 2’",
+      "quote": "He is now all set to produce filmmaker Pa. Ranjith’s Sarpatta Parambarai 2 (Second Round), the sequel to the 2021 boxing drama",
       "publisher": "The Hindu",
       "author": null,
-      "date": "2026-09-29T05:15:46+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/fahadh-faasil-interview-dont-trouble-the-trouble-is-a-kids-film-for-grown-ups/article71518770.ece",
-      "image": "https://th-i.thgim.com/public/incoming/7k22wt/article71519112.ece/alternates/LANDSCAPE_1200/MP-fahadh%20faasili-Horizontal-collage.JPG",
+      "date": "2026-09-29T12:12:55+00:00",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/freshworks-girish-mathrubootham-turns-producer-with-sarpatta-parambarai-2/article71523166.ece",
+      "image": "https://th-i.thgim.com/public/incoming/75migr/article71523299.ece/alternates/LANDSCAPE_1200/IMG_thumbnail_Girish_Mat_2_1_51COEJEC.jpg",
       "category": "Indian Cinema"
     },
     {
-      "id": "a019565fcffce221",
-      "title": "CNN, MS NOW And Politico Warn That Trump Will “Reinstitute A Complete Ban” Without Judge’s Injunction: “An Injury On All News Media”",
-      "quote": "CNN, MS NOW and Politico are warning that the Trump administration will reimpose a “complete ban” on their access to the White House without a judge issuing a preliminary injunction. Last week, U.S. District Judge…",
+      "id": "9c303170d0596b4d",
+      "title": "‘Premada Oorali’: Is this Kannada film worth the hype?",
+      "quote": "The Kannada film ‘Premada Oorali’, an emotional family drama directed by National Award-winner Manoj Kumar, is enjoying a surprise success in theatres, despite leaning on familiar emotions and missing a modern touch in…",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-29T12:04:41+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/premada-oorali-kannada-movie-review-manoj-kumar-rangayana-raghu-shree-raam-thapaswini-poonacha/article71523625.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/5rbac4/article71523714.ece/alternates/LANDSCAPE_1200/Premada%20Oorali.png",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "5e35865ce8e82a4a",
+      "title": "Apple TV Announces Second Season Of ‘Carême’ About Napoleon Era Celebrity Chef-Turned-Spy",
+      "quote": "Apple TV has announced a second season of international Emmy Award nominated drama Carême, inspired by the tumultuous life of the world’s first celebrity chef Antonin Carême, who came to the fore in Napoleon Bonaparte…",
       "publisher": "Deadline",
-      "author": "Ted Johnson",
-      "date": "2026-09-29T04:24:37+00:00",
-      "link": "https://deadline.com/2026/09/trump-white-house-ban-cnn-ms-now-politico-2-1237115949/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/White-House.jpg",
+      "author": "Melanie Goodfellow",
+      "date": "2026-09-29T12:00:00+00:00",
+      "link": "https://deadline.com/2026/09/apple-tv-second-season-french-careme-celebrity-chef-1237116044/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Careme_Photo_010301.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "ccfaaee9267a6b95",
+      "title": "Juno Films Takes North American Rights To ‘The Extraordinary Miss Flower’",
+      "quote": "EXCLUSIVE: Juno Films has acquired North American rights to Iain Forsyth and Jane Pollard’s experimental biographical film The Extraordinary Miss Flower. Juno is planning a New York City and L.A. theatrical launch in…",
+      "publisher": "Deadline",
+      "author": "Dianalodderhose",
+      "date": "2026-09-29T12:00:00+00:00",
+      "link": "https://deadline.com/2026/09/juno-films-north-america-the-extraordinary-miss-flower-1237116094/",
+      "image": "https://deadline.com/wp-content/uploads/2024/06/MixCollage-19-Jun-2024-12-34-PM-6256.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "c1fda22dc72676b1",
+      "title": "Russell Crowe's 100-Minute True Crime Thriller Is Officially Netflix's Biggest Streaming Hit",
+      "quote": "Russell Crowe, Jacob Tremblay, and Annabelle Wallis star in Netflix's latest new streaming hit, which has jumped to the number one spot on the streamer's chart.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Ben Pearson)",
+      "date": "2026-09-29T12:00:00+00:00",
+      "link": "https://www.slashfilm.com/2271127/russell-crowe-true-crime-thriller-unabomber-streaming-netflix-september-2026/",
+      "image": "https://www.slashfilm.com/img/gallery/russell-crowes-100-minute-true-crime-thriller-is-officially-netflixs-biggest-streaming-hit/l-intro-1790620065.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "335ece4a3d187df8",
+      "title": "Patty Duke And Tina Louise Starred In An Awful Sequel To A Legendary '60s Movie",
+      "quote": "Patty Duke and Gilligan's Island veteran Tina Louise starred in a sequel to a 1960s classic. It's safe to say the sequel wasn't as good.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Witney Seibold)",
+      "date": "2026-09-29T11:45:00+00:00",
+      "link": "https://www.slashfilm.com/2271174/tina-louise-patty-duke-look-whats-happened-to-rosemarys-baby/",
+      "image": "https://www.slashfilm.com/img/gallery/patty-duke-and-tina-louise-starred-in-an-awful-sequel-to-a-legendary-60s-movie/l-intro-1790621443.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "ad122d2d0345c007",
+      "title": "AI Short Film ‘The Gifted’ Wins Inaugural Future Vision XPRIZE Backed By Range Media Partners & Google",
+      "quote": "An AI-produced short titled The Gifted has won the first edition of Google, XPRIZE and Range Media’s Future Vision XPRIZE competition for film projects focused on technology’s role in shaping the future. The Gifted…",
+      "publisher": "Deadline",
+      "author": "Zac Ntim",
+      "date": "2026-09-29T11:43:13+00:00",
+      "link": "https://deadline.com/2026/09/the-gifted-ai-future-vision-xprize-range-media-google-1237116088/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/img-12953260-2e8c-4542-a263-5b1925380cd1.jpeg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "a3ed03ac4c50cff6",
+      "title": "Channel 4 CEO Priya Dogra Open To Putting Shows On BBC iPlayer — Just Don’t Mention A Merger",
+      "quote": "The Great British Bake Off could be back on the BBC one day, according to Channel 4’s chief executive. Speaking at the Royal Television Society London Convention, Priya Dogra said she was open-minded about putting…",
+      "publisher": "Deadline",
+      "author": "Jake Kanter",
+      "date": "2026-09-29T11:39:56+00:00",
+      "link": "https://deadline.com/2026/09/channel-4-ceo-priya-dogra-bbc-iplayer-1237116000/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Channel-4-CEO-Priya-Dogra-2026-Headshot-17.24.45.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "68f9cee2897bfa25",
+      "title": "How To Watch Spider-Man: Brand New Day At Home",
+      "quote": "2026's box office champ Spider-Man: Brand New Day is heading to digital and physical media. Here's how to catch the flick at home.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Jeremy Smith)",
+      "date": "2026-09-29T11:18:42+00:00",
+      "link": "https://www.slashfilm.com/2271694/how-watch-spider-man-brand-new-day-home/",
+      "image": "https://www.slashfilm.com/img/gallery/how-watch-spider-man-brand-new-day-home/l-intro-1790682510.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "d2bf06db73587b6e",
+      "title": "SXSW Teen Comedy ‘Edie Arnold Is A Loser’ Lands International Sales Rep",
+      "quote": "EXCLUSIVE: London-based sales agent Rapt Films has picked up worldwide sales rights, excluding North America, for Megan Rico and Kade Atwood’s debut US feature film Edie Arnold Is A Loser. The teen comedy, which debuted…",
+      "publisher": "Deadline",
+      "author": "Zac Ntim",
+      "date": "2026-09-29T11:17:51+00:00",
+      "link": "https://deadline.com/2026/09/edie-arnold-is-a-loser-international-sales-sxsw-1237116070/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/EDIE-ARNOLD-4.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "7e8a7c2a19b16911",
+      "title": "‘Dorothy’, a long-awaited embrace for the queer community",
+      "quote": "As ‘Dorothy’ wins over audiences, trans activists and members of the queer community speak about seeing their lives, desires and struggles reflected with tenderness in Karthik Subbaraj’s film",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-29T11:04:59+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/dorothy-queer-community-lgbtqia-karthik-subbaraj-ilaiyaraaja-sananth-rishikanth-keerthy-suresh/article71522912.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/aoa7uu/article71523387.ece/alternates/LANDSCAPE_1200/dorothy1.png",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "b1cb8a8e2d4f7025",
+      "title": "Transpersons speak out against online backlash over Tamil movie ‘Dorothy’",
+      "quote": "They say the film showcases the lived experiences of members of the community and request the public to see the good intentions of the film. The movie, which was released on September 25, faced homophobic and…",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-29T10:26:25+00:00",
+      "link": "https://www.thehindu.com/news/cities/chennai/transpersons-speak-out-against-online-backlash-overdorothy/article71520992.ece",
+      "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/37lna9/article71521121.ece/alternates/LANDSCAPE_1200/Transpersons.jpeg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "1c44f459f05f0d1d",
+      "title": "‘Kaali Kheti’, Indian Horror Starring Jackie Shroff, Sharad Kelkar and Neha Sargam, Sets Indian Release Date",
+      "quote": "EXCLUSIVE: Jackie Shroff, Sharad Kelkar and Neha Sargam are starring in eerie Indian rural horror Kaali Kheti, which has been given a domestic theatrical release date of October 23. Above and below you can see a poster…",
+      "publisher": "Deadline",
+      "author": "Jesse Whittock",
+      "date": "2026-09-29T10:20:00+00:00",
+      "link": "https://deadline.com/2026/09/kaali-kheti-indian-horror-release-date-jackie-shroff-1237116027/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Kaali-Kheli-e1790675330542.jpeg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "46cd8ede227ca9b6",
+      "title": "BBC Boss Matt Brittin Says He Has Seen A ‘Doctor Who’ Episode Entirely Generated By AI: “It Was Pretty Good”",
+      "quote": "An artificial intelligence-generated episode of Doctor Who was “pretty good,” according to BBC Director General Matt Brittin. Brittin, who used to run Google EMEA, revealed that somebody had recently sent him a…",
+      "publisher": "Deadline",
+      "author": "Max Goldbart",
+      "date": "2026-09-29T10:03:00+00:00",
+      "link": "https://deadline.com/2026/09/doctor-who-ai-episode-bbc-matt-brittin-pretty-good-1237116025/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/478920-e1761733800534.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "974925d2745b4ccb",
+      "title": "Child review – jump scares abound in twisty organ transplant fable that keeps horror at its heart",
+      "quote": "This Luxembourg-made movie about a couple who venture east to save their son features some impressive film-making Stippled with first-world guilt about income inequality even between fellow EU member states, this…",
+      "publisher": "The Guardian",
+      "author": "Leslie Felperin",
+      "date": "2026-09-29T10:00:48+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/29/child-review-luxembourg-horror",
+      "image": "https://i.guim.co.uk/img/media/04a579e16454d9b53789f8afa2994271c1c3f572/972_0_2144_1716/master/2144.jpg?width=140&quality=85&auto=format&fit=max&s=7278d3fad2cdd892c5a389579f7edac3",
+      "category": "World Cinema"
+    },
+    {
+      "id": "32b93e852f5286b0",
+      "title": "Director Balaji Tharaneetharan on Vijay Sethupathi’s ‘Baththa’ and recreating '80s North Madras",
+      "quote": "The writer-director also speaks about Vijay Sethupathi’s evolution as an actor over the years and how he liked working with the youth sensation Sai Abhyankkar for the music of the film",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-29T09:06:06+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/balaji-tharaneetharan-interview-vijay-sethupathi-baththa-sai-abhyankkar/article71519377.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/ngwuc9/article71519408.ece/alternates/LANDSCAPE_1200/Balaji%20Tharaneetharan%20Vijay%20Sethupathi%20Baththa.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "cfb56015c053817e",
+      "title": "Fatima Sana Shaikh on ‘Hunkkaar’: Women don’t often get layered roles",
+      "quote": "Fatima, Raghubir Yadav and Zoya Hussain discuss their recently released crime-thriller series, ‘Hunkkaar’, what went behind playing their characters, why Raghubir was initially scared about the role, and more",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-29T08:36:11+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/fatima-sana-shaikh-on-hunkkaar-women-dont-often-get-layered-roles/article71522922.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/9y8m2q/article71522973.ece/alternates/LANDSCAPE_1200/Fatima%20Sana%20Shaikh.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "6c4163ee51c42344",
+      "title": "Roy Scheider's Genre-Defining '70s Action Thriller Is The Perfect Prime Video Stream",
+      "quote": "Looking for something to watch on Prime Video? Check out a then up and coming Roy Scheider in this landmark 1970s action thriller.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Jeremy Smith)",
+      "date": "2026-09-29T08:10:00+00:00",
+      "link": "https://www.slashfilm.com/2269509/roy-scheider-70s-action-thriller-the-french-connection-streaming-prime-video/",
+      "image": "https://www.slashfilm.com/img/gallery/roy-scheider-70s-action-thriller-the-french-connection-streaming-prime-video/l-intro-1790509802.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "00b4c3259b6feba7",
+      "title": "The Portuguese House review – picturesque, polite drama of secrets and revelations at a country estate",
+      "quote": "Spanish drama about people leaving their old lives behind plays out like a literary novel, with Manolo Solo excellent as a discombobulated gardener Out of the blue, a woman walks out on her husband. Bags packed and…",
+      "publisher": "The Guardian",
+      "author": "Cath Clarke",
+      "date": "2026-09-29T08:00:57+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/29/the-portuguese-house-review-picturesque-polite-drama-of-secrets-and-revelations-at-a-country-estate",
+      "image": "https://i.guim.co.uk/img/media/f54dd16e4ca2ae6fb25b08531d2b0f97444f9a1e/365_0_2595_2076/master/2595.jpg?width=140&quality=85&auto=format&fit=max&s=bf0c91316f61e114184c14841aa1c3fb",
+      "category": "World Cinema"
+    },
+    {
+      "id": "40dde4223253ad48",
+      "title": "‘Elsinore’ trailer: Andrew Scott plays ‘Chariots of Fire’ star Ian Charleson in Simon Stone’s AIDS drama",
+      "quote": "Andrew Scott stars opposite Olivia Colman in the true story of the actor who took over as Hamlet at London’s National Theatre after Daniel Day-Lewis left the production",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-29T06:29:32+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/elsinore-trailer-andrew-scott-plays-chariots-of-fire-star-ian-charleson-in-simon-stones-aids-drama/article71522808.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/13qht1/article71522806.ece/alternates/LANDSCAPE_1200/elsinore-1-1200x675.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "db5b746e56ea3614",
+      "title": "‘The Final Problem’ series review: The meta game is afoot",
+      "quote": "Jose Coronado sparkles as the actor who made his name playing Sherlock Holmes, trying his hand at solving a classic locked-room mystery",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-29T06:10:21+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/the-final-problem-series-review/article71519782.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/aamtlq/article71522746.ece/alternates/LANDSCAPE_1200/AAAABZ-3WPyruNT2-wIfm0HQy7XV7K3QV-8--dkQMnd4FhE96YUxetTcIZ78Y14CPcfQTNZDvCO6hHC_CuIUzbCB-EfBjhx4N904TmM5ofB2TiluU9cs7ZYRzzkeWQ.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "7c39d20cad2a81d9",
+      "title": "April X review – Connor Storrie searches for missing twin in dystopian dream-tech sci-fi thriller",
+      "quote": "The star of Heated Rivalry does his best in this in this human-trafficking yarn, which gets progressively ickier and more exploitative Sketchy in every sense of the word, this sci-fi thriller is set in the…",
+      "publisher": "The Guardian",
+      "author": "Leslie Felperin",
+      "date": "2026-09-29T06:00:55+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/29/april-x-review-connor-storrie-lilly-krug",
+      "image": "https://i.guim.co.uk/img/media/1a1baa654e05f989bbeab0a22eb19ab76f7a4c9e/803_0_1596_1278/master/1596.jpg?width=140&quality=85&auto=format&fit=max&s=eb361d931922eba33fce6f62a6eff59b",
       "category": "World Cinema"
     },
     {
@@ -42,28 +273,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "105ae362951ab251",
-      "title": "Dennis Haskins Dies: ‘Saved By The Bell’s Mr. Belding Was 75",
-      "quote": "Dennis Haskins, best known for playing Mr. Belding in Saved by the Bell, has died. He was 75. His agent Jay Schachter confirmed the news to Deadline, saying in a statement, “It’s a tragic loss. Everyone loved Mr…",
-      "publisher": "Deadline",
-      "author": "Armando Tinoco",
-      "date": "2026-09-29T02:52:47+00:00",
-      "link": "https://deadline.com/2026/09/dennis-haskins-dead-saved-by-the-bell-mr-belding-1237115941/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/dennis-haskins-saved-by-the-bell-mr-belding.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "741c3073ad6d2ae4",
-      "title": "Russo Brothers On The Hulk Appearing On ‘Avengers: Doomsday’: “Certainly Involved In The Story That Revolves Around Doom”",
-      "quote": "Many questions surround Avengers: Doomsday, and one major one is whether Mark Ruffalo will reprise his role as Bruce Banner. The actor recently appeared in Spider-Man: Brand New Day as Banner, and the Russo Brothers…",
-      "publisher": "Deadline",
-      "author": "Armando Tinoco",
-      "date": "2026-09-29T02:03:39+00:00",
-      "link": "https://deadline.com/2026/09/russo-brothers-hulk-appearing-avengers-doomsday-1237115931/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/avengers-doomsday-marvel-russo-brothers.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "42f90994676a58bb",
       "title": "Avengers: Doomsday Reveals Jack Kirby-Inspired Visual Upgrade For Doctor Doom",
       "quote": "Marvel Studios is dropping some fun Jack Kirby-inspired visuals in the latest Avengers: Doomsday clip, visuals an eagle-eyed comic fan will easily notice.",
@@ -73,39 +282,6 @@
       "link": "https://www.slashfilm.com/2271554/avengers-doomsday-jack-kirby-inspired-visual-upgrade-doctor-doom/",
       "image": "https://www.slashfilm.com/img/gallery/avengers-doomsday-reveals-jack-kirby-inspired-visual-upgrade-for-doctor-doom/l-intro-1790646142.jpg",
       "category": "Indie Gems"
-    },
-    {
-      "id": "7f64c17f311ed2d3",
-      "title": "‘School Girls; Or, The African Mean Girls Play’ Broadway Review: When Escape Is Just A Clique Away",
-      "quote": "The battle lines are drawn early and definitively in Jocelyn Bioh’s School Girls; Or, The African Mean Girls Play. The cruelties come fast and cut deep in this Ghana school lunch room where all the unspoken rules of…",
-      "publisher": "Deadline",
-      "author": "Greg Evans",
-      "date": "2026-09-29T01:30:00+00:00",
-      "link": "https://deadline.com/2026/09/school-girls-or-the-african-mean-girls-play-broadway-review-when-escape-is-just-a-clique-away-1237114434/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/0451-Denee-Benton-Erin-Morton-Lucia-Aremu-Jasmine-Amy-Rogers-Nia-Otchere-Sarfo-Jordan-Rice-and-Heather-Alicia-Simms-in-School-Girls_-Or-The-African-Mean-Girls-Play-Matthew-Murphy.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "3fa6a399b7692204",
-      "title": "Apple TV Claims Largest Weekly Viewership Ever With ‘Mayday’, ‘Ted Lasso’ And Post-Emmys Bump For ‘Widow’s Bay’ & ‘Pluribus’",
-      "quote": "Apple TV had a record-breaking 2026 Emmys with 28 wins (29 if you include the commercials category), the most for the streamer ever and the most for any platform this year. Apple TV’s big night at the Emmys, held on…",
-      "publisher": "Deadline",
-      "author": "Nellie Andreeva",
-      "date": "2026-09-29T01:00:11+00:00",
-      "link": "https://deadline.com/2026/09/apple-tv-viewership-record-ted-lasso-mayday-widows-bay-1237115696/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Ted-Lasso-Mayday-Widows-Bay-and-Pluribus.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "bf564862ee6ba720",
-      "title": "‘All American’s Daniel Ezra On Directing The Series Finale & Truly Saying Goodbye To Spencer James: “He’ll Be With Me Forever”",
-      "quote": "SPOILER ALERT! This post contains details from the series finale of The CW’s All American. That’s a wrap on All American. The drama series, produced by Warner Bros. Television, ended its eight-season run on the CW on…",
-      "publisher": "Deadline",
-      "author": "Katie Campione",
-      "date": "2026-09-29T01:00:00+00:00",
-      "link": "https://deadline.com/2026/09/all-american-series-finale-daniel-ezra-director-interview-1237114160/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/ALA813_0095.jpg",
-      "category": "World Cinema"
     },
     {
       "id": "94984aef746f4a89",
@@ -119,26 +295,15 @@
       "category": "Indie Gems"
     },
     {
-      "id": "c60e0e4e25509d11",
-      "title": "‘ESPN Jeopardy!’ Renewed For Season 2 On Hulu & Disney+, Pivots From Celebrities To Sports Fans",
-      "quote": "Civilian sports fans now can apply to play the latest version of Jeopardy! after it was revealed that ESPN Jeopardy! is returning for a second season. Disney+ and Hulu premiered the first season of the show in July with…",
-      "publisher": "Deadline",
-      "author": "Peterdeadline",
-      "date": "2026-09-29T00:18:27+00:00",
-      "link": "https://deadline.com/2026/09/espn-jeopardy-renewed-season-2-hulu-disney-1237115867/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/182048_0186.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "1bc13030d1b81ca0",
-      "title": "Broadcast To Hit A Double, Peacock Going Deep In NBC Sports Coverage Of MLB Wild Card Playoffs",
-      "quote": "Sports fans of a certain age can readily recall NBC’s coverage of the Major League Baseball playoffs regularly pre-empting the network’s “Must-See TV” primetime lineup in the 1990s. While the ratings and programming…",
-      "publisher": "Deadline",
-      "author": "Dade Hayes",
-      "date": "2026-09-28T23:19:36+00:00",
-      "link": "https://deadline.com/2026/09/nbc-major-league-baseball-wild-card-playoffs-tv-peacock-1237115559/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Love-Island-Peacock-MLB.jpg",
-      "category": "World Cinema"
+      "id": "caafe7685b6589c5",
+      "title": "R.I.P. Chuck Varga, GWAR's Sexecutioner",
+      "quote": "Varga, who left the band in 1997 and returned for occasional appearances through 2021, was 68.",
+      "publisher": "The A.V. Club",
+      "author": "Matt Schimkowitz",
+      "date": "2026-09-29T00:13:42+00:00",
+      "link": "https://www.avclub.com/chuck-varga-gwar-sexecutioner-obituary",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/09/29/chuck-varga-feature.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "20f4a48a9dc47cc2",
@@ -152,14 +317,14 @@
       "category": "Indie Gems"
     },
     {
-      "id": "7b0b162a33dde0fa",
-      "title": "Michael Fassbender's Best Performance Came In A Staggering Movie You Probably Haven't Seen",
-      "quote": "The great Michael Fassbender gave his best performance yet in a 2009 film that flew under the radar for mainstream audiences, but is absolutely worth a look.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-09-28T22:00:00+00:00",
-      "link": "https://www.slashfilm.com/2269033/michael-fassbender-best-performance-fish-tank-2009-movie/",
-      "image": "https://www.slashfilm.com/img/gallery/michael-fassbenders-best-performance-came-in-a-staggering-movie-you-probably-havent-seen/l-intro-1790353359.jpg",
+      "id": "3639b44809872d7d",
+      "title": "Mike Flanagan envisions a Carrie trilogy",
+      "quote": "The horror showrunner suggested that the TV show adaptation could go beyond the eight episodes debuting on October 7.",
+      "publisher": "The A.V. Club",
+      "author": "Olivia Singh",
+      "date": "2026-09-28T21:36:29+00:00",
+      "link": "https://www.avclub.com/mike-flanagan-carrie-trilogy",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/09/28/carrie-prime-video-featured.jpg",
       "category": "Indie Gems"
     },
     {
@@ -174,28 +339,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "a50d483308948702",
-      "title": "Avengers: Endgame Encore's TVA 'Multiverse Is Collapsing' Scene Explained By Directors",
-      "quote": "The Russo brothers say that one of the new scenes in Avengers: Endgame Encore is the most profound thing to ever happen in the Marvel Cinematic Universe.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-09-28T21:24:37+00:00",
-      "link": "https://www.slashfilm.com/2271398/avengers-endgame-encore-tva-muiltiverse-collapsing-scene-explained-directors/",
-      "image": "https://www.slashfilm.com/img/gallery/avengers-endgame-encores-tva-multiverse-is-collapsing-scene-explained-by-directors/l-intro-1790630567.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "bff323e05fde7800",
-      "title": "Jason Momoa's Lobo Performance Slammed By DC Comics Legend Grant Morrison",
-      "quote": "DC Comics legend Grant Morrison isn't a fan of Jason Momoa's Lobo in the Supergirl movie, but they have more complicated feelings about the DC Universe overall.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Devin Meenan)",
-      "date": "2026-09-28T21:00:00+00:00",
-      "link": "https://www.slashfilm.com/2270388/jason-momoa-lobo-performance-grant-morrison-dc-comics/",
-      "image": "https://www.slashfilm.com/img/gallery/jason-momoas-lobo-performance-slammed-by-dc-comics-legend-grant-morrison/l-intro-1790598686.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "16b763ccfc0bfee9",
       "title": "The Kid Detective TV show in the works at Hulu",
       "quote": "The 2020 mystery film starred Adam Brody as a washed-up sleuth trying to reclaim his former glory.",
@@ -204,17 +347,6 @@
       "date": "2026-09-28T20:35:14+00:00",
       "link": "https://www.avclub.com/kid-detective-tv-show-hulu",
       "image": "https://www.avclub.com/wp-content/uploads/2026/09/28/the-kid-detective-adam-brody-featured.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "38ff418423cb71d4",
-      "title": "How To Watch Coyote Vs. Acme At Home",
-      "quote": "Beep beep! The once-canceled Coyote vs. Acme is now making its way to the home media market. Here's the latest on the Looney Tunes flick.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Sandy Schaefer)",
-      "date": "2026-09-28T20:28:22+00:00",
-      "link": "https://www.slashfilm.com/2271334/how-watch-coyote-vs-acme-at-home/",
-      "image": "https://www.slashfilm.com/img/gallery/how-to-watch-coyote-vs-acme-at-home/l-intro-1790627251.jpg",
       "category": "Indie Gems"
     },
     {
@@ -273,28 +405,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "be89d11cc53c8489",
-      "title": "Climbers race against time, the elements, and each other for The Last First: Winter K2",
-      "quote": "A rare unachieved mountaineering feat lures a motley crew of climbers in The Last First: Winter K2, a dramatic, harrowing documentary.",
-      "publisher": "The A.V. Club",
-      "author": "Jacob Oller",
-      "date": "2026-09-28T18:00:16+00:00",
-      "link": "https://www.avclub.com/the-last-first-winter-k2-review-climbing-documentary-amir-bar-lev-apple",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/09/28/last-first-winter-k2-header.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "d9d9a49c1960bca2",
-      "title": "John Cusack debunks rumor he was almost Walter White",
-      "quote": "The <i>High Fidelity</i> star went right to the source to unravel the long-held <i>Breaking Bad</i> casting story.",
-      "publisher": "The A.V. Club",
-      "author": "Dennis Perkins",
-      "date": "2026-09-28T17:44:38+00:00",
-      "link": "https://www.avclub.com/john-cusack-debunks-walter-white-rumor",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/09/28/Cusack-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "d4421c122764b704",
       "title": "Century-old silent film made in New Hampshire found in Japan antique shop",
       "quote": "Billy B Van’s 1919 comedy Van-ar-chy found by student in Sendai will be shown in early November in New Hampshire A silent comedy filmed in New Hampshire more than a century ago was recently found in Japan, and plans…",
@@ -304,17 +414,6 @@
       "link": "https://www.theguardian.com/film/2026/sep/28/century-old-silent-comedy-new-hampshire-found-japan",
       "image": "https://i.guim.co.uk/img/media/9e35621528dfa088e4610e0f4145acc4b959c0e8/473_122_2541_2032/master/2541.jpg?width=140&quality=85&auto=format&fit=max&s=42ec1fa465e63a6274b3db92c06ff0de",
       "category": "World Cinema"
-    },
-    {
-      "id": "39b6bd8b42f6553e",
-      "title": "Rima Das on ‘Village Rockstars 2’ and the state of independent cinema",
-      "quote": "The acclaimed Assamese filmmaker opens up about the delayed theatrical release of ‘Village Rockstars 2’, making films featuring children and nature, the need to build a better system to support cinema from the Northeast…",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-28T12:21:53+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/rima-das-on-village-rockstars-2-and-the-state-of-independent-cinema/article71519326.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/l2cvt3/article71519458.ece/alternates/LANDSCAPE_1200/Rima%20Das%20and%20a%20still%20from%20%E2%80%98Village%20Rockstars%202%E2%80%99",
-      "category": "Indian Cinema"
     },
     {
       "id": "e00ddf32f70bee9b",
@@ -350,50 +449,6 @@
       "category": "Festival Winners"
     },
     {
-      "id": "f523ab4c889cf633",
-      "title": "Just Play Dead review – Samuel L Jackson and Eva Green punch up switchback crime caper",
-      "quote": "Jackson and Green just about manage to distract viewers from the sub-par Tarantinoesque flourishes, confusing plot points and tired stereotypes Having shot five films since 2020, 82-year-old Martin Campbell is a…",
-      "publisher": "The Guardian",
-      "author": "Phil Hoad",
-      "date": "2026-09-28T08:00:28+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/28/just-play-dead-review-samuel-jackson-eva-green",
-      "image": "https://i.guim.co.uk/img/media/988afd58c98d7569f0596d772d49da038e0222d7/323_0_3538_2832/master/3538.jpg?width=140&quality=85&auto=format&fit=max&s=e3ff2444155143263f7aded1bf897d49",
-      "category": "World Cinema"
-    },
-    {
-      "id": "4ef08cbd62963848",
-      "title": "Kikuyu Land review – the colonial-era misery behind our morning cup of tea",
-      "quote": "The impact of colonial then corporate agricultural development is unravelled in a sobering documentary that takes a dramatic turn when a family secret is discovered The central highlands of Kenya are renowned for their…",
-      "publisher": "The Guardian",
-      "author": "Phuong Le",
-      "date": "2026-09-28T06:00:26+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/28/kikuyu-land-review-kenya-tea",
-      "image": "https://i.guim.co.uk/img/media/e4cbd2c373ddcba13fbf493e95691151a86c9488/675_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=b7a39bf457deb3e2a1de393281aeddce",
-      "category": "World Cinema"
-    },
-    {
-      "id": "af8ef654819e53df",
-      "title": "An uncertain wait for filmmakers selected in IDSFFK after Union I&B Ministry ‘ban’",
-      "quote": "Eight documentaries await censor exemption at the film festival",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-28T04:30:38+00:00",
-      "link": "https://www.thehindu.com/news/national/kerala/an-uncertain-wait-for-filmmakers-selected-in-idsffk-after-union-ib-ministry-ban/article71516456.ece",
-      "image": "https://th-i.thgim.com/public/news/national/kerala/g6m24y/article71516423.ece/alternates/LANDSCAPE_1200/parliament%20street.jpg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "06312d25c1010bab",
-      "title": "IDSFFK 2026: In It Was Here Before Our Time, Ramith Kunhimangalam pays homage to Maari Theyyam",
-      "quote": "The film, produced by actor-director Rajesh Madhavan, captures the essence and mysticism of Maari Theyyam",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-27T17:45:29+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/idsffk-2026-ramith-kunhimangalam-on-his-short-documentary-it-was-here-before-our-time/article71511912.ece",
-      "image": "https://th-i.thgim.com/public/life-and-style/jrwmnw/article71512384.ece/alternates/LANDSCAPE_1200/IT%20Was%20Here%20Before%20Our%20Time.png",
-      "category": "Indian Cinema"
-    },
-    {
       "id": "0d9e59b5541f11d5",
       "title": "The US lawyer who put Nazis on trial at Nuremberg",
       "quote": "On 29 September 1947, the \"biggest murder trial in history\" began",
@@ -403,17 +458,6 @@
       "link": "https://www.bbc.com/culture/article/20260925-the-us-lawyer-who-put-nazis-on-trial-at-nuremberg?ocid=global_culture_rss",
       "image": "https://ychef.files.bbci.co.uk/144x81/p0pcgt1j.jpg",
       "category": "World Cinema"
-    },
-    {
-      "id": "d49f8b8dac56fd8f",
-      "title": "‘Forgotten Island’ movie review: Folklore and friendship power a visually dazzling adventure",
-      "quote": "Cute demon babies, vampires with detachable bodies, and other creatures inspired by Filipino folklore fuel this frenetic tale of friendship and memory",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-27T07:49:43+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/forgotten-island-movie-review-folklore-and-friendship-power-a-visually-dazzling-adventure/article71512543.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/s4u66f/article71515533.ece/alternates/LANDSCAPE_1200/images.jpg",
-      "category": "Indian Cinema"
     },
     {
       "id": "3a5fd8abced83789",
@@ -449,17 +493,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "af9cd5bb98277760",
-      "title": "Godzilla Minus Zero review – spectacular Japanese action continues franchise’s winning streak",
-      "quote": "New York film festival: The follow-up to 2023’s Oscar-winning Godzilla Minus One dazzles with smart social commentary and jaw-dropping effects Even by the standards of older movie stars catching a major second wind…",
-      "publisher": "The Guardian",
-      "author": "Jesse Hassenger",
-      "date": "2026-09-27T00:00:49+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/26/godzilla-minus-zero-review-new-york-film-festival",
-      "image": "https://i.guim.co.uk/img/media/7b50bc9cd07cd78c83a0f28f2bf0d60a0a1e65e7/357_0_3578_2864/master/3578.jpg?width=140&quality=85&auto=format&fit=max&s=5dfc4a94c1baffd9bf82a8e9d6cf4e98",
-      "category": "Festival Winners"
-    },
-    {
       "id": "d235db6a699fe652",
       "title": "‘My Sad Dead’ Review: An Urban Community Gets the Haunting It Deserves in Pablo Larraín’s Superb Modern Gothic",
       "quote": "Macabre and melancholy but suffused with a delicious absurdism that somehow doesn’t clog the arteries of its hopeful little heart, Pablo Larraín’s sprawling, peculiar, terrific “My Sad Dead” is about 20 things at once…",
@@ -471,28 +504,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "4aeab263c3063b80",
-      "title": "Chris Hansen slams Robert Pattinson’s portrayal of him, responds to ‘Primetime’",
-      "quote": "Chris Hansen isn’t impressed with Robert Pattinson’s take on him in the new thriller ‘Primetime’, saying the actor’s performance feels “overly dramatic”",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-26T15:47:45+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/chris-hansen-primetime-robert-pattinson-to-catch-a-predator-lance-oppenheim-a24-crime-thriller/article71513546.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/8vqctc/article71513675.ece/alternates/LANDSCAPE_1200/Robert.jpeg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "5eda9dd0ac955f1f",
-      "title": "IDSFFK 2026: ‘Viraamam’ by Malavika VN dwells on the world of film projectionists",
-      "quote": "Viraamam was screened at the 18th International Documentary and Short Film Festival of Kerala in the short documentary competition section",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-26T13:58:16+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/malavika-vn-documentary-viraamam-idsffk-2026/article71512468.ece",
-      "image": "https://th-i.thgim.com/public/incoming/7iv4u3/article71512523.ece/alternates/LANDSCAPE_1200/26tvm%20still.jpg",
-      "category": "Indian Cinema"
-    },
-    {
       "id": "e7ecefb202733ecc",
       "title": "‘Ghost Song’ Review: Fatih Akin Doesn’t Find Top Form in This Supernatural Romance, but at Least It Has Beautiful Ghosts",
       "quote": "Since hitting an artistic peak with the back-to-back festival triumphs “Head-On” and “Edge of Heaven” in the mid-2000s, German-Turkish auteur Fatih Akin has darted all over the map in genre, style and form —…",
@@ -502,17 +513,6 @@
       "link": "https://variety.com/2026/film/reviews/ghost-song-review-1236875736/",
       "image": "https://variety.com/wp-content/uploads/2026/09/Ghost-Song-2026-‘San-Sebastian-Movie-.webp",
       "category": "World Cinema"
-    },
-    {
-      "id": "9384958d73778afd",
-      "title": "‘Shaque: Trust No One’ series review: Lost in the midst of melodrama",
-      "quote": "Stuffed with lazy television tropes, predictable red herrings, and theatrical performers, ‘Shaque’ struggles to hold interest after a chilling set-up",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-26T13:11:07+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/shaque-trust-no-one-series-review-shaque-review-parineeti-chopra-netflix-rensil-d-silva-jennifer-winget/article71512548.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/fub446/article71512613.ece/alternates/LANDSCAPE_1200/Shaque.jpeg",
-      "category": "Indian Cinema"
     },
     {
       "id": "e892f27fcea202ca",
