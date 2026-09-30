@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T12:20:39.445153+00:00",
+  "generated_at": "2026-09-30T22:07:01.290126+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -9,15 +9,312 @@
   ],
   "reviews": [
     {
-      "id": "08e794c99c2f53a1",
-      "title": "London Film Festival: Sam Pollard To Lead Official Competition Jury",
-      "quote": "Legendary documentary filmmaker Sam Pollard will lead the Official Competition jury at this year’s London Film Festival. Pollard will be joined by Argentine filmmaker and writer Mariano Llinás (The Life of Jorge Luis…",
+      "id": "d565a5e5a11d3624",
+      "title": "‘House Of Guerrero’ Film From Gina Rodriguez Adds 7 To Cast",
+      "quote": "EXCLUSIVE: The growing cast of Gina Rodriguez’s feature film directorial debut, The House of Guerrero, will now also include Lisa Vidal (Righteous Thieves, The Baker and the Beauty), Aaron Dominguez (Gossip Girl…",
       "publisher": "Deadline",
-      "author": "Zac Ntim",
-      "date": "2026-09-30T11:29:31+00:00",
-      "link": "https://deadline.com/2026/09/london-film-festival-sam-pollard-official-competition-jury-1237142872/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2280083545-e1790757131446.jpg",
+      "author": "Rosy Cordero",
+      "date": "2026-09-30T21:45:50+00:00",
+      "link": "https://deadline.com/2026/09/house-of-guerrero-film-cast-supporting-1237143678/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/split-7-shot-1000x667-1.jpg",
       "category": "World Cinema"
+    },
+    {
+      "id": "41d2a2334012ccda",
+      "title": "Ted Cruz Blocks Senators’ Effort To Pass No Fakes Act",
+      "quote": "The No Fakes Act, a bill to bill to curb the use of unauthorized AI deepfakes, was blocked in the Senate on Wednesday by Sen. Ted Cruz (R-TX), who said that the legislation did not have sufficient exceptions for the use…",
+      "publisher": "Deadline",
+      "author": "Ted Johnson",
+      "date": "2026-09-30T21:34:49+00:00",
+      "link": "https://deadline.com/2026/09/ted-cruz-no-fakes-act-senate-1237143753/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Screenshot-2026-09-30-at-5.03.12-PM.jpeg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "e04b219fd3a43b2b",
+      "title": "Sony’s Columbia Pictures Promotes Maia Eyre to EVP Creative Development",
+      "quote": "EXCLUSIVE: Sony Pictures has promoted Maia Eyre to EVP of Creative Development at Columbia Pictures. Eyre will report to Columbia Pictures’ President of Production, Peter Kang on the Culver City, CA lot. She was…",
+      "publisher": "Deadline",
+      "author": "Anthonypauldalessandro",
+      "date": "2026-09-30T21:32:10+00:00",
+      "link": "https://deadline.com/2026/09/sony-columbia-pictures-maia-eyre-1237143623/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Maia-Eyre.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "6e798645c9b11eef",
+      "title": "Macklemore Announces Free Palestine Tour “Sold Out Immediately,” Lineup Coming Soon",
+      "quote": "As Ed Sheeran was forced to cancel shows over severe weather, Macklemore quickly sold out his Free Palestine Tour. On Wednesday, the 4x Grammy winner revealed that all three shows on his tour in support of Palestinians…",
+      "publisher": "Deadline",
+      "author": "Glenn Garner",
+      "date": "2026-09-30T21:22:26+00:00",
+      "link": "https://deadline.com/2026/09/macklemore-free-palestine-tour-sold-out-immediately-1237143760/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Macklemore-2153049755.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "5c9805dd3ffeb057",
+      "title": "Ariana Madix to lead Housewives in space",
+      "quote": "The former <i>Vanderpump Rules</i> star will lead a new satirical drama series titled <i>Future Housewives</i>.",
+      "publisher": "The A.V. Club",
+      "author": "Drew Gillis",
+      "date": "2026-09-30T21:03:49+00:00",
+      "link": "https://www.avclub.com/ariana-madix-future-housewives-series",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/09/30/MixCollage-30-Sep-2026-05-01-PM-6948.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "b2237409a600b202",
+      "title": "Joachim Rønning Sets Horror Film ‘System’ With Spooky Pictures & Image Nation Studios",
+      "quote": "Joachim Rønning, the Norwegian filmmaker most recently at the helm of Tron: Ares, has set up his next film, the horror flick System, with Spooky Pictures and Image Nation Studios. Currently in production in London…",
+      "publisher": "Deadline",
+      "author": "Matthewgrobar",
+      "date": "2026-09-30T21:00:00+00:00",
+      "link": "https://deadline.com/2026/09/joachim-ronning-directing-system-spooky-pictures-image-nation-1237143566/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2152744487.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "b280d89eeb68f429",
+      "title": "Neon Counters A24’s SCP Foundation Movie With “Open-Source” Project To Release Under Creative Commons License",
+      "quote": "Earlier this month, we scooped A24’s acquisition of an SCP Foundation movie from Spooky Pictures and Image Nation Studios, intended to bring one of the internet’s largest fan-built horror and sci-fi universes to the big…",
+      "publisher": "Deadline",
+      "author": "Matthewgrobar",
+      "date": "2026-09-30T20:45:00+00:00",
+      "link": "https://deadline.com/2026/09/scp-foundation-movie-neon-open-source-creative-commons-license-1237143453/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Neon-SCP-Foundation.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "253436423d945d4b",
+      "title": "‘Nobody Wants This’ Rabbi Consultant Slams Adam Brody As An “Ignorant Jew” Over “Free Palestine” Support",
+      "quote": "Following his public support of “Free Palestine,” Adam Brody is facing backlash not only from viewers, but a recent colleague. Ahead of Season 3 of Nobody Wants This, premiering Oct. 22 on Netflix, the show’s former…",
+      "publisher": "Deadline",
+      "author": "Glenn Garner",
+      "date": "2026-09-30T20:35:10+00:00",
+      "link": "https://deadline.com/2026/09/nobody-wants-this-rabbi-slams-adam-brody-ignorant-jew-1237143639/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Nobody-Wants-This.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "c49cd35b9f53d2e1",
+      "title": "‘His & Hers’ Team Developing Alice Feeney’s Next Book ‘Twist’ As Series With Fifth Season",
+      "quote": "EXCLUSIVE: His & Hers became one of Netflix’s most-watched series ever after launching earlier this year. The team behind the Jon Bernthal and Tessa Thompson-led thriller have once again teamed with Fifth Season to…",
+      "publisher": "Deadline",
+      "author": "Peterdeadline",
+      "date": "2026-09-30T20:30:00+00:00",
+      "link": "https://deadline.com/2026/09/his-hers-alice-feeney-book-twist-series-fifth-season-1237143562/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/HIS__HERS_n_S1_E6_00_33_22_19_R.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "e3349c335d454ee9",
+      "title": "Macklemore says Free Palestine Tour sold out \"immediately\"",
+      "quote": "The rapper promised that the lineup will be announced soon.",
+      "publisher": "The A.V. Club",
+      "author": "Olivia Singh",
+      "date": "2026-09-30T19:38:43+00:00",
+      "link": "https://www.avclub.com/macklemore-free-palestine-tour-sold-out",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/09/30/macklemore-maniac-music-video.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "b385c00cba7a9463",
+      "title": "Kelly Macdonald isn't playing a superhero, but she's still the heart of Lanterns",
+      "quote": "The only things more powerful than a Green Lantern’s ring are Kelly Macdonald’s facial expressions.",
+      "publisher": "The A.V. Club",
+      "author": "Chase Hutchinson",
+      "date": "2026-09-30T19:03:03+00:00",
+      "link": "https://www.avclub.com/lanterns-kelly-macdonald-kerry-kane",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/09/30/MixCollage-30-Sep-2026-01-58-PM-9468.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "1b3b98f6a0f2dea7",
+      "title": "ID to put the \"AI\" in \"Aileen Wuornos\"",
+      "quote": "The docuseries <i>Unmasking A Monster: Aileen Wuornos</i> will employ artificial intelligence to swap faces in the serial killer story.",
+      "publisher": "The A.V. Club",
+      "author": "Dennis Perkins",
+      "date": "2026-09-30T18:02:02+00:00",
+      "link": "https://www.avclub.com/monster-aileen-wuornos-id-ai",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/09/30/Wuornos-feature.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "d8cfb44f381b97df",
+      "title": "Seth MacFarlane returns to his roots with Ted: The Animated Series first look",
+      "quote": "Mark Wahlberg, Amanda Seyfried, and Jessica Barth will reprise their <i>Ted</i> roles in the show.",
+      "publisher": "The A.V. Club",
+      "author": "Olivia Singh",
+      "date": "2026-09-30T17:49:28+00:00",
+      "link": "https://www.avclub.com/ted-the-animated-series-first-look",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/09/30/ted-the-animated-series-featured.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "6860ae70dd0b38cd",
+      "title": "Ted Lasso Season 4's Anthony Head Tribute Explained",
+      "quote": "The ninth episode of Ted Lasso Season 4 includes a tribute to Anthony Head, who played Rupert Mannion. Here's why the tribute came so late in the season.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Ben Pearson)",
+      "date": "2026-09-30T17:38:27+00:00",
+      "link": "https://www.slashfilm.com/2273634/ted-lasso-season-4-anthony-head-tribute-explained/",
+      "image": "https://www.slashfilm.com/img/gallery/ted-lasso-season-4s-anthony-head-tribute-explained/l-intro-1790789740.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "f1eaf952677dbefe",
+      "title": "Six Flags \"permanently retiring\" its X2 roller coaster",
+      "quote": "The move comes after a CNN report in August that tied several brain injuries to the amusement park ride.",
+      "publisher": "The A.V. Club",
+      "author": "Jarrod Jones",
+      "date": "2026-09-30T17:12:06+00:00",
+      "link": "https://www.avclub.com/six-flags-permanently-retires-x2-roller-coaster",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/09/30/x2-header-2.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "fb8cf58957c84fe2",
+      "title": "Gaza documentary NAZA beats Avengers Endgame: Encore to top Italian box office",
+      "quote": "Award-winning, Guardian-produced film focused on Israel’s mass killing of civilians extends run after sold-out screenings NAZA, the award-winning documentary about Israel’s systemic mass killing of Palestinian civilians…",
+      "publisher": "The Guardian",
+      "author": "Catherine Shoard and Angela Giuffrida",
+      "date": "2026-09-30T17:11:19+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/30/gaza-documentary-naza-beats-avengers-endgame-encore-to-top-italian-box-office",
+      "image": "https://i.guim.co.uk/img/media/3fa7c1678f5a6282da9f66019bda1865327570a9/277_114_2467_1973/master/2467.jpg?width=140&quality=85&auto=format&fit=max&s=f2553a2d75c3a3f03a15aee5ee63653c",
+      "category": "World Cinema"
+    },
+    {
+      "id": "0344216f743618b8",
+      "title": "NAZA, the No Other Land team's latest film, exposes American influence on Israeli aggression",
+      "quote": "Reading about American generative AI being used to kill Palestinian civilians is one thing. Hearing about it from the perpetrators is another.",
+      "publisher": "The A.V. Club",
+      "author": "Monica Castillo",
+      "date": "2026-09-30T17:00:18+00:00",
+      "link": "https://www.avclub.com/naza-documentary-israel-war-crimes-american-technology-confessions-no-other-land-team",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/09/25/NAZA-feature.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "55c2fae17abba615",
+      "title": "Wednesday types out something presumably horrible in first season 3 photo from Netflix show",
+      "quote": "Jenna Ortega returns alongside Catherine Zeta-Jones, Luis Guzmán and Fred Armisen in the Tim Burton-produced series.",
+      "publisher": "The A.V. Club",
+      "author": "Dennis Perkins",
+      "date": "2026-09-30T16:26:04+00:00",
+      "link": "https://www.avclub.com/wednesday-jenna-ortega-photo-season-three",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/09/30/wednesday-feature.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "fb71f9125303923d",
+      "title": "Slow Horses Season 6 Unites Stars From The Harry Potter Movies And HBO Series",
+      "quote": "In Season 6 of Slow Horses, a Harry Potter movie veteran comes face to face with an actor who's set to appear on the Harry Potter HBO TV show.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Ben Pearson)",
+      "date": "2026-09-30T16:00:00+00:00",
+      "link": "https://www.slashfilm.com/2272088/slow-horses-season-6-stars-harry-potter-movies-hbo-series/",
+      "image": "https://www.slashfilm.com/img/gallery/slow-horses-season-6-unites-stars-from-the-harry-potter-movies-and-hbo-series/l-intro-1790610511.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "7dd5d92a85f2608f",
+      "title": "Ghost Rider Nicolas Cage Slams The MCU For Becoming A 'Glorified WWE'",
+      "quote": "Nicolas Cage played Ghost Rider, but he's never been part of the MCU, and he had some recent tough but fair words about the Marvel machine.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Chris Evangelista)",
+      "date": "2026-09-30T15:29:48+00:00",
+      "link": "https://www.slashfilm.com/2273304/ghost-rider-star-nicolas-cage-mcu-glorified-wwe/",
+      "image": "https://www.slashfilm.com/img/gallery/ghost-rider-nicolas-cage-slams-the-mcu-for-becoming-a-glorified-wwe/l-intro-1790781393.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "06a2ecc1df2a2f97",
+      "title": "Tom Hanks Was Considered For A Role In This Genre-Defining '90s Action Movie",
+      "quote": "Tom Hanks isn't typically thought of as an action star, but in the 1990s he was approached to star in an action movie that became genre-defining.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Witney Seibold)",
+      "date": "2026-09-30T15:00:00+00:00",
+      "link": "https://www.slashfilm.com/2270928/tom-hanks-potential-role-genre-defining-90s-action-movie-speed/",
+      "image": "https://www.slashfilm.com/img/gallery/tom-hanks-was-considered-for-a-role-in-this-genre-defining-90s-action-movie/l-intro-1790613566.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "fa742753a2e77e3b",
+      "title": "Post your questions for Michael Winterbottom",
+      "quote": "With us to mark the 24th anniversary of 24 Hour Party People, the director’s work includes everything from Cracker to A Cock and Bull Story, Wonderland to Welcome to Sarajevo. And, of course, The Trip Of course, the 90s…",
+      "publisher": "The Guardian",
+      "author": "Rich Pelley",
+      "date": "2026-09-30T14:17:41+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/30/post-your-questions-for-michael-winterbottom",
+      "image": "https://i.guim.co.uk/img/media/601653c99d7df95b91148738e01d1141e3a7dca8/0_94_2001_1600/master/2001.jpg?width=140&quality=85&auto=format&fit=max&s=7daf217860a6c8cf2a079168160f4821",
+      "category": "World Cinema"
+    },
+    {
+      "id": "3a12dcbed68a5027",
+      "title": "‘Verity’ movie review: Anne Hathaway and Dakota Johnson stumble through a corny thriller",
+      "quote": "Forget a dark, twisted, erotic drama, what’s hiding beneath ‘Verity’ is an unrealised parody",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-30T13:33:38+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/verity-movie-review-anne-hathaway-and-dakota-johnson-stumble-through-a-corny-thriller/article71527847.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/m84nba/article71528635.ece/alternates/LANDSCAPE_1200/Anne%20Hathaway%20in%20%E2%80%98Verity%E2%80%99",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "c543b3b42d84a171",
+      "title": "Verity review – Dakota Johnson leaves teethmarks as she goes back to Fifty Shades erotic thriller territory",
+      "quote": "Anne Hathaway and Josh Hartnett co-star in this unconvincing mystery about a struggling writer who is asked to ghostwrite for a bestselling author The nation is crying out for a really enjoyable erotic mystery-thriller…",
+      "publisher": "The Guardian",
+      "author": "Peter Bradshaw",
+      "date": "2026-09-30T13:00:41+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/30/verity-review-dakota-johnson-anne-hathaway-josh-hartnett",
+      "image": "https://i.guim.co.uk/img/media/aaec6ce6fbdd49e6375f52744896302b2f2f913c/250_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=3bcc9494f2729cf4c8f56428cc2bd632",
+      "category": "World Cinema"
+    },
+    {
+      "id": "db12fff0f883578a",
+      "title": "‘Verity’ Review: Dakota Johnson and Anne Hathaway Drift Through Another Listless Colleen Hoover Adaptation",
+      "quote": "Whenever Hollywood latches obsessively onto the oeuvre of a pop novelist du jour, the law of averages dictates that the ensuing spate of films can’t be all bad: More than a couple of those ’90s John Grisham-based…",
+      "publisher": "Variety",
+      "author": "Guy Lodge",
+      "date": "2026-09-30T13:00:00+00:00",
+      "link": "https://variety.com/2026/film/reviews/verity-review-dakota-johnson-anne-hathaway-1236893315/",
+      "image": "https://variety.com/wp-content/uploads/2026/09/Verity-042726-2-1e68e4a730914149b39acbb1d408b0c4.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "3d689bf07550c948",
+      "title": "‘Verity’ Review: Anne Hathaway, Dakota Johnson and Josh Hartnett Try and Fail to Slink Their Way Through a Dumb Mystery",
+      "quote": "The fourth adaptation of best-selling novelist Colleen Hoover’s work reunites Hathaway with her 'The Idea of You' director Michael Showalter.",
+      "publisher": "The Hollywood Reporter",
+      "author": "Richard Lawson",
+      "date": "2026-09-30T13:00:00+00:00",
+      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/verity-review-anne-hathaway-dakota-johnson-josh-hartnett-1236714142/",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "ee344c3263f2989b",
+      "title": "NAZA",
+      "quote": "“NAZA” stands as an ontological survey of state-sponsored violence.",
+      "publisher": "RogerEbert.com",
+      "author": "Robert Daniels",
+      "date": "2026-09-30T13:00:00+00:00",
+      "link": "https://www.rogerebert.com/reviews/naza-film-documentary-review-2026",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "cdc66140ece9ac0e",
+      "title": "Verity Review: Anne Hathaway's Colleen Hoover Movie Is Dead On Arrival",
+      "quote": "Anne Hathaway is the best thing about Verity, a movie that could have been fun and campy but is instead stuck with lousy source material. Here's our review.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Nina Starner)",
+      "date": "2026-09-30T13:00:00+00:00",
+      "link": "https://www.slashfilm.com/2273049/verity-review-anne-hathaway-colleen-hoover-movie/",
+      "image": "https://www.slashfilm.com/img/gallery/verity-review-anne-hathaways-colleen-hoover-movie-is-dead-on-arrival/l-intro-1790771850.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "a43ae69e87da2fed",
@@ -29,6 +326,17 @@
       "link": "https://www.bbc.com/culture/article/20260318-the-best-podcasts-of-2026?ocid=global_culture_rss",
       "image": "https://ychef.files.bbci.co.uk/144x81/p0pd1v5r.jpg",
       "category": "World Cinema"
+    },
+    {
+      "id": "3062fc0d07d3b6c5",
+      "title": "IDSFFK 2026: Ameya Gore on his documentary ‘Going Solo’ and pushing the boundaries of sports documentaries",
+      "quote": "The documentary, produced by Sharib Khan and Vikas Kumar, follows women cyclists Gareema Shankar and Renu Singhi, on their journey to the London-Edinburgh-London cycling event in 2022",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-30T10:34:44+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/idsffk-2026-ameya-gore-on-his-documentary-going-solo-and-pushing-the-boundaries-of-sports-documentaries/article71527453.ece",
+      "image": "https://th-i.thgim.com/public/incoming/p558ny/article71527667.ece/alternates/LANDSCAPE_1200/1788950496380671303.jpg",
+      "category": "Indian Cinema"
     },
     {
       "id": "2b41b3bf3cb1e03f",
@@ -64,39 +372,6 @@
       "category": "Indian Cinema"
     },
     {
-      "id": "0a609db69a240e7c",
-      "title": "Hearst Networks UK Buys ‘American Chopper’ Revival Series ‘Orange County Choppers Original’",
-      "quote": "EXCLUSIVE: Orange County Choppers Originals is headed out of the garage and travelling to Europe. Hearst Networks has bought UK rights to the ‘reborn’ ob doc series from Off The Fence, which has boarded the show after…",
-      "publisher": "Deadline",
-      "author": "Jesse Whittock",
-      "date": "2026-09-30T10:11:35+00:00",
-      "link": "https://deadline.com/2026/09/orange-county-choppers-original-hearst-networks-uk-1237142892/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Orange-County-Choppers.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "3062fc0d07d3b6c5",
-      "title": "IDSFFK 2026: Ameya Gore on his documentary ‘Going Solo’ and pushing the boundaries of sports documentaries",
-      "quote": "The documentary, produced by Sharib Khan and Vikas Kumar, follows women cyclists Gareema Shankar and Renu Singhi, on their journey to the London-Edinburgh-London cycling event in 2022",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-30T10:06:09+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/idsffk-2026-ameya-gore-on-his-documentary-going-solo-and-pushing-the-boundaries-of-sports-documentaries/article71527453.ece",
-      "image": "https://th-i.thgim.com/public/incoming/p558ny/article71527667.ece/alternates/LANDSCAPE_1200/1788950496380671303.jpg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "02904569caf22efd",
-      "title": "European Film Academy To Honor Beki Probst, Marin Karmitz & Sandra den Hamer With New Community Award",
-      "quote": "The European Film Academy has named Beki Probst, Marin Karmitz and Sandra den Hamer as the first recipients of its new Community Award for an Outstanding Contribution to European Film Culture. The award, paying tribute…",
-      "publisher": "Deadline",
-      "author": "Melanie Goodfellow",
-      "date": "2026-09-30T10:00:55+00:00",
-      "link": "https://deadline.com/2026/09/european-film-academy-probst-karmitz-den-hamer-1237142894/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/instant-view-the-71st-annual-cannes-film-festival-opening-ce-1000x667-1.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "86b065c69301ba81",
       "title": "Cotton Queen review – mystery, matriarchs and magic in pioneering Sudanese debut",
       "quote": "Suzannah Mirghani’s first feature contains a powerful performance by Rabha Mohamed Mahmoud as a village’s elder woman and tackles the long shadow of British imperialism and women’s rights ‘I decide my past,” says a…",
@@ -117,61 +392,6 @@
       "link": "https://www.thehindu.com/entertainment/movies/premada-oorali-kannada-movie-review-manoj-kumar-rangayana-raghu-shree-raam-thapaswini-poonacha/article71523625.ece",
       "image": "https://th-i.thgim.com/public/entertainment/movies/y3xyv6/article71523714.ece/alternates/LANDSCAPE_1200/Premada%20Oorali.jpeg",
       "category": "Indian Cinema"
-    },
-    {
-      "id": "1e4e9d1b97e06e9f",
-      "title": "Netflix Renews Indian Reality Breakout ‘Lock Upp’ For Second Season",
-      "quote": "Netflix is returning the inmates to the Lock Upp jail. A second season of the ‘captive reality’ series, whose full title is Lock Upp: Sach Yaa Sazaa has been ordered following Season 1’s breakout summer, where it placed…",
-      "publisher": "Deadline",
-      "author": "Jesse Whittock",
-      "date": "2026-09-30T09:32:50+00:00",
-      "link": "https://deadline.com/2026/09/netflix-renews-lock-upp-season-2-1237142879/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Lock-Up-2.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "d690148b182e672d",
-      "title": "‘Doctor Who’: Multiple BBC Studios Labels Likely To Apply For Tender",
-      "quote": "EXCLUSIVE: At least one BBC Studios indie will be throwing its hat in the ring to become the next producer of Doctor Who, with scripted boss Jamie Hall telling Deadline he “firmly believes” the entire BBC group should…",
-      "publisher": "Deadline",
-      "author": "Max Goldbart",
-      "date": "2026-09-30T09:30:16+00:00",
-      "link": "https://deadline.com/2026/09/doctor-who-bbc-studios-labels-tender-multiple-jamie-hall-1237116215/",
-      "image": "https://deadline.com/wp-content/uploads/2025/06/525172-e1750264502579.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "b6b0f0a340287738",
-      "title": "Callum Scott Howells & Gabrielle Creevy Leading Adaptation Of Vanessa Savage Thriller ‘The Night They Vanished’ For BBC Studios & Channel 4",
-      "quote": "EXCLUSIVE: It’s a Sin star Callum Scott Howells and Gabrielle Creevy (Black Doves) are leading an adaptation of Vanessa Savage’s romantic thriller The Night They Vanished for BBC Studios and Channel 4. Cameras have…",
-      "publisher": "Deadline",
-      "author": "Max Goldbart",
-      "date": "2026-09-30T09:15:00+00:00",
-      "link": "https://deadline.com/2026/09/the-night-they-vanished-callum-scott-howells-channel-4-series-1237116059/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/world-premiere-of-sky-original-amadeus-1000x667-1.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "528494444d88aaef",
-      "title": "BBC Studios Scripted Boss Spotlights Strategy Behind Indie & Talent Deals: “We’re Not Going To Spend Millions Buying A Production Company”",
-      "quote": "EXCLUSIVE: BBC Studios’ scripted chief has laid out his strategy for future indie and talent investments that will shy away from “going out and spending £20M ($26.5M) on a production company.” Speaking exclusively with…",
-      "publisher": "Deadline",
-      "author": "Max Goldbart",
-      "date": "2026-09-30T09:00:00+00:00",
-      "link": "https://deadline.com/2026/09/bbc-studios-jamie-hall-doctor-who-talent-deals-america-1237112296/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Jamie.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "864240b09ccf1b12",
-      "title": "Channel 4 Teaming With Stroke Association On Doc Series Spotlighting Young People Recovering From Strokes",
-      "quote": "EXCLUSIVE: Channel 4 is teaming with the Stroke Association on a documentary sereis looking at young people living with the aftermath of a stroke. Trauma: My Broken Brain follows three young survivors through the most…",
-      "publisher": "Deadline",
-      "author": "Max Goldbart",
-      "date": "2026-09-30T08:26:40+00:00",
-      "link": "https://deadline.com/2026/09/channel-4-trauma-my-broken-brain-stroke-documentary-1237142868/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/04_TMBB_Dan_SurgeryChat.jpeg",
-      "category": "World Cinema"
     },
     {
       "id": "8af511a19b3c8c27",
@@ -216,28 +436,6 @@
       "link": "https://www.theguardian.com/film/2026/sep/30/rapture-review-cult-spanish-horror-pedro-almodovar",
       "image": "https://i.guim.co.uk/img/media/eb3899628b669d67575eefc782ece55f56246f30/244_0_900_720/master/900.jpg?width=140&quality=85&auto=format&fit=max&s=c8ebef31600fd488aabfc7ae208979ee",
       "category": "World Cinema"
-    },
-    {
-      "id": "cc1c323ff1bc388c",
-      "title": "‘Project Maya’: Indian short-form anime series set for premiere",
-      "quote": "Canvas is gearing up to drop ‘Project Maya’ in the first week of October — India’s first original short-form anime, built entirely by Indian creators",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-30T07:37:54+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/project-maya-short-form-hindi-anime-series-canvas-app-otaku-bharat-studios-october-release-canvas-app/article71527225.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/ez03k7/article71527376.ece/alternates/LANDSCAPE_1200/Project%20Maya.jpeg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "c6c61b8b63f0a8cd",
-      "title": "Ted Lasso season 4 is just one odd choice stacked on top of another",
-      "quote": "It's hard to tell how Ted Lasso will handle its latest \"Huh? Is this really happening?\" moment.",
-      "publisher": "The A.V. Club",
-      "author": "Saloni Gajjar",
-      "date": "2026-09-30T07:00:23+00:00",
-      "link": "https://www.avclub.com/ted-lasso-recap-season-4-episode-9-mae-rides-the-bus",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/09/29/ted-lasso-9.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "9411722541b6614d",
@@ -295,127 +493,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "8b78102417b1784b",
-      "title": "David Fincher's mis-adventures at Netflix may be coming to an end",
-      "quote": "After six years and three films, including the upcoming Further Mis-Adventures Of Cliff Booth, the filmmaker is reportedly not renewing his exclusive contract with the streamer.",
-      "publisher": "The A.V. Club",
-      "author": "Matt Schimkowitz",
-      "date": "2026-09-29T23:59:48+00:00",
-      "link": "https://www.avclub.com/david-fincher-to-leave-netflix",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/09/29/the-killer-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "ad31ad0dbd7fc8e0",
-      "title": "Jennifer Lawrence is the first victim of Zach Cregger's The Flood",
-      "quote": "The Resident Evil hitmakers' secret sci-fi movie opens in August 2028.",
-      "publisher": "The A.V. Club",
-      "author": "Matt Schimkowitz",
-      "date": "2026-09-29T22:58:19+00:00",
-      "link": "https://www.avclub.com/jennifer-lawrence-to-star-in-zach-cregger-the-flood",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2025/10/27162645/jennifer-lawrence-san-sebastian-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "65270eebf05d2b1d",
-      "title": "Meta's adorable AI is, predictably, a security nightmare",
-      "quote": "The cutesy Muse avatar, Jolly, lulls users into a false sense of security as the AI gives their address out to Facebook users.",
-      "publisher": "The A.V. Club",
-      "author": "Matt Schimkowitz",
-      "date": "2026-09-29T21:44:25+00:00",
-      "link": "https://www.avclub.com/muse-ai-security-flaws-marketplace-blunder",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/09/25/jolly-header.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "93fffe2d8f36445b",
-      "title": "Curry Barker's next movie gets a release date",
-      "quote": "The <i> Obsession</i> director's upcoming film, <i>Anything But Ghosts</i>, releases on May 7, 2027.",
-      "publisher": "The A.V. Club",
-      "author": "Olivia Singh",
-      "date": "2026-09-29T21:01:56+00:00",
-      "link": "https://www.avclub.com/curry-barker-anything-but-ghosts-release-date",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/09/29/curry-barker-featured.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "4099595a6514ea99",
-      "title": "Gene Autry's Rarely Discussed '30s Western Is Streaming On Prime Video",
-      "quote": "Want to learn more about Gene Autry? This 1930s musical Western film streaming on Prime Video is a good place to start familiarizing yourself with his work.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Witney Seibold)",
-      "date": "2026-09-29T21:00:00+00:00",
-      "link": "https://www.slashfilm.com/2272544/gene-autry-30s-western-oh-susanna-streaming-prime-video/",
-      "image": "https://www.slashfilm.com/img/gallery/gene-autrys-rarely-discussed-30s-western-is-streaming-on-prime-video/l-intro-1790710140.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "7275315cf23c290c",
-      "title": "Charlie Sheen's dad to make sure his son stays on best behavior on new sitcom, Happy Jack",
-      "quote": "AMC has given the green light to <i>Happy Jack</i>, a new half-hour family comedy, starring Charlie and Martin Sheen.",
-      "publisher": "The A.V. Club",
-      "author": "Matt Schimkowitz",
-      "date": "2026-09-29T19:58:50+00:00",
-      "link": "https://www.avclub.com/happy-jack-starring-charlie-sheen-martin-sheen-announcement",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/09/29/charlie-martin-sheen.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "6ed1a8c89b0b44f7",
-      "title": "Patricio Guzmán obituary",
-      "quote": "Chilean film-maker whose trilogy on Augusto Pinochet’s coup brought him to international attention Hawker Hunter jets bomb the presidential palace in the Chilean capital, Santiago, setting it ablaze. It is 11 September…",
-      "publisher": "The Guardian",
-      "author": "Nick Caistor",
-      "date": "2026-09-29T19:50:40+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/29/patricio-guzman-obituary",
-      "image": "https://i.guim.co.uk/img/media/6deb81bb43f3633925d03ddfbc5198d9869be163/0_0_2430_1944/master/2430.jpg?width=140&quality=85&auto=format&fit=max&s=cc0c942d5bf746e7d9d1ea69c2f5d82f",
-      "category": "World Cinema"
-    },
-    {
-      "id": "f44f076863099b75",
-      "title": "Connie Britton is pretending to be a teen's mom in unsettling Phony trailer",
-      "quote": "Fellow <i>The White Lotus</i> alum Sam Nivola also stars in the coming-of-age mystery series.",
-      "publisher": "The A.V. Club",
-      "author": "Olivia Singh",
-      "date": "2026-09-29T19:40:14+00:00",
-      "link": "https://www.avclub.com/phony-trailer-hulu",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/09/29/phony-connie-britton-sam-nivola-featured.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "b2d61cbd6caaf49f",
-      "title": "At least one artist wants his work back from the Trump administration",
-      "quote": "Kehinde Wiley, who painted Barack Obama for the National Portrait Gallery, has offered to buy back his work from the U.S. embassy in the Dominican Republic.",
-      "publisher": "The A.V. Club",
-      "author": "Drew Gillis",
-      "date": "2026-09-29T19:33:08+00:00",
-      "link": "https://www.avclub.com/kehinde-wiley-trump-painting",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2025/04/25215918/getty-white-house-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "8c7cdc1a4cd57c1a",
-      "title": "Leonard Nimoy Starred In This TV Movie Adaptation Of A Classic '30s Sci-Fi Book",
-      "quote": "One of the most influential science fiction novels of all time was adapted into a 1990s TV movie that featured Leonard Nimoy.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Witney Seibold)",
-      "date": "2026-09-29T19:00:00+00:00",
-      "link": "https://www.slashfilm.com/2272104/leonard-nimoy-tv-adaptation-30s-sci-fi-book-brave-new-world/",
-      "image": "https://www.slashfilm.com/img/gallery/leonard-nimoy-starred-in-this-tv-movie-adaptation-of-a-classic-30s-sci-fi-book/l-intro-1790695418.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "8af2b86bb7bbe1fa",
-      "title": "Spider-Man's Marvel Comics Clone Saga Is Becoming A TV Series At Prime Video",
-      "quote": "A new Spider-Man series is in the works at Prime Video, and it involves characters from The Clone Saga. Get the details here.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Ben Pearson)",
-      "date": "2026-09-29T18:40:44+00:00",
-      "link": "https://www.slashfilm.com/2272415/spider-man-marvel-comics-clone-saga-prime-video-tv-series/",
-      "image": "https://www.slashfilm.com/img/gallery/spider-mans-marvel-comics-clone-saga-is-becoming-a-tv-series-at-prime-video/l-intro-1790707153.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "adbcb64a76f6a461",
       "title": "Tom Cruise takes the 'biggest risk of his career'",
       "quote": "It's \"the weirdest film he's ever made\"",
@@ -427,17 +504,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "4fd7a6e291d95f6b",
-      "title": "Jack Nicholson And Meryl Streep Headlined This Must-See '80s Flop Based On A Beloved Book",
-      "quote": "It may have flopped, but this '80s drama (itself based on a Pulitzer Prize-winning book) starring Jack Nicholson and Meryl Streep is very much worth your time.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Jeremy Smith)",
-      "date": "2026-09-29T16:30:00+00:00",
-      "link": "https://www.slashfilm.com/2271994/jack-nicholson-meryl-streep-80s-flop-beloved-book-ironweed/",
-      "image": "https://www.slashfilm.com/img/gallery/jack-nicholson-and-meryl-streep-headlined-this-must-see-80s-flop-based-on-a-beloved-book/l-intro-1790693885.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "8c3bf627d77c0187",
       "title": "‘Digger’ Review: As a Texas Oil Tycoon, Tom Cruise Goes Over the Top in Alejandro G. Iñárritu’s Bombastically Self-Important Satire",
       "quote": "\"Digger\" isn’t funny. It’s nervy, in your face, audacious, adventurous, and bizarro in a free-swinging, out-of-the-box way. And it feels like a comedy, since it’s fueled by the relentless overacting of a bad Coen…",
@@ -447,17 +513,6 @@
       "link": "https://variety.com/2026/film/reviews/digger-review-tom-cruise-alejandro-g-inarritu-1236872535/",
       "image": "https://variety.com/wp-content/uploads/2026/09/MCDDIGG_WB006.jpg",
       "category": "World Cinema"
-    },
-    {
-      "id": "6eed8f1357c95aed",
-      "title": "Digger review – Tom Cruise’s loudmouth oil tycoon goes hard in Alejandro G Iñárritu’s eco-satire",
-      "quote": "One man’s irresponsible drilling causes a global crisis in Iñárritu’s exasperatingly laborious, self-congratulatory film A new movie from the Oscar-winning Mexican director Alejandro González Iñárritu is always an…",
-      "publisher": "The Guardian",
-      "author": "Peter Bradshaw",
-      "date": "2026-09-29T16:00:00+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/29/digger-review-tom-cruise-satire-alejandro-gonzalez-inarritu",
-      "image": "https://i.guim.co.uk/img/media/ce939ad10645ce3d14e291138e02f52e6e36650d/250_0_2500_2001/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=461ee56ec21d178eabc1d40fc1e12d83",
-      "category": "Festival Winners"
     },
     {
       "id": "03e64d34f1f7039e",
@@ -482,17 +537,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "03510ec0e45976e1",
-      "title": "Digger Review: Alejandro G. Iñárritu's Audacious Satire Is Saved By Tom Cruise",
-      "quote": "Digger nearly falls prey to director Alejandro G. Iñárritu's indulgences, but is ultimately saved by star Tom Cruise. Here's our review.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Bill Bria)",
-      "date": "2026-09-29T16:00:00+00:00",
-      "link": "https://www.slashfilm.com/2271749/digger-review-tom-cruise/",
-      "image": "https://www.slashfilm.com/img/gallery/digger-review-alejandro-g-irritus-audacious-satire-is-saved-by-tom-cruise/l-intro-1790682527.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "974925d2745b4ccb",
       "title": "Child review – jump scares abound in twisty organ transplant fable that keeps horror at its heart",
       "quote": "This Luxembourg-made movie about a couple who venture east to save their son features some impressive film-making Stippled with first-world guilt about income inequality even between fellow EU member states, this…",
@@ -501,17 +545,6 @@
       "date": "2026-09-29T10:00:48+00:00",
       "link": "https://www.theguardian.com/film/2026/sep/29/child-review-luxembourg-horror",
       "image": "https://i.guim.co.uk/img/media/04a579e16454d9b53789f8afa2994271c1c3f572/972_0_2144_1716/master/2144.jpg?width=140&quality=85&auto=format&fit=max&s=7278d3fad2cdd892c5a389579f7edac3",
-      "category": "World Cinema"
-    },
-    {
-      "id": "00b4c3259b6feba7",
-      "title": "The Portuguese House review – picturesque, polite drama of secrets and revelations at a country estate",
-      "quote": "Spanish drama about people leaving their old lives behind plays out like a literary novel, with Manolo Solo excellent as a discombobulated gardener Out of the blue, a woman walks out on her husband. Bags packed and…",
-      "publisher": "The Guardian",
-      "author": "Cath Clarke",
-      "date": "2026-09-29T08:00:57+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/29/the-portuguese-house-review-picturesque-polite-drama-of-secrets-and-revelations-at-a-country-estate",
-      "image": "https://i.guim.co.uk/img/media/f54dd16e4ca2ae6fb25b08531d2b0f97444f9a1e/365_0_2595_2076/master/2595.jpg?width=140&quality=85&auto=format&fit=max&s=bf0c91316f61e114184c14841aa1c3fb",
       "category": "World Cinema"
     },
     {
@@ -636,17 +669,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "64232db90353fd19",
-      "title": "Forgotten Island",
-      "quote": "A raucous folktale filled with unique characters and situations, from the team behind \"Puss in Boots: The Last Wish.\"",
-      "publisher": "RogerEbert.com",
-      "author": "Matt Zoller Seitz",
-      "date": "2026-09-25T13:00:00+00:00",
-      "link": "https://www.rogerebert.com/reviews/forgotten-island-animated-film-review-2026",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
       "id": "69961c5a82916e98",
       "title": "Heart of the Beast",
       "quote": "When the movie is giving us time with its actual flesh-and-blood components, “Heart of the Beast” is consistently moving.",
@@ -724,17 +746,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "39fe7fd9f0defb59",
-      "title": "‘Forgotten Island’ Review: A Delightful Animated Celebration of Friendship and Filipino Culture",
-      "quote": "In Hollywood, parallel thought is a funny thing. As in every other sphere, two or more people can have a similar idea at the same time, but when those ideas bloom into movies, their release can feel like a land rush…",
-      "publisher": "Variety",
-      "author": "Todd Gilchrist",
-      "date": "2026-09-24T17:14:30+00:00",
-      "link": "https://variety.com/2026/film/reviews/forgotten-island-review-1236874557/",
-      "image": "https://variety.com/wp-content/uploads/2026/09/Forgotten-Island.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "20cf54e7631a37a7",
       "title": "12 of the best films to watch this October",
       "quote": "From Verity and Digger to Sense and Sensibility",
@@ -753,17 +764,6 @@
       "author": "Jordan Mintzer",
       "date": "2026-09-24T01:41:17+00:00",
       "link": "https://www.hollywoodreporter.com/movies/movie-reviews/milo-review-marion-cotillard-nicole-garcia-1236706349/",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "623c008d8faf387b",
-      "title": "‘What Remains’ Review: A Slow-Burn, Subtly Powerful Portrait of a Creative Couple in Turkey Coming Back From the Brink",
-      "quote": "The latest feature from veteran writer-director Yesim Ustaoglu ('Clair Obscur') follows a poet and a musician facing major roadblocks on both a professional and personal level.",
-      "publisher": "The Hollywood Reporter",
-      "author": "Jordan Mintzer",
-      "date": "2026-09-23T20:14:39+00:00",
-      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/what-remains-review-yesim-ustaoglu-turkish-drama-1236708439/",
       "image": null,
       "category": "World Cinema"
     },
