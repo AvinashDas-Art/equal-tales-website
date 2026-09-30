@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T05:10:37.887567+00:00",
+  "generated_at": "2026-09-30T12:20:39.445153+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -9,6 +9,248 @@
   ],
   "reviews": [
     {
+      "id": "08e794c99c2f53a1",
+      "title": "London Film Festival: Sam Pollard To Lead Official Competition Jury",
+      "quote": "Legendary documentary filmmaker Sam Pollard will lead the Official Competition jury at this year’s London Film Festival. Pollard will be joined by Argentine filmmaker and writer Mariano Llinás (The Life of Jorge Luis…",
+      "publisher": "Deadline",
+      "author": "Zac Ntim",
+      "date": "2026-09-30T11:29:31+00:00",
+      "link": "https://deadline.com/2026/09/london-film-festival-sam-pollard-official-competition-jury-1237142872/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2280083545-e1790757131446.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "a43ae69e87da2fed",
+      "title": "18 of the best podcasts of 2026 so far",
+      "quote": "From A Great Book with Barack Obama to provocative drama Intimacy",
+      "publisher": "BBC Culture",
+      "author": null,
+      "date": "2026-09-30T11:00:00+00:00",
+      "link": "https://www.bbc.com/culture/article/20260318-the-best-podcasts-of-2026?ocid=global_culture_rss",
+      "image": "https://ychef.files.bbci.co.uk/144x81/p0pd1v5r.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "2b41b3bf3cb1e03f",
+      "title": "‘Impure’ movie: Varahi Mallipamula’s Telugu-English dramedy addresses patriarchy and virginity",
+      "quote": "Producer-actor Varahi Mallipamula, director Nishanti Evani and actor Kireeti Damaraju on the film that won the Audience Award at the Indiewood Film Festival 2026 in Los Angeles",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-30T10:29:11+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/impure-movie-varahi-mallipamulas-telugu-english-dramedy-addresses-patriarchy-and-virginity/article71522533.ece",
+      "image": "https://th-i.thgim.com/public/incoming/z0hwjr/article71527754.ece/alternates/LANDSCAPE_1200/Impure%20film-COLLAGE.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "20e66b44207a3fe1",
+      "title": "‘The Paradise’ movie review: An emotionally distant, epic misfire starring Nani",
+      "quote": "Nani’s physical transformation in this Srikanth Odela-directed film is striking, but it cannot make up for a narrative that struggles to establish its characters or conflict",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-30T10:29:01+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/the-paradise-movie-review-an-emotionally-distant-epic-misfire-starring-nani/article71502534.ece",
+      "image": "https://th-i.thgim.com/public/incoming/fik5ts/article71503482.ece/alternates/LANDSCAPE_1200/nani%20paradise2.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "c442d4c5855a0311",
+      "title": "Fahadh Faasil interview: ‘Don’t Trouble The Trouble’ is a kids’ film for grown-ups",
+      "quote": "Ahead of his new film, the actor talks about shooting on real Hyderabad locations, the Malayalam, Telugu and Tamil industries, and his 24 years in cinema",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-30T10:25:42+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/fahadh-faasil-interview-dont-trouble-the-trouble-is-a-kids-film-for-grown-ups/article71518770.ece",
+      "image": "https://th-i.thgim.com/public/incoming/7k22wt/article71519112.ece/alternates/LANDSCAPE_1200/MP-fahadh%20faasili-Horizontal-collage.JPG",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "0a609db69a240e7c",
+      "title": "Hearst Networks UK Buys ‘American Chopper’ Revival Series ‘Orange County Choppers Original’",
+      "quote": "EXCLUSIVE: Orange County Choppers Originals is headed out of the garage and travelling to Europe. Hearst Networks has bought UK rights to the ‘reborn’ ob doc series from Off The Fence, which has boarded the show after…",
+      "publisher": "Deadline",
+      "author": "Jesse Whittock",
+      "date": "2026-09-30T10:11:35+00:00",
+      "link": "https://deadline.com/2026/09/orange-county-choppers-original-hearst-networks-uk-1237142892/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Orange-County-Choppers.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "3062fc0d07d3b6c5",
+      "title": "IDSFFK 2026: Ameya Gore on his documentary ‘Going Solo’ and pushing the boundaries of sports documentaries",
+      "quote": "The documentary, produced by Sharib Khan and Vikas Kumar, follows women cyclists Gareema Shankar and Renu Singhi, on their journey to the London-Edinburgh-London cycling event in 2022",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-30T10:06:09+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/idsffk-2026-ameya-gore-on-his-documentary-going-solo-and-pushing-the-boundaries-of-sports-documentaries/article71527453.ece",
+      "image": "https://th-i.thgim.com/public/incoming/p558ny/article71527667.ece/alternates/LANDSCAPE_1200/1788950496380671303.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "02904569caf22efd",
+      "title": "European Film Academy To Honor Beki Probst, Marin Karmitz & Sandra den Hamer With New Community Award",
+      "quote": "The European Film Academy has named Beki Probst, Marin Karmitz and Sandra den Hamer as the first recipients of its new Community Award for an Outstanding Contribution to European Film Culture. The award, paying tribute…",
+      "publisher": "Deadline",
+      "author": "Melanie Goodfellow",
+      "date": "2026-09-30T10:00:55+00:00",
+      "link": "https://deadline.com/2026/09/european-film-academy-probst-karmitz-den-hamer-1237142894/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/instant-view-the-71st-annual-cannes-film-festival-opening-ce-1000x667-1.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "86b065c69301ba81",
+      "title": "Cotton Queen review – mystery, matriarchs and magic in pioneering Sudanese debut",
+      "quote": "Suzannah Mirghani’s first feature contains a powerful performance by Rabha Mohamed Mahmoud as a village’s elder woman and tackles the long shadow of British imperialism and women’s rights ‘I decide my past,” says a…",
+      "publisher": "The Guardian",
+      "author": "Cath Clarke",
+      "date": "2026-09-30T10:00:22+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/30/cotton-queen-review-sudanese-debut-suzannah-mirghani",
+      "image": "https://i.guim.co.uk/img/media/c509466c77c63f3788f8b558c3960f1803c7d2eb/435_0_1273_1019/master/1273.jpg?width=140&quality=85&auto=format&fit=max&s=a569c52fee7b9f42efe40b89310089ef",
+      "category": "World Cinema"
+    },
+    {
+      "id": "9c303170d0596b4d",
+      "title": "‘Premada Oorali’: Is this Kannada film worth the hype?",
+      "quote": "The Kannada film ‘Premada Oorali’, an emotional family drama directed by National Award-winner Manoj Kumar, is enjoying a surprise success in theatres, despite leaning on familiar emotions and missing a modern touch in…",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-30T09:51:13+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/premada-oorali-kannada-movie-review-manoj-kumar-rangayana-raghu-shree-raam-thapaswini-poonacha/article71523625.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/y3xyv6/article71523714.ece/alternates/LANDSCAPE_1200/Premada%20Oorali.jpeg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "1e4e9d1b97e06e9f",
+      "title": "Netflix Renews Indian Reality Breakout ‘Lock Upp’ For Second Season",
+      "quote": "Netflix is returning the inmates to the Lock Upp jail. A second season of the ‘captive reality’ series, whose full title is Lock Upp: Sach Yaa Sazaa has been ordered following Season 1’s breakout summer, where it placed…",
+      "publisher": "Deadline",
+      "author": "Jesse Whittock",
+      "date": "2026-09-30T09:32:50+00:00",
+      "link": "https://deadline.com/2026/09/netflix-renews-lock-upp-season-2-1237142879/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Lock-Up-2.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "d690148b182e672d",
+      "title": "‘Doctor Who’: Multiple BBC Studios Labels Likely To Apply For Tender",
+      "quote": "EXCLUSIVE: At least one BBC Studios indie will be throwing its hat in the ring to become the next producer of Doctor Who, with scripted boss Jamie Hall telling Deadline he “firmly believes” the entire BBC group should…",
+      "publisher": "Deadline",
+      "author": "Max Goldbart",
+      "date": "2026-09-30T09:30:16+00:00",
+      "link": "https://deadline.com/2026/09/doctor-who-bbc-studios-labels-tender-multiple-jamie-hall-1237116215/",
+      "image": "https://deadline.com/wp-content/uploads/2025/06/525172-e1750264502579.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "b6b0f0a340287738",
+      "title": "Callum Scott Howells & Gabrielle Creevy Leading Adaptation Of Vanessa Savage Thriller ‘The Night They Vanished’ For BBC Studios & Channel 4",
+      "quote": "EXCLUSIVE: It’s a Sin star Callum Scott Howells and Gabrielle Creevy (Black Doves) are leading an adaptation of Vanessa Savage’s romantic thriller The Night They Vanished for BBC Studios and Channel 4. Cameras have…",
+      "publisher": "Deadline",
+      "author": "Max Goldbart",
+      "date": "2026-09-30T09:15:00+00:00",
+      "link": "https://deadline.com/2026/09/the-night-they-vanished-callum-scott-howells-channel-4-series-1237116059/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/world-premiere-of-sky-original-amadeus-1000x667-1.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "528494444d88aaef",
+      "title": "BBC Studios Scripted Boss Spotlights Strategy Behind Indie & Talent Deals: “We’re Not Going To Spend Millions Buying A Production Company”",
+      "quote": "EXCLUSIVE: BBC Studios’ scripted chief has laid out his strategy for future indie and talent investments that will shy away from “going out and spending £20M ($26.5M) on a production company.” Speaking exclusively with…",
+      "publisher": "Deadline",
+      "author": "Max Goldbart",
+      "date": "2026-09-30T09:00:00+00:00",
+      "link": "https://deadline.com/2026/09/bbc-studios-jamie-hall-doctor-who-talent-deals-america-1237112296/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Jamie.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "864240b09ccf1b12",
+      "title": "Channel 4 Teaming With Stroke Association On Doc Series Spotlighting Young People Recovering From Strokes",
+      "quote": "EXCLUSIVE: Channel 4 is teaming with the Stroke Association on a documentary sereis looking at young people living with the aftermath of a stroke. Trauma: My Broken Brain follows three young survivors through the most…",
+      "publisher": "Deadline",
+      "author": "Max Goldbart",
+      "date": "2026-09-30T08:26:40+00:00",
+      "link": "https://deadline.com/2026/09/channel-4-trauma-my-broken-brain-stroke-documentary-1237142868/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/04_TMBB_Dan_SurgeryChat.jpeg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "8af511a19b3c8c27",
+      "title": "Slow Horses Season 6 Resurrects A 'Dead' Character – Here's How They Survived",
+      "quote": "A familiar face returns from the dead (sorta) in Slow Horses Season 6, Episode 3. Here's what they've been up to since last we saw them.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Ben Pearson)",
+      "date": "2026-09-30T08:10:00+00:00",
+      "link": "https://www.slashfilm.com/2240682/slow-horses-season-6-sid-return-explained/",
+      "image": "https://www.slashfilm.com/img/gallery/slow-horses-season-6-resurrects-a-dead-character-heres-how-they-survived/l-intro-1787231738.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "3b3533ccbe9955e1",
+      "title": "Industry status to Malayalam cinema: Single-window clearance for shooting, lower power tariffs for cinema halls among proposals mooted by film bodies",
+      "quote": "Keralam govt forwards proposals by various film bodies to departments concerned ahead of finalising draft industry policy for Malayalam cinema",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-30T08:06:00+00:00",
+      "link": "https://www.thehindu.com/news/national/kerala/industry-status-to-malayalam-cinema-single-window-clearance-for-shooting-lower-power-tariffs-for-cinema-halls-among-proposals-mooted-by-film-bodies/article71527188.ece",
+      "image": "https://th-i.thgim.com/public/news/national/kerala/2hdbr4/article71527472.ece/alternates/LANDSCAPE_1200/10018_20_8_2026_18_32_33_2_ONAM_RELEASE_04.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "f9560f24b5de4ab3",
+      "title": "Bharatbala’s ‘Ramnami’ wins National Award: The story of the Chhattisgarh sect that tattoos ‘Ram’ on their bodies",
+      "quote": "A week after winning the National Award for Best Documentary for his short on the Ramnami community, filmmaker Bharat Bala speaks about his 1,000-film journey across India, and reuniting with AR Rahman after Vande…",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-30T08:01:02+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/bharatbalas-ramnami-wins-national-award-the-story-of-the-chhattisgarh-sect-that-tattoos-ram-on-their-bodies/article71524765.ece",
+      "image": "https://th-i.thgim.com/public/life-and-style/30cclj/article71527085.ece/alternates/LANDSCAPE_1200/FotoJet%204.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "f00dd4b2c619f92c",
+      "title": "Rapture review – cult Spanish horror is a deeply strange cheese dream of cinemania",
+      "quote": "Pedro Almodóvar provides a vocal cameo and his style can be traced back to this influential film This cult supernatural mystery from 1979 is a deeply strange cheese dream of a film from Spain, in which almost the entire…",
+      "publisher": "The Guardian",
+      "author": "Peter Bradshaw",
+      "date": "2026-09-30T08:00:20+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/30/rapture-review-cult-spanish-horror-pedro-almodovar",
+      "image": "https://i.guim.co.uk/img/media/eb3899628b669d67575eefc782ece55f56246f30/244_0_900_720/master/900.jpg?width=140&quality=85&auto=format&fit=max&s=c8ebef31600fd488aabfc7ae208979ee",
+      "category": "World Cinema"
+    },
+    {
+      "id": "cc1c323ff1bc388c",
+      "title": "‘Project Maya’: Indian short-form anime series set for premiere",
+      "quote": "Canvas is gearing up to drop ‘Project Maya’ in the first week of October — India’s first original short-form anime, built entirely by Indian creators",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-09-30T07:37:54+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/project-maya-short-form-hindi-anime-series-canvas-app-otaku-bharat-studios-october-release-canvas-app/article71527225.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/ez03k7/article71527376.ece/alternates/LANDSCAPE_1200/Project%20Maya.jpeg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "c6c61b8b63f0a8cd",
+      "title": "Ted Lasso season 4 is just one odd choice stacked on top of another",
+      "quote": "It's hard to tell how Ted Lasso will handle its latest \"Huh? Is this really happening?\" moment.",
+      "publisher": "The A.V. Club",
+      "author": "Saloni Gajjar",
+      "date": "2026-09-30T07:00:23+00:00",
+      "link": "https://www.avclub.com/ted-lasso-recap-season-4-episode-9-mae-rides-the-bus",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/09/29/ted-lasso-9.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "9411722541b6614d",
+      "title": "How Deep Is Your Love review – under the sea at Earth’s last frontier with the Psychedelic Elvis Worm",
+      "quote": "Film-maker Eleanor Mortimer accompanies a scientific expedition to the deep Pacific, where new creatures are abundant yet threatened by sea mining For the marine biologists in this whimsical eco-documentary, the answer…",
+      "publisher": "The Guardian",
+      "author": "Cath Clarke",
+      "date": "2026-09-30T06:00:12+00:00",
+      "link": "https://www.theguardian.com/film/2026/sep/30/how-deep-is-your-love-review-nature-doc-eleanor-mortimer",
+      "image": "https://i.guim.co.uk/img/media/82783b7a3004f683f5cdabc68324809c14a6d0ab/497_0_2698_2160/master/2698.jpg?width=140&quality=85&auto=format&fit=max&s=61568db5736f11cfb4061d3e0bf51d6c",
+      "category": "World Cinema"
+    },
+    {
       "id": "72c2c576cd52609d",
       "title": "SKF advert review – let’s hope this dull AI Greta Garbo is not the future",
       "quote": "Swedish-American actor exhumed for bizarre, humourless 99 seconds that give us another reason to resent AI Poor Greta Garbo. Perhaps, in life, she thought her final indignity would be the Peter Cook and Dudley Moore TV…",
@@ -17,39 +259,6 @@
       "date": "2026-09-30T05:00:12+00:00",
       "link": "https://www.theguardian.com/film/2026/sep/30/skf-advert-review-lets-hope-this-dull-ai-greta-garbo-is-not-the-future",
       "image": "https://i.guim.co.uk/img/media/e28592442ebfd532c4509c09f46256372b0589d9/2533_2065_7605_6082/master/7605.jpg?width=140&quality=85&auto=format&fit=max&s=f1fae3910091a7c6b385c1678eddf9b7",
-      "category": "World Cinema"
-    },
-    {
-      "id": "f5e14daca703985b",
-      "title": "Real or reel: This new photo book delves into the film culture of a working-class neighbourhood in Bengaluru",
-      "quote": "Reel Duniya, Real Duniya: Cinema, Memory, and Leisure in Laggere, a photo-illustrated essay book by Eshwari and Mahima explores ing how cinema is experienced in Laggere , is the outcome of the India Foundation for the…",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-30T05:00:08+00:00",
-      "link": "https://www.thehindu.com/news/cities/bangalore/real-or-reel-this-new-photo-book-delves-into-the-film-culture-of-a-working-class-neighbourhood-in-bengaluru/article71522486.ece",
-      "image": "https://th-i.thgim.com/public/life-and-style/gdfexi/article71522492.ece/alternates/LANDSCAPE_1200/Film%20culture%201.jpg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "108781c0fe1078af",
-      "title": "‘Final Payment’, ‘Congo Boy’ Win Top Awards At Pingyao International Film Festival",
-      "quote": "Chinese director Niu Niu’s Final Payment scooped the Best Film Award in the Fei Mu Awards of this year’s Pingyao International Film Festival (PYIFF), while Rafiki Fariala’s Congo Boy won Best Film in the festival’s…",
-      "publisher": "Deadline",
-      "author": "Liz Shackleton",
-      "date": "2026-09-30T03:56:55+00:00",
-      "link": "https://deadline.com/2026/09/pingyao-film-festival-jia-zhangke-congo-boy-final-payment-1237142543/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/PYIFF-2026-Winners.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "cfe14dd40e57ac07",
-      "title": "‘Dancing With The Stars’ Recap: Yacht Rock Night Sees One Couple Eliminated In Week 3",
-      "quote": "SPOILER ALERT! This post contains details from Tuesday night’s episode of Dancing with the Stars. It’s another exciting night in the ballroom as 13 contestants are still eyeing the Len Goodman Mirrorball Trophy during…",
-      "publisher": "Deadline",
-      "author": "Katie Campione",
-      "date": "2026-09-30T02:01:26+00:00",
-      "link": "https://deadline.com/2026/09/dancing-with-the-stars-season-35-week-3-yacht-rock-recap-1237111025/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/dancing-with-the-stars-week-3-elimination.jpg",
       "category": "World Cinema"
     },
     {
@@ -86,70 +295,37 @@
       "category": "World Cinema"
     },
     {
-      "id": "e4c6855163969128",
-      "title": "Everything We Know About Netflix’s ‘Icebreaker’ Adaptation So Far",
-      "quote": "Another hockey book adaptation has entered the chat. Netflix is currently building out its cast for the series adaptation of Hannah Grace’s Icebreaker book that kicks off the Maple Hill series. This in addition to their…",
-      "publisher": "Deadline",
-      "author": "Dessi Gomez",
-      "date": "2026-09-29T23:02:03+00:00",
-      "link": "https://deadline.com/feature/icebreaker-series-adaptation-news-updates-netflix-tv-show-1237136961/",
-      "image": "https://deadline.com/wp-content/uploads/2026/06/icebreaker-9781668026038_hr.jpg",
-      "category": "World Cinema"
+      "id": "8b78102417b1784b",
+      "title": "David Fincher's mis-adventures at Netflix may be coming to an end",
+      "quote": "After six years and three films, including the upcoming Further Mis-Adventures Of Cliff Booth, the filmmaker is reportedly not renewing his exclusive contract with the streamer.",
+      "publisher": "The A.V. Club",
+      "author": "Matt Schimkowitz",
+      "date": "2026-09-29T23:59:48+00:00",
+      "link": "https://www.avclub.com/david-fincher-to-leave-netflix",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/09/29/the-killer-feature.jpg",
+      "category": "Indie Gems"
     },
     {
-      "id": "184ac6318c775025",
-      "title": "Cindy Holland Leaving Paramount Ahead Of WBD Merger",
-      "quote": "One of the biggest executive suite questions about Paramount following its pending acquisition of Warner Bros. Discovery — who will lead streaming — has been answered. Cindy Holland is leaving Paramount Skydance where…",
-      "publisher": "Deadline",
-      "author": "Nellie Andreeva",
-      "date": "2026-09-29T22:50:41+00:00",
-      "link": "https://deadline.com/2026/09/cindy-holland-leaving-paramount-wbd-merger-1237141927/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Cindy-Holland.jpg",
-      "category": "World Cinema"
+      "id": "ad31ad0dbd7fc8e0",
+      "title": "Jennifer Lawrence is the first victim of Zach Cregger's The Flood",
+      "quote": "The Resident Evil hitmakers' secret sci-fi movie opens in August 2028.",
+      "publisher": "The A.V. Club",
+      "author": "Matt Schimkowitz",
+      "date": "2026-09-29T22:58:19+00:00",
+      "link": "https://www.avclub.com/jennifer-lawrence-to-star-in-zach-cregger-the-flood",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2025/10/27162645/jennifer-lawrence-san-sebastian-feature.jpg",
+      "category": "Indie Gems"
     },
     {
-      "id": "c5a90147ae50ebfc",
-      "title": "New ‘South Park’ Takes On Data Centers And The Billionaires Who Build Them",
-      "quote": "While President Trump was holding a press conference at the White House this morning and extolling the AI-related work of Meta’s Mark Zuckerberg, SpaceX’s Elon Musk, Nvidia CEO Jensen Huang and Anthropic’s Dario Amodei…",
-      "publisher": "Deadline",
-      "author": "Tomt",
-      "date": "2026-09-29T22:41:02+00:00",
-      "link": "https://deadline.com/2026/09/south-park-takes-on-data-centers-billionaires-1237138004/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/south-park-butters.png",
-      "category": "World Cinema"
-    },
-    {
-      "id": "b53f3c083c2c14b0",
-      "title": "‘Vanderpump Rules: Lisa Las Vegas’ Trailer & Episode Release Guide Schedule Set At Bravo",
-      "quote": "Lisa Vanderpump is taking Bravo viewers behind the scenes of the opening of her hotel in Sin City with Vanderpump Rules: Lisa Las Vegas, set to premiere at 9 p.m. Tuesday, October 20. Set to air over two nights, the…",
-      "publisher": "Deadline",
-      "author": "Armando Tinoco",
-      "date": "2026-09-29T22:33:12+00:00",
-      "link": "https://deadline.com/2026/09/vanderpump-rules-lisa-las-vegas-trailer-episode-bravo-1237140601/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/lisa-vanderpump-las-vegas-bravo.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "7319f98e2d8afc97",
-      "title": "Doc Talk Podcast Hits Road With Makers Of ‘Union Town’, ‘Black Sunflowers‘, ‘Edward Said: Between Worlds’ & Camden Film Festival Leaders",
-      "quote": "September brought a rash of film festivals (well, maybe “rash” is the wrong word; that sounds like a skin condition. How about a “slew” instead?). In any case, it was one film festival after another this month…",
-      "publisher": "Deadline",
-      "author": "Patrick Hipes",
-      "date": "2026-09-29T22:30:00+00:00",
-      "link": "https://deadline.com/2026/09/tiff-camden-festivals-union-town-black-sunflowers-doc-talk-1237125282/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Black-Sunflowers-Union-Town-and-Edward-Said-Between-Worlds.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "2d2484c91d341c4b",
-      "title": "Trump “Very Close” To Unveiling AI Czar, Praises Techlords Inking “Morally Binding” Self-Regulation Pact As Tech Rebranded",
-      "quote": "Promising he is “very close” to naming a new AI Czar, Donald Trump was full of praise and hyperbole today for the “outstanding” and very well-heeled bosses of OpenAI, Meta, X, Anthropic, Amazon, Nvidia, Microsoft…",
-      "publisher": "Deadline",
-      "author": "Ted Johnson",
-      "date": "2026-09-29T21:34:07+00:00",
-      "link": "https://deadline.com/2026/09/donald-trump-artificial-intelligence-rebrand-elon-musk-1237133280/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Trump-Sept-29-tech-meeting.jpg",
-      "category": "World Cinema"
+      "id": "65270eebf05d2b1d",
+      "title": "Meta's adorable AI is, predictably, a security nightmare",
+      "quote": "The cutesy Muse avatar, Jolly, lulls users into a false sense of security as the AI gives their address out to Facebook users.",
+      "publisher": "The A.V. Club",
+      "author": "Matt Schimkowitz",
+      "date": "2026-09-29T21:44:25+00:00",
+      "link": "https://www.avclub.com/muse-ai-security-flaws-marketplace-blunder",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/09/25/jolly-header.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "93fffe2d8f36445b",
@@ -218,17 +394,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "891f162a4ebf9bea",
-      "title": "“We really aren’t in control of that dial”: Sam Reich on designing the games of Game Changer season 8",
-      "quote": "\"Game Changer, even before it's a game show, is sort of a social experiment where it's like we're trapping people on a stage and they have no idea what's going to happen,\" says the host and Dropout CEO.",
-      "publisher": "The A.V. Club",
-      "author": "William Hughes",
-      "date": "2026-09-29T19:00:07+00:00",
-      "link": "https://www.avclub.com/game-changer-sam-reich-interview-dropout",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/09/29/MixCollage-29-Sep-2026-01-44-PM-9968.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "8c7cdc1a4cd57c1a",
       "title": "Leonard Nimoy Starred In This TV Movie Adaptation Of A Classic '30s Sci-Fi Book",
       "quote": "One of the most influential science fiction novels of all time was adapted into a 1990s TV movie that featured Leonard Nimoy.",
@@ -248,39 +413,6 @@
       "date": "2026-09-29T18:40:44+00:00",
       "link": "https://www.slashfilm.com/2272415/spider-man-marvel-comics-clone-saga-prime-video-tv-series/",
       "image": "https://www.slashfilm.com/img/gallery/spider-mans-marvel-comics-clone-saga-is-becoming-a-tv-series-at-prime-video/l-intro-1790707153.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "e28e15f6ece84240",
-      "title": "That Aegon's Conquest movie still a thing, has a new release date",
-      "quote": "The <i>Game Of Thrones</i> prequel film is expected to fly into theaters on June 1, 2029.",
-      "publisher": "The A.V. Club",
-      "author": "Jarrod Jones",
-      "date": "2026-09-29T18:38:33+00:00",
-      "link": "https://www.avclub.com/aegons-conquest-release-date-warner-bros",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/09/29/aegon-header.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "2824531ea2155730",
-      "title": "Netflix makes subtext text in New Stanford Prison Experiment trailer",
-      "quote": "After years of driving Love Is Blind contestants to psychological breakdown, Netflix is finally just doing its own Stanford Prison Experiment.",
-      "publisher": "The A.V. Club",
-      "author": "Matt Schimkowitz",
-      "date": "2026-09-29T18:30:55+00:00",
-      "link": "https://www.avclub.com/the-new-stanford-prison-experiment-trailer",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/09/29/Screenshot-2026-09-29-at-11.19.40-AM.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "52f3d9d66b3b1bd1",
-      "title": "Richard Linklater is pretty confident no one will die while making Merrily We Roll Along",
-      "quote": "\"My progress report is this: It's nine sections in 20 years, and in a few months, we are filming a fourth. So see you in 2040,\" the director said.",
-      "publisher": "The A.V. Club",
-      "author": "Olivia Singh",
-      "date": "2026-09-29T18:19:12+00:00",
-      "link": "https://www.avclub.com/richard-linklater-merrily-we-roll-along-filming",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/09/29/richard-linklater-featured.jpg",
       "category": "Indie Gems"
     },
     {
@@ -361,94 +493,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "eebc512e26f42f82",
-      "title": "Before Dallas, Jim Davis Starred In A Western Series Based On A Beloved Movie",
-      "quote": "Jim Davis (the actor, not the creator of lazy cartoon cat Garfield) appeared in a short-lived Western series based on a hit movie.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-09-29T16:00:00+00:00",
-      "link": "https://www.slashfilm.com/2271884/dallas-jim-davis-western-series-beloved-movie-adaptation-the-cowboys/",
-      "image": "https://www.slashfilm.com/img/gallery/before-dallas-jim-davis-starred-in-a-western-series-based-on-a-beloved-movie/l-intro-1790689909.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "cabcd1e6bbcaf097",
-      "title": "Poet Kannadasan: a creative mind that enriched Tamil cinema with exquisite, philosophical songs",
-      "quote": "Kannadasan, whose birth centenary is being celebrated, was born as Muthaiah at Sirukoodalpatti in present day Sivaganga district. An atheist in his early years while active in the Dravidian movement, the Tamil poet…",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-29T13:41:08+00:00",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/birth-centenary-of-poet-kannadasan-a-creative-mind-that-enriched-tamil-cinema-with-exquisite-philosophical-songs/article71524092.ece",
-      "image": "https://th-i.thgim.com/public/incoming/l7jfwc/article71524342.ece/alternates/LANDSCAPE_1200/kannadasan-picture.jpg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "258abf2413645199",
-      "title": "Jesse Burgess on debunking Michelin Star myths with ‘Knife Edge’ and why Indian food keeps pulling him back",
-      "quote": "The ‘Knife Edge: Chasing Michelin Stars’ host and TOPJAW co-founder opens up about what the little red stars really measure, why chefs chase them, and why Indian food keeps him coming back for more",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-29T13:38:08+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/jesse-burgess-on-debunking-michelin-star-myths-with-knife-edge-and-why-indian-food-keeps-pulling-him-back/article71523707.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/nidnn1/article71523691.ece/alternates/LANDSCAPE_1200/Knife_Edge_Photo_020203.jpg.photo_modal_show_home_large.jpg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "9c303170d0596b4d",
-      "title": "‘Premada Oorali’: Is this Kannada film worth the hype?",
-      "quote": "The Kannada film ‘Premada Oorali’, an emotional family drama directed by National Award-winner Manoj Kumar, is enjoying a surprise success in theatres, despite leaning on familiar emotions and missing a modern touch in…",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-29T13:17:48+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/premada-oorali-kannada-movie-review-manoj-kumar-rangayana-raghu-shree-raam-thapaswini-poonacha/article71523625.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/5rbac4/article71523714.ece/alternates/LANDSCAPE_1200/Premada%20Oorali.png",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "7e8a7c2a19b16911",
-      "title": "‘Dorothy’, a long-awaited embrace for the queer community",
-      "quote": "As ‘Dorothy’ wins over audiences, trans activists and members of the queer community speak about seeing their lives, desires and struggles reflected with tenderness in Karthik Subbaraj’s film",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-29T13:16:30+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/dorothy-queer-community-lgbtqia-karthik-subbaraj-ilaiyaraaja-sananth-rishikanth-keerthy-suresh/article71522912.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/aoa7uu/article71523387.ece/alternates/LANDSCAPE_1200/dorothy1.png",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "32b93e852f5286b0",
-      "title": "Director Balaji Tharaneetharan on Vijay Sethupathi’s ‘Baththa’ and recreating '80s North Madras",
-      "quote": "The writer-director also speaks about Vijay Sethupathi’s evolution as an actor over the years and how he liked working with the youth sensation Sai Abhyankkar for the music of the film",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-29T13:14:14+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/balaji-tharaneetharan-interview-vijay-sethupathi-baththa-sai-abhyankkar/article71519377.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/ngwuc9/article71519408.ece/alternates/LANDSCAPE_1200/Balaji%20Tharaneetharan%20Vijay%20Sethupathi%20Baththa.jpg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "bc478634e3dcdaad",
-      "title": "Freshworks’ Girish Mathrubootham turns producer with ‘Sarpatta Parambarai 2’",
-      "quote": "He is now all set to produce filmmaker Pa. Ranjith’s Sarpatta Parambarai 2 (Second Round), the sequel to the 2021 boxing drama",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-29T12:12:55+00:00",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/freshworks-girish-mathrubootham-turns-producer-with-sarpatta-parambarai-2/article71523166.ece",
-      "image": "https://th-i.thgim.com/public/incoming/75migr/article71523299.ece/alternates/LANDSCAPE_1200/IMG_thumbnail_Girish_Mat_2_1_51COEJEC.jpg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "b1cb8a8e2d4f7025",
-      "title": "Transpersons speak out against online backlash over Tamil movie ‘Dorothy’",
-      "quote": "They say the film showcases the lived experiences of members of the community and request the public to see the good intentions of the film. The movie, which was released on September 25, faced homophobic and…",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-09-29T10:26:25+00:00",
-      "link": "https://www.thehindu.com/news/cities/chennai/transpersons-speak-out-against-online-backlash-overdorothy/article71520992.ece",
-      "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/37lna9/article71521121.ece/alternates/LANDSCAPE_1200/Transpersons.jpeg",
-      "category": "Indian Cinema"
-    },
-    {
       "id": "974925d2745b4ccb",
       "title": "Child review – jump scares abound in twisty organ transplant fable that keeps horror at its heart",
       "quote": "This Luxembourg-made movie about a couple who venture east to save their son features some impressive film-making Stippled with first-world guilt about income inequality even between fellow EU member states, this…",
@@ -471,17 +515,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "7c39d20cad2a81d9",
-      "title": "April X review – Connor Storrie searches for missing twin in dystopian dream-tech sci-fi thriller",
-      "quote": "The star of Heated Rivalry does his best in this in this human-trafficking yarn, which gets progressively ickier and more exploitative Sketchy in every sense of the word, this sci-fi thriller is set in the…",
-      "publisher": "The Guardian",
-      "author": "Leslie Felperin",
-      "date": "2026-09-29T06:00:55+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/29/april-x-review-connor-storrie-lilly-krug",
-      "image": "https://i.guim.co.uk/img/media/1a1baa654e05f989bbeab0a22eb19ab76f7a4c9e/803_0_1596_1278/master/1596.jpg?width=140&quality=85&auto=format&fit=max&s=eb361d931922eba33fce6f62a6eff59b",
-      "category": "World Cinema"
-    },
-    {
       "id": "5756c7767ecfc024",
       "title": "‘Heil Jupiter!’ Review: Mexican Arthouse Auteur Carlos Reygadas Takes a Beguiling Cinematic Trip to Nowhere",
       "quote": "The latest feature from the director of 'Silent Light' and 'Post Tenebras Lux' was shot across several continents in different languages, including one invented for the film.",
@@ -490,28 +523,6 @@
       "date": "2026-09-28T18:45:14+00:00",
       "link": "https://www.hollywoodreporter.com/movies/movie-reviews/heil-jupiter-review-carlos-reygadas-1236713462/",
       "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "d4421c122764b704",
-      "title": "Century-old silent film made in New Hampshire found in Japan antique shop",
-      "quote": "Billy B Van’s 1919 comedy Van-ar-chy found by student in Sendai will be shown in early November in New Hampshire A silent comedy filmed in New Hampshire more than a century ago was recently found in Japan, and plans…",
-      "publisher": "The Guardian",
-      "author": "Maya Yang",
-      "date": "2026-09-28T17:25:25+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/28/century-old-silent-comedy-new-hampshire-found-japan",
-      "image": "https://i.guim.co.uk/img/media/9e35621528dfa088e4610e0f4145acc4b959c0e8/473_122_2541_2032/master/2541.jpg?width=140&quality=85&auto=format&fit=max&s=42ec1fa465e63a6274b3db92c06ff0de",
-      "category": "World Cinema"
-    },
-    {
-      "id": "665ffaadcb2f88c2",
-      "title": "Crushed review – Steve Oram is priestly lead in harrowing Bangkok-set child-abduction thriller",
-      "quote": "A priest investigates his daughter’s kidnapping in Thailand in this Paul Schrader-esque inquiry into spiritual nihilism ‘He’s American, a little bit overweight, sweaty, a little bit camp, creepy.” As far as descriptions…",
-      "publisher": "The Guardian",
-      "author": "Phil Hoad",
-      "date": "2026-09-28T10:00:30+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/28/crushed-review-child-kidnap-thriller-steve-oram",
-      "image": "https://i.guim.co.uk/img/media/304a6563f3a157ed6851d76197ce5e0401ca3fd8/311_0_1949_1560/master/1949.jpg?width=140&quality=85&auto=format&fit=max&s=f92de8521938c3d287f6f1c93ea645e8",
       "category": "World Cinema"
     },
     {
@@ -787,17 +798,6 @@
       "date": "2026-09-21T11:00:00+00:00",
       "link": "https://www.bbc.com/culture/article/20260918-the-most-tragic-moment-in-the-lord-of-the-rings?ocid=global_culture_rss",
       "image": "https://ychef.files.bbci.co.uk/144x81/p0pbb15r.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "c3797a4e5cdb31bc",
-      "title": "10 of the best TV shows to watch this October",
-      "quote": "From adaptations of East of Eden and Carrie to a new serial killer thriller",
-      "publisher": "BBC Culture",
-      "author": null,
-      "date": "2026-09-18T11:00:00+00:00",
-      "link": "https://www.bbc.com/culture/article/20260917-10-of-the-best-tv-shows-to-watch-this-october?ocid=global_culture_rss",
-      "image": "https://ychef.files.bbci.co.uk/144x81/p0pb53kg.jpg",
       "category": "World Cinema"
     },
     {
