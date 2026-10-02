@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T12:18:36.570990+00:00",
+  "generated_at": "2026-10-02T22:03:18.859611+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -8,6 +8,358 @@
     "Indie Gems"
   ],
   "reviews": [
+    {
+      "id": "00ab17675960bff9",
+      "title": "New Line Boss Richard Brener Poised To Jump To Merged Paramount-Warner Bros – The Dish",
+      "quote": "EXCLUSIVE: Richard Brener, New Line Cinema’s president and CCO and the genre label’s longest-serving employee, is expected to make the jump to the new Paramount-Warner Bros studio, Skydance, sources have informed us. We…",
+      "publisher": "Deadline",
+      "author": "Anthonypauldalessandro",
+      "date": "2026-10-02T21:18:11+00:00",
+      "link": "https://deadline.com/2026/10/new-line-cinema-richard-brener-merger-future-1237145735/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/Richard-Brener.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "7888dae3f82d2844",
+      "title": "‘Cameron Winter at Carnegie Hall’ Review: Paul Thomas Anderson’s Effectively Austere Concert Doc Puts You Right in the Room",
+      "quote": "The Oscar-winning director follows 'One Battle After Another' with this New York Film Festival-premiering documentary chronicling the Geese frontman's solo show.",
+      "publisher": "The Hollywood Reporter",
+      "author": "Frank Scheck",
+      "date": "2026-10-02T21:11:45+00:00",
+      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/cameron-winter-at-carnegie-hall-review-paul-thomas-anderson-1236721154/",
+      "image": null,
+      "category": "Festival Winners"
+    },
+    {
+      "id": "d947623c219fb7b1",
+      "title": "The Kennedy Center Honors are the Capital One Arena Honors this year",
+      "quote": "The prestigious event will happen off-site for the first time in its history.",
+      "publisher": "The A.V. Club",
+      "author": "Olivia Singh",
+      "date": "2026-10-02T21:10:28+00:00",
+      "link": "https://www.avclub.com/kennedy-center-honors-new-venue-capital-one-arena",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2025/12/31134309/kennedy-center-feaature.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "c61cd0c7d35d4bbe",
+      "title": "Shane Paul McGhie & Dasan Frazier To Headline Issa Rae’s Male Friendship Comedy Pilot At HBO",
+      "quote": "EXCLUSIVE: Shane Paul McGhie (Poker Face, The Last Shift) and Dasan Frazier (A Different World, Delphi) are set as the leads in Untitled Male Friendship Show, Issa Rae’s new half-hour comedy pilot at HBO. Written and…",
+      "publisher": "Deadline",
+      "author": "Nellie Andreeva",
+      "date": "2026-10-02T20:37:04+00:00",
+      "link": "https://deadline.com/2026/10/dasan-frazier-shane-paul-mcghie-issa-rae-hbo-comedy-pilot-1237145675/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/Dasan-Frazier-and-Shane-Paul-McGhie.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "8c52d91897ca9021",
+      "title": "Sony Circling ‘Battlefield’ Adaptation From Michael B. Jordan And Christopher McQuarrie",
+      "quote": "Sony Pictures is in talks to land rights for a feature adaptation of the popular Electronic Arts video game Battlefield that has Michael B. Jordan attached to produce and potentially star and Christopher McQuarrie on…",
+      "publisher": "Deadline",
+      "author": "Justin Kroll",
+      "date": "2026-10-02T20:30:03+00:00",
+      "link": "https://deadline.com/2026/10/sony-battlefield-michael-b-jordan-christopher-mcquarrie-1237145723/",
+      "image": "https://deadline.com/wp-content/uploads/2026/04/Michael-B.-Jordan-Christopher-McQuarrie.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "8d88c55b76f0c8b2",
+      "title": "American Cinematheque Award Skipping 2026 After Sked Conflict With Honoree Ryan Gosling",
+      "quote": "The American Cinematheque said Friday that its 40th annual American Cinematheque Awards Gala, which was set to honor Ryan Gosling, will not take place this year. Organizers said Gosling was no longer available to accept…",
+      "publisher": "Deadline",
+      "author": "Patrick Hipes",
+      "date": "2026-10-02T20:26:39+00:00",
+      "link": "https://deadline.com/2026/10/american-cinematheque-award-skips-2026-ryan-gosling-1237145690/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/Ryan-Gosling.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "5e3b0e28021fe658",
+      "title": "Cameron Winter at Carnegie Hall review – Paul Thomas Anderson’s sumptuous recording is an immediate classic",
+      "quote": "New York Film Festival: The Geese frontman mesmerizes in a concert film that is both swoony and austere One night last December, weary from a busy week and the impending doom of winter, I hurried into Carnegie Hall to…",
+      "publisher": "The Guardian",
+      "author": "Adrian Horton",
+      "date": "2026-10-02T20:13:24+00:00",
+      "link": "https://www.theguardian.com/film/2026/oct/02/cameron-winter-carnegie-hall-review-paul-thomas-anderson",
+      "image": "https://i.guim.co.uk/img/media/fc35e7ac00f46f6d45adbe548cd52f776827c578/195_0_1913_1530/master/1913.jpg?width=140&quality=85&auto=format&fit=max&s=acb5325e646fd6c3021512869db4a28b",
+      "category": "World Cinema"
+    },
+    {
+      "id": "f820c6bf6f77b4bc",
+      "title": "Jeremy Strong's Mark Zuckerberg apparently had some defensive notes for Aaron Sorkin",
+      "quote": "Strong does keep also delivering tidbits that can't help but reinforce that exact same perception of him, possibly against his own will. Like revealing that, \"sometimes at night,\" while filming his new Aaron Sorkin…",
+      "publisher": "The A.V. Club",
+      "author": "William Hughes",
+      "date": "2026-10-02T20:12:26+00:00",
+      "link": "https://www.avclub.com/jeremy-strong-sent-aaron-sorkin-defensive-emails-as-mark-zuckerberg",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/10/02/strong-zuck-feature.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "4ebaf0c57c8c0442",
+      "title": "Jennifer Lawrence reteams with No Hard Feelings director for new rom-com",
+      "quote": "Gene Stupnitsky is in final negotiations to direct <i>One Month Mark</i>.",
+      "publisher": "The A.V. Club",
+      "author": "Olivia Singh",
+      "date": "2026-10-02T20:03:50+00:00",
+      "link": "https://www.avclub.com/jennifer-lawrence-no-hard-feelings-director-movie",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/10/02/no-hard-feelings-jennifer-lawrence-featured.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "5bcbd298245786a8",
+      "title": "Tony Gilroy says he's never written a character like Pedro Pascal's in Behemoth!",
+      "quote": "Ahead of the film's world premiere at the New York Film Festival, the director discussed how the character of Alex is a passenger, but not passive.",
+      "publisher": "The A.V. Club",
+      "author": "Drew Gillis",
+      "date": "2026-10-02T19:27:10+00:00",
+      "link": "https://www.avclub.com/tony-gilroy-pedro-pascal-behemoth-press-conference",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/10/02/MixCollage-02-Oct-2026-03-11-PM-2252.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "3843914390975322",
+      "title": "Possible Love is an excellent layoff movie, and an alarming recession indicator",
+      "quote": "Lee Chang-dong's latest haunting masterpiece, Possible Love, hits a painfully relatable financial nerve for our modern times.",
+      "publisher": "The A.V. Club",
+      "author": "Monica Castillo",
+      "date": "2026-10-02T19:00:28+00:00",
+      "link": "https://www.avclub.com/possible-love-lee-chang-dong-netflix-lay-offs-recession-indicator-econony-job-loss",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/10/01/possible-love-header.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "d41abee202e35cf5",
+      "title": "‘Lady’ Review: Sian Clifford Lords It Over a Daffy English Class Satire",
+      "quote": "It’s easy to poke fun at the English upper classes, but that’s no reason not to do it. Amid continued social inequality in the U.K., the extreme wealth and societal remove of the aristocracy looks more absurd than ever…",
+      "publisher": "Variety",
+      "author": "Guy Lodge",
+      "date": "2026-10-02T18:15:18+00:00",
+      "link": "https://variety.com/2026/film/reviews/lady-review-2-1236897472/",
+      "image": "https://variety.com/wp-content/uploads/2026/10/lady.png",
+      "category": "World Cinema"
+    },
+    {
+      "id": "4b67eca1263bd14b",
+      "title": "Kennedy Center Honors To Move To D.C.’s Capital One Arena Amid Closure Of Arts Complex",
+      "quote": "The Kennedy Center Honors will move to a new location for the first time in its history, as it will be held at Capital One Arena in Washington, D.C. The ceremony will take place at the new venue on December 7, a center…",
+      "publisher": "Deadline",
+      "author": "Ted Johnson",
+      "date": "2026-10-02T18:11:31+00:00",
+      "link": "https://deadline.com/2026/10/kennedy-center-honors-capital-one-arena-1237145621/",
+      "image": "https://deadline.com/wp-content/uploads/2025/12/GettyImages-2250009844.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "305f12e62f7f4da7",
+      "title": "Jack Reynor, John Magaro & Natalia Dyer Latest To Join HBO’s ‘The Trial Of Louise Woodward’",
+      "quote": "EXCLUSIVE: The Trial of Louise Woodward, HBO’s true-crime limited series from creator Matthew Barry, has added three more to its starry cast: Jack Reynor (Lee Cronin’s The Mummy), John Magaro (The Agency), and Natalia…",
+      "publisher": "Deadline",
+      "author": "Matthewgrobar",
+      "date": "2026-10-02T18:00:00+00:00",
+      "link": "https://deadline.com/2026/10/jack-reynor-john-magaro-natalia-dyer-join-trial-of-louise-woodward-1237144976/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/Jack-Reynor-John-Magaro-and-Natalia-Dyer.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "1366d82f81ed6f85",
+      "title": "Miranda Otto Series ‘Thou Shalt Not Steal’ Lands At The Network Alongside Scandi Drama ‘The Trio’",
+      "quote": "EXCLUSIVE: The Network, the free streamer founded by Aram Rappaport, has snapped up U.S. rights to two international drama series. The service has picked up Thou Shalt Not Steal, which stars Miranda Otto, and Scandi…",
+      "publisher": "Deadline",
+      "author": "Peterdeadline",
+      "date": "2026-10-02T18:00:00+00:00",
+      "link": "https://deadline.com/2026/10/thou-shalt-not-steal-the-network-the-trio-1237145498/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/TSNS_103_Episode_Stills_Image_017.png",
+      "category": "World Cinema"
+    },
+    {
+      "id": "bfc419b8852f0dd5",
+      "title": "‘Baywatch’ Unveils Four New Teasers With Stephen Amell, Jessica Belkin, Livvy Dunne, Brooks Nader & More",
+      "quote": "Fox has released four new teaser promos for its upcoming Baywatch reboot. In them, we see Stephen Amell and Jessica Belkin; Hassie Harrison and Noah Beck; Shay Mitchell and Brooks Nader and Livvy Dunne and Thaddeus…",
+      "publisher": "Deadline",
+      "author": "Denise Petski",
+      "date": "2026-10-02T18:00:00+00:00",
+      "link": "https://deadline.com/2026/10/baywatch-teasers-stephen-amell-jessica-belkin-livvy-dunne-1237145571/",
+      "image": "https://deadline.com/wp-content/uploads/2026/07/baywatch-teaser-trailer-10.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "577fb772c94bfe47",
+      "title": "Can The Social Reckoning Repeat The Social Network's Box Office Success 16 Years Later?",
+      "quote": "Will The Social Reckoning come anywhere close to the box office success of The Social Network 16 years ago? Early tracking numbers are here.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Ryan Scott)",
+      "date": "2026-10-02T18:00:00+00:00",
+      "link": "https://www.slashfilm.com/2274914/the-social-reckoning-box-office-preview/",
+      "image": "https://www.slashfilm.com/img/gallery/can-the-social-reckoning-repeat-the-social-networks-box-office-success-16-years-later/l-intro-1790878486.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "e285937d571d99f1",
+      "title": "The Watcher season 2 is a go at Netflix with Naomi Watts and Bobby Cannavale returning",
+      "quote": "Production begins this fall in New York.",
+      "publisher": "The A.V. Club",
+      "author": "Olivia Singh",
+      "date": "2026-10-02T17:34:36+00:00",
+      "link": "https://www.avclub.com/the-watcher-season-2-production-start",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/10/02/the-watcher-season-1-naomi-watts-and-bobby-cannavale-featured.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "ca587d9879bcd3bd",
+      "title": "Disney remembers it can license exclusive content to Netflix for money",
+      "quote": "The Walt Disney Company has agreed to license some of its content library to Netflix in exchange for legal tender.",
+      "publisher": "The A.V. Club",
+      "author": "Matt Schimkowitz",
+      "date": "2026-10-02T17:33:57+00:00",
+      "link": "https://www.avclub.com/disney-licensing-agreement-with-netflix",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2025/03/14204058/percy-jackson-feature.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "0155d4343c80ff7a",
+      "title": "James Gunn and Peter Safran are Skydance-proof, at least for now",
+      "quote": "The DC Studios heads will \"be invited to stay\" following the Paramount Skydance-Warner Bros. merger, according to a report.",
+      "publisher": "The A.V. Club",
+      "author": "Jarrod Jones",
+      "date": "2026-10-02T17:10:32+00:00",
+      "link": "https://www.avclub.com/james-gunn-peter-safran-dc-studios-post-merger-report",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/09/22/gunn-feature.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "9a9545428ecc06eb",
+      "title": "‘I thought Brassed Off might be popular within a 10 mile radius of Barnsley’: the director of Andy Burnham’s favourite film on its 30 year anniversary",
+      "quote": "Ahead of a live performance in the Royal Albert Hall, the writer Mark Herman explains why he’s not surprised it’s one of the new Prime Minister’s favourites and a why film like this wouldn’t get made now It is one of…",
+      "publisher": "The Guardian",
+      "author": "Robyn Vinter",
+      "date": "2026-10-02T16:56:40+00:00",
+      "link": "https://www.theguardian.com/film/2026/oct/02/mark-herman-brassed-off-andy-burnham-royal-albert-hall",
+      "image": "https://i.guim.co.uk/img/media/e469b48c45507bca822d33821131c882eff903b9/339_0_2826_2262/master/2826.jpg?width=140&quality=85&auto=format&fit=max&s=be8e39fedd4f1d8f16bd6e7b5d0079b8",
+      "category": "World Cinema"
+    },
+    {
+      "id": "f81bbdc9c7262f9a",
+      "title": "Tom Cruise's Digger Is A Surprise Spiritual Sequel To An Oscar-Winning Movie",
+      "quote": "A detail left out of the marketing for Tom Cruise's Digger makes it end up feeling like a spiritual sequel to a previous Alejandro González Iñárritu movie.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Bill Bria)",
+      "date": "2026-10-02T16:00:00+00:00",
+      "link": "https://www.slashfilm.com/2273144/tom-cruise-digger-spiritual-sequel-oscar-winning-movie-birdman/",
+      "image": "https://www.slashfilm.com/img/gallery/tom-cruise-digger-spiritual-sequel-oscar-winning-movie-birdman/l-intro-1790957512.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "fdd00caa056e833f",
+      "title": "First Star Trek Movie Reboot Details Revealed By Directors — Will Legacy Characters Return?",
+      "quote": "Star Trek is going to be rebooted on the big screen by the Game Night directors, and they've confirmed some details about their approach to the new film.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Ben Pearson)",
+      "date": "2026-10-02T15:57:43+00:00",
+      "link": "https://www.slashfilm.com/2275841/star-trek-movie-reboot-details-no-legacy-characters/",
+      "image": "https://www.slashfilm.com/img/gallery/star-trek-movie-reboot-details-no-legacy-characters/l-intro-1790957235.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "cebb7c5440735bd3",
+      "title": "Malayalam movie ‘Izhakalkkappuram’ calls for a critical approach to Gandhian ideals",
+      "quote": "The Venu Nair-movie, which released in theatres on Gandhi Jayanthi, has Dinesh Paniker, Gautami and Vanchiyoor Praveen Kumar in the cast",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-02T14:02:38+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/venu-nair-movie-izhakalkkappuram-gandhian-ideals-principles-gandhi-jayanthi-release/article71535960.ece",
+      "image": "https://th-i.thgim.com/public/incoming/ghdfxi/article71536010.ece/alternates/LANDSCAPE_1200/02tvm%20film.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "0a2997f8437d8690",
+      "title": "Warner Bros. Discovery And Paramount Merger Is Official As New Company Name Is Announced",
+      "quote": "The massive, troubling merger that will combine Warner Bros. and Paramount into one far-reaching media empire has spawned a new company name.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Witney Seibold)",
+      "date": "2026-10-02T13:23:02+00:00",
+      "link": "https://www.slashfilm.com/2275589/warner-bros-discovery-paramount-merger-company-name-announced/",
+      "image": "https://www.slashfilm.com/img/gallery/warner-bros-discovery-and-paramount-merger-is-official-as-new-company-name-is-announced/l-intro-1790853564.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "ebf5a58de68249c6",
+      "title": "Dark Matter Season 2 May Have Fixed The Show's Biggest Multiverse 'Plot Hole'",
+      "quote": "In the latest episode of Dark Matter, a bit of quantum entanglement theory fills in a plot hole that has been growing throughout Season 2.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Jeremy Mathai)",
+      "date": "2026-10-02T13:00:00+00:00",
+      "link": "https://www.slashfilm.com/2275337/dark-matter-season-2-fix-show-multiverse-plot-hole/",
+      "image": "https://www.slashfilm.com/img/gallery/dark-matter-season-2-may-have-fixed-the-shows-biggest-multiverse-plot-hole/l-intro-1790896497.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "6a50e118182cd08c",
+      "title": "‘Teenage Sex & Death at Camp Miasma’ movie review: Jane Schoenbrun’s erotic phantasmagoria finds the hole where the movies come from",
+      "quote": "At once a paean to the art of making movies and a metacinematic romp through the erotics of cinephilia, Jane Schoenbrun’s latest is a self-devouring triumph",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-02T12:41:10+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/teenage-sex-and-death-at-camp-miasma-movie-review-jane-schoenbrun-hannah-einbinder-gillian-anderson/article71536832.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/3a7ny1/article71536817.ece/alternates/LANDSCAPE_1200/TEENAGE%20SEX%20AND%20DEATH%20AT%20CAMP%20MIASMA_M.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "e0ce8022309acd2b",
+      "title": "The last act of dignity: Sumira Roy on National Award-winning documentary Bhangaar",
+      "quote": "72nd National Film Awards: As India’s elderly population grows, Sumira Roy’s National Award-winning Bhangaar, on the Lavates’ demand for euthanasia, explores lost autonomy",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-02T12:36:51+00:00",
+      "link": "https://www.thehindu.com/society/sumira-roy-interview-national-award-winning-bhangaar/article71531963.ece",
+      "image": "https://th-i.thgim.com/public/society/vqfak7/article71531935.ece/alternates/LANDSCAPE_1200/Film%20still%20-couple%20_balcony.png",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "cb993b54ed3cbbd8",
+      "title": "‘Bail’ movie review: Shivarajkumar anchors a passable crime drama",
+      "quote": "With a big ensemble, including Shivarajkumar, Jayaram and Sai Kumar, Pavan Wadeyar’s ‘Bail’ wobbles between serious moments and crowd-pleasing elements, delivering a watchable, if uneven, crime story",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-02T12:28:24+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/bail-movie-review-shivarajkumar-pavan-wadeyar-jayaram-dheekshith-shetty-bail-kannada-movie-saikumar/article71536934.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/p9i1h7/article71536965.ece/alternates/LANDSCAPE_1200/Bail.jpeg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "3a12dcbed68a5027",
+      "title": "‘Verity’ movie review: Anne Hathaway and Dakota Johnson stumble through a corny thriller",
+      "quote": "Forget a dark, twisted, erotic drama, what’s hiding beneath ‘Verity’ is an unrealised parody",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-02T12:13:33+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/verity-movie-review-anne-hathaway-and-dakota-johnson-stumble-through-a-corny-thriller/article71527847.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/m84nba/article71528635.ece/alternates/LANDSCAPE_1200/Anne%20Hathaway%20in%20%E2%80%98Verity%E2%80%99",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "e2284b0e4fdae4ba",
+      "title": "‘Digger’ movie review: Alejandro G. Iñárritu or: How Tom Cruise Learned to Stop Running and Love the Bit",
+      "quote": "You can’t handle the truth to Iñárritu’s spectacularly self-conscious apocalypse — a maximalist fever dream and grandiose Russian doll of cinematic self-indulgence, with Tom Cruise trapped inside the joke",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-02T12:13:30+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/digger-movie-review-alejandro-g-inarritu-tom-cruise-riz-ahmed/article71536688.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/smw1m0/article71536667.ece/alternates/LANDSCAPE_1200/digger-2026-xo.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "4a72b43951c9293a",
+      "title": "‘Primetime’ movie review: Robert Pattinson is fiendishly good in Lance Oppenheim’s vivisection of televised virtue",
+      "quote": "Lance Oppenheim is turning the machine back onto its makers. This is exploitation art made from exploitative artists, and it’s wickedly entertaining to witness",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-02T12:12:33+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/primetime-movie-review-robert-pattinson-is-fiendishly-good-in-lance-oppenheims-vivisection-of-televised-virtue/article71508788.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/5xfs9x/article71508783.ece/alternates/LANDSCAPE_1200/images.jpg",
+      "category": "Indian Cinema"
+    },
     {
       "id": "d0c600b4fbe605ae",
       "title": "‘Thella Kaagitham’ movie review: This cautionary take on adolescent love needed more nuance",
@@ -20,50 +372,6 @@
       "category": "Indian Cinema"
     },
     {
-      "id": "35af5fa51f3681b2",
-      "title": "‘Impure’ movie review: A sharp social satire disguised as a coming-of-age tale",
-      "quote": "The English-Telugu film is a Jane Austen-esque take on the evolution of its protagonists — two female cousins and their common male friend",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-02T12:06:24+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/impure-movie-review-a-sharp-social-satire-disguised-as-a-coming-of-age-tale/article71536756.ece",
-      "image": "https://th-i.thgim.com/public/incoming/fefbds/article71536802.ece/alternates/LANDSCAPE_1200/Impure.jpg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "74e51494d20e7fd2",
-      "title": "‘Avaraachan and Sons’ movie review: Biju Menon makes this old-fashioned family entertainer watchable",
-      "quote": "An old-fashioned family drama dressed up as a new-age entertainer, ‘Avaraachan and Sons’ relies heavily on Biju Menon’s charm to compensate for its flat writing",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-02T12:05:16+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/avaraachan-and-sons-movie-review-biju-menon-makes-this-old-fashioned-family-entertainer-watchable/article71536772.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/tmg35u/article71536905.ece/alternates/LANDSCAPE_1200/avarachaan.png",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "2b41b3bf3cb1e03f",
-      "title": "‘Impure’ movie: Varahi Mallipamula’s Telugu-English dramedy addresses patriarchy and virginity",
-      "quote": "Producer-actor Varahi Mallipamula, director Nishanti Evani and actor Kireeti Damaraju on the film that won the Audience Award at the Indiewood Film Festival 2026 in Los Angeles",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-02T12:04:28+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/impure-movie-varahi-mallipamulas-telugu-english-dramedy-addresses-patriarchy-and-virginity/article71522533.ece",
-      "image": "https://th-i.thgim.com/public/incoming/z0hwjr/article71527754.ece/alternates/LANDSCAPE_1200/Impure%20film-COLLAGE.jpg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "9e9b8c0eb7e4d549",
-      "title": "‘Udta Teer’: Ayushmann Khurrana’s comedy-drama gets new release date",
-      "quote": "The film was earlier set to be released in theatres on October 9",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-02T12:00:31+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/udta-teer-ayushmann-khurranas-comedy-drama-gets-new-release-date/article71536892.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/alralt/article71536903.ece/alternates/LANDSCAPE_1200/Ayushmann%20Khurrana%20in%20the%20poster%20of%20%E2%80%98Udta%20Teer%E2%80%99",
-      "category": "Indian Cinema"
-    },
-    {
       "id": "10ad5a00820983c4",
       "title": "‘It’s radical to release a film called Girls Like Girls in this climate’: hitmaker turned director Hayley Kiyoko on sexuality, safety and becoming ‘Lesbian Jesus’",
       "quote": "The singer’s hit 2015 single Girls Like Girls was her breakthrough moment and also the first time she felt confident in her sexuality. Now she has directed a film based on the song – a love letter to her 17-year-old…",
@@ -72,17 +380,6 @@
       "date": "2026-10-02T12:00:06+00:00",
       "link": "https://www.theguardian.com/film/2026/oct/02/hayley-kiyoko-interview-girls-like-girls-music-film-books",
       "image": "https://i.guim.co.uk/img/media/f3eb026ef7ece07c65777b99361c7d175eb10404/0_142_1024_819/master/1024.jpg?width=140&quality=85&auto=format&fit=max&s=45ddeadf882aa2dd5aac522c52588196",
-      "category": "World Cinema"
-    },
-    {
-      "id": "a4bdc77e087f85aa",
-      "title": "International Insider: Merger Approved!; RTS London’s AI Buzz; Deadline @ Zurich",
-      "quote": "Welcome, welcome Insiders. Max Goldbart here taking you through a week in which one of the biggest entertainment deals of this century was waved through. Read on. And sign up here. Merger Approved! C-suite winners and…",
-      "publisher": "Deadline",
-      "author": "Max Goldbart",
-      "date": "2026-10-02T12:00:00+00:00",
-      "link": "https://deadline.com/2026/10/international-insider-paramount-warner-merger-approved-1237144212/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/Hollywood-Sign-1.jpg",
       "category": "World Cinema"
     },
     {
@@ -108,28 +405,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "192187d0d20b752d",
-      "title": "‘Anbil Avan’ movie review: We appreciate that you tried",
-      "quote": "Honestly, the audience seems to want Preity Mukhundhan and Ashok Selvan, a beautiful-looking couple, to succeed in ‘Anbil Avan.’ Yet this romance-thriller set in the hills is bogged down by trope-ridden, unidimensional…",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-02T11:31:59+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/anbil-avan-movie-review-ashok-selvan-preity-mukhundhan-r-kaarthikeyan/article71536710.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/yo22c9/article71536744.ece/alternates/LANDSCAPE_1200/Anbil%20Avan%20review.jpeg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "7b2cce5e0b2810d7",
-      "title": "‘Sigma’ movie review: Sundeep Kishan anchors Jason Sanjay’s debut that plays too safe",
-      "quote": "Sundeep Kishan and Faria Abdullah lead debut director Jason Sanjay’s heist-action drama, which has some interesting ideas but ultimately struggles to break new ground",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-02T11:03:19+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/sigma-movie-review-sundeep-kishan-anchors-jason-sanjays-debut-that-plays-too-safe/article71532321.ece",
-      "image": "https://th-i.thgim.com/public/incoming/ws9bxx/article71532325.ece/alternates/LANDSCAPE_1200/sigma%202%20new.jpg",
-      "category": "Indian Cinema"
-    },
-    {
       "id": "4c381d1e7f586a32",
       "title": "How Bassam Tariq pivoted from stalled Blade reboot to new Mahershala Ali thriller: ‘I’m happier I made this movie’",
       "quote": "In the film-maker’s Houston-set film, Ali stars as a devout Muslim who moonlights as a vicious hitman Mahershala Ali is swinging around a blade in Your Mother Your Mother Your Mother . That’s not a nod to Ali’s previous…",
@@ -149,50 +424,6 @@
       "date": "2026-10-02T11:00:00+00:00",
       "link": "https://www.bbc.com/culture/article/20261001-why-a-new-tv-version-of-horror-classic-carrie-is-already-annoying-people?ocid=global_culture_rss",
       "image": "https://ychef.files.bbci.co.uk/144x81/p0pdhc6p.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "e2284b0e4fdae4ba",
-      "title": "‘Digger’ movie review: Alejandro G. Iñárritu or: How Tom Cruise Learned to Stop Running and Love the Bit",
-      "quote": "You can’t handle the truth to Iñárritu’s spectacularly self-conscious apocalypse — a maximalist fever dream and grandiose Russian doll of cinematic self-indulgence, with Tom Cruise trapped inside the joke",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-02T10:57:08+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/digger-movie-review-alejandro-g-inarritu-tom-cruise-riz-ahmed/article71536688.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/smw1m0/article71536667.ece/alternates/LANDSCAPE_1200/digger-2026-xo.jpg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "d38d094d923972a1",
-      "title": "Penelope Ann Miller, Otmara Marrero Film ‘Made Clean’ First Project For Nashville-Based Cinema Country",
-      "quote": "EXCLUSIVE: Filmmaker Seth Christian, whose previous producer credits include the 2020 crime drama Echo Boomers starring Patrick Schwarzenegger and Michael Shannon, has launched Cinema Country. The Nashville-based…",
-      "publisher": "Deadline",
-      "author": "Andreas Wiseman",
-      "date": "2026-10-02T10:27:45+00:00",
-      "link": "https://deadline.com/2026/10/penelope-ann-miller-otmara-marrero-made-clean-film-1237145272/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Otmarra-Marrero-and-Penelope-Ann-Miller.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "6ab38f0946d15714",
-      "title": "BBC Staff Revolt Over Job Cuts By Posting Laughing Emojis During Management Call",
-      "quote": "EXCLUSIVE: BBC employees expressed their defiance over job cuts by posting laughing emojis during a management call, in which the corporation’s £500 million ($660M) savings plan was discussed. In a sign of growing staff…",
-      "publisher": "Deadline",
-      "author": "Jake Kanter",
-      "date": "2026-10-02T10:13:20+00:00",
-      "link": "https://deadline.com/2026/10/bbc-staff-revolt-job-cuts-laughing-emojis-management-call-1237144576/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/Screenshot-2026-10-01-at-18.38.55-e1790877562394.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "70288fd3c21d4c66",
-      "title": "‘Hollow Moon’: Sci-Fi With Jena Malone & Dermot Mulroney Gets Sales Deal & New Title",
-      "quote": "EXCLUSIVE: Essential Film Group has boarded world sales on indie feature Hollow Moon, starring Jena Malone, Dermot Mulroney, Mekhi Phifer and Vannessa Vasquez as astronauts in a trip to outer space. We first told you…",
-      "publisher": "Deadline",
-      "author": "Andreas Wiseman",
-      "date": "2026-10-02T10:05:03+00:00",
-      "link": "https://deadline.com/2026/10/jena-malone-dermot-mulroney-hollow-moon-title-sales-1237145262/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Jena-Malone-Dermot-Mulroney-Mekhi-Phifer-and-Vannessa-Vasquez.jpg",
       "category": "World Cinema"
     },
     {
@@ -218,39 +449,6 @@
       "category": "Festival Winners"
     },
     {
-      "id": "6ea1938c416d7a19",
-      "title": "‘Twilight Of The Dead’: Filming Wraps On “Final Chapter” Of George A. Romero’s Zombie Saga, Kate Beckinsale & Betty Gabriel Star",
-      "quote": "EXCLUSIVE: Filming has wrapped on Twilight of the Dead, the long gestating “final chapter” of George A. Romero’s classic zombie saga. Underworld star Kate Beckinsale stars alongside genre regular Betty Gabriel (Get…",
-      "publisher": "Deadline",
-      "author": "Andreas Wiseman",
-      "date": "2026-10-02T09:49:56+00:00",
-      "link": "https://deadline.com/2026/10/twilight-of-the-dead-wraps-kate-beckinsale-stars-1237145256/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Kate-Beckinsale-and-Betty-Gabriel.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "9d41ec05b62380b9",
-      "title": "‘Celebrity Traitors’ Returns With Biggest Ever Launch Ep Of Nearly 9 Million Viewers",
-      "quote": "The BBC’s Celebrity Traitors launch has become one of the most highly-anticipated of the year and a colossal 8.9 million viewers tuned in last night. They watched an opener of high high drama, and a little bit of…",
-      "publisher": "Deadline",
-      "author": "Max Goldbart",
-      "date": "2026-10-02T08:44:30+00:00",
-      "link": "https://deadline.com/2026/10/celebrity-traitors-record-ratings-9-million-viewers-1237145229/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/579406.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "97d2f3b9477b54a7",
-      "title": "BBC Gives First Look At ‘The Last Detectives’ Crime Drama From Matthew Barry, Nicola Shindler",
-      "quote": "EXCLUSIVE: The BBC is betting big on Matthew Barry’s The Last Detectives to be its next breakout crime drama and we’ve got first look. Previously called Old Town Murders, The Last Detectives is produced by Nicola…",
-      "publisher": "Deadline",
-      "author": "Max Goldbart",
-      "date": "2026-10-02T08:00:00+00:00",
-      "link": "https://deadline.com/2026/10/bbc-the-last-detectives-first-look-image-steffan-rhodri-1237144300/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/570966.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "399aff8c1e282866",
       "title": "‘I look at the footage to convince myself that you were alive’: how Ross McElwee made a film about unimaginable loss, grief and guilt",
       "quote": "When his son died aged 27, the director could barely bring himself to watch his old clips of the boy. When at last he did, it was the genesis of an extraordinary project Ross McElwee is the film-maker who spun home…",
@@ -259,17 +457,6 @@
       "date": "2026-10-02T07:00:13+00:00",
       "link": "https://www.theguardian.com/film/2026/oct/02/ross-mcelwee-adrian-remake-devastating-new-documentary",
       "image": "https://i.guim.co.uk/img/media/77f9b5d3ea6d3ff8fc5e10e44f1f56013af7cc18/1423_0_6000_4800/master/6000.jpg?width=140&quality=85&auto=format&fit=max&s=0c95b8fcbd50285eef54d60aaecd114c",
-      "category": "World Cinema"
-    },
-    {
-      "id": "95a8909817c19c13",
-      "title": "Take It or Leave It review – vividly atmospheric formative adventures of future pop princes Madness",
-      "quote": "Docufictional 1981 comedy captures the working-class ska-pop pranksters in their hungry years with an almost Loachian authenticity Opting for the former is the best idea for this unexpectedly revealing, vividly…",
-      "publisher": "The Guardian",
-      "author": "Peter Bradshaw",
-      "date": "2026-10-02T06:00:12+00:00",
-      "link": "https://www.theguardian.com/film/2026/oct/02/take-it-or-leave-it-review-vividly-atmospheric-formative-adventures-of-future-pop-princes-madness",
-      "image": "https://i.guim.co.uk/img/media/0d1c36de4c2c4162dcff23fafc661b2a578dcd84/570_0_3104_2486/master/3104.jpg?width=140&quality=85&auto=format&fit=max&s=d792d6d142c52b4ccfabc709ffa27595",
       "category": "World Cinema"
     },
     {
@@ -295,138 +482,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "0495ae2e22c8b702",
-      "title": "Ben Affleck Used AI For “Lots Of Things” In Netflix’s ‘Animals’: “It’s A Very Human Movie”",
-      "quote": "After unloading his AI firm on Netflix earlier this year, Ben Affleck is showing off the tech in action with his latest project. The 2x Oscar winner recently revealed that he “did use” artificial intelligence “for lots…",
-      "publisher": "Deadline",
-      "author": "Glenn Garner",
-      "date": "2026-10-02T02:45:01+00:00",
-      "link": "https://deadline.com/2026/10/ben-affleck-used-ai-lots-of-things-animals-1237145166/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/Ben-Affleck-Animals.jpg",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "c5a5e28404d4c350",
-      "title": "Peacock's Fast And Furious show gets green light to live life a quarter-season at a time",
-      "quote": "Back in May, we reported that NBCUniversal was getting ready to deploy one of its biggest all-time film franchises in an effort to nitro up Peacock and its middling streaming fortunes: The Fast And The Furious. Now, the…",
-      "publisher": "The A.V. Club",
-      "author": "William Hughes",
-      "date": "2026-10-02T01:31:57+00:00",
-      "link": "https://www.avclub.com/fast-and-furious-tv-show-gets-green-light-at-peacock",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/10/02/vin-diesel-fast-x-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "d62f4b73753e5587",
-      "title": "The Bachelor producers aren't feeling too lovey-dovey about Chris Harrison's new dating show",
-      "quote": "Bachelor producer Warner Bros. TV issued a cease and desist letter a few weeks back making it clear that it's not amused by The Vow, and specifically by a trailer Fox Nation rolled out that WBTV claims was \"a plain…",
-      "publisher": "The A.V. Club",
-      "author": "William Hughes",
-      "date": "2026-10-02T00:57:22+00:00",
-      "link": "https://www.avclub.com/bachelor-producers-issue-cease-and-desist-letter-to-chris-harrisons-the-vow",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/10/02/chris-harrison-vow-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "e9197c22e84e2196",
-      "title": "Eddie Murphy is teaming up with Mad Men's Matthew Weiner for a Peacock drama",
-      "quote": "Eddie Murphy has done almost no TV in the 42 years since he departed Saturday Night Live, with the rare exceptions amounting to a few Shrek shorts and his 1999 stop-motion animated Fox series The PJs. That streak is…",
-      "publisher": "The A.V. Club",
-      "author": "William Hughes",
-      "date": "2026-10-01T23:58:26+00:00",
-      "link": "https://www.avclub.com/eddie-murphy-matthew-weiner-peacock-drama-the-chairman",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2025/10/22102921/ACAM0002.01418266.R.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "a05bc94499948bd0",
-      "title": "Jordan Peele and Sam Raimi team up to terrorize Chase Infiniti",
-      "quote": "Two masters of horror will team up to paint director Dylan Clark's Portrait Of God, starring One Battle After Another breakout Chase Infiniti",
-      "publisher": "The A.V. Club",
-      "author": "Matt Schimkowitz",
-      "date": "2026-10-01T23:52:13+00:00",
-      "link": "https://www.avclub.com/portrait-of-god-announced-sam-raimi-jordan-peele-chase-infiniti-dylan-clark",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/10/01/chase-infiniti-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "a55c7e94a5681872",
-      "title": "The new Miami Vice movie can have a little Goggins, as a treat",
-      "quote": "Say what you like about Top Gun: Maverick director Joseph Kosinski's efforts to get his Michael Mann on with his upcoming film Miami Vice '85: The man can cast a damn movie. Having already set Leading Men Of The Day…",
-      "publisher": "The A.V. Club",
-      "author": "William Hughes",
-      "date": "2026-10-01T22:56:29+00:00",
-      "link": "https://www.avclub.com/walton-goggins-cast-opposite-michael-b-jordan-in-miami-vice-85",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/10/01/walton-goggins-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "5b4d38478d11ef10",
-      "title": "Great job, Internet!: Trove of Phil Tippett Studio work saved at liquidation sale is now online",
-      "quote": "Found in a folder of CD-ROMs and DVDs at the Tippett Studios liquidation sale, this never-before-seen treasure trove of work is now available on the Internet Archive.",
-      "publisher": "The A.V. Club",
-      "author": "Matt Schimkowitz",
-      "date": "2026-10-01T22:18:34+00:00",
-      "link": "https://www.avclub.com/gji-phil-tippett-animation-stuido-work-saved-from-liquidation",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/31100738/tippett-header.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "bf3ac32dd425da49",
-      "title": "VisionQuest Trailer Introduces Marvel's Most Mysterious Mercenary To The MCU",
-      "quote": "There's a bounty on Vision's head in VisionQuest, and it's big enough to draw Marvel Comics' most mysterious mercenary into the MCU.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Ryan Scott)",
-      "date": "2026-10-01T22:11:33+00:00",
-      "link": "https://www.slashfilm.com/2275281/visionquest-trailer-marvel-most-mysterious-mercenary-mcu-paladin/",
-      "image": "https://www.slashfilm.com/img/gallery/visionquest-trailer-introduces-marvels-most-mysterious-mercenary-to-the-mcu/l-intro-1790892556.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "14cd99640a502231",
-      "title": "58-year-old adopted man finds out Michael McDonald is his biological father",
-      "quote": "Of the various things that you, a man of 58 who was happily adopted in your youth, but who has discovered your birth father thanks to a 23andMe test taken by a total stranger, can ask in your first phone conversation…",
-      "publisher": "The A.V. Club",
-      "author": "William Hughes",
-      "date": "2026-10-01T22:09:55+00:00",
-      "link": "https://www.avclub.com/michael-mcdonald-biological-father-adopted-man",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/10/01/michael-mcdonald-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "eb1f017ebd21c309",
-      "title": "Rick Ross arrested on 2 battery charges",
-      "quote": "The rapper said that he's \"totally innocent\" of the allegations made against him.",
-      "publisher": "The A.V. Club",
-      "author": "Olivia Singh",
-      "date": "2026-10-01T21:01:56+00:00",
-      "link": "https://www.avclub.com/rick-ross-arrested-battery-charges",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/10/01/rick-ross-featured.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "ad7de5edf4b9f276",
-      "title": "Avengers: Secret Wars Production Reportedly Moves To 2027 — Is A Delay Coming?",
-      "quote": "Marvel is reportedly delaying the start of production on Avengers: Secret Wars until the beginning of 2027. Will it still be able to meet its release date?",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Ryan Scott)",
-      "date": "2026-10-01T20:00:53+00:00",
-      "link": "https://www.slashfilm.com/2275101/avengers-secret-wars-production-2027-delay/",
-      "image": "https://www.slashfilm.com/img/gallery/avengers-secret-wars-production-2027-delay/l-intro-1790894343.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "1c2792f0f676dece",
-      "title": "Clayface Writer Mike Flanagan Clarifies Role In DC Universe Movie: 'I Haven't Even Seen It'",
-      "quote": "Mike Flanagan may have co-written the DC Universe's Clayface movie, but it sounds like that's where his involvement with the horror flick ends.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-10-01T19:58:15+00:00",
-      "link": "https://www.slashfilm.com/2275090/clayface-writer-mike-flanagan-dc-universe-movie-involvement/",
-      "image": "https://www.slashfilm.com/img/gallery/clayface-writer-mike-flanagan-clarifies-role-in-dc-universe-movie-i-havent-even-seen-it/l-intro-1790884558.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "ea89c3bb1dd10d72",
       "title": "‘The Influencer Project’ Review: Found Footage Terror Takes a Tepid Danish Holiday",
       "quote": "An opening text announcing “This film is influenced by real events” provides the first and last moment of inspiration in “The Influencer Project,” whether the joke is deliberate or not. Mike Nybroe’s debut feature is…",
@@ -438,28 +493,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "590422655f1f6667",
-      "title": "You Can See Everything review – Nathan Fielder’s Elizabeth Holmes doc is a modern masterpiece of deceit",
-      "quote": "New York film festival: No spoilers here – TV’s grand illusionist meets his match when he moves in with Theranos founder and her family For anyone remotely near the worlds of documentary, comedy or medical fraud, there…",
-      "publisher": "The Guardian",
-      "author": "Adrian Horton",
-      "date": "2026-10-01T16:51:21+00:00",
-      "link": "https://www.theguardian.com/film/2026/oct/01/you-can-see-everything-movie-review",
-      "image": "https://i.guim.co.uk/img/media/07a7fdf5a679e1e6d7aff52f8bae4f175f98be98/507_0_1854_1484/master/1854.jpg?width=140&quality=85&auto=format&fit=max&s=7f29f9b6f1d35df2ddd9b8d689105db3",
-      "category": "World Cinema"
-    },
-    {
-      "id": "08f18f5a8c3a2a28",
-      "title": "VisionQuest Trailer: Marvel's New Show Is Somehow A WandaVision And Age Of Ultron Sequel",
-      "quote": "Vision reconnects with his magically-created and rather confused son, Tommy Maximoff, in the new trailer for Marvel Studios' VisionQuest.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Hannah Shaw-Williams)",
-      "date": "2026-10-01T16:35:08+00:00",
-      "link": "https://www.slashfilm.com/2274686/visionquest-trailer-marvel-wandavision-age-of-ultron-sequel/",
-      "image": "https://www.slashfilm.com/img/gallery/visionquest-trailer-marvel-wandavision-age-of-ultron-sequel/l-intro-1790878761.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "d5aaf19c583a8cce",
       "title": "‘Rolling Loud: The Movie’ Review: Owen Wilson Plays a Very Bad Dad in a Tone-Deaf Would-Be Comedy",
       "quote": "A father loses track of his 13-year-old son at the titular hip-hop music festival in Jeremy Garelick's latest film.",
@@ -469,17 +502,6 @@
       "link": "https://www.hollywoodreporter.com/movies/movie-reviews/rolling-loud-the-movie-review-owen-wilson-travis-scott-1236714368/",
       "image": null,
       "category": "World Cinema"
-    },
-    {
-      "id": "4e35be7a4390b3d6",
-      "title": "5 Best Sci-Fi Movies From 1992, Ranked",
-      "quote": "Sci-fi cinema took a lot of bold swings in 1992, resulting in some pretty memorable and wild movies. Here are our picks for the year's top five.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Witney Seibold)",
-      "date": "2026-10-01T15:00:00+00:00",
-      "link": "https://www.slashfilm.com/2271825/best-sci-fi-movies-1992-ranked/",
-      "image": "https://www.slashfilm.com/img/gallery/best-sci-fi-movies-1992-ranked/l-intro-1790872967.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "f9c7e7b7775e9ea2",
@@ -702,17 +724,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "e7ecefb202733ecc",
-      "title": "‘Ghost Song’ Review: Fatih Akin Doesn’t Find Top Form in This Supernatural Romance, but at Least It Has Beautiful Ghosts",
-      "quote": "Since hitting an artistic peak with the back-to-back festival triumphs “Head-On” and “Edge of Heaven” in the mid-2000s, German-Turkish auteur Fatih Akin has darted all over the map in genre, style and form —…",
-      "publisher": "Variety",
-      "author": "Guy Lodge",
-      "date": "2026-09-26T13:20:04+00:00",
-      "link": "https://variety.com/2026/film/reviews/ghost-song-review-1236875736/",
-      "image": "https://variety.com/wp-content/uploads/2026/09/Ghost-Song-2026-‘San-Sebastian-Movie-.webp",
-      "category": "World Cinema"
-    },
-    {
       "id": "e892f27fcea202ca",
       "title": "‘Dead Drop’ Review: A Contained High-Concept Horror Flick Whose Twists Captivate More Than Its Characters",
       "quote": "The third feature from writer-director Ned Crowley ('Killing Faith') follows eight strangers who get caught in a freight elevator and face dire consequences.",
@@ -765,17 +776,6 @@
       "date": "2026-09-25T11:00:00+00:00",
       "link": "https://www.bbc.com/culture/article/20260924-how-controversial-2000s-paedophile-hunting-show-to-catch-a-predator-rocked-us-tv?ocid=global_culture_rss",
       "image": "https://ychef.files.bbci.co.uk/144x81/p0pc9c8s.png",
-      "category": "World Cinema"
-    },
-    {
-      "id": "23c9d5265dbdbdb4",
-      "title": "‘Unabomber’ Review: Jacob Tremblay and Russell Crowe in a Facile Rendering of Ted Kaczynski’s College Days",
-      "quote": "Director Janus Metz's thriller, also starring Shailene Woodley, attempts to plumb the depths of a pivotal moment in the infamous murderer’s life — his time as a Harvard student.",
-      "publisher": "The Hollywood Reporter",
-      "author": "Richard Lawson",
-      "date": "2026-09-25T01:00:00+00:00",
-      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/unabomber-review-jacob-tremblay-russell-crowe-netflix-1236709412/",
-      "image": null,
       "category": "World Cinema"
     },
     {
