@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T05:11:53.401833+00:00",
+  "generated_at": "2026-10-05T14:17:31.012735+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -8,6 +8,259 @@
     "Indie Gems"
   ],
   "reviews": [
+    {
+      "id": "6f905644245da448",
+      "title": "Tubi Strikes 800-Title Just For Laughs Deal In Canada",
+      "quote": "EXCLUSIVE: Fox free streamer Tubi just added a massive stack of Just For Laughs programs in Canada. The deal will see 800 comedy specials and episodes joining Tubi’s Canadian feed, including the likes of Dave Merheje: I…",
+      "publisher": "Deadline",
+      "author": "Jesse Whittock",
+      "date": "2026-10-05T14:00:00+00:00",
+      "link": "https://deadline.com/2026/10/tubi-just-for-laughs-canada-comedy-deal-1237145289/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/Just-For-Laughs-2026.jpeg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "387ff67e9a531d24",
+      "title": "Playhouse Post Opens Doors On Soho Facility After Halo Assets Deal",
+      "quote": "EXCLUSIVE: Soho’s post-production village has had its fair share of closure over recent years, but here’s news of something opening. Playhouse Post has officially opened doors to its new 12,000 sq ft facility on Noel…",
+      "publisher": "Deadline",
+      "author": "Jesse Whittock",
+      "date": "2026-10-05T14:00:00+00:00",
+      "link": "https://deadline.com/2026/10/playhouse-post-soho-facility-opens-doors-1237145416/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/Playhouse-Soho-e1791203557838.png",
+      "category": "World Cinema"
+    },
+    {
+      "id": "cea950931c86bfd4",
+      "title": "Karoline Leavitt Joining Fox News As Contributor After White House Exit",
+      "quote": "Karoline Leavitt has a new gig. The former White House press secretary has joined Fox News as a contributor, the network announced Monday. She’ll begin her new role providing commentary and analysis on November 1…",
+      "publisher": "Deadline",
+      "author": "Denise Petski",
+      "date": "2026-10-05T13:57:18+00:00",
+      "link": "https://deadline.com/2026/10/karoline-leavitt-fox-news-white-house-press-secretary-1237146659/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/GettyImages-2273405814.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "2100f6b84c80551c",
+      "title": "Oleh Sentsov Begins Pre-Production On Fiction Feature ‘Kai’ For Early 2027 Shoot",
+      "quote": "Ukrainian director Oleh Sentsov has begun pre-production on Kai, his first fiction feature in five years since 2021 drama Rhino. Filming on Kai is scheduled to take place in Ukraine in the first half of 2027, with the…",
+      "publisher": "Deadline",
+      "author": "Melanie Goodfellow",
+      "date": "2026-10-05T13:29:03+00:00",
+      "link": "https://deadline.com/2026/10/oleh-sentsov-preproduction-ukraine-kai-early-2027-1237146612/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/Oleg-Sencov_Photo_-Andrii-Novikov_hromadske.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "ac13af403bc0e241",
+      "title": "Minotaur",
+      "quote": "The soul of “Minotaur” and its implicit targets are irreducibly Russian.",
+      "publisher": "RogerEbert.com",
+      "author": "Godfrey Cheshire",
+      "date": "2026-10-05T13:24:43+00:00",
+      "link": "https://www.rogerebert.com/reviews/minotaur-film-review-2026",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "dda8af09d15b91a4",
+      "title": "Mark Thompson To Remain At CNN As Chairman Under Ellison’s Skydance",
+      "quote": "Mark Thompson will remain at CNN as Chairman and Editor-in Chief for CNN Worldwide after Skydance closes its purchase of Warner Bros. Discovery. The announcement on Monday ends, for now, speculation about who will run…",
+      "publisher": "Deadline",
+      "author": "Ted Johnson",
+      "date": "2026-10-05T13:21:23+00:00",
+      "link": "https://deadline.com/2026/10/mark-thompson-cnn-paramount-skydance-merger-1237146586/",
+      "image": "https://deadline.com/wp-content/uploads/2024/07/Mark-Thompson-1.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "f5aaca5d7c1889d1",
+      "title": "BBC Names Ex-‘Panorama’ Editor Rachel Jupp As Director Of News",
+      "quote": "The biggest job in British journalism officially has a new occupant. Rachel Jupp, the former editor of Panorama, has been named as the BBC’s next director of news, replacing Deborah Turness, who dramatically resigned…",
+      "publisher": "Deadline",
+      "author": "Jake Kanter",
+      "date": "2026-10-05T13:17:55+00:00",
+      "link": "https://deadline.com/2026/10/bbc-news-rachel-jupp-director-news-1237146621/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/p0mn4jqh.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "8f62fa12517d6e76",
+      "title": "New Skydance Sets Executive Structure As Paramount-WBD Merger Set To Close",
+      "quote": "After a year of negotiations, false starts, and internal and external politicking, the question of who will run the combined media and entertainment giant created by Paramount acquiring Warner Bros. Discovery has been…",
+      "publisher": "Deadline",
+      "author": "Peterdeadline",
+      "date": "2026-10-05T13:11:00+00:00",
+      "link": "https://deadline.com/2026/10/paramount-wbd-executive-structure-org-chart-1237143859/",
+      "image": "https://deadline.com/wp-content/uploads/2025/10/Paramount-and-Warner-Bros.-lot.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "3d0a5bf90573f7ce",
+      "title": "Breaking Baz: Why LFF Opener ‘Elsinore’ Is A Triumphant Epitaph For An Extraordinary Man",
+      "quote": "There was a hush when Ian Charleson appeared on the National Theatre’s Olivier Theatre stage as Hamlet, having taken over the role from Daniel Day Lewis in Richard Eyre’s 1989 production. I had known that the…",
+      "publisher": "Deadline",
+      "author": "Antonia Blyth",
+      "date": "2026-10-05T13:00:00+00:00",
+      "link": "https://deadline.com/2026/10/elsinore-andrew-scott-lff-opening-night-interview-1237146257/",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Elsinor.webp",
+      "category": "World Cinema"
+    },
+    {
+      "id": "f6523e4f1e4774ba",
+      "title": "Comédie Française review – pre-show bedlam plays theatrical chaos for laughs",
+      "quote": "French farce set in the tumultuous three hours prior to the opening night performance of Macbeth features comic-timing perfection from cast One of Matt Groening’s Life In Hell comic strips from the 1980s, entitled How…",
+      "publisher": "The Guardian",
+      "author": "Leslie Felperin",
+      "date": "2026-10-05T12:00:25+00:00",
+      "link": "https://www.theguardian.com/film/2026/oct/05/comedie-francaise-review-pauline-clement",
+      "image": "https://i.guim.co.uk/img/media/89231aeba39159eafc37e8c9ebc8e5df30ae7d46/261_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=84120f26090798185f16ce43c53ba10e",
+      "category": "World Cinema"
+    },
+    {
+      "id": "9a4ce4fe3a02da89",
+      "title": "25 Years Ago Today: Denzel Washington Gave His Best Performance Ever In A Crime Thriller",
+      "quote": "Even Denzel Washington seemed to fall for his nefarious character's charms in this 25-year-old crime thriller, which still features his best performance ever.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Joe Roberts)",
+      "date": "2026-10-05T12:00:00+00:00",
+      "link": "https://www.slashfilm.com/2273060/denzel-washington-crime-thriller-training-day-25-year-anniversary/",
+      "image": "https://www.slashfilm.com/img/gallery/25-years-ago-today-denzel-washington-gave-his-best-performance-ever-in-a-crime-thriller/l-intro-1790772748.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "48e238949bc4ddad",
+      "title": "Deepfake alarm: AI’s shadow looms over entertainment industry after Rashmika Mandanna speaks out",
+      "quote": "The deepfake controversy involving Indian celebrities highlights the urgent need for AI regulations and safeguards, as these technological advancements pose significant risks, influencing the demand for legal recourse…",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-05T11:26:39+00:00",
+      "link": "https://www.thehindu.com/news/national/deepfake-alarm-ais-shadow-looms-over-entertainment-industry-after-rashmika-mandanna-speaks-out/article67565970.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/p1dovu/article67569013.ece/alternates/LANDSCAPE_1200/Rashmika%20Deepfake.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "15dde2a83d492e2d",
+      "title": "Jr. NTR slams morphed ‘Chuttamalle’ video featuring Janhvi Kapoor, vows to take legal action",
+      "quote": "The Telugu superstar reacted strongly to AI-generated video featuring Janhvi Kapoor from the music video ‘Chuttamalle’ from ‘Devara’",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-05T11:25:20+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/jr-ntr-slams-morphed-chuttamalle-video-featuring-janhvi-kapoor-vows-to-take-legal-action/article71540345.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/5w9i0q/article71540409.ece/alternates/LANDSCAPE_1200/Jr.%20NTR",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "2aea4ac8afe1b109",
+      "title": "Post your questions for Sofia Coppola",
+      "quote": "A new documentary by Eleanor Coppola goes behind the scenes on her daughter’s 2006 punk classic, Marie Antoinette. To mark its release, Sofia Coppola will be taking your questions To say that Sofia Coppola grew up on…",
+      "publisher": "The Guardian",
+      "author": "Rich Pelley",
+      "date": "2026-10-05T11:20:29+00:00",
+      "link": "https://www.theguardian.com/film/2026/oct/05/post-your-questions-for-sofia-coppola",
+      "image": "https://i.guim.co.uk/img/media/c89213f291204f6597d9b0e294d83bc099ec4021/207_0_2733_2187/master/2733.jpg?width=140&quality=85&auto=format&fit=max&s=f6335911234186f14dde7e4a3916645a",
+      "category": "World Cinema"
+    },
+    {
+      "id": "005e95fd6b1bb06e",
+      "title": "Sent to the UK from the world's most remote island",
+      "quote": "Tristan da Cunha's islanders had their first taste of modern British life",
+      "publisher": "BBC Culture",
+      "author": null,
+      "date": "2026-10-05T11:00:00+00:00",
+      "link": "https://www.bbc.com/culture/article/20261002-the-people-evacuated-to-the-uk-from-the-worlds-most-remote-inhabited-island-in-1961?ocid=global_culture_rss",
+      "image": "https://ychef.files.bbci.co.uk/144x81/p0pdpdj8.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "750a70ce3f887af1",
+      "title": "Deeply violating, bordering on sexual assault: Janhvi Kapoor on AI-generated video",
+      "quote": "Jr NTR, actor Khushbu Sunder, Vijay Deverakonda and Chiranjeevi have also condemned the misuse of technology",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-05T10:19:37+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/janhvi-kapoor-ai-generated-video-controversy-jr-ntr-devara-chuttamalle/article71546676.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/pxo6r3/article71546711.ece/alternates/LANDSCAPE_1200/jahnvi%20instagram.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "2331e9a1426b0c20",
+      "title": "The Yellow Tie review – John Malkovich gives major hauteur as legendary record-hating maestro",
+      "quote": "This biopic of Sergiu Celibidache, the renowned Romanian conductor who refused all recordings, is a sturdy labour of love directed by his son Here is an old-fashioned biopic from central Europe that is also a labour of…",
+      "publisher": "The Guardian",
+      "author": "Peter Bradshaw",
+      "date": "2026-10-05T10:00:53+00:00",
+      "link": "https://www.theguardian.com/film/2026/oct/05/the-yellow-tie-review-sergiu-celibidache-biopic-conductor-live-music",
+      "image": "https://i.guim.co.uk/img/media/cbc0540c07edc4c039193b272f87aed11fd7f9e4/214_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=78aafc2b158d3b863ddd77662fcda6a6",
+      "category": "World Cinema"
+    },
+    {
+      "id": "4712d479c85fefa5",
+      "title": "Netflix Adds 4-Season Crime Drama Series From Yellowstone Creator Taylor Sheridan",
+      "quote": "An overlooked crime drama from Yellowstone creator Taylor Sheridan is now available to watch on Netflix ahead of its fifth and final season.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Joe Roberts)",
+      "date": "2026-10-05T10:00:00+00:00",
+      "link": "https://www.slashfilm.com/2274757/mayor-of-kingstown-taylor-sheridan-series-streaming-netflix/",
+      "image": "https://www.slashfilm.com/img/gallery/netflix-adds-4-season-crime-drama-series-from-yellowstone-creator-taylor-sheridan/l-intro-1790869672.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "af1c4da42b15c0c3",
+      "title": "Daily Quiz: On Singeetham Srinivasa Rao",
+      "quote": "A quiz on the legendary director Singeetham Srinivasa Rao who passed away on October 3",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-05T09:49:53+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/the-hindu-daily-quiz-on-singeetham-srinivasa-rao/article71546595.ece",
+      "image": "https://th-i.thgim.com/public/incoming/dj6n58/article71546594.ece/alternates/LANDSCAPE_1200/TH04SINGEETHAM.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "c5f9122d75b1e606",
+      "title": "Silo Writer Hugh Howey's Favorite Character In The Post-Apocalyptic Series Is Surprising",
+      "quote": "One suspects Silo author Hugh Howey has a bit of a soft spot for outwardly gruff, off-putting characters with a heart of gold on the TV adaptation of his books.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Jeremy Mathai)",
+      "date": "2026-10-05T08:10:00+00:00",
+      "link": "https://www.slashfilm.com/2272676/silo-writer-hugh-howey-favorite-character-patrick-kennedy/",
+      "image": "https://www.slashfilm.com/img/gallery/silo-writer-hugh-howeys-favorite-character-in-the-post-apocalyptic-series-is-surprising/l-intro-1790713463.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "4e68d5abea7b2207",
+      "title": "Karl review – straightforward tribute tells inside story of fashion world’s great eccentric Karl Lagerfeld",
+      "quote": "Based on Lagerfeld’s biography, director Nick Hooker gets access to the designer’s inner circle, but ultimately fails to find the man behind the high collar and sunglasses Karl Lagerfeld had never set foot inside a…",
+      "publisher": "The Guardian",
+      "author": "Cath Clarke",
+      "date": "2026-10-05T08:00:51+00:00",
+      "link": "https://www.theguardian.com/film/2026/oct/05/karl-review-straightforward-tribute-tells-inside-story-of-fashion-worlds-great-eccentric-karl-lagerfeld",
+      "image": "https://i.guim.co.uk/img/media/29d82c0865d28399a0243bd02ae51d93b167ca6f/18_0_4926_3941/master/4926.jpg?width=140&quality=85&auto=format&fit=max&s=81e5010fd44232bf6508627196136f4b",
+      "category": "World Cinema"
+    },
+    {
+      "id": "8d1eb811de08d804",
+      "title": "‘Smoking Behind the Supermarket with You’ series review: The sweetest nicotine fix of 2026",
+      "quote": "A slow-burning frisson of unsaid somethings, ‘Smoking Behind the Supermarket with You’ knows a cigarette break is rarely just a cigarette break",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-05T07:24:14+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/smoking-behind-the-supermarket-with-you-series-review-the-sweetest-nicotine-fix-of-2026/article71544891.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/63ccxv/article71544892.ece/alternates/LANDSCAPE_1200/HKFWCfPXMAAhicO.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "059ab3b588341fab",
+      "title": "Tom Cruise’s Digger has flopped spectacularly – but I think it is a misunderstood masterpiece",
+      "quote": "Alejandro G Iñárritu’s film may be about to become one of the biggest bombs Hollywood has ever seen – but it is destined to be re-evaluated with time This article contains spoilers for Digger I feel for film critics, I…",
+      "publisher": "The Guardian",
+      "author": "Sian Cain",
+      "date": "2026-10-05T04:39:03+00:00",
+      "link": "https://www.theguardian.com/film/2026/oct/05/digger-tom-cruise-movie-box-office-critics-reviews-misunderstood-masterpiece",
+      "image": "https://i.guim.co.uk/img/media/e6552c72052af6953ffc7ae055106a9afdc8a68a/249_0_2565_2052/master/2565.jpg?width=140&quality=85&auto=format&fit=max&s=3392b2ce8639d760de38c582952d2f21",
+      "category": "World Cinema"
+    },
     {
       "id": "cc466246374ca970",
       "title": "Lanterns Finale Confirms A Major Manhunter Theory — But There's A Twist",
@@ -42,15 +295,26 @@
       "category": "Indie Gems"
     },
     {
-      "id": "0fb96cb8a76237ad",
-      "title": "‘Lanterns’ Team Discusses How Theme Of Fear Played Part In Season Finale, “Remixing” The Oath And The Fate Of Earl",
-      "quote": "SPOILER ALERT: This story contains details of the Season 1 finale of Lanterns on HBO. “Are you afraid?” In Sunday night’s Season 1 finale of Lanterns, John Stewart (Aaron Pierre) finally found the answer and his destiny…",
-      "publisher": "Deadline",
-      "author": "Justin Kroll",
-      "date": "2026-10-05T02:01:00+00:00",
-      "link": "https://deadline.com/2026/10/lanterns-season-one-finale-recap-1237144840/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/LAN_108_060625_JJ_0247_R.jpg",
-      "category": "World Cinema"
+      "id": "3a567ee92df6d278",
+      "title": "Youth has a lot on its mind—maybe a little too much",
+      "quote": "Watching \"House Party,\" the expression that keeps coming to mind is one that often pops up in stories about single working moms: It's hard, if not impossible, to have it all.",
+      "publisher": "The A.V. Club",
+      "author": "Danette Chavez",
+      "date": "2026-10-05T02:30:23+00:00",
+      "link": "https://www.avclub.com/youth-recap-season-1-episode-4-house-party",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/10/02/MixCollage-02-Oct-2026-04-29-PM-8291.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "32c81d4fdd21ac43",
+      "title": "Lanterns pays off its mission with heroic grace",
+      "quote": "The <i>Man Of Tomorrow</i> gains a powerful ally thanks to John Stewart's decidedly human journey.",
+      "publisher": "The A.V. Club",
+      "author": "Dennis Perkins",
+      "date": "2026-10-05T02:00:14+00:00",
+      "link": "https://www.avclub.com/lanterns-recap-season-finale-episode-8",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/10/05/MixCollage-04-Oct-2026-09-04-PM-1986.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "2589f317f8117409",
@@ -64,17 +328,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "654d0ba244275b06",
-      "title": "Reggie McFadden Dies: ‘In Living Color’ Comedian Was 57",
-      "quote": "Reggie McFadden, best known for his run on In Living Color, has died. He was 57. His sister, Bernice McFadden, confirmed his death to The Hollywood Reporter. She said the U.S. State Department notified the family that…",
-      "publisher": "Deadline",
-      "author": "Lynette Rice",
-      "date": "2026-10-05T01:55:49+00:00",
-      "link": "https://deadline.com/2026/10/reggie-mcfadden-dies-in-living-color-comedian-1237146391/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/GettyImages-452834353.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "6f7c8347da2209e4",
       "title": "Marshals Season 2 Premiere Ending Twist Explained: Who Really Killed Garrett",
       "quote": "The Marshals Season 2 premiere tells us who killed Kayce's former Navy SEAL squad mate Garrett Garvey, played by Riley Green.",
@@ -86,102 +339,25 @@
       "category": "Indie Gems"
     },
     {
-      "id": "c63de87a368bfd6d",
-      "title": "The Marshals Season 2 Premiere Might Be The Most Disappointing Episode Yet",
-      "quote": "If you were expecting the Marshals Season 2 premiere to feature a big crossover (as had arguably been teased), we have disappointing news.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-10-05T01:30:00+00:00",
-      "link": "https://www.slashfilm.com/2274360/marshals-season-2-premiere-most-disappointing-episode-yet/",
-      "image": "https://www.slashfilm.com/img/gallery/the-marshals-season-2-premiere-might-be-the-most-disappointing-episode-yet/l-intro-1790860496.jpg",
+      "id": "ffeaa46d47161868",
+      "title": "Slam Frank might be the most subversive show in New York",
+      "quote": "The real target of the <i>Hamiliton</I>-ification of Anne Frank is contemporary theater itself.",
+      "publisher": "The A.V. Club",
+      "author": "Drew Gillis",
+      "date": "2026-10-05T01:00:23+00:00",
+      "link": "https://www.avclub.com/slam-frank-hamilton-off-broadway-review",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/10/02/MixCollage-02-Oct-2026-09-40-AM-6481.jpg",
       "category": "Indie Gems"
     },
     {
-      "id": "17f5bb6f4859efa6",
-      "title": "Philippines’ Regal Teams With Singapore’s Mocha Chai On ‘One For The Road’; Elijah Canlas, Gian Bernardino, Emilio Daez & JM Ibarra Head Cast",
-      "quote": "EXCLUSIVE: Regal Entertainment producer Keith Monteverde is teaming with Singapore’s Mocha Chai Laboratories on coming-of-age drama One For The Road, directed by award-winning Filipino filmmaker Kip Oebanda (Bar Boys…",
-      "publisher": "Deadline",
-      "author": "Liz Shackleton",
-      "date": "2026-10-05T01:27:37+00:00",
-      "link": "https://deadline.com/2026/10/elijah-canlas-philippines-regal-singapore-mocha-chai-1237146375/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/On-The-Road-cast.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "62b2161c2a2f538b",
-      "title": "Channing Dungey Poised For Expanded Post-Merger Role Overseeing Paramount & WBD Cable Networks – The Dish",
-      "quote": "EXCLUSIVE: In addition to Casey Bloys and George Cheeks, the television/streaming structure of the combined Paramount-Warner Bros Discovery, recently named Skydance, would include expanded responsibilities for Channing…",
-      "publisher": "Deadline",
-      "author": "Nellie Andreeva",
-      "date": "2026-10-05T01:16:51+00:00",
-      "link": "https://deadline.com/2026/10/channing-dungey-role-skydance-paramount-wbd-cable-networks-1237146154/",
-      "image": "https://deadline.com/wp-content/uploads/2024/04/MixCollage-02-Apr-2024-11-03-AM-3226.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "4594c2c95a31cff5",
-      "title": "Isaiah Washington Reveals His Wife’s 2025 Death In Social Media Post: “It Came As A Huge Shock to Me”",
-      "quote": "Former Grey’s Anatomy star Isaiah Washington revealed via social media this weekend that Jenise Maria Garland, his wife of 29 years, died in June of 2025. Washington said his wife collapsed “suddenly” on May 31, 2025…",
-      "publisher": "Deadline",
-      "author": "Lynette Rice",
-      "date": "2026-10-05T00:47:03+00:00",
-      "link": "https://deadline.com/2026/10/isaiah-washington-reveals-wife-2025-death-instagram-1237146372/",
-      "image": "https://deadline.com/wp-content/uploads/2019/04/isaiah-washington.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "2e96a47e868a058c",
-      "title": "Why George Russell From The Gilded Age Looks So Familiar",
-      "quote": "If you recognize the man who plays George Russell on The Gilded Age but can't quite put your finger on where you've seen him before, we've got you covered.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Ryan Scott)",
-      "date": "2026-10-05T00:45:00+00:00",
-      "link": "https://www.slashfilm.com/2273907/the-gilded-age-george-russell-actor-morgan-spector/",
-      "image": "https://www.slashfilm.com/img/gallery/why-george-russell-from-the-gilded-age-looks-so-familiar/l-intro-1790796468.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "85b9cf5766790bb6",
-      "title": "Why Ransom Canyon Was Canceled At Netflix",
-      "quote": "Ransom Canyon had potential to be Netflix's Yellowstone, but the streaming giant canceled the series after two seasons. Here's why.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-10-04T23:30:00+00:00",
-      "link": "https://www.slashfilm.com/2275690/why-ransom-canyon-canceled-netflix/",
-      "image": "https://www.slashfilm.com/img/gallery/why-ransom-canyon-was-canceled-at-netflix/l-intro-1790951949.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "f14e27ae159b9e11",
-      "title": "James Van Der Beek Remembered In Tearful ‘Dawson’s Creek’ Reunion At Greg Berlanti’s Heroes Gala That Also Honored Katherine LaNasa",
-      "quote": "The Barbara Berlanti “Heroes Gala,” launched in 2018 by top TV producer Greg Berlanti in honor of his mom who had died of cancer, hit close to home this year after the disease recently claimed James Van Der Beek, one of…",
-      "publisher": "Deadline",
-      "author": "Nellie Andreeva",
-      "date": "2026-10-04T22:43:35+00:00",
-      "link": "https://deadline.com/2026/10/james-van-der-beek-dawsons-creek-reunion-katherine-lanasa-1237146230/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/KevinWilliamson.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "3d20f079583b676e",
-      "title": "Sheryl Lee Ralph Imagines ‘Abbott Elementary’ Running As Long As ‘Grey’s Anatomy’: “I Want To Take This Journey”",
-      "quote": "Nobody knows where they might end up, but Sheryl Lee Ralph has some ambitious ideas about Abbott Elementary‘s run. As the ABC workplace sitcom enters its sixth season, premiering Wednesday, Oct. 7 at 8:30/7:30c, the…",
-      "publisher": "Deadline",
-      "author": "Glenn Garner",
-      "date": "2026-10-04T22:24:09+00:00",
-      "link": "https://deadline.com/2026/10/sheryl-lee-ralph-abbott-elementary-running-as-long-greys-anatomy-1237146255/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/Sheryl-Lee-Ralph-Greys-Anatomy-2-shot.jpg",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "5d38a50edac2de97",
-      "title": "Tom Cruise’s ‘Digger’ To Lose Around $150M: Deconstructing The Disaster",
-      "quote": "Tom Cruise will not be jumping on any couches this weekend. This as the star of blockbusters Top Gun: Maverick and Mission: Impossible posts his lowest opening in 19 years, that being the reported $160 million…",
-      "publisher": "Deadline",
-      "author": "Anthonypauldalessandro",
-      "date": "2026-10-04T21:35:32+00:00",
-      "link": "https://deadline.com/2026/10/digger-tom-cruise-movie-bombs-1237146199/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/MCDDIGG_WB025.jpg",
+      "id": "78f469aa248f2758",
+      "title": "Digger may lose $150m after Tom Cruise film bombs at the box office",
+      "quote": "Alejandro G Iñárritu’s critically panned satire took just $20m globally in its opening weekend, against a reported $150m production budget and $100m marketing spend Digger has flopped in its opening weekend with a $20m…",
+      "publisher": "The Guardian",
+      "author": "Associated Press",
+      "date": "2026-10-04T23:15:32+00:00",
+      "link": "https://www.theguardian.com/film/2026/oct/05/digger-may-lose-150m-after-tom-cruise-film-bombs-at-the-box-office",
+      "image": "https://i.guim.co.uk/img/media/15b938a85e16d1e0b1b8efa1ecbc9576366f390a/250_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=cee522763303f3202182039fb3ba1185",
       "category": "World Cinema"
     },
     {
@@ -262,17 +438,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "ca8301c1b196725a",
-      "title": "These PBS space documentaries explore the wonders of our universe",
-      "quote": "Both visually impressive and scientifically fascinating, these documentaries explore the beauty of space (and our place in it)",
-      "publisher": "The A.V. Club",
-      "author": "Lacy Baugher Milas",
-      "date": "2026-10-04T13:00:11+00:00",
-      "link": "https://www.avclub.com/best-pbs-space-documentaries-wonder-exploration",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/09/02/MixCollage-02-Oct-2026-05-57-PM-7402.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "fedb1a21ccc90f2f",
       "title": "Singeetham Srinivasa Rao and Kamal Haasan: A look back at one of Indian cinema’s iconic duos",
       "quote": "From a film without dialogue to a dwarf protagonist and four characters played by a single actor — with an appetite for the unconventional and an instinct for experimentation, Singeetham Srinivasa Rao and Kamal Haasan…",
@@ -293,105 +458,6 @@
       "link": "https://www.thehindu.com/entertainment/movies/singeetham-srinivasa-rao-tribute-michael-madana-kama-rajan-kamal-haasan-ilaiyaraaja-crazy-mohan/article71543283.ece",
       "image": "https://th-i.thgim.com/public/incoming/p2372n/article71543339.ece/alternates/LANDSCAPE_1200/kamal32.jpg",
       "category": "Indian Cinema"
-    },
-    {
-      "id": "68d49b075892109a",
-      "title": "Singeetham Srinivasa Rao death: Kamal Haasan, S.S. Rajamouli, Jr NTR and more mourn legendary filmmaker",
-      "quote": "Tributes have poured in from across Indian cinema following the death of Singeetham Srinivasa Rao, with Kamal Haasan, S.S. Rajamouli, Jr NTR, Mahesh Babu and several other major names remembering his extraordinary…",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-04T10:23:42+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/singeetham-srinivasa-rao-death-kamal-haasan-ss-rajamouli-jr-ntr-and-more-mourn-legendary-filmmaker/article71543106.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/ucwxoq/article71543160.ece/alternates/LANDSCAPE_1200/Copy%20of%20G2%20Cover.jpg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "81da134b0ec2f320",
-      "title": "Remembering Singeetham Srinivasa Rao: Cinema’s eternal experimenter at 94",
-      "quote": "From a silent film in the 1980s to the Telugu musical ‘Sing Geetham’ this year, Rao broke the mold across languages and genres, inspiring generations of filmmakers",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-04T10:21:50+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/remembering-singeetham-srinivasa-rao-cinemas-eternal-experimenter-at-94/article71543149.ece",
-      "image": "https://th-i.thgim.com/public/incoming/4gn8n9/article71543199.ece/alternates/LANDSCAPE_1200/IMG_singeetham_2_1_LHG3JDC4.jpg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "04283852d6f2563a",
-      "title": "What's on TV this week—Small Prophets and Below premiere",
-      "quote": "Here is what's happening on TV from Sunday, October 4 through Saturday, October 10, 2026.",
-      "publisher": "The A.V. Club",
-      "author": "Christina Izzo",
-      "date": "2026-10-04T10:00:52+00:00",
-      "link": "https://www.avclub.com/what-to-watch-on-tv-october-4-october-10",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/10/02/MixCollage-02-Oct-2026-12-24-PM-7323.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "d141b3d50b40c3d1",
-      "title": "Taylor Swift drops by SNL to give pal Dakota Johnson her birthday wish",
-      "quote": "The \"Patient Zero\" singer interrupted Johnson's <i>SNL</i> monologue with birthday cheer, and a cake.",
-      "publisher": "The A.V. Club",
-      "author": "Dennis Perkins",
-      "date": "2026-10-04T09:58:51+00:00",
-      "link": "https://www.avclub.com/taylor-swift-dakota-johnson-saturday-night-live",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/10/04/DJTS-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "2812e5f1340df50b",
-      "title": "‘It’s OK to love somebody when they’re not perfect’: how John Cena conquered Hollywood – and why he refuses to abandon Vince McMahon",
-      "quote": "By embracing the role of amiable lunk, the wrestler turned actor has become an unlikely, and very modern, leading man. But does his relationship with the WWE, and its controversial former owner, risk tarnishing his…",
-      "publisher": "The Guardian",
-      "author": "Sasha Mistlin",
-      "date": "2026-10-04T09:00:24+00:00",
-      "link": "https://www.theguardian.com/film/2026/oct/04/john-cena-interview-matchbox-movie-wwe-peacemaker",
-      "image": "https://i.guim.co.uk/img/media/459e35676344312a081658f8aa3e9f7077f5efd7/0_0_2582_2065/master/2582.jpg?width=140&quality=85&auto=format&fit=max&s=58905754d811e51b17a218ef27412bb7",
-      "category": "World Cinema"
-    },
-    {
-      "id": "c10979889c3d8d02",
-      "title": "Kannada cinema has a new headache: Paid reviews",
-      "quote": "So film teams recruit social-media stars to post slick, scripted messages on X and Instagram, ensuring a massive hype around a film’s release",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-04T06:31:15+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/kannada-film-industry-kannada-sandalwood-paid-reviews-premada-oorali-bail-fake-reviews-movie-reviews/article71541522.ece",
-      "image": "https://th-i.thgim.com/public/incoming/yp56u2/article71541722.ece/alternates/LANDSCAPE_1200/_JAI4210.JPG",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "990e71455b5cc863",
-      "title": "Where are Kannada cinema’s next stars?",
-      "quote": "Kannada cinema still leans heavily on its tried-and-true male heroes and familiar storylines. It’s time for the industry to evolve and embrace a new generation of talent that reflects the vibrant, diverse audience it…",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-04T06:29:53+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/where-are-kannada-cinemas-next-stars/article71141447.ece",
-      "image": "https://th-i.thgim.com/public/incoming/rlahyb/article71146808.ece/alternates/LANDSCAPE_1200/_DSC7966.jpg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "cc5944146aebecc5",
-      "title": "Remembering Singeetham Srinivasa Rao",
-      "quote": "Having found an ally in Kamal Haasan, Singeetham discovered a sense of freedom, especially in the Tamil industry.",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-04T06:19:26+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/remembering-singeetham-srinivasa-rao/article71542999.ece",
-      "image": "https://th-i.thgim.com/public/incoming/4yijw6/article71543003.ece/alternates/LANDSCAPE_1200/SINGEETAM_SRINIVASA_RAO_5.jpg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "b1e0c5ac46b1f176",
-      "title": "A Statement review – outstanding climate change dramedy about a 1980 meeting",
-      "quote": "New York film festival: Paul Rudd, Paul Giamatti and Tatiana Maslany lead an excellent ensemble in this dramatization of a failed conference on climate change In late October 1980, days before the election of Ronald…",
-      "publisher": "The Guardian",
-      "author": "Adrian Horton",
-      "date": "2026-10-04T00:15:12+00:00",
-      "link": "https://www.theguardian.com/film/2026/oct/03/a-statement-film-review",
-      "image": "https://i.guim.co.uk/img/media/02ba36abe4618bbc1611b1459482b1f095e0532e/887_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=2a327bd890f83c2a595c7b9cf643734b",
-      "category": "World Cinema"
     },
     {
       "id": "b53c27ff5126a1e7",
@@ -416,8 +482,8 @@
       "category": "World Cinema"
     },
     {
-      "id": "3f24f17e9a9f91df",
-      "title": "The faux-historic mansions dividing opinion",
+      "id": "4ce4e15ea9b105c8",
+      "title": "The brand new 'historic' mansions dividing opinion",
       "quote": "Why grand country houses built to look like they're centuries old are in demand",
       "publisher": "BBC Culture",
       "author": null,
@@ -504,17 +570,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "603eb8a15c5dfea2",
-      "title": "‘I thought Brassed Off might be popular within a 10 mile radius of Barnsley’: the director of Andy Burnham’s favourite film on its 30-year anniversary",
-      "quote": "Ahead of a live performance in the Royal Albert Hall, the writer Mark Herman explains why he’s not surprised it’s one of the new Prime Minister’s favourites and a why film like this wouldn’t get made now It is one of…",
-      "publisher": "The Guardian",
-      "author": "Robyn Vinter",
-      "date": "2026-10-02T16:56:40+00:00",
-      "link": "https://www.theguardian.com/film/2026/oct/02/mark-herman-brassed-off-andy-burnham-royal-albert-hall",
-      "image": "https://i.guim.co.uk/img/media/e469b48c45507bca822d33821131c882eff903b9/339_0_2826_2262/master/2826.jpg?width=140&quality=85&auto=format&fit=max&s=be8e39fedd4f1d8f16bd6e7b5d0079b8",
-      "category": "World Cinema"
-    },
-    {
       "id": "a8af9d03d9f99c5a",
       "title": "Ghost in the Cell",
       "quote": "“The Shawshank Redemption” meets “Hellraiser.”",
@@ -589,39 +644,6 @@
       "date": "2026-10-02T13:00:00+00:00",
       "link": "https://www.rogerebert.com/reviews/infirmary-shudder-movie-review-2026",
       "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "4a9fd701b459025a",
-      "title": "The Influencer Project",
-      "quote": "It looks bland, doesn’t make much sense, and takes its time getting you to places you’ve been several times before.",
-      "publisher": "RogerEbert.com",
-      "author": "Simon Abrams",
-      "date": "2026-10-02T13:00:00+00:00",
-      "link": "https://www.rogerebert.com/reviews/the-influencer-project-shudder-movie-review-2026",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "10ad5a00820983c4",
-      "title": "‘It’s radical to release a film called Girls Like Girls in this climate’: hitmaker turned director Hayley Kiyoko on sexuality, safety and becoming ‘Lesbian Jesus’",
-      "quote": "The singer’s hit 2015 single Girls Like Girls was her breakthrough moment and also the first time she felt confident in her sexuality. Now she has directed a film based on the song – a love letter to her 17-year-old…",
-      "publisher": "The Guardian",
-      "author": "Lucy Knight",
-      "date": "2026-10-02T12:00:06+00:00",
-      "link": "https://www.theguardian.com/film/2026/oct/02/hayley-kiyoko-interview-girls-like-girls-music-film-books",
-      "image": "https://i.guim.co.uk/img/media/f3eb026ef7ece07c65777b99361c7d175eb10404/0_142_1024_819/master/1024.jpg?width=140&quality=85&auto=format&fit=max&s=45ddeadf882aa2dd5aac522c52588196",
-      "category": "World Cinema"
-    },
-    {
-      "id": "4c381d1e7f586a32",
-      "title": "How Bassam Tariq pivoted from stalled Blade reboot to new Mahershala Ali thriller: ‘I’m happier I made this movie’",
-      "quote": "In the film-maker’s Houston-set film, Ali stars as a devout Muslim who moonlights as a vicious hitman Mahershala Ali is swinging around a blade in Your Mother Your Mother Your Mother . That’s not a nod to Ali’s previous…",
-      "publisher": "The Guardian",
-      "author": "Radheyan Simonpillai",
-      "date": "2026-10-02T11:00:18+00:00",
-      "link": "https://www.theguardian.com/film/2026/oct/02/bassam-tariq-your-mother-your-mother-your-mother-interview-mahershala-ali-marvel-blade",
-      "image": "https://i.guim.co.uk/img/media/f77285f514f3353990d09d1648a5d48e8f55d70c/417_0_4167_3334/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=26daf8a8c73f086246b92138646f04bc",
       "category": "World Cinema"
     },
     {
@@ -735,17 +757,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "6eed8f1357c95aed",
-      "title": "Digger review – Tom Cruise’s loudmouth oil tycoon goes hard in Alejandro G Iñárritu’s eco-satire",
-      "quote": "One man’s irresponsible drilling causes a global crisis in Iñárritu’s exasperatingly laborious, self-congratulatory film A new movie from the Oscar-winning Mexican director Alejandro González Iñárritu is always an…",
-      "publisher": "The Guardian",
-      "author": "Peter Bradshaw",
-      "date": "2026-09-29T16:00:00+00:00",
-      "link": "https://www.theguardian.com/film/2026/sep/29/digger-review-tom-cruise-satire-alejandro-gonzalez-inarritu",
-      "image": "https://i.guim.co.uk/img/media/ce939ad10645ce3d14e291138e02f52e6e36650d/250_0_2500_2001/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=461ee56ec21d178eabc1d40fc1e12d83",
-      "category": "Festival Winners"
-    },
-    {
       "id": "03e64d34f1f7039e",
       "title": "‘Digger’ Review: Tom Cruise and Alejandro G. Iñárritu Are a Match Made in Showboating Hell in a Shallow Satire Insufferably Pleased With Itself",
       "quote": "Riz Ahmed, John Goodman, Sandra Hüller, Michael Stuhlbarg and Jesse Plemons also star in this dark comedy about a blowhard oil tycoon facing a global catastrophe of his own making.",
@@ -787,17 +798,6 @@
       "date": "2026-09-25T11:00:00+00:00",
       "link": "https://www.bbc.com/culture/article/20260924-how-controversial-2000s-paedophile-hunting-show-to-catch-a-predator-rocked-us-tv?ocid=global_culture_rss",
       "image": "https://ychef.files.bbci.co.uk/144x81/p0pc9c8s.png",
-      "category": "World Cinema"
-    },
-    {
-      "id": "20cf54e7631a37a7",
-      "title": "12 of the best films to watch this October",
-      "quote": "From Verity and Digger to Sense and Sensibility",
-      "publisher": "BBC Culture",
-      "author": null,
-      "date": "2026-09-24T11:00:00+00:00",
-      "link": "https://www.bbc.com/culture/article/20260923-12-of-the-best-films-to-watch-this-october?ocid=global_culture_rss",
-      "image": "https://ychef.files.bbci.co.uk/144x81/p0pc2hz9.jpg",
       "category": "World Cinema"
     },
     {
