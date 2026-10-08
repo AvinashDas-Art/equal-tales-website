@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T05:39:48.133160+00:00",
+  "generated_at": "2026-10-08T13:13:12.567910+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -9,48 +9,279 @@
   ],
   "reviews": [
     {
-      "id": "0bee03e08b5dcddd",
-      "title": "Live updates: Leaders, film fraternity mourn Nana Patekar's death",
+      "id": "da62a6a925ae4051",
+      "title": "Himesh Patel & Maxine Peake Among The Stars In Latest Booker Prize Short Films",
+      "quote": "The short films featuring stars reading from the titles shortlisted for this year’s Booker Prize have landed. The stars reading this year are Lewis Gribben (Black Mirror), Kathryn Hunter (Black Doves), Paterson Joseph…",
+      "publisher": "Deadline",
+      "author": "Stewart Clarke",
+      "date": "2026-10-08T13:05:29+00:00",
+      "link": "https://deadline.com/2026/10/booker-prize-short-films-himesh-patel-maxine-peake-1237149749/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/Booker-Prize-2026-shortlist-films-actor-photo-composite-16_9-digital-banners-16x9-digital-.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "f1ad3d1a037668e5",
+      "title": "Joe Sugg & Caspar Lee’s MVE Hires CAA & WME Agents In U.S.",
+      "quote": "EXCLUSIVE: Joe Sugg and Caspar Lee’s agency MVE Management has hired agents from CAA and WME in the U.S. MVE has brought in Carter Broussard, Cara Best and Ben Greenberger. MVE said this will be paired with an expansion…",
+      "publisher": "Deadline",
+      "author": "Max Goldbart",
+      "date": "2026-10-08T13:00:00+00:00",
+      "link": "https://deadline.com/2026/10/mve-hires-caa-wme-agents-in-us-1237148827/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/split-3-split-a-1000x667-1-1.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "d75eb0d5ecb9ef35",
+      "title": "’Bridgerton’ Spinoff About Young Lady Violet Greenlit At Netflix With Shonda Rhimes Writing",
+      "quote": "The long-rumored expansion of the Bridgerton universe is a reality: Netflix has greenlighted an untitled spinoff chronicling the early life of a young Lady Violet and her romance with Viscount Edmund Bridgerton. The…",
+      "publisher": "Deadline",
+      "author": "Nellie Andreeva",
+      "date": "2026-10-08T13:00:00+00:00",
+      "link": "https://deadline.com/2026/10/bridgerton-lady-violet-prequel-spinoff-in-works-shonda-1237149546/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/Violet.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "dcf4171dd365ac15",
+      "title": "IDFA Announces Forum Lineup: Projects From Wang Bing, Rachael Leah Jones, Vitaly Mansky, Juanjo Pereira, Liang Zhao & More",
+      "quote": "International Documentary Festival Amsterdam has revealed the 47 projects selected for IDFA Forum 2026, the festival’s prestigious co-production and co-financing market. The final lineup, culled from almost 900…",
+      "publisher": "Deadline",
+      "author": "Matthew Carey",
+      "date": "2026-10-08T13:00:00+00:00",
+      "link": "https://deadline.com/2026/10/2026-idfa-forum-lineup-announcement-1237149754/",
+      "image": "https://deadline.com/wp-content/uploads/2024/09/IDFA-banners.png",
+      "category": "World Cinema"
+    },
+    {
+      "id": "eadbd661131ae486",
+      "title": "Apple TV Buys Tropic Noir Series ‘Dustfall’ Starring Anna Torv",
+      "quote": "EXCLUSIVE: Apple TV is heading Down Under for a bit of tropic noir. Hot off the launch of its first Australian original, the streamer has acquired hit Aussie series Dustfall starring The Last of Us’ Anna Torv for its…",
+      "publisher": "Deadline",
+      "author": "Max Goldbart",
+      "date": "2026-10-08T13:00:00+00:00",
+      "link": "https://deadline.com/2026/10/apple-tv-buys-dustfall-anna-torv-juliet-stevenson-australia-1237149789/",
+      "image": "https://deadline.com/wp-content/uploads/2026/02/dustfall.jpeg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "9bbc591b3faf5c62",
+      "title": "How Oasis Came To Rock The Doc World – And What It Might Mean For Bond 26",
+      "quote": "For decades people have flocked to Abbey Road Studios, home to one of the most famous instruments in the world: Mrs. Mills’ 1905 Steinway Vertegrand. A holdover from the music-hall era, Mills had instrumental hits with…",
+      "publisher": "Deadline",
+      "author": "Damon Wise",
+      "date": "2026-10-08T13:00:00+00:00",
+      "link": "https://deadline.com/2026/10/how-oasis-dont-look-back-in-anger-steven-knight-1237149847/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/SW1_6685_o9Xm8ook-1.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "07ba41d85b7ec9cf",
+      "title": "BBC Staff Raise Concerns About Director-General’s Praise For AI-Generated ‘Doctor Who’",
+      "quote": "EXCLUSIVE: Some BBC employees would like Matt Brittin to travel back in time and scrub from the record his comments about an AI-generated episode of Doctor Who. During a staff town hall on Wednesday, BBC insiders voiced…",
+      "publisher": "Deadline",
+      "author": "Jake Kanter",
+      "date": "2026-10-08T12:46:07+00:00",
+      "link": "https://deadline.com/2026/10/bbc-staff-concerns-matt-brittin-ai-doctor-who-1237149848/",
+      "image": "https://deadline.com/wp-content/uploads/2025/06/525172-e1750264502579.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "ca16eee66f72a95f",
+      "title": "‘Primetime’ writer Ajon Singh on the Chris Hansen meme machine and that Phoebe Bridgers NIN shirt",
+      "quote": "The Indian American writer takes us through the conception of ‘Primetime’, from Robert Pattinson’s hands-on transformation of Hansen to the ‘Network’ blueprint, the story behind the Kerala mythology and the internet…",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-08T12:40:36+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/primetime-writer-ajon-singh-on-the-chris-hansen-meme-machine-the-true-story-behind-the-kerala-monster-and-that-phoebe-bridgers-nin-shirt/article71559730.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/lond3p/article71559715.ece/alternates/LANDSCAPE_1200/Copy%20of%20G2%20Cover%201.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "90f2ad4e97cb1be4",
+      "title": "Nana Patekar: 7 underrated films of the veteran actor",
+      "quote": "Looking beyond the cop, gangster and the revolutionary, Nana embodied some more nuanced roles that gave a glimpse into an actor, who was ready to do it all",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-08T12:37:36+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/nana-patekar-7-underrated-films-of-the-veteran-actor/article71559530.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/f8xfgo/article71559583.ece/alternates/LANDSCAPE_1200/Nana%20Patekar%20in%20%E2%80%98Abhay%E2%80%99%20and%20%E2%80%98Prahaar%E2%80%99",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "e9a3413bfd055c18",
+      "title": "Shah Rukh Khan pens long note as a tribute to Nana Patekar",
+      "quote": "Nana Patekar passed away on Thursday morning after suffering from cardiac arrest",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-08T12:23:42+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/shah-rukh-khan-pens-long-note-as-a-tribute-to-nana-patekar/article71559766.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/61f9uf/article71559780.ece/alternates/LANDSCAPE_1200/Shah%20Rukh%20Khan%20and%20Nana%20Patekar",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "2da9dff0af92b5b2",
+      "title": "Eyeing More ‘Minecrafts’ And ‘Fallouts’, Microsoft Xbox Launches XP Unit To Take Properties Beyond Video Games",
+      "quote": "Microsoft Xbox, hoping to replicate the success of franchises like Minecraft and Fallout, is launching a new division called XP designed to extend properties beyond video games. The XP name is described as a play on…",
+      "publisher": "Deadline",
+      "author": "Dade Hayes",
+      "date": "2026-10-08T12:15:00+00:00",
+      "link": "https://deadline.com/2026/10/microsoft-xbox-launches-xp-division-minecraft-fallout-1237149777/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/Minecraft_612ed5.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "a3663a93cd721f37",
+      "title": "Judge says Paramount and Warner must halt merger for at least two weeks",
+      "quote": "Twelve States sued to block Paramount's pending buyout of Warner last week, alleging that such a combination would “extinguish competition” in Hollywood and lead to fewer choices for consumers",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-08T12:00:26+00:00",
+      "link": "https://www.thehindu.com/business/Industry/judge-says-paramount-and-warner-must-halt-merger-for-at-least-two-weeks/article71248584.ece",
+      "image": "https://th-i.thgim.com/public/incoming/mloemb/article71248625.ece/alternates/LANDSCAPE_1200/2026-07-20T181256Z_1343216392_RC27DMA0QF49_RTRMADP_3_WARNER-BROS-DIS-M-A-PARAMOUNT-LAWSUIT.JPG",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "9e7da7fc492ca77c",
+      "title": "Mike Flanagan's Carrie Keeps One Stephen King Book Detail Previous Adaptations Left Out",
+      "quote": "MIke Flanagan's new adaptation of Stephen King's Carrie finally includes one of the best elements of the novel, but unfortunately doesn't commit to it.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Devin Meenan)",
+      "date": "2026-10-08T12:00:00+00:00",
+      "link": "https://www.slashfilm.com/2276833/mike-flanagan-carrie-stephen-king-book-detail-previous-missed/",
+      "image": "https://www.slashfilm.com/img/gallery/mike-flanagan-carrie-stephen-king-book-detail-previous-missed/l-intro-1791387935.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "05fc4b39afb5648f",
+      "title": "Slow Horses Is About To Run Into Game Of Thrones' Biggest Problem – Here's Why It'll Be Fine",
+      "quote": "Slow Horses is close to running into the Game of Thrones problem of running out of source material to adapt. But things should work out okay.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Jeremy Mathai)",
+      "date": "2026-10-08T11:36:55+00:00",
+      "link": "https://www.slashfilm.com/2280937/slow-horses-game-of-thrones-problem/",
+      "image": "https://www.slashfilm.com/img/gallery/slow-horses-is-about-to-run-into-game-of-thrones-biggest-problem-heres-why-itll-be-fine/l-intro-1791458905.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "0cba9313c2dcb945",
+      "title": "Good night, and good lick: what can we expect from George Clooney’s restaurant?",
+      "quote": "The newly-official French citizen is planning to open an Italian restaurant in Provence. Will it float like his tequila brand or sink as swiftly as the Steven Spielberg submarine eatery that made one reviewer…",
+      "publisher": "The Guardian",
+      "author": "Stuart Heritage",
+      "date": "2026-10-08T11:25:36+00:00",
+      "link": "https://www.theguardian.com/film/2026/oct/08/george-clooney-italian-restaurant-provence-france",
+      "image": "https://i.guim.co.uk/img/media/7d4aaed86103697c83d574e9ac0ac2b8c5b2df6c/1908_397_6703_5363/master/6703.jpg?width=140&quality=85&auto=format&fit=max&s=9d8fa66b5880e631036ee24e94caf970",
+      "category": "World Cinema"
+    },
+    {
+      "id": "2122210a0d8c11fd",
+      "title": "How Aphrodite became a controversial sex symbol",
+      "quote": "Artworks depicting the Greek goddess have been branded obscene",
+      "publisher": "BBC Culture",
+      "author": null,
+      "date": "2026-10-08T11:00:00+00:00",
+      "link": "https://www.bbc.com/culture/article/20261007-how-aphrodite-became-a-controversial-sex-symbol?ocid=global_culture_rss",
+      "image": "https://ychef.files.bbci.co.uk/144x81/p0pfgt5b.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "dba7f47c9574609d",
+      "title": "Why You Shouldn't Rewatch The Social Network Before The Social Reckoning",
+      "quote": "The Social Reckoning is being marketed as a spiritual successor to The Social Network, but that's more than a bit misleading.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Jeremy Mathai)",
+      "date": "2026-10-08T11:00:00+00:00",
+      "link": "https://www.slashfilm.com/2280425/why-not-rewatch-the-social-network-before-the-social-reckoning/",
+      "image": "https://www.slashfilm.com/img/gallery/why-you-shouldnt-rewatch-the-social-network-before-the-social-reckoning/l-intro-1791398409.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "8b05c1f14c1ab7ec",
+      "title": "Can Ali G: Who Iz I? save character comedy cinema?",
+      "quote": "Sacha Baron Cohen’s new film risks being outdated in a more rancorous era. But could it restore the personality-driven genre to big screens or end it altogether? For a man whose campaign slogan was once “Keep it real”…",
+      "publisher": "The Guardian",
+      "author": "Phil Hoad",
+      "date": "2026-10-08T10:58:30+00:00",
+      "link": "https://www.theguardian.com/film/2026/oct/08/can-ali-g-who-iz-i-save-character-comedy-cinema-sacha-baron-cohen-mike-myers-will-ferrell",
+      "image": "https://i.guim.co.uk/img/media/7b856c4ea60a0f266900cbadcdae948a7e98dc62/2374_0_1022_818/master/1022.jpg?width=140&quality=85&auto=format&fit=max&s=866ce0855470a25aa6f936f6ab45376c",
+      "category": "World Cinema"
+    },
+    {
+      "id": "9ef4426aec4b6586",
+      "title": "Nana Patekar passes away: Leaders, film fraternity mourn actor's death | LIVE updates",
       "quote": "Veteran Actor Nana Patekar passed away at his Goa residence during the early hours of Thursday.",
       "publisher": "The Hindu",
       "author": null,
-      "date": "2026-10-08T05:34:51+00:00",
+      "date": "2026-10-08T10:46:27+00:00",
       "link": "https://www.thehindu.com/entertainment/movies/nana-patekar-death-live-updates-family-bollywood-film-industry-condolences-tributes-funeral-rites/article71558310.ece",
       "image": null,
       "category": "Indian Cinema"
     },
     {
-      "id": "0f21f476a20c57a6",
-      "title": "Alfonso Cuarón & Jonás Cuarón On Future Of Cinema: “The Theatrical Experience Will Continue, But It Will Co-Exist With Many Different Forms”",
-      "quote": "Alfonso Cuarón and Jonás Cuarón shared their thoughts on the future of the theatrical experience, teased a few details of upcoming projects and discussed Korean cinema during their first visit to Busan International…",
-      "publisher": "Deadline",
-      "author": "Liz Shackleton",
-      "date": "2026-10-08T05:27:09+00:00",
-      "link": "https://deadline.com/2026/10/alfonso-cuaron-jonas-cuaron-gravity-campeon-gabacho-busan-1237149661/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/Alfonso-Cuaron.jpg",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "f22d5d90c6ae7265",
-      "title": "Actor Nana Patekar passes away at 75",
-      "quote": "Mr. Patekar was brought to a private hospital after he was found unconscious at his apartment in Dona Paula, near Goa’s Panaji region",
+      "id": "afa36efd6ef8622f",
+      "title": "From ‘Krantiveer’ to ‘Welcome’: Nana Patekar’s most memorable dialogues",
+      "quote": "Over a career spanning nearly five decades, the veteran actor delivered countless such moments that remain etched in the history of Indian cinema.",
       "publisher": "The Hindu",
       "author": null,
-      "date": "2026-10-08T05:10:43+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/nana-patekar-dies-at-75-goa-heart-attack/article71558236.ece",
-      "image": "https://th-i.thgim.com/public/incoming/41liup/article71558301.ece/alternates/LANDSCAPE_1200/PTI10_08_2026_000004A.jpg",
+      "date": "2026-10-08T10:09:04+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/from-krantiveer-to-welcome-nana-patekars-most-memorable-dialogues/article71559162.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/vfsu4w/article71559193.ece/alternates/LANDSCAPE_1200/Nana%20Patekar%20in%20%E2%80%98Krantiveer%E2%80%99%20and%20%E2%80%98Welcome%E2%80%99",
       "category": "Indian Cinema"
     },
     {
-      "id": "f429af002bd5392d",
-      "title": "Doha Film Festival Unveils 2026 International Feature Competition Lineup",
-      "quote": "Qatar’s Doha Film Festival (DFF) has unveiled the International Feature Film Competition lineup for its second edition which is due to take place this November. The fifteen titles include Hosam Abu Dan’s Gaza-shot drama…",
-      "publisher": "Deadline",
-      "author": "Melanie Goodfellow",
-      "date": "2026-10-08T05:00:00+00:00",
-      "link": "https://deadline.com/2026/10/doha-film-festival-2026-international-feature-competition-1237149486/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/MixCollage-07-Oct-2026-11-18-PM-6417.jpg",
-      "category": "World Cinema"
+      "id": "f32274f1ad3678a3",
+      "title": "Actor Nana Patekar (1951-2026): His iconic performances, awards and legacy",
+      "quote": "The Hindu’s coverage on the three-time national award winning actor",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-08T09:52:09+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/actor-nana-patekar-iconic-performances-awards-legacy/article71558290.ece",
+      "image": "https://th-i.thgim.com/public/incoming/4naku3/article71558642.ece/alternates/LANDSCAPE_1200/NDBL-07-06-02-16.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "c895ccd6eb80a214",
+      "title": "Nana Patekar's forgotten Tamil outing: The story of Bharathiraja's ‘Bommalattam’",
+      "quote": "Much before Rajinikanth’s Kaala, Nana Patekar had an important role in this famous Tamil director’s project",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-08T08:20:08+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/nana-patekar-death-bharathiraja-bommalattam-rajinikanth-kaala-tamil-cinema/article71558784.ece",
+      "image": "https://th-i.thgim.com/public/incoming/wpsvwy/article71558790.ece/alternates/LANDSCAPE_1200/CCI_Hindu_NewsDeskR6_GIKH8JD9.1.jfif",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "34b9b5eeb7c20a7a",
+      "title": "Clever Netflix creature feature Below could be your next Widow’s Bay",
+      "quote": "If Widow’s Bay had added a kraken to its menagerie of the monstrous and the ghoulish, it might’ve looked something like Below.",
+      "publisher": "The A.V. Club",
+      "author": "Brian Tallerico",
+      "date": "2026-10-08T07:00:36+00:00",
+      "link": "https://www.avclub.com/below-review-netflix-josh-hartnett-mackenzie-davis-charlie-heaton",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/10/07/MixCollage-07-Oct-2026-02-21-PM-8770.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "e820b292d6dc2fbd",
+      "title": "Mike Flanagan swears he's \"working constantly\" on his Dark Tower TV adaptation",
+      "quote": "Flanagan, fresh off the release of <i>Carrie</i>, swears that he's not only working on The Dark Tower, but doing so \"constantly.\"",
+      "publisher": "The A.V. Club",
+      "author": "William Hughes",
+      "date": "2026-10-08T03:24:31+00:00",
+      "link": "https://www.avclub.com/mike-flanagan-dark-tower-tv-show-working-constantly",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2024/10/19144035/GettyImages-2179412035.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "8e2ecad1f899a4d0",
+      "title": "Jessica Rothe is hoping her recent horror movie runs means good news for Happy Death Day 3",
+      "quote": "Rothe, whose funny and human performance as repeatedly murdered co-ed Tree was one of the big appeals of both <i>Groundhog Day</i>-themed slasher movies, is still holding out hope for a third one.",
+      "publisher": "The A.V. Club",
+      "author": "William Hughes",
+      "date": "2026-10-08T02:48:01+00:00",
+      "link": "https://www.avclub.com/jessica-rothe-beware-boiuna-happy-death-day-3-hopes",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/10/08/rothe-feature.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "221506893dd5bb0c",
@@ -64,70 +295,37 @@
       "category": "Indie Gems"
     },
     {
-      "id": "7b58618a2d36f104",
-      "title": "‘Obsession’s Michael Johnston Teases “Incredible Queer” Project With “Steamy Moment”",
-      "quote": "Coming off his breakout role this year, Michael Johnston is teasing what’s next. The Obsession star, who is openly gay, recently teased an upcoming role in “a really incredibly queer story,” which includes a “steamy…",
-      "publisher": "Deadline",
-      "author": "Glenn Garner",
-      "date": "2026-10-08T02:31:35+00:00",
-      "link": "https://deadline.com/2026/10/michael-johnston-teases-incredible-queer-project-1237149628/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/GettyImages-2295790980.jpg",
+      "id": "ee7fd3a21c0f938e",
+      "title": "Big Girls Don’t Cry review – a New Zealand teenager finds herself in tender coming-of-age tale",
+      "quote": "Writer-director Paloma Schneideman’s wonderful film follows a 14-year-old in 2006 who pretends to be someone else in a chat room, with real-world consequences Get our weekend culture and lifestyle email All…",
+      "publisher": "The Guardian",
+      "author": "Luke Buckmaster",
+      "date": "2026-10-08T02:23:47+00:00",
+      "link": "https://www.theguardian.com/film/2026/oct/08/new-zealand-movie-teenager-chat-room-big-girls-dont-cry-review",
+      "image": "https://i.guim.co.uk/img/media/17888c99855984da45f55d18b11a51082dbaa2c9/328_0_2500_2001/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=466932274214e255977ca0916871ecae",
       "category": "World Cinema"
     },
     {
-      "id": "47aaa5e0c0c7f1a5",
-      "title": "Skydance Film Bosses Dana Goldberg & Josh Greenstein & The Warner Bros To-Do List: Pics That Are Ready, In The Works Or On Fire",
-      "quote": "Heavy hang the heads who wear the crowns, and that goes for Skydance Pictures Co-Chairs Dana Goldberg and Josh Greenstein, who’ll be tasked with getting under the hood and tuning up the incoming Warner Bros. theatrical…",
-      "publisher": "Deadline",
-      "author": "Anthonypauldalessandro",
-      "date": "2026-10-08T02:28:48+00:00",
-      "link": "https://deadline.com/2026/10/skydance-warner-bros-films-in-works-1237149497/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/Josh-Greenstein-Dana-Goldberg-Paramount-Warner-Bros.jpg",
-      "category": "World Cinema"
+      "id": "38bbdaac06e5ee75",
+      "title": "Wicker producers call internet's extremely horny bluff with \"one night only\" 4DX screening",
+      "quote": "On October 28, fans who begged to get an \"immersive\" version of Alexander Skarsgård and Olivia Colman's fantastical sex comedy are in luck.",
+      "publisher": "The A.V. Club",
+      "author": "William Hughes",
+      "date": "2026-10-08T02:06:26+00:00",
+      "link": "https://www.avclub.com/wicker-producers-call-horny-bluff-4dx-screening",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/10/08/wicker-feature.jpg",
+      "category": "Indie Gems"
     },
     {
-      "id": "4d7ff145e52f8b78",
-      "title": "How ‘Chicago Fire’ Star Dermot Mulroney Exits Series",
-      "quote": "The following reveals major plot points from tonight’s Chicago Fire Season 15 premiere. NBC’s Chicago Fire returned tonight with its fifteenth-season premiere, picking up after an intense Season 14 finale that left most…",
-      "publisher": "Deadline",
-      "author": "Rosy Cordero",
-      "date": "2026-10-08T02:13:20+00:00",
-      "link": "https://deadline.com/2026/10/chicago-fire-star-dermot-mulroney-exit-series-1237148817/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/NUP_211437_01278-1.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "d439d2c3986ae991",
-      "title": "‘Beyond The Spider-Verse’ Director Bob Persichetti On “Limitless” Fan Expectations And “Never Saying No”",
-      "quote": "Bob Persichetti, a director of Spider-Man: Beyond the Spider-Verse, concedes that the audience bar is rising ahead of the third outing in the Oscar-decorated blockbuster franchise. “Expectations are kind of limitless…",
-      "publisher": "Deadline",
-      "author": "Dade Hayes",
-      "date": "2026-10-08T01:10:05+00:00",
-      "link": "https://deadline.com/2026/10/spider-man-beyond-the-spider-verse-sony-pictures-animation-1237149251/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/Kristine-Belson-and-Bob-Persichetti-at-Crunchyroll-Anime-Future-Forum.jpg",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "5f2e7be83d6af9cd",
-      "title": "SiriusXM Reaffirms Commitment To Comics “At Every Stage Of Their Careers,” Says Raw Comedy Decision Predated Maniscalco’s Arrival",
-      "quote": "EXCLUSIVE: SiriusXM has reframed its statement on the viral Raw Dog Comedy debacle amid ongoing fallout with comics online. A spokesperson tells Deadline in an exclusive statement, “SiriusXM has proudly supported the…",
-      "publisher": "Deadline",
-      "author": "Matthewgrobar",
-      "date": "2026-10-07T23:50:03+00:00",
-      "link": "https://deadline.com/2026/10/siriusxm-new-statement-raw-dog-sebastian-maniscalco-1237149547/",
-      "image": "https://deadline.com/wp-content/uploads/2026/04/26-2215-sebastian-maniscalcos-comedy-radio-logo-app_16x9-1.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "ff0b9e618ea48e71",
-      "title": "Warner Bros. TV Boss Channing Dungey Says It Is Time To “Begin A New Chapter” As She Adds Paramount Cable Networks To Portfolio",
-      "quote": "Channing Dungey has officially added new responsibilities and reports to her dance card. Deadline revealed over the weekend that Dungey, formerly Chairman and CEO, Warner Bros. Television Group and US Networks, now also…",
-      "publisher": "Deadline",
-      "author": "Peterdeadline",
-      "date": "2026-10-07T23:49:00+00:00",
-      "link": "https://deadline.com/2026/10/warner-bros-tv-boss-channing-dungey-new-chapter-1237149557/",
-      "image": "https://deadline.com/wp-content/uploads/2024/04/MixCollage-02-Apr-2024-11-03-AM-3226.jpg",
-      "category": "World Cinema"
+      "id": "a95c26d65bf2843f",
+      "title": "Ben Affleck admits he has become an avatar for \"the beleaguered man\"",
+      "quote": "Affleck acknowledged that, once the public decides on your Dunkin'-addicted persona, you have no choice but to embrace it.",
+      "publisher": "The A.V. Club",
+      "author": "William Hughes",
+      "date": "2026-10-08T00:14:49+00:00",
+      "link": "https://www.avclub.com/ben-affleck-admits-he-has-become-an-avatar-for-the-beleaguered-man",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/10/01/affleck-header.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "eadd500ab020779a",
@@ -174,17 +372,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "d848cf83c473b97a",
-      "title": "David Harbour and John Cena to smirk macho-ly, maybe scrap in The Family Disappears",
-      "quote": "Cena and Harbour will team for <i>The Family Disappears</i>, a thriller-comedy (or comedy-thriller, we can't say for sure) from Jonatan Etzler, director of the recent dark comedy <i>Bad Apples</i>.",
-      "publisher": "The A.V. Club",
-      "author": "Jarrod Jones",
-      "date": "2026-10-07T19:34:10+00:00",
-      "link": "https://www.avclub.com/john-cena-david-harbour-team-up-the-family-disappears",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/10/07/cena-harbour-head.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "bbb858bbaa51831c",
       "title": "‘Krux’ Review: A Potently Bleak Portrait of German Village Life at the Bitter End of WWII",
       "quote": "We’re used to films about hope and rejuvenation in the final days of the Second World War, but there’s a more novel perspective to be found in “Krux” — set in an isolated village in northeast Germany, where many of the…",
@@ -194,17 +381,6 @@
       "link": "https://variety.com/2026/film/reviews/krux-review-1236899215/",
       "image": "https://variety.com/wp-content/uploads/2026/10/krux.jpeg",
       "category": "World Cinema"
-    },
-    {
-      "id": "951ad58c4c837e62",
-      "title": "‘Premada Oorali’: This small film has taken the Kannada film industry by storm",
-      "quote": "While the massive success of ‘Premada Oorali’ has breathed new life into theatres in Karnataka’s small towns, it has also left filmmakers hopeful yet puzzled about what kind of stories to tell next",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-07T19:07:37+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/premada-oorali-kannada-movie-premada-oorali-box-office-premada-oorali-movie-review-premada-oorali-ott-release-date/article71553129.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/f6ogol/article71554486.ece/alternates/LANDSCAPE_1200/Premada%20Oorali.JPEG",
-      "category": "Indian Cinema"
     },
     {
       "id": "ac29c198a6d3aa29",
@@ -218,39 +394,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "73f59bdd0e4a3dee",
-      "title": "A bittersweet family drama takes shape in our first look at Britbox's The Cadburys",
-      "quote": "Six-episode period drama <i>The Cadburys</i> traces the rise of the British chocolatier family's confectionery empire.",
-      "publisher": "The A.V. Club",
-      "author": "Dennis Perkins",
-      "date": "2026-10-07T18:35:27+00:00",
-      "link": "https://www.avclub.com/the-cadburys-britbox-limited-series",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/10/07/cadburys-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "ab4f216f079736e9",
-      "title": "Skydance doesn't have time for Barbie 2 questions right now",
-      "quote": "\"Too early to talk about that,\" said Skydance co-CEO and ex-Mattel exec Ynon Kreiz.",
-      "publisher": "The A.V. Club",
-      "author": "Olivia Singh",
-      "date": "2026-10-07T18:03:46+00:00",
-      "link": "https://www.avclub.com/barbie-sequel-update-skydance-co-ceo",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/10/07/barbie-movie-ryan-gosling-and-margot-robbie.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "aeb2e40c01bccb03",
-      "title": "Margaret Qualley leads the refreshingly grown-up romance Love Of Your Life",
-      "quote": "In a genre increasingly dominated by YA adaptations, Love Of Your Life is an enjoyably mature character study led by Margaret Qualley.",
-      "publisher": "The A.V. Club",
-      "author": "Caroline Siede",
-      "date": "2026-10-07T18:00:39+00:00",
-      "link": "https://www.avclub.com/love-of-your-life-review-amazon-margaret-qualley-rachel-morrison-romance-gabriel-basso",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/10/07/love-of-your-life-header.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "654b0ab6ff01c1cf",
       "title": "How Mike Flanagan's Carrie TV Series Sets Up A New Stephen King Universe",
       "quote": "Mike Flanagan's Carrie series makes some big changes from its source material ... and they could pave the way to a Stephen King TV universe.",
@@ -259,17 +402,6 @@
       "date": "2026-10-07T18:00:00+00:00",
       "link": "https://www.slashfilm.com/2280223/mike-flanagan-carrie-tv-series-setup-stephen-king-universe/",
       "image": "https://www.slashfilm.com/img/gallery/how-mike-flanagans-carrie-tv-series-sets-up-a-new-stephen-king-universe/l-intro-1791391997.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "edcd5140c9f89dd4",
-      "title": "The best original movies on Hulu",
-      "quote": "With rom-coms (Palm Springs), documentaries (Minding The Gap), and more, the best original movies on Hulu cover it all.",
-      "publisher": "The A.V. Club",
-      "author": "The A.V. Club",
-      "date": "2026-10-07T18:00:00+00:00",
-      "link": "https://www.avclub.com/best-hulu-original-movies",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/09/06/MixCollage-06-Oct-2026-01-41-PM-1946.jpg",
       "category": "Indie Gems"
     },
     {
@@ -328,15 +460,15 @@
       "category": "Indie Gems"
     },
     {
-      "id": "86de93f1bb684df4",
-      "title": "Carrie TV Series Ending Explained: Every Major Change From Stephen King's Book",
-      "quote": "They're all gonna laugh at you if you don't read our breakdown of the Carrie TV series ending, and what changes it makes from Stephen King's book.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Chris Evangelista)",
-      "date": "2026-10-07T14:52:02+00:00",
-      "link": "https://www.slashfilm.com/2279984/carrie-tv-series-ending-explained-stephen-king-book-changes/",
-      "image": "https://www.slashfilm.com/img/gallery/carrie-tv-series-ending-explained-every-major-change-from-stephen-kings-book/l-intro-1791384446.jpg",
-      "category": "Indie Gems"
+      "id": "a0c39d347d01daa4",
+      "title": "The Uprising review – Paul Greengrass turns revolutionary rage into a Robin Hood origin myth",
+      "quote": "Andrew Garfield’s fictional ploughman joins the historical heroes of the 1381 Peasants’ Revolt in a dirt-caked, docudrama-style film with disconcertingly silly moments Paul Greengrass has in fact already made his…",
+      "publisher": "The Guardian",
+      "author": "Peter Bradshaw",
+      "date": "2026-10-07T14:00:56+00:00",
+      "link": "https://www.theguardian.com/film/2026/oct/07/the-uprising-review-paul-greengrass-andrew-garfield-peasants-revolt",
+      "image": "https://i.guim.co.uk/img/media/16e85a7ba54896b4827c0208665a0effdfec4d7b/691_0_4219_3375/master/4219.jpg?width=140&quality=85&auto=format&fit=max&s=e7898ea3b7e3f7a0e87a6b2dc81586c8",
+      "category": "World Cinema"
     },
     {
       "id": "a32eeaa09526e27e",
@@ -350,28 +482,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "5abc6eaa90863c2a",
-      "title": "Slow Horses Head Writer Explains That Big Character Death In Season 6, Episode 4 [Exclusive]",
-      "quote": "We spoke with the new head writer of Slow Horses Season 6 about that significant character death that happens in the season's fourth episode.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Ben Pearson)",
-      "date": "2026-10-07T14:00:00+00:00",
-      "link": "https://www.slashfilm.com/2277249/slow-horses-season-6-episode-4-coe-death-explained-head-writer/",
-      "image": "https://www.slashfilm.com/img/gallery/slow-horses-head-writer-explains-that-big-character-death-in-season-6-episode-4-exclusive/l-intro-1791210122.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "c694b7516fb4704b",
-      "title": "Slow Horses Season 6 Just Killed Off One Of The Show's Best Characters",
-      "quote": "Fans of the book series probably knew this was coming, but Slow Horses Season 6 just killed off one of the show's best characters.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-10-07T13:51:19+00:00",
-      "link": "https://www.slashfilm.com/2279867/slow-horses-season-6-best-character-jk-coe-death-explained/",
-      "image": "https://www.slashfilm.com/img/gallery/slow-horses-season-6-just-killed-off-one-of-the-shows-best-characters/l-intro-1791380626.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "22867ba3d544040e",
       "title": "Will the Zuckerberg, Musk and Altman movies make a dent on tech giant evangelism?",
       "quote": "The triple release of The Social Reckoning, Musk and Artificial is less a clear political stance, more like movie studio opportunism Hollywood is sending a clear message: it’s a friend of tech. Netflix is no longer a…",
@@ -381,17 +491,6 @@
       "link": "https://www.theguardian.com/film/2026/oct/07/the-social-reckoning-musk-and-artificial-zuckerberg-musk-and-altman-movies-tech",
       "image": "https://i.guim.co.uk/img/media/5644909e9a17646960a38921aee6a8502993ccc6/458_0_2500_2001/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=24d822e25165389649f5669bac47bd3f",
       "category": "World Cinema"
-    },
-    {
-      "id": "f539d7d595ec3885",
-      "title": "‘Titans’ trailer: Jayasurya and Vinayakan reunite after ‘Aadu 3’ for another fun fantasy ride",
-      "quote": "The film, directed by Prince Joy and written by James Sebastian, also stars Baby Jean, Nihal, Sunny Wayne, Indrans and Suresh Krishna",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-07T13:37:13+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/titans-trailer-jayasurya-vinayakan-aadu-3-prince-joy-malayalam-movie/article71555548.ece",
-      "image": "https://th-i.thgim.com/public/incoming/xaq2ko/article71555566.ece/alternates/LANDSCAPE_1200/Titans.jpg",
-      "category": "Indian Cinema"
     },
     {
       "id": "c29b7edcb8c7782f",
@@ -438,17 +537,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "aa12de976e81ce10",
-      "title": "Richa Chadha on her travel show ‘Musafiri’: I wanted to reacquaint people with their cities",
-      "quote": "Richa Chadha opens up about her non-fiction travel show, ‘Musafiri’, her decision to explore Mumbai in the first season, and how being a mother changed her perspective",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-07T11:44:30+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/richa-chadha-on-her-travel-show-musafiri-i-wanted-to-reacquaint-people-with-their-cities/article71554433.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/9p0xib/article71554456.ece/alternates/LANDSCAPE_1200/Richa%20Chadha",
-      "category": "Indian Cinema"
-    },
-    {
       "id": "f8e4319c2f6a87a8",
       "title": "Post your questions for Celia Imrie",
       "quote": "From Miss Babs in Acorn Antiques to Calendar Girls, The Best Exotic Marigold Hotel and her infamous appearance on The Celebrity Traitors, it’s hard to know where to begin Celia Imrie has had such a varied career, it’s…",
@@ -458,50 +546,6 @@
       "link": "https://www.theguardian.com/culture/2026/oct/07/post-your-questions-for-celia-imrie",
       "image": "https://i.guim.co.uk/img/media/3939c4c7e92a3666f26ab32a39f5394089f19ca8/498_0_4980_3984/master/4980.jpg?width=140&quality=85&auto=format&fit=max&s=e11b31ee02b23e700af1b8b8dfb16cac",
       "category": "World Cinema"
-    },
-    {
-      "id": "f9560f24b5de4ab3",
-      "title": "Bharatbala’s ‘Ramnami’ wins National Award: The story of the Chhattisgarh sect that tattoos ‘Ram’ on their bodies",
-      "quote": "A week after winning the National Award for Best Documentary for his short on the Ramnami community, filmmaker Bharat Bala speaks about his 1,000-film journey across India, and reuniting with AR Rahman after Vande…",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-07T07:09:38+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/bharatbalas-ramnami-wins-national-award-the-story-of-the-chhattisgarh-sect-that-tattoos-ram-on-their-bodies/article71524765.ece",
-      "image": "https://th-i.thgim.com/public/life-and-style/30cclj/article71527085.ece/alternates/LANDSCAPE_1200/FotoJet%204.jpg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "c0c28365bdbe9b76",
-      "title": "‘The Exorcist: Martyrs’ teaser: Scarlett Johansson faces a new kind of evil in Mike Flanagan’s horror reboot",
-      "quote": "The first teaser for Mike Flanagan’s ‘The Exorcist: Martyrs’, starring Scarlett Johansson, has arrived ahead of the full trailer, which is set to debut later this week",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-07T06:09:01+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/the-exorcist-martyrs-teaser-scarlett-johansson-faces-a-new-kind-of-evil-in-mike-flanagans-horror-reboot/article71554498.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/w45pzr/article71554487.ece/alternates/LANDSCAPE_1200/Screenshot%202026-10-07%20113235.png",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "34dbd8f68ccebcbe",
-      "title": "24 Hour Party People review – daring metatextual paean to the Manchester music scene",
-      "quote": "Michael Winterbottom’s freewheeling 2002 film about Tony Wilson, champion of post-punk bands, couldn’t have starred anyone but Steve Coogan Michael Winterbottom’s intriguing, daring, freewheeling movie is being…",
-      "publisher": "The Guardian",
-      "author": "Peter Bradshaw",
-      "date": "2026-10-07T06:00:36+00:00",
-      "link": "https://www.theguardian.com/film/2026/oct/07/24-hour-party-people-review-michael-winterbottom-steve-coogan",
-      "image": "https://i.guim.co.uk/img/media/02a561cba50d2406b0f33d66e4e2565c6e3bfadd/0_11_1727_1380/master/1727.jpg?width=140&quality=85&auto=format&fit=max&s=8898752991c439c345038f43b85e17c0",
-      "category": "World Cinema"
-    },
-    {
-      "id": "83fc60ab68cad745",
-      "title": "Eva Marie Saint, Oscar winner of Hollywood classics, dies at 102",
-      "quote": "Her representative Jeff Sanderson said Saint died of natural causes at home in Los Angeles, surrounded by family and loved ones",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-07T01:15:56+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/eva-marie-saint-oscar-winner-of-hollywood-classics-dies-at-102/article71554093.ece",
-      "image": "https://th-i.thgim.com/public/incoming/1xaww7/article71554090.ece/alternates/LANDSCAPE_1200/Eva_Marie_Saint_85475.jpg",
-      "category": "Festival Winners"
     },
     {
       "id": "4518d89d58010198",
@@ -515,17 +559,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "99fb5d1c9a36061e",
-      "title": "Eva Marie Saint: the Hitchcock Blonde who outgrew the persona",
-      "quote": "Her glacial poise in North By Northwest made her a cinematic icon, but films including On the Waterfront and Loving revealed great subtlety alongside the glamour Eva Marie Saint dies aged 102 Her best films – ranked Her…",
-      "publisher": "The Guardian",
-      "author": "Peter Bradshaw",
-      "date": "2026-10-06T21:51:04+00:00",
-      "link": "https://www.theguardian.com/film/2026/oct/07/eva-marie-saint-death-hitchcock-blonde-north-by-northwest",
-      "image": "https://i.guim.co.uk/img/media/06af424d29f80a3ca435cedb1121f7fc60a10a7d/35_821_2973_2376/master/2973.jpg?width=140&quality=85&auto=format&fit=max&s=e69b892689bfbdabda68b1f6e54b60aa",
-      "category": "World Cinema"
-    },
-    {
       "id": "adda11750028dba2",
       "title": "‘The Table: Day and Night’ Review: Café-Based Korean Romance With Kim Min-ha and Han Sun-hwa Is All Froth, No Kick",
       "quote": "An artisanal café in a quiet yet fashionable Seoul neighborhood provides the setting for a quartet of seasonal vignettes in Kim Jong-kwan’s romantic anthology “The Table: Day and Night.” Opening this year’s Busan Film…",
@@ -534,28 +567,6 @@
       "date": "2026-10-06T21:46:08+00:00",
       "link": "https://variety.com/2026/film/reviews/the-table-day-and-night-review-1236903693/",
       "image": "https://variety.com/wp-content/uploads/2026/08/The-Table-Day-and-Night1.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "9ff3e02fd0f5cc07",
-      "title": "Artificial review – Luca Guadagnino takes on OpenAI in muddled tech satire",
-      "quote": "New York film festival: The origin story of Sam Altman’s company is reimagined as a campy comedy starring Andrew Garfield On the day that Luca Guadagnino ’s film about Sam Altman and OpenAI premiered, Vanity Fair…",
-      "publisher": "The Guardian",
-      "author": "Owen Myers",
-      "date": "2026-10-06T16:58:15+00:00",
-      "link": "https://www.theguardian.com/film/2026/oct/06/artificial-sam-altman-ai-movie-review",
-      "image": "https://i.guim.co.uk/img/media/c5fe55c10e9da0c76467aa89bcec10ee4cb195a6/600_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=3818df75be56f0592d22cb50d5215241",
-      "category": "World Cinema"
-    },
-    {
-      "id": "07877d6de18d71fe",
-      "title": "V/H/S/Mixtape review – murderous puppets pull the strings in mixed bag of gory music-themed mini-movies",
-      "quote": "Metal band Gwar host this instalment of the horror series, which serves up darkly humorous movie morsels that would struggle to frighten a toddler The latest in the long-running horror-feature series is, as per usual, a…",
-      "publisher": "The Guardian",
-      "author": "Leslie Felperin",
-      "date": "2026-10-06T13:00:14+00:00",
-      "link": "https://www.theguardian.com/film/2026/oct/06/vhsmixtape-review-murderous-puppets-pull-the-strings-in-mixed-bag-of-gory-music-themed-mini-movies",
-      "image": "https://i.guim.co.uk/img/media/6e8e740150f7c9e57a222c456dcb085a613745de/21_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=b2717787a8480c9779041fa38faca4f6",
       "category": "World Cinema"
     },
     {
@@ -787,17 +798,6 @@
       "date": "2026-09-30T11:00:00+00:00",
       "link": "https://www.bbc.com/culture/article/20260318-the-best-podcasts-of-2026?ocid=global_culture_rss",
       "image": "https://ychef.files.bbci.co.uk/144x81/p0pd1v5r.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "adbcb64a76f6a461",
-      "title": "Tom Cruise takes the 'biggest risk of his career'",
-      "quote": "It's \"the weirdest film he's ever made\"",
-      "publisher": "BBC Culture",
-      "author": null,
-      "date": "2026-09-29T17:00:00+00:00",
-      "link": "https://www.bbc.com/culture/article/20260929-digger-review?ocid=global_culture_rss",
-      "image": "https://ychef.files.bbci.co.uk/144x81/p0pd1hcq.jpg",
       "category": "World Cinema"
     },
     {
