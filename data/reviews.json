@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T22:58:04.115913+00:00",
+  "generated_at": "2026-10-08T05:39:48.133160+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -9,58 +9,124 @@
   ],
   "reviews": [
     {
-      "id": "8605cf9225d02bf7",
-      "title": "‘Ted Lasso’: Brendan Hunt Breaks Down Season 4 Finale, “Passing The Torch” Moment, Coaching Team Shakeup & Who May Be Leaving Amid Renewal Buzz",
-      "quote": "SPOILER ALERT: The story includes details about the Season 4 finale of Apple TV’s Ted Lasso, titled “Being Alive.” If you thought the penultimate episode of Ted Lasso was packed with Mae’s shocking death, Keeley’s (Juno…",
+      "id": "0bee03e08b5dcddd",
+      "title": "Live updates: Leaders, film fraternity mourn Nana Patekar's death",
+      "quote": "Veteran Actor Nana Patekar passed away at his Goa residence during the early hours of Thursday.",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-08T05:34:51+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/nana-patekar-death-live-updates-family-bollywood-film-industry-condolences-tributes-funeral-rites/article71558310.ece",
+      "image": null,
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "0f21f476a20c57a6",
+      "title": "Alfonso Cuarón & Jonás Cuarón On Future Of Cinema: “The Theatrical Experience Will Continue, But It Will Co-Exist With Many Different Forms”",
+      "quote": "Alfonso Cuarón and Jonás Cuarón shared their thoughts on the future of the theatrical experience, teased a few details of upcoming projects and discussed Korean cinema during their first visit to Busan International…",
       "publisher": "Deadline",
-      "author": "Nellie Andreeva",
-      "date": "2026-10-07T22:41:01+00:00",
-      "link": "https://deadline.com/2026/10/ted-lasso-season-4-ending-explained-brendan-hunt-1237149060/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/Ted_Lasso_Photo_041001.jpg",
+      "author": "Liz Shackleton",
+      "date": "2026-10-08T05:27:09+00:00",
+      "link": "https://deadline.com/2026/10/alfonso-cuaron-jonas-cuaron-gravity-campeon-gabacho-busan-1237149661/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/Alfonso-Cuaron.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "f22d5d90c6ae7265",
+      "title": "Actor Nana Patekar passes away at 75",
+      "quote": "Mr. Patekar was brought to a private hospital after he was found unconscious at his apartment in Dona Paula, near Goa’s Panaji region",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-08T05:10:43+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/nana-patekar-dies-at-75-goa-heart-attack/article71558236.ece",
+      "image": "https://th-i.thgim.com/public/incoming/41liup/article71558301.ece/alternates/LANDSCAPE_1200/PTI10_08_2026_000004A.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "f429af002bd5392d",
+      "title": "Doha Film Festival Unveils 2026 International Feature Competition Lineup",
+      "quote": "Qatar’s Doha Film Festival (DFF) has unveiled the International Feature Film Competition lineup for its second edition which is due to take place this November. The fifteen titles include Hosam Abu Dan’s Gaza-shot drama…",
+      "publisher": "Deadline",
+      "author": "Melanie Goodfellow",
+      "date": "2026-10-08T05:00:00+00:00",
+      "link": "https://deadline.com/2026/10/doha-film-festival-2026-international-feature-competition-1237149486/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/MixCollage-07-Oct-2026-11-18-PM-6417.jpg",
       "category": "World Cinema"
     },
     {
-      "id": "932ea491cd1dc35c",
-      "title": "London Film Festival Opens With Passionate ‘Elsinore’ Homecoming Screening",
-      "quote": "The 2026 BFI London Film Festival opened Wednesday evening with a passionate homecoming screening of Simon Stone’s buzzy awards season frontrunner Elsinore, starring Andrew Scott. Stone was present at the screening with…",
-      "publisher": "Deadline",
-      "author": "Zac Ntim",
-      "date": "2026-10-07T21:50:06+00:00",
-      "link": "https://deadline.com/2026/10/london-film-festival-elsinore-homecoming-screening-opening-1237147810/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/GettyImages-2299096702.jpg",
-      "category": "World Cinema"
+      "id": "221506893dd5bb0c",
+      "title": "Samuel L. Jackson Confirms His Next Marvel Movie As Nick Fury (It's Not Doomsday)",
+      "quote": "In an interview, Nick Fury actor Samuel L. Jackson revealed when his character will be making his big-screen return to the Marvel Cinematic Universe.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Witney Seibold)",
+      "date": "2026-10-08T02:35:51+00:00",
+      "link": "https://www.slashfilm.com/2280814/samuel-l-jackson-next-marvel-movie-nick-fury-avengers-secret-wars/",
+      "image": "https://www.slashfilm.com/img/gallery/samuel-l-jackson-confirms-his-next-marvel-movie-as-nick-fury-its-not-doomsday/l-intro-1791426938.jpg",
+      "category": "Indie Gems"
     },
     {
-      "id": "86bf5bb00ce95c19",
-      "title": "Vertical Wraps Up Domestic On Alex Moffat & Julia Stiles Comedy ‘Unbearable Christmas’",
-      "quote": "EXCLUSIVE: Vertical will be having an Unbearable Christmas this holiday season, specifically the comedy starring SNL alum Alex Moffat, Julia Stiles, Caroline Rhea, Mena Suvari and Emmy Award winner Stephen Root (Widow’s…",
-      "publisher": "Deadline",
-      "author": "Anthonypauldalessandro",
-      "date": "2026-10-07T21:48:45+00:00",
-      "link": "https://deadline.com/2026/10/alex-moffat-julia-stile-unbearable-christmas-1237149470/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/706A3428.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "e430eae8a299041a",
-      "title": "‘Carrie’s Matthew Lillard & Amber Midthunder On How The “Catastrophic” Finale Deviates From The Book: “It’s Part Of The Tragedy”",
-      "quote": "SPOILERS: This post contains details about the Season 1 finale of Prime Video’s Carrie As Mike Flanagan leaves another mark on the Stephen King onscreen universe with Prime Video’s Carrie, Matthew Lillard and Amber…",
+      "id": "7b58618a2d36f104",
+      "title": "‘Obsession’s Michael Johnston Teases “Incredible Queer” Project With “Steamy Moment”",
+      "quote": "Coming off his breakout role this year, Michael Johnston is teasing what’s next. The Obsession star, who is openly gay, recently teased an upcoming role in “a really incredibly queer story,” which includes a “steamy…",
       "publisher": "Deadline",
       "author": "Glenn Garner",
-      "date": "2026-10-07T21:34:54+00:00",
-      "link": "https://deadline.com/2026/10/carrie-matthew-lillard-amber-midthunder-catastrophic-finale-1237149241/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/CARR_S1_UT_250724_FALROB_00059RC_f_3000.jpg",
+      "date": "2026-10-08T02:31:35+00:00",
+      "link": "https://deadline.com/2026/10/michael-johnston-teases-incredible-queer-project-1237149628/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/GettyImages-2295790980.jpg",
       "category": "World Cinema"
     },
     {
-      "id": "55c0e8784bacb45e",
-      "title": "‘You Can See Everything’: Elizabeth Holmes Docu Presales At Alamo Drafthouse A Record For A24 Film & No. 2 Behind ‘Avengers: Doomsday’",
-      "quote": "EXCLUSIVE: You Can See Everything, A24’s documentary about fallen Theranos founder Elizabeth Holmes and her days before going to federal prison, is a hot ticket at Alamo Drafthouse. So hot that presales for the doc…",
+      "id": "47aaa5e0c0c7f1a5",
+      "title": "Skydance Film Bosses Dana Goldberg & Josh Greenstein & The Warner Bros To-Do List: Pics That Are Ready, In The Works Or On Fire",
+      "quote": "Heavy hang the heads who wear the crowns, and that goes for Skydance Pictures Co-Chairs Dana Goldberg and Josh Greenstein, who’ll be tasked with getting under the hood and tuning up the incoming Warner Bros. theatrical…",
       "publisher": "Deadline",
       "author": "Anthonypauldalessandro",
-      "date": "2026-10-07T21:28:26+00:00",
-      "link": "https://deadline.com/2026/10/you-can-see-everything-avengers-doomsday-presales-alamo-1237149411/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/You-Can-See-Everything.jpg",
+      "date": "2026-10-08T02:28:48+00:00",
+      "link": "https://deadline.com/2026/10/skydance-warner-bros-films-in-works-1237149497/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/Josh-Greenstein-Dana-Goldberg-Paramount-Warner-Bros.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "4d7ff145e52f8b78",
+      "title": "How ‘Chicago Fire’ Star Dermot Mulroney Exits Series",
+      "quote": "The following reveals major plot points from tonight’s Chicago Fire Season 15 premiere. NBC’s Chicago Fire returned tonight with its fifteenth-season premiere, picking up after an intense Season 14 finale that left most…",
+      "publisher": "Deadline",
+      "author": "Rosy Cordero",
+      "date": "2026-10-08T02:13:20+00:00",
+      "link": "https://deadline.com/2026/10/chicago-fire-star-dermot-mulroney-exit-series-1237148817/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/NUP_211437_01278-1.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "d439d2c3986ae991",
+      "title": "‘Beyond The Spider-Verse’ Director Bob Persichetti On “Limitless” Fan Expectations And “Never Saying No”",
+      "quote": "Bob Persichetti, a director of Spider-Man: Beyond the Spider-Verse, concedes that the audience bar is rising ahead of the third outing in the Oscar-decorated blockbuster franchise. “Expectations are kind of limitless…",
+      "publisher": "Deadline",
+      "author": "Dade Hayes",
+      "date": "2026-10-08T01:10:05+00:00",
+      "link": "https://deadline.com/2026/10/spider-man-beyond-the-spider-verse-sony-pictures-animation-1237149251/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/Kristine-Belson-and-Bob-Persichetti-at-Crunchyroll-Anime-Future-Forum.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "5f2e7be83d6af9cd",
+      "title": "SiriusXM Reaffirms Commitment To Comics “At Every Stage Of Their Careers,” Says Raw Comedy Decision Predated Maniscalco’s Arrival",
+      "quote": "EXCLUSIVE: SiriusXM has reframed its statement on the viral Raw Dog Comedy debacle amid ongoing fallout with comics online. A spokesperson tells Deadline in an exclusive statement, “SiriusXM has proudly supported the…",
+      "publisher": "Deadline",
+      "author": "Matthewgrobar",
+      "date": "2026-10-07T23:50:03+00:00",
+      "link": "https://deadline.com/2026/10/siriusxm-new-statement-raw-dog-sebastian-maniscalco-1237149547/",
+      "image": "https://deadline.com/wp-content/uploads/2026/04/26-2215-sebastian-maniscalcos-comedy-radio-logo-app_16x9-1.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "ff0b9e618ea48e71",
+      "title": "Warner Bros. TV Boss Channing Dungey Says It Is Time To “Begin A New Chapter” As She Adds Paramount Cable Networks To Portfolio",
+      "quote": "Channing Dungey has officially added new responsibilities and reports to her dance card. Deadline revealed over the weekend that Dungey, formerly Chairman and CEO, Warner Bros. Television Group and US Networks, now also…",
+      "publisher": "Deadline",
+      "author": "Peterdeadline",
+      "date": "2026-10-07T23:49:00+00:00",
+      "link": "https://deadline.com/2026/10/warner-bros-tv-boss-channing-dungey-new-chapter-1237149557/",
+      "image": "https://deadline.com/wp-content/uploads/2024/04/MixCollage-02-Apr-2024-11-03-AM-3226.jpg",
       "category": "World Cinema"
     },
     {
@@ -75,17 +141,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "9744018cb0e483cd",
-      "title": "Get Your Wings, Again: Aerosmith Sets Pair Of Comeback Concerts At Hollywood Bowl",
-      "quote": "Just as so many big-name rock acts are on farewell tours, at least one is making a live comeback. Ending what was billed as a permanent vacation from the concert stage, Aerosmith on Wednesday announced a pair of shows…",
-      "publisher": "Deadline",
-      "author": "Erik Pedersen",
-      "date": "2026-10-07T21:02:54+00:00",
-      "link": "https://deadline.com/2026/10/aerosmith-comeback-concerts-hollywood-bowl-1237149373/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/Aerosmith-2026.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "fb4c2cc1c468eb4a",
       "title": "Sebastian Stan hasn't seen Doomsday but is guessing it's sad",
       "quote": "The Bucky Barnes actor said that the movie is probably going to be \"heartbreaking.\"",
@@ -95,28 +150,6 @@
       "link": "https://www.avclub.com/sebastian-stan-doomsday-heartbreaking",
       "image": "https://www.avclub.com/wp-content/uploads/2026/10/07/thunderbolts-sebastian-stan-bucky-featured.jpg",
       "category": "Indie Gems"
-    },
-    {
-      "id": "5b9eaffe983b10aa",
-      "title": "In New Book, Joe Biden’s National Security Aide Brett McGurk Describes Jeffrey Katzenberg & Steven Spielberg Advising POTUS On Major Gaza Speech",
-      "quote": "Brett McGurk’s new book Brink: Inside the Race to Free the October 7th Hostages offers an insider account of the diplomatic rollercoaster to secure a ceasefire and hostage release in the war in Gaza. The book, published…",
-      "publisher": "Deadline",
-      "author": "Ted Johnson",
-      "date": "2026-10-07T20:53:59+00:00",
-      "link": "https://deadline.com/2026/10/steven-spielberg-jeffrey-katzenberg-biden-speech-1237149356/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/GettyImages-2155455689.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "6264f260b95ea36e",
-      "title": "Hulu Legal Drama ‘Conviction’ Casts Michael Gaston, F. Murray Abraham & Peter Friedman",
-      "quote": "EXCLUSIVE: Michael Gaston (The Leftovers, The Waterfront), F. Murray Abraham (The White Lotus, Homeland) and Peter Friedman (Succession, The Affair) have joined the recurring cast of Conviction, the Hulu drama series…",
-      "publisher": "Deadline",
-      "author": "Rosy Cordero",
-      "date": "2026-10-07T20:53:28+00:00",
-      "link": "https://deadline.com/2026/10/hulu-series-conviction-cast-michael-gaston-f-murray-abraham-1237148794/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/shorts-pick-n-mix-2025-tribeca-festival-1500x845-1.jpg",
-      "category": "World Cinema"
     },
     {
       "id": "33d3d7bb1de63de5",
@@ -405,17 +438,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "b86c4b988c13c359",
-      "title": "The Social Reckoning Review: Aaron Sorkin's Facebook Follow-Up Film Falls Flat",
-      "quote": "Aaron Sorkin's sort-of Social Network sequel The Social Reckoning is underwhelming and surprisingly bland. Here's our review.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Chris Evangelista)",
-      "date": "2026-10-07T13:00:00+00:00",
-      "link": "https://www.slashfilm.com/2278695/the-social-reckoning-review/",
-      "image": "https://www.slashfilm.com/img/gallery/the-social-reckoning-review/l-intro-1791388834.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "aa12de976e81ce10",
       "title": "Richa Chadha on her travel show ‘Musafiri’: I wanted to reacquaint people with their cities",
       "quote": "Richa Chadha opens up about her non-fiction travel show, ‘Musafiri’, her decision to explore Mumbai in the first season, and how being a mother changed her perspective",
@@ -482,17 +504,6 @@
       "category": "Festival Winners"
     },
     {
-      "id": "c9a52f723a9a604b",
-      "title": "Malayalam short film ‘Lighter’ marks the directorial debut of composer-actor Sooraj S Kurup",
-      "quote": "Lighter is a horror thriller about two friends who go out to grab a drink at night only to end up in a trap",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-06T23:10:52+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/composer-actor-sooraj-s-kurup-direct-malayalam-short-film-lighter/article71548066.ece",
-      "image": "https://th-i.thgim.com/public/incoming/u4i51u/article71552002.ece/alternates/LANDSCAPE_1200/06tvm%20lighter3.jpg",
-      "category": "Indian Cinema"
-    },
-    {
       "id": "4518d89d58010198",
       "title": "‘The Trial of Alec Baldwin’ Review: Rory Kennedy’s Bold but Blinkered Doc Centers the Movie Star in the ‘Rust’ Tragedy, Nearly Erasing Halyna Hutchins",
       "quote": "Baldwin gave extensive access to a documentary crew as his trial relating to the death of Hutchins on the set of 'Rust' approached.",
@@ -535,17 +546,6 @@
       "link": "https://www.theguardian.com/film/2026/oct/06/artificial-sam-altman-ai-movie-review",
       "image": "https://i.guim.co.uk/img/media/c5fe55c10e9da0c76467aa89bcec10ee4cb195a6/600_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=3818df75be56f0592d22cb50d5215241",
       "category": "World Cinema"
-    },
-    {
-      "id": "86e0c2ea28c818e3",
-      "title": "‘Lanterns’ series review: Kyle Chandler and Aaron Pierre overcome the fears of greening out",
-      "quote": "In slickest HBO, of grittiest sight, ‘Lanterns’ chases ‘Watchmen’ and misses by a bite; if the writing struggles to make eight episodes feel tight, Kyle Chandler and Aaron Pierre still make the wrongs feel right",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-06T14:19:49+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/lanterns-series-review-kyle-chandler-and-aaron-pierre-overcome-the-fears-of-greening-out/article71551850.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/l3q9gq/article71551983.ece/alternates/LANDSCAPE_1200/kyle-chandler-aaron-pierre-lanterns-3-293f525a1f4c4cf588dc850cf7e127b0.jpg",
-      "category": "Indian Cinema"
     },
     {
       "id": "07877d6de18d71fe",
