@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T22:30:35.550555+00:00",
+  "generated_at": "2026-10-10T05:27:26.542512+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -8,6 +8,138 @@
     "Indie Gems"
   ],
   "reviews": [
+    {
+      "id": "837a3ee0d90cc722",
+      "title": "Aamir Khan Productions launches open mic platform to showcase grassroots artists",
+      "quote": "The initiative has been launched under the production house's channel Aamir Khan Talkies in collaboration with Kommune, a platform for spoken word and storytelling.",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-10T05:25:15+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/aamir-khan-productions-launches-open-mic-platform-to-showcase-grassroots-artists/article71567158.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/nrhjwl/article71567163.ece/alternates/LANDSCAPE_1200/Aamir%20Khan",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "dce056ab2f61ac4c",
+      "title": "The other Nana Patekar: A life shaped by classical music",
+      "quote": "When the arc lights dimmed, Nana Patekar retreated into a world of raags, poetry and enduring artistic friendships.",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-10T04:10:53+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/the-other-nana-patekar-a-life-shaped-by-classical-music/article71563975.ece",
+      "image": "https://th-i.thgim.com/public/incoming/ly7w8b/article71565034.ece/alternates/LANDSCAPE_1200/nana%20patekar1.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "f32274f1ad3678a3",
+      "title": "Actor Nana Patekar (1951-2026): His iconic performances, awards and legacy",
+      "quote": "The Hindu’s coverage on the three-time national award winning actor",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-10T03:55:28+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/actor-nana-patekar-iconic-performances-awards-legacy/article71558290.ece",
+      "image": "https://th-i.thgim.com/public/incoming/4naku3/article71558642.ece/alternates/LANDSCAPE_1200/NDBL-07-06-02-16.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "272387d14690e958",
+      "title": "Craig Zobel & Blumhouse Teaming On ‘Something Is Killing The Children’",
+      "quote": "Craig Zobel, a director known for his work on such prestige series as Mare of Easttown and The Penguin, is set to direct a feature adaptation of Something Is Killing the Children, the popular comic book series from…",
+      "publisher": "Deadline",
+      "author": "Matthewgrobar",
+      "date": "2026-10-10T01:05:22+00:00",
+      "link": "https://deadline.com/2026/10/something-is-killing-the-children-movie-craig-zobel-blumhouse-1237153820/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/drinking-buddies-brooklyn-screening-1000x667-1.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "d6d375d3eb0eddd2",
+      "title": "Danny Trejo Insists He’s “Pro-Immigrant” & “Proud Mexican” Amid Backlash To Daily Wire’s ICE Film: “Make No Mistake”",
+      "quote": "Danny Trejo has broken his silence amid backlash around his role in Daily Wire’s latest controversial production, Pawn Shop. On Friday, the LA-born Mexican-American actor insisted he’s “pro-immigrant,” despite his…",
+      "publisher": "Deadline",
+      "author": "Glenn Garner",
+      "date": "2026-10-10T01:02:52+00:00",
+      "link": "https://deadline.com/2026/10/danny-trejo-pro-immigrant-backlash-daily-wire-ice-film-1237153821/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/Danny-Trejo-Pawn-Shop.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "3387a79ab2df1e4f",
+      "title": "‘14th’ Review: Ava DuVernay’s Powerful Sequel to ‘13th’ Turns a Constitutional Amendment into Living History",
+      "quote": "The movie, I’m pleased to report, exerts the same kind of historical/topical force that \"13th\" did. DuVernay, while she works in an extremely accessible and mainstream way, has a singular gift for making the nuances of…",
+      "publisher": "Variety",
+      "author": "Owen Gleiberman",
+      "date": "2026-10-10T01:00:00+00:00",
+      "link": "https://variety.com/2026/film/reviews/14th-review-ava-duvernay-nyff-1236904880/",
+      "image": "https://variety.com/wp-content/uploads/2026/07/B0002289.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "8922089ba14c1a40",
+      "title": "‘14th’ Review: Ava DuVernay Delivers Another Essential and Compelling Constitutional Deep Dive for Netflix",
+      "quote": "Premiering at the New York Film Festival, the filmmaker's follow-up to her '13th' tackles birthright citizenship, the Equal Protection Clause and the undoing of the gains of Reconstruction.",
+      "publisher": "The Hollywood Reporter",
+      "author": "Daniel Fienberg",
+      "date": "2026-10-10T01:00:00+00:00",
+      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/14th-review-ava-duvernay-netflix-documentary-1236726558/",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "35edfbe9cd5aa755",
+      "title": "‘14th’ Review: Ava DuVernay’s Impassioned Defense Of Constitution Takes Aim At Trump & Attempted Rescission Of Rights",
+      "quote": "14th, the documentary directed by Ava DuVernay that premiered Friday night as the closing-night film of the New York Film Festival, begins with several American presidents taking the oath of office: FDR, Eisenhower…",
+      "publisher": "Deadline",
+      "author": "Matthew Carey",
+      "date": "2026-10-10T01:00:00+00:00",
+      "link": "https://deadline.com/2026/10/14th-review-ava-duvernay-documentary-1237153748/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/14th-still.png",
+      "category": "World Cinema"
+    },
+    {
+      "id": "1c7b525e1bc14424",
+      "title": "Matthew “MatPat” Patrick Adapting ‘Amanda the Adventurer’ Video Game For Blumhouse",
+      "quote": "Blumhouse is diving into another horror video game, announcing an Amanda the Adventurer adaptation. On Friday, Jason Blum announced BlumFest moderator Matthew “MatPat” Patrick is developing a feature adaptation of the…",
+      "publisher": "Deadline",
+      "author": "Glenn Garner",
+      "date": "2026-10-10T00:16:08+00:00",
+      "link": "https://deadline.com/2026/10/matthew-matpat-patrick-adapting-amanda-the-adventurer-blumhouse-1237153794/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/Amanda-the-Adventurer-Matthew-MatPat-Patrick-2-shot.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "519608d3742dabbe",
+      "title": "‘The Exorcist: Martyrs’ Trailer: Scarlett Johansson Hunts A Demonic Killer In Mike Flanagan’s Take On Horror Classic",
+      "quote": "As The Exorcist makes its way back to theaters, a first look at Mike Flanagan’s new chilling take on the horror classic has been unveiled. On Friday, Blumhouse released the first trailer for The Exorcist: Martyrs, which…",
+      "publisher": "Deadline",
+      "author": "Glenn Garner",
+      "date": "2026-10-09T23:04:23+00:00",
+      "link": "https://deadline.com/2026/10/the-exorcist-martyrs-trailer-scarlett-johansson-mike-flanagan-1237153746/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/Screenshot-2026-10-09-at-3.52.51-PM.png",
+      "category": "World Cinema"
+    },
+    {
+      "id": "60bcf07f29d83ae4",
+      "title": "ACFM Chief Ellen YD Kim Talks AI Development; Korean Recovery; Market Spotlights On Thailand & Japan",
+      "quote": "Asian Contents & Film Market (ACFM), the industry platform of Busan International Film Festival, launched three new programs last year, which are starting to yield results as they move into their second edition. Among…",
+      "publisher": "Deadline",
+      "author": "Liz Shackleton",
+      "date": "2026-10-09T23:00:00+00:00",
+      "link": "https://deadline.com/2026/10/busan-acfm-ellen-yd-kim-ai-korea-thailand-japan-1237150757/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/ACFM-Ellen-Kim.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "89d85f45f930b5df",
+      "title": "Scarlett Johansson Stars In The Surprising First Trailer For The Exorcist: Martyrs",
+      "quote": "Horror filmmaker Mike Flanagan and Scarlett Johansson shout at the devil with the first trailer for The Exorcist: Martyrs, which goes in a surprising direction.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Chris Evangelista)",
+      "date": "2026-10-09T22:48:22+00:00",
+      "link": "https://www.slashfilm.com/2282906/the-exorcist-martyrs-trailer-scarlett-johansson-horror-movie/",
+      "image": "https://www.slashfilm.com/img/gallery/scarlett-johansson-stars-in-the-surprising-first-trailer-for-the-exorcist-martyrs/l-intro-1791586093.jpg",
+      "category": "Indie Gems"
+    },
     {
       "id": "285b1db23ecf48ae",
       "title": "‘9-1-1’ Stunt Problems Back In Spotlight After Oliver Stark & 3 Other Performers Injured On Set",
@@ -22,56 +154,12 @@
     {
       "id": "6d360629c4a01f38",
       "title": "Ella Langley Cancels Tulsa Show Over “Serious Security Threat”",
-      "quote": "Ella Langley has been forced to skip the Tulsa, Oklahoma stop on her Dandelion Tour for the safety of herself and fans. Hours before the chart-topping “Choosin’ Texas” artist was set to take the stage at BOK Center, she…",
+      "quote": "UPDATED with Tulsa PD’s statement: Ella Langley has been forced to skip the Tulsa, Oklahoma stop on her Dandelion Tour for the safety of herself and fans. Hours before the chart-topping “Choosin’ Texas” artist was set…",
       "publisher": "Deadline",
       "author": "Glenn Garner",
       "date": "2026-10-09T22:24:51+00:00",
       "link": "https://deadline.com/2026/10/ella-langley-cancels-tulsa-show-serious-security-threat-1237153723/",
       "image": "https://deadline.com/wp-content/uploads/2026/10/P106E1JI-e1791584306769.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "96216ae67e76a0d2",
-      "title": "‘Stargate’ Series From ‘WandaVision’ Creator Jac Schaeffer In Works At Amazon",
-      "quote": "A new Stargate series is in the works at Amazon MGM Studios. WandaVision creator Jac Schaeffer is developing the series under her overall deal with the studio, sources confirmed to Deadline. Joby Harold and Tory Tunnell…",
-      "publisher": "Deadline",
-      "author": "Denise Petski",
-      "date": "2026-10-09T22:18:48+00:00",
-      "link": "https://deadline.com/2026/10/stargate-series-amazon-wandavision-jac-schaeffer-1237153109/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/Jan-Schaeffer-Stargate.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "6b62e7dce20ec381",
-      "title": "‘Walker’ & ‘Pretty Little Liars’ Actor Keegan Allen Pistol-Whipped And Robbed In West Hollywood",
-      "quote": "Walker and Pretty Little Liars actor Keegan Allen was left bloodied after being robbed at gunpoint and pistol-whipped Thursday in the parking lot of a West Hollywood grocery store. He posted a video of himself after the…",
-      "publisher": "Deadline",
-      "author": "Erik Pedersen",
-      "date": "2026-10-09T22:14:39+00:00",
-      "link": "https://deadline.com/2026/10/keegan-allen-robbed-beaten-1237153553/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/GettyImages-1150229740.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "41bdc4210cc592f4",
-      "title": "Vietnam’s V Studios Seals Multiple Deals On ‘Red Woman’ Including Sales To North America & Japan",
-      "quote": "EXCLUSIVE: V Studios, the Vietnamese production arm of Korean exhibitor CJ CGV, has closed multiple deals on supernatural fantasy Red Woman, including sales to NewGates Corporation for Japan and Mockingbird Pictures for…",
-      "publisher": "Deadline",
-      "author": "Liz Shackleton",
-      "date": "2026-10-09T22:00:00+00:00",
-      "link": "https://deadline.com/2026/10/v-studios-red-woman-minh-hang-1237150751/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/Red-Woman1.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "74dff84122a92a3b",
-      "title": "‘Other Mommy’ On Track To Top Weekend With $27.5M Debut, ‘The Social Reckoning’ Lacks Likes At $6M — Box Office Update",
-      "quote": "FRIDAY PM: Mom is bringing home the bacon. Other Mommy is on track for a $27.5 million opening weekend on 3,365 screens to top the domestic box office. This despite some scathing reviews for the Universal Pictures…",
-      "publisher": "Deadline",
-      "author": "Jillg366",
-      "date": "2026-10-09T22:00:00+00:00",
-      "link": "https://deadline.com/2026/10/box-office-other-mommy-social-reckoning-1237151001/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/Other-Mommy-The-Social-Reckoning-2.jpg",
       "category": "World Cinema"
     },
     {
@@ -86,17 +174,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "0f1ae203e3d9f59c",
-      "title": "Kate Siegel On The Questions Around Her Mysterious ‘Carrie’ Role & Exploring “Feminine Rage” In Her Work; Plus Her Horror Directorial Debut: “A Story Close To My Heart”",
-      "quote": "SPOILERS: This post contains details about the Season 1 finale of Prime Video’s Carrie As Mike Flanagan’s Carrie puts a modern update on the Stephen King classic, Kate Siegel’s mysterious role represents a major twist…",
-      "publisher": "Deadline",
-      "author": "Glenn Garner",
-      "date": "2026-10-09T21:50:09+00:00",
-      "link": "https://deadline.com/2026/10/kate-siegel-mysterious-carrie-role-feminine-rage-directorial-debut-1237151319/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/GettyImages-2297627591.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "b0ed623e31f63219",
       "title": "Francis Ford Coppola will give Megalopolis another try in theaters",
       "quote": "Francis Ford Coppola self-financed passion project only raked in $14 million globally against a $120 million budget during its 2024 release.",
@@ -106,17 +183,6 @@
       "link": "https://www.avclub.com/francis-ford-coppola-megalopolis-back-in-theaters",
       "image": "https://img.pastemagazine.com/wp-content/avuploads/2024/08/23175051/Megalopolis-Feature.jpg",
       "category": "Indie Gems"
-    },
-    {
-      "id": "8c862f9cb7269c2b",
-      "title": "Mike Flanagan Says He Would Want To Make A ‘Jaws’ & ‘Jurassic’ Movie: “Could Be A Blast”",
-      "quote": "Mike Flanagan has his eyes on sharing his take on the Jaws and Jurassic Park universes after his television adaptation of Carrie. In an Ask Me Anything (AMA) on Reddit, Flanagan told fans it “could be a blast” to make a…",
-      "publisher": "Deadline",
-      "author": "Armando Tinoco",
-      "date": "2026-10-09T21:34:08+00:00",
-      "link": "https://deadline.com/2026/10/mike-flanagan-jaws-jurassic-movie-1237153206/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/jaws-amity-island.jpg",
-      "category": "World Cinema"
     },
     {
       "id": "67105a33c728be27",
@@ -262,17 +328,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "dce056ab2f61ac4c",
-      "title": "The other Nana Patekar: A life shaped by classical music",
-      "quote": "When the arc lights dimmed, Nana Patekar retreated into a world of raags, poetry and enduring artistic friendships.",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-09T17:31:06+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/the-other-nana-patekar-a-life-shaped-by-classical-music/article71563975.ece",
-      "image": "https://th-i.thgim.com/public/incoming/ly7w8b/article71565034.ece/alternates/LANDSCAPE_1200/nana%20patekar1.jpg",
-      "category": "Indian Cinema"
-    },
-    {
       "id": "6d314691dca11c96",
       "title": "Slow Horses Star Is Just As Devastated By Their Season 6 Death As Fans Are",
       "quote": "The fourth episode of Apple TV's Slow Horses Season 6 sees the death of a significant character. Now that performer has spoken about their character's demise.",
@@ -284,15 +339,15 @@
       "category": "Indie Gems"
     },
     {
-      "id": "92206501e2f345c1",
-      "title": "How To Watch The 2026 Sci-Fi Movie Hope At Home",
-      "quote": "Na Hong-Jin's science fiction action epic Hope is headed for a digital release this month. Here's how to watch the film at home.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Chris Evangelista)",
-      "date": "2026-10-09T16:43:49+00:00",
-      "link": "https://www.slashfilm.com/2282402/how-watch-hope-2026-sci-fi-movie-home/",
-      "image": "https://www.slashfilm.com/img/gallery/how-to-watch-the-2026-sci-fi-movie-hope-at-home/l-intro-1791564056.jpg",
-      "category": "Indie Gems"
+      "id": "5afcde5d711a877d",
+      "title": "World Without Cows",
+      "quote": "What's the beef with this movie? Mainly that it feels like a long, thoughtful ad for an agriculture company's products, which is kind of is.",
+      "publisher": "RogerEbert.com",
+      "author": "Matt Zoller Seitz",
+      "date": "2026-10-09T16:42:20+00:00",
+      "link": "https://www.rogerebert.com/reviews/world-without-cows-documentary-film-review-2026",
+      "image": null,
+      "category": "World Cinema"
     },
     {
       "id": "4adaf82a48e0f6b5",
@@ -302,7 +357,7 @@
       "author": "Ben Child",
       "date": "2026-10-09T16:25:44+00:00",
       "link": "https://www.theguardian.com/film/2026/oct/09/stark-warning-does-new-footage-in-avengers-endgame-reveal-the-truth-about-doctor-doom",
-      "image": "https://i.guim.co.uk/img/media/67874a5873faee28fb5e16172791f27ad40b9c71/1023_0_3099_2480/master/3099.jpg?width=140&quality=85&auto=format&fit=max&s=070f831344a7f3db2137b5b6e554bc7a",
+      "image": "https://i.guim.co.uk/img/media/67874a5873faee28fb5e16172791f27ad40b9c71/1192_61_3021_2419/master/3021.jpg?width=140&quality=85&auto=format&fit=max&s=c453d83fe83600cbb53444444de27c9b",
       "category": "World Cinema"
     },
     {
@@ -328,6 +383,17 @@
       "category": "World Cinema"
     },
     {
+      "id": "8474c81cef547598",
+      "title": "Treasure Island",
+      "quote": "For such a short miniseries, the sense of seafaring adventure barely leaves harbor.",
+      "publisher": "RogerEbert.com",
+      "author": "Rendy Jones",
+      "date": "2026-10-09T16:00:00+00:00",
+      "link": "https://www.rogerebert.com/reviews/treasure-island-david-oyelowo-mgm-tv-review-2026",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
       "id": "2b2265207bef1a45",
       "title": "Other Mommy review – Jessica Chastain’s demonic double horror isn’t nightmarish enough",
       "quote": "There’s some effectively unnerving imagery and a cleverly icy dual lead performance but this kept-from-critics shocker is a bit of a jumble The buzz surrounding the viral, limb-bending trailer of pre-Halloween horror…",
@@ -336,6 +402,17 @@
       "date": "2026-10-09T15:41:07+00:00",
       "link": "https://www.theguardian.com/film/2026/oct/09/other-mommy-movie-review",
       "image": "https://i.guim.co.uk/img/media/b1113d46802ee423638a7a5d7b023d238f2fdd78/1169_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=4f5c399e2168a83e4cb99448dc9236f3",
+      "category": "World Cinema"
+    },
+    {
+      "id": "ef1995c5622705a0",
+      "title": "Other Mommy",
+      "quote": "Savage and his crew may be on top of everything, but that doesn’t make their latest technical showcase better.",
+      "publisher": "RogerEbert.com",
+      "author": "Simon Abrams",
+      "date": "2026-10-09T15:39:21+00:00",
+      "link": "https://www.rogerebert.com/reviews/other-mommy-jessica-chastain-movie-review-2026",
+      "image": null,
       "category": "World Cinema"
     },
     {
@@ -427,39 +504,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "0ba7b6406f4581af",
-      "title": "V/H/S/Mixtape",
-      "quote": "The worst in the series since 2014's \"Viral.\"",
-      "publisher": "RogerEbert.com",
-      "author": "Brian Tallerico",
-      "date": "2026-10-09T13:00:00+00:00",
-      "link": "https://www.rogerebert.com/reviews/vhs-mixtape-shudder-anthology-movie-review-2026",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "7d4a049d2e736624",
-      "title": "Winter of the Crow",
-      "quote": "This gripping Cold War thriller is buoyed by a remarkable performance from Lesley Manville.",
-      "publisher": "RogerEbert.com",
-      "author": "Robert Daniels",
-      "date": "2026-10-09T13:00:00+00:00",
-      "link": "https://www.rogerebert.com/reviews/winter-of-the-crow-lesley-manville-movie-review-2026",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "be7c2c1b07eb1117",
-      "title": "Musk",
-      "quote": "May be the most important film of the year.",
-      "publisher": "RogerEbert.com",
-      "author": "Nell Minow",
-      "date": "2026-10-09T13:00:00+00:00",
-      "link": "https://www.rogerebert.com/reviews/elon-musk-alex-gibney-hbo-documentary-movie-review-2026",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
       "id": "1537b4397b201795",
       "title": "‘The Social Reckoning’ movie review: Aaron Sorkin can’t optimise the MSIs in his (Meta)stisised Facebook Files slop",
       "quote": "Aaron Sorkin’s Meta-sized misfire of synthetic sermonising fails to hold a candle to the brilliance of its predecessor",
@@ -493,6 +537,17 @@
       "category": "Indian Cinema"
     },
     {
+      "id": "6107156271165dd0",
+      "title": "Teja Sajja on hosting ‘The Traitors Telugu’: I had to be serious, unlike my real personality",
+      "quote": "The ‘Mirai’ and ‘Hanu-Man’ actor says he binge-watched Karan Johar’s Hindi version in two days, studied hosts from five or six countries, and had to stop himself from smiling on set",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-09T11:06:24+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/teja-sajja-on-hosting-the-traitors-telugu-i-had-to-be-serious-unlike-my-real-personality/article71554457.ece",
+      "image": "https://th-i.thgim.com/public/incoming/fb0uk4/article71559014.ece/alternates/LANDSCAPE_1200/teja%20sajja.JPG",
+      "category": "Indian Cinema"
+    },
+    {
       "id": "1f1259e85bd5e0bf",
       "title": "The new Darth Vader: how tech execs became the film villains of our age",
       "quote": "Jeremy Strong’s portrayal of Mark Zuckerberg in The Social Reckoning shows how public opinion has changed around billionaire CEOs since The Social Network’s release When The Social Network came out, Mark Zuckerberg…",
@@ -504,17 +559,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "ac864d220a5c494e",
-      "title": "Team ‘Premada Oorali’ on striking gold at the box office",
-      "quote": "‘Premada Oorali’, a Kannada emotional drama led by Rangayana Raghu and fresh faces Shree Raam, Thapaswini Poonacha, and Ramika Shivu, is driven by director Manoj Kumar’s simple tale and Sunaad Gowtham’s catchy tunes",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-09T11:05:39+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/premada-oorali-interview-box-office-premada-oorali-kannada-movie-premada-oorali-ott-release-rangayana-raghu/article71557275.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/vmz6va/article71563715.ece/alternates/LANDSCAPE_1200/Premada%20Oorali%202.JPEG",
-      "category": "Indian Cinema"
-    },
-    {
       "id": "865da39e714d4ee3",
       "title": "Unsettling new film Artificial amplifies AI fears",
       "quote": "A new film about Open AI and its co-founders has already been controversial",
@@ -524,28 +568,6 @@
       "link": "https://www.bbc.com/culture/article/20261008-ai-fears-are-growing-and-unsettling-new-film-artificial-puts-them-and-the-future-of-humanity-centre-stage?ocid=global_culture_rss",
       "image": "https://ychef.files.bbci.co.uk/144x81/p0pfqn6q.jpg",
       "category": "World Cinema"
-    },
-    {
-      "id": "c9fde32c2aa11cb2",
-      "title": "‘Chaar Yaar’: Prime Video sets release date of upcoming crime-drama series",
-      "quote": "The series stars Purav Jha, Naman Jain, Saqib Ayyub, and Prayrak Mehta, Sai Tamhankar, Sikander Kher, Dibyendu Bhattacharya, Rajesh Tailang, Chunky Panday, and Bhagavathi Perumal",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-09T10:51:21+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/chaar-yaar-prime-video-sets-release-date-of-upcoming-crime-drama-series/article71563681.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/jfixg9/article71563689.ece/alternates/LANDSCAPE_1200/A%20poster%20of%20%E2%80%98Chaar%20Yaar%E2%80%99",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "6b6d807be97b678d",
-      "title": "‘Comrade Kalyan’ movie review: Sree Vishnu’s brain-rot comedy delivers a few good laughs",
-      "quote": "Director Janakiram Marella’s Telugu film is self-aware, and rides on catchy one liners and the strengths of its ensemble cast",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-09T10:38:17+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/comrade-kalyan-movie-review-sree-vishnus-brain-rot-comedy-delivers-a-few-good-laughs/article71563553.ece",
-      "image": "https://th-i.thgim.com/public/incoming/5v03gn/article71563617.ece/alternates/LANDSCAPE_1200/Comrade%20Kalyan.jpg",
-      "category": "Indian Cinema"
     },
     {
       "id": "aea16296e82edb2c",
@@ -680,17 +702,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "c29b7edcb8c7782f",
-      "title": "‘The Social Reckoning’ Review: Aaron Sorkin’s ‘Social Network’ Follow-Up Is Missing More Than Just David Fincher",
-      "quote": "Prior to its 2010 release, a much-held suspicion about “The Social Network” was that it was too soon for a film about Facebook. In a way, it was. At a time when most of us were still avidly adding friends on the…",
-      "publisher": "Variety",
-      "author": "Guy Lodge",
-      "date": "2026-10-07T13:01:09+00:00",
-      "link": "https://variety.com/2026/film/reviews/the-social-reckoning-review-1236904146/",
-      "image": "https://variety.com/wp-content/uploads/2026/10/DF-01240_c_2000x1334_thumbnail1.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "7a686252259d478e",
       "title": "The Social Reckoning review – Aaron Sorkin’s jittery sequel with all-new evil puppet Zuckerberg",
       "quote": "Jeremy Strong’s slow-talking Facebook founder turns into a cameo, background to a thriller about a whistleblower that somehow never mentions Trump Here is a film for all those people who solemnly deplore social media in…",
@@ -754,17 +765,6 @@
       "date": "2026-10-05T11:00:00+00:00",
       "link": "https://www.bbc.com/culture/article/20261002-the-people-evacuated-to-the-uk-from-the-worlds-most-remote-inhabited-island-in-1961?ocid=global_culture_rss",
       "image": "https://ychef.files.bbci.co.uk/144x81/p0pdpdj8.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "2a30d2cc540e96bc",
-      "title": "‘Edward Said: Between Worlds’ Review: A Crucial Palestinian Scholar, Revived for a New Generation",
-      "quote": "The latest doc from the Danish filmmaker and producer Maiken Baird (‘Icarus’) examines Said’s role in reframing the Palestinian struggle.",
-      "publisher": "The Hollywood Reporter",
-      "author": "Lovia Gyarkye",
-      "date": "2026-10-04T16:45:16+00:00",
-      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/edward-said-between-worlds-review-palestine-1236720415/",
-      "image": null,
       "category": "World Cinema"
     },
     {
