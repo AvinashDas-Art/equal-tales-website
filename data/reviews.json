@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T05:33:18.103939+00:00",
+  "generated_at": "2026-10-12T15:05:34.496767+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -9,92 +9,356 @@
   ],
   "reviews": [
     {
-      "id": "81dabbbac13e6fb7",
-      "title": "Buyers Move For German Crime Drama ‘SOKO’ As ZDF Studios Brings Classic & YA Series To Cannes",
-      "quote": "EXCLUSIVE: SOKO remains a big seller internationally, with a raft of buyers snagging the German crime drama. As MIPCOM started in earnest, ZDF Studios shared news of recent international sales with Deadline…",
+      "id": "fa19450c59ddb236",
+      "title": "Netflix’s ‘The Body’ Trailer Sees A Dance Team Party & Initiation Take A Turn",
+      "quote": "The trailer for Netflix’s high school-set horror series The Body, has arrived just in time for spooky season. The show premieres November 11 on Netflix. This raunchy teen psychodrama from creator Quinn Shephard (Not…",
       "publisher": "Deadline",
-      "author": "Stewart Clarke",
-      "date": "2026-10-12T05:30:45+00:00",
-      "link": "https://deadline.com/2026/10/soko-zdf-studios-german-drama-sales-mipcom-high-valley-ya-1237154268/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/SOKO.jpg",
+      "author": "Dessi Gomez",
+      "date": "2026-10-12T15:00:00+00:00",
+      "link": "https://deadline.com/2026/10/the-body-trailer-netfflix-horror-dance-team-party-1237154466/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/The_Body_n_S1_E6_00_00_15_07RC2.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "5de4e50de3dd2283",
+      "title": "Antonio Banderas To Star As Spanish Conquistador Hernán Cortés In Feature From Paul Mignot & Nicholas Kazan",
+      "quote": "Antonio Banderas has signed on to star as Spanish conquistador Hernán Cortés in Cortés, a feature film directed by French filmmaker Paul Mignot from a screenplay by Nicholas Kazan. Production is already underway in…",
+      "publisher": "Deadline",
+      "author": "Zac Ntim",
+      "date": "2026-10-12T15:00:00+00:00",
+      "link": "https://deadline.com/2026/10/antonio-banderas-hernan-cortes-paul-mignot-nicholas-kazan-1237154621/",
+      "image": "https://deadline.com/wp-content/uploads/2026/03/GettyImages-2266030668.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "29079353ecdf7551",
+      "title": "Director Mary Lambert on Audible’s ‘Dracula’: ‘Jonathan Bailey is a Dracula for our age’",
+      "quote": "Mary Lambert, director of the audio adaptation discusses why ‘Dracula’ remains relevant, Jonathan Bailey’s take on the vampire count, and the freedoms and limitations of the medium",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-12T14:50:04+00:00",
+      "link": "https://www.thehindu.com/entertainment/mary-lambert-jonathan-bailey-is-a-dracula-for-our-age/article71574693.ece",
+      "image": "https://th-i.thgim.com/public/incoming/fqzygv/article71574956.ece/alternates/LANDSCAPE_1200/DRACULA_60812_STILLS_20260522_DRACULAMINA_HARKER_GALLERY_001_v1_QC.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "7042660f87ec5f28",
+      "title": "Dan Levy Slams Shane Gillis’ ‘SNL’ Monologue: “Speechless That Something Like That Can Exist On Live National Television”",
+      "quote": "Dan Levy is not holding back his thoughts on Shane Gillis’ Saturday Night Live monologue. The Schitt’s Creek star posted an Instagram reel Sunday night, slamming Gillis. It opens with him saying “Women wearing short…",
+      "publisher": "Deadline",
+      "author": "Denise Petski",
+      "date": "2026-10-12T14:50:01+00:00",
+      "link": "https://deadline.com/2026/10/dan-levy-slams-shane-gillis-snl-monologue-women-1237154744/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/Dan-Levy-and-Shane-Gillis.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "fe7334ef9181998d",
+      "title": "Alex Gibney says Universal ‘wavered’ over releasing Elon Musk documentary",
+      "quote": "The revelation comes after the four-hour film’s Venice premiere drew a string of criticisms and insults from the founder of SpaceXAI Alex Gibney, director of the new four-hour documentary about Elon Musk, said that…",
+      "publisher": "The Guardian",
+      "author": "Andrew Pulver",
+      "date": "2026-10-12T14:38:44+00:00",
+      "link": "https://www.theguardian.com/film/2026/oct/12/alex-gibney-universal-wavered-releasing-elon-musk-documentary",
+      "image": "https://i.guim.co.uk/img/media/d51e0f13cf21bb86e155f663d02852d880522a13/257_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=8f62b37979b87ecd53d76cca2db09bde",
+      "category": "World Cinema"
+    },
+    {
+      "id": "41701882ba537a6c",
+      "title": "Mysterious Japanese Artist JYuno Joins Soundtrack Of Destry Allyn Spielberg’s Starry Sophomore Film",
+      "quote": "EXCLUSIVE: Japanese recording artist JYuno is set to have three songs featured in Girl, the recently wrapped crime-thriller directed by Destry Allyn Spielberg and starring Jason Isaacs, Sofia Wylie, Luke Newton and…",
+      "publisher": "Deadline",
+      "author": "Andreas Wiseman",
+      "date": "2026-10-12T14:35:09+00:00",
+      "link": "https://deadline.com/2026/10/japanese-artist-jyuno-joins-destry-allyn-spielberg-film-1237154703/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/JYuno.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "68824ce06c3fa4f8",
+      "title": "‘Below’ series review: What lies beneath… is pure thrills",
+      "quote": "By rooting the creature feature in a specific place, the mini-series uses the monster to address genuine feelings of exploitation and displacement. The monster is also thoroughly smashing",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-12T14:24:36+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/below-netflix-series-review-josh-hartnett/article71574781.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/mit5og/article71575769.ece/alternates/LANDSCAPE_1200/MV5BNTU3MGIyNDMtNzA1Mi00MGJiLTk0NzMtMjRlYWI5ODVmMjYxXkEyXkFqcGc._V1_.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "c67d1109bb16e910",
+      "title": "The BBC’s Content Chief Has A Message For Reality TV Snobs",
+      "quote": "Kate Phillips, the BBC’s content chief, has a message for reality TV snobs. Phillips was at MIPCOM during a BBC Studios “Reality Check” session to talk up the power of reality TV and unscripted more broadly, with a call…",
+      "publisher": "Deadline",
+      "author": "Max Goldbart",
+      "date": "2026-10-12T14:14:31+00:00",
+      "link": "https://deadline.com/2026/10/bbc-kate-phillips-on-traitors-reality-tv-snobs-top-gear-1237154708/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/579406.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "106518dcd3cfab2e",
+      "title": "A Genre-Defining Action Movie With 4 Oscars Is Streaming On Prime Video",
+      "quote": "Those who elect to stream this Oscar-winning martial arts action flick while it's on Prime Video would do well to remember just how trail-blazing it was.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Jeremy Smith)",
+      "date": "2026-10-12T14:00:00+00:00",
+      "link": "https://www.slashfilm.com/2282157/crouching-tiger-hidden-dragon-genre-defining-action-movie-prime-video/",
+      "image": "https://www.slashfilm.com/img/gallery/crouching-tiger-hidden-dragon-genre-defining-action-movie-prime-video/l-intro-1791815519.jpg",
       "category": "Festival Winners"
     },
     {
-      "id": "c79c430f2b91c066",
-      "title": "‘A Haunting’ Revived At Radial Entertainment With Jupiter Pictures Producing: “We Are Focused On Where The Audience Is”",
-      "quote": "EXCLUSIVE: Radial Entertainment is reviving another franchise from the New Dominion Pictures library. The Oaktree Capital Management-backed distribution and free-streaming/FAST channel company has ordered 16 episodes of…",
+      "id": "e311b3c50e0c037f",
+      "title": "BBC Blurs Out ‘House Of The Dragon’ Star’s Trans Rights T-Shirt On ‘Strictly Come Dancing’",
+      "quote": "The BBC has confirmed that it blurred out a transgender rights slogan on the T-shirt of Bethany Antonia, the House of the Dragon actress competing in Strictly Come Dancing. Antonia, who plays Lady Baela Targaryen in…",
       "publisher": "Deadline",
-      "author": "Jesse Whittock",
-      "date": "2026-10-12T05:26:33+00:00",
-      "link": "https://deadline.com/2026/10/a-haunting-revived-radial-entertainment-jupiter-pictures-1237154572/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/A-Haunting-art-e1791781302514.png",
+      "author": "Jake Kanter",
+      "date": "2026-10-12T13:57:52+00:00",
+      "link": "https://deadline.com/2026/10/bbc-blurs-bethany-antonia-trans-shirt-strictly-come-dancing-1237154723/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/MixCollage-12-Oct-2026-02-35-PM-1380.jpg",
       "category": "World Cinema"
     },
     {
-      "id": "cda3fe628243c9e2",
-      "title": "John Oliver Has A Message For His New Skydance Overlords",
-      "quote": "John Oliver caught heat in some quarters last week for not addressing the (then) pending merger of Paramount and Last Week Tonight’s parent company, Warner Bros. But after that deal closed this week, the late-night host…",
+      "id": "4b3a814f520cedc0",
+      "title": "Canada’s ‘Bee My Love’ Team Wrap Ensemble TV Movie ‘Summer’s Camp Romance’ – MIPCOM",
+      "quote": "EXCLUSIVE: Canada’s Precious Metal Productions and Good Soldier Films have wrapped TV movie Summer’s Camp Romance as sales launch at MIPCOM. It is their second collaboration after 2025 culinary-themed romance Bee My…",
       "publisher": "Deadline",
-      "author": "Tomt",
-      "date": "2026-10-12T05:19:18+00:00",
-      "link": "https://deadline.com/2026/10/john-oliver-skydance-bosses-1237154555/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/john-oliver.png",
+      "author": "Melanie Goodfellow",
+      "date": "2026-10-12T13:55:00+00:00",
+      "link": "https://deadline.com/2026/10/movie-summers-camp-romance-mipcom-1237154717/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/Deadline-Summers-Camp-Romance.jpg",
       "category": "World Cinema"
     },
     {
-      "id": "b054412df89b2464",
-      "title": "‘Below Deck’s Gael Cameron Speaks Out After S11 Drama & Domestic Violence Charges Against Ex",
-      "quote": "To say it’s been a tough year for Below Deck Mediterranean’s Gael Cameron is an understatement. Season 11 of the show documented the new mom tending to infant Kayden in Croatia as the boy’s father, Nathan Gallager…",
-      "publisher": "Deadline",
-      "author": "Tomt",
-      "date": "2026-10-12T03:36:40+00:00",
-      "link": "https://deadline.com/2026/10/below-deck-gael-cameron-domestic-violence-1237154522/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/gael-cameron1.png",
-      "category": "World Cinema"
-    },
-    {
-      "id": "41bbb956ba9aa868",
-      "title": "Judge Orders Trump Administration To Stop Running Taxpayer Funded Ads That Promote POTUS",
-      "quote": "A federal judge ordered the Trump administration to stop running taxpayer-funded ads for at least 14 days, putting a halt to the spots that resemble campaign messaging. U.S. District Judge Jennifer L. Rochon granted a…",
-      "publisher": "Deadline",
-      "author": "Ted Johnson",
-      "date": "2026-10-12T03:34:17+00:00",
-      "link": "https://deadline.com/2026/10/judge-orders-halt-to-trump-ads-1237154527/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Screenshot-2026-09-28-at-11.54.55-AM.jpeg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "2b1ccc7f1320fcde",
-      "title": "Pat McAfee Joins ESPN’s In-Game Super Bowl LXI Coverage & Expands MNF Role",
-      "quote": "Pat McAfee is taking his Field Pass show from college football to the NFL. The network’s marquee talk show talent will be doing a version of Field Pass with the Pat McAfee Show during next year’s Super Bowl LXI. It will…",
-      "publisher": "Deadline",
-      "author": "Tomt",
-      "date": "2026-10-12T02:27:52+00:00",
-      "link": "https://deadline.com/2026/10/pat-mcafee-espn-super-bowl-lxi-mnf-1237154517/",
-      "image": "https://deadline.com/wp-content/uploads/2024/01/pat-mcafee-espn.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "f6e7cedb902cb01e",
-      "title": "Five Organizations Launch Asian Producers Alliance In Busan Market",
-      "quote": "Five independent producer organizations from Korea, Indonesia, Philippines, Hong Kong and Taiwan launched a coalition, the Asian Producers Alliance (APA), at Busan’s Asian Contents & Film Market (ACFM). The five bodies…",
-      "publisher": "Deadline",
-      "author": "Liz Shackleton",
-      "date": "2026-10-12T02:22:22+00:00",
-      "link": "https://deadline.com/2026/10/asian-producers-alliance-busan-acfm-korea-indonesia-1237154518/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/APA-Launch.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "9bf7445e3bd9dfc0",
-      "title": "Roundglass Sustain’s short film A Spring Against All Odds to be showcased at international film festival",
-      "quote": "The film, one of 48 films selected for Film SouthAsia (FSA), an international documentary film festival to be held in Kathmandu from November 27–29, 2026, is based on a script by Radhika Raj and has been directed by…",
+      "id": "ac864d220a5c494e",
+      "title": "Team ‘Premada Oorali’ on striking gold at the box office",
+      "quote": "‘Premada Oorali’, a Kannada emotional drama led by Rangayana Raghu and fresh faces Shree Raam, Thapaswini Poonacha, and Ramika Shivu, is driven by director Manoj Kumar’s simple tale and Sunaad Gowtham’s catchy tunes",
       "publisher": "The Hindu",
       "author": null,
-      "date": "2026-10-12T01:06:19+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/roundglass-sustains-short-film-a-spring-against-all-odds-to-be-showcased-at-international-film-festival/article71562550.ece",
-      "image": "https://th-i.thgim.com/public/life-and-style/bhb0w8/article71562564.ece/alternates/LANDSCAPE_1200/Film%201.jpeg",
+      "date": "2026-10-12T13:46:41+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/premada-oorali-interview-box-office-premada-oorali-kannada-movie-premada-oorali-ott-release-rangayana-raghu/article71557275.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/vmz6va/article71563715.ece/alternates/LANDSCAPE_1200/Premada%20Oorali%202.JPEG",
       "category": "Indian Cinema"
+    },
+    {
+      "id": "951ad58c4c837e62",
+      "title": "‘Premada Oorali’: This small film has taken the Kannada film industry by storm",
+      "quote": "While the massive success of ‘Premada Oorali’ has breathed new life into theatres in Karnataka’s small towns, it has also left filmmakers hopeful yet puzzled about what kind of stories to tell next",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-12T13:42:39+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/premada-oorali-kannada-movie-premada-oorali-box-office-premada-oorali-movie-review-premada-oorali-ott-release-date/article71553129.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/f6ogol/article71554486.ece/alternates/LANDSCAPE_1200/Premada%20Oorali.JPEG",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "4a1df46d2c2c955c",
+      "title": "BBC News Chief Warns Of Need To “Urgently” Win Over TikTok Generation",
+      "quote": "The BBC’s new news chief has revealed that one of her top priorities will be winning back young viewers. In her first message to staff since being named director of news last week, Rachel Jupp said that BBC News must…",
+      "publisher": "Deadline",
+      "author": "Jake Kanter",
+      "date": "2026-10-12T13:26:48+00:00",
+      "link": "https://deadline.com/2026/10/bbc-news-rachel-jupp-tiktok-generation-1237154650/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/p0mn4jqh.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "ec77998e2ce1a7f5",
+      "title": "Digger on course for $245m loss after box office collapse",
+      "quote": "Estimates suggest the eco satire starring Tom Cruise could join the list of top turkeys, including Cutthroat Island and The Marvels Digger, the ambitious eco-fable starring Tom Cruise and directed by Alejandro G…",
+      "publisher": "The Guardian",
+      "author": "Andrew Pulver",
+      "date": "2026-10-12T12:51:04+00:00",
+      "link": "https://www.theguardian.com/film/2026/oct/12/digger-loss-245m-box-office-collapse",
+      "image": "https://i.guim.co.uk/img/media/ce939ad10645ce3d14e291138e02f52e6e36650d/277_0_2500_2001/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=c3c99b7d5d748ea32884e672aa59da6e",
+      "category": "World Cinema"
+    },
+    {
+      "id": "6d9119993cc429d6",
+      "title": "New Hexed Trailer Takes Hailee Steinfeld Into A World Of Witches With A Surly Magical Cat",
+      "quote": "Disney's Hexed introduces a world of magic through Billie, a seemingly ordinary girl who learns she's a witch. Oh, and Walton Goggins voices a three-eyed cat.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Ethan Anderton)",
+      "date": "2026-10-12T12:26:55+00:00",
+      "link": "https://www.slashfilm.com/2283559/hexed-trailer-hailee-steinfeld-animated-movie/",
+      "image": "https://www.slashfilm.com/img/gallery/new-hexed-trailer-takes-hailee-steinfeld-into-a-world-of-witches-with-a-surly-magical-cat/l-intro-1791580094.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "e2b3e8817924ac5c",
+      "title": "The Influencer Project review – ick-inducing thriller exploits overexposed tropes",
+      "quote": "When influencer/singer/content creator Chiara King visits Copenhagen all the trips to trendy shops and fancy restaurants soon take a turn for the worse British influencer/singer/content creator Chiara King stars as…",
+      "publisher": "The Guardian",
+      "author": "Leslie Felperin",
+      "date": "2026-10-12T12:00:55+00:00",
+      "link": "https://www.theguardian.com/film/2026/oct/12/the-influencer-project-review-ick-thriller-chiara-king",
+      "image": "https://i.guim.co.uk/img/media/3471d91971d181961feca3a8c5435c43eb130a41/538_0_1349_1080/master/1349.jpg?width=140&quality=85&auto=format&fit=max&s=bc9ff62f9d3e9afd2d62179be6cd3fb4",
+      "category": "World Cinema"
+    },
+    {
+      "id": "a4ff86ff267c16ce",
+      "title": "25 Years Ago Today: Naomi Watts Starred In One Of The Most Mind-Bending Movies Ever Made",
+      "quote": "25 years ago, the late, great David Lynch scored the biggest critical success of his career with this mind-bending movie starring Naomi Watts.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Witney Seibold)",
+      "date": "2026-10-12T12:00:00+00:00",
+      "link": "https://www.slashfilm.com/2274749/naomi-watts-movie-mulholland-drive-25-year-anniversary/",
+      "image": "https://www.slashfilm.com/img/gallery/naomi-watts-movie-mulholland-drive-25-year-anniversary/l-intro-1791806784.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "ee3807dda5a0c128",
+      "title": "‘Animals’ movie review: Ben Affleck’s thriller squanders its premise and cast",
+      "quote": "Gillian Anderson looks like the only one having fun in Ben Affleck’s muddled thriller, which sails suspiciously close to Akira Kurosawa’s ‘High and Low’",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-12T11:37:57+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/animals-movie-review-ben-affleck-thriller-squanders-its-premise-and-cast/article71574207.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/7kdcan/article71574730.ece/alternates/LANDSCAPE_1200/Ben%20Affleck%20in%20%E2%80%98Animals%E2%80%99",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "27b7e4a5d8460ea4",
+      "title": "Columbo Star Peter Falk Headlined The Last Rod Serling Movie Ever Made",
+      "quote": "Long after Rod Serling died, Columbo actor Peter Falk starred in the last movie to date that was made from a Serling-written screenplay.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Ryan Scott)",
+      "date": "2026-10-12T11:30:00+00:00",
+      "link": "https://www.slashfilm.com/2281252/columbo-peter-falk-rod-serling-movie-a-storm-in-summer/",
+      "image": "https://www.slashfilm.com/img/gallery/columbo-star-peter-falk-headlined-the-last-rod-serling-movie-ever-made/l-intro-1791473319.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "cd75656708fc0ef4",
+      "title": "Mort la révolution! Why UK film loves a failed rebellion",
+      "quote": "Paul Greengrass’s Peasants’ Revolt epic, The Uprising, is just the latest in a long line of movies depicting an unsuccessful attempt at remaking the nation The British are perverse. We fetishise our failures, even if…",
+      "publisher": "The Guardian",
+      "author": "Stuart Jeffries",
+      "date": "2026-10-12T11:14:33+00:00",
+      "link": "https://www.theguardian.com/film/2026/oct/12/cinema-films-failed-british-revolutions-paul-greengrass-the-uprising",
+      "image": "https://i.guim.co.uk/img/media/843e6b588aa6ef42c31fc93385670ff5d136b377/848_0_4219_3375/master/4219.jpg?width=140&quality=85&auto=format&fit=max&s=a4aa5eef8bd9738e09b96d170fcbf017",
+      "category": "World Cinema"
+    },
+    {
+      "id": "a55554ca3f4aef6d",
+      "title": "How Vikings beat Columbus to America by 500 years",
+      "quote": "The \"lost history\" of the first Europeans to cross the Atlantic",
+      "publisher": "BBC Culture",
+      "author": null,
+      "date": "2026-10-12T11:00:00+00:00",
+      "link": "https://www.bbc.com/culture/article/20261009-how-vikings-beat-columbus-to-america-by-500-years?ocid=global_culture_rss",
+      "image": "https://ychef.files.bbci.co.uk/144x81/p0pfxdyc.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "89c271ffc2e16b0c",
+      "title": "‘Silver Express’ Review: Miki Tanaka’s Sensitive Debut Feature Explores Asexual and Aromantic Identity",
+      "quote": "There are films and series with asexual characters in them, but far fewer interested in the experiential questions about moving through society as asexual and aromantic, and considering that identity on a spectrum. Miki…",
+      "publisher": "Variety",
+      "author": "Guy Lodge",
+      "date": "2026-10-12T10:39:48+00:00",
+      "link": "https://variety.com/2026/film/reviews/silver-express-review-1236908775/",
+      "image": "https://variety.com/wp-content/uploads/2026/10/1786950880.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "254c632181f2b5f0",
+      "title": "Ravi Teja and Vivek Athreya’s film titled ‘Thulabaram’; title documentary released",
+      "quote": "A short video explains the Telugu film’s balancing act between crime, thriller and family drama, and introduces the cast that includes Anaswara Rajan, Priyanka Mohan, JD Chakravarthy and Tharun Bhascker",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-12T10:16:33+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/ravi-teja-and-vivek-athreyas-film-titled-thulabaram-title-documentary-released/article71574449.ece",
+      "image": "https://th-i.thgim.com/public/incoming/wf80h/article71574500.ece/alternates/LANDSCAPE_1200/ravi%20teja%20vivek%20athreya%201.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "876b5739faed2313",
+      "title": "Hallowarrior review – apocalyptic Home Alone-style survival horror delivers inventive shocks",
+      "quote": "Debut feature from Ben Sottak provides outlandish Halloween-based scares, with Milly Shapiro superb as the naive yet resilient home-defender, Pumpkin Home Alone meets Mad Max in this atmospheric seasonal chiller, named…",
+      "publisher": "The Guardian",
+      "author": "Catherine Bray",
+      "date": "2026-10-12T10:00:52+00:00",
+      "link": "https://www.theguardian.com/film/2026/oct/12/hallowarrior-review-horror-milly-shapiro-shudder-amc",
+      "image": "https://i.guim.co.uk/img/media/cdd8e6504227737b391c0bb9a17407bb680075ad/182_0_2918_2334/master/2918.jpg?width=140&quality=85&auto=format&fit=max&s=6280b9d5d10a36cce69e3a4bc4351e11",
+      "category": "World Cinema"
+    },
+    {
+      "id": "8d7aac126c0c9319",
+      "title": "‘A rare indulgence’: why Black Swan is my feelgood movie",
+      "quote": "The latest in our series of writers explaining their go-to comfort films is a tribute to Darren Aronofsky’s dark and unusually satisfying ballet nightmare In early 2011, sometime after the film was released on home…",
+      "publisher": "The Guardian",
+      "author": "Charles Carrall",
+      "date": "2026-10-12T09:00:50+00:00",
+      "link": "https://www.theguardian.com/film/2026/oct/12/black-swan-feelgood-movie",
+      "image": "https://i.guim.co.uk/img/media/a7a8b89536ed154b0476e3e9b9de137012f5d509/279_0_2953_2362/master/2953.jpg?width=140&quality=85&auto=format&fit=max&s=587d5e23127fcce8ec76919336782725",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "df8a734d3b884806",
+      "title": "5 Best Sci-Fi Movies Of 1999, Ranked",
+      "quote": "1999 was a huge year for movies, and the science fiction genre fared particularly well that year. Here are the five best sci-fi movies of 1999, ranked.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Ryan Scott)",
+      "date": "2026-10-12T08:10:00+00:00",
+      "link": "https://www.slashfilm.com/2281166/best-sci-fi-movies-1999-ranked/",
+      "image": "https://www.slashfilm.com/img/gallery/5-best-sci-fi-movies-of-1999-ranked/l-intro-1791472757.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "7e6900d3683f730d",
+      "title": "A Fidai Film review – Palestinian collage film transforms suppressed footage into works of art",
+      "quote": "Using archive material of destroyed houses, terrorised children and dead bodies, Kamal Aljafari adds humanity to the reels by overlaying poems by Palestinian authors In Arabic, “fidai” means someone willing to sacrifice…",
+      "publisher": "The Guardian",
+      "author": "Phuong Le",
+      "date": "2026-10-12T08:00:49+00:00",
+      "link": "https://www.theguardian.com/film/2026/oct/12/a-fidai-film-review-palestinian-collage-true-story",
+      "image": "https://i.guim.co.uk/img/media/52ce656e3a2f899767957b97f970d12ea4e5b372/190_0_900_720/master/900.jpg?width=140&quality=85&auto=format&fit=max&s=f5a8f82e374e71ae9fea4f9584f96c92",
+      "category": "World Cinema"
+    },
+    {
+      "id": "93beeb240b164738",
+      "title": "Sunny Deol to be seen next in ‘Suryaa’; first look, release date out",
+      "quote": "Directed by M. Padmakumar, the film also stars Ravi Kishan and Pragya Jaiswal in pivotal roles",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-12T07:47:22+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/sunny-deol-to-be-seen-next-in-suryaa-first-look-release-date-out/article71574146.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/nf5rbb/article71574153.ece/alternates/LANDSCAPE_1200/cvr%20-%202026-10-12T131142.170.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "dc27a280ab580bd5",
+      "title": "'Ramayana' Part 1 to release worldwide on November 5; advance bookings to open on Dussehra",
+      "quote": "Directed by Nitesh Tiwari, the film is envisioned as a two-part cinematic adaptation of the Ramayana, one of India's most revered epics.",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-12T07:14:39+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/ramayana-part-1-to-release-worldwide-on-november-5-advance-bookings-to-open-on-dussehra/article71574072.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/gir57v/article71574083.ece/alternates/LANDSCAPE_1200/The%20poster%20of%20%E2%80%98Ramayana%E2%80%99%20featuring%20Yash%20Ranbir%20Kapoor%20Ravi%20Dubey%20and%20Sai%20Pallavi",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "946cdc09109f5f2a",
+      "title": "Deadline review – shocking threat sends tremors through authoritarian school",
+      "quote": "Set in a dystopian private academy rife with surveillance and cut-throat competition, Kiwi Chow’s gripping drama cements his status as an important film-maker Filmed in Taiwan and set entirely inside a prestigious high…",
+      "publisher": "The Guardian",
+      "author": "Phuong Le",
+      "date": "2026-10-12T06:00:48+00:00",
+      "link": "https://www.theguardian.com/film/2026/oct/12/deadline-review-shocking-threat-sends-tremors-through-authoritarian-school",
+      "image": "https://i.guim.co.uk/img/media/c1731241d90a91edf13c461b460a9d037d82b07c/309_0_1439_1152/master/1439.jpg?width=140&quality=85&auto=format&fit=max&s=f1c6bba39ec3f745c5da5e1fcc54c7f6",
+      "category": "World Cinema"
+    },
+    {
+      "id": "c3f3874a57840ab1",
+      "title": "Going on a couples' holiday with your son is about as awkward as it sounds on Youth",
+      "quote": "Youth keeps asking bold questions, like what do you do when you have to go on a couples' weekend with your son?",
+      "publisher": "The A.V. Club",
+      "author": "Danette Chavez",
+      "date": "2026-10-12T02:30:18+00:00",
+      "link": "https://www.avclub.com/youth-recap-season-1-episode-5-the-holiday",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/10/09/MixCollage-09-Oct-2026-03-05-PM-7161.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "001a4c46df5b836d",
@@ -130,17 +394,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "dda7c4a612c891f6",
-      "title": "Sacha Baron Cohen Confirmed To Star In Quentin Tarantino’s ‘The Popinjay Cavalier’ West End Stage Play With Dates & On Sale Window Announced",
-      "quote": "UPDATED with official statements & dates: Producers of Quentin Tarantino’s stage play The Popinjay Cavalier today confirmed what Deadline reported a month ago: Sacha Baron Cohen will star in the director’s first stage…",
-      "publisher": "Deadline",
-      "author": "Greg Evans",
-      "date": "2026-10-12T00:28:31+00:00",
-      "link": "https://deadline.com/2026/10/sacha-baron-cohen-quentin-tarantino-popinjay-cavalier-london-1237073438/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Sacha-Baron-Cohen-and-Quentin-Tarantino.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "f3012539d46685fa",
       "title": "5 '80s Sci-Fi Movies That Deserved More Attention",
       "quote": "For a variety of reasons, these '80s sci-fi movies (all of which are either good or great) didn't receive the attention they deserved.",
@@ -149,61 +402,6 @@
       "date": "2026-10-11T23:30:00+00:00",
       "link": "https://www.slashfilm.com/2280547/sci-fi-movies-80s-deserve-more-attention/",
       "image": "https://www.slashfilm.com/img/gallery/5-80s-sci-fi-movies-that-deserved-more-attention/l-intro-1791402301.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "242f9866fdb83f70",
-      "title": "Another Marvel Director Nearly Made The Young Sheldon Pilot",
-      "quote": "The Young Sheldon pilot was helmed by Iron Man director Jon Favreau, but if he hadn't been available another Marvel director was next on the list.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Ryan Scott)",
-      "date": "2026-10-11T23:00:00+00:00",
-      "link": "https://www.slashfilm.com/2281234/marvel-director-shawn-levy-nearly-made-young-sheldon-pilot/",
-      "image": "https://www.slashfilm.com/img/gallery/another-marvel-director-nearly-made-the-young-sheldon-pilot/l-intro-1791473808.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "255b4ebc47adcc3d",
-      "title": "Paramount Is Both The Best And Worst Thing To Happen To Avatar: The Last Airbender",
-      "quote": "Paramount has repeatedly fumbled the Avatar: The Last Airbender franchise, but announcements at New York Comic-Con 2026 offer hope of a turnaround.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Rafael Motamayor)",
-      "date": "2026-10-11T22:30:00+00:00",
-      "link": "https://www.slashfilm.com/2283323/paramount-best-worst-thing-happen-avatar-the-last-airbender/",
-      "image": "https://www.slashfilm.com/img/gallery/paramount-is-both-the-best-and-worst-thing-to-happen-to-avatar-the-last-airbender/l-intro-1791756285.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "b46c521f7d2bc0e1",
-      "title": "William Shatner's '70s Sci-Fi TV Movie Featured A Guest-Star From A Notorious Star Trek Episode",
-      "quote": "William Shatner and Kim Darby both appeared in the 1972 TV movie The People, but they also acted together in a controversial Star Trek episode.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Witney Seibold)",
-      "date": "2026-10-11T22:00:00+00:00",
-      "link": "https://www.slashfilm.com/2281082/william-shatner-70s-sci-fi-movie-the-people/",
-      "image": "https://www.slashfilm.com/img/gallery/william-shatners-70s-sci-fi-tv-movie-featured-a-guest-star-from-a-notorious-star-trek-episode/l-intro-1791469240.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "b7fa9bd458c78369",
-      "title": "Robert De Niro's First Major Movie Was A Controversial Comedy From A Legendary Director",
-      "quote": "A very young Robert De Niro starred in this Brian De Palma-directed comedy film, which was fairly controversial at the time due to its content.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Witney Seibold)",
-      "date": "2026-10-11T21:00:00+00:00",
-      "link": "https://www.slashfilm.com/2281028/robert-de-niro-first-major-movie-controversial-comedy-greetings/",
-      "image": "https://www.slashfilm.com/img/gallery/robert-de-niros-first-major-movie-was-a-controversial-comedy-from-a-legendary-director/l-intro-1791467698.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "8cb577de1245c263",
-      "title": "5 Genre-Defining Westerns That Barely Impacted The Box Office",
-      "quote": "These 5 Western films may not have had much of an impact at the box office when they were released, but they still helped define the genre.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-10-11T19:45:00+00:00",
-      "link": "https://www.slashfilm.com/2280973/genre-defining-westerns-barely-impacted-box-office/",
-      "image": "https://www.slashfilm.com/img/gallery/5-genre-defining-westerns-that-barely-impacted-the-box-office/l-intro-1791463522.jpg",
       "category": "Indie Gems"
     },
     {
@@ -284,28 +482,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "986115d78996ed87",
-      "title": "Shane Gillis f-bombs, bombs",
-      "quote": "The once-fired <i>Saturday Night Live</i> comic let loose with an accidental curse word during a Dr. Seuss sketch on Saturday.",
-      "publisher": "The A.V. Club",
-      "author": "Dennis Perkins",
-      "date": "2026-10-11T13:58:04+00:00",
-      "link": "https://www.avclub.com/shane-gillis-swears-live-tv-snl",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/10/11/gillis-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "906a30b44513a3d9",
-      "title": "Wildwood review – Laika’s pleasingly old fashioned stop-motion magic-forest odyssey",
-      "quote": "The makers of Coraline return with their distinctive animation style in a magical tale of a secret world of strange beasts, talking animals and evil governesses Here is an engaging family movie from the Portland-based…",
-      "publisher": "The Guardian",
-      "author": "Peter Bradshaw",
-      "date": "2026-10-11T13:21:20+00:00",
-      "link": "https://www.theguardian.com/film/2026/oct/11/wildwood-review-carey-mulligan-laika",
-      "image": "https://i.guim.co.uk/img/media/f707330ce8f93700ee5d4ae17aaf115e7e70f3c0/709_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=fcfb8737f75e8497636311974ad90bf9",
-      "category": "World Cinema"
-    },
-    {
       "id": "b73cecf1e0fabb5e",
       "title": "‘Wildwood’ Review: Laika’s Most Ambitious Feature to Date Is a Richly Textured, Transportive Fairytale Epic",
       "quote": "“Enjoy handmade art before it’s gone forever.” Keen-eyed viewers may read these words fleetingly on screen in the early stages of “Wildwood,” amid a wealth of fast-passing sights and sight gags as its young heroine…",
@@ -328,17 +504,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "fee97c6482fc3482",
-      "title": "‘Ganesh: Dust To Stardust’ trailer: Ganesh Acharya’s biopic traces humble beginnings to Bollywood success",
-      "quote": "The trailer for ‘Ganesh: Dust To Stardust’, a biographical drama chronicling choreographer Ganesh Acharya’s journey in the Hindi film industry, has been unveiled, with the film set to release in theatres on December 11…",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-11T11:43:33+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/ganesh-dust-to-stardust-trailer-ganesh-acharyas-biopic-traces-humble-beginnings-to-bollywood-success/article71571303.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/7130pi/article71571300.ece/alternates/LANDSCAPE_1200/Screenshot%202026-10-11%20171209.png",
-      "category": "Indian Cinema"
-    },
-    {
       "id": "b891cefafb3b2118",
       "title": "‘Between Two Lovers’ Review: Nanako Hirose’s Contentious Family Drama Examines an Ill-Fated Throuple",
       "quote": "The sophomore feature from Hirokazu Kore-eda protégé Nanako Hirose, “Between Two Lovers” tackles a variety of potential hot-button issues, from polyamorous relationships to same-sex parenting, in its contemporary…",
@@ -348,39 +513,6 @@
       "link": "https://variety.com/2026/film/reviews/between-two-lovers-review-1236908080/",
       "image": "https://variety.com/wp-content/uploads/2026/10/1785917076.jpg",
       "category": "World Cinema"
-    },
-    {
-      "id": "9fe0e883198909f3",
-      "title": "‘The Apothecary Diaries: The Late Lady’s Treasure’: Crunchyroll acquires global theatrical rights to first anime film",
-      "quote": "Crunchyroll and Sony Pictures Entertainment will distribute ‘The Apothecary Diaries: The Late Lady’s Treasure’ in theatres across North America and international markets, including India, following its Japanese premiere…",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-11T06:08:39+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/the-apothecary-diaries-the-late-ladys-treasure-crunchyroll-acquires-global-theatrical-rights-to-first-anime-film/article71570811.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/zcwxtd/article71570803.ece/alternates/LANDSCAPE_1200/The-Apothecary-Diaries-Movie-kv-crop.png",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "42a8b489a2b02151",
-      "title": "‘Blade Runner 2099’ trailer: Michelle Yeoh and Hunter Schafer face a Replicant-dominated world in Prime Video series",
-      "quote": "The new trailer for ‘Blade Runner 2099’, starring Michelle Yeoh and Hunter Schafer, offers a closer look at the dystopian future of the ‘Blade Runner’ franchise ahead of its November 25 premiere on Prime Video",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-11T05:26:05+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/blade-runner-2099-trailer-michelle-yeoh-and-hunter-schafer-face-a-replicant-dominated-world-in-prime-video-series/article71570741.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/4d1dqc/article71570740.ece/alternates/LANDSCAPE_1200/Screenshot%202026-10-11%20105421.png",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "62e158f0f4ea6453",
-      "title": "‘Beware Boiúna’ movie review: Slithering and slashing away to creature feature heaven",
-      "quote": "The absence of panoramic shots deadens the dread, but there are enough thrills and a giant, grinning snake to keep things interesting",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-11T05:10:53+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/beware-boiuna-movie-review-slithering-and-slashing-away-to-creature-feature-heaven/article71567979.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/f4wrac/article71568632.ece/alternates/LANDSCAPE_1200/Beware.jpeg",
-      "category": "Indian Cinema"
     },
     {
       "id": "c8f38514ae7f9276",
@@ -427,28 +559,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "17fde62a89cf8e9a",
-      "title": "Ray Gunn review – Brad Bird’s animated film-noir sci-fi caper is an old-school family classic",
-      "quote": "Sam Rockwell voices the gumshoe who becomes embroiled with Scarlett Johansson’s femme fatale in this big-hearted and beautifully designed fantasy spectacular Brad Bird, the Spielberg of animation, applies his masterly…",
-      "publisher": "The Guardian",
-      "author": "Peter Bradshaw",
-      "date": "2026-10-10T13:45:58+00:00",
-      "link": "https://www.theguardian.com/film/2026/oct/10/ray-gunn-review-brad-birds-animated-film-noir-sci-fi-caper-is-an-old-school-family-classic",
-      "image": "https://i.guim.co.uk/img/media/a1d7037d0388c2a34ef578ce634aa6faa96e48cd/1229_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=69c5ca58765aca4594075c7f0a3e2d40",
-      "category": "World Cinema"
-    },
-    {
-      "id": "ec1abc89e04fbdc3",
-      "title": "‘Ray Gunn’ Review: Brad Bird’s Latest Animated Feature Is a Giddy Retro-Futurist Noir With More Energy Than Charm",
-      "quote": "“Welcome to the future,” we hear several times in “Ray Gunn” — not that the brave new world it presents is all that welcoming. Or, for that matter, particularly brave or new. The good news is we finally have flying cars…",
-      "publisher": "Variety",
-      "author": "Guy Lodge",
-      "date": "2026-10-10T13:45:00+00:00",
-      "link": "https://variety.com/2026/film/reviews/ray-gunn-review-1236907330/",
-      "image": "https://variety.com/wp-content/uploads/2026/09/0105__VHR_0400__main__compositing__v004.0060adjusted-1.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "fcfe8f3f28b1e7c7",
       "title": "‘Ray Gunn’ Review: Sam Rockwell and Scarlett Johansson in Brad Bird’s Forgettable Netflix Animated Neo-Noir",
       "quote": "Produced by Skydance Animation's John Lasseter and also starring Tom Waits and Bobby Cannavale, the film follows a golden-hearted private eye hired to wrangle a famously volatile starlet.",
@@ -458,61 +568,6 @@
       "link": "https://www.hollywoodreporter.com/movies/movie-reviews/ray-gunn-review-netflix-sam-rockwell-scarlett-johansson-1236721083/",
       "image": null,
       "category": "World Cinema"
-    },
-    {
-      "id": "03e03832025fed04",
-      "title": "‘The Exorcist: Martyrs’ trailer: Scarlett Johansson tackles a sinister killer in Mike Flanagan’s reboot",
-      "quote": "The film also stars Laurence Fishburne, Diane Lane, Sasha Calle and Jacobi Jupe",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-10T10:44:24+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/the-exorcist-martyrs-trailer-scarlett-johansson-tackles-a-sinister-killer-in-mike-flanagans-reboot/article71567567.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/xejocz/article71567588.ece/alternates/LANDSCAPE_1200/Scarlett%20Johansson%20in%20%E2%80%98The%20Exorcist%20Martyrs%E2%80%99%20trailer",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "dce056ab2f61ac4c",
-      "title": "The other Nana Patekar: A life shaped by classical music",
-      "quote": "When the arc lights dimmed, Nana Patekar retreated into a world of raags, poetry and enduring artistic friendships.",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-10T10:22:59+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/the-other-nana-patekar-a-life-shaped-by-classical-music/article71563975.ece",
-      "image": "https://th-i.thgim.com/public/incoming/mwum0e/article71565034.ece/alternates/LANDSCAPE_1200/nana%20patekar1.jpg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "a30df467e3392182",
-      "title": "‘I just wasn’t going to give up’: the fight to free the longest-serving political prisoner in the US",
-      "quote": "Leonard Peltier was imprisoned for 49 years before his sentence was commuted. A new Netflix documentary exposes the ‘corrupt’ system that allowed it to happen On 20 January 2025, with 14 minutes remaining in his term as…",
-      "publisher": "The Guardian",
-      "author": "Adrian Horton",
-      "date": "2026-10-10T09:00:53+00:00",
-      "link": "https://www.theguardian.com/film/2026/oct/10/free-leonard-peltier-netflix-documentary",
-      "image": "https://i.guim.co.uk/img/media/a816b941fa1b37932e208913aa79c7e33555c38c/0_182_1536_1229/master/1536.jpg?width=140&quality=85&auto=format&fit=max&s=6cf2169f12aca79b5e6736f4c3a84c30",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "9b11899c5f2790a6",
-      "title": "Dance through a lens: How films become archives of movement and performance",
-      "quote": "The recently held LURU Screendance Festival put the spotlight on the evolving relationship between dance and cinema, and on ways the camera can shape how movement is seen and experienced.",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-10T07:56:36+00:00",
-      "link": "https://www.thehindu.com/entertainment/dance/dance-through-a-lens-how-films-become-archives-of-movement-and-performance/article71554598.ece",
-      "image": "https://th-i.thgim.com/public/incoming/hxrmmq/article71555673.ece/alternates/LANDSCAPE_1200/Kalpana.jpg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "1c26dd3bb6a8b71c",
-      "title": "14th review – Ava DuVernay’s galvanizing documentary is a remarkable achievement",
-      "quote": "New York film festival: the director has made a fascinating and troubling companion piece to her Netflix documentary 13th, which takes a fiery look at American injustice It feels at once like the blink of an eye and an…",
-      "publisher": "The Guardian",
-      "author": "Adrian Horton",
-      "date": "2026-10-10T01:00:43+00:00",
-      "link": "https://www.theguardian.com/film/2026/oct/09/ava-duvernay-14th-review",
-      "image": "https://i.guim.co.uk/img/media/4049ce513fda02d18c52b424dbff23ae0b883828/130_0_7747_6200/master/7747.jpg?width=140&quality=85&auto=format&fit=max&s=57b1ea72b790192d0df288b32fe1b85f",
-      "category": "Festival Winners"
     },
     {
       "id": "8922089ba14c1a40",
@@ -526,17 +581,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "ea848baf71fe2bd0",
-      "title": "In the Shadows review – true tale of Ramla Ali’s remarkable rise through the boxing ranks is a knockout",
-      "quote": "Jasmine Jobson goes the distance as the British-Somalian boxer battling pain from her past and her family’s disapproval in a heavyweight, tick-the-boxes production The true-life success story of boxer Ramla Ali is…",
-      "publisher": "The Guardian",
-      "author": "Peter Bradshaw",
-      "date": "2026-10-09T17:45:34+00:00",
-      "link": "https://www.theguardian.com/film/2026/oct/09/in-the-shadows-film-review-ramla-ali-boxer-somalia",
-      "image": "https://i.guim.co.uk/img/media/e6c5caba28f9a2f3a6743a059fdb6d8f9973e3be/478_0_2402_1922/master/2402.jpg?width=140&quality=85&auto=format&fit=max&s=a94080639e8f8498a87ff346ef760d68",
-      "category": "World Cinema"
-    },
-    {
       "id": "5afcde5d711a877d",
       "title": "World Without Cows",
       "quote": "What's the beef with this movie? Mainly that it feels like a long, thoughtful ad for an agriculture company's products, which is kind of is.",
@@ -545,28 +589,6 @@
       "date": "2026-10-09T16:42:20+00:00",
       "link": "https://www.rogerebert.com/reviews/world-without-cows-documentary-film-review-2026",
       "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "4adaf82a48e0f6b5",
-      "title": "Stark warning – does new footage in Avengers: Endgame reveal the truth about Doctor Doom?",
-      "quote": "Warning: contains spoilers The four short scenes added to the new version has made the film the highest-grossing of all time – but the only people really enjoying this are the Disney accountants Does it really matter…",
-      "publisher": "The Guardian",
-      "author": "Ben Child",
-      "date": "2026-10-09T16:25:44+00:00",
-      "link": "https://www.theguardian.com/film/2026/oct/09/stark-warning-does-new-footage-in-avengers-endgame-reveal-the-truth-about-doctor-doom",
-      "image": "https://i.guim.co.uk/img/media/67874a5873faee28fb5e16172791f27ad40b9c71/1192_61_3021_2419/master/3021.jpg?width=140&quality=85&auto=format&fit=max&s=c453d83fe83600cbb53444444de27c9b",
-      "category": "World Cinema"
-    },
-    {
-      "id": "854b97e4571b47a8",
-      "title": "Tenzing review – reconstruction of first summit of Everest puts Sherpa at the centre of the story",
-      "quote": "Genden Phuntsok brings charm and innocence to his portrayal of Tenzing Norgay, while Tom Hiddleston is suitably frank as Edmund Hillary Here is a well intentioned, watchable, if sometimes soft-edged film with some…",
-      "publisher": "The Guardian",
-      "author": "Peter Bradshaw",
-      "date": "2026-10-09T16:21:53+00:00",
-      "link": "https://www.theguardian.com/film/2026/oct/09/tenzing-review-genden-phuntsok-tom-hiddleston-apple-willem-dafoe-v",
-      "image": "https://i.guim.co.uk/img/media/6945988db784504813ac579d304e6485cd73477b/303_0_4884_3908/master/4884.jpg?width=140&quality=85&auto=format&fit=max&s=56bc86f60a03cdb8ce39d918a4cdc18f",
       "category": "World Cinema"
     },
     {
@@ -724,17 +746,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "7a686252259d478e",
-      "title": "The Social Reckoning review – Aaron Sorkin’s jittery sequel with all-new evil puppet Zuckerberg",
-      "quote": "Jeremy Strong’s slow-talking Facebook founder turns into a cameo, background to a thriller about a whistleblower that somehow never mentions Trump Here is a film for all those people who solemnly deplore social media in…",
-      "publisher": "The Guardian",
-      "author": "Peter Bradshaw",
-      "date": "2026-10-07T13:00:04+00:00",
-      "link": "https://www.theguardian.com/film/2026/oct/07/the-social-reckoning-review-aaron-sorkin-jeremy-strong-mikey-madison",
-      "image": "https://i.guim.co.uk/img/media/5f77be0b14a2f3a0c3b168ce5bdcf5ed989dcc51/579_0_2107_1687/master/2107.jpg?width=140&quality=85&auto=format&fit=max&s=23876eda9ec50c1c5de329749e81f945",
-      "category": "World Cinema"
-    },
-    {
       "id": "d9c42bf9a4e5b6ae",
       "title": "‘The Social Reckoning’ Review: Aaron Sorkin Savages Facebook Once Again in Sharp Whistleblower Thriller Led by Mikey Madison and Jeremy Allen White",
       "quote": "Jeremy Strong also stars, playing Meta webmaster Mark Zuckerberg in this blistering look at the consequences of what ‘The Social Network’ set in motion.",
@@ -787,17 +798,6 @@
       "date": "2026-10-02T11:00:00+00:00",
       "link": "https://www.bbc.com/culture/article/20261001-why-a-new-tv-version-of-horror-classic-carrie-is-already-annoying-people?ocid=global_culture_rss",
       "image": "https://ychef.files.bbci.co.uk/144x81/p0pdhc6p.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "2636927b96c77f81",
-      "title": "Ethan Hawke on the role that 'changed my life'",
-      "quote": "The beloved star reflects on the part that means the most to him in his career",
-      "publisher": "BBC Culture",
-      "author": null,
-      "date": "2026-10-01T11:00:00+00:00",
-      "link": "https://www.bbc.com/culture/article/20260924-ethan-hawke-interview-close-up?ocid=global_culture_rss",
-      "image": "https://ychef.files.bbci.co.uk/144x81/p0pc8f3b.jpg",
       "category": "World Cinema"
     },
     {
