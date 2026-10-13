@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T15:05:34.496767+00:00",
+  "generated_at": "2026-10-13T00:28:22.302565+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -9,26 +9,279 @@
   ],
   "reviews": [
     {
-      "id": "fa19450c59ddb236",
-      "title": "Netflix’s ‘The Body’ Trailer Sees A Dance Team Party & Initiation Take A Turn",
-      "quote": "The trailer for Netflix’s high school-set horror series The Body, has arrived just in time for spooky season. The show premieres November 11 on Netflix. This raunchy teen psychodrama from creator Quinn Shephard (Not…",
+      "id": "a34b4e37223113bc",
+      "title": "Antitrust Experts Doubt Donald Trump’s DOJ Has A Case In Going After Networks For Suspending White House TV Pool",
+      "quote": "News that the Justice Department is investigating five major networks for suspending the White House TV pool last month was met with outcry that it was another example of Trump administration retaliation against the…",
       "publisher": "Deadline",
-      "author": "Dessi Gomez",
-      "date": "2026-10-12T15:00:00+00:00",
-      "link": "https://deadline.com/2026/10/the-body-trailer-netfflix-horror-dance-team-party-1237154466/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/The_Body_n_S1_E6_00_00_15_07RC2.jpg",
+      "author": "Ted Johnson",
+      "date": "2026-10-13T00:20:59+00:00",
+      "link": "https://deadline.com/2026/10/doj-tv-press-pool-boycott-may-not-get-far-1237155017/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/US-Department-Of-Justice.jpg",
       "category": "World Cinema"
     },
     {
-      "id": "5de4e50de3dd2283",
-      "title": "Antonio Banderas To Star As Spanish Conquistador Hernán Cortés In Feature From Paul Mignot & Nicholas Kazan",
-      "quote": "Antonio Banderas has signed on to star as Spanish conquistador Hernán Cortés in Cortés, a feature film directed by French filmmaker Paul Mignot from a screenplay by Nicholas Kazan. Production is already underway in…",
+      "id": "3a8b8a08e8ccbeb5",
+      "title": "RJ Mitte, ‘Breaking Bad’ actor and disability rights champion, dies at 34",
+      "quote": "Mitte played Walter White Jr., the son of Bryan Cranston’s chemistry teacher-turned-meth dealer Walter White, in ‘Breaking Bad’",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-13T00:20:28+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/rj-mitte-breaking-bad-actor-and-disability-rights-champion-dies-at-34/article71577039.ece",
+      "image": "https://th-i.thgim.com/public/news/national/w06p1v/article71577045.ece/alternates/LANDSCAPE_1200/AFP__20250607__2219088499__v4__HighRes__WesthamptonPremiere2025TribecaFestival.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "cf8c65cecaa95a26",
+      "title": "Sydney Sweeney's R-Rated 131-Minute Thriller Is Officially HBO Max's Biggest Streaming Hit",
+      "quote": "Sydney Sweeney scored a box office hit with mystery thriller The Housemaid, and now it's topping HBO Max's streaming charts.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Joe Roberts)",
+      "date": "2026-10-13T00:10:12+00:00",
+      "link": "https://www.slashfilm.com/2284837/sydney-sweeney-thriller-the-housemaid-streaming-hbo-max-october-2026/",
+      "image": "https://www.slashfilm.com/img/gallery/sydney-sweeneys-r-rated-131-minute-thriller-is-officially-hbo-maxs-biggest-streaming-hit/l-intro-1791849919.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "38294dcee27976be",
+      "title": "‘Half’ Review: Hip-Hop Beats & Brutal Beatings In Samjad’s Fast, Fun, Super-Violent Indian Vampire Horror Movie – Sitges Film Festival",
+      "quote": "Two halves make a satisfying whole in this lean, mean action-horror, in which twin vampires stalk a scorching-hot Madras Max: Fury Road dystopia in the none-too-distant future. The 1996 Robert Rodriguez/Quentin…",
+      "publisher": "Deadline",
+      "author": "Damon Wise",
+      "date": "2026-10-12T23:32:45+00:00",
+      "link": "https://deadline.com/2026/10/half-review-samjad-ranjith-sajeev-aiswarya-raj-1237155060/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/Half_Still_01.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "7e5999f2fc1bef91",
+      "title": "RJ Mitte Remembered By ‘Breaking Bad’ Co-Stars: “This Is So Heartbreaking”",
+      "quote": "RJ Mitte, the Breaking Bad actor, died at 34, and his co-stars are mourning his loss. Dean Norris, who played DEA agent Hank Schrader on the AMC series, took to social media to remember Mitte. “Oh my God! Was working…",
+      "publisher": "Deadline",
+      "author": "Armando Tinoco",
+      "date": "2026-10-12T23:22:46+00:00",
+      "link": "https://deadline.com/2026/10/rj-mitte-reactions-breaking-bad-stars-1237155093/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/rj-mitte-breaking-bad-memorial.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "97b74ea1cf077815",
+      "title": "Ben Affleck Says ‘Justice League’ Was A “Low Point” In His Career",
+      "quote": "Ben Affleck is getting real about the “low point” of his career, pinpointing it to the time he was filming Justice League. In a new interview, the actor opened up about the reshoots and how Warner Bros. handled the…",
+      "publisher": "Deadline",
+      "author": "Armando Tinoco",
+      "date": "2026-10-12T23:11:12+00:00",
+      "link": "https://deadline.com/2026/10/ben-affleck-justice-league-low-point-career-1237155188/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/ben-affleck-justice-league.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "6b4124dfa72977e3",
+      "title": "Kristen Stewart's Bold 2020 Sci-Fi Horror Movie Is A Gem Streaming On Prime Video",
+      "quote": "H.P. Lovecraft fans, in particular, should check out this Kristen Stewart-fronted sci-fi horror movie while it's streaming on Prime Video.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Witney Seibold)",
+      "date": "2026-10-12T23:00:00+00:00",
+      "link": "https://www.slashfilm.com/2282360/kristen-stewart-sci-fi-horror-movie-underwater-streaming-prime-video/",
+      "image": "https://www.slashfilm.com/img/gallery/kristen-stewart-sci-fi-horror-movie-underwater-streaming-prime-video/l-intro-1791567441.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "86a43c52939814aa",
+      "title": "Amanda Seyfried Says She Won’t Do Projects With Sex Scenes: “I’m Uncomfortable With It”",
+      "quote": "“I passed on a show where I would have to have sex all the time because of the sex,” Amanda Seyfried said during a recent interview at the Hamptons International Film Festival. “Doesn’t matter [who it’s with] … I don’t…",
+      "publisher": "Deadline",
+      "author": "Tomt",
+      "date": "2026-10-12T22:56:08+00:00",
+      "link": "https://deadline.com/2026/10/seyfried-no-sex-scenes-1237155080/",
+      "image": "https://deadline.com/wp-content/uploads/2025/06/P101F3SQ-e1750984220621.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "6eff02a8d9fb8bc7",
+      "title": "ABC Tells Judge That FCC Showed “Retaliatory Motive” By Ordering Early License Review Despite “Less Intrusive” Options",
+      "quote": "ABC’s legal team told a federal judge on Monday that because the FCC ordered that it submit its station licenses for early renewal rather than a host of less-drastic options, the agency only underscored “their…",
+      "publisher": "Deadline",
+      "author": "Ted Johnson",
+      "date": "2026-10-12T22:50:41+00:00",
+      "link": "https://deadline.com/2026/10/abc-trump-fcc-lawsuit-1237155127/",
+      "image": "https://deadline.com/wp-content/uploads/2026/07/ABC-logo-Brendan-Carr-FCC.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "e4d0dc5e461d5b7e",
+      "title": "Ava DuVernay Shares The Origins Behind Her Documentary Feature ‘14th’ At Buzzy London Film Festival Premiere",
+      "quote": "Ava DuVernay on Monday continued the rollout for the 14th, the documentary feature she has produced and directed at Netflix, with a screening as the Special Documentary Presentation at the London Film Festival. The film…",
       "publisher": "Deadline",
       "author": "Zac Ntim",
-      "date": "2026-10-12T15:00:00+00:00",
-      "link": "https://deadline.com/2026/10/antonio-banderas-hernan-cortes-paul-mignot-nicholas-kazan-1237154621/",
-      "image": "https://deadline.com/wp-content/uploads/2026/03/GettyImages-2266030668.jpg",
+      "date": "2026-10-12T22:22:06+00:00",
+      "link": "https://deadline.com/2026/10/ava-duvernay-14th-london-film-festival-netflix-1237155099/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/GettyImages-2299850022.jpg",
       "category": "World Cinema"
+    },
+    {
+      "id": "aac559fae7f5c73e",
+      "title": "Kelsey Grammer's Forgotten 2000s Sitcom Was Canceled After Just 5 Episodes",
+      "quote": "A few years after Frasier ended, Kelsey Grammer starred in a sitcom for ABC that quickly began purging viewership numbers and was canceled after five episodes.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Joe Roberts)",
+      "date": "2026-10-12T22:00:00+00:00",
+      "link": "https://www.slashfilm.com/2282193/kelsey-grammer-2000s-canceled-sitcom-hank/",
+      "image": "https://www.slashfilm.com/img/gallery/kelsey-grammers-forgotten-2000s-sitcom-was-canceled-after-just-5-episodes/l-intro-1791557221.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "ea6b292447ce1ca4",
+      "title": "Rain Spencer Joins Maude Apatow & Mike Faist In ‘The Maid Of Orleans’ From Sarah Elizabeth Mintz",
+      "quote": "EXCLUSIVE: Rain Spencer (Good Girl Jane, The Summer I Turned Pretty) has joined Maude Apatow (Poetic License, Euphoria) and Mike Faist (Steven Spielberg’s West Side Story, Challengers) in writer-director Sarah Elizabeth…",
+      "publisher": "Deadline",
+      "author": "Dessi Gomez",
+      "date": "2026-10-12T21:45:54+00:00",
+      "link": "https://deadline.com/2026/10/rain-spencer-joins-maid-of-orleans-movie-cast-mike-faist-1237154918/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/Rain-Spencer-Maid-of-Orleans.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "9cb039d699df6966",
+      "title": "Why Ben Affleck Turned Down Directing Star Wars: The Force Awakens",
+      "quote": "Argo director Ben Affleck was in the mix to direct the film that became Star Wars: The Force Awakens. Here's why he says he wasn't the right guy for the job.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Jeremy Smith)",
+      "date": "2026-10-12T21:26:17+00:00",
+      "link": "https://www.slashfilm.com/2284725/why-ben-affleck-turned-down-directing-star-wars-the-force-awakens/",
+      "image": "https://www.slashfilm.com/img/gallery/why-ben-affleck-turned-down-directing-star-wars-the-force-awakens/l-intro-1791840218.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "5a82e61f3c7510fe",
+      "title": "RJ Mitte, Walter White Jr. On Breaking Bad, Dead At 34",
+      "quote": "RJ Mitte, the actor who played Walter White Jr. on Vince Gilligan's incredible AMC drama series Breaking Bad, has died at age 34.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Jeremy Smith)",
+      "date": "2026-10-12T21:14:13+00:00",
+      "link": "https://www.slashfilm.com/2284711/rj-mitte-walter-white-jr-breaking-bad-actor-dead-obituary/",
+      "image": "https://www.slashfilm.com/img/gallery/rj-mitte-walter-white-jr-breaking-bad-actor-dead-obituary/l-intro-1791844775.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "7a8b2b4727494536",
+      "title": "Amanda Seyfried is good on sex scenes for time being",
+      "quote": "At a recent panel, Amanda Seyfried said that filming romantic scenes \"used to be so fun,\" but now, she's \"not into it\" and passed on a show where she'd \"have to have sex all the time.\"",
+      "publisher": "The A.V. Club",
+      "author": "Olivia Singh",
+      "date": "2026-10-12T21:09:14+00:00",
+      "link": "https://www.avclub.com/amanda-seyfried-turned-down-role-sex-scene",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/10/12/the-housemaid-amanda-seyfried-featured.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "37a5a118b914df64",
+      "title": "David Carradine's '60s Western With Robert Mitchum Is A Gem You Can Watch For Free",
+      "quote": "David Carradine and Robert Mitchum appeared in a 1969 Western called Young Billy Young that's worth a watch. Thankfully, it's streaming for free.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Joe Roberts)",
+      "date": "2026-10-12T21:00:00+00:00",
+      "link": "https://www.slashfilm.com/2282242/david-carradine-robert-mitchum-60s-western-young-billy-young-streaming-free/",
+      "image": "https://www.slashfilm.com/img/gallery/david-carradines-60s-western-with-robert-mitchum-is-a-gem-you-can-watch-for-free/l-intro-1791559402.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "a43c7fb53bd8c9e4",
+      "title": "R.I.P. RJ Mitte, Breaking Bad's Walter White Jr.",
+      "quote": "RJ Mitte, the <I>Breaking Bad</i> actor who used his platform to bring awareness to cerebral palsy, was 34.",
+      "publisher": "The A.V. Club",
+      "author": "Drew Gillis",
+      "date": "2026-10-12T20:59:31+00:00",
+      "link": "https://www.avclub.com/rip-rj-mitte-breaking-bad",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/10/12/MixCollage-12-Oct-2026-04-58-PM-9892.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "4c7573a8cfbb020b",
+      "title": "5 Best Movies To Watch After Anne Hathaway's Verity",
+      "quote": "If you enjoyed any aspect of Anne Hathaway's Verity, here are the five best films to watch that will give you a similar vibe.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Witney Seibold)",
+      "date": "2026-10-12T20:21:03+00:00",
+      "link": "https://www.slashfilm.com/2284651/best-movies-watch-after-anne-hathaway-verity/",
+      "image": "https://www.slashfilm.com/img/gallery/5-best-movies-to-watch-after-anne-hathaways-verity/l-intro-1791836231.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "60c83c38af81c4d3",
+      "title": "Netflix gets around to adapting Hatchet",
+      "quote": "Derek Cianfrance, the filmmaker behind <i>Blue Valentine</i> and <i>The Place Beyond The Pines</i>, will direct the movie adaptation of Gary Paulsen's 1987 survival novel <I>Hatchet</i>.",
+      "publisher": "The A.V. Club",
+      "author": "Olivia Singh",
+      "date": "2026-10-12T20:07:05+00:00",
+      "link": "https://www.avclub.com/netflix-hatchet-gary-paulsen-movie-adaptation-in-the-works",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/10/12/gary-paulsen-hatchet-featured.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "1ad5d06f08d78b8a",
+      "title": "Other Mommy's Box Office Success Proves One Thing About Horror Movies",
+      "quote": "Horror triumphed at the box office yet again thanks to Other Mommy, a movie that says a lot about the genre's durability.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Ryan Scott)",
+      "date": "2026-10-12T20:00:00+00:00",
+      "link": "https://www.slashfilm.com/2284531/other-mommy-box-office-success-horror-movies-critic-proof/",
+      "image": "https://www.slashfilm.com/img/gallery/other-mommys-box-office-success-proves-one-thing-about-horror-movies/l-intro-1791832142.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "12e96f41e95a02c2",
+      "title": "Epic Games tells employees to use AI to get Disney game done",
+      "quote": "The new game, which features Marvel and Star Wars characters, has been delayed and will now be an \"AI first\" project.",
+      "publisher": "The A.V. Club",
+      "author": "Drew Gillis",
+      "date": "2026-10-12T19:31:37+00:00",
+      "link": "https://www.avclub.com/epic-games-disney-ai-delay",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/03/29134321/fortnite_metaverse_1920.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "bd0c05d47054bd46",
+      "title": "A heartbreaking John Turturro steals The Only Living Pickpocket In New York",
+      "quote": "Noah Segan’s sophomore film The Only Living Pickpocket In New York gives John Turturro plenty of time to shine in a throwback drama.",
+      "publisher": "The A.V. Club",
+      "author": "Monica Castillo",
+      "date": "2026-10-12T19:00:38+00:00",
+      "link": "https://www.avclub.com/the-only-living-pickpocket-in-new-york-review-john-turturro-noah-segan-giancarlo-esposito",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/10/12/only-pickpocket-header.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "fa5715ed9398dc72",
+      "title": "Great Job, Internet!: Watch this deep dive on the pointlessness of Jubilee debates",
+      "quote": "YouTuber Big Joel goes deep on Jubilee, a debate channel that seeks to be \"the Disney of empathy.\"",
+      "publisher": "The A.V. Club",
+      "author": "Drew Gillis",
+      "date": "2026-10-12T18:06:22+00:00",
+      "link": "https://www.avclub.com/great-job-internet-big-joel-jubilee",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/10/12/MixCollage-12-Oct-2026-01-56-PM-6147.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "3270468c8d9a29a0",
+      "title": "Ben Affleck confirms he turned down directing The Force Awakens",
+      "quote": "During an appearance on Josh Horowitz's <i>Happy Sad Confused</i> podcast, Ben Affleck confirmed that the <i>Star Wars</i> team approached him about directing, but he turned down the job—which ultimately went to J.J…",
+      "publisher": "The A.V. Club",
+      "author": "Olivia Singh",
+      "date": "2026-10-12T17:51:26+00:00",
+      "link": "https://www.avclub.com/ben-affleck-passed-directing-the-force-awakens",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2025/08/13110528/john-boyega-daisy-ridley-force-awakens-trailer-screenshot-feature.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "cbd45ff686608eb9",
+      "title": "A new Treasure Island is lost at sea",
+      "quote": "The latest adaptation of the classic Robert Louis Stevenson novel tries some fresh ideas to no good end.",
+      "publisher": "The A.V. Club",
+      "author": "Zack Handlen",
+      "date": "2026-10-12T17:15:54+00:00",
+      "link": "https://www.avclub.com/treasure-island-review-hayley-atwell-david-oyelowo",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/10/12/MixCollage-12-Oct-2026-10-37-AM-5471.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "29079353ecdf7551",
@@ -42,17 +295,6 @@
       "category": "Indian Cinema"
     },
     {
-      "id": "7042660f87ec5f28",
-      "title": "Dan Levy Slams Shane Gillis’ ‘SNL’ Monologue: “Speechless That Something Like That Can Exist On Live National Television”",
-      "quote": "Dan Levy is not holding back his thoughts on Shane Gillis’ Saturday Night Live monologue. The Schitt’s Creek star posted an Instagram reel Sunday night, slamming Gillis. It opens with him saying “Women wearing short…",
-      "publisher": "Deadline",
-      "author": "Denise Petski",
-      "date": "2026-10-12T14:50:01+00:00",
-      "link": "https://deadline.com/2026/10/dan-levy-slams-shane-gillis-snl-monologue-women-1237154744/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/Dan-Levy-and-Shane-Gillis.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "fe7334ef9181998d",
       "title": "Alex Gibney says Universal ‘wavered’ over releasing Elon Musk documentary",
       "quote": "The revelation comes after the four-hour film’s Venice premiere drew a string of criticisms and insults from the founder of SpaceXAI Alex Gibney, director of the new four-hour documentary about Elon Musk, said that…",
@@ -61,17 +303,6 @@
       "date": "2026-10-12T14:38:44+00:00",
       "link": "https://www.theguardian.com/film/2026/oct/12/alex-gibney-universal-wavered-releasing-elon-musk-documentary",
       "image": "https://i.guim.co.uk/img/media/d51e0f13cf21bb86e155f663d02852d880522a13/257_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=8f62b37979b87ecd53d76cca2db09bde",
-      "category": "World Cinema"
-    },
-    {
-      "id": "41701882ba537a6c",
-      "title": "Mysterious Japanese Artist JYuno Joins Soundtrack Of Destry Allyn Spielberg’s Starry Sophomore Film",
-      "quote": "EXCLUSIVE: Japanese recording artist JYuno is set to have three songs featured in Girl, the recently wrapped crime-thriller directed by Destry Allyn Spielberg and starring Jason Isaacs, Sofia Wylie, Luke Newton and…",
-      "publisher": "Deadline",
-      "author": "Andreas Wiseman",
-      "date": "2026-10-12T14:35:09+00:00",
-      "link": "https://deadline.com/2026/10/japanese-artist-jyuno-joins-destry-allyn-spielberg-film-1237154703/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/JYuno.jpg",
       "category": "World Cinema"
     },
     {
@@ -84,50 +315,6 @@
       "link": "https://www.thehindu.com/entertainment/movies/below-netflix-series-review-josh-hartnett/article71574781.ece",
       "image": "https://th-i.thgim.com/public/entertainment/movies/mit5og/article71575769.ece/alternates/LANDSCAPE_1200/MV5BNTU3MGIyNDMtNzA1Mi00MGJiLTk0NzMtMjRlYWI5ODVmMjYxXkEyXkFqcGc._V1_.jpg",
       "category": "Indian Cinema"
-    },
-    {
-      "id": "c67d1109bb16e910",
-      "title": "The BBC’s Content Chief Has A Message For Reality TV Snobs",
-      "quote": "Kate Phillips, the BBC’s content chief, has a message for reality TV snobs. Phillips was at MIPCOM during a BBC Studios “Reality Check” session to talk up the power of reality TV and unscripted more broadly, with a call…",
-      "publisher": "Deadline",
-      "author": "Max Goldbart",
-      "date": "2026-10-12T14:14:31+00:00",
-      "link": "https://deadline.com/2026/10/bbc-kate-phillips-on-traitors-reality-tv-snobs-top-gear-1237154708/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/579406.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "106518dcd3cfab2e",
-      "title": "A Genre-Defining Action Movie With 4 Oscars Is Streaming On Prime Video",
-      "quote": "Those who elect to stream this Oscar-winning martial arts action flick while it's on Prime Video would do well to remember just how trail-blazing it was.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Jeremy Smith)",
-      "date": "2026-10-12T14:00:00+00:00",
-      "link": "https://www.slashfilm.com/2282157/crouching-tiger-hidden-dragon-genre-defining-action-movie-prime-video/",
-      "image": "https://www.slashfilm.com/img/gallery/crouching-tiger-hidden-dragon-genre-defining-action-movie-prime-video/l-intro-1791815519.jpg",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "e311b3c50e0c037f",
-      "title": "BBC Blurs Out ‘House Of The Dragon’ Star’s Trans Rights T-Shirt On ‘Strictly Come Dancing’",
-      "quote": "The BBC has confirmed that it blurred out a transgender rights slogan on the T-shirt of Bethany Antonia, the House of the Dragon actress competing in Strictly Come Dancing. Antonia, who plays Lady Baela Targaryen in…",
-      "publisher": "Deadline",
-      "author": "Jake Kanter",
-      "date": "2026-10-12T13:57:52+00:00",
-      "link": "https://deadline.com/2026/10/bbc-blurs-bethany-antonia-trans-shirt-strictly-come-dancing-1237154723/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/MixCollage-12-Oct-2026-02-35-PM-1380.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "4b3a814f520cedc0",
-      "title": "Canada’s ‘Bee My Love’ Team Wrap Ensemble TV Movie ‘Summer’s Camp Romance’ – MIPCOM",
-      "quote": "EXCLUSIVE: Canada’s Precious Metal Productions and Good Soldier Films have wrapped TV movie Summer’s Camp Romance as sales launch at MIPCOM. It is their second collaboration after 2025 culinary-themed romance Bee My…",
-      "publisher": "Deadline",
-      "author": "Melanie Goodfellow",
-      "date": "2026-10-12T13:55:00+00:00",
-      "link": "https://deadline.com/2026/10/movie-summers-camp-romance-mipcom-1237154717/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/Deadline-Summers-Camp-Romance.jpg",
-      "category": "World Cinema"
     },
     {
       "id": "ac864d220a5c494e",
@@ -152,14 +339,14 @@
       "category": "Indian Cinema"
     },
     {
-      "id": "4a1df46d2c2c955c",
-      "title": "BBC News Chief Warns Of Need To “Urgently” Win Over TikTok Generation",
-      "quote": "The BBC’s new news chief has revealed that one of her top priorities will be winning back young viewers. In her first message to staff since being named director of news last week, Rachel Jupp said that BBC News must…",
-      "publisher": "Deadline",
-      "author": "Jake Kanter",
-      "date": "2026-10-12T13:26:48+00:00",
-      "link": "https://deadline.com/2026/10/bbc-news-rachel-jupp-tiktok-generation-1237154650/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/p0mn4jqh.jpg",
+      "id": "5a38a7a3bbc0bd9a",
+      "title": "14th",
+      "quote": "A documentary with good intentions, but it's presented carelessly and insults our intelligence.",
+      "publisher": "RogerEbert.com",
+      "author": "Jourdain Searles",
+      "date": "2026-10-12T13:00:00+00:00",
+      "link": "https://www.rogerebert.com/reviews/14th-ava-duvernay-netflix-documentary-film-review-2026",
+      "image": null,
       "category": "World Cinema"
     },
     {
@@ -174,19 +361,8 @@
       "category": "World Cinema"
     },
     {
-      "id": "6d9119993cc429d6",
-      "title": "New Hexed Trailer Takes Hailee Steinfeld Into A World Of Witches With A Surly Magical Cat",
-      "quote": "Disney's Hexed introduces a world of magic through Billie, a seemingly ordinary girl who learns she's a witch. Oh, and Walton Goggins voices a three-eyed cat.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Ethan Anderton)",
-      "date": "2026-10-12T12:26:55+00:00",
-      "link": "https://www.slashfilm.com/2283559/hexed-trailer-hailee-steinfeld-animated-movie/",
-      "image": "https://www.slashfilm.com/img/gallery/new-hexed-trailer-takes-hailee-steinfeld-into-a-world-of-witches-with-a-surly-magical-cat/l-intro-1791580094.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "e2b3e8817924ac5c",
-      "title": "The Influencer Project review – ick-inducing thriller exploits overexposed tropes",
+      "id": "ef425830e0fb9cae",
+      "title": "The Influencer Project review – ick-inducing thriller satirises social media content, and exploits it too",
       "quote": "When influencer/singer/content creator Chiara King visits Copenhagen all the trips to trendy shops and fancy restaurants soon take a turn for the worse British influencer/singer/content creator Chiara King stars as…",
       "publisher": "The Guardian",
       "author": "Leslie Felperin",
@@ -194,17 +370,6 @@
       "link": "https://www.theguardian.com/film/2026/oct/12/the-influencer-project-review-ick-thriller-chiara-king",
       "image": "https://i.guim.co.uk/img/media/3471d91971d181961feca3a8c5435c43eb130a41/538_0_1349_1080/master/1349.jpg?width=140&quality=85&auto=format&fit=max&s=bc9ff62f9d3e9afd2d62179be6cd3fb4",
       "category": "World Cinema"
-    },
-    {
-      "id": "a4ff86ff267c16ce",
-      "title": "25 Years Ago Today: Naomi Watts Starred In One Of The Most Mind-Bending Movies Ever Made",
-      "quote": "25 years ago, the late, great David Lynch scored the biggest critical success of his career with this mind-bending movie starring Naomi Watts.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Witney Seibold)",
-      "date": "2026-10-12T12:00:00+00:00",
-      "link": "https://www.slashfilm.com/2274749/naomi-watts-movie-mulholland-drive-25-year-anniversary/",
-      "image": "https://www.slashfilm.com/img/gallery/naomi-watts-movie-mulholland-drive-25-year-anniversary/l-intro-1791806784.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "ee3807dda5a0c128",
@@ -218,19 +383,8 @@
       "category": "Indian Cinema"
     },
     {
-      "id": "27b7e4a5d8460ea4",
-      "title": "Columbo Star Peter Falk Headlined The Last Rod Serling Movie Ever Made",
-      "quote": "Long after Rod Serling died, Columbo actor Peter Falk starred in the last movie to date that was made from a Serling-written screenplay.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Ryan Scott)",
-      "date": "2026-10-12T11:30:00+00:00",
-      "link": "https://www.slashfilm.com/2281252/columbo-peter-falk-rod-serling-movie-a-storm-in-summer/",
-      "image": "https://www.slashfilm.com/img/gallery/columbo-star-peter-falk-headlined-the-last-rod-serling-movie-ever-made/l-intro-1791473319.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "cd75656708fc0ef4",
-      "title": "Mort la révolution! Why UK film loves a failed rebellion",
+      "id": "d351de90fcb50a8a",
+      "title": "Mort à la révolution! Why UK film loves a failed rebellion",
       "quote": "Paul Greengrass’s Peasants’ Revolt epic, The Uprising, is just the latest in a long line of movies depicting an unsuccessful attempt at remaking the nation The British are perverse. We fetishise our failures, even if…",
       "publisher": "The Guardian",
       "author": "Stuart Jeffries",
@@ -295,17 +449,6 @@
       "category": "Festival Winners"
     },
     {
-      "id": "df8a734d3b884806",
-      "title": "5 Best Sci-Fi Movies Of 1999, Ranked",
-      "quote": "1999 was a huge year for movies, and the science fiction genre fared particularly well that year. Here are the five best sci-fi movies of 1999, ranked.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Ryan Scott)",
-      "date": "2026-10-12T08:10:00+00:00",
-      "link": "https://www.slashfilm.com/2281166/best-sci-fi-movies-1999-ranked/",
-      "image": "https://www.slashfilm.com/img/gallery/5-best-sci-fi-movies-of-1999-ranked/l-intro-1791472757.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "7e6900d3683f730d",
       "title": "A Fidai Film review – Palestinian collage film transforms suppressed footage into works of art",
       "quote": "Using archive material of destroyed houses, terrorised children and dead bodies, Kamal Aljafari adds humanity to the reels by overlaying poems by Palestinian authors In Arabic, “fidai” means someone willing to sacrifice…",
@@ -328,17 +471,6 @@
       "category": "Indian Cinema"
     },
     {
-      "id": "dc27a280ab580bd5",
-      "title": "'Ramayana' Part 1 to release worldwide on November 5; advance bookings to open on Dussehra",
-      "quote": "Directed by Nitesh Tiwari, the film is envisioned as a two-part cinematic adaptation of the Ramayana, one of India's most revered epics.",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-12T07:14:39+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/ramayana-part-1-to-release-worldwide-on-november-5-advance-bookings-to-open-on-dussehra/article71574072.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/gir57v/article71574083.ece/alternates/LANDSCAPE_1200/The%20poster%20of%20%E2%80%98Ramayana%E2%80%99%20featuring%20Yash%20Ranbir%20Kapoor%20Ravi%20Dubey%20and%20Sai%20Pallavi",
-      "category": "Indian Cinema"
-    },
-    {
       "id": "946cdc09109f5f2a",
       "title": "Deadline review – shocking threat sends tremors through authoritarian school",
       "quote": "Set in a dystopian private academy rife with surveillance and cut-throat competition, Kiwi Chow’s gripping drama cements his status as an important film-maker Filmed in Taiwan and set entirely inside a prestigious high…",
@@ -350,28 +482,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "c3f3874a57840ab1",
-      "title": "Going on a couples' holiday with your son is about as awkward as it sounds on Youth",
-      "quote": "Youth keeps asking bold questions, like what do you do when you have to go on a couples' weekend with your son?",
-      "publisher": "The A.V. Club",
-      "author": "Danette Chavez",
-      "date": "2026-10-12T02:30:18+00:00",
-      "link": "https://www.avclub.com/youth-recap-season-1-episode-5-the-holiday",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/10/09/MixCollage-09-Oct-2026-03-05-PM-7161.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "001a4c46df5b836d",
-      "title": "Marshals Season 2 May Finally Give An Overlooked Yellowstone Character A Real Storyline",
-      "quote": "Yellowstone character Tate Dutton hasn't been give much to do, but he might finally be getting an real storyline in Marshals Season 2.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-10-12T01:00:00+00:00",
-      "link": "https://www.slashfilm.com/2282595/marshals-season-2-yellowstone-character-tate-dutton-real-storyline/",
-      "image": "https://www.slashfilm.com/img/gallery/marshals-season-2-may-finally-give-an-overlooked-yellowstone-character-a-real-storyline/l-intro-1791569256.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "0dfd78de53646c77",
       "title": "‘The Sea Speaks His Name’ Review: Absorbing Indonesian Political Thriller Is an Ode to Disappeared Activists",
       "quote": "In an age where some call themselves activists merely through social media posting, stories of the dangers, consequences and occasional, very hard-won rewards of boots-on-the-ground political activism have additional…",
@@ -381,105 +491,6 @@
       "link": "https://variety.com/2026/film/reviews/the-sea-speaks-his-name-review-1236908499/",
       "image": "https://variety.com/wp-content/uploads/2025/12/The-Sea-Speaks-His-Name.jpg",
       "category": "World Cinema"
-    },
-    {
-      "id": "b7e3399fc050fea3",
-      "title": "The First Twilight Zone Episode Featured A Western Legend In A Starring Role",
-      "quote": "The first episode of The Twilight Zone starred Earl Holliman, who gained a healthy reputation as one of his era's preeminent Western actors.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Witney Seibold)",
-      "date": "2026-10-12T00:45:00+00:00",
-      "link": "https://www.slashfilm.com/2279225/the-twilight-zone-first-episode-western-actor-earl-holliman/",
-      "image": "https://www.slashfilm.com/img/gallery/the-first-twilight-zone-episode-featured-a-western-legend-in-a-starring-role/l-intro-1791310652.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "f3012539d46685fa",
-      "title": "5 '80s Sci-Fi Movies That Deserved More Attention",
-      "quote": "For a variety of reasons, these '80s sci-fi movies (all of which are either good or great) didn't receive the attention they deserved.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Jeremy Smith)",
-      "date": "2026-10-11T23:30:00+00:00",
-      "link": "https://www.slashfilm.com/2280547/sci-fi-movies-80s-deserve-more-attention/",
-      "image": "https://www.slashfilm.com/img/gallery/5-80s-sci-fi-movies-that-deserved-more-attention/l-intro-1791402301.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "e5429f0af4906c07",
-      "title": "Bayou crimes mostly go unpunished in the haunting HBO doc The Pet Cemetery Murders",
-      "quote": "The Pet Cemetery Murders isn’t as daring as the two Errol Morris masterpieces it calls to mind. But it has a fascinating story to tell, and a sharp angle on it. Sometimes that’s enough.",
-      "publisher": "The A.V. Club",
-      "author": "Noel Murray",
-      "date": "2026-10-11T18:00:15+00:00",
-      "link": "https://www.avclub.com/pet-cemetery-murders-hbo-dorothy-lou-thompson",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/10/11/MixCollage-11-Oct-2026-07-16-AM-6656.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "3715959f521ed88f",
-      "title": "Javier Bardem confirms his Skyfall villain absolutely wanted to bone Bond",
-      "quote": "The <i>No Country For Old Men</i> star says the homoerotic subtext between Raoul Silva and James Bond was all his idea.",
-      "publisher": "The A.V. Club",
-      "author": "Dennis Perkins",
-      "date": "2026-10-11T17:12:10+00:00",
-      "link": "https://www.avclub.com/javier-barden-skyfall-gay-subtext",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/10/11/skyfall-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "21e1dfb09799c150",
-      "title": "SNL UK parodies Hollywood disaster flicks, but on the Tube",
-      "quote": "Fake movie trailer <i>Un-Startable</i> suggests that a runaway London Underground really isn't that tough to handle.",
-      "publisher": "The A.V. Club",
-      "author": "Dennis Perkins",
-      "date": "2026-10-11T16:30:36+00:00",
-      "link": "https://www.avclub.com/snl-uk-runaway-train-movie-parody",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/10/11/tube-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "92a16967f5978ec5",
-      "title": "Staff Picks: A hero-free Hollywood satire and another round for Mojito fiends",
-      "quote": "For this week's Staff Picks, TV critic Saloni Gajjar heads west for a Hollywood satire starring an unlikable Simp, and staff writer Matt Schimkowitz blazers up for a new cut of Michael Mann's Miami Vice.",
-      "publisher": "The A.V. Club",
-      "author": "A.V. Club Staff",
-      "date": "2026-10-11T16:00:59+00:00",
-      "link": "https://www.avclub.com/staff-picks-miami-vice-directors-cut-the-simp",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/10/08/MixCollage-08-Oct-2026-07-31-PM-8098.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "beecbcef35d51c62",
-      "title": "You've already ingested AI-generated content, boasts Netflix exec",
-      "quote": "Some 300 Netflix productions have already employed the controversial technology, according to one executive.",
-      "publisher": "The A.V. Club",
-      "author": "Dennis Perkins",
-      "date": "2026-10-11T15:49:56+00:00",
-      "link": "https://www.avclub.com/netflix-used-ai-in-300-titles",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/10/11/AI-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "b8ea030aba710857",
-      "title": "The problem with AI-upscaled monstrosities isn't the AI",
-      "quote": "It's not just you, older shows look different on streaming. The culprit isn't just AI.",
-      "publisher": "The A.V. Club",
-      "author": "Alex Cranz",
-      "date": "2026-10-11T15:00:04+00:00",
-      "link": "https://www.avclub.com/ai-upscaling-failures-a-different-world-i-love-lucy-roseanne",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/10/09/MixCollage-08-Oct-2026-02-05-PM-5391.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "a4d887d4427d927a",
-      "title": "New Girl cast reunites to roast Max Greenfield—oh, and for charity",
-      "quote": "The sitcom's six main cast members assembled on Saturday to receive an award from charitable organization Chrysalis.",
-      "publisher": "The A.V. Club",
-      "author": "Dennis Perkins",
-      "date": "2026-10-11T14:46:22+00:00",
-      "link": "https://www.avclub.com/new-girl-awards-show-reunion-greenfield",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/10/11/new-girl-feature.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "b73cecf1e0fabb5e",
@@ -665,17 +676,6 @@
       "author": "Cortlyn Kelly",
       "date": "2026-10-09T13:00:00+00:00",
       "link": "https://www.rogerebert.com/reviews/california-schemin-james-mcavoy-movie-review-2026",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "a0818fbe60bd075d",
-      "title": "Matchbox: The Movie",
-      "quote": "The film aims to bring to life the imagination a child brings to his toys, and it delivers.",
-      "publisher": "RogerEbert.com",
-      "author": "Nell Minow",
-      "date": "2026-10-09T13:00:00+00:00",
-      "link": "https://www.rogerebert.com/reviews/matchbox-the-movie-john-cena-apple-tv-movie-review-2026",
       "image": null,
       "category": "World Cinema"
     },
