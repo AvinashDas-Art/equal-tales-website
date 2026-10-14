@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T22:32:27.330853+00:00",
+  "generated_at": "2026-10-14T04:31:09.393923+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -9,59 +9,169 @@
   ],
   "reviews": [
     {
-      "id": "916187154fc7ef66",
-      "title": "New York Times Op-Docs Acquires ‘The Revolution Against Death,’ Oscar Nominee Joshua Oppenheimer’s Film On Quest For Immortality",
-      "quote": "EXCLUSIVE: The New York Times’ prestigious Op-Docs platform has acquired The Revolution Against Death, the new short film directed by two-time Oscar nominee Joshua Oppenheimer. The documentary set at an annual longevity…",
+      "id": "f1c5cbe2a75c2ac8",
+      "title": "Judge Rules Trump Administration Can’t Resume Ban On CNN, MS NOW & Politico From White House Grounds",
+      "quote": "UPDATED, with additional comment: A federal judge prohibited the Trump administration from banning CNN, MS NOW and Politico from the White House grounds, granting the three outlets a preliminary injunction that ensures…",
       "publisher": "Deadline",
-      "author": "Matthew Carey",
-      "date": "2026-10-13T22:29:36+00:00",
-      "link": "https://deadline.com/2026/10/the-revolution-against-death-new-york-times-op-docs-acquisition-1237156214/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/Image-1-main-still-from-THE-REVOLUTION-AGAINST-DEATH.-Photo-credit-Svetlana-Cvetko.-Courtesy-of-The-New-York-Times-_-MUBI.jpg",
+      "author": "Ted Johnson",
+      "date": "2026-10-14T03:11:27+00:00",
+      "link": "https://deadline.com/2026/10/trump-white-house-ban-cnn-ms-now-politico-4-1237155884/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/White-House.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "f4cf6cdee6bfbd55",
+      "title": "‘All About Corinne’ Review: Isabelle Huppert Stalks Sandrine Kiberlain in a Witty, Deliciously Acted French Industry Satire",
+      "quote": "As one of the select few French actresses who has earned definite-article status in her homeland — referred to routinely as La Huppert, alongside the likes of La Binoche and La Deneuve — it’s immediately, amusingly…",
+      "publisher": "Variety",
+      "author": "Guy Lodge",
+      "date": "2026-10-14T02:27:56+00:00",
+      "link": "https://variety.com/2026/film/reviews/all-about-corinne-review-isabelle-huppert-1236908606/",
+      "image": "https://variety.com/wp-content/uploads/2026/09/All-About-Corinne.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "4a83399b10383f2e",
+      "title": "James McAvoy Recalls Being Bullied On The Set Of HBO’s ‘Band Of Brothers’",
+      "quote": "James McAvoy recalls his first day on the set of Band of Brothers and says a co-star bullied him. During a visit to Bravo’s Watch What Happens Live while playing “Spill the IMDb-tea,” McAvoy made the revelation while…",
+      "publisher": "Deadline",
+      "author": "Armando Tinoco",
+      "date": "2026-10-14T02:08:35+00:00",
+      "link": "https://deadline.com/2026/10/james-mcavoy-bullied-set-hbo-band-of-brothers-1237156356/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/james-mcavoy-band-of-brothers.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "fb0016804054b173",
+      "title": "When Does VisionQuest Take Place In The Marvel Timeline?",
+      "quote": "Where, exactly, does VisionQuest fall in the larger Marvel Cinematic Universe timeline? Here's what the show has to offer on the matter.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Rafael Motamayor)",
+      "date": "2026-10-14T02:00:00+00:00",
+      "link": "https://www.slashfilm.com/2285543/visionquest-marvel-timeline-explained/",
+      "image": "https://www.slashfilm.com/img/gallery/when-does-visionquest-take-place-in-the-marvel-timeline/l-intro-1791910579.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "2b90c31d4cf00f5b",
+      "title": "‘Dancing With The Stars’ Recap: Super Bowl Night Sends Home A Fan Favorite",
+      "quote": "SPOILER ALERT! This post contains details from Tuesday’s episode of Dancing with the Stars. Another week, another night of Dancing with the Stars. It’s the first-ever Super Bowl night in the ballroom, so the remaining…",
+      "publisher": "Deadline",
+      "author": "Katie Campione",
+      "date": "2026-10-14T01:59:43+00:00",
+      "link": "https://deadline.com/2026/10/dancing-with-the-stars-season-35-week-5-recap-super-bowl-1237155960/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/183731_EM205298-900x0-copy.png",
+      "category": "World Cinema"
+    },
+    {
+      "id": "c67102b8c9bb1042",
+      "title": "How Is Ultron Alive In Marvel's VisionQuest? The Avengers Retcon Explained",
+      "quote": "The Marvel series VisionQuest reveals that Ultron is still alive despite seemingly dying at the end of Avengers: Age of Ultron. But how?",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Jeremy Mathai)",
+      "date": "2026-10-14T01:30:00+00:00",
+      "link": "https://www.slashfilm.com/2284996/how-ultron-alive-marvel-visionquest-avengers-retcon-explained/",
+      "image": "https://www.slashfilm.com/img/gallery/how-ultron-alive-marvel-visionquest-avengers-retcon-explained/l-intro-1791920345.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "fdea949eb72e4a75",
+      "title": "Candle In The Wind: 5-Year-Old Media Firm Faces New Questions After Hello Sunshine Exit",
+      "quote": "Now that Candle Media’s glow has dimmed further with the sale of its Hello Sunshine majority stake, fresh questions are being raised about the firm’s future. The financials around the deal for Reese Witherspoon’s…",
+      "publisher": "Deadline",
+      "author": "Dade Hayes",
+      "date": "2026-10-14T00:51:36+00:00",
+      "link": "https://deadline.com/2026/10/candle-media-faces-questions-hello-sunshine-exit-1237156037/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/Kevin-Mayer-and-Tom-Staggs.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "7701cf79c308c23c",
+      "title": "Roy Scheider Appeared In Two Sequels To A Horror Box Office Flop",
+      "quote": "In the early 2000s, Jaws star Roy Scheider appeared in two direct-to-video horror sequels about another creature with very sharp teeth.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Witney Seibold)",
+      "date": "2026-10-14T00:45:00+00:00",
+      "link": "https://www.slashfilm.com/2284590/roy-scheider-box-office-flop-dracula-2000-sequels/",
+      "image": "https://www.slashfilm.com/img/gallery/roy-scheider-appeared-in-two-sequels-to-a-horror-box-office-flop/l-intro-1791833052.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "3b0914f37f5baa27",
+      "title": "Drake Bell Calls Out SAG-AFTRA After Losing Health Insurance & Urges People To “Not Become An Actor” Or “Join SAG”",
+      "quote": "Drake Bell is calling out SAG-AFTRA after revealing he didn’t have health insurance because he didn’t qualify. The Drake & Josh alum took to social media to share a screenshot from the actors’ guild website where it…",
+      "publisher": "Deadline",
+      "author": "Armando Tinoco",
+      "date": "2026-10-14T00:30:00+00:00",
+      "link": "https://deadline.com/2026/10/drake-bell-sag-aftra-health-insurance-1237156308/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/drake-bell-insurance-sagaftra.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "aa2100ded075cfa9",
+      "title": "‘The White Lotus’ Filming In Cannes As Season 4 Production Enters Final Stretch, Hôtel Martinez Transformation Confirms New Resort Logo",
+      "quote": "The White Lotus‘ Cannes takeover continues. As Season 4 of Mike White’s HBO series is headed into the final stretch on its lengthy shoot, the mystery series has camped out at the famous Hôtel Martinez on Promenade de la…",
+      "publisher": "Deadline",
+      "author": "Nada Aboul Kheir",
+      "date": "2026-10-14T00:08:49+00:00",
+      "link": "https://deadline.com/2026/10/white-lotus-season-4-production-cannes-final-stretch-1237155644/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/White-Lotus-Cannes-e1791906444119.jpg",
       "category": "Festival Winners"
     },
     {
-      "id": "f280d71a6a84c921",
-      "title": "Spencer Boldman & Antonia DeNardo Launch Production Company Forza Partners",
-      "quote": "EXCLUSIVE: Actor Spencer Boldman and manager-producer Antonia DeNardo have partnered to launch Forza Partners, a new film and television production company based in Dallas. Developing projects for both the domestic and…",
+      "id": "1c3c5fd0865b5df0",
+      "title": "Golden Globes Vs Golden Globe: Infringement & Money Are Latest Legal Battlefields In Shindig Skirmish",
+      "quote": "The 84th annual Golden Globes Awards are months away, but the once boozy and sometimes unhinged ceremony is front and center right now, at least in the court dockets. Two months after the remnants of the Hollywood…",
       "publisher": "Deadline",
-      "author": "Matthewgrobar",
-      "date": "2026-10-13T22:10:06+00:00",
-      "link": "https://deadline.com/2026/10/spencer-boldman-antonia-denardo-launch-forza-partners-1237155879/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/img-0b3f9424-5cf0-4d62-be20-08db072706b5.jpeg",
+      "author": "Dominic Patten",
+      "date": "2026-10-13T23:39:49+00:00",
+      "link": "https://deadline.com/2026/10/golden-globes-legal-battle-trademark-1237156199/",
+      "image": "https://deadline.com/wp-content/uploads/2026/01/What-You-Didnt-See-On-TV.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "ed8fbcaa451b79bc",
+      "title": "‘Clean Hands’ Review: Zach Braff Is a Cop on a Crusade to Save His Addict Daughter in an Uneasy Fact-Based Crime Drama",
+      "quote": "When a filmmaker tells a story based on real events, especially ones that are inspiring or heroic, there’s always a risk of hagiography. “Clean Hands” is a movie where the storytellers either take a lot of license with…",
+      "publisher": "Variety",
+      "author": "Todd Gilchrist",
+      "date": "2026-10-13T23:14:27+00:00",
+      "link": "https://variety.com/2026/film/reviews/clean-hands-review-1236910791/",
+      "image": "https://variety.com/wp-content/uploads/2026/10/Clean-Hands.webp",
       "category": "World Cinema"
     },
     {
-      "id": "f6a93bd5d66cadf9",
-      "title": "Milo Manheim Boards Amazon MGM & Miramax’s ‘Serendipity’ Redo From Michael Showalter",
-      "quote": "EXCLUSIVE: Milo Manheim, the 25-year-old L.A. native recently tapped to co-lead Disney’s live-action Tangled, has landed a lead role in Michael Showalter’s redo of rom-com Serendipity for Amazon MGM Studios and Miramax…",
+      "id": "934bfb3c7acdb8e2",
+      "title": "Doc Talk Podcast: David And Liani Greaves On Their Oscar Contender ‘Once Upon A Time In Harlem’",
+      "quote": "Once Upon a Time in Harlem is continuing its strong push for Oscar recognition, earning five nominations Tuesday for the Critics Choice Documentary Awards. That’s added to the distinction of premiering at Sundance, and…",
       "publisher": "Deadline",
-      "author": "Matthewgrobar",
-      "date": "2026-10-13T22:00:00+00:00",
-      "link": "https://deadline.com/2026/10/milo-manheim-to-star-serendipity-michael-showalter-1237156184/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/Headshot-Photo-Credit-Megan-Clark.jpg",
-      "category": "World Cinema"
+      "author": "Patrick Hipes",
+      "date": "2026-10-13T23:01:09+00:00",
+      "link": "https://deadline.com/2026/10/once-upon-a-time-in-harlem-david-liani-greaves-podcast-1237156136/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/David-and-Liani-Greaves-GettyImages-2294046044-1500.jpg",
+      "category": "Festival Winners"
     },
     {
-      "id": "da12986af6e38ea3",
-      "title": "Chris O’Donnell Launches Lone Cypress Entertainment With First Project ‘Kilkenny’ Set",
-      "quote": "EXCLUSIVE: Chris O’Donnell has launched Lone Cypress Entertainment, a new production company backed with capital for development and production. The company’s first project is the film Kilkenny, starring P.J. Byrne (The…",
-      "publisher": "Deadline",
-      "author": "Rosy Cordero",
-      "date": "2026-10-13T21:55:31+00:00",
-      "link": "https://deadline.com/2026/10/chris-odonnell-lone-cypress-entertainment-kilkenny-film-1237156141/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/Chris-Odonnell-02-12-261730B_flat_V2-1500.jpg",
-      "category": "World Cinema"
+      "id": "4c806efaf0a739f6",
+      "title": "Project Hail Mary's Emotional Goodbye Scene Was Inspired By Rocky's Mysterious Markings [Exclusive]",
+      "quote": "Some improvisation and a change in character design lead directly to the emotional goodbye scene from Project Hail Mary.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Joe Roberts)",
+      "date": "2026-10-13T23:00:00+00:00",
+      "link": "https://www.slashfilm.com/2283787/project-hail-mary-goodbye-scene-inspiration-rocky-markings/",
+      "image": "https://www.slashfilm.com/img/gallery/project-hail-marys-emotional-goodbye-scene-was-inspired-by-rockys-mysterious-markings-exclusive/l-intro-1791815895.jpg",
+      "category": "Indie Gems"
     },
     {
-      "id": "c6098ef27200a4f7",
-      "title": "Callan Farris, Lexi Minetree & Josh Macqueen Round Out Cast Of Sony Comedy ‘Narcs’",
-      "quote": "EXCLUSIVE: Sony Pictures has rounded out the cast for its coming-of-age comedy Narcs, with three additions: Callan Farris (Grimcutty) has landed the third lead opposite Mason Thames and Ella Bright, with Lexi Minetree…",
-      "publisher": "Deadline",
-      "author": "Matthewgrobar",
-      "date": "2026-10-13T21:30:35+00:00",
-      "link": "https://deadline.com/2026/10/narcs-movie-cast-callan-farris-lexi-minetree-josh-macqueen-1237156170/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/callan-headshot-evelyn-new-try-1000x667-1.jpg",
-      "category": "World Cinema"
+      "id": "b9105cb64c3ad303",
+      "title": "‘Once Upon in the Middle East’ Review: China’s Oscar Entry Is a Breakneck Blockbuster That Mixes Food Porn With Wartime Devastation",
+      "quote": "Not since Zhang Yimou’s 2002 wuxia spectacle “Hero” has China landed an Oscar nomination for Best International Feature — and this dry spell surely won’t be broken with this year’s bombastic submission “Once Upon a Time…",
+      "publisher": "Variety",
+      "author": "Guy Lodge",
+      "date": "2026-10-13T22:21:27+00:00",
+      "link": "https://variety.com/2026/film/reviews/once-upon-in-the-middle-east-review-1236910775/",
+      "image": "https://variety.com/wp-content/uploads/2026/08/Once-Upon-a-Time-in-the-Middle-East.jpg",
+      "category": "Festival Winners"
     },
     {
       "id": "6d8edd5fa78132ff",
@@ -86,17 +196,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "f4fa344df925a4bd",
-      "title": "‘A Few Good Men’, ‘Other Desert Cities’ Sell Out; ‘Hamilton’ Grosses Huge $3M – Broadway Box Office",
-      "quote": "A Few Good Men and Other Desert Cities, starry new revivals on the Broadway stage, sold out their performances last week, with the latter production (starring Julia Louis-Dreyfus, Ed Harris, Allison Janney, Joe Keery…",
-      "publisher": "Deadline",
-      "author": "Greg Evans",
-      "date": "2026-10-13T21:17:34+00:00",
-      "link": "https://deadline.com/2026/10/broadway-box-office-few-good-men-oh-mary-1237155667/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/A-Few-Good-Men-first-preview_Emilio-Madrid_3155.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "9aeb9b13d552793c",
       "title": "Clayface Could Be The Box Office Hit DC Needs After Supergirl",
       "quote": "The new DC Universe could sure use a box office hit. Will the R-Rated Clayface succeed where others have failed? Let's take a look.",
@@ -106,17 +205,6 @@
       "link": "https://www.slashfilm.com/2285715/clayface-movie-box-office-preview/",
       "image": "https://www.slashfilm.com/img/gallery/clayface-could-be-the-box-office-hit-dc-needs-after-supergirl/l-intro-1791915266.jpg",
       "category": "Indie Gems"
-    },
-    {
-      "id": "e84de88e9122a22b",
-      "title": "The Black List Names 2026 Writers Lab Participants",
-      "quote": "EXCLUSIVE: The Black List has named the six writers and projects chosen for its 2026 Writers Lab. They are Elton de Almeida (A Mark of Kin), Yasmin DeWinter (Guillaume), Scott Leddy (Nightwatch), Marcelle Pallais (One…",
-      "publisher": "Deadline",
-      "author": "Denise Petski",
-      "date": "2026-10-13T20:26:20+00:00",
-      "link": "https://deadline.com/2026/10/the-black-list-2026-writers-lab-participants-1237156083/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/The-Black-list.jpg",
-      "category": "World Cinema"
     },
     {
       "id": "e69662266c85cd42",
@@ -139,17 +227,6 @@
       "link": "https://www.avclub.com/girls-returns-hbo-summer-2027",
       "image": "https://img.pastemagazine.com/wp-content/avuploads/2025/07/07094054/Screenshot-2025-07-07-at-9.37.24-AM.jpg",
       "category": "Indie Gems"
-    },
-    {
-      "id": "3b8133697563ec09",
-      "title": "‘Below’ Attracts Record Debut For A Netflix Canadian Series",
-      "quote": "Below attracted a record audience on Netflix over the weekend. The limited series about a fisherman (Josh Hartnett) whose small Newfoundland hometown is terrorized by a mysterious sea creature baited 17 million views…",
-      "publisher": "Deadline",
-      "author": "Katie Campione",
-      "date": "2026-10-13T19:26:07+00:00",
-      "link": "https://deadline.com/2026/10/below-netflix-premiere-ratings-record-canadian-1237155959/",
-      "image": "https://deadline.com/wp-content/uploads/2026/07/Below_n_S1_E1_00_06_58_21.jpg",
-      "category": "World Cinema"
     },
     {
       "id": "8fe41babb8224865",
@@ -229,50 +306,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "ccd581a3f1cefb7a",
-      "title": "Matt Damon Appeared In A Star-Studded 2010s Sci-Fi Movie That Asked Big Questions",
-      "quote": "A-listers like Matt Damon parade throughout this 2010 sci-fi film, which is both philosophically dense and visually chaotic.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Witney Seibold)",
-      "date": "2026-10-13T17:00:00+00:00",
-      "link": "https://www.slashfilm.com/2284053/matt-damon-star-studded-2010s-sci-fi-movie-the-zero-theorem/",
-      "image": "https://www.slashfilm.com/img/gallery/matt-damon-appeared-in-a-star-studded-2010s-sci-fi-movie-that-asked-big-questions/l-intro-1791822733.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "6936c277b9fadafe",
-      "title": "You Can See Everything Review: A Mystifying Masterwork Of Mind-Melting Manipulation",
-      "quote": "Lance Oppenheim and Nathan Fielder's documentary about Elizabeth Holmes is mystifying, and if you think you know the full story, this movie proves you don't.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Ethan Anderton)",
-      "date": "2026-10-13T16:52:49+00:00",
-      "link": "https://www.slashfilm.com/2285528/you-can-see-everything-review-elizabeth-holmes-nathan-fielder-documentary/",
-      "image": "https://www.slashfilm.com/img/gallery/you-can-see-everything-review-a-mystifying-masterwork-of-mind-melting-manipulation/l-intro-1791908142.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "bcff343aecc5794e",
-      "title": "Anne Hathaway's Chilling 2023 Thriller Completely Flew Under Everyone's Radar",
-      "quote": "In the mood for an unsettling thriller starring Anne Hathaway? You'll definitely want to give this under-appreciated 2023 flick a look.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-10-13T16:30:00+00:00",
-      "link": "https://www.slashfilm.com/2282204/anne-hathaway-underrated-2023-thriller-eileen/",
-      "image": "https://www.slashfilm.com/img/gallery/anne-hathaways-chilling-2023-thriller-completely-flew-under-everyones-radar/l-intro-1791557676.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "42e90074322b17cd",
-      "title": "Project Hail Mary's Rocky Actor Points Out A Subtle Detail You May Have Missed [Exclusive]",
-      "quote": "We spoke with James Ortiz, who puppeteered and voiced Rocky in Project Hail Mary, about an aspect of his performance that you may not have considered.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-10-13T16:00:00+00:00",
-      "link": "https://www.slashfilm.com/2282856/project-hail-mary-movie-rocky-voice-actor-detail/",
-      "image": "https://www.slashfilm.com/img/gallery/project-hail-marys-rocky-actor-points-out-a-subtle-detail-you-may-have-missed-exclusive/l-intro-1791582812.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "36c39cb9ac971a96",
       "title": "‘A tipping point of ickiness’: Welsh star Tom Rhys Harries on playing eyelid-snipping DC supervillain Clayface",
       "quote": "He cut his teeth playing rock stars and pretty posh boys. Speaking from his LA home, the actor talks about landing his first blockbuster lead in the grisly DC horror. Will it be too shocking for comic book fans? Exactly…",
@@ -282,6 +315,17 @@
       "link": "https://www.theguardian.com/film/2026/oct/13/tom-rhys-harries-on-playing-dc-supervillain-clayface",
       "image": "https://i.guim.co.uk/img/media/88b409ecac1f4a4fa9b336854aab4f664166564d/241_0_6824_5460/master/6824.jpg?width=140&quality=85&auto=format&fit=max&s=65192c47e153a844e0a2edef58ca12e9",
       "category": "World Cinema"
+    },
+    {
+      "id": "0e4f7a21889d8cbc",
+      "title": "‘Jailer 2’ action director Chethan D’ Souza on Rajinikanth’s style, humility and instinct for action",
+      "quote": "Action director Chethan D’ Souza, who has worked in ‘Jailer 2’, talks about Rajinikanth’s down-to-earth attitude and his knack for stylish action moves and opens up on adapting to director Nelson’s simple yet effective…",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-13T13:23:57+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/rajinikanth-jailer-2-nelson-jailer-2-interview-chethan-d-souza-interview-jailer-2-interview-superstar-rajinikanth/article71578348.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/lmmg91/article71578356.ece/alternates/LANDSCAPE_1200/Jailer-2-Chethan-D-Souza.jpg.jpeg",
+      "category": "Indian Cinema"
     },
     {
       "id": "dc92824ebeec45a8",
@@ -328,14 +372,14 @@
       "category": "World Cinema"
     },
     {
-      "id": "0e4f7a21889d8cbc",
-      "title": "‘Jailer 2’ action director Chethan D’ Souza on Rajinikanth’s style, humility and instinct for action",
-      "quote": "Action director Chethan D’ Souza, who has worked in ‘Jailer 2’, talks about Rajinikanth’s down-to-earth attitude and his knack for stylish action moves and opens up on adapting to director Nelson’s simple yet effective…",
+      "id": "4a6342639de2ef38",
+      "title": "Vijay Deverakonda interview: Rashmika can switch off from work, I can’t",
+      "quote": "Ahead of the release of ‘Ranabaali’, Vijay Deverakonda talks about the Madras Famine period drama, his Rayalaseema dialect training, and working with Rashmika Mandanna",
       "publisher": "The Hindu",
       "author": null,
-      "date": "2026-10-13T10:30:17+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/rajinikanth-jailer-2-nelson-jailer-2-interview-chethan-d-souza-interview-jailer-2-interview-superstar-rajinikanth/article71578348.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/lmmg91/article71578356.ece/alternates/LANDSCAPE_1200/Jailer-2-Chethan-D-Souza.jpg.jpeg",
+      "date": "2026-10-13T10:56:46+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/vijay-deverakonda-interview-rashmika-can-switch-off-from-work-i-cant/article71574274.ece",
+      "image": "https://th-i.thgim.com/public/incoming/v2kw6p/article71574578.ece/alternates/LANDSCAPE_1200/vijay%20deverakonda%203.jpeg",
       "category": "Indian Cinema"
     },
     {
@@ -402,17 +446,6 @@
       "date": "2026-10-13T09:46:15+00:00",
       "link": "https://www.thehindu.com/entertainment/movies/james-spader-and-terry-matalas-on-resurrecting-ultron-in-the-age-of-ai-for-marvels-visionquest/article71578248.ece",
       "image": "https://th-i.thgim.com/public/entertainment/movies/1pxgqg/article71578249.ece/alternates/LANDSCAPE_1200/VisionQuest_TF_3.jpg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "75a320f9362e2716",
-      "title": "Madras High Court prevents unauthorised exhibition of Rajinikanth-starrer Jailer 2 and Shivarajkumar’s Bail",
-      "quote": "Justice P.B. Balaji passes the interim injunction orders on individual copyright infringement suits filed by Sun TV Network Limited and KVN Productions LLP",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-13T09:16:34+00:00",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-prevents-unauthorised-exhibition-of-rajinikanth-starrer-jailer-2-and-shivarajkumars-bail/article71577968.ece",
-      "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/kuasi1/article71578450.ece/alternates/LANDSCAPE_1200/Screenshot%202026-10-13%20132034.png",
       "category": "Indian Cinema"
     },
     {
@@ -545,39 +578,6 @@
       "date": "2026-10-11T04:49:44+00:00",
       "link": "https://variety.com/2026/film/reviews/midday-meal-review-1236907939/",
       "image": "https://variety.com/wp-content/uploads/2026/10/1788153786.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "2acac3e576b36f7e",
-      "title": "‘The First Taste of Loneliness’ Review: A Sentimental but Affecting Study of Family Life After Bereavement",
-      "quote": "The most moving scene in “The First Taste of Loneliness” is not, in fact, its most tear-streaked. Gu You’s heartfelt family portrait opens on an extended, anguished scene of three women — a mother, her daughter and her…",
-      "publisher": "Variety",
-      "author": "Guy Lodge",
-      "date": "2026-10-11T00:58:25+00:00",
-      "link": "https://variety.com/2026/film/reviews/the-first-taste-of-loneliness-review-1236907801/",
-      "image": "https://variety.com/wp-content/uploads/2026/10/The-First-Taste-of-Loneliness.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "c60dcd5268087ceb",
-      "title": "‘Ibuku’ Review: Dreamlike Indonesian Drama Is a Compelling Tale of Parental Redemption",
-      "quote": "The fraught relationship between an estranged mother and daughter takes centre stage in “Ibuku,” the fourth film from Indonesian writer-director Eddie Cahyono. Despite the first-person perspective of the title — which…",
-      "publisher": "Variety",
-      "author": "Guy Lodge",
-      "date": "2026-10-10T21:02:58+00:00",
-      "link": "https://variety.com/2026/film/reviews/ibuku-review-1236907736/",
-      "image": "https://variety.com/wp-content/uploads/2026/09/Ibuku.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "754d3f1432048016",
-      "title": "‘Tenzing’ Review: A Remarkable Adventure That Puts the Audience Right Up on Mount Everest, Along with the First Two Men — One a Sherpa, Overlooked by History — to Scale It",
-      "quote": "\"Tenzing\" earns its inspirational fervor, but the reason it fits into the new wave of mountain-climbing movies is that the director, Jennifer Peedom, an Australian who’s been making documentaries about mountain-climbing…",
-      "publisher": "Variety",
-      "author": "Owen Gleiberman",
-      "date": "2026-10-10T19:52:45+00:00",
-      "link": "https://variety.com/2026/film/reviews/tenzing-review-tom-hiddelston-mount-everest-1236907307/",
-      "image": "https://variety.com/wp-content/uploads/2026/08/Tenzing.jpg",
       "category": "World Cinema"
     },
     {
