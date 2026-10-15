@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T11:14:44.838040+00:00",
+  "generated_at": "2026-10-15T16:45:18.128571+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -9,15 +9,235 @@
   ],
   "reviews": [
     {
-      "id": "9a8d35bbf66d8ff6",
-      "title": "London TV Screenings Unveils 2027 Schedule Featuring Newly-Merged Banijay",
-      "quote": "The first London TV Screenings to feature the newly-merged Banijay-All3Media sales arm has unveiled its schedule. There is one less founding organizer of the screenings now that Big Brother seller Banijay and The…",
+      "id": "4f937b1eb582ed57",
+      "title": "Bleecker Street Bought By Outerlight Entertainment",
+      "quote": "Outerlight Entertainment, formerly known as First Look Entertainment, has acquired feature independent studio Bleecker Street Media. Currently, Bleecker Street has the critically acclaimed Alex Gibney directed…",
       "publisher": "Deadline",
-      "author": "Max Goldbart",
-      "date": "2026-10-15T11:11:00+00:00",
-      "link": "https://deadline.com/2026/10/london-tv-screenings-2027-banijay-itv-studios-fremantle-1237157961/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/big_brother_sr4_018.jpg",
+      "author": "Anthonypauldalessandro",
+      "date": "2026-10-15T16:30:37+00:00",
+      "link": "https://deadline.com/2026/10/bleecker-street-outerlight-entertainment-1237158222/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/Bleeker-Street-Outerlight-Entertainment-1.jpg",
       "category": "World Cinema"
+    },
+    {
+      "id": "7fdb05315a49bd14",
+      "title": "Talia Ryder, Elizabeth Marvel & Bill Camp Join STX & Aggregate’s True-Crime Thriller ‘PRƎPPY’",
+      "quote": "EXCLUSIVE: Talia Ryder (Never Rarely Sometimes Always) is set for a third lead role opposite Kit Connor and Diana Silvers in PRƎPPY, the true-crime flick from STX Entertainment and Aggregate Films that we recently…",
+      "publisher": "Deadline",
+      "author": "Matthewgrobar",
+      "date": "2026-10-15T16:30:00+00:00",
+      "link": "https://deadline.com/2026/10/talia-ryder-elizabeth-marvel-bill-camp-join-preppy-thriller-1237157757/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/elizabeth-marvel-bill-camp-1000x667-2.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "1bc43c991aa515fa",
+      "title": "Top Agencies Lead New Coalition To Push For U.S. Indie Production",
+      "quote": "A group of talent agencies and producers have joined forces to create to the American Entertainment Alliance dedicated to promoting U.S. independent production. The new coalition will push for legislation requiring…",
+      "publisher": "Deadline",
+      "author": "Jillg366",
+      "date": "2026-10-15T16:26:12+00:00",
+      "link": "https://deadline.com/2026/10/caa-wme-uta-coalition-for-independent-production-1237158217/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Los-Angeles-commercial-production.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "f5f0705d5cb7055d",
+      "title": "Natalee Holloway Disappearance Doc Sets Premiere At Netflix",
+      "quote": "Netflix is exploring the disappearance of U.S. teen Natalee Holloway in its latest documentary series. Taken: Natalee Holloway, which comes from Liz Garbus’ Story Syndicate, will premiere on November 4. It will explore…",
+      "publisher": "Deadline",
+      "author": "Peterdeadline",
+      "date": "2026-10-15T16:15:00+00:00",
+      "link": "https://deadline.com/2026/10/natalee-holloway-disappearance-doc-premiere-netflix-1237157430/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/Taken__Natalee_Holloway_n_S1_E3_00_34_11_23.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "189c445f74dcc2e6",
+      "title": "‘Street Fighter’ Review: Video Game Fighter Film Knocks Itself Unconscious",
+      "quote": "You could set your watch to the moment Kitao Sakurai’s “Street Fighter” stops working. It’s almost exactly at the halfway mark, when its streamlined, delightfully cartoonish saga actually reaches its central tournament…",
+      "publisher": "Variety",
+      "author": "Siddhant Adlakha",
+      "date": "2026-10-15T16:00:00+00:00",
+      "link": "https://variety.com/2026/film/reviews/street-fighter-review-1236912948/",
+      "image": "https://variety.com/wp-content/uploads/2026/10/MCDSTFI_PA048.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "f6f614c925e6a426",
+      "title": "‘Street Fighter’ Review: Noah Centineo Stars in a Video Game Adaptation That Pummels You With Fan Service and (Too Few) New Moves",
+      "quote": "The colorful gladiators return in this latest incarnation of the long-running video game series, directed by Kitao Sakurai and co-starring Andrew Koji and Callina Liang.",
+      "publisher": "The Hollywood Reporter",
+      "author": "Frank Scheck",
+      "date": "2026-10-15T16:00:00+00:00",
+      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/street-fighter-review-noah-centineo-1236730035/",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "9b6af93c75eba825",
+      "title": "Xochitl Gomez, Madeleine McGraw & Jack Champion Cast In ‘Bad Influence’ YA Horror",
+      "quote": "EXCLUSIVE: Xochitl Gomez, Madeleine McGraw and Jack Champion are hitting the road for the Jason Perlman-helmed YA horror film Bad Influence. The trio has been cast in the film from screenwriter Brandon Cohen, which is…",
+      "publisher": "Deadline",
+      "author": "Glenn Garner",
+      "date": "2026-10-15T16:00:00+00:00",
+      "link": "https://deadline.com/2026/10/xochitl-gomez-madeleine-mcgraw-jack-champion-bad-influence-1237158135/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/Bad-Influence-3-shot.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "932a3f296719b43b",
+      "title": "‘Street Fighter’ Review: Cheesy, Action-Packed Movie Reboot Has A Game Cast That Should Please Fans Looking To Relive The ’90s",
+      "quote": "Taking a cue from various attempts to breathe cinematic life into the Mortal Kombat franchise, including one earlier this year, another oldie but goodie from the heyday and beloved universe of video game classics is…",
+      "publisher": "Deadline",
+      "author": "Pete Hammond",
+      "date": "2026-10-15T16:00:00+00:00",
+      "link": "https://deadline.com/2026/10/street-fighter-review-movie-reboot-video-game-1237157505/",
+      "image": "https://deadline.com/wp-content/uploads/2025/12/Street-Fighter.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "0adec5ce6f6f2688",
+      "title": "Street Fighter Review: A Colorful Martial Arts Romp With A Bad Aftertaste",
+      "quote": "The new Street Fighter movie looks great but has such a bizarre, messy script that it ends up sabotaging itself. Here's our review.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Bill Bria)",
+      "date": "2026-10-15T16:00:00+00:00",
+      "link": "https://www.slashfilm.com/2286705/street-fighter-2026-movie-review/",
+      "image": "https://www.slashfilm.com/img/gallery/street-fighter-review-a-colorful-martial-arts-romp-with-a-bad-aftertaste/l-intro-1791992619.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "fc42087705474574",
+      "title": "3 Arts Entertainment Hires Karen Bonck As Head Of Brand Partnerships",
+      "quote": "EXCLUSIVE: Karen Bonck is joining 3 Arts Entertainment as their Head of Brand Partnerships. Bonck arrives at 3 Arts from Lionsgate owned Debmar-Mercury, where she most recently served as EVP of Partnerships & Current…",
+      "publisher": "Deadline",
+      "author": "Anthonypauldalessandro",
+      "date": "2026-10-15T15:58:39+00:00",
+      "link": "https://deadline.com/2026/10/3-arts-entertainment-karen-bonck-1237158170/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/Karen-Bonck.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "8206b16c8612825b",
+      "title": "Talent Manager Shakira Hedgpeth Joins ColorCreative",
+      "quote": "EXCLUSIVE: ColorCreative, the management and production company co-founded by Issa Rae, Deniese Davis, and Talitha Watkins, has a new hire: manager-producer Shakira Hedgpeth. With more than a decade of experience across…",
+      "publisher": "Deadline",
+      "author": "Matthewgrobar",
+      "date": "2026-10-15T15:45:00+00:00",
+      "link": "https://deadline.com/2026/10/shakira-hedgpeth-joins-colorcreative-talent-manager-1237157747/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/DSC07814-Edit-Edit-1.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "f98ffd375293c7e0",
+      "title": "Cult venue Prince Charles cinema ‘saved’ after lease renewal signed",
+      "quote": "The much-loved central London institution, which has been threatened with closure since January 2025, secures 25-year lease without break clause with current landlords The celebrated Prince Charles repertory cinema in…",
+      "publisher": "The Guardian",
+      "author": "Andrew Pulver",
+      "date": "2026-10-15T15:20:11+00:00",
+      "link": "https://www.theguardian.com/film/2026/oct/15/cult-venue-prince-charles-cinema-saved-lease-renewal-signed",
+      "image": "https://i.guim.co.uk/img/media/7495541080b4c6446925030514e6a170674abb58/1026_0_5915_4732/master/5915.jpg?width=140&quality=85&auto=format&fit=max&s=45fa3ab87c66d54bbe88501fa17aa82f",
+      "category": "World Cinema"
+    },
+    {
+      "id": "1fba1b1033458817",
+      "title": "The Beekeeper 2 Trailer Turns Jason Statham Into Batman",
+      "quote": "The Beekeeper 2 trailer is here and it's absolutely glorious, with Jason Statham essentially becoming Batman and sticking a flamethrower into some guy's mouth.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Chris Evangelista)",
+      "date": "2026-10-15T15:11:45+00:00",
+      "link": "https://www.slashfilm.com/2287626/jason-statham-the-beekeeper-2-trailer/",
+      "image": "https://www.slashfilm.com/img/gallery/jason-statham-the-beekeeper-2-trailer/l-intro-1792079021.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "e8a7e52314064822",
+      "title": "Can Wildwood Overcome Its Big Budget And Become A Box Office Hit?",
+      "quote": "Laika's Wildwood is faring well with critics, but can the beloved stop-motion animation studio's new film become a box office hit to boot?",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Ryan Scott)",
+      "date": "2026-10-15T15:00:00+00:00",
+      "link": "https://www.slashfilm.com/2285660/wildwood-laika-movie-box-office-preview/",
+      "image": "https://www.slashfilm.com/img/gallery/can-wildwood-overcome-its-big-budget-and-become-a-box-office-hit/l-intro-1791914072.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "fc6ee79e0ca4b464",
+      "title": "‘Stranger than stranger-than-fiction’: how Lance Oppenheim made the year’s two buzziest films",
+      "quote": "Primetime and You Can See Everything are both clammy, audacious awards contenders that challenge our sense of reality. Ahead of the release of his drama starring Robert Pattinson as a TV vigilante, the 30-year-old…",
+      "publisher": "The Guardian",
+      "author": "Ryan Gilbey",
+      "date": "2026-10-15T14:55:54+00:00",
+      "link": "https://www.theguardian.com/film/2026/oct/15/stranger-than-stranger-than-fiction-how-lance-oppenheim-made-the-years-two-buzziest-films",
+      "image": "https://i.guim.co.uk/img/media/7528553baf05edd3b792bcba2197a9fa77754cbd/301_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=3201c93c92f925c40181fa6be20c2294",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "33ab47234f366449",
+      "title": "5 Years Ago Today: Ridley Scott Directed An Epic Medieval Movie With An All-Star Cast",
+      "quote": "Don't let this five-year-old Ridley Scott medieval drama's box office performance mislead you into thinking it's not worth your time (it very much is).",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Devin Meenan)",
+      "date": "2026-10-15T14:00:00+00:00",
+      "link": "https://www.slashfilm.com/2283667/ridley-scott-movie-the-last-duel-5-year-anniversary/",
+      "image": "https://www.slashfilm.com/img/gallery/5-years-ago-today-ridley-scott-directed-an-epic-medieval-movie-with-an-all-star-cast/l-intro-1791811593.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "01baa12fadcbdf30",
+      "title": "‘Don’t do this!’ Why Paul McCartney cares about looking shorter than John Lennon in Sam Mendes’ Beatles films",
+      "quote": "You’re Paul McCartney. So how come you’re still getting het up at a fictional version of you being marginally smaller than a fictional version of John Lennon? There has been a lot of discourse and conjecture surrounding…",
+      "publisher": "The Guardian",
+      "author": "Stuart Heritage",
+      "date": "2026-10-15T13:30:13+00:00",
+      "link": "https://www.theguardian.com/film/2026/oct/15/dont-do-this-why-paul-mccartney-cares-about-looking-shorter-than-john-lennon-in-sam-mendes-beatles-films",
+      "image": "https://i.guim.co.uk/img/media/893dd63a295910f80bc05fd232426b04d993a077/444_2170_2841_2272/master/2841.jpg?width=140&quality=85&auto=format&fit=max&s=033f01403bffa5a9df2b37eb272f1ebc",
+      "category": "World Cinema"
+    },
+    {
+      "id": "d3b2dbb56e98e1d0",
+      "title": "Crystal Lake's Jason Voorhees Origin Twist Will Leave Friday The 13th Fans Furious",
+      "quote": "An episode of Crystal Lake gives Jason Voorhees a new origin story that is bound to be controversial with Friday the 13th fans.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Ryan Scott)",
+      "date": "2026-10-15T12:09:12+00:00",
+      "link": "https://www.slashfilm.com/2286330/crystal-lake-jason-voorhees-origin-twist-friday-the-13th-fans-furious/",
+      "image": "https://www.slashfilm.com/img/gallery/crystal-lake-jason-voorhees-origin-twist-friday-the-13th-fans-furious/l-intro-1792069766.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "8ee6cebea7eb200a",
+      "title": "‘Jailer 2’ movie review: Rajinikanth’s flourishes elevate Nelson’s rousing herogasm",
+      "quote": "Nelson betters the ‘Jailer’ template with a well-calibrated sequel that knows when to let Rajini loose and fills the in-between stretches with riotous humour and narrative build-up",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-15T12:08:38+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/jailer-2-movie-review-superstar-rajinikanth-nelson-shivarajkumar-mohanlal-anirudh-ravichander/article71587540.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/camlbx/article71587609.ece/alternates/LANDSCAPE_1200/rajinikanth%20jailer2.jpeg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "eae6bb526f9b5d8c",
+      "title": "Crystal Lake Ending Explained: A Prequel Series All About How The Voorhees Legend Is Born",
+      "quote": "The ending of Crystal Lake serves as a set-up for the horror film franchise to come while also leaving room for another season.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Bill Bria)",
+      "date": "2026-10-15T12:08:28+00:00",
+      "link": "https://www.slashfilm.com/2287393/crystal-lake-ending-explained-friday-the-13th-prequel-series/",
+      "image": "https://www.slashfilm.com/img/gallery/crystal-lake-ending-explained-a-prequel-series-all-about-how-the-voorhees-legend-is-born/l-intro-1792065688.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "91fbda49d959b70b",
+      "title": "‘Narnia: The Magician’s Nephew’ trailer: Greta Gerwig reimagines C.S. Lewis’ fantasy world with Daniel Craig and Emma Mackey",
+      "quote": "Greta Gerwig’s upcoming adaptation takes audiences back to the origins of Narnia, with a first trailer featuring Aslan conceiving the magical realm and Led Zeppelin’s iconic ‘Stairway to Heaven’",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-15T11:00:19+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/narnia-the-magicians-nephew-trailer-greta-gerwig-reimagines-cs-lewis-fantasy-world-with-daniel-craig-and-emma-mackey/article71582508.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/8cyc8y/article71582558.ece/alternates/LANDSCAPE_1200/images.jpg",
+      "category": "Indian Cinema"
     },
     {
       "id": "37d6ab928576539a",
@@ -64,61 +284,6 @@
       "category": "Indian Cinema"
     },
     {
-      "id": "670533aa01d142da",
-      "title": "‘Lupin’ Star Omar Sy Voices Support For French High School Protests; Decries Authoritarian Response",
-      "quote": "French star Omar Sy has voiced his support for high school student protests sweeping France and decried the authoritarian crackdown which has seen one teenager lose their hand and more than 6,000 youngsters taken into…",
-      "publisher": "Deadline",
-      "author": "Melanie Goodfellow",
-      "date": "2026-10-15T10:48:43+00:00",
-      "link": "https://deadline.com/2026/10/lupin-star-omar-sy-support-french-high-school-protests-1237157942/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/GettyImages-2212967252-1-1.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "8ee6cebea7eb200a",
-      "title": "‘Jailer 2’ movie review: Rajinikanth’s flourishes elevate Nelson’s rousing herogasm",
-      "quote": "Nelson betters the ‘Jailer’ template with a well-calibrated sequel that knows when to let Rajini loose and fills the in-between stretches with riotous humour and narrative build-up",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-15T10:43:09+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/jailer-2-movie-review-superstar-rajinikanth-nelson-shivarajkumar-mohanlal-anirudh-ravichander/article71587540.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/camlbx/article71587609.ece/alternates/LANDSCAPE_1200/rajinikanth%20jailer2.jpeg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "d4ada433a64c2615",
-      "title": "Radial Entertainment Completes Busy MIPCOM Week With ‘Making A Serial Killer’ Season 3 Order",
-      "quote": "EXCLUSIVE: Radial Entertainment has had a busy week on the Croisette and just finished it off with another order. The global distribution biz has greenlit a third season of its original series Making a Serial Killer…",
-      "publisher": "Deadline",
-      "author": "Jesse Whittock",
-      "date": "2026-10-15T10:31:32+00:00",
-      "link": "https://deadline.com/2026/10/radial-entertainment-making-serial-killer-season-3-1237157927/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/MASK_1920x1080.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "084b08f27ad84776",
-      "title": "SXSW London Sets 2027 Festival Theme",
-      "quote": "SXSW London 2027, which is set to run from 24–29 May, will do so under the theme of “The Power of Human Potential.” Festival organizers have also confirmed the form of the 2027 conference programme. The 2027 edition…",
-      "publisher": "Deadline",
-      "author": "Zac Ntim",
-      "date": "2026-10-15T10:21:18+00:00",
-      "link": "https://deadline.com/2026/10/sxsw-london-2027-festival-theme-1237157933/",
-      "image": "https://deadline.com/wp-content/uploads/2025/06/SELECTS0155.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "04fa761e14326157",
-      "title": "MIPCOM 2026 Takeaways: Surfing The New Wave Of TV With YouTube, ‘Baywatch’, Skydance, Banijay & More",
-      "quote": "MIPCOM is the biggest gathering in international TV. This year there were 10,000 attendees and over 3,000 buyers. The organizers have thrown open the doors to the wider world of content and distribution – and nowadays…",
-      "publisher": "Deadline",
-      "author": "Stewart Clarke",
-      "date": "2026-10-15T10:12:27+00:00",
-      "link": "https://deadline.com/2026/10/mipcom-2026-takeaways-baywatch-skydance-banijay-youtube-1237157888/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/Stephen-Amell-Brooks-Nader-1.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "ec0d06ee2c34227f",
       "title": "‘The Greatest’ trailer: Cassius Clay stars as boxing icon Muhammed Ali in Prime Video series",
       "quote": "Created by Ben Watkins, the series will premiere on Prime Video on November 4",
@@ -138,17 +303,6 @@
       "date": "2026-10-15T10:08:38+00:00",
       "link": "https://www.theguardian.com/film/2026/oct/15/rebellion-review-story-of-bradford-12-revisits-britains-ugly-racist-past",
       "image": "https://i.guim.co.uk/img/media/fc19fc7437d97204adffd62b8b319c15887bae14/58_36_1385_1108/master/1385.jpg?width=140&quality=85&auto=format&fit=max&s=b72423c2037389d6a2491dac514ecb48",
-      "category": "World Cinema"
-    },
-    {
-      "id": "1d6f63244393ab4c",
-      "title": "Multitude Media Restructures Leader Team & Prepares Live Entertainment Push",
-      "quote": "EXCLUSIVE: Multitude Media has promoted Gem Pinkney to the newly-created role of managing director and plans a push into live entertainment. The agency, which reps for PR the likes of Danny Dyer, Lolly Adefope and…",
-      "publisher": "Deadline",
-      "author": "Max Goldbart",
-      "date": "2026-10-15T09:51:55+00:00",
-      "link": "https://deadline.com/2026/10/multitude-media-promotes-gem-pinkney-leader-team-will-wood-1237157911/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/split-2-split-1000x667-2-2.jpg",
       "category": "World Cinema"
     },
     {
@@ -174,28 +328,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "866a1f28cb32786f",
-      "title": "Thessaloniki: Adaptation Of Ioanna Karystiani’s ‘Swell’ Among 2026 Agora Works In Progress Titles",
-      "quote": "EXCLUSIVE: Eleven titles from Southeastern Europe and the Mediterranean region have been selected to take part in the 2026 Agora Works in Progress sessions at the 2026 Thessaloniki Film Festival. Thessaloniki’s Agora…",
-      "publisher": "Deadline",
-      "author": "Zac Ntim",
-      "date": "2026-10-15T08:55:16+00:00",
-      "link": "https://deadline.com/2026/10/thessaloniki-2026-agora-works-in-progress-ioanna-karystiani-1237157892/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/SWELL.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "0690ac13c8e024e4",
-      "title": "Trine Dyrholm, Christian Slater & Dree Hemingway Join Zentropa’s Dogma25 Picture ‘Incidents of Intimacy’",
-      "quote": "Trine Dyrholm, Christian Slater, Dree Hemingway are set to star in Jesper Just’s Incidents of Intimacy, the second production in Zentropa’s new collection of Dogma25 pictures. The initiative rebooting the Danish…",
-      "publisher": "Deadline",
-      "author": "Melanie Goodfellow",
-      "date": "2026-10-15T08:39:33+00:00",
-      "link": "https://deadline.com/2026/10/dyrholm-slater-hemingway-dogma25-incidents-of-intimacy-1237157889/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/001-INCIDENTS-OF-INTIMACY-Trine-Dyrholm-Christian-Slater-Dree-Hemingway-Jesper-Just-photo-credit-Anders-Overgaard.jpg",
-      "category": "Festival Winners"
-    },
-    {
       "id": "5ca0fc8b99c6e99e",
       "title": "Faust review – FW Murnau’s silent masterpiece is a devilishly dazzling vision",
       "quote": "The 1926 film of Goethe’s tragic tale of a man who sells his soul to the devil remains a spectacular feat of German expressionism The centenary of FW Murnau’s silent fantasy-melodrama from 1926 is the occasion to ponder…",
@@ -218,17 +350,6 @@
       "category": "Indian Cinema"
     },
     {
-      "id": "6e435f785565ea5f",
-      "title": "Wallace & Gromit maker Aardman falls short of return to profit",
-      "quote": "Animation studio narrows annual loss to £1.1m amid ‘challenging market’ in children’s content Don’t break out the celebratory Wensleydale just yet. Aardman, the British animation studio behind the cheese-loving inventor…",
-      "publisher": "The Guardian",
-      "author": "Lauren Almeida",
-      "date": "2026-10-15T07:00:25+00:00",
-      "link": "https://www.theguardian.com/film/2026/oct/15/aardman-wallace-gromit-annual-loss",
-      "image": "https://i.guim.co.uk/img/media/33bbfebcf9f323eb8cede9265dfbe7e11dbb071a/490_0_4079_3264/master/4079.jpg?width=140&quality=85&auto=format&fit=max&s=238e5f4e63c2d2d0ada2a70bc44fc424",
-      "category": "World Cinema"
-    },
-    {
       "id": "feec3e1560a8c9c1",
       "title": "‘Cyberpunk: Edgerunners 2’ trailer: Netflix unveils final preview of the Anime of the Year’s return to Night City",
       "quote": "The final trailer for ‘Cyberpunk: Edgerunners 2’, offering a new look at the standalone sequel’s fresh cast of mercenaries, violent conflicts and stories of revenge and redemption ahead of its Netflix premiere next week",
@@ -238,39 +359,6 @@
       "link": "https://www.thehindu.com/entertainment/movies/cyberpunk-edgerunners-2-trailer-netflix-unveils-final-preview-of-the-anime-of-the-years-return-to-night-city/article71586888.ece",
       "image": "https://th-i.thgim.com/public/entertainment/movies/o1xmic/article71586884.ece/alternates/LANDSCAPE_1200/HL_YCoWWcAAydHN.jpg",
       "category": "Indian Cinema"
-    },
-    {
-      "id": "aee1386ea258ed13",
-      "title": "By Design review – Juliette Lewis turns into a chair in hypnotic Lynchian drama",
-      "quote": "A musician becomes obsessed with the haunted seat, but the potentially hilarious premise sleepwalks its way to an unsatisfying conclusion The indie indulgences of US film-maker Amanda Kramer – which often contain big…",
-      "publisher": "The Guardian",
-      "author": "Peter Bradshaw",
-      "date": "2026-10-15T06:00:24+00:00",
-      "link": "https://www.theguardian.com/film/2026/oct/15/by-design-review-juliette-lewis-turns-into-a-chair-in-hypnotic-lynchian-drama",
-      "image": "https://i.guim.co.uk/img/media/83f571715a45235fc264b75fabd65fc94eca21f7/207_0_1298_1038/master/1298.jpg?width=140&quality=85&auto=format&fit=max&s=eb1f0a628191221b3bcb3ef2adc27c59",
-      "category": "World Cinema"
-    },
-    {
-      "id": "1b1bc200e64ed41d",
-      "title": "Assamese film Rador Pakhi wins special jury award at Moscow festival",
-      "quote": "The film is inspired by an Assam-based writer who pursues her dream despite suffering from spinal muscular atrophy",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-15T05:45:46+00:00",
-      "link": "https://www.thehindu.com/news/national/assam/assamese-filmrador-pakhiwins-special-jury-award-at-moscow-festival/article71248832.ece",
-      "image": "https://th-i.thgim.com/public/incoming/x7lr77/article71249108.ece/alternates/LANDSCAPE_1200/Image%201.jpeg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "2b925da09a3fd17f",
-      "title": "‘To succeed meant to leave’: inside the jolting film about Brummie estate kids knocked flying by demolition",
-      "quote": "The novel had no hero, no dialogue and little action. So how was I See Buildings Fall Like Lightning turned into such a funny, rousing and acclaimed film? Director Clio Barnard reveals all As a kid in 90s Birmingham…",
-      "publisher": "The Guardian",
-      "author": "Xan Brooks",
-      "date": "2026-10-15T04:00:22+00:00",
-      "link": "https://www.theguardian.com/film/2026/oct/15/i-see-buildings-fall-like-lightning-clio-barnard-keiran-goddard-birmingham",
-      "image": "https://i.guim.co.uk/img/media/e1a1f1f98b10a64411ba0fc073c17ecbe948be05/1262_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=2e9a451ca8d4687a65378400b9c83941",
-      "category": "World Cinema"
     },
     {
       "id": "89f347cc4b69c08b",
@@ -372,6 +460,17 @@
       "category": "Indie Gems"
     },
     {
+      "id": "85f647e671acca70",
+      "title": "Who Is VisionQuest's Paladin? The New Marvel Villain Explained",
+      "quote": "While Paladin is an established character in the Marvel Universe, VisionQuest takes some serious liberties with the villain.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Jeremy Mathai)",
+      "date": "2026-10-14T19:00:00+00:00",
+      "link": "https://www.slashfilm.com/2285482/vision-quest-paladin-marvel-villain-explained/",
+      "image": "https://www.slashfilm.com/img/gallery/vision-quest-paladin-marvel-villain-explained/l-intro-1791920710.jpg",
+      "category": "Indie Gems"
+    },
+    {
       "id": "3e9f468126bf228d",
       "title": "Exit poll: What's going to keep you watching VisionQuest?",
       "quote": "Did the first two episodes of VisionQuest give us enough reason to come back for the rest?",
@@ -391,39 +490,6 @@
       "date": "2026-10-14T18:00:00+00:00",
       "link": "https://www.slashfilm.com/2285932/paladin-marvel-visionquest-actor-todd-stashwick/",
       "image": "https://www.slashfilm.com/img/gallery/who-plays-paladin-on-marvels-visionquest/l-intro-1791923079.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "3a7013f9aa8f2c3c",
-      "title": "John Cena's 126-Minute Action Movie Is Officially Apple TV's Biggest Streaming Hit",
-      "quote": "Matchbox: The Movie, which stars John Cena and is somehow over 2 hours long, is currently a big streaming hit on Apple TV.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Jeremy Smith)",
-      "date": "2026-10-14T17:59:41+00:00",
-      "link": "https://www.slashfilm.com/2286845/john-cena-action-movie-matchbox-streaming-apple-tv-october-2026/",
-      "image": "https://www.slashfilm.com/img/gallery/john-cenas-126-minute-action-movie-is-officially-apple-tvs-biggest-streaming-hit/l-intro-1791999535.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "fb18bc2a22d13f64",
-      "title": "Hulu Adds Adam Scott's Terrifying 107-Minute Horror Movie",
-      "quote": "Damien McCarthy's Hokum, starring Adam Scott, is one of the best horror films of 2026. Now it's streaming on Hulu, just in time for Halloween.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-10-14T17:27:03+00:00",
-      "link": "https://www.slashfilm.com/2286801/adam-scott-hokum-horror-movie-streaming-hulu/",
-      "image": "https://www.slashfilm.com/img/gallery/hulu-adds-adam-scotts-terrifying-107-minute-horror-movie/l-intro-1791998704.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "faeff055fae73c0c",
-      "title": "VisionQuest: All 6 AI Characters And Their MCU Origins Explained",
-      "quote": "There are several AI characters wandering around in Vision's head in VisionQuest. Let's break them all down and explore where they came from in the MCU.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Devin Meenan)",
-      "date": "2026-10-14T17:00:00+00:00",
-      "link": "https://www.slashfilm.com/2285723/visionquest-ai-characters-mcu-origins-explained/",
-      "image": "https://www.slashfilm.com/img/gallery/visionquest-ai-characters-mcu-origins-explained/l-intro-1791920007.jpg",
       "category": "Indie Gems"
     },
     {
@@ -458,50 +524,6 @@
       "link": "https://www.rogerebert.com/reviews/whalefall-austin-abrams-movie-review-2026",
       "image": null,
       "category": "World Cinema"
-    },
-    {
-      "id": "4a61e2e3da408858",
-      "title": "Whalefall Review: Austin Abrams Anchors An Earnest Survival Thriller And Miraculous Adaptation",
-      "quote": "Whalefall is gripping, moving, and earnest to a fault, aiming high to pull off a miraculous adaptation. Here's our review.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Jeremy Mathai)",
-      "date": "2026-10-14T16:00:00+00:00",
-      "link": "https://www.slashfilm.com/2286603/whalefall-review-austin-abrams-movie/",
-      "image": "https://www.slashfilm.com/img/gallery/whalefall-review-austin-abrams-movie/l-intro-1791993843.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "fe25678080ec7b1a",
-      "title": "Why Project Hail Mary Used An Animatronic Rocky Instead Of A Puppet In One Scene [Exclusive]",
-      "quote": "Project Hail Mary's Rocky was primarily a puppet controlled by James Ortiz and his team, but Ortiz revealed a scene that used an animatronic version of Rocky.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Rafael Motamayor)",
-      "date": "2026-10-14T15:00:00+00:00",
-      "link": "https://www.slashfilm.com/2283844/project-hail-mary-movie-animatronic-rocky-scene/",
-      "image": "https://www.slashfilm.com/img/gallery/why-project-hail-mary-used-an-animatronic-rocky-instead-of-a-puppet-in-one-scene-exclusive/l-intro-1791817996.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "57ba71b737bc625e",
-      "title": "First Clayface Reactions Reveal What Critics Think Of DC's Horror Movie",
-      "quote": "DC Studios has begun screening Clayface for critics. Here's what folks are saying about the Batman-adjacent horror movie so far.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Rafael Motamayor)",
-      "date": "2026-10-14T14:56:02+00:00",
-      "link": "https://www.slashfilm.com/2286548/clayface-2026-dc-horror-movie-reactions/",
-      "image": "https://www.slashfilm.com/img/gallery/clayface-2026-dc-horror-movie-reactions/l-intro-1791991021.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "ca3b697aa620ffa5",
-      "title": "Slow Horses Season 6 Finally Gives Fans The Romance They've Been Waiting For",
-      "quote": "The fire from an explosion isn't the only spark flying in Slow Horses Season 6, Episode 5. The show's will-they won't-they romance is finally heating up.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-10-14T13:00:00+00:00",
-      "link": "https://www.slashfilm.com/2286097/slow-horses-season-6-episode-5-ending-explained-sid-river-kiss/",
-      "image": "https://www.slashfilm.com/img/gallery/slow-horses-season-6-finally-gives-fans-the-romance-theyve-been-waiting-for/l-intro-1791927986.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "7ea460ed3ab8044a",
@@ -589,17 +611,6 @@
       "date": "2026-10-12T10:39:48+00:00",
       "link": "https://variety.com/2026/film/reviews/silver-express-review-1236908775/",
       "image": "https://variety.com/wp-content/uploads/2026/10/1786950880.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "0dfd78de53646c77",
-      "title": "‘The Sea Speaks His Name’ Review: Absorbing Indonesian Political Thriller Is an Ode to Disappeared Activists",
-      "quote": "In an age where some call themselves activists merely through social media posting, stories of the dangers, consequences and occasional, very hard-won rewards of boots-on-the-ground political activism have additional…",
-      "publisher": "Variety",
-      "author": "Guy Lodge",
-      "date": "2026-10-12T00:55:39+00:00",
-      "link": "https://variety.com/2026/film/reviews/the-sea-speaks-his-name-review-1236908499/",
-      "image": "https://variety.com/wp-content/uploads/2025/12/The-Sea-Speaks-His-Name.jpg",
       "category": "World Cinema"
     },
     {
@@ -754,17 +765,6 @@
       "date": "2026-10-08T11:00:00+00:00",
       "link": "https://www.bbc.com/culture/article/20261007-how-aphrodite-became-a-controversial-sex-symbol?ocid=global_culture_rss",
       "image": "https://ychef.files.bbci.co.uk/144x81/p0pfgw0c.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "6fa475d328cbabbd",
-      "title": "‘The Beast’ Review: Samuel L. Jackson and Joel Kinnaman in a Renny Harlin Joint That’s a Deadly Combo of Silly and Tedious",
-      "quote": "A U.S. president and a severely wounded Secret Service agent battle it out with hordes of terrorists in this action-thriller.",
-      "publisher": "The Hollywood Reporter",
-      "author": "Frank Scheck",
-      "date": "2026-10-07T19:37:28+00:00",
-      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/the-beast-review-samuel-l-jackson-joel-kinnaman-1236723292/",
-      "image": null,
       "category": "World Cinema"
     },
     {
