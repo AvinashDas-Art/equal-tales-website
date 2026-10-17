@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T03:59:31.221692+00:00",
+  "generated_at": "2026-10-17T10:28:32.180833+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -9,15 +9,147 @@
   ],
   "reviews": [
     {
+      "id": "bfc62692d4819208",
+      "title": "Hollywood stars on films that mean most to them",
+      "quote": "Stars step into the BBC's exclusive photo studio",
+      "publisher": "BBC Culture",
+      "author": null,
+      "date": "2026-10-17T11:00:12+00:00",
+      "link": "https://www.bbc.com/culture/article/20261015-hollywood-stars-on-the-films-that-mean-most-to-them?ocid=global_culture_rss",
+      "image": "https://ychef.files.bbci.co.uk/144x81/p0ph2vym.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "ebcf8ac2f0033325",
+      "title": "Deva: a well-rounded composer bids goodbye",
+      "quote": "The renowned music director passed away at the age of 75 on Saturday",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-17T10:06:19+00:00",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/deva-a-well-rounded-composer-bids-goodbye/article71595979.ece",
+      "image": "https://th-i.thgim.com/public/incoming/92eiuo/article71596034.ece/alternates/LANDSCAPE_1200/Music_Director_Deva_03.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "80a5b7090939319c",
+      "title": "Deva, veteran music composer, passes away | Funeral live updates",
+      "quote": "Thenisai Thendral Deva was 75 and breathed his last at a private hospital here, sources said.",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-17T10:04:03+00:00",
+      "link": "https://www.thehindu.com/entertainment/music/tamil-music-director-singer-deva-passes-away-funeral-rites-condolences-tributes-songs-live-updates/article71595646.ece",
+      "image": null,
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "5e03bf2868c711a3",
+      "title": "‘You can’t make this stuff up’: why we remain fascinated by Elizabeth Holmes",
+      "quote": "The entrepreneur turned fraudster is the subject of an Oscar-tipped new documentary that takes an unusual look at her strange legacy David Agus’s first encounter with Elizabeth Holmes at a health conference came as a…",
+      "publisher": "The Guardian",
+      "author": "David Smith in Washington",
+      "date": "2026-10-17T09:00:28+00:00",
+      "link": "https://www.theguardian.com/film/2026/oct/17/elizabeth-holmes-documentary-why-we-care",
+      "image": "https://i.guim.co.uk/img/media/964fa47326a827f12bf336e880b2fdc4665711e6/124_0_5598_4480/master/5598.jpg?width=140&quality=85&auto=format&fit=max&s=a87bb955799dc99704c62e34bbde3f3a",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "7df930a1c8ce1c31",
+      "title": "J.K. Rowling’s Agent Neil Blair Condemns Trans Rights Protest At ‘Harry Potter And The Cursed Child’",
+      "quote": "EXCLUSIVE: J.K. Rowling’s agent Neil Blair has claimed that a trans rights protest at the gala performance of Harry Potter and the Cursed Child put people at risk. During an event celebrating a shortened version of the…",
+      "publisher": "Deadline",
+      "author": "Jake Kanter",
+      "date": "2026-10-17T08:43:47+00:00",
+      "link": "https://deadline.com/2026/10/jk-rowling-agent-protest-harry-potter-and-the-cursed-child-1237166312/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/harry-potter-and-the-cursed-child.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "6957617d78439156",
+      "title": "Why Deva’s music for Rajinikanth was special",
+      "quote": "Music composer Deva’s work was the perfect accompaniment for Rajinikanth’s mass films",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-17T08:02:55+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/deva-death-music-composer-deva-passes-away-rajinikanth-deva-superstar-rajinikanth-deva-jailer-2-anirudh/article71595735.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/hf7odd/article71595793.ece/alternates/LANDSCAPE_1200/Deva2.JPEG",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "9b11899c5f2790a6",
+      "title": "Dance through a lens: How films become archives of movement and performance",
+      "quote": "The recently held LURU Screendance Festival put the spotlight on the evolving relationship between dance and cinema, and on ways the camera can shape how movement is seen and experienced.",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-17T08:02:37+00:00",
+      "link": "https://www.thehindu.com/entertainment/dance/dance-through-a-lens-how-films-become-archives-of-movement-and-performance/article71554598.ece",
+      "image": "https://th-i.thgim.com/public/incoming/88xnn3/article71555673.ece/alternates/LANDSCAPE_1200/Kalpana.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "db1cdcb9f57f2d2d",
+      "title": "Deva, the composer who took Chennai’s gaana to mainstream cinema, is no more",
+      "quote": "Deva’s music bridged seemingly disparate worlds — the earthy rhythms of Chennai’s gaana tradition, the mass appeal of Tamil cinema, and the melodic richness of classical and devotional music",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-17T07:53:14+00:00",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/deva-the-composer-who-took-chennais-gaana-to-mainstream-cinema-is-no-more/article71595678.ece",
+      "image": "https://th-i.thgim.com/public/incoming/8g7jay/article71595683.ece/alternates/LANDSCAPE_1200/Music_Director_Deva_05.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "26096daecef3dcaa",
+      "title": "Composer Anirudh Ravichander to marry Kavya Maran; PM Narendra Modi, Tamil Nadu CM Joseph Vijay get reception invite from Kalanithi Maran",
+      "quote": "Kavya Maran, co-owner of Sunrisers Hyderabad, is set to tie the knot with chart-topping composer Anirudh Ravichander in November 2026",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-17T07:43:31+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/anirudh-ravichander-kavya-maran-wedding-kalanithi-maran-sun-group-telangana-cm-joseph-vijay/article71595520.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/vxwv6j/article71595664.ece/alternates/LANDSCAPE_1200/Kavya-Anirudh.jpeg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "c9ae486bcde11e2c",
+      "title": "Delhi High Court seeks Salman Khan’s response on plea by producer of Kala Hiran",
+      "quote": "Khan has sought to restrain the release of the film, which he claims is based on him",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-17T07:10:38+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/delhi-high-court-seeks-salman-khans-response-on-plea-by-producer-of-kala-hiran/article71551686.ece",
+      "image": "https://th-i.thgim.com/public/incoming/xkqmcs/article71552116.ece/alternates/LANDSCAPE_1200/20260115302L.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "b2ea3436f202530b",
+      "title": "You Can See Everything: How Elizabeth Holmes Feels About Amanda Seyfried's The Dropout",
+      "quote": "In the documentary You Can See Everything, Theranos founder Elizabeth Holmes finally got to see -- and react to -- her portrayal on the Hulu series The Dropout.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Joe Roberts)",
+      "date": "2026-10-17T05:32:06+00:00",
+      "link": "https://www.slashfilm.com/2289504/you-can-see-everything-elizabeth-holmes-amanda-seyfried-the-dropout-feelings/",
+      "image": "https://www.slashfilm.com/img/gallery/you-can-see-everything-how-elizabeth-holmes-feels-about-amanda-seyfrieds-the-dropout/l-intro-1792210699.jpg",
+      "category": "Indie Gems"
+    },
+    {
       "id": "919b2b1391c83107",
       "title": "‘Garividi Lakshmi’ movie review: Anandhi leads a compelling biopic",
       "quote": "Director Gowri Naidu Jammu’s debut Telugu film spotlights Srikakulam burra katha artist Garividi Lakshmi with a strong story and rooted music, but the old-school treatment limits its appeal",
       "publisher": "The Hindu",
       "author": null,
-      "date": "2026-10-17T03:49:32+00:00",
+      "date": "2026-10-17T04:39:36+00:00",
       "link": "https://www.thehindu.com/entertainment/movies/garividi-lakshmi-movie-review-anandhi-leads-a-compelling-biopic/article71595326.ece",
       "image": "https://th-i.thgim.com/public/incoming/5j2ixv/article71595328.ece/alternates/LANDSCAPE_1200/gvl-2.jpeg",
       "category": "Indian Cinema"
+    },
+    {
+      "id": "2956f16f50381338",
+      "title": "You Can See Everything Has A Secret Actor That Will Break Your Brain",
+      "quote": "Thanks to this actor's surprise appearance in You Can See Everything, the documentary may leave you thinking way more than twice about all that you've watched.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Nina Starner)",
+      "date": "2026-10-17T04:28:16+00:00",
+      "link": "https://www.slashfilm.com/2289500/amanda-seyfried-you-can-see-everything-role-explained/",
+      "image": "https://www.slashfilm.com/img/gallery/you-can-see-everything-has-a-secret-actor-that-will-break-your-brain/l-intro-1792211212.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "8c92deaa06cd3008",
@@ -42,17 +174,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "2f6120d266433d0d",
-      "title": "Anjali Patil on Sailesh Rathnakumar’s ‘Selvi’: ‘Women characters have more space in regional cinema’",
-      "quote": "Patil, who calls herself ‘an accidental actor’, and director Rathnakumar discuss their Tamil indie on migrant nurses which won two awards at 2026 Busan International Film Festival",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-17T03:31:53+00:00",
-      "link": "https://www.thehindu.com/entertainment/selvi-anjali-patil-sailesh-rathnakumar-interview/article71586954.ece",
-      "image": "https://th-i.thgim.com/public/incoming/5eusuo/article71591735.ece/alternates/LANDSCAPE_1200/DSC_9626_A1%201.jpg",
-      "category": "Festival Winners"
-    },
-    {
       "id": "8b039de1c1283ca0",
       "title": "KJ Apa Asked ‘Riverdale’ Showrunner Roberto Aguirre-Sacasa For ‘Afterlife with Archie’ Cameo: “I Don’t Know Who I’d Play”",
       "quote": "As KJ Apa navigates life after Riverdale, he’s up for a return to the upcoming Afterlife with Archie series adaptation. Following his performance as Archie on the CW series for its seven-season run from 2017-’23, the…",
@@ -73,6 +194,17 @@
       "link": "https://deadline.com/2026/10/brad-caleb-kane-teases-it-welcome-to-derry-season-2-pennywise-1237166286/",
       "image": "https://deadline.com/wp-content/uploads/2026/10/bill-skarsgard-_0.jpeg",
       "category": "World Cinema"
+    },
+    {
+      "id": "0ce77181b1f3e1f3",
+      "title": "Hunger Games director Francis Lawrence finds a whole new dystopia to bum people out with",
+      "quote": "Hunger Games director and dystopia addict Francis Lawrence to bum out the people of Mars with <i>Red Rising</i> film adaptation.",
+      "publisher": "The A.V. Club",
+      "author": "William Hughes",
+      "date": "2026-10-17T01:09:43+00:00",
+      "link": "https://www.avclub.com/francis-lawrence-red-rising-hunger-games-director",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/10/17/red-rising-cover-feature.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "7706e29d38e9218a",
@@ -108,15 +240,15 @@
       "category": "World Cinema"
     },
     {
-      "id": "f22d5d90c6ae7265",
-      "title": "Actor Nana Patekar passes away at 75",
-      "quote": "Mr. Patekar was brought to a private hospital after he was found unconscious at his apartment in Dona Paula, near Goa’s Panaji region",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-17T00:36:08+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/nana-patekar-dies-at-75-goa-heart-attack/article71558236.ece",
-      "image": "https://th-i.thgim.com/public/incoming/41liup/article71558301.ece/alternates/LANDSCAPE_1200/PTI10_08_2026_000004A.jpg",
-      "category": "Indian Cinema"
+      "id": "25ec5b43c04c3b91",
+      "title": "Judge throws out sexual abuse charges against Timothy Busfield over prosecutor's conduct",
+      "quote": "Judge throws out sexual abuse charges against Timothy Busfield over prosecutor's conduct.",
+      "publisher": "The A.V. Club",
+      "author": "William Hughes",
+      "date": "2026-10-17T00:30:48+00:00",
+      "link": "https://www.avclub.com/judge-throws-out-timothy-busfield-sexual-abuse-charges",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/01/10120521/timothy-busfield-feature.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "7a887007e4160130",
@@ -130,15 +262,26 @@
       "category": "World Cinema"
     },
     {
-      "id": "a7f3271a4c387b17",
-      "title": "‘La Bola Negra’ Directing Duo Los Javis Reveal How Spanish Sensation Became “The Journey Of Our Lives”",
-      "quote": "Penélope Cruz had been a muse to Los Javis — the moniker for Spanish filmmakers Javier Ambrossi and Javier Calvo — for years before they met for lunch to persuade her to play a singer (more a force of nature, really) in…",
-      "publisher": "Deadline",
-      "author": "Baz Bamigboye",
-      "date": "2026-10-16T22:15:00+00:00",
-      "link": "https://deadline.com/2026/10/la-bola-negra-directors-interview-los-javis-1237165637/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/IMG_8659.jpeg",
-      "category": "Festival Winners"
+      "id": "272a364c736f97a0",
+      "title": "The Coen brothers plan to reunite, but not for a fantasy",
+      "quote": "There was no schism between the Big Lebowski filmmakers; they just haven't made a movie together in a little while.",
+      "publisher": "The A.V. Club",
+      "author": "Matt Schimkowitz",
+      "date": "2026-10-16T22:17:06+00:00",
+      "link": "https://www.avclub.com/coen-brothers-tease-working-together-again",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2025/05/17140357/ethan-joel-coen-feature.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "d2ff683df54181b9",
+      "title": "Patrick Stewart-obsessive James McAvoy reveals he pitched a \"young Picard\" Star Trek show",
+      "quote": "James McAvoy says he pitched the <i>Star Trek</i> people hard on the idea of him playing a young Jean-Luc Picard.",
+      "publisher": "The A.V. Club",
+      "author": "William Hughes",
+      "date": "2026-10-16T22:07:27+00:00",
+      "link": "https://www.avclub.com/james-mcavoy-patrick-stewart-young-picard-show-mutiny-stargazer",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/10/16/mcavoy-stewart-feature.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "b1945d51a9beb1b6",
@@ -172,17 +315,6 @@
       "link": "https://www.avclub.com/selma-blairs-team-releases-statement-about-plane-arrest",
       "image": "https://www.avclub.com/wp-content/uploads/2026/10/13/MixCollage-13-Oct-2026-09-48-AM-6468.jpg",
       "category": "Indie Gems"
-    },
-    {
-      "id": "f539d7d595ec3885",
-      "title": "‘Titans’ trailer: Jayasurya and Vinayakan reunite after ‘Aadu 3’ for another fun fantasy ride",
-      "quote": "The film, directed by Prince Joy and written by James Sebastian, also stars Baby Jean, Nihal, Sunny Wayne, Indrans and Suresh Krishna",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-16T20:54:44+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/titans-trailer-jayasurya-vinayakan-aadu-3-prince-joy-malayalam-movie/article71555548.ece",
-      "image": "https://th-i.thgim.com/public/incoming/xaq2ko/article71555566.ece/alternates/LANDSCAPE_1200/Titans.jpg",
-      "category": "Indian Cinema"
     },
     {
       "id": "fd6b1a910c18739d",
@@ -251,17 +383,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "83fc60ab68cad745",
-      "title": "Eva Marie Saint, Oscar winner of Hollywood classics, dies at 102",
-      "quote": "Her representative Jeff Sanderson said Saint died of natural causes at home in Los Angeles, surrounded by family and loved ones",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-16T19:00:17+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/eva-marie-saint-oscar-winner-of-hollywood-classics-dies-at-102/article71554093.ece",
-      "image": "https://th-i.thgim.com/public/incoming/1xaww7/article71554090.ece/alternates/LANDSCAPE_1200/Eva_Marie_Saint_85475.jpg",
-      "category": "Festival Winners"
-    },
-    {
       "id": "0e521aeb32d13109",
       "title": "One Of 2026's Best Movies May Be Overshadowed At The Box Office This Weekend (But You Should See It)",
       "quote": "Georgia Oakley's new adaptation of Sense and Sensibility could get lost at the box office during a busy weekend, but we highly encourage you not to sleep on it.",
@@ -295,83 +416,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "628273d64d123ed1",
-      "title": "Billy Joel won't perform again until his shows stop basically concussing him",
-      "quote": "Billy Joel remains in quasi-retirement due to a brain disorder that's worsened by the loud volumes and flashing lights of his stage show.",
-      "publisher": "The A.V. Club",
-      "author": "Matt Schimkowitz",
-      "date": "2026-10-16T18:05:37+00:00",
-      "link": "https://www.avclub.com/billy-joel-performances-update-medical-condition",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2025/03/11140702/MixCollage-11-Mar-2025-02-04-PM-5839.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "070eb1c8fde33521",
-      "title": "Whalefall restores the lost art of the movie tagline",
-      "quote": "Thanks to the Whalefall marketing team, \"The odds of being swallowed alive by a whale are not zero\" will live on forever.",
-      "publisher": "The A.V. Club",
-      "author": "James Grebey",
-      "date": "2026-10-16T18:00:01+00:00",
-      "link": "https://www.avclub.com/whalefall-greatest-film-tagline-odds-of-being-swallowed-by-a-whale-are-not-zero",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/10/13/whalefall-eat-header.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "ef1209cc9d5cbc01",
-      "title": "Netflix's Binge-Worthy Political Drama Is Secretly The Best Soap Opera On TV",
-      "quote": "Netflix's The Diplomat is a soap opera show masquerading as a political drama series, and that's just the way we like it.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Jeremy Mathai)",
-      "date": "2026-10-16T18:00:00+00:00",
-      "link": "https://www.slashfilm.com/2287990/netflix-the-diplomat-political-drama-best-soap-opera-tv/",
-      "image": "https://www.slashfilm.com/img/gallery/netflixs-binge-worthy-political-drama-is-secretly-the-best-soap-opera-on-tv/l-intro-1792089010.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "c9a52f723a9a604b",
-      "title": "Malayalam short film ‘Lighter’ marks the directorial debut of composer-actor Sooraj S Kurup",
-      "quote": "Lighter is a horror thriller about two friends who go out to grab a drink at night only to end up in a trap",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-16T17:51:26+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/composer-actor-sooraj-s-kurup-direct-malayalam-short-film-lighter/article71548066.ece",
-      "image": "https://th-i.thgim.com/public/incoming/u4i51u/article71552002.ece/alternates/LANDSCAPE_1200/06tvm%20lighter3.jpg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "20bde52899039cb9",
-      "title": "How To Watch Amanda Seyfried's Elizabeth Holmes Series The Dropout",
-      "quote": "If you're planning to watch You Can See Everything, you should definitely check out the Amanda Seyfried-led Elizabeth Holmes series The Dropout.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Devin Meenan)",
-      "date": "2026-10-16T17:29:25+00:00",
-      "link": "https://www.slashfilm.com/2288997/how-watch-amanda-seyfried-elizabeth-holmes-series-the-dropout/",
-      "image": "https://www.slashfilm.com/img/gallery/how-to-watch-amanda-seyfrieds-elizabeth-holmes-series-the-dropout/l-intro-1792171567.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "8881125a9944c49b",
-      "title": "Chad Powers might join \"basketball team or something\" in season three",
-      "quote": "Should Glen Powell's makeup-heavy sports comedy, Chad Powers, get renewed, he might be shooting hoops in season three.",
-      "publisher": "The A.V. Club",
-      "author": "Matt Schimkowitz",
-      "date": "2026-10-16T16:59:26+00:00",
-      "link": "https://www.avclub.com/chad-powers-season-three-tease",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2024/08/22191316/chad-powers2-Feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "dec4b7d98028740c",
-      "title": "David Fincher and Netflix split reportedly due to budgetary beefs",
-      "quote": "According to a new report, director David Fincher balked at Netflix film chairman Dan Lin's penny-pinching for <i>The Further Misadventures Of Cliff Booth</i>.",
-      "publisher": "The A.V. Club",
-      "author": "Jarrod Jones",
-      "date": "2026-10-16T16:51:58+00:00",
-      "link": "https://www.avclub.com/david-fincher-netflix-split-dan-lin-cliff-booth",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/10/16/booth-header.webp",
-      "category": "Indie Gems"
-    },
-    {
       "id": "4739b2bee5b0acfd",
       "title": "Look Back review – Kore-eda’s ode to friendship, manga and artistic success",
       "quote": "Two obsessive artists team up to achieve their dreams, but then their aspirations diverge Hirokazu Kore-eda’s sad and beautiful film is about friendship, about the ecstasy and burden of success and about what it means…",
@@ -381,28 +425,6 @@
       "link": "https://www.theguardian.com/film/2026/oct/16/look-back-review-hirokazu-kore-eda",
       "image": "https://i.guim.co.uk/img/media/c42413af9c22d220ec387331546155c96bdc43c7/124_0_849_679/master/849.jpg?width=140&quality=85&auto=format&fit=max&s=67d4c75980d641b1faeb881d1d63aa39",
       "category": "World Cinema"
-    },
-    {
-      "id": "ed1c7504f2cf96a3",
-      "title": "‘Whalefall’ movie review: Austin Abrams is a fiercely modern Jonah in this whale of a tale",
-      "quote": "The belly of the beast makes for a palpably real purgatory in this claustrophobic survival thriller, one that is also about forgiveness and letting go",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-16T14:23:46+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/whalefall-movie-review-austin-abrams-is-a-fiercely-modern-jonah-in-this-whale-of-a-tale/article71592880.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/h0gsxm/article71593115.ece/alternates/LANDSCAPE_1200/g_20cs_whalefall_still_3_d1bf548f.jpeg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "1c0d747173a01784",
-      "title": "‘Street Fighter’ movie review: Fists, fetishes and a fighting chance at cult status",
-      "quote": "A salacious, plot-starved brawl of horny meatheads and ‘90s mall-arcade nostalgia, ‘Street Fighter’ is far too stupid for its own good, yet far too entertaining to dismiss",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-16T13:36:29+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/street-fighter-movie-review-noah-centineo-andrew-schulz-vidyut-jammwal-cody-rhodes-roman-reigns-jason-momoa-50-cent/article71592175.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/16uf4o/article71592208.ece/alternates/LANDSCAPE_1200/Street-Fighter-Noah-Centineo-Andrew-Koji-083126-7d8e6d9d4c37470fbe15d5246cb00497.jpg",
-      "category": "Indian Cinema"
     },
     {
       "id": "a2b06cda754ffc37",
@@ -535,17 +557,6 @@
       "link": "https://www.theguardian.com/film/2026/oct/16/fjord-cristian-mungiu-london-film-festival",
       "image": "https://i.guim.co.uk/img/media/b56231d7c5ceb5d3ef7600c0af3944e7cbe2372d/247_0_2506_2004/master/2506.jpg?width=140&quality=85&auto=format&fit=max&s=25a5acad126852acf425ef777e6819f9",
       "category": "Festival Winners"
-    },
-    {
-      "id": "6f7b00c8f6276134",
-      "title": "The Face of Horror review – a future cult classic delights with playful spin on Hammer horror",
-      "quote": "London film festival Anna Biller’s intricate tribute to the British 1960s genre plays melodrama for laughs and pulls it off wonderfully in a medieval tale based on a Japanese ghost story There’s over-the-top … and…",
-      "publisher": "The Guardian",
-      "author": "Peter Bradshaw",
-      "date": "2026-10-16T05:30:51+00:00",
-      "link": "https://www.theguardian.com/film/2026/oct/16/the-face-of-horror-review-anna-biller-london-film-festival",
-      "image": "https://i.guim.co.uk/img/media/e776a31f0d67b0e941a120d970c02bb447a40a41/622_0_2595_2076/master/2595.jpg?width=140&quality=85&auto=format&fit=max&s=920a8c8bef98b2a18c8b8da32a56afaa",
-      "category": "World Cinema"
     },
     {
       "id": "4806dd63f5b2c876",
@@ -776,17 +787,6 @@
       "date": "2026-10-08T11:00:00+00:00",
       "link": "https://www.bbc.com/culture/article/20261007-how-aphrodite-became-a-controversial-sex-symbol?ocid=global_culture_rss",
       "image": "https://ychef.files.bbci.co.uk/144x81/p0pfgw0c.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "a32eeaa09526e27e",
-      "title": "The Social Reckoning lacks power or thrills",
-      "quote": "This middling drama depicts how a Facebook whistleblower exposed its secrets",
-      "publisher": "BBC Culture",
-      "author": null,
-      "date": "2026-10-07T14:00:52+00:00",
-      "link": "https://www.bbc.com/culture/article/20261006-the-social-reckoning-review?ocid=global_culture_rss",
-      "image": "https://ychef.files.bbci.co.uk/144x81/p0pfgbpr.jpg",
       "category": "World Cinema"
     },
     {
