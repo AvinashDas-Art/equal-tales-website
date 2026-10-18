@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T04:07:02.799597+00:00",
+  "generated_at": "2026-10-18T10:47:48.630110+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -9,15 +9,103 @@
   ],
   "reviews": [
     {
-      "id": "be9054f2300c166c",
-      "title": "Writer of the Malayalam series ‘Eyes’, Anjana Nayar, on how she came to create it",
-      "quote": "Anjana Nayar speaks about writing the story of Eyes, and colloborating with her husband Sanjay, of the writer duo Bobby-Sanjay",
+      "id": "5d0c74fb485332af",
+      "title": "The gift of elegance in ‘Thenisai Thendral’ Deva’s music",
+      "quote": "At once accessible and appealing, Deva’s music has the ability not merely to please listeners, but to draw them closer to sound and the emotions it conveys",
       "publisher": "The Hindu",
       "author": null,
-      "date": "2026-10-18T01:25:28+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/behind-the-scenes-insights-from-anjana-nayar-on-creating-eyes-a-malayalam-thriller-about-stalking-and-women-led-teams-on-sonyliv/article71582269.ece",
-      "image": "https://th-i.thgim.com/public/incoming/ukr2ha/article71586651.ece/alternates/LANDSCAPE_1200/anjana_nayar_01.jpg",
+      "date": "2026-10-18T08:01:46+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/the-gift-of-elegance-in-thenisai-thendral-devas-music/article71599324.ece",
+      "image": "https://th-i.thgim.com/public/incoming/tlvz3e/article71599329.ece/alternates/LANDSCAPE_1200/Music_Director_Deva_04.jpg",
       "category": "Indian Cinema"
+    },
+    {
+      "id": "919b2b1391c83107",
+      "title": "‘Garividi Lakshmi’ movie review: Anandhi leads a compelling biopic",
+      "quote": "Director Gowri Naidu Jammu’s debut Telugu film spotlights Srikakulam burra katha artist Garividi Lakshmi with a strong story and rooted music, but the old-school treatment limits its appeal",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-18T07:49:35+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/garividi-lakshmi-movie-review-anandhi-leads-a-compelling-biopic/article71595326.ece",
+      "image": "https://th-i.thgim.com/public/incoming/5j2ixv/article71595328.ece/alternates/LANDSCAPE_1200/gvl-2.jpeg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "8689cbfedfa7ba98",
+      "title": "‘You Can See Everything’ becomes Letterboxd’s highest-rated feature film of all time with 4.8 rating",
+      "quote": "Nathan Fielder and Lance Oppenheim’s documentary about former Theranos CEO Elizabeth Holmes has climbed to the top of Letterboxd’s feature-film rankings following its theatrical release",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-18T05:11:53+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/you-can-see-everything-becomes-letterboxds-highest-rated-feature-film-of-all-time-with-48-rating/article71599180.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/x26sni/article71599176.ece/alternates/LANDSCAPE_1200/Elizabeth-Holmes-2026-doc-2-090726-8fa48c7a8fe5419087bd534307eaca02.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "92ec2ad1723b5d82",
+      "title": "Why India is falling for C-dramas",
+      "quote": "Chinese dramas are inching ahead of stereotypical K-dramas with its flawed leads, empowered women, lived-in cities and everyday lives. And its fans are growing, everywhere",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-18T04:26:06+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/chinese-dramas-india-is-falling-for-c-dramas-the-early-spring-pursuit-of-jade-irreplaceable/article71582343.ece",
+      "image": "https://th-i.thgim.com/public/life-and-style/czzec4/article71598968.ece/alternates/LANDSCAPE_1200/Purjuit%20of%20Jade%201.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "ad01e4f8ca4bb13f",
+      "title": "‘Ranabaali’ movie review: Vijay Deverakonda, Rashmika Mandanna anchor a history-rich but overstuffed Rayalaseema drama",
+      "quote": "Director Rahul Sankrityan’s Telugu film uses Burra Katha and the 1876-78 famine to give the narrative a fresh look, but some portions struggle under the weight of history, devotion and myth",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-18T03:13:44+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/ranabaali-movie-review-vijay-deverakonda-rashmika-mandanna-rahul-sankrityan-arnold-vosloo/article71587870.ece",
+      "image": "https://th-i.thgim.com/public/incoming/x22d8l/article71587911.ece/alternates/LANDSCAPE_1200/RANABAALI-WWM.jpg.jpeg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "8ee6cebea7eb200a",
+      "title": "‘Jailer 2’ movie review: Rajinikanth’s flourishes elevate Nelson’s rousing herogasm",
+      "quote": "Nelson betters the ‘Jailer’ template with a well-calibrated sequel that knows when to let Rajini loose and fills the in-between stretches with riotous humour and narrative build-up",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-18T03:10:02+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/jailer-2-movie-review-superstar-rajinikanth-nelson-shivarajkumar-mohanlal-anirudh-ravichander/article71587540.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/nwzvr2/article71587609.ece/alternates/LANDSCAPE_1200/rajinikanth%20jailer2.jpeg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "7fc82de447518734",
+      "title": "Albert Theatre: the fading of Rajini’s fortress in Madras",
+      "quote": "Time flies, empires crumble, theatres vanish, and love wanes: these are eternal truths. But when Albert and Baby Albert turned deathly quiet amid a Rajini film release, it marked a shift in the celluloid history of…",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-18T02:39:51+00:00",
+      "link": "https://www.thehindu.com/news/cities/chennai/albert-theatre-the-fading-of-rajinis-fortress-in-madras/article71591743.ece",
+      "image": "https://th-i.thgim.com/public/incoming/zfrm8p/article71591896.ece/alternates/LANDSCAPE_1200/01_Cinema_Theatre_Closed.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "98796e1e46a45171",
+      "title": "Telangana CM Revanth seeks film stars’ help to prepare people for El Nino challenges",
+      "quote": "The idea, according to Telangana CM, is to keep people informed about the possible impact of El Nino on a regular basis rather than wait until shortages become acute",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-18T02:02:04+00:00",
+      "link": "https://www.thehindu.com/news/national/telangana/telangana-cm-revanth-seeks-film-stars-help-to-prepare-people-for-el-nino-challenges/article71592180.ece",
+      "image": "https://th-i.thgim.com/public/incoming/fb5929/article71592430.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-19%20at%2010.17.36%20PM.jpeg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "7a98f42f17fff188",
+      "title": "Peter Dinklage's Canceled Sci-Fi Show Is A 2000s Relic Worth Revisiting",
+      "quote": "Years before Game of Thrones, Peter Dinklage played a character who shared some of Tyrion Lannister's interests on a canceled sci-fi show that's worth watching.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Witney Seibold)",
+      "date": "2026-10-18T00:45:00+00:00",
+      "link": "https://www.slashfilm.com/2284320/peter-dinklage-canceled-sci-fi-show-2000s-threshold/",
+      "image": "https://www.slashfilm.com/img/gallery/peter-dinklages-canceled-sci-fi-show-is-a-2000s-relic-worth-revisiting/l-intro-1791828174.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "16c0ccb3c9463c27",
@@ -163,6 +251,17 @@
       "category": "Festival Winners"
     },
     {
+      "id": "876dc8d3fd3c41e0",
+      "title": "‘Klara and the Sun’ Review: There’s No Life — Intelligent, Artificial or Otherwise — in Taika Waititi’s Calamitous Android Fantasy",
+      "quote": "Adapting a solemnly complex, questioning novel as a cockeyed child’s-eye comedy worked once before for Taika Waititi — which is to say that “Jojo Rabbit,” his crass, mawkish “anti-hate satire” about a Hitler Youth…",
+      "publisher": "Variety",
+      "author": "Guy Lodge",
+      "date": "2026-10-17T20:45:01+00:00",
+      "link": "https://variety.com/2026/film/reviews/klara-and-the-sun-review-1236914992/",
+      "image": "https://variety.com/wp-content/uploads/2026/06/Klara-and-the-Sun.jpg",
+      "category": "Festival Winners"
+    },
+    {
       "id": "7a0b8eb67195e42a",
       "title": "Whalefall Continues One Of 2026's Most Surprising (And Dark) Movie Trends",
       "quote": "Whalefall might ostensibly be about a guy getting eaten by a whale, but like a lot of 2026 movies, it's really about the death of a difficult father.",
@@ -196,17 +295,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "9bf7445e3bd9dfc0",
-      "title": "Roundglass Sustain’s short film A Spring Against All Odds to be showcased at international film festival",
-      "quote": "The film, one of 48 films selected for Film SouthAsia (FSA), an international documentary film festival to be held in Kathmandu from November 27–29, 2026, is based on a script by Radhika Raj and has been directed by…",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-17T19:40:40+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/roundglass-sustains-short-film-a-spring-against-all-odds-to-be-showcased-at-international-film-festival/article71562550.ece",
-      "image": "https://th-i.thgim.com/public/life-and-style/98l9v3/article71562564.ece/alternates/LANDSCAPE_1200/Film%201.jpeg",
-      "category": "Indian Cinema"
-    },
-    {
       "id": "1d495f45055f0705",
       "title": "‘Dancing With The Stars’ Suspends Val Chmerkovskiy For TikTok Referencing Will Smith Oscar Moment; Dancer Responds, “Instinct Was To Defend My Wife”",
       "quote": "UDPATED with Chmerkovskiy response: Val Chmerkovskiy is being suspended from Dancing with the Stars for a week after he posted a controversial TikTok message that seemed to reference Will Smith’s 2022 Oscar slap. In a…",
@@ -216,17 +304,6 @@
       "link": "https://deadline.com/2026/10/val-chmerkovskiy-dancing-with-the-stars-suspension-1237166428/",
       "image": "https://deadline.com/wp-content/uploads/2026/10/GettyImages-2296016855.jpg",
       "category": "Festival Winners"
-    },
-    {
-      "id": "240ec5280b3d95d6",
-      "title": "Charles Bronson's Little-Remembered '70s Western With His Wife Is Streaming On Prime Video",
-      "quote": "One of the strangest Westerns of Charles Bronson's career co-starred his real-life wife, and you can stream it on Prime Video right now.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-10-17T19:00:00+00:00",
-      "link": "https://www.slashfilm.com/2285158/charles-bronson-70s-western-from-noon-till-three-streaming-prime-video/",
-      "image": "https://www.slashfilm.com/img/gallery/charles-bronsons-little-remembered-70s-western-with-his-wife-is-streaming-on-prime-video/l-intro-1791895524.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "2fd70afacc28533c",
@@ -249,17 +326,6 @@
       "link": "https://deadline.com/2026/10/miley-cyrus-dolly-parton-jolene-hollywood-bowl-1237166419/",
       "image": "https://deadline.com/wp-content/uploads/2026/08/GettyImages-1097571114-e1792261493615.jpg",
       "category": "World Cinema"
-    },
-    {
-      "id": "c9cc021a50ab62ce",
-      "title": "‘12 12 12’ trailer: Anthony Mackie and Jamie Dornan lock horns in Apple TV’s heist thriller",
-      "quote": "Apple TV’s eight-episode series ‘12 12 12’ has Anthony Mackie and Jamie Dornan playing a former FBI agent and a globe-trotting criminal respectively",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-17T17:58:37+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/12-12-12-trailer-anthony-mackie-jamie-dornan-face-off-apple-tv-heist-thriller-premiere-date-eight-episode-series/article71582728.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/o4d26m/article71582794.ece/alternates/LANDSCAPE_1200/12%2012%2012.jpeg",
-      "category": "Indian Cinema"
     },
     {
       "id": "3d7cdf8d36f31d80",
@@ -295,17 +361,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "284ce795cba2e7c9",
-      "title": "Revisiting Vijay’s ‘Kushi’: How Deva composed this superhit album",
-      "quote": "A look at the evolution of this superhit film directed by SJ Suryah and featuring Vijay and Jyotika",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-17T16:53:12+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/deva-kushi-vijay-deva-death-deva-tributes-music-composer-deva-tamil-cinema-composer-deva-sj-suryah/article71596637.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/5lr7yz/article71597591.ece/alternates/LANDSCAPE_1200/Kushi1.jpeg",
-      "category": "Indian Cinema"
-    },
-    {
       "id": "91855ca9f3dbff2f",
       "title": "One of the best (and funniest) puzzle makers on Steam is giving his brilliance away for pennies",
       "quote": "Do yourself a favor and dive deep on FLEB, the creator of three of Steam’s best hidden puzzle gems.",
@@ -326,50 +381,6 @@
       "link": "https://www.avclub.com/the-best-tv-shows-to-watch-on-britbox",
       "image": "https://www.avclub.com/wp-content/uploads/2026/09/15/MixCollage-15-Oct-2026-04-28-PM-1449.jpg",
       "category": "Indie Gems"
-    },
-    {
-      "id": "37dcd1a3d26abbed",
-      "title": "Deva, veteran music composer’s funeral highlights | Final rites on October 18; T.N. government to accord State honours",
-      "quote": "His mortal remains are kept at his residence in T. Nagar, Chennai, for fans and film personalities to pay their last respects until 1 p.m. on October 18",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-17T15:50:06+00:00",
-      "link": "https://www.thehindu.com/entertainment/music/tamil-music-director-singer-deva-passes-away-funeral-rites-condolences-tributes-songs-live-updates/article71595646.ece",
-      "image": null,
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "3a8b8a08e8ccbeb5",
-      "title": "RJ Mitte, ‘Breaking Bad’ actor and disability rights champion, dies at 34",
-      "quote": "Mitte played Walter White Jr., the son of Bryan Cranston’s chemistry teacher-turned-meth dealer Walter White, in ‘Breaking Bad’",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-17T15:49:38+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/rj-mitte-breaking-bad-actor-and-disability-rights-champion-dies-at-34/article71577039.ece",
-      "image": "https://th-i.thgim.com/public/news/national/8adgr/article71577045.ece/alternates/LANDSCAPE_1200/AFP__20250607__2219088499__v4__HighRes__WesthamptonPremiere2025TribecaFestival.jpg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "454c1b58e0a6bc95",
-      "title": "Teja Sajja on hosting ‘The Traitors Telugu’: I had to be serious, unlike my real personality",
-      "quote": "Teja Sajja has been facing the camera since he was a little over two. Debuting as a child actor and later transitioning into an adult lead actor, he has over 30 films to his credit. Yet, something about his new…",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-17T15:35:59+00:00",
-      "link": "https://www.thehindu.com/videos/teja-sajja-on-hosting-the-traitors-telugu-i-had-to-be-serious-unlike-my-real-personality/article71565582.ece",
-      "image": "https://th-i.thgim.com/public/videos/shorts/2u4y7s/article71565573.ece/alternates/LANDSCAPE_1200/teja%20sajja.png",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "6957617d78439156",
-      "title": "Why Deva’s music for Rajinikanth was special",
-      "quote": "Music composer Deva’s work was the perfect accompaniment for Rajinikanth’s mass films",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-17T14:30:56+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/deva-death-music-composer-deva-passes-away-rajinikanth-deva-superstar-rajinikanth-deva-jailer-2-anirudh/article71595735.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/80c1tq/article71595793.ece/alternates/LANDSCAPE_1200/Deva2.JPEG",
-      "category": "Indian Cinema"
     },
     {
       "id": "f36711369bee334e",
@@ -677,17 +688,6 @@
       "date": "2026-10-14T02:27:56+00:00",
       "link": "https://variety.com/2026/film/reviews/all-about-corinne-review-isabelle-huppert-1236908606/",
       "image": "https://variety.com/wp-content/uploads/2026/09/All-About-Corinne.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "ed8fbcaa451b79bc",
-      "title": "‘Clean Hands’ Review: Zach Braff Is a Cop on a Crusade to Save His Addict Daughter in an Uneasy Fact-Based Crime Drama",
-      "quote": "When a filmmaker tells a story based on real events, especially ones that are inspiring or heroic, there’s always a risk of hagiography. “Clean Hands” is a movie where the storytellers either take a lot of license with…",
-      "publisher": "Variety",
-      "author": "Todd Gilchrist",
-      "date": "2026-10-13T23:14:27+00:00",
-      "link": "https://variety.com/2026/film/reviews/clean-hands-review-1236910791/",
-      "image": "https://variety.com/wp-content/uploads/2026/10/Clean-Hands.webp",
       "category": "World Cinema"
     },
     {
