@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T15:43:13.772608+00:00",
+  "generated_at": "2026-10-18T20:26:15.690238+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -9,6 +9,149 @@
   ],
   "reviews": [
     {
+      "id": "6c70a39f7037d2e4",
+      "title": "TikTok Restores ‘Musk’ Doc Account “After An Error” Resulted In Suspension",
+      "quote": "As Alex Gibney takes on Elon Musk with his latest documentary, the Bleecker/Universal project is continuing to push back against censorship on social platforms. Following the reported “permanent suspension” of the doc…",
+      "publisher": "Deadline",
+      "author": "Glenn Garner",
+      "date": "2026-10-18T20:04:51+00:00",
+      "link": "https://deadline.com/2026/10/tiktok-restores-musk-doc-account-after-error-1237167167/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/Musk-TikTok.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "e1adeb54fdcfce2b",
+      "title": "Cindy Crawford & Family Pay Tribute To Late Son Presley Gerber: “‘Til We Meet Again, Our Sweet Boy”",
+      "quote": "Following Presley Gerber’s death at age 27 last month, his family has shared a statement paying tribute and thanking fans for their support. On Sunday, Cindy Crawford mourned the loss of her first-born she described as…",
+      "publisher": "Deadline",
+      "author": "Glenn Garner",
+      "date": "2026-10-18T19:29:20+00:00",
+      "link": "https://deadline.com/2026/10/cindy-crawford-family-pay-tribute-presley-gerber-1237167162/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/GettyImages-2276771314.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "e7c67b3f94d69026",
+      "title": "How A24 Spurred A Meme Craze & Got The Many To Watch ‘You Can See Everything’: Documentary Opens To $15M Milestone",
+      "quote": "Less than two months ago, the public didn’t even know that a Nathan Fielder co-directed and starring documentary which followed controversial Theranos founder Elizabeth Holmes even existed. And here we are with A24…",
+      "publisher": "Deadline",
+      "author": "Anthonypauldalessandro",
+      "date": "2026-10-18T18:50:39+00:00",
+      "link": "https://deadline.com/2026/10/you-can-see-everything-box-office-elizabeth-holmes-1237167129/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/You-Can-See-Everything.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "c2eff3782c7fb759",
+      "title": "Woodstock Film Festival Names Jessica Edwards Executive Director, Announces 2026 Maverick Award Winners — Full List",
+      "quote": "The 27th Woodstock Film Festival has concluded with the announcement of its Maverick Award winners and a new executive director. On Sunday, the festival named Jessica Edwards as its new executive director, taking over…",
+      "publisher": "Deadline",
+      "author": "Glenn Garner",
+      "date": "2026-10-18T18:50:12+00:00",
+      "link": "https://deadline.com/2026/10/woodstock-film-festival-jessica-edwards-executive-director-1237167150/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/Woodstock-Film-Fest-Jessica-Edwards.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "ef7e965bb64cc0ce",
+      "title": "Why M. Bison From Street Fighter (2026) Looks So Familiar",
+      "quote": "The 2026 Street Fighter movie introduces a new live-action iteration of villain M. Bison, and the actor who plays him might look familiar to DC fans.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Devin Meenan)",
+      "date": "2026-10-18T18:10:55+00:00",
+      "link": "https://www.slashfilm.com/2289796/m-bison-street-fighter-2026-movie-actor-david-dastmalchian/",
+      "image": "https://www.slashfilm.com/img/gallery/why-m-bison-from-street-fighter-2026-looks-so-familiar/l-intro-1792346356.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "e94b8ac4a67883e8",
+      "title": "Deathstroke's Canceled DCEU Movie Storylines Explained By Joe Manganiello",
+      "quote": "According to Joe Manganiello, he was lined up to play Deathstroke in multiple DC Extended Universe movie storylines that were ultimately canceled.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Ryan Scott)",
+      "date": "2026-10-18T18:00:00+00:00",
+      "link": "https://www.slashfilm.com/2287401/joe-manganiello-deathstroke-canceled-dceu-movie-storylines-explained/",
+      "image": "https://www.slashfilm.com/img/gallery/joe-manganiello-deathstroke-canceled-dceu-movie-storylines-explained/l-intro-1792176985.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "3e0b7bebc26e8d1e",
+      "title": "Tom Arnold Denies Chuck Lorre’s Claim That He Made Writers Put His Name On ‘Roseanne’ Scripts: “Never”",
+      "quote": "As Chuck Lorre’s memoir continues to make the rounds, Tom Arnold is the latest sitcom actor to respond to criticisms of himself in the book. Following Lorre’s claim in Sitcom that writers on Roseanne (1988-’97) were…",
+      "publisher": "Deadline",
+      "author": "Glenn Garner",
+      "date": "2026-10-18T17:44:39+00:00",
+      "link": "https://deadline.com/2026/10/tom-arnold-denies-chuck-lorre-claim-roseanne-scripts-1237167120/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/Chuck-Lorre-Tom-Arnold-2-shot.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "9e6997699019e8b3",
+      "title": "‘Dreadline Express’ Game Developer David Konecny Talks Stressful Player Choice & The Art Of Building A Psychological Horror",
+      "quote": "For Czech developer David Konecny, Dreadline Express brings together a lifelong fascination with trains, psychological horror, and stories shaped by difficult choices. His debut game takes players aboard a train at the…",
+      "publisher": "Deadline",
+      "author": "Destiny Jackson",
+      "date": "2026-10-18T17:00:00+00:00",
+      "link": "https://deadline.com/2026/10/dreadline-express-video-game-interview-david-konecny-1237166952/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/dreadline.jpeg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "e1be996a6c728ecc",
+      "title": "This Late '40s Western TV Series Features An Actor We Don't Talk About Today",
+      "quote": "William Boyd has the distinction of starring in the first Western TV series, but the actor and his show both seem mostly forgotten these days.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Joe Roberts)",
+      "date": "2026-10-18T17:00:00+00:00",
+      "link": "https://www.slashfilm.com/2287375/hopalong-cassidy-40s-western-series-william-boyd/",
+      "image": "https://www.slashfilm.com/img/gallery/this-late-40s-western-tv-series-features-an-actor-we-dont-talk-about-today/l-intro-1792063822.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "e03d798af8698efd",
+      "title": "‘Street Fighter’ Rings Up No. 1 $51M+ WW Opening, Largely Driven By Fans – Global Box Office Update",
+      "quote": "With the Nathan Fielder and Elizabeth Holmes documentary craze currently a stateside thing, Paramount/Legendary/Capcom’s Street Fighter was the ringleader at the worldwide weekend B.O. with a $51.1M global opening. Of…",
+      "publisher": "Deadline",
+      "author": "Anthonypauldalessandro",
+      "date": "2026-10-18T16:59:27+00:00",
+      "link": "https://deadline.com/2026/10/box-office-global-street-fighter-1237167021/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/MCDSTFI_PA023.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "1bf25a1e3aedecfc",
+      "title": "Curtain Up: ‘La Bola Negra’ Shines As Netflix Shares Grosses In Historic First — Specialty Box Office",
+      "quote": "UPDATED with Once Upon A Time In Harlem, Musk, more: Netflix’s Spanish drama La Bola Negra debuted to $277.5k on four screens – these numbers coming directly from the giant streamer Sunday in its first ever official box…",
+      "publisher": "Deadline",
+      "author": "Jillg366",
+      "date": "2026-10-18T16:46:26+00:00",
+      "link": "https://deadline.com/2026/10/indie-film-box-office-la-bola-negra-shines-netflix-shares-grosses-1237167026/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/MCDLABO_ZX011.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "822e0666113017b0",
+      "title": "William Shatner Shares Why Star Trek Is More Important Than Ever In 2026 [Exclusive]",
+      "quote": "Star Trek legend William Shatner may not have a simple answer for why the franchise has endured for 60 years, but he tells us why it's more important than ever.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Jeremy Mathai)",
+      "date": "2026-10-18T16:00:00+00:00",
+      "link": "https://www.slashfilm.com/2289175/william-shatner-star-trek-2026-importance-explained/",
+      "image": "https://www.slashfilm.com/img/gallery/william-shatner-shares-why-star-trek-is-more-important-than-ever-in-2026-exclusive/l-intro-1792182880.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "519f4d4156e93aa6",
+      "title": "P Sheshadri serves up another political satire with ‘Panchayati’",
+      "quote": "P Sheshadri’s latest film, ‘Panchayati’, scheduled for release by the end of 2026, explores the complex political realities of rural India",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-18T15:49:04+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/p-sheshadri-panchayati-political-satire-kannada-movie-panchayati-kannada-filmmaker-p-sheshadri/article71582346.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/73ufyv/article71600721.ece/alternates/LANDSCAPE_1200/Panchayati%201.jpeg",
+      "category": "Indian Cinema"
+    },
+    {
       "id": "acfb0d6be966cd48",
       "title": "‘Amruthavarshini’: When Deva gave Kannada cinema an all-time hit with a soulful album",
       "quote": "Music composer Deva’s work in the 1997 Kannada film, directed by Dinesh Baboo, showcased a soulful side of his repertoire, even as he was known for high-energy numbers",
@@ -16,7 +159,7 @@
       "author": null,
       "date": "2026-10-18T15:32:49+00:00",
       "link": "https://www.thehindu.com/entertainment/movies/deva-music-composer-deva-amruthavarshini-kannada-movie-deva-death-deva-funeral-deva-tributes-deva-obituary/article71596929.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/h1dzyi/article71600671.ece/alternates/LANDSCAPE_1200/Amrutha.jpeg",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/yddwqf/article71600671.ece/alternates/LANDSCAPE_1200/Amrutha.jpeg",
       "category": "Indian Cinema"
     },
     {
@@ -40,17 +183,6 @@
       "link": "https://www.slashfilm.com/2283769/best-sci-fi-movies-adapted-books-ranked/",
       "image": "https://www.slashfilm.com/img/gallery/15-best-sci-fi-movies-adapted-from-books-ranked/l-intro-1791558271.jpg",
       "category": "Indie Gems"
-    },
-    {
-      "id": "ff65a63f81e4ee70",
-      "title": "‘Street Fighter’ Socks $31M, ‘You Can See Everything’ Has 2,000+ Sellouts With $15M Docu Milestone – Sunday Update",
-      "quote": "SUNDAY AM Writethru after Saturday update: It’s a healthy third weekend at the October box office even with a bellyflop in 20th Century Studio’s $60M Whalefall in the mix which is only swallowing a $8M opening…",
-      "publisher": "Deadline",
-      "author": "Anthonypauldalessandro",
-      "date": "2026-10-18T15:00:00+00:00",
-      "link": "https://deadline.com/2026/10/box-office-street-fighter-you-can-see-everything-1237159320/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/Street-Fighter-and-You-Can-See-Everything-.jpg",
-      "category": "World Cinema"
     },
     {
       "id": "9ac36f5bb9e5daa0",
@@ -84,28 +216,6 @@
       "link": "https://www.thehindu.com/news/national/tamil-nadu/how-the-gaana-tag-overshadowed-devas-melodic-genius/article71596083.ece",
       "image": "https://th-i.thgim.com/public/incoming/afr8bw/article71597466.ece/alternates/LANDSCAPE_1200/Music_Director_Deva_06.jpg",
       "category": "Indian Cinema"
-    },
-    {
-      "id": "d9fac5322fa83294",
-      "title": "London Film Festival: Sergei Loznitsa’s ‘Imperium’ & Sompot Chidgasornpongse’s ‘9 Temples To Heaven’ Among Big Winners — Full List",
-      "quote": "Ukrainian filmmaker Sergei Loznitsa’s latest feature Imperium has won the Best Film Award in the Official Competition at this year’s London Film Festival. The winners were announced this afternoon, the last day of the…",
-      "publisher": "Deadline",
-      "author": "Zac Ntim",
-      "date": "2026-10-18T13:00:00+00:00",
-      "link": "https://deadline.com/2026/10/london-film-festival-award-winners-2026-1237166918/",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/9TH-00001-2000-2000-1125-1125-crop-fill-e1787757327376.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "3624e6d51725e908",
-      "title": "El Gouna Unveils Third Cohort Of CineGouna Emerge Program’s Rising Stars",
-      "quote": "EXCLUSIVE: Egypt’s El Gouna Film Festival has announced the third cohort of emerging talents from across the Arab world selected for its Rising Stars program. They are Egyptian director Abdallah Dnewar, Saudi Arabian…",
-      "publisher": "Deadline",
-      "author": "Melanie Goodfellow",
-      "date": "2026-10-18T12:01:00+00:00",
-      "link": "https://deadline.com/2026/10/el-gouna-cinegouna-emerge-2026-rising-stars-1237166913/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/gff-emerge-rising-stars-1000x667-1.jpg",
-      "category": "World Cinema"
     },
     {
       "id": "0085b62075bbb8d8",
@@ -174,116 +284,6 @@
       "category": "Indian Cinema"
     },
     {
-      "id": "8689cbfedfa7ba98",
-      "title": "‘You Can See Everything’ becomes Letterboxd’s highest-rated feature film of all time with 4.8 rating",
-      "quote": "Nathan Fielder and Lance Oppenheim’s documentary about former Theranos CEO Elizabeth Holmes has climbed to the top of Letterboxd’s feature-film rankings following its theatrical release",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-18T05:11:53+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/you-can-see-everything-becomes-letterboxds-highest-rated-feature-film-of-all-time-with-48-rating/article71599180.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/x26sni/article71599176.ece/alternates/LANDSCAPE_1200/Elizabeth-Holmes-2026-doc-2-090726-8fa48c7a8fe5419087bd534307eaca02.jpg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "38d2b13284ada0db",
-      "title": "La bola negra",
-      "quote": "An act of reclamation of emotional truth from the grip of fascism and the burying tide of history.",
-      "publisher": "RogerEbert.com",
-      "author": "Brian Tallerico",
-      "date": "2026-10-18T03:29:04+00:00",
-      "link": "https://www.rogerebert.com/reviews/la-bola-negra-netflix-penelope-cruz-glenn-close-film-review-2026",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "7a98f42f17fff188",
-      "title": "Peter Dinklage's Canceled Sci-Fi Show Is A 2000s Relic Worth Revisiting",
-      "quote": "Years before Game of Thrones, Peter Dinklage played a character who shared some of Tyrion Lannister's interests on a canceled sci-fi show that's worth watching.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Witney Seibold)",
-      "date": "2026-10-18T00:45:00+00:00",
-      "link": "https://www.slashfilm.com/2284320/peter-dinklage-canceled-sci-fi-show-2000s-threshold/",
-      "image": "https://www.slashfilm.com/img/gallery/peter-dinklages-canceled-sci-fi-show-is-a-2000s-relic-worth-revisiting/l-intro-1791828174.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "16c0ccb3c9463c27",
-      "title": "Ben Affleck's Canceled Batman Movie Would Have Killed Off A Major DC Comics Hero",
-      "quote": "Deathstroke actor Joe Manganiello has revealed fresh details about Ben Affleck's canceled DC movie, including which major character would have been killed off.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Devin Meenan)",
-      "date": "2026-10-18T00:36:31+00:00",
-      "link": "https://www.slashfilm.com/2289655/ben-affleck-batman-movie-killed-dc-comics-hero-jim-gordon/",
-      "image": "https://www.slashfilm.com/img/gallery/ben-afflecks-canceled-batman-movie-would-have-killed-off-a-major-dc-comics-hero/l-intro-1792283026.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "eec3617ac441c46e",
-      "title": "James McAvoy Pitched ‘Star Trek’ Series About “Young Picard,” Jokes “All I Really Want To Do” Is Play Young Patrick Stewart",
-      "quote": "After putting in his tenure in the X-Men franchise, James McAvoy had his sights set on another iconic character originated by Patrick Stewart. The Golden Globe nominee recently revealed that he pitched a Star Trek…",
-      "publisher": "Deadline",
-      "author": "Glenn Garner",
-      "date": "2026-10-18T00:29:09+00:00",
-      "link": "https://deadline.com/2026/10/james-mcavoy-pitched-star-trek-series-young-picard-1237166532/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/Patrick-Stewart-James-McAvoy-Picard-2-shot.jpg",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "c86328188df6d664",
-      "title": "Jaime Pressly Defends ‘Mom’ Co-Stars As “Beautifully Flawed” After Chuck Lorre Memoir: “Incredible Cast Of Women”",
-      "quote": "After Anna Faris responded to Mom co-creator Chuck Lorre’s professional criticisms, Jaime Pressly has chimed in. The actress, who played recovering addict Jill Kendall on the CBS sitcom, defended her co-stars as “an…",
-      "publisher": "Deadline",
-      "author": "Glenn Garner",
-      "date": "2026-10-17T23:49:14+00:00",
-      "link": "https://deadline.com/2026/10/jaime-pressly-defends-mom-co-stars-chuck-lorre-memoir-1237166522/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/TCDMOMM_EC064.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "811f30da5d869dc2",
-      "title": "Clive Barker Teases ‘Hellraiser: Revival’ Video Game Has Reignited “Many Ideas” For Film Franchise: “Planning To Keep My Fingers In That Pie”",
-      "quote": "Nearly 40 years after first opening the Lament Configuration on screen, Clive Barker is ready to explore pain and pleasure again in the Hellraiser film franchise. With the recent release of the Saber Interactive’s…",
-      "publisher": "Deadline",
-      "author": "Glenn Garner",
-      "date": "2026-10-17T23:25:29+00:00",
-      "link": "https://deadline.com/2026/10/clive-barker-hellraiser-revival-reignited-ideas-film-franchise-1237166512/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/MSDHELL_EC007.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "d262137efdc7f6f1",
-      "title": "5 Emmy-Winning Sitcoms That We Don't Talk About Anymore",
-      "quote": "The 5 sitcoms on this list all won Emmy awards, and yet they all seem to have slipped away from the pop culture consciousness into oblivion.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-10-17T23:00:00+00:00",
-      "link": "https://www.slashfilm.com/2286456/emmy-winning-sitcoms-we-dont-talk-about-anymore/",
-      "image": "https://www.slashfilm.com/img/gallery/5-emmy-winning-sitcoms-that-we-dont-talk-about-anymore/l-intro-1791986864.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "8d53a11e5d38985f",
-      "title": "Paul McCartney Was Concerned Paul Mescal Is “Markedly Shorter” Than ‘The Beatles’ Co-Stars",
-      "quote": "As Beatles fans are transported back to Abbey Road for Sam Mendes’ upcoming biopic, Paul McCartney has some thoughts on the casting. The Beatles alum said he was concerned that Paul Mescal looks “markedly shorter”…",
-      "publisher": "Deadline",
-      "author": "Glenn Garner",
-      "date": "2026-10-17T22:53:21+00:00",
-      "link": "https://deadline.com/2026/10/paul-mccartney-concerned-paul-mescal-markedly-shorter-beatles-1237166503/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/Paul-McCartney-Paul-Mescal-2-shot.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "8d7d9d70c89dffa4",
-      "title": "Why Joe From Street Fighter (2026) Looks So Familiar",
-      "quote": "The 2026 Street Fighter movie features a fighter called Joe who is a fairly obscure character in the games, but might look familiar to UFC fans.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Witney Seibold)",
-      "date": "2026-10-17T22:24:53+00:00",
-      "link": "https://www.slashfilm.com/2289649/joe-street-fighter-2026-movie-actor-alexander-volkanovski/",
-      "image": "https://www.slashfilm.com/img/gallery/why-joe-from-street-fighter-2026-looks-so-familiar/l-intro-1792273323.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "c6c1a079d14b39a4",
       "title": "John Wilson is apparently going from The History Of Concrete to the life of Harry Styles",
       "quote": "John Wilson is apparently following The History Of Concrete with a Harry Styles concert documentary, of all things.",
@@ -293,17 +293,6 @@
       "link": "https://www.avclub.com/john-wilson-apparently-making-a-harry-styles-concert-documentary",
       "image": "https://www.avclub.com/wp-content/uploads/2026/10/17/styles-wilson-feature2.jpg",
       "category": "Indie Gems"
-    },
-    {
-      "id": "97139223ca1386bf",
-      "title": "Donald Trump Finally Arrives On ‘SNL UK’ In Job Swap Cold Open With Andy Burnham & Volodymyr Zelenskyy",
-      "quote": "Donald Trump has spent some time in the UK these past few years but tonight he finally made his debut on Saturday Night Live UK. James Austin Johnson brought his POTUS to Sky’s hit UK version of the NBC show in a job…",
-      "publisher": "Deadline",
-      "author": "Max Goldbart",
-      "date": "2026-10-17T21:23:27+00:00",
-      "link": "https://deadline.com/2026/10/snl-uk-donald-trump-first-time-andy-burnham-zelensky-1237166466/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/20261017_SNLUK_S02E05_MATT-CROCKETT_01_8890-e1792279611102.jpeg",
-      "category": "World Cinema"
     },
     {
       "id": "f0ceb387d37bfe7a",
@@ -533,6 +522,17 @@
       "author": "Cortlyn Kelly",
       "date": "2026-10-16T13:00:00+00:00",
       "link": "https://www.rogerebert.com/reviews/the-storm-gustaf-skarsgard-netflix-film-review-2026",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "80e1fa33d682adfa",
+      "title": "Street Fighter",
+      "quote": "This is, ostensibly, how a \"Street Fighter\" movie should be made. So why isn't it very good?",
+      "publisher": "RogerEbert.com",
+      "author": "Clint Worthington",
+      "date": "2026-10-16T13:00:00+00:00",
+      "link": "https://www.rogerebert.com/reviews/street-fighter-video-game-movie-review-2026",
       "image": null,
       "category": "World Cinema"
     },
