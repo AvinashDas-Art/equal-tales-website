@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T22:13:47.486855+00:00",
+  "generated_at": "2026-10-20T04:27:40.873538+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -8,6 +8,94 @@
     "Indie Gems"
   ],
   "reviews": [
+    {
+      "id": "0a75b09854782522",
+      "title": "Michael Douglas Asked To Be Killed Off Marvel’s ‘Ant-Man’: “They Wouldn’t Let Me”",
+      "quote": "If Michael Douglas had his way, he would’ve left the Marvel Cinematic Universe after starring in 2015’s Ant-Man and its sequel. In a new interview, the actor got real about his time in the MCU and asked the studio to…",
+      "publisher": "Deadline",
+      "author": "Armando Tinoco",
+      "date": "2026-10-20T03:45:15+00:00",
+      "link": "https://deadline.com/2026/10/michael-douglas-killed-off-marvel-ant-man-1237168330/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/michael-douglas-ant-man-marvel.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "1925d94dcf46ce13",
+      "title": "‘Star Wars’ Headed To Super Bowl LXI For Animated Altcast On Disney+, Disney Channel and Disney XD",
+      "quote": "Characters from “A Galaxy Far, Far Away” are headed to Super Bowl LXI as ESPN, Lucasfilm and the NFL team up for a Star Wars alternative telecast. On Sunday, February 14, Disney+, Disney Channel, and Disney XD will air…",
+      "publisher": "Deadline",
+      "author": "Armando Tinoco",
+      "date": "2026-10-20T03:10:51+00:00",
+      "link": "https://deadline.com/2026/10/star-wars-super-bowl-2027-altcast-disney-nfl-1237168321/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/super-bowl-star-wars-nfl.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "e47be6de4246dc62",
+      "title": "Quinta Brunson Shares Update On Betty Boop Film Development: “The Story Will Be Unlike Anything Anyone Expects”",
+      "quote": "Quinta Brunson is sharing an update on the Betty Boop film she is developing and starring in. While appearing on Good Morning America, the Abbott Elementary creator and star teased that she is “creating a really…",
+      "publisher": "Deadline",
+      "author": "Armando Tinoco",
+      "date": "2026-10-20T02:10:03+00:00",
+      "link": "https://deadline.com/2026/10/quinta-brunson-update-betty-boop-film-1237168312/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/quinta-brunson-betty-boop.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "8acfb0b90613a8f5",
+      "title": "Awards Go To ‘Mayilaa,’ ‘The Gymnasts Of Fisherman Colony’ And More At Seattle’s Tasveer film Festival",
+      "quote": "The Tasveer Film Festival in Seattle has wrapped its 21st edition with the announcement of awards in multiple categories. Mayilaa, a drama directed by Semmalar Annam, won the Jury Award for Best Feature Narrative. The…",
+      "publisher": "Deadline",
+      "author": "Matthew Carey",
+      "date": "2026-10-20T00:43:53+00:00",
+      "link": "https://deadline.com/2026/10/2026-tasveer-film-festival-awards-1237168277/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/Tasveer-Film-Festival-graphic-2026.png",
+      "category": "World Cinema"
+    },
+    {
+      "id": "80c4c8f35125a861",
+      "title": "Disney Appoints Carol Choi As Asia Pacific President Following Luke Kang’s Retirement",
+      "quote": "The Walt Disney Company said that Carol Choi, currently Executive Vice President of Disney Asia Pacific, will succeed Luke Kang as President, APAC following his decision to retire after 16 years with the company. In her…",
+      "publisher": "Deadline",
+      "author": "Liz Shackleton",
+      "date": "2026-10-20T00:25:29+00:00",
+      "link": "https://deadline.com/2026/10/disney-carol-choi-luke-kang-asia-pacific-1237168258/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/MixCollage-20-Oct-2026-09-10-AM-3089.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "56235785bee1a698",
+      "title": "Rita Wilson Teases Return In Lena Dunham’s ‘Girls’ Revival On HBO: “I Would Do Anything For Her”",
+      "quote": "Rita Wilson says she “would do anything” for Lena Dunham after confirming the Girls revival. HBO and Dunham announced the comedy would return for five episodes in 2027, and Wilson teased she would reprise her role…",
+      "publisher": "Deadline",
+      "author": "Armando Tinoco",
+      "date": "2026-10-20T00:15:05+00:00",
+      "link": "https://deadline.com/2026/10/rita-wilson-return-lena-dunham-girls-revival-hbo-1237168250/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/rita-wilson-girls.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "ff2b76a596306360",
+      "title": "‘Lizard Music’ Starring Dwayne Johnson And Directed By Benny Safdie To Tune Up Christmas Day 2027 Via Amazon MGM",
+      "quote": "EXCLUSIVE: Amazon MGM Studios has set the theatrical release date for the live-action/CGI hybrid Lizard Music, starring Dwayne Johnson and directed by Benny Safdie, for December 25, 2027. Lizard Music follows a boy…",
+      "publisher": "Deadline",
+      "author": "Anthonypauldalessandro",
+      "date": "2026-10-20T00:00:00+00:00",
+      "link": "https://deadline.com/2026/10/dwayne-johnson-lizard-music-release-date-1237167973/",
+      "image": "https://deadline.com/wp-content/uploads/2025/10/Dwayne-Johnson-Benny-Safdie-2238200602.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "1be716b09cd5000b",
+      "title": "‘Friday Night Lights’ Stars Hit The Field To Aid James Talarico’s Smashmouth Attempt To Score A Texas Senate Race Win",
+      "quote": "“It’s time to leave it all on the field.” That’s the message Friday Night Lights series stars Connie Britton, Jesse Plemons and Adrianne Palicki are pitching to Texans in the final push for U.S. Senate candidate James…",
+      "publisher": "Deadline",
+      "author": "Dominic Patten",
+      "date": "2026-10-19T23:37:40+00:00",
+      "link": "https://deadline.com/2026/10/james-talaricos-friday-night-lights-ad-midterms-1237168179/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/James-Talarico-political-ad-with-actors-from-Friday-Night-Lights-Connie-Britton-Jesse-Plemons-and-Adrianne-Palicki.jpg",
+      "category": "World Cinema"
+    },
     {
       "id": "6ebe46f8527be9e8",
       "title": "Why Brent Spiner's 'Justice League Of Star Trek' Never Got Made",
@@ -18,17 +106,6 @@
       "link": "https://www.slashfilm.com/2288941/why-brent-spiner-justice-league-star-trek-never-made/",
       "image": "https://www.slashfilm.com/img/gallery/why-brent-spiners-justice-league-of-star-trek-never-got-made/l-intro-1792168020.jpg",
       "category": "Indie Gems"
-    },
-    {
-      "id": "215d2d409a934870",
-      "title": "Tisha Campbell Signs With Innovative Artists",
-      "quote": "EXCLUSIVE: Innovative Artists Entertainment has signed multi-hyphenate Tisha Campbell for representation in all areas. Campbell recently released her memoir, The A Word: A Mother’s Journey Through Autism and Love…",
-      "publisher": "Deadline",
-      "author": "Rosy Cordero",
-      "date": "2026-10-19T21:46:50+00:00",
-      "link": "https://deadline.com/2026/10/tisha-campbell-innovative-artists-agency-1237168010/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/TC-Press-1500.jpg",
-      "category": "World Cinema"
     },
     {
       "id": "28c7998f33a36a00",
@@ -42,17 +119,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "328e89967cdf801a",
-      "title": "Ex-UTA Agent Dante DeSario Launches Collage, A Management Firm For AI-Native Production",
-      "quote": "Former UTA film agent Dante DeSario has launched Collage, a management company devoted to AI-native production. The new firm has closed a seed funding round, with Black Bear and Fundamental Films investing. Other…",
-      "publisher": "Deadline",
-      "author": "Dade Hayes",
-      "date": "2026-10-19T21:23:54+00:00",
-      "link": "https://deadline.com/2026/10/uta-agent-dante-desario-launches-collage-ai-management-firm-1237168068/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/Chikaboom.jpeg",
-      "category": "World Cinema"
-    },
-    {
       "id": "bf5ce3007bbb2612",
       "title": "Selena Gomez says vaping changed her voice",
       "quote": "The Only Murders In The Building star addressed her changing tones on Instagram Stories, where she claimed to have kicked her nicotine habit.",
@@ -62,17 +128,6 @@
       "link": "https://www.avclub.com/selena-gomez-says-vaping-changed-her-voice",
       "image": "https://img.pastemagazine.com/wp-content/avuploads/2025/02/01123927/gomez-feature.jpg",
       "category": "Indie Gems"
-    },
-    {
-      "id": "9da475642ceff288",
-      "title": "Controversial ‘Downstate’ Again Delays Broadway Previews Due To Illness",
-      "quote": "UPDATE, Mon. Oct. 19, with additional cancelation: Downstate, the controversial new play by Bruce Norris directed by Joe Mantello, has again bumped its first Broadway preview date due to an illness within the company…",
-      "publisher": "Deadline",
-      "author": "Greg Evans",
-      "date": "2026-10-19T21:04:00+00:00",
-      "link": "https://deadline.com/2026/10/downstate-broadway-opening-date-1237155592/",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Screenshot-2026-08-29-at-2.08.32-PM.png",
-      "category": "World Cinema"
     },
     {
       "id": "aef57b582a264fa7",
@@ -86,17 +141,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "141f72d8cab97295",
-      "title": "Richard Riehle Dies: ‘Office Space’ & ‘Bridesmaids’ Actor Was 78",
-      "quote": "Richard Riehle, an actor in Office Space, Bridesmaids, Casino, Deuce Bigalow: Male Gigolo and The Man From Earth, has died. He was 78. The actor died of natural causes in Los Angeles last Thursday, October 15, according…",
-      "publisher": "Deadline",
-      "author": "Armando Tinoco",
-      "date": "2026-10-19T20:51:49+00:00",
-      "link": "https://deadline.com/2026/10/richard-riehle-dead-office-space-actor-1237168053/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/Richard-Riehle.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "e290446ad86c0085",
       "title": "Marvel won't let Michael Douglas die",
       "quote": "In a new interview, Michael Douglas said that his Marvel character, Dr. Hank Pym, would have been killed off after the second <i>Ant-Man</i> movie if he had his way.",
@@ -106,17 +150,6 @@
       "link": "https://www.avclub.com/michael-douglas-marvel-ant-man-wanted-to-be-killed-off",
       "image": "https://www.avclub.com/wp-content/uploads/2026/10/19/michael-douglas-ant-man-and-the-wasp-quantumania-featured.jpg",
       "category": "Indie Gems"
-    },
-    {
-      "id": "9f44e4b15a54b9bc",
-      "title": "Chelsey Summey Departs As Warner Bros Head Of Communications",
-      "quote": "EXCLUSIVE: With more exits expected later this week as Paramount seizes Warner Bros, we hear that the latter’s Head of Communications, Chelsey Summey, has departed the Burbank, CA lot. Summey first joined Warner Bros as…",
-      "publisher": "Deadline",
-      "author": "Anthonypauldalessandro",
-      "date": "2026-10-19T20:03:25+00:00",
-      "link": "https://deadline.com/2026/10/warner-bros-chelsey-summey-exits-1237167937/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/Chelsey-Summey_Richard-Radstone-.jpeg",
-      "category": "World Cinema"
     },
     {
       "id": "ebc1e76309b449c2",
@@ -152,28 +185,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "ce2c3598cff1f054",
-      "title": "We Can See Oscar Possibilities For A24’s Hit Documentary ‘You Can See Everything’ – And That Includes An Acting Category",
-      "quote": "SPOILER ALERT: The following article contains details about storylines and characters/actors in A24’s documentary You Can See Everything. Ever since its super-secret onetime screening at the Telluride Film Festival over…",
-      "publisher": "Deadline",
-      "author": "Pete Hammond",
-      "date": "2026-10-19T19:31:36+00:00",
-      "link": "https://deadline.com/2026/10/you-can-see-everything-oscar-chances-1237167671/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/MCDYOCA_EC126.jpg",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "245a615ba96f60cb",
-      "title": "Harrison Harvey Promoted To Agent At IAG",
-      "quote": "EXCLUSIVE: Independent Artist Group has upped Harrison Harvey to talent agent. Harrison has been working on CEO Jim Osborne’s desk for two years, making valued contributions across his client roster and playing an…",
-      "publisher": "Deadline",
-      "author": "Matthewgrobar",
-      "date": "2026-10-19T19:22:45+00:00",
-      "link": "https://deadline.com/2026/10/harrison-harvey-promoted-iag-1237167971/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/HarrisonHarveyHeadshot.jpeg",
-      "category": "World Cinema"
-    },
-    {
       "id": "b651fe462cec42ec",
       "title": "R.I.P. Richard Riehle, Office Space actor",
       "quote": "Best known for his memorable turn in Office Space, Richard Riehl starred in more than 400 screen projects.",
@@ -183,17 +194,6 @@
       "link": "https://www.avclub.com/richard-riehle-office-space-actor-obituary",
       "image": "https://www.avclub.com/wp-content/uploads/2017/03/19/Richard-Riehle.jpg",
       "category": "Indie Gems"
-    },
-    {
-      "id": "f31a9cb62e3d9e04",
-      "title": "Justine Lupe To Lead & Produce Rom-Com Series In Development At Amazon From Briana Pozner & Colin Lupe; Will Gluck To Direct",
-      "quote": "EXCLUSIVE: Amazon is developing the new romantic comedy series Settling, from creators Briana Pozner and Colin Lupe. Justine Lupe (Nobody Wants This, Succession) will lead the show, and Will Gluck (Anyone But You, Easy…",
-      "publisher": "Deadline",
-      "author": "Rosy Cordero",
-      "date": "2026-10-19T19:13:20+00:00",
-      "link": "https://deadline.com/2026/10/justine-lupe-cast-amazon-series-development-1237167905/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/universal-pictures-one-night-only-new-york-premiere-1500x845-1-1.jpg",
-      "category": "World Cinema"
     },
     {
       "id": "d17aed655cf7ce40",
