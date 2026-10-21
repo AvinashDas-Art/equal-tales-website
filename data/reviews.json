@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T04:18:24.533694+00:00",
+  "generated_at": "2026-10-21T11:34:05.291399+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -9,14 +9,201 @@
   ],
   "reviews": [
     {
-      "id": "3edec7566571e24e",
-      "title": "Charli Xcx Cancels Tour Date In Arizona: “It Breaks Me That I Can’t Be With You”",
-      "quote": "Charli Xcx is canceling her penultimate Music, Fashion, Film Tour date in the U.S. as she battles sickness. The singer took to social media to confirm she won’t perform at the Desert Diamond Arena in Glendale, Arizona…",
+      "id": "c5bb3a835aa3215d",
+      "title": "‘Doctor Who’ Actor Noel Clarke Pleads Not Guilty To Sexual Assault, Voyeurism & Exposure",
+      "quote": "Noel Clarke, the British actor who starred in Doctor Who and Kidulthood, has pleaded not guilty to a series of sexual offenses. London’s Metropolitan Police said in September that Clarke had been charged with two counts…",
       "publisher": "Deadline",
-      "author": "Armando Tinoco",
-      "date": "2026-10-21T03:30:05+00:00",
-      "link": "https://deadline.com/2026/10/charli-xcx-cancels-tour-date-arizona-1237169428/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/charli-xcx-cancels-arizona-tour-date.jpg",
+      "author": "Jake Kanter",
+      "date": "2026-10-21T11:29:51+00:00",
+      "link": "https://deadline.com/2026/10/noel-clarke-pleads-not-guilty-sexual-offenses-1237169545/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/GettyImages-2203155854-e1792581083555.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "448b07f1c2175fe8",
+      "title": "BBC Scraps TikTok Generation TV News Bulletin ‘The Catch Up’",
+      "quote": "EXCLUSIVE: The BBC has canceled The Catch Up, a nightly news bulletin that was aimed at the TikTok generation. The BBC has canned The Catch Up as part of the planned closure of BBC Three, the youth network that will be…",
+      "publisher": "Deadline",
+      "author": "Jake Kanter",
+      "date": "2026-10-21T11:08:48+00:00",
+      "link": "https://deadline.com/2026/10/bbc-scraps-tiktok-generation-tv-bulletin-the-catch-up-1237169526/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-11.08.12.png",
+      "category": "World Cinema"
+    },
+    {
+      "id": "8db5b7f4e74fb50e",
+      "title": "12 of the best films to watch in November",
+      "quote": "From Elsinore to The Hunger Games: Sunrise on the Reaping",
+      "publisher": "BBC Culture",
+      "author": null,
+      "date": "2026-10-21T11:00:00+00:00",
+      "link": "https://www.bbc.com/culture/article/20261020-12-of-the-best-films-to-watch-in-november?ocid=global_culture_rss",
+      "image": "https://ychef.files.bbci.co.uk/144x81/p0phnvsj.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "c7b65ad0bc1ec239",
+      "title": "Amelia Dimoldenberg’s Agent Spearheading Entertainment & New Media Biz At Three Six Zero",
+      "quote": "EXCLUSIVE: Amelia Dimoldenberg and Munya Chawawa’s agent is spearheading an Entertainment and New Media division at her international management outfit Three Six Zero. Rebecca Dowell is leading the division focused on…",
+      "publisher": "Deadline",
+      "author": "Max Goldbart",
+      "date": "2026-10-21T11:00:00+00:00",
+      "link": "https://deadline.com/2026/10/three-six-zero-launching-entertainment-biz-rebecca-dowell-1237168402/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/Rebecca-Dowell-Headshot-1000.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "0486b6f498a8ddfb",
+      "title": "The Cycle Review: Incredible Practical Effects Elevate This Mystery Horror Movie",
+      "quote": "The Cycle is a slow-burn horror-mystery that turns into a full-blown monster movie with great practical effects. Here's our review.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Chris Evangelista)",
+      "date": "2026-10-21T11:00:00+00:00",
+      "link": "https://www.slashfilm.com/2292028/the-cycle-review-deborah-ann-woll-jeffrey-donovan-horror-movie/",
+      "image": "https://www.slashfilm.com/img/gallery/the-cycle-review-incredible-practical-effects-elevate-this-mystery-horror-movie/l-intro-1792517923.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "122a452de515a59f",
+      "title": "How TIFFCOM Is Building On Cannes Recognition To Strengthen Global Networks, Co-production & Japanese IP",
+      "quote": "At this year’s Marché du Film at the Cannes film festival, it would be no exaggeration to say that Japanese content and creators were everywhere you turned. Designated ‘Country of Honour’ at the market, Japan was…",
+      "publisher": "Deadline",
+      "author": "Liz Shackleton",
+      "date": "2026-10-21T10:27:52+00:00",
+      "link": "https://deadline.com/2026/10/tiffcom-cannes-amuse-agbo-amazon-toei-1237168353/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/TIFFCOM-2025c.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "67c9aa54627be8f5",
+      "title": "Tokyo Film Festival Chiefs Talk Balancing Blockbusters & Arthouse; Launching International Films In Japan",
+      "quote": "It’s an exciting time for Japanese cinema, with franchise hits from Demon Slayer to Godzilla stomping around the world, and Japanese arthouse titles taking the spotlight at major film festivals including Venice, Toronto…",
+      "publisher": "Deadline",
+      "author": "Liz Shackleton",
+      "date": "2026-10-21T10:24:37+00:00",
+      "link": "https://deadline.com/2026/10/godzilla-minus-zero-tokyo-film-festival-sukiyaki-japan-1237168344/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/NEW-Godzilla-Minus-Zero_2026-TOHO.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "298830a6b4ce0113",
+      "title": "Jane Tranter Calls For “Stories That Change The Lack Of Empathy In Our World” & Reveals How James Gandolfini Influenced Bad Wolf",
+      "quote": "The Other Bennet Sister producer Jane Tranter has launched an impassioned plea for TV makers to search out stories that “that will make our world a more empathetic place.” In a keynote talk at MIA Market this week, the…",
+      "publisher": "Deadline",
+      "author": "Jesse Whittock",
+      "date": "2026-10-21T10:00:17+00:00",
+      "link": "https://deadline.com/2026/10/jane-tranter-other-bennet-sister-james-gandolfini-influence-1237168477/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/Jane-Tranter-e1792576799346.png",
+      "category": "World Cinema"
+    },
+    {
+      "id": "9309e3768ae91e9b",
+      "title": "Scream review – Wes Craven meta horror remains super smart and scary 30 years on",
+      "quote": "Self-aware romp through the genre is redolent of the 90s but its ghost-masked killer is as alarming as ever The 30th anniversary re-release of the original Scream, from screenwriter Kevin Williamson and director Wes…",
+      "publisher": "The Guardian",
+      "author": "Peter Bradshaw",
+      "date": "2026-10-21T10:00:01+00:00",
+      "link": "https://www.theguardian.com/film/2026/oct/21/scream-review-wes-craven-meta-horror-remains-super-smart-and-scary-30-years-on",
+      "image": "https://i.guim.co.uk/img/media/5636927239d5c1d782c032f6a6ad19796e3e799f/236_0_2528_2022/master/2528.jpg?width=140&quality=85&auto=format&fit=max&s=ab44696d50377dd5071bc31557475e47",
+      "category": "World Cinema"
+    },
+    {
+      "id": "ac77af6999b0a15f",
+      "title": "‘The Odyssey’ Star John Leguizamo To Be Honored At São Paulo International Film Festival",
+      "quote": "EXCLUSIVE: John Leguizamo, star of Christopher Nolan’s The Odyssey, is to be honored at the upcoming São Paulo International Film Festival, Brazil. The program of the 50th edition of the festival, which runs through…",
+      "publisher": "Deadline",
+      "author": "Andreas Wiseman",
+      "date": "2026-10-21T10:00:00+00:00",
+      "link": "https://deadline.com/2026/10/john-leguizamo-thonored-sao-paulo-film-festival-1237169485/",
+      "image": "https://deadline.com/wp-content/uploads/2026/07/John-Leguizamo-The-Odyssey.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "a652ba9734316ffe",
+      "title": "Hiam Abbass To Receive Honorary European Film Academy Award",
+      "quote": "Hiam Abbass is set to receive the European Film Academy’s honorary award for European Achievement in World Cinema. Abbass will be handed the award at the 39th European Film Awards on 16 January 2027 in Athens. She will…",
+      "publisher": "Deadline",
+      "author": "Zac Ntim",
+      "date": "2026-10-21T09:24:25+00:00",
+      "link": "https://deadline.com/2026/10/hiam-abbass-honorary-european-film-academy-award-1237169520/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Hiam-Abbass00320-e1789611586655.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "e6b0b53a63eb60c3",
+      "title": "Riteish Deshmukh makes Telugu debut in Ram Pothineni’s new film",
+      "quote": "Actor Riteish Deshmukh joined the Hyderabad schedule of the neo-noir Telugu film, which also marks Ram Pothineni’s debut as a director",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-21T08:25:49+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/riteish-deshmukh-makes-telugu-debut-in-ram-pothinenis-new-film/article71606802.ece",
+      "image": "https://th-i.thgim.com/public/incoming/8pnrax/article71606814.ece/alternates/LANDSCAPE_1200/riteish%20deshmukh%202.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "3994e7af5ced7e52",
+      "title": "Making Marie Antoinette review – sweet Coppola home movie reveals the family business",
+      "quote": "Shot by Sofia’s mother Eleanor this documentary shows something of the strain of shooting a period piece, but is a far cry from the tumultuous portrait of her husband in Hearts of Darkness It is 20 years since the…",
+      "publisher": "The Guardian",
+      "author": "Peter Bradshaw",
+      "date": "2026-10-21T08:00:04+00:00",
+      "link": "https://www.theguardian.com/film/2026/oct/21/making-marie-antoinette-review-sofia-eleanor-coppola-documentary",
+      "image": "https://i.guim.co.uk/img/media/1bbf597540211d2a4254a4081b6a82359c42ff00/519_126_3485_2788/master/3485.jpg?width=140&quality=85&auto=format&fit=max&s=74361d54c3832c144c53d11f4ed655ed",
+      "category": "World Cinema"
+    },
+    {
+      "id": "48907e21df0adef3",
+      "title": "‘Yellamma’: First look of Devi Sri Prasad from his acting debut out",
+      "quote": "The film, written and directed by Venu Yeldandi, is set to release in theatres on March 5, 2027",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-21T07:06:38+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/yellamma-first-look-of-devi-sri-prasad-from-his-acting-debut-out/article71606552.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/kk4rd0/article71606548.ece/alternates/LANDSCAPE_1200/Devi%20Sri%20Prasad%20DSP%20Yellamma.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "83d8c14659eebe65",
+      "title": "A brutal Slow Horses finale sends itself flying straight off a cliff",
+      "quote": "For its season 6 finale, Slow Horses delivers brutal firefights, great character moments, and some serious narrative cruelty.",
+      "publisher": "The A.V. Club",
+      "author": "William Hughes",
+      "date": "2026-10-21T07:00:06+00:00",
+      "link": "https://www.avclub.com/slow-horses-season-6-finale-review-judgement-day",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/10/21/Lowden-Slow-Horses-feature.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "aae3ec6454129787",
+      "title": "‘Mookuthi Amman 2’ - World Of Mahasakthi teaser: Nayanthara’s titular Goddess takes on new, powerful foes",
+      "quote": "Directed by Sundar C, ‘Mookuthi Amman 2’ is set for a release in theatres on November 6 during Deepavali",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-21T06:31:49+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/mookuthi-amman-2-maha-sakthi-teaser-nayanthara-sundar-c-regena-cassandrra-hiphop-tamizha/article71465551.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/5g2khr/article71606520.ece/alternates/LANDSCAPE_1200/Mookuthi%20Amman%202%20World%20of%20Mahasakthi.png",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "dbdf94e0f68207f6",
+      "title": "‘Tenzing’ movie review: Genden Phuntsok is Mr. Amazing in Jennifer Peedom’s soulful ode to an overlooked hero",
+      "quote": "A beaming Genden Phuntsok lights up Jennifer Peedom’s moving act of historical restitution for a pioneering legacy dwarfed by colonial vanity",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-21T06:05:16+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/tenzing-movie-review-genden-phuntsok-jennifer-peedom-tom-hiddleston-willem-dafoe-edmund-hillary/article71589471.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/soa53w/article71589510.ece/alternates/LANDSCAPE_1200/Tenzing_Photo_0102.jpg.photo_modal_show_home_large.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "0ba5aaf04815942b",
+      "title": "Ghosts: The Possession of Button House review – new levels of giddiness unleashed in spooky spin-off",
+      "quote": "Picking up not long after the events of the final episode of the BBC’s haunted house comedy, this glorious new film is every bit as warm and comforting as the TV sitcom What on earth is happening at Button House? Kitty…",
+      "publisher": "The Guardian",
+      "author": "Cath Clarke",
+      "date": "2026-10-21T06:00:02+00:00",
+      "link": "https://www.theguardian.com/film/2026/oct/21/ghosts-the-possession-of-button-house-review-spin-off-new-film-bbc-haunted-house-comedy",
+      "image": "https://i.guim.co.uk/img/media/efbe53529f59b170b7c8d5e888ea4bfa207bae00/523_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=b7350ce0ddef95e1c971165656a4936d",
       "category": "World Cinema"
     },
     {
@@ -31,28 +218,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "9657752e5d173a29",
-      "title": "’10 Things I Hate About You’ Cast Reunites To Honor Heath Ledger With Julia Stiles On ‘Dancing With The Stars’",
-      "quote": "In a dance dedicated to the late Heath Ledger, Julia Stiles reunited with much of the cast of the 1999 film 10 Things I Hate About You during Tuesday night’s episode of Dancing with the Stars. Stiles told her partner…",
-      "publisher": "Deadline",
-      "author": "Katie Campione",
-      "date": "2026-10-21T02:17:45+00:00",
-      "link": "https://deadline.com/2026/10/10-things-i-hate-about-you-cast-reunites-dwts-heath-ledger-1237169282/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/MCDTETH_EC056-e1792549036175.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "c8b4ed07a5ed38be",
-      "title": "‘Dancing With The Stars’ Recap: Dedication Night Features A Lot Of Tears & ’10 Things I Hate About You’ Cast Reunion",
-      "quote": "SPOILER ALERT! This post contains details from this week’s episode of Dancing with the Stars. It’s Dedication Night in the ballroom, so grab your tissues. Tuesday night’s episode of Dancing with the Stars featured the…",
-      "publisher": "Deadline",
-      "author": "Katie Campione",
-      "date": "2026-10-21T02:01:29+00:00",
-      "link": "https://deadline.com/2026/10/dancing-with-the-stars-season-35-recap-dedication-night-1237168767/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/183898_EM106353.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "85f766d8ceb4ad88",
       "title": "VisionQuest Has A Definitive Answer To WandaVision's Most Controversial Debate",
       "quote": "An old WandaVision debate gets briefly revisited in VisionQuest Episode 3, with (white) Vision himself weighing in on the topic.",
@@ -61,6 +226,17 @@
       "date": "2026-10-21T02:00:00+00:00",
       "link": "https://www.slashfilm.com/2290689/visionquest-answer-wandavision-most-controversial-debate/",
       "image": "https://www.slashfilm.com/img/gallery/visionquest-has-a-definitive-answer-to-wandavisions-most-controversial-debate/l-intro-1792432907.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "3b8eea11fee43c55",
+      "title": "Ultron goes bird watching as VisionQuest’s emotional stakes start paying off",
+      "quote": "VisionQuest starts hitting its stride in a pair of episodes that really lay on the father/son hang-ups.",
+      "publisher": "The A.V. Club",
+      "author": "Sam Barsanti",
+      "date": "2026-10-21T01:00:07+00:00",
+      "link": "https://www.avclub.com/visionquest-recap-episode-3-reboot-episode-4-malware",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/10/20/MixCollage-20-Oct-2026-02-31-PM-8593.jpg",
       "category": "Indie Gems"
     },
     {
@@ -75,39 +251,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "01784995b0020d6e",
-      "title": "David Fincher Scrapped 60 Pages Of Tarantino’s ‘Cliff Booth’ Script: “It Was Essentially Two Movies”",
-      "quote": "David Fincher directed The Further Mis-Adventures of Cliff Booth, the Once Upon a Time in Hollywood follow-up written by Quentin Tarantino and starring Brad Pitt. With Tarantino penning the script, Fincher had to make…",
-      "publisher": "Deadline",
-      "author": "Armando Tinoco",
-      "date": "2026-10-21T00:19:01+00:00",
-      "link": "https://deadline.com/2026/10/david-fincher-cut-tarantino-cliff-booth-script-1237169234/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/brad-pitt-cliff-booth-david-fincher-quentin-tarantino.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "fd8afff3a181844d",
-      "title": "Disney+ Opens Supernatural Thriller Series ‘Night Tales Club’ In Japan; Watch The Teaser",
-      "quote": "Disney+’s latest Japanese original is supernatural thriller series Night Tales Club. A teaser trailer has dropped for the show, which follows a successful businessman, Hojo, obsessed with the inexplicable who turns his…",
-      "publisher": "Deadline",
-      "author": "Jesse Whittock",
-      "date": "2026-10-21T00:00:00+00:00",
-      "link": "https://deadline.com/2026/10/disney-plus-night-tales-club-japan-watch-teaser-trailer-1237168358/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/NightTalesClub_FirstlookImage_DHULU.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "08d39c986e0986b2",
-      "title": "Ted Sarandos Insists Netflix “Strategy Is Unchanged” As Execs Are Pressed About Growth",
-      "quote": "“Our business and our business flywheel are working. There is no need for a fundamental shift in the strategy. We do need better execution in the U.S. Our content around the world is largely working,” Netflix co-CEO Ted…",
-      "publisher": "Deadline",
-      "author": "Jillg366",
-      "date": "2026-10-20T23:52:12+00:00",
-      "link": "https://deadline.com/2026/10/ted-sarandos-netflix-strategy-unchanged-earnings-1237169202/",
-      "image": "https://deadline.com/wp-content/uploads/2026/03/P10YL3X-e1772400056965.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "43875680c2cc7a0c",
       "title": "Sarah Jessica Parker's 96-Minute Halloween Classic Is Officially Disney's Biggest Streaming Hit",
       "quote": "With Halloween fast approaching, it's not surprising that this nostalgic Sarah Jessica Parker movie is dominating Disney's streaming charts.",
@@ -119,15 +262,15 @@
       "category": "Indie Gems"
     },
     {
-      "id": "286f21b58ca91f2e",
-      "title": "Doc Talk Podcast Live From Hot Springs Documentary Film Festival With Makers Of Four Oscar-Contending Films",
-      "quote": "Oscar documentary favorites are starting to emerge as critics and other arbiters begin to announce their nominees and shortlists, bringing some clarity to a wide-open awards race. Four of the documentary features…",
-      "publisher": "Deadline",
-      "author": "Patrick Hipes",
-      "date": "2026-10-20T23:15:00+00:00",
-      "link": "https://deadline.com/2026/10/doc-talk-hot-springs-documentary-film-festival-roundtable-1237168951/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/Hot-Springs-round-table-split-4-split-1500x845-1.jpg",
-      "category": "Festival Winners"
+      "id": "6791efc829080e67",
+      "title": "Christopher McQuarrie finds new movie star to throw out of planes: Denzel Washington",
+      "quote": "Denzel Washington has signed on to star in a new thriller directed by Mission: Impossible maestro Christopher McQuarrie.",
+      "publisher": "The A.V. Club",
+      "author": "Matt Schimkowitz",
+      "date": "2026-10-20T23:07:29+00:00",
+      "link": "https://www.avclub.com/denzel-washington-star-christopher-mcquarrie-new-thriller",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2025/08/04094448/MixCollage-04-Aug-2025-09-41-AM-4908.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "7a3e370782748447",
@@ -141,14 +284,14 @@
       "category": "Indie Gems"
     },
     {
-      "id": "94dff952b6e13655",
-      "title": "Versant Unlikely To Acquire Skydance Cable Networks If They Hit The Market, CEO Mark Lazarus Says",
-      "quote": "Versant Media CEO Mark Lazarus said the company spun off by Comcast/NBCUniversal earlier this year is unlikely to be a buyer if Skydance looks to shop some of its dozens of cable TV networks. “Buying more cable assets…",
-      "publisher": "Deadline",
-      "author": "Dade Hayes",
-      "date": "2026-10-20T22:36:01+00:00",
-      "link": "https://deadline.com/2026/10/versant-skydance-cable-tv-networks-ceo-1237169110/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/Mark-Lazarus.jpg",
+      "id": "cbbe9a3c2cdf89f8",
+      "title": "You Can See Everything mania lifts viewership for The Dropout by 186%",
+      "quote": "The hit Elizabeth Holmes documentary led to increased interest in the award-winning narrative series on Hulu as well as Bad Blood, a 2018 book on the scandal ‘Stranger than stranger-than-fiction’: how Lance Oppenheim…",
+      "publisher": "The Guardian",
+      "author": "Adrian Horton",
+      "date": "2026-10-20T21:16:23+00:00",
+      "link": "https://www.theguardian.com/film/2026/oct/20/you-can-see-everything-dropout-viewership",
+      "image": "https://i.guim.co.uk/img/media/43262d3520c1b8d4bf9cdb310837f776e397d34a/714_0_3570_2856/master/3570.jpg?width=140&quality=85&auto=format&fit=max&s=f4e0cc0d85e781218d9d52b35d9e2421",
       "category": "World Cinema"
     },
     {
@@ -207,17 +350,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "202986e9b6814744",
-      "title": "Carrie Includes A Clever Easter Egg For Mike Flanagan's Exorcist Movie",
-      "quote": "Mike Flanagan's TV adaptation of Carrie is now streaming, and one of the episodes has an Easter egg reference to Flanagan's next movie.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Devin Meenan)",
-      "date": "2026-10-20T19:00:00+00:00",
-      "link": "https://www.slashfilm.com/2290016/carrie-easter-egg-mike-flanagan-movie-the-exorcist-martyrs/",
-      "image": "https://www.slashfilm.com/img/gallery/carrie-includes-a-clever-easter-egg-for-mike-flanagans-exorcist-movie/l-intro-1792412884.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "91c8cbda00fc0665",
       "title": "Roseanne claims she was losing control of her show ahead of career-ending tweet",
       "quote": "In a wide-ranging and characteristically unhinged interview with The Hollywood Reporter, Roseanne Barr explains that her TV revival was already going south.",
@@ -237,39 +369,6 @@
       "date": "2026-10-20T18:05:09+00:00",
       "link": "https://www.avclub.com/primetime-lance-oppenheim-robert-pattinson-bribe-zyn",
       "image": "https://www.avclub.com/wp-content/uploads/2026/10/20/primetime-robert-pattinson-featured.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "3c32b25f659a1edc",
-      "title": "Does VisionQuest still want us to fear “Peepaw” Ultron?",
-      "quote": "Is Ultron still scary if he looks like a grandfatherly James Spader? We asked VisionQuest showrunner Terry Matalas to weigh in.",
-      "publisher": "The A.V. Club",
-      "author": "Matt Webb Mitovich",
-      "date": "2026-10-20T18:00:43+00:00",
-      "link": "https://www.avclub.com/visionquest-ultron-james-spader-avengers-disney-plus",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/10/20/MixCollage-20-Oct-2026-09-53-AM-6437.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "c959aecce012c677",
-      "title": "Writers get some plagiarism protection with new AI-cloaking tool",
-      "quote": "The AI-thwarting software, fittingly called Cloak, will shield writers' work from AI-scraping.",
-      "publisher": "The A.V. Club",
-      "author": "Dennis Perkins",
-      "date": "2026-10-20T17:34:02+00:00",
-      "link": "https://www.avclub.com/ai-protection-tool-cloak-wgae",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/10/20/AI-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "45bca4332c889f5b",
-      "title": "David Morse joins Mayor Of Kingstown in menacing first-look images",
-      "quote": "Paramount+ has shared a whole gaggle of first-look images for the upcoming fifth and final season of <i>Mayor Of Kingstown</i>.",
-      "publisher": "The A.V. Club",
-      "author": "Jarrod Jones",
-      "date": "2026-10-20T17:03:26+00:00",
-      "link": "https://www.avclub.com/mayor-of-kingstown-first-look-season-five-jeremy-renner-paramount",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/10/20/kingstown-header.jpg",
       "category": "Indie Gems"
     },
     {
@@ -361,39 +460,6 @@
       "category": "Indian Cinema"
     },
     {
-      "id": "5fbcc93e0f03ec46",
-      "title": "Children of the Wicker Man review – how the folk-horror classic haunted the family that made it",
-      "quote": "Director Robin Hardy’s children lay bare the sometimes agonised family background to a movie that went from ruinous flop to cult favourite This documentary is a collaboration between Justin Hardy and Dominic Hardy, two…",
-      "publisher": "The Guardian",
-      "author": "Leslie Felperin",
-      "date": "2026-10-20T12:00:34+00:00",
-      "link": "https://www.theguardian.com/film/2026/oct/20/children-of-the-wicker-man-review-folk-horror-robin-hardy",
-      "image": "https://i.guim.co.uk/img/media/f9339a30c7aec5d9e5c10a1ff6c993fb962f3a89/129_0_908_726/master/908.jpg?width=140&quality=85&auto=format&fit=max&s=4f5b305f2e2ff0e9db5639e828f4c9ac",
-      "category": "World Cinema"
-    },
-    {
-      "id": "4517d61ae670dcb1",
-      "title": "Tom Cruise’s Digger is a commercial flop – but also the perfect climate film for our time",
-      "quote": "The movie follows Digger Rockwell, whose drilling triggers a vast iceberg that’s five times the size of Washington DC Digger, the new Alejandro González Iñárritu film, is bombastic, misanthropic and an epic, critically…",
-      "publisher": "The Guardian",
-      "author": "Oliver Milman",
-      "date": "2026-10-20T12:00:34+00:00",
-      "link": "https://www.theguardian.com/film/2026/oct/20/tom-cruise-digger-climate-film",
-      "image": "https://i.guim.co.uk/img/media/e6552c72052af6953ffc7ae055106a9afdc8a68a/249_0_2565_2052/master/2565.jpg?width=140&quality=85&auto=format&fit=max&s=3392b2ce8639d760de38c582952d2f21",
-      "category": "World Cinema"
-    },
-    {
-      "id": "90a5bcbd7c0e559d",
-      "title": "‘Oh God, I can’t bear it’: Judi Dench says Cats film was ‘a waste of goodwill and talent’",
-      "quote": "The actor’s forthcoming memoir Is It Too Late to Make a Run for It? says the makers had honourable intentions but the elements ‘didn’t coalesce’ Dame Judi Dench has long made her feelings clear about Cats, the doomed…",
-      "publisher": "The Guardian",
-      "author": "Catherine Shoard",
-      "date": "2026-10-20T11:28:47+00:00",
-      "link": "https://www.theguardian.com/film/2026/oct/20/judi-dench-cats-film-was-a-waste-of-goodwill-and-talent",
-      "image": "https://i.guim.co.uk/img/media/4fd511b9ad4acdeee42a4de7d5af3159b2e82425/824_119_1127_902/master/1127.jpg?width=140&quality=85&auto=format&fit=max&s=2a4b5ce8f3a3adc54c3e6f00f5bbb0a2",
-      "category": "World Cinema"
-    },
-    {
       "id": "ec8742814cbeca6b",
       "title": "A medieval assault survivor's quest for justice",
       "quote": "The story of one woman's fight after surviving a sexual assault in 1472",
@@ -405,47 +471,14 @@
       "category": "World Cinema"
     },
     {
-      "id": "9818d646b92d627c",
-      "title": "All Rivers Spill Their Stories to the Sea review – stirring portrait of fishers driven to eco-activism",
-      "quote": "With catches down 80%, dead crabs and lobsters washed up on beaches and officials denying any responsibility, Hartlepool seafarers have taken a stand Hartlepool fisherman Stan Rennie has been called the next Mr Bates…",
-      "publisher": "The Guardian",
-      "author": "Cath Clarke",
-      "date": "2026-10-20T10:00:33+00:00",
-      "link": "https://www.theguardian.com/film/2026/oct/20/all-rivers-spill-their-stories-to-the-sea-review-stirring-portrait-of-fishers-driven-to-eco-activism",
-      "image": "https://i.guim.co.uk/img/media/84f9ae81951c60e50d04c2bd8a000fdf30f77a7b/184_0_3602_2882/master/3602.jpg?width=140&quality=85&auto=format&fit=max&s=ffc26f192e14303c5c825fe56440d939",
-      "category": "World Cinema"
-    },
-    {
-      "id": "6bc99dc14574d0dd",
-      "title": "‘Little Thomas’: How Kaushal Oza found the right tone while telling a wondrous story of a kid",
-      "quote": "Director Kaushal Oza talks about his feature debut ‘Little Thomas’, why he found it difficult to get the tone right, the difficulties in pitching newer ideas to producers and more.",
+      "id": "1377eac7872a543c",
+      "title": "‘Little Thomas’ movie review: Gulshan Devaiah-Rasika Dugal shine in Kaushal Oza’s delectable revival of innocence",
+      "quote": "The film unfolds with a rare, unhurried quality antithetical to the overstimulating boom that defines much of Hindi cinema today.",
       "publisher": "The Hindu",
       "author": null,
-      "date": "2026-10-20T08:21:41+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/little-thomas-how-kaushal-oza-found-the-right-tone-while-telling-a-wondrous-story-of-a-kid/article71602164.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/auibst/article71602212.ece/alternates/LANDSCAPE_1200/Kaushal%20Oza%20and%20a%20still%20from%20%E2%80%98Little%20Thomas%E2%80%99",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "e11f71469d7d8b95",
-      "title": "Sony Pictures acquires rights to release A24’s ‘You Can See Everything’ in India",
-      "quote": "The film became the highest-rated feature film of all time on Letterboxd, reaching an average rating of 4.8 out of 5 following its theatrical release in the US",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-20T07:44:01+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/sony-pictures-acquires-rights-to-release-a24s-you-can-see-everything-in-india/article71603641.ece",
-      "image": "https://th-i.thgim.com/public/incoming/5p5wva/article71603687.ece/alternates/LANDSCAPE_1200/Film_You_Can_See_Everything_74989.jpg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "92d7a7736b3147cd",
-      "title": "‘Clayface’ interview: James Watkins, Tom Rhys Harries, Naomi Ackie and Max Minghella on the horrors of losing your face",
-      "quote": "As the DC Universe ventures into body horror, the filmmaker and cast of ‘Clayface’ discuss scientific hubris, Hollywood’s beauty-industrial complex, and the existential terror of no longer recognising yourself",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-20T04:06:05+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/clayface-interview-james-watkins-tom-rhys-harries-naomi-ackie-and-max-minghella-on-the-horrors-of-losing-your-face/article71583802.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/we810n/article71583769.ece/alternates/LANDSCAPE_1200/Screenshot%202026-10-14%20180425.png",
+      "date": "2026-10-20T10:04:46+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/little-thomas-movie-review-gulshan-devaiah-rasika-dugal-shine-in-kaushal-ozas-delectable-revival-of-innocence/article71603766.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/ru9et7/article71603797.ece/alternates/LANDSCAPE_1200/A%20still%20from%20%E2%80%98Little%20Thomas%E2%80%99",
       "category": "Indian Cinema"
     },
     {
@@ -460,17 +493,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "3f1273d5fa67fe9e",
-      "title": "‘Turtle Walker’: Zoya Akhtar-backed documentary pays tribute to Satish Bhaskar’s life and legacy",
-      "quote": "The film is a stunning deep dive into the life of turtle conservationist Satish Bhaskar, who walked nearly every inch of India’s coastline to discover the nesting beaches of sea turtles so that they could be protected",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-19T12:15:15+00:00",
-      "link": "https://www.thehindu.com/life-and-style/turtle-walker-zoya-akhtar-taira-malaney-satish-bhaskar-animal-planet-documentary-india-epic-wild-stories/article71599741.ece",
-      "image": "https://th-i.thgim.com/public/life-and-style/ai4fxk/article71599776.ece/alternates/LANDSCAPE_1200/TW_02.jpg",
-      "category": "Indian Cinema"
-    },
-    {
       "id": "bac167786f7c4ee7",
       "title": "How the Kennedys averted the Cuban missile crisis",
       "quote": "In October 1962, the world came to the brink of nuclear war",
@@ -480,17 +502,6 @@
       "link": "https://www.bbc.com/culture/article/20261015-the-men-who-averted-the-1962-cuban-missile-crisis?ocid=global_culture_rss",
       "image": "https://ychef.files.bbci.co.uk/144x81/p0pgz07l.jpg",
       "category": "World Cinema"
-    },
-    {
-      "id": "919b2b1391c83107",
-      "title": "‘Garividi Lakshmi’ movie review: Anandhi leads a compelling biopic",
-      "quote": "Director Gowri Naidu Jammu’s debut Telugu film spotlights Andhra Pradesh burra katha artist Garividi Lakshmi with a strong story and rooted music, but the old-school treatment limits its appeal",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-19T08:43:48+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/garividi-lakshmi-movie-review-anandhi-leads-a-compelling-biopic/article71595326.ece",
-      "image": "https://th-i.thgim.com/public/incoming/tfg4h7/article71595328.ece/alternates/LANDSCAPE_1200/gvl-2.jpeg",
-      "category": "Indian Cinema"
     },
     {
       "id": "77cfc60c583e55c3",
@@ -732,17 +743,6 @@
       "date": "2026-10-13T11:00:00+00:00",
       "link": "https://www.bbc.com/culture/article/20261012-images-capturing-the-100-year-history-of-bel-air?ocid=global_culture_rss",
       "image": "https://ychef.files.bbci.co.uk/144x81/p0pg9sv6.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "a55554ca3f4aef6d",
-      "title": "How Vikings beat Columbus to America by 500 years",
-      "quote": "The \"lost history\" of the first Europeans to cross the Atlantic",
-      "publisher": "BBC Culture",
-      "author": null,
-      "date": "2026-10-12T11:00:00+00:00",
-      "link": "https://www.bbc.com/culture/article/20261009-how-vikings-beat-columbus-to-america-by-500-years?ocid=global_culture_rss",
-      "image": "https://ychef.files.bbci.co.uk/144x81/p0pfxdyc.jpg",
       "category": "World Cinema"
     },
     {
