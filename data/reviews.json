@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T11:34:05.291399+00:00",
+  "generated_at": "2026-10-21T17:00:24.943023+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -9,26 +9,213 @@
   ],
   "reviews": [
     {
-      "id": "c5bb3a835aa3215d",
-      "title": "‘Doctor Who’ Actor Noel Clarke Pleads Not Guilty To Sexual Assault, Voyeurism & Exposure",
-      "quote": "Noel Clarke, the British actor who starred in Doctor Who and Kidulthood, has pleaded not guilty to a series of sexual offenses. London’s Metropolitan Police said in September that Clarke had been charged with two counts…",
+      "id": "0b3580d390e8f9f4",
+      "title": "Daisy Ridley To Lead ‘Voyage To The Bottom Of The Sea’ TV Series In Works At Paramount+ From Akiva Goldsman, Matt Shakman & Legendary TV",
+      "quote": "Daisy Ridley (Star Wars, Young Woman and the Sea) plans to return to the small screen with a leading role in a reimagining of Voyage to the Bottom of the Sea, a TV series from Legendary Television in development at…",
       "publisher": "Deadline",
-      "author": "Jake Kanter",
-      "date": "2026-10-21T11:29:51+00:00",
-      "link": "https://deadline.com/2026/10/noel-clarke-pleads-not-guilty-sexual-offenses-1237169545/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/GettyImages-2203155854-e1792581083555.jpg",
+      "author": "Rosy Cordero",
+      "date": "2026-10-21T17:00:00+00:00",
+      "link": "https://deadline.com/2026/10/daisy-ridley-voyage-to-the-bottom-of-the-sea-tv-series-1237169669/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/Daisy-Ridley-Headshot-1500.jpg",
       "category": "World Cinema"
     },
     {
-      "id": "448b07f1c2175fe8",
-      "title": "BBC Scraps TikTok Generation TV News Bulletin ‘The Catch Up’",
-      "quote": "EXCLUSIVE: The BBC has canceled The Catch Up, a nightly news bulletin that was aimed at the TikTok generation. The BBC has canned The Catch Up as part of the planned closure of BBC Three, the youth network that will be…",
+      "id": "a4bc15a89ad2e6da",
+      "title": "Prime Video Adds Long-Awaited Second Season Of Chris Pratt's Thrilling Action Series",
+      "quote": "After a long four-year wait, the second season of Chris Pratt's hit action series is finally streaming over on Prime Video.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Ryan Scott)",
+      "date": "2026-10-21T16:52:49+00:00",
+      "link": "https://www.slashfilm.com/2293175/chris-pratt-the-terminal-list-season-2-streaming-prime-video/",
+      "image": "https://www.slashfilm.com/img/gallery/prime-video-adds-long-awaited-second-season-of-chris-pratts-thrilling-action-series/l-intro-1792601147.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "433d541dc2ae3b34",
+      "title": "Talent Agent Matt Shaffer Exits Innovative After Nearly Two Decades",
+      "quote": "EXCLUSIVE: Matt Shaffer, a talent agent who has been with Innovative Artists Entertainment for nearly 20 years, has exited the firm, Deadline has learned. Sources described this as a mutual parting of ways. No word yet…",
       "publisher": "Deadline",
-      "author": "Jake Kanter",
-      "date": "2026-10-21T11:08:48+00:00",
-      "link": "https://deadline.com/2026/10/bbc-scraps-tiktok-generation-tv-bulletin-the-catch-up-1237169526/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-11.08.12.png",
+      "author": "Matthewgrobar",
+      "date": "2026-10-21T16:51:49+00:00",
+      "link": "https://deadline.com/2026/10/matt-shaffer-exits-innovative-artists-entertainment-1237169761/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/Matt-Shaffer-_326b5c.jpg",
       "category": "World Cinema"
+    },
+    {
+      "id": "9fcf0c4b23b2763c",
+      "title": "‘Coach’ Single-Cam Reboot With Ty Burrell In Works At NBC From ‘Mr. Throwback’ Duo",
+      "quote": "EXCLUSIVE: NBC is giving a 2020s reboot to one of the top sitcoms of the 1990s with a star from one of the biggest comedies of the 2000s. Modern Family alum Ty Burrell is set to executive produce with the intention to…",
+      "publisher": "Deadline",
+      "author": "Nellie Andreeva",
+      "date": "2026-10-21T16:45:00+00:00",
+      "link": "https://deadline.com/2026/10/coach-reboot-ty-burrell-nbc-1237166235/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/Coach.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "08c56c8452521a37",
+      "title": "Anonymous Content Signs Canadian Actress Bella Neuspiel",
+      "quote": "EXCLUSIVE: Anonymous Content has signed Bella Neuspiel, a rising Canadian actress currently based in New York, for representation. Neuspiel will next be seen recurring in The Body, Netflix’s eight-episode thriller from…",
+      "publisher": "Deadline",
+      "author": "Matthewgrobar",
+      "date": "2026-10-21T16:45:00+00:00",
+      "link": "https://deadline.com/2026/10/bella-neuspiel-the-body-signs-anonymous-content-1237169006/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/Image.jpeg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "2a45efa93dbb1d48",
+      "title": "FCC Chairman Warns Broadcasters That Airing “Fake Polls” Could Run Afoul Of “Regulatory Obligations”",
+      "quote": "FCC Chairman Brendan Carr warned broadcasters on Wednesday about airing “fake polls” or “suppression polls,” once again threatening regulatory action for news content. Carr has talked previously about the media’s…",
+      "publisher": "Deadline",
+      "author": "Ted Johnson",
+      "date": "2026-10-21T16:39:49+00:00",
+      "link": "https://deadline.com/2026/10/fcc-brendan-carr-fake-polls-trump-1237169718/",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/GettyImages-2262359639.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "ad38e034dde65ca5",
+      "title": "The Lord Of The Rings: The Rings Of Power Season 3 Trailer: Sauron's War Finally Arrives",
+      "quote": "Sauron and his forces are on the move in the Lord of the Rings: The Rings of Power Season 3 trailer, and Middle-earth's heroes are scrambling to keep up.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Jeremy Mathai)",
+      "date": "2026-10-21T16:37:13+00:00",
+      "link": "https://www.slashfilm.com/2293134/the-lord-of-the-rings-rings-of-power-season-3-trailer/",
+      "image": "https://www.slashfilm.com/img/gallery/the-lord-of-the-rings-the-rings-of-power-season-3-trailer-saurons-war-finally-arrives/l-intro-1792593540.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "3a1facc2f3ebe119",
+      "title": "Janine Harouni Dates New YouTube Stand-Up Special ‘Man’oushe’",
+      "quote": "EXCLUSIVE: Comedian Janine Harouni will release her next special, Man’oushe, on YouTube on October 25th. Centered on the miscarriage of her first pregnancy, Man’oushe releases to coincide with Pregnancy and Infant Loss…",
+      "publisher": "Deadline",
+      "author": "Matthewgrobar",
+      "date": "2026-10-21T16:33:33+00:00",
+      "link": "https://deadline.com/2026/10/janine-harouni-special-manoushe-premiere-date-1237169247/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/EDM-08750.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "0e295a38dfa8698d",
+      "title": "‘Lord Of The Rings: The Rings Of Power’ Action-Packed Season 3 Trailer Reveals Sauron’s Dark Dominance Over Middle-Earth",
+      "quote": "All darkness breaks loose in the latest trailer for Prime Video’s The Lord of the Rings: Rings of Power. Taking place seven years after the events of Season 2, Season 3 begins at the height of the War of the Elves and…",
+      "publisher": "Deadline",
+      "author": "Denise Petski",
+      "date": "2026-10-21T16:31:14+00:00",
+      "link": "https://deadline.com/2026/10/lord-of-the-rings-the-rings-of-power-season-3-trailer-1237169096/",
+      "image": "https://deadline.com/wp-content/uploads/2024/08/Rings-of-Power-season-2-Ciaran-Hinds.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "d0591a73ba59a6b5",
+      "title": "Netflix Adds Second Season Of An Underrated Sci-Fi Series You Have To Watch",
+      "quote": "Netflix just added the second season of its Cyberpunk 2077 anime spin-off, an ambitious sci-fi series that lives up to its genre roots.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Rafael Motamayor)",
+      "date": "2026-10-21T16:21:20+00:00",
+      "link": "https://www.slashfilm.com/2293102/cyberpunk-edgerunners-sci-fi-series-streaming-netflix/",
+      "image": "https://www.slashfilm.com/img/gallery/netflix-adds-second-season-of-an-underrated-sci-fi-series-you-have-to-watch/l-intro-1792599571.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "68486a4eb9e0fed1",
+      "title": "Amazon MGM’s ‘Egg Baby’ Adds Seven To Cast",
+      "quote": "EXCLUSIVE: Amazon MGM Studios has rounded out the young cast of its romantic comedy Egg Baby with seven additions: Holly Barrett (Universal’s upcoming The Comeback King), Arica Himmel (The Rise & Fall of Reggie…",
+      "publisher": "Deadline",
+      "author": "Matthewgrobar",
+      "date": "2026-10-21T16:20:00+00:00",
+      "link": "https://deadline.com/2026/10/egg-baby-movie-adds-seven-cast-1237169237/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/outer-banks-season-5-presents-pogues-for-life-a-fan-farewell-1000x667-1.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "5938c0397d67fac5",
+      "title": "‘A vehicle to expose prejudice, bias, and stupidity’: Sacha Baron Cohen defends Ali G as satire",
+      "quote": "The actor defended his new film, Ali G: Who Iz I?, saying his aim is to bring people ‘face-to-face with the danger of fanaticism and conspiracy theories’ Sacha Baron Cohen has launched an impassioned defence of satire…",
+      "publisher": "The Guardian",
+      "author": "Andrew Pulver",
+      "date": "2026-10-21T16:06:54+00:00",
+      "link": "https://www.theguardian.com/film/2026/oct/21/sacha-baron-cohen-defends-ali-g",
+      "image": "https://i.guim.co.uk/img/media/0d0d9dd4c9437fbbc7f178777a3a20d525e353bd/0_2507_8736_6989/master/8736.jpg?width=140&quality=85&auto=format&fit=max&s=557f158097f822b27f85ec6694d53616",
+      "category": "World Cinema"
+    },
+    {
+      "id": "b93a0ebf7cb048df",
+      "title": "Slow Horses Head Writer Talks About Season 6's Cliffhanger Ending [Exclusive]",
+      "quote": "We spoke with Slow Horses head writer Gaby Chiappe about Season 6's stunning cliffhanger ending and the difference in what happens in the show and the books.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Ben Pearson)",
+      "date": "2026-10-21T16:00:00+00:00",
+      "link": "https://www.slashfilm.com/2290469/slow-horses-season-6-cliffhanger-ending-explained-head-writer/",
+      "image": "https://www.slashfilm.com/img/gallery/slow-horses-head-writer-talks-about-season-6s-cliffhanger-ending-exclusive/l-intro-1792591698.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "8cecc5167758da3c",
+      "title": "Actors from Malayalam cinema on working in ‘Jailer 2’",
+      "quote": "Kottayam Nazeer and Hakkim Shajahan are among the Malayali actors who got noticed in the Rajinikanth-starrer. Meanwhile, Shamna Kasim and Rajesh Madhavan stole the show in the song, ‘Ale bolelo’",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-21T15:51:42+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/malayalam-actors-rajinikanth-starrer-jailer-2/article71603876.ece",
+      "image": "https://th-i.thgim.com/public/incoming/ub1fbl/article71606306.ece/alternates/LANDSCAPE_1200/21tvm%20jailer.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "e9896bdcdc178d28",
+      "title": "‘I’m always being real’: what on earth persuades disgraced people like Elizabeth Holmes to let the cameras in?",
+      "quote": "With You Can See Everything, Holmes joins other such high-profile subjects as Lance Armstrong, Imelda Marcos and Anthony Weiner to allow film-makers to document their lives. But do they ever come out well? In You Can…",
+      "publisher": "The Guardian",
+      "author": "Henry Roberts",
+      "date": "2026-10-21T15:02:28+00:00",
+      "link": "https://www.theguardian.com/film/2026/oct/21/elizabeth-holmes-you-can-see-everything-disgrace-documentary",
+      "image": "https://i.guim.co.uk/img/media/13db4dc3f0dea8e3662995e85e5388a8d1bc7412/433_0_1853_1484/master/1853.jpg?width=140&quality=85&auto=format&fit=max&s=f722bb903838b6f47bd70728bbadf69f",
+      "category": "World Cinema"
+    },
+    {
+      "id": "683551c28b0f2d3b",
+      "title": "How Elizabeth Holmes Really Feels About Nathan Fielder's You Can See Everything",
+      "quote": "Nathan Fielder and Elizabeth Holmes have talked about You Can See Everything now that it's out, and, true to form, Holmes' reaction is a bit perplexing.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Ryan Scott)",
+      "date": "2026-10-21T15:00:00+00:00",
+      "link": "https://www.slashfilm.com/2292780/elizabeth-holmes-feelings-nathan-fielder-you-can-see-everything/",
+      "image": "https://www.slashfilm.com/img/gallery/how-elizabeth-holmes-really-feels-about-nathan-fielders-you-can-see-everything/l-intro-1792588590.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "a02315c2cb30d9a2",
+      "title": "Slow Horses Season 6 Ending Explained: Here's What Happens To River",
+      "quote": "Slow Horses Season 6 ends with a cliffhanger that might leave some audience members scratching their heads. Here's what really happened in the final moments.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Ben Pearson)",
+      "date": "2026-10-21T14:00:00+00:00",
+      "link": "https://www.slashfilm.com/2242194/slow-horses-season-6-ending-explained/",
+      "image": "https://www.slashfilm.com/img/gallery/slow-horses-season-6-ending-explained-heres-what-happens-to-river/l-intro-1790693225.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "2535548a6b36a706",
+      "title": "VisionQuest's Synthetic Man Twist Connects To A Forgotten Marvel Movie Detail",
+      "quote": "VisionQuest's reveal about the Synthetic Man preceding the show's other AI characters may seem like a retcon, but it was quietly set up by an earlier MCU film.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Devin Meenan)",
+      "date": "2026-10-21T13:30:00+00:00",
+      "link": "https://www.slashfilm.com/2292706/visionquest-synthetic-man-twist-marvel-movie-detail-connection-captain-america/",
+      "image": "https://www.slashfilm.com/img/gallery/visionquests-synthetic-man-twist-connects-to-a-forgotten-marvel-movie-detail/l-intro-1792586312.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "747cf5585edbb14a",
+      "title": "VisionQuest Changes The Marvel Comics Origin Of A Key Villain",
+      "quote": "Jocasta's Marvel Comics origin story gets re-imagined in VisionQuest Episode 4, and it changes her relationship with another dangerous AI character.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Devin Meenan)",
+      "date": "2026-10-21T13:00:00+00:00",
+      "link": "https://www.slashfilm.com/2292678/visionquest-marvel-comics-villain-jocasta-origin-changes/",
+      "image": "https://www.slashfilm.com/img/gallery/visionquest-changes-the-marvel-comics-origin-of-a-key-villain/l-intro-1792584166.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "8db5b7f4e74fb50e",
@@ -42,61 +229,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "c7b65ad0bc1ec239",
-      "title": "Amelia Dimoldenberg’s Agent Spearheading Entertainment & New Media Biz At Three Six Zero",
-      "quote": "EXCLUSIVE: Amelia Dimoldenberg and Munya Chawawa’s agent is spearheading an Entertainment and New Media division at her international management outfit Three Six Zero. Rebecca Dowell is leading the division focused on…",
-      "publisher": "Deadline",
-      "author": "Max Goldbart",
-      "date": "2026-10-21T11:00:00+00:00",
-      "link": "https://deadline.com/2026/10/three-six-zero-launching-entertainment-biz-rebecca-dowell-1237168402/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/Rebecca-Dowell-Headshot-1000.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "0486b6f498a8ddfb",
-      "title": "The Cycle Review: Incredible Practical Effects Elevate This Mystery Horror Movie",
-      "quote": "The Cycle is a slow-burn horror-mystery that turns into a full-blown monster movie with great practical effects. Here's our review.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Chris Evangelista)",
-      "date": "2026-10-21T11:00:00+00:00",
-      "link": "https://www.slashfilm.com/2292028/the-cycle-review-deborah-ann-woll-jeffrey-donovan-horror-movie/",
-      "image": "https://www.slashfilm.com/img/gallery/the-cycle-review-incredible-practical-effects-elevate-this-mystery-horror-movie/l-intro-1792517923.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "122a452de515a59f",
-      "title": "How TIFFCOM Is Building On Cannes Recognition To Strengthen Global Networks, Co-production & Japanese IP",
-      "quote": "At this year’s Marché du Film at the Cannes film festival, it would be no exaggeration to say that Japanese content and creators were everywhere you turned. Designated ‘Country of Honour’ at the market, Japan was…",
-      "publisher": "Deadline",
-      "author": "Liz Shackleton",
-      "date": "2026-10-21T10:27:52+00:00",
-      "link": "https://deadline.com/2026/10/tiffcom-cannes-amuse-agbo-amazon-toei-1237168353/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/TIFFCOM-2025c.jpg",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "67c9aa54627be8f5",
-      "title": "Tokyo Film Festival Chiefs Talk Balancing Blockbusters & Arthouse; Launching International Films In Japan",
-      "quote": "It’s an exciting time for Japanese cinema, with franchise hits from Demon Slayer to Godzilla stomping around the world, and Japanese arthouse titles taking the spotlight at major film festivals including Venice, Toronto…",
-      "publisher": "Deadline",
-      "author": "Liz Shackleton",
-      "date": "2026-10-21T10:24:37+00:00",
-      "link": "https://deadline.com/2026/10/godzilla-minus-zero-tokyo-film-festival-sukiyaki-japan-1237168344/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/NEW-Godzilla-Minus-Zero_2026-TOHO.jpg",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "298830a6b4ce0113",
-      "title": "Jane Tranter Calls For “Stories That Change The Lack Of Empathy In Our World” & Reveals How James Gandolfini Influenced Bad Wolf",
-      "quote": "The Other Bennet Sister producer Jane Tranter has launched an impassioned plea for TV makers to search out stories that “that will make our world a more empathetic place.” In a keynote talk at MIA Market this week, the…",
-      "publisher": "Deadline",
-      "author": "Jesse Whittock",
-      "date": "2026-10-21T10:00:17+00:00",
-      "link": "https://deadline.com/2026/10/jane-tranter-other-bennet-sister-james-gandolfini-influence-1237168477/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/Jane-Tranter-e1792576799346.png",
-      "category": "World Cinema"
-    },
-    {
       "id": "9309e3768ae91e9b",
       "title": "Scream review – Wes Craven meta horror remains super smart and scary 30 years on",
       "quote": "Self-aware romp through the genre is redolent of the 90s but its ghost-masked killer is as alarming as ever The 30th anniversary re-release of the original Scream, from screenwriter Kevin Williamson and director Wes…",
@@ -104,30 +236,19 @@
       "author": "Peter Bradshaw",
       "date": "2026-10-21T10:00:01+00:00",
       "link": "https://www.theguardian.com/film/2026/oct/21/scream-review-wes-craven-meta-horror-remains-super-smart-and-scary-30-years-on",
-      "image": "https://i.guim.co.uk/img/media/5636927239d5c1d782c032f6a6ad19796e3e799f/236_0_2528_2022/master/2528.jpg?width=140&quality=85&auto=format&fit=max&s=ab44696d50377dd5071bc31557475e47",
+      "image": "https://i.guim.co.uk/img/media/5636927239d5c1d782c032f6a6ad19796e3e799f/423_589_1791_1433/master/1791.jpg?width=140&quality=85&auto=format&fit=max&s=74f7fb8c10655798939a5ec865ff9dcd",
       "category": "World Cinema"
     },
     {
-      "id": "ac77af6999b0a15f",
-      "title": "‘The Odyssey’ Star John Leguizamo To Be Honored At São Paulo International Film Festival",
-      "quote": "EXCLUSIVE: John Leguizamo, star of Christopher Nolan’s The Odyssey, is to be honored at the upcoming São Paulo International Film Festival, Brazil. The program of the 50th edition of the festival, which runs through…",
-      "publisher": "Deadline",
-      "author": "Andreas Wiseman",
-      "date": "2026-10-21T10:00:00+00:00",
-      "link": "https://deadline.com/2026/10/john-leguizamo-thonored-sao-paulo-film-festival-1237169485/",
-      "image": "https://deadline.com/wp-content/uploads/2026/07/John-Leguizamo-The-Odyssey.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "a652ba9734316ffe",
-      "title": "Hiam Abbass To Receive Honorary European Film Academy Award",
-      "quote": "Hiam Abbass is set to receive the European Film Academy’s honorary award for European Achievement in World Cinema. Abbass will be handed the award at the 39th European Film Awards on 16 January 2027 in Athens. She will…",
-      "publisher": "Deadline",
-      "author": "Zac Ntim",
-      "date": "2026-10-21T09:24:25+00:00",
-      "link": "https://deadline.com/2026/10/hiam-abbass-honorary-european-film-academy-award-1237169520/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Hiam-Abbass00320-e1789611586655.jpg",
-      "category": "Festival Winners"
+      "id": "cee85a7eafe23340",
+      "title": "Tiger Shroff shooting: Gulshan Kumar to Salman Khan, past attacks on Bollywood celebrities",
+      "quote": "Celebrities, including Rakesh Roshan and Gulshan Kumar, have been the victims of targeted attacks over the years.",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-21T08:59:55+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/tiger-shroff-shooting-case-celebrities-who-became-victims-of-gun-violence/article71603921.ece",
+      "image": "https://th-i.thgim.com/public/incoming/pwssb3/article71602703.ece/alternates/LANDSCAPE_1200/20261019009L.jpg",
+      "category": "Indian Cinema"
     },
     {
       "id": "e6b0b53a63eb60c3",
@@ -207,28 +328,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "8f7916d5c929042c",
-      "title": "VisionQuest Borrows One Of The Best Parts Of The Sci-Fi Series Battlestar Galactica",
-      "quote": "A Battlestar Galactica actor appears on VisionQuest, but it's a story element in Episodes 3 and 4 that really brings that beloved sci-fi series to mind.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Devin Meenan)",
-      "date": "2026-10-21T02:30:00+00:00",
-      "link": "https://www.slashfilm.com/2292274/visionquest-borrow-best-part-sci-fi-series-battlestar-galactica/",
-      "image": "https://www.slashfilm.com/img/gallery/visionquest-borrows-one-of-the-best-parts-of-the-sci-fi-series-battlestar-galactica/l-intro-1792522353.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "85f766d8ceb4ad88",
-      "title": "VisionQuest Has A Definitive Answer To WandaVision's Most Controversial Debate",
-      "quote": "An old WandaVision debate gets briefly revisited in VisionQuest Episode 3, with (white) Vision himself weighing in on the topic.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Jeremy Mathai)",
-      "date": "2026-10-21T02:00:00+00:00",
-      "link": "https://www.slashfilm.com/2290689/visionquest-answer-wandavision-most-controversial-debate/",
-      "image": "https://www.slashfilm.com/img/gallery/visionquest-has-a-definitive-answer-to-wandavisions-most-controversial-debate/l-intro-1792432907.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "3b8eea11fee43c55",
       "title": "Ultron goes bird watching as VisionQuest’s emotional stakes start paying off",
       "quote": "VisionQuest starts hitting its stride in a pair of episodes that really lay on the father/son hang-ups.",
@@ -240,28 +339,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "0bc30303cc79a731",
-      "title": "5 Best Celebrity Cameos In Yellowstone",
-      "quote": "Taylor Sheridan's mega-hit TV series Yellowstone was not above adding in some celebrity cameos. Here are the 5 best examples.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-10-21T00:45:00+00:00",
-      "link": "https://www.slashfilm.com/2282245/best-celebrity-cameos-yellowstone/",
-      "image": "https://www.slashfilm.com/img/gallery/5-best-celebrity-cameos-in-yellowstone/l-intro-1791559003.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "43875680c2cc7a0c",
-      "title": "Sarah Jessica Parker's 96-Minute Halloween Classic Is Officially Disney's Biggest Streaming Hit",
-      "quote": "With Halloween fast approaching, it's not surprising that this nostalgic Sarah Jessica Parker movie is dominating Disney's streaming charts.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Ryan Scott)",
-      "date": "2026-10-20T23:27:30+00:00",
-      "link": "https://www.slashfilm.com/2292463/sarah-jessica-parker-halloween-classic-hocus-pocus-disney-plus-october-2026/",
-      "image": "https://www.slashfilm.com/img/gallery/sarah-jessica-parkers-96-minute-halloween-classic-is-officially-disneys-biggest-streaming-hit/l-intro-1792538208.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "6791efc829080e67",
       "title": "Christopher McQuarrie finds new movie star to throw out of planes: Denzel Washington",
       "quote": "Denzel Washington has signed on to star in a new thriller directed by Mission: Impossible maestro Christopher McQuarrie.",
@@ -270,17 +347,6 @@
       "date": "2026-10-20T23:07:29+00:00",
       "link": "https://www.avclub.com/denzel-washington-star-christopher-mcquarrie-new-thriller",
       "image": "https://img.pastemagazine.com/wp-content/avuploads/2025/08/04094448/MixCollage-04-Aug-2025-09-41-AM-4908.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "7a3e370782748447",
-      "title": "This '40s Western Movie Launched A Franchise With Over 60 Entries",
-      "quote": "Forget the Marvel Cinematic Universe, try ranking all 60-plus movies in the franchise that this 1940s Western film launched.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Witney Seibold)",
-      "date": "2026-10-20T23:00:00+00:00",
-      "link": "https://www.slashfilm.com/2287935/forgotten-western-movie-series-the-durango-kid/",
-      "image": "https://www.slashfilm.com/img/gallery/this-40s-western-movie-launched-a-franchise-with-over-60-entries/l-intro-1792087011.jpg",
       "category": "Indie Gems"
     },
     {
@@ -306,17 +372,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "5a274aacec1c4f78",
-      "title": "Why Cillian Murphy Didn't Wear A Full Scarecrow Costume In Christopher Nolan's Dark Knight Trilogy",
-      "quote": "The Dark Knight trilogy never shows Scarecrow (Cillian Murphy) in his full costume, which is a testament to Christopher Nolan's style (for better or worse).",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Devin Meenan)",
-      "date": "2026-10-20T21:00:00+00:00",
-      "link": "https://www.slashfilm.com/2290023/why-cillian-murphy-didnt-wear-scarecrow-costume-the-dark-knight-trilogy/",
-      "image": "https://www.slashfilm.com/img/gallery/why-cillian-murphy-didnt-wear-scarecrow-costume-the-dark-knight-trilogy/l-intro-1792522974.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "63d3b374f3060b3e",
       "title": "Rob Reiner almost made Larry David's Prognosis Negative",
       "quote": "Spinal Tap director Rob Reiner, Richard Dreyfuss, and other Hollywood power players were pretty, pretty, pretty positive on Larry David's Prognosis Negative.",
@@ -336,17 +391,6 @@
       "date": "2026-10-20T19:33:30+00:00",
       "link": "https://www.avclub.com/crystal-lake-nudity-overruled-peacock",
       "image": "https://www.avclub.com/wp-content/uploads/2026/10/20/crystal-lake-featured.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "87b2988237d03e29",
-      "title": "Why Chun-Li From Street Fighter (2026) Looks So Familiar",
-      "quote": "There's a new Street Fighter movie, which means there's a new actress playing Chun-Li. Here's where you might have seen her before.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Ryan Scott)",
-      "date": "2026-10-20T19:00:00+00:00",
-      "link": "https://www.slashfilm.com/2292144/chun-li-street-fighter-2026-movie-actor-callina-liang/",
-      "image": "https://www.slashfilm.com/img/gallery/why-chun-li-from-street-fighter-2026-looks-so-familiar/l-intro-1792520886.jpg",
       "category": "Indie Gems"
     },
     {
@@ -405,28 +449,6 @@
       "category": "Indian Cinema"
     },
     {
-      "id": "688cfc6856524e8c",
-      "title": "‘We’ll keep doing this if people pay us!’ The cast of TV hit Ghosts on making a movie – and maybe a caveman spinoff",
-      "quote": "As the haunters of Button House hit the big screen with a plot about an escaped phantom, we hear how the team just missed each other too much – and why grunting Robin may get his own show When the final episode of…",
-      "publisher": "The Guardian",
-      "author": "Stuart Heritage",
-      "date": "2026-10-20T14:14:43+00:00",
-      "link": "https://www.theguardian.com/film/2026/oct/20/ghosts-the-possession-of-button-house-caveman-robin",
-      "image": "https://i.guim.co.uk/img/media/c2ae3c3fdae4ed3075bff768331432e6f533343f/291_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=5a13b79cb22f51c2cee7b24ad6dd25ff",
-      "category": "World Cinema"
-    },
-    {
-      "id": "32b34ef66f8604e7",
-      "title": "Explosive births, talking foxes and the devil in a trenchcoat – the Sitges fantastic film festival in all its creepy glory",
-      "quote": "Olivia Colman goes vulpine, Rupert Grint’s newborn is a monster and Joko Anwar makes a warmhearted violent ghost story set in an Indonesian prison If I’d ever wanted children, the films showing at the 59th edition of…",
-      "publisher": "The Guardian",
-      "author": "Anne Billson",
-      "date": "2026-10-20T14:10:14+00:00",
-      "link": "https://www.theguardian.com/film/2026/oct/20/international-fantastic-film-festival-sitges",
-      "image": "https://i.guim.co.uk/img/media/6deb0ada24ee21ec80947b107abe77270174231d/407_0_3907_3126/master/3907.jpg?width=140&quality=85&auto=format&fit=max&s=7e7d32b558af7da1457cd80404d84738",
-      "category": "World Cinema"
-    },
-    {
       "id": "726492098c19065c",
       "title": "Ray Gunn",
       "quote": "“Ray Gunn” can be almost overwhelming with its abundant style, plot, and detail but to say that an animated family film might actually leave viewers feeling stuffed should barely register as a criticism.",
@@ -449,17 +471,6 @@
       "category": "Indian Cinema"
     },
     {
-      "id": "cee85a7eafe23340",
-      "title": "Tiger Shroff shooting: Gulshan Kumar to Salman Khan, past attacks on Bollywood celebrities",
-      "quote": "Celebrities, including Rakesh Roshan and Gulshan Kumar, have been the victims of targeted attacks over the years.",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-20T12:11:23+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/tiger-shroff-shooting-case-celebrities-who-became-victims-of-gun-violence/article71603921.ece",
-      "image": "https://th-i.thgim.com/public/incoming/pwssb3/article71602703.ece/alternates/LANDSCAPE_1200/20261019009L.jpg",
-      "category": "Indian Cinema"
-    },
-    {
       "id": "ec8742814cbeca6b",
       "title": "A medieval assault survivor's quest for justice",
       "quote": "The story of one woman's fight after surviving a sexual assault in 1472",
@@ -469,17 +480,6 @@
       "link": "https://www.bbc.com/culture/article/20261019-the-true-story-of-a-15th-century-sexual-assault-survivors-quest-for-justice?ocid=global_culture_rss",
       "image": "https://ychef.files.bbci.co.uk/144x81/p0phjjsn.jpg",
       "category": "World Cinema"
-    },
-    {
-      "id": "1377eac7872a543c",
-      "title": "‘Little Thomas’ movie review: Gulshan Devaiah-Rasika Dugal shine in Kaushal Oza’s delectable revival of innocence",
-      "quote": "The film unfolds with a rare, unhurried quality antithetical to the overstimulating boom that defines much of Hindi cinema today.",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-20T10:04:46+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/little-thomas-movie-review-gulshan-devaiah-rasika-dugal-shine-in-kaushal-ozas-delectable-revival-of-innocence/article71603766.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/ru9et7/article71603797.ece/alternates/LANDSCAPE_1200/A%20still%20from%20%E2%80%98Little%20Thomas%E2%80%99",
-      "category": "Indian Cinema"
     },
     {
       "id": "a689d456da441383",
