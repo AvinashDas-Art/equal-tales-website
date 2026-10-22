@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T21:29:55.450569+00:00",
+  "generated_at": "2026-10-22T04:18:24.675750+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -9,48 +9,136 @@
   ],
   "reviews": [
     {
-      "id": "b7e95b33d7982672",
-      "title": "‘Crystal Lake’s Jonathan Tison On Bringing Jason Into His Slasher Era, How He Found Out The Secretive Role He Landed: “I Was Shocked”",
-      "quote": "SPOILERS: This post contains details for the Season 1 finale episode of Peacock’s Crystal Lake, “The Final Chapter” As Jason Voorhees’ origin story unfolded in Peacock’s Crystal Lake, fans of the Friday the 13th…",
+      "id": "976f3f199cd387a4",
+      "title": "‘I’d consider replacing one of my children’: Taika Waititi on robot kids, his cheese-o-meter and Klara and the Sun",
+      "quote": "The director has turned Kazuo Ishiguro’s acclaimed novel about an ailing adolescent and her glitchy robot friend into a thought-provoking film. What do the pair think this story says about tech, love and grief? In the…",
+      "publisher": "The Guardian",
+      "author": "Xan Brooks",
+      "date": "2026-10-22T04:00:06+00:00",
+      "link": "https://www.theguardian.com/film/2026/oct/22/taika-waititi-kazuo-ishiguro-robot-friend-klara-and-the-sun",
+      "image": "https://i.guim.co.uk/img/media/6cf2d328019eb962c7aad15131750c0e940da690/437_80_1110_888/master/1110.jpg?width=140&quality=85&auto=format&fit=max&s=c1904e249a5e882031b1babd4a394123",
+      "category": "World Cinema"
+    },
+    {
+      "id": "9ec061d421147507",
+      "title": "David Krumholtz Explains Why He Missed ’10 Things I Hate About You’ Reunion On ‘DWTS’: “Love Them All”",
+      "quote": "As Julia Stiles paid tribute to Heath Ledger on Dancing with the Stars, one 10 Things I Hate About You star was unable to attend the televised reunion. Following Tuesday’s “Dedication Night” on Season 35 of the ABC…",
       "publisher": "Deadline",
       "author": "Glenn Garner",
-      "date": "2026-10-21T21:18:09+00:00",
-      "link": "https://deadline.com/2026/10/crystal-lake-jonathan-tison-jason-slasher-era-1237170020/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/Crystal-Lake-Jonathan-Tison.jpg",
+      "date": "2026-10-22T03:53:48+00:00",
+      "link": "https://deadline.com/2026/10/david-krumholtz-missed-10-things-i-hate-about-you-reunion-dwts-1237170408/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/183899_DSC00189-e1792640951994.jpg",
       "category": "World Cinema"
     },
     {
-      "id": "1d8f7e38326f8d7d",
-      "title": "Maeve Touhey, Ta’imua & Freddie O’Donahue Join Disney+ Pilot ‘Spaceship Earth’",
-      "quote": "EXCLUSIVE: Three have joined Disney+’s Spaceship Earth pilot to fill out remaining series regular roles: Up-and-comers Maeve Touhey, Ta’imua, and Freddie O’Donahue, who are set to star alongside the previously announced…",
+      "id": "b543fe04a019e895",
+      "title": "EA Cuts Around 400 Jobs, Shuts Down BioWare",
+      "quote": "After going private in August, Electronic Arts (EA) is cutting about 3% of its staff and shutting down video game developer BioWare. On Wednesday, EA reportedly notified employees in an email that the company would be…",
       "publisher": "Deadline",
-      "author": "Matthewgrobar",
-      "date": "2026-10-21T20:54:32+00:00",
-      "link": "https://deadline.com/2026/10/spaceship-earth-pilot-cast-maeve-touhey-taimua-1237170119/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/split-3-split-a-1000x667-5.jpg",
+      "author": "Glenn Garner",
+      "date": "2026-10-22T03:23:05+00:00",
+      "link": "https://deadline.com/2026/10/ea-cuts-400-jobs-shuts-down-bioware-1237170402/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/BioWare-EA-Games.jpg",
       "category": "World Cinema"
     },
     {
-      "id": "6d04dc88fce6cb45",
-      "title": "Taraji P. Henson Encourages Artists To ‘Knock Down’ Walls, Sarah Finn Celebrates Casting Community & More At 2026 Newport Beach Film Festival Honors",
-      "quote": "Taraji P. Henson reflected on the power of art to defend dignity and create possibility, while casting director Sarah Finn celebrated the collaborative work behind bringing stories to life at the Newport Beach Film…",
+      "id": "8aab134ecf28baed",
+      "title": "Sara Bareilles Is “Still Holding Out” For A ‘Girls5eva’ Movie: “We’d Do It In A Heartbeat”",
+      "quote": "Although Girls5eva was cut short after three seasons, Sara Bareilles still has some “Big P*ssy Energy” to work out with her inner Fledge Mulholland. The 2x Grammy winner recently admitted she’s “still holding out” for a…",
       "publisher": "Deadline",
-      "author": "Destiny Jackson",
-      "date": "2026-10-21T20:45:15+00:00",
-      "link": "https://deadline.com/2026/10/newport-beach-film-festival-2026-honors-brunch-1237170107/",
-      "image": "https://deadline.com/wp-content/uploads/2024/09/ca-times.brightspotcdn.jpg",
+      "author": "Glenn Garner",
+      "date": "2026-10-22T02:27:45+00:00",
+      "link": "https://deadline.com/2026/10/sara-bareilles-still-holding-out-girls5eva-movie-1237170385/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/GIrls5eva.jpg",
       "category": "World Cinema"
     },
     {
-      "id": "31e81a0a555ab6b2",
-      "title": "Meta Tops Q3 Revenue Estimates, But Earnings Hit By Teen Lawsuit Settlement; Stock Split Creates Class C Shares",
-      "quote": "Meta’s third-quarter revenue beat Wall Street expectations, but earnings took a hit from the company’s settlement of a lawsuit filed on behalf of teenage social media users. Revenue for the July-to-September period set…",
+      "id": "85274bc30f0a0d30",
+      "title": "‘860’ Broadway Review: Billy Crystal Remembers The Stuff Of Life And Loss",
+      "quote": "Billy Crystal’s career, from his catch-a-rising-star stand-up days of the 1970s, his groundbreaking role as TV’s first regular-cast gay character on the sitcom Soap and through his years as both a top Hollywood director…",
       "publisher": "Deadline",
-      "author": "Dade Hayes",
-      "date": "2026-10-21T20:30:41+00:00",
-      "link": "https://deadline.com/2026/10/meta-q3-2026-earnings-muse-ai-stock-split-1237170051/",
-      "image": "https://deadline.com/wp-content/uploads/2025/05/Meta-Platforms.jpg",
+      "author": "Greg Evans",
+      "date": "2026-10-22T02:00:00+00:00",
+      "link": "https://deadline.com/2026/10/billy-crystal-860-broadway-review-1237168548/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/1-Billy-Crystal-in-860-Photo-by-Avery-Brunkus.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "3f9421f4f78c3afa",
+      "title": "White House Correspondents’ Association Decries Trump Team’s “Retaliation” After POTUS Lashes Out At Reporter",
+      "quote": "UPDATED: White House Correspondents’ Association President Jacqui Heinrich said that the Trump administration was engaged in retaliation by blocking a journalist’s access because the president was upset over his…",
+      "publisher": "Deadline",
+      "author": "Ted Johnson",
+      "date": "2026-10-22T00:48:05+00:00",
+      "link": "https://deadline.com/2026/10/trump-retaliation-white-house-correspondent-1237170293/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/GettyImages-2301184668.jpg",
       "category": "World Cinema"
+    },
+    {
+      "id": "2d2c1a8f4cbd7ec1",
+      "title": "Netflix Co-CEOs Address Executive Shakeup & Layoffs In Town Hall, Talk Up New CCO Peter Rice’s Experience Across Platforms — Including Streaming",
+      "quote": "A day after Netflix co-CEOs Ted Sarandos and Greg Peters faced anxious investors on the company’s Q3 earnings call after reporting mixed financial results, the duo on Wednesday faced anxious staffers at a town hall…",
+      "publisher": "Deadline",
+      "author": "Nellie Andreeva",
+      "date": "2026-10-22T00:46:41+00:00",
+      "link": "https://deadline.com/2026/10/netflix-town-hall-executives-layoffs-peter-rice-1237170147/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/Peter-Rice.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "b9e8597b6e6288c3",
+      "title": "Sebastian Koch Joins Apple TV’s ‘Disavowed’ As Series Regular",
+      "quote": "EXCLUSIVE: Sebastian Koch (Never Look Away, Black Book) has joined the cast of Apple TV’s Disavowed, the upcoming action-thriller created by Art Marcum and Matt Holloway. Koch will play a series regular role, though…",
+      "publisher": "Deadline",
+      "author": "Rosy Cordero",
+      "date": "2026-10-22T00:20:28+00:00",
+      "link": "https://deadline.com/2026/10/sebastian-koch-cast-apple-tv-series-disavowed-1237170279/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/Sebastian-Koch-photo-credit-Mathias-Bothor-1500.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "4fac5568278e3c73",
+      "title": "‘You Can See Everything’ Winning Wednesday With $2.3M; Can Elizabeth Holmes Melt ‘Clayface’ In U.S.? DC Villain Eyes $45M+ WW",
+      "quote": "WEDNESDAY PM UPDATE: Nathan Fielder and Theranos founder Elizabeth Holmes are banking an estimated $2.3 million Wednesday (that’s real box office money by the way, not a false-positive blood test result) with A24’s…",
+      "publisher": "Deadline",
+      "author": "Anthonypauldalessandro",
+      "date": "2026-10-22T00:17:00+00:00",
+      "link": "https://deadline.com/2026/10/you-can-see-everything-clayface-box-office-1237168607/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/YCSE-BTS-STILL-e1792509522877.jpeg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "e3f573ce021c6c7f",
+      "title": "Clayface Rotten Tomatoes Score: How Does It Compare To Superman And Supergirl?",
+      "quote": "Critics have weighed in on Clayface, so let's see how the body horror film's Rotten Tomatoes score stacks up to the other DCU movies, Superman and Supergirl.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Joe Roberts)",
+      "date": "2026-10-21T21:58:31+00:00",
+      "link": "https://www.slashfilm.com/2293687/clayface-rotten-tomatoes-score-superman-supergirl-comparison/",
+      "image": "https://www.slashfilm.com/img/gallery/clayface-rotten-tomatoes-score-how-does-it-compare-to-superman-and-supergirl/l-intro-1792619789.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "10af7c631a7287a9",
+      "title": "Samara Weaving joins Olivia Wilde's Naughty holiday comedy",
+      "quote": "Samara Weaving is the latest star to join Olivia Wilde's next film, a holiday comedy for Universal Pictures called <i>Naughty</i>.",
+      "publisher": "The A.V. Club",
+      "author": "Olivia Singh",
+      "date": "2026-10-21T21:05:14+00:00",
+      "link": "https://www.avclub.com/olivia-wilde-naughty-movie-samara-weaving",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/10/21/samara-weaving-ready-or-not-2-featured.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "1714cde706cd309b",
+      "title": "Fine, since you keep asking, Kid Cudi will write, direct, and star in a Basquiat movie",
+      "quote": "Scott Mescudi, a.k.a Kid Cudi, will play the influential New York neo-expressionist in Jean-Michel Basquiat in Jean.",
+      "publisher": "The A.V. Club",
+      "author": "Matt Schimkowitz",
+      "date": "2026-10-21T20:29:55+00:00",
+      "link": "https://www.avclub.com/kid-cudi-announces-write-direct-and-star-in-basquiat-movie",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2024/10/25143127/GettyImages-2148872991.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "df8df23b5021da68",
@@ -61,6 +149,17 @@
       "date": "2026-10-21T20:12:38+00:00",
       "link": "https://www.slashfilm.com/2293544/poison-ivy-dc-villain-tv-series-the-penguin-lauren-lefranc/",
       "image": "https://www.slashfilm.com/img/gallery/dcs-second-villain-focused-tv-series-after-the-penguin-revealed-not-connected-to-the-batman/l-intro-1792613376.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "15301bc4bd9a3563",
+      "title": "Daisy Ridley to star in Voyage To The Bottom Of The Sea remake for Paramount+",
+      "quote": "Paramount+'s eight-episode adaptation of <i>Voyage To The Bottom Of The Sea</i> will star Ridley as a scientist who gets wrapped up in a classified government program.",
+      "publisher": "The A.V. Club",
+      "author": "Olivia Singh",
+      "date": "2026-10-21T20:08:47+00:00",
+      "link": "https://www.avclub.com/daisy-ridley-voyage-to-the-bottom-of-the-sea-tv-show",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/10/21/daisy-ridley-young-woman-and-the-sea-featured.jpg",
       "category": "Indie Gems"
     },
     {
@@ -75,48 +174,15 @@
       "category": "Indie Gems"
     },
     {
-      "id": "bc9721805a7f4863",
-      "title": "Book-To-Movie Adaptations Coming Out In 2026",
-      "quote": "Many books will provide backbone to both theatrical and streaming releases in 2026. From the long-awaited rom com film adaptation of Emily Henry’s People We Meet on Vacation, which hit Netflix in January, to the Ridley…",
-      "publisher": "Deadline",
-      "author": "Dessi Gomez",
-      "date": "2026-10-21T19:52:47+00:00",
-      "link": "https://deadline.com/feature/book-to-movie-adaptations-1236035322/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Book-To-Movies-Adaptations.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "ce4f6ab13461b89f",
-      "title": "Everything We Know About Greta Gerwig’s ‘Narnia: The Magician’s Nephew’ So Far",
-      "quote": "A new Narnia movie approaches, directed by none other than Barbie (2023) helmer Greta Gerwig. The film will adapt The Magician’s Nephew, the first book in C.S. Lewis’ beloved series, The Chronicles of Narnia. It will…",
-      "publisher": "Deadline",
-      "author": "Dessi Gomez",
-      "date": "2026-10-21T19:31:18+00:00",
-      "link": "https://deadline.com/feature/narnia-the-magicians-nephew-movie-news-updates-greta-gerwig-1237169855/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/Screenshot-2026-10-13-at-11.16.38-AM-e1791916307140.png",
-      "category": "World Cinema"
-    },
-    {
-      "id": "c4d55fb943daf1d1",
-      "title": "Kid Cudi To Direct, Write & Star In Basquiat Movie: “A Love Letter To Jean, The 80s & NY City”",
-      "quote": "One of the greatest artists of the 20th century is coming to the big screen again from one of the 21st century’s true hyphenates. Kid Cudi revealed on his Instagram on Wednesday that he will write, direct and star in a…",
-      "publisher": "Deadline",
-      "author": "Dominic Patten",
-      "date": "2026-10-21T19:30:16+00:00",
-      "link": "https://deadline.com/2026/10/kid-cudi-basquiat-movie-1237169913/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/Kid-Cudi-and-Jean-Michel-Basquiat.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "a25db7cbdfb7ed1a",
-      "title": "Los Angeles On-Location Production Declines Again Even As California’s Tax Incentive Heavily Backs Remaining Projects",
-      "quote": "On-location production is still declining in the Los Angeles area, even if California’s Film & Television Tax Credit Program is propping up much of what’s left. Per the latest report from FilmLA, on-location filming…",
-      "publisher": "Deadline",
-      "author": "Katie Campione",
-      "date": "2026-10-21T19:27:20+00:00",
-      "link": "https://deadline.com/2026/10/los-angeles-production-days-decline-q3-2026-filmla-1237169969/",
-      "image": "https://deadline.com/wp-content/uploads/2026/07/Los-Angeles-FilmLA.jpg",
-      "category": "World Cinema"
+      "id": "3eaa2fd41c4a2806",
+      "title": "Meta settles multi-billion-dollar lawsuit for harming, deceiving users",
+      "quote": "Unfirable CEO Mark Zuckerberg's company, Meta, will pay $25 billion for deceiving users in its privacy policy.",
+      "publisher": "The A.V. Club",
+      "author": "Matt Schimkowitz",
+      "date": "2026-10-21T19:27:39+00:00",
+      "link": "https://www.avclub.com/meta-settles-user-deception-suit-for-25-billion",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2025/09/19100601/videoframe_74524.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "59d32cb579700d45",
@@ -139,6 +205,28 @@
       "link": "https://www.theguardian.com/film/2026/oct/21/clayface-movie-review-body-horror",
       "image": "https://i.guim.co.uk/img/media/5a7432637109b7fd063d4a9251350d06a9460b35/1052_0_2247_1800/master/2247.jpg?width=140&quality=85&auto=format&fit=max&s=47675f57b3b366519656eb2f22a6ba89",
       "category": "Festival Winners"
+    },
+    {
+      "id": "aa4feceb5c5b9c34",
+      "title": "Clayface brings a Universal Monster sensibility back to the DC Universe",
+      "quote": "Clayface, a small-scale horror thriller based on the DC character, isn't a James Whale-level success, but it's a decent monster B-movie.",
+      "publisher": "The A.V. Club",
+      "author": "Jesse Hassenger",
+      "date": "2026-10-21T19:00:29+00:00",
+      "link": "https://www.avclub.com/clayface-movie-review-2026",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/10/21/Clayface.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "57e9dc8690def787",
+      "title": "‘Clayface’ Review: DC Comics Horror Movie Is Good, Gross Fun, With No Franchise Homework Required",
+      "quote": "We are now three movies into the so-called DC Universe — branding that so far doesn’t appear to have cut through to any but the most devoted of nerds. Last year’s “Superman” reboot was respectable enough, this summer’s…",
+      "publisher": "Variety",
+      "author": "Guy Lodge",
+      "date": "2026-10-21T19:00:00+00:00",
+      "link": "https://variety.com/2026/film/reviews/clayface-review-1236918659/",
+      "image": "https://variety.com/wp-content/uploads/2026/10/MCDCLAY_WB009-1000.jpg",
+      "category": "World Cinema"
     },
     {
       "id": "e6b242f5d620155a",
@@ -174,6 +262,17 @@
       "category": "Indie Gems"
     },
     {
+      "id": "1c3de9a3749ef7ee",
+      "title": "Inde Navarrette says she was never actually offered Heat 2 role",
+      "quote": "During an appearance on <i>The Kyle Buchanan Show</i>, Inde Navarrette cleared up speculation that she turned down a role in Michael Mann's <i>Heat 2</i> in favor of Marvel's <i>X-Men</i> reboot.",
+      "publisher": "The A.V. Club",
+      "author": "Olivia Singh",
+      "date": "2026-10-21T18:39:23+00:00",
+      "link": "https://www.avclub.com/inde-navarrette-heat-2-not-offered",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/10/21/inde-navarrette-the-kyle-buchanan-show-featured.jpg",
+      "category": "Indie Gems"
+    },
+    {
       "id": "6a6f6da1482df822",
       "title": "Why Zangief From Street Fighter (2026) Looks So Familiar",
       "quote": "Bearded bruiser Zangief is a well-known character, and the 2026 Street Fighter movie casts a hard-working (and fittingly massive) fellow to play him.",
@@ -182,6 +281,28 @@
       "date": "2026-10-21T18:08:25+00:00",
       "link": "https://www.slashfilm.com/2293325/zangief-street-fighter-2026-movie-actor-olivier-richters/",
       "image": "https://www.slashfilm.com/img/gallery/why-zangief-from-street-fighter-2026-looks-so-familiar/l-intro-1792605893.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "4f5e2e2e395557d9",
+      "title": "It sure sounds like the Trump administration killed Netflix's bid for Warner Bros.",
+      "quote": "Media mogul and major WBD stockholder John Malone says the administration told Netflix they had \"no chance\" of acquiring the studio.",
+      "publisher": "The A.V. Club",
+      "author": "Matt Schimkowitz",
+      "date": "2026-10-21T17:55:10+00:00",
+      "link": "https://www.avclub.com/john-malone-wbd-paramount-merger-trump-administration",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/02/04093119/MixCollage-04-Feb-2026-09-29-AM-8926.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "ac5b69b2156e2d7c",
+      "title": "Adam McKay enlists Woody Harrelson for darkly satirical Exxon ad",
+      "quote": "In the ad narrated by Woody Harrelson, the <i>Don't Look Up</i> director ties the coming El Niño weather disasters to oil company policies.",
+      "publisher": "The A.V. Club",
+      "author": "Dennis Perkins",
+      "date": "2026-10-21T17:13:33+00:00",
+      "link": "https://www.avclub.com/adam-mckay-woody-harrelson-fake-exxon-commercial",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/10/21/AM-feature.jpg",
       "category": "Indie Gems"
     },
     {
@@ -204,17 +325,6 @@
       "date": "2026-10-21T16:37:13+00:00",
       "link": "https://www.slashfilm.com/2293134/the-lord-of-the-rings-rings-of-power-season-3-trailer/",
       "image": "https://www.slashfilm.com/img/gallery/the-lord-of-the-rings-the-rings-of-power-season-3-trailer-saurons-war-finally-arrives/l-intro-1792593540.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "d0591a73ba59a6b5",
-      "title": "Netflix Adds Second Season Of An Underrated Sci-Fi Series You Have To Watch",
-      "quote": "Netflix just added the second season of its Cyberpunk 2077 anime spin-off, an ambitious sci-fi series that lives up to its genre roots.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Rafael Motamayor)",
-      "date": "2026-10-21T16:21:20+00:00",
-      "link": "https://www.slashfilm.com/2293102/cyberpunk-edgerunners-sci-fi-series-streaming-netflix/",
-      "image": "https://www.slashfilm.com/img/gallery/netflix-adds-second-season-of-an-underrated-sci-fi-series-you-have-to-watch/l-intro-1792599571.jpg",
       "category": "Indie Gems"
     },
     {
@@ -317,17 +427,6 @@
       "category": "Indian Cinema"
     },
     {
-      "id": "83d8c14659eebe65",
-      "title": "A brutal Slow Horses finale sends itself flying straight off a cliff",
-      "quote": "For its season 6 finale, Slow Horses delivers brutal firefights, great character moments, and some serious narrative cruelty.",
-      "publisher": "The A.V. Club",
-      "author": "William Hughes",
-      "date": "2026-10-21T07:00:06+00:00",
-      "link": "https://www.avclub.com/slow-horses-season-6-finale-review-judgement-day",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/10/21/Lowden-Slow-Horses-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "aae3ec6454129787",
       "title": "‘Mookuthi Amman 2’ - World Of Mahasakthi teaser: Nayanthara’s titular Goddess takes on new, powerful foes",
       "quote": "Directed by Sundar C, ‘Mookuthi Amman 2’ is set for a release in theatres on November 6 during Deepavali",
@@ -359,94 +458,6 @@
       "link": "https://www.theguardian.com/film/2026/oct/21/ghosts-the-possession-of-button-house-review-spin-off-new-film-bbc-haunted-house-comedy",
       "image": "https://i.guim.co.uk/img/media/efbe53529f59b170b7c8d5e888ea4bfa207bae00/523_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=b7350ce0ddef95e1c971165656a4936d",
       "category": "World Cinema"
-    },
-    {
-      "id": "3b8eea11fee43c55",
-      "title": "Ultron goes bird watching as VisionQuest’s emotional stakes start paying off",
-      "quote": "VisionQuest starts hitting its stride in a pair of episodes that really lay on the father/son hang-ups.",
-      "publisher": "The A.V. Club",
-      "author": "Sam Barsanti",
-      "date": "2026-10-21T01:00:07+00:00",
-      "link": "https://www.avclub.com/visionquest-recap-episode-3-reboot-episode-4-malware",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/10/20/MixCollage-20-Oct-2026-02-31-PM-8593.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "6791efc829080e67",
-      "title": "Christopher McQuarrie finds new movie star to throw out of planes: Denzel Washington",
-      "quote": "Denzel Washington has signed on to star in a new thriller directed by Mission: Impossible maestro Christopher McQuarrie.",
-      "publisher": "The A.V. Club",
-      "author": "Matt Schimkowitz",
-      "date": "2026-10-20T23:07:29+00:00",
-      "link": "https://www.avclub.com/denzel-washington-star-christopher-mcquarrie-new-thriller",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2025/08/04094448/MixCollage-04-Aug-2025-09-41-AM-4908.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "cbbe9a3c2cdf89f8",
-      "title": "You Can See Everything mania lifts viewership for The Dropout by 186%",
-      "quote": "The hit Elizabeth Holmes documentary led to increased interest in the award-winning narrative series on Hulu as well as Bad Blood, a 2018 book on the scandal ‘Stranger than stranger-than-fiction’: how Lance Oppenheim…",
-      "publisher": "The Guardian",
-      "author": "Adrian Horton",
-      "date": "2026-10-20T21:16:23+00:00",
-      "link": "https://www.theguardian.com/film/2026/oct/20/you-can-see-everything-dropout-viewership",
-      "image": "https://i.guim.co.uk/img/media/43262d3520c1b8d4bf9cdb310837f776e397d34a/714_0_3570_2856/master/3570.jpg?width=140&quality=85&auto=format&fit=max&s=f4e0cc0d85e781218d9d52b35d9e2421",
-      "category": "World Cinema"
-    },
-    {
-      "id": "29f85c5d0c20183c",
-      "title": "Ryan Murphy will extract another season from the corpse of American Horror Story",
-      "quote": "American Horror Story might not make sense to its actors, but its creator is moving forward with season 14.",
-      "publisher": "The A.V. Club",
-      "author": "Matt Schimkowitz",
-      "date": "2026-10-20T21:06:54+00:00",
-      "link": "https://www.avclub.com/fx-announces-14th-season-of-american-horror-story",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/10/20/american-horror-story-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "63d3b374f3060b3e",
-      "title": "Rob Reiner almost made Larry David's Prognosis Negative",
-      "quote": "Spinal Tap director Rob Reiner, Richard Dreyfuss, and other Hollywood power players were pretty, pretty, pretty positive on Larry David's Prognosis Negative.",
-      "publisher": "The A.V. Club",
-      "author": "Matt Schimkowitz",
-      "date": "2026-10-20T20:19:42+00:00",
-      "link": "https://www.avclub.com/rob-reiner-almost-made-larry-daivd-prognosis-negative",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/05/08111253/MixCollage-08-May-2026-11-13-AM-1098.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "541ef23c27e3b8a6",
-      "title": "Crystal Lake showrunner says nudity was banned, but not excessive gory violence",
-      "quote": "In a new interview with <i>TheWrap</i>, <i>Crystal Lake</i> showrunner Brad Caleb Kane said that he wanted the <i>Friday The 13th</i> prequel to feature more skin, but he was \"overruled.\"",
-      "publisher": "The A.V. Club",
-      "author": "Olivia Singh",
-      "date": "2026-10-20T19:33:30+00:00",
-      "link": "https://www.avclub.com/crystal-lake-nudity-overruled-peacock",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/10/20/crystal-lake-featured.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "91c8cbda00fc0665",
-      "title": "Roseanne claims she was losing control of her show ahead of career-ending tweet",
-      "quote": "In a wide-ranging and characteristically unhinged interview with The Hollywood Reporter, Roseanne Barr explains that her TV revival was already going south.",
-      "publisher": "The A.V. Club",
-      "author": "Matt Schimkowitz",
-      "date": "2026-10-20T18:52:16+00:00",
-      "link": "https://www.avclub.com/roseanne-barr-says-she-lost-control-of-show-before-tweet",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/10/08/Roseanne-Barr-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "0355a5974a3ec36f",
-      "title": "Primetime director got Robert Pattinson on board by feeding his Zyn addiction",
-      "quote": "<i>Primetime</i> director Lance Oppenheim told <i>Vulture</i> that he bribed Robert Pattinson to star in the movie by sending him 200 canisters of Zyn with a note addressed to \"Chris Han-Zyn.\"",
-      "publisher": "The A.V. Club",
-      "author": "Olivia Singh",
-      "date": "2026-10-20T18:05:09+00:00",
-      "link": "https://www.avclub.com/primetime-lance-oppenheim-robert-pattinson-bribe-zyn",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/10/20/primetime-robert-pattinson-featured.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "f71ba7d1235f6fe7",
@@ -710,17 +721,6 @@
       "date": "2026-10-14T21:57:58+00:00",
       "link": "https://variety.com/2026/film/reviews/beach-fictions-review-1236912043/",
       "image": "https://variety.com/wp-content/uploads/2026/10/1787206677.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "2bbd9764a54ce43d",
-      "title": "‘Whalefall’ Review: Austin Abrams Gets Swallowed by a Whale in an Unintentionally Preposterous Thriller — a Tale of Human Perseverance and Mammalian Stomach Lining",
-      "quote": "Is it gross? At moments. Claustrophobic? A bit. Scary? Not even a little. The place Jay finds himself looks like a colonoscopy designed by H.R. Giger. The visual effects are…okay. At times, it’s as if we were locked in…",
-      "publisher": "Variety",
-      "author": "Owen Gleiberman",
-      "date": "2026-10-14T16:00:00+00:00",
-      "link": "https://variety.com/2026/film/reviews/whalefall-review-austin-abrams-josh-brolin-1236910135/",
-      "image": "https://variety.com/wp-content/uploads/2026/06/WHF-TP-089951.jpg",
       "category": "World Cinema"
     },
     {
