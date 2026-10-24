@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T15:44:34.451989+00:00",
+  "generated_at": "2026-10-24T20:33:18.532382+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -8,6 +8,138 @@
     "Indie Gems"
   ],
   "reviews": [
+    {
+      "id": "24ff63e69488e92e",
+      "title": "Apple TV Canceled This Breaking Bad Star's Sci-Fi Show Way Too Soon",
+      "quote": "Noomi Rapace and Breaking Bad's Jonathan Banks starred in this short-lived Apple TV sci-fi series, which involves parallel universes and other mysteries.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Witney Seibold)",
+      "date": "2026-10-24T20:00:00+00:00",
+      "link": "https://www.slashfilm.com/2292099/apple-tv-canceled-jonathan-banks-sci-fi-show-constellation/",
+      "image": "https://www.slashfilm.com/img/gallery/apple-tv-canceled-this-breaking-bad-stars-sci-fi-show-way-too-soon/l-intro-1792520133.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "dc20316fab5d2af3",
+      "title": "Olivia Wilde's R-Rated 107-Minute Comedy Is Officially HBO Max's Biggest Streaming Hit",
+      "quote": "Olivia Wilde's hilariously awkward dinner party comedy with Seth Rogen, Penelope Cruz, and Edward Norton is blowing up on HBO Max.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Nina Starner)",
+      "date": "2026-10-24T19:12:54+00:00",
+      "link": "https://www.slashfilm.com/2296245/olivia-wilde-comedy-the-invite-streaming-hbo-max-october-2026/",
+      "image": "https://www.slashfilm.com/img/gallery/olivia-wilde-comedy-the-invite-streaming-hbo-max-october-2026/l-intro-1792869294.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "cc597788f1dcf051",
+      "title": "Anthony LaPaglia: ‘There is not a role I didn’t get that I ever gave more than four hours of grievance to – even Tony Soprano’",
+      "quote": "The actor on surviving 2000s network television in Without a Trace, the role that made him take Brad Pitt seriously, and leaving the US to ‘ride out Trump’ Get our weekend culture and lifestyle email I didn’t know…",
+      "publisher": "The Guardian",
+      "author": "Sian Cain",
+      "date": "2026-10-24T19:00:42+00:00",
+      "link": "https://www.theguardian.com/film/2026/oct/25/anthony-lapaglia-10-chaotic-questions-interview",
+      "image": "https://i.guim.co.uk/img/media/cab01c5fad28b62e8733a621fb51b61f41017c4b/346_0_5186_4149/master/5186.jpg?width=140&quality=85&auto=format&fit=max&s=a4f8371505364edf61c3248642b8bbb9",
+      "category": "World Cinema"
+    },
+    {
+      "id": "6d843edbbb028d71",
+      "title": "Cillian Murphy's Supernatural Thriller With Robert De Niro Was Dead On Arrival",
+      "quote": "This supernatural thriller couldn't overcome its underlying silliness, even with a cast that included Cillian Murphy, Robert De Niro, and Elizabeth Olsen.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Witney Seibold)",
+      "date": "2026-10-24T19:00:00+00:00",
+      "link": "https://www.slashfilm.com/2291906/cillian-murphy-robert-de-niro-supernatural-thriller-dead-on-arrival-red-lights/",
+      "image": "https://www.slashfilm.com/img/gallery/cillian-murphys-supernatural-thriller-with-robert-de-niro-was-dead-on-arrival/l-intro-1792514143.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "01da1c5902ef53c8",
+      "title": "Sylvester Stallone On Casting Daughter In ‘Tulsa King’: “Of Course It’s Nepotism, You Idiot”",
+      "quote": "An interview with Sylvester Stallone from October 16 is going viral thanks to some candid comments the Tulsa King actor made about the casting of his daughter Scarlet Rose Stallone. Stallone has a blunt message to…",
+      "publisher": "Deadline",
+      "author": "Greg Evans",
+      "date": "2026-10-24T18:03:45+00:00",
+      "link": "https://deadline.com/2026/10/sylvester-stallone-tulsa-king-nepotism-1237172381/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/TulsaKing_400_SS_1211__0533_RT2-e1792867312213.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "1a805b25d8cbb353",
+      "title": "Star Trek's Denise Crosby Had A Major Change Of Heart About The Franchise [Exclusive]",
+      "quote": "Denise Crosby, who played multiple characters on Star Trek, tells us what inspired her to better understand the sci-fi franchise years after being in it.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Jeremy Mathai)",
+      "date": "2026-10-24T18:00:00+00:00",
+      "link": "https://www.slashfilm.com/2293348/star-trek-denise-crosby-change-heart-franchise/",
+      "image": "https://www.slashfilm.com/img/gallery/star-treks-denise-crosby-had-a-major-change-of-heart-about-the-franchise-exclusive/l-intro-1792606937.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "f48921c1c29c84c2",
+      "title": "Clayface Doesn't Need A Sequel Because We've Already Seen What Happens Next",
+      "quote": "Clayface serves as an origin story that could lead into a sequel - except Matt Hagen's future has already been revealed elsewhere in the DC Universe.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Ryan Scott)",
+      "date": "2026-10-24T17:50:59+00:00",
+      "link": "https://www.slashfilm.com/2296233/clayface-no-need-sequel-what-happens-next-creature-commandos/",
+      "image": "https://www.slashfilm.com/img/gallery/clayface-doesnt-need-a-sequel-because-weve-already-seen-what-happens-next/l-intro-1792863332.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "e7fafdf352765bca",
+      "title": "Ric Flair Latest Health Update: Ex-Wrestler Wears Eye Patch In Message Reassuring Fans “I Am Focused On My Healing And Recovery”",
+      "quote": "UPDATE: Former pro wrestler Ric Flair is reassuring fans that he is focused on “healing and recovery” as he recuperates from a fall in Florida yesterday. In the new update, Flair, wearing an eye patch, thanks concerned…",
+      "publisher": "Deadline",
+      "author": "Greg Evans",
+      "date": "2026-10-24T17:25:00+00:00",
+      "link": "https://deadline.com/2026/10/ric-flair-health-update-1237172323/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/GettyImages-1492435853.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "e7ad95643fe7cf34",
+      "title": "This '60s Adventure Series On Prime Video Is A Nostalgic Blast From The Past",
+      "quote": "Prime Video subscribers can stream Seasons 1, 2, and 4 (you have to pay to rent 3 for some reason) of this '60s adventure series.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Joe Roberts)",
+      "date": "2026-10-24T17:00:00+00:00",
+      "link": "https://www.slashfilm.com/2291573/route-66-60s-adventure-series-streaming-prime-video/",
+      "image": "https://www.slashfilm.com/img/gallery/this-60s-adventure-series-on-prime-video-is-a-nostalgic-blast-from-the-past/l-intro-1792503772.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "fb465254f6bc8b7c",
+      "title": "AMC Theatres Wants NYC’s Endangered Kips Bay Multiplex To Remain But Decision “Not Ours To Make”; Scheduled Closing Date Announced",
+      "quote": "AMC Theatres CEO Adam Aron has issued an open letter to New York City residents reiterating the company’s desire to continue operating its longstanding Kips Bay 15 multiplex in the Manhattan neighborhood of that name…",
+      "publisher": "Deadline",
+      "author": "Greg Evans",
+      "date": "2026-10-24T16:50:06+00:00",
+      "link": "https://deadline.com/2026/10/amc-theatres-kips-bay-multiplex-1237172359/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/Screenshot-2026-10-24-at-12.45.51-PM.png",
+      "category": "World Cinema"
+    },
+    {
+      "id": "d5d5687340643db3",
+      "title": "Ryan Gosling's Star Wars Movie May Have A Bigger Budget Than The Force Awakens",
+      "quote": "Star Wars: Starfighter is shaping up to be quite pricey, with the Ryan Gosling-led movie having cost more during filming than The Force Awakens.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Witney Seibold)",
+      "date": "2026-10-24T16:00:00+00:00",
+      "link": "https://www.slashfilm.com/2295317/ryan-gosling-star-wars-movie-budget-the-force-awakens/",
+      "image": "https://www.slashfilm.com/img/gallery/ryan-gosling-star-wars-movie-budget-the-force-awakens/l-intro-1792771624.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "98102fa9bc9d5458",
+      "title": "BravoCon 2027 Sets Dates For Return To Las Vegas",
+      "quote": "Bravo has set the dates for BravoCon 2027 as the fan event returns to Las Vegas from October 22-24, 2027. The weekend event will take place at the Caesars Forum, where it has been held for the past two cycles. This…",
+      "publisher": "Deadline",
+      "author": "Armando Tinoco",
+      "date": "2026-10-24T15:45:00+00:00",
+      "link": "https://deadline.com/2026/10/bravocon-2027-dates-las-vegas-1237172140/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/bravocon-2027-dates-las-vegas.jpg",
+      "category": "World Cinema"
+    },
     {
       "id": "4561308663c68917",
       "title": "10 Sci-Fi Movies That Became Cult Classics After Flopping",
@@ -22,7 +154,7 @@
     {
       "id": "5641948d7981789d",
       "title": "‘Clayface’ Takes Shape As No. 1 With $24M+; ‘You Can See Everything’ Wowing With Possible $20M Second Weekend – Box Office Update",
-      "quote": "UPDATED SATURDAY AM: Refresh for more updates and chart….Clayface wants it to be known that no matter how many googly eyes memes that Elizabeth Holmes and Nathan Fielder put out there, the weekend is his to lord. The…",
+      "quote": "UPDATED SATURDAY AM: Clayface wants it to be known that no matter how many googly eyes memes that Elizabeth Holmes and Nathan Fielder put out there, the weekend is his to lord. The James Watkins directed DC movie filed…",
       "publisher": "Deadline",
       "author": "Anthonypauldalessandro",
       "date": "2026-10-24T15:06:00+00:00",
@@ -31,26 +163,15 @@
       "category": "World Cinema"
     },
     {
-      "id": "1bdaf6a4faa68adf",
-      "title": "Ric Flair Health Update: Ex-Wrestler Recovering After Fall In Florida",
-      "quote": "Retired WWE icon Ric Flair is reportedly recovering at a Florida hospital after falling outside a Tampa restaurant yesterday, Friday, October 23. The incident itself came just hours after the 77-year-old former wrestler…",
-      "publisher": "Deadline",
-      "author": "Greg Evans",
-      "date": "2026-10-24T14:26:59+00:00",
-      "link": "https://deadline.com/2026/10/ric-flair-health-update-1237172323/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/GettyImages-1492435853.jpg",
+      "id": "a97558ca4df91107",
+      "title": "‘Love Language’ Review: Chloë Grace Moretz Sells Words of Affirmation in an Old-School Romcom With Gen-Z Trappings",
+      "quote": "Much has been written on the new dating politics practiced by Gen-Z — more progressive socially, more conservative sexually, if you believe the hot takes, which you probably shouldn’t. Either way, that sensibility has…",
+      "publisher": "Variety",
+      "author": "Guy Lodge",
+      "date": "2026-10-24T13:43:51+00:00",
+      "link": "https://variety.com/2026/film/reviews/love-language-review-1236930209/",
+      "image": "https://variety.com/wp-content/uploads/2026/03/love-language-359427.jpg",
       "category": "World Cinema"
-    },
-    {
-      "id": "6d0b39ca328abed1",
-      "title": "Every Clayface Episode Of Batman: The Animated Series, Ranked",
-      "quote": "Long before Clayface made his debut on the big screen, he had one of the darkest villain arcs in Batman: The Animated Series.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Devin Meenan)",
-      "date": "2026-10-24T14:00:00+00:00",
-      "link": "https://www.slashfilm.com/2294953/batman-the-animated-series-clayface-episodes-ranked/",
-      "image": "https://www.slashfilm.com/img/gallery/every-clayface-episode-of-batman-the-animated-series-ranked/l-intro-1792710766.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "deb77109be622338",
@@ -75,17 +196,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "659f3357699f3dea",
-      "title": "Why John Borrelli From Clayface Looks So Familiar",
-      "quote": "John Borrelli seems to be the only honest cop in the Gotham Police Department in Clayface. Here's who plays the character.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Rafael Motamayor)",
-      "date": "2026-10-24T12:00:00+00:00",
-      "link": "https://www.slashfilm.com/2295487/john-borrelli-clayface-movie-actor-max-minghella/",
-      "image": "https://www.slashfilm.com/img/gallery/why-john-borrelli-from-clayface-looks-so-familiar/l-intro-1792773889.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "9be7c0f84178639e",
       "title": "‘Jailer 2’: After 40 years, Rajinikanth watches his blockbuster film with fans",
       "quote": "Superstar Rajinikanth watched his latest blockbuster, ‘Jailer 2’, with fans in an IMAX screens in Chennai",
@@ -95,17 +205,6 @@
       "link": "https://www.thehindu.com/entertainment/movies/jailer-2-rajinikanth-watches-with-fans-jailer-2-sun-pictures-jailer-2-box-office-anirudh-nelson-hrithik-roshan/article71619832.ece",
       "image": "https://th-i.thgim.com/public/entertainment/movies/fjhtmq/article71619896.ece/alternates/LANDSCAPE_1200/Jailer2.jpeg",
       "category": "Indian Cinema"
-    },
-    {
-      "id": "713a9fff1938f78e",
-      "title": "Dark Matter Creator Doesn't Have 'Respect' For Marvel's Multiversal Storytelling [Exclusive]",
-      "quote": "Blake Crouch, who wrote Dark Matter and is the showrunner of the Apple TV adaptation, does not respect Marvel Studios' approach to multiversal storytelling.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Jeremy Mathai)",
-      "date": "2026-10-24T11:45:00+00:00",
-      "link": "https://www.slashfilm.com/2295768/dark-matter-creator-no-respect-marvel-multiversal-storytelling/",
-      "image": "https://www.slashfilm.com/img/gallery/dark-matter-creator-doesnt-have-respect-for-marvels-multiversal-storytelling-exclusive/l-intro-1792783003.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "f441b38c6b50aa57",
@@ -130,17 +229,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "b90550644a9a1e18",
-      "title": "Why Cammy From Street Fighter (2026) Looks So Familiar",
-      "quote": "If you feel like you've seen the actress who plays Cammy in 2026's Street Fighter somewhere before, we can help you solve that mystery.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Witney Seibold)",
-      "date": "2026-10-24T08:10:00+00:00",
-      "link": "https://www.slashfilm.com/2293656/cammy-street-fighter-2026-movie-actress-mel-jarnson/",
-      "image": "https://www.slashfilm.com/img/gallery/why-cammy-from-street-fighter-2026-looks-so-familiar/l-intro-1792617070.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "322e06e6f734c397",
       "title": "Quentin Tarantino Wraps His AFI Fest Q&A By Showing Crowd First 17 Minutes Of ‘Cliff Booth’",
       "quote": "Quentin Tarantino surprised the crowd during a Q&A and screening of his 10-time Oscar-nominated Once Upon a Time in Hollywood on Friday night at AFI Fest in Los Angeles by screening the first 17 minutes of its sequel…",
@@ -152,17 +240,6 @@
       "category": "Festival Winners"
     },
     {
-      "id": "9f07eea680d86a72",
-      "title": "Why Original X-Files Creator Chris Carter Didn't Read Ryan Coogler's Reboot [Exclusive]",
-      "quote": "Speaking to SlashFilm, original X-Files creator Chris Carter explained why he trusts Ryan Coogler and why he didn't get involved in his upcoming reboot series.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Bill Bria)",
-      "date": "2026-10-24T04:43:40+00:00",
-      "link": "https://www.slashfilm.com/2296107/why-x-files-creator-chris-carter-not-read-ryan-coogler-reboot/",
-      "image": "https://www.slashfilm.com/img/gallery/why-original-x-files-creator-chris-carter-didnt-read-ryan-cooglers-reboot-exclusive/l-intro-1792816982.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "8619e4180b6cf27a",
       "title": "‘Gajab Raat’ movie review: Manoj Bajpayee lights up a night to remember",
       "quote": "With an electric ensemble and a gripping plot, director Ritesh Shah turns a routine police investigation into a breathless arena of institutional warfare",
@@ -172,50 +249,6 @@
       "link": "https://www.thehindu.com/entertainment/movies/gajab-raat-movie-review-manoj-bajpayee-lights-up-a-night-to-remember/article71617745.ece",
       "image": "https://th-i.thgim.com/public/incoming/k2mijb/article71617742.ece/alternates/LANDSCAPE_1200/Manoj%20Bajpayee%20in%20Gajab%20Raat",
       "category": "Indian Cinema"
-    },
-    {
-      "id": "0d5f350bb71f5d7c",
-      "title": "Karoline Leavitt Compares Katie Zacharia’s Abrupt Exit As Trump’s Press Secretary To ‘The Apprentice’: “He’s Known For … Moving On From People”",
-      "quote": "Karoline Leavitt appeared on HBO’s Real Time with Bill Maher on Friday and was questioned about the short stint of her successor as Donald Trump’s White House press secretary, Katie Zacharia. After doing just one…",
-      "publisher": "Deadline",
-      "author": "Ted Johnson",
-      "date": "2026-10-24T03:16:11+00:00",
-      "link": "https://deadline.com/2026/10/karoline-leavitt-on-bill-maher-trump-press-secretary-1237172271/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/GettyImages-2273405814.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "3f1a39232c0f9c9c",
-      "title": "‘Clayface’ Director James Watkins Explains Aaron Paul’s Cameo: “A Real Brief Easter Egg”",
-      "quote": "In DC Studios’ Clayface, Tom Rhys Harries’ titular shape-shifting Batman villain takes multiple forms, including a surprising familiar face. Following murmurs of a cameo, director James Watkins confirmed that Aaron Paul…",
-      "publisher": "Deadline",
-      "author": "Glenn Garner",
-      "date": "2026-10-24T03:00:27+00:00",
-      "link": "https://deadline.com/2026/10/clayface-james-watkins-explains-aaron-paul-cameo-1237172273/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/Aaron-Paul-Clayface-2-shot.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "2db17f3aedc508fc",
-      "title": "Billy Corgan Backs Marilyn Manson Over Sex Abuse Claims, Citing Inside Knowledge Of Case: “I Personally Didn’t Feel He Was Guilty”",
-      "quote": "“I personally didn’t feel he was guilty of the things he was being charged with,” Billy Corgan says of his old friend Marilyn Manson, who was accused of sexual abuse, domestic violence and more by Evan Rachel Wood and…",
-      "publisher": "Deadline",
-      "author": "Dominic Patten",
-      "date": "2026-10-24T02:11:14+00:00",
-      "link": "https://deadline.com/2026/10/marilyn-manson-sex-abuse-claims-billy-corgan-1237172174/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/Billy-Corgan-and-Marilyn-Manson.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "bf1653e6247a1beb",
-      "title": "Marvel Reveals New Avengers: Doomsday Footage In Special World Series Commercial",
-      "quote": "As the hype for Avengers: Doomsday continues to build, Marvel Studios released new footage during Game 1 of the World Series. Check it out here.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-10-24T01:03:08+00:00",
-      "link": "https://www.slashfilm.com/2296075/marvel-avengers-doomsday-footage-world-series-commercial/",
-      "image": "https://www.slashfilm.com/img/gallery/marvel-avengers-doomsday-footage-world-series-commercial/l-intro-1792804968.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "68961cd875b4f8bb",
@@ -259,17 +292,6 @@
       "date": "2026-10-23T23:13:37+00:00",
       "link": "https://www.avclub.com/slow-horses-season-6-finale-alternate-ending-jack-lowden",
       "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/08093257/oldman-lowden.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "c752dd0e5224c7c8",
-      "title": "5 Best New Movies And Shows To Stream This Weekend On Netflix, Prime Video, HBO Max, And More (Oct. 23-25)",
-      "quote": "You've got plenty of streaming options for October 23-25, including a fantastic Olivia Wilde movie, the return of an exciting French heist series, and more.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Nina Starner)",
-      "date": "2026-10-23T22:00:00+00:00",
-      "link": "https://www.slashfilm.com/2295598/best-movies-tv-shows-streaming-netflix-prime-video-hbo-max-october-23-25-weekend/",
-      "image": "https://www.slashfilm.com/img/gallery/5-best-new-movies-and-shows-to-stream-this-weekend-on-netflix-prime-video-hbo-max-and-more-oct-23-25/l-intro-1792778296.jpg",
       "category": "Indie Gems"
     },
     {
@@ -570,17 +592,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "4552dc6bde8a313d",
-      "title": "James Bond finalists to screen-test for role this week – reports",
-      "quote": "Actors in the mix to play 007 in Denis Villeneuve’s installment include Callum Turner and Jack Lowden The search for the next James Bond may finally be nearing its end: according to reports, a very select group of…",
-      "publisher": "The Guardian",
-      "author": "Adrian Horton",
-      "date": "2026-10-22T21:16:02+00:00",
-      "link": "https://www.theguardian.com/film/2026/oct/22/final-james-bond-screen-tests-callum-turner-jack-lowden",
-      "image": "https://i.guim.co.uk/img/media/f29a99d1942b4d9dd7a6675196347a4f1d6f4fdb/286_0_4432_3546/master/4432.jpg?width=140&quality=85&auto=format&fit=max&s=bfd6da294dada97f63c0468aec82695c",
-      "category": "World Cinema"
-    },
-    {
       "id": "9575f680f7e33f39",
       "title": "‘Ali G: Who Iz I?’ Review: Sacha Baron Cohen Brings Back His Cretinous Fake OG Talk-Show Host, Only Now Ali G Is the Film’s ‘Political’ Subject. A Mistake, Innit?",
       "quote": "By turning Ali G into the doofus antihero of his own absurdist saga, \"Who Iz I?\" essentially becomes Sacha Baron Cohen’s version of a \"Saturday Night Live\" movie, like \"MacGruber\" or \"Stuart Saves His Family\" or \"A…",
@@ -743,17 +754,6 @@
       "date": "2026-10-16T07:01:00+00:00",
       "link": "https://www.hollywoodreporter.com/movies/movie-reviews/norm-the-tale-of-norm-macdonald-review-judd-apatow-netflix-1236733208/",
       "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "4806dd63f5b2c876",
-      "title": "‘Norm: The Tale of Norm Macdonald’ Review: Judd Apatow’s Juicy and Haunting Portrait of a Comedy Star as Troubled as He Was Hilarious",
-      "quote": "At times, he had a streak of Andy Kaufman’s antisocial hostility in him, as if comedy was his way of testing both himself and the audience, seeing what they would accept, and seeing if he would be accepted.",
-      "publisher": "Variety",
-      "author": "Owen Gleiberman",
-      "date": "2026-10-16T03:43:27+00:00",
-      "link": "https://variety.com/2026/film/reviews/norm-the-tale-of-norm-macdonald-review-judd-apatow-1236911273/",
-      "image": "https://variety.com/wp-content/uploads/2026/08/Norm__The_Tale_of_Norm_Macdonald_n_00_48_23_20.png",
       "category": "World Cinema"
     },
     {
