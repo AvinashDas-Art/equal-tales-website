@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T04:15:59.204350+00:00",
+  "generated_at": "2026-10-25T11:08:03.251655+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -8,6 +8,39 @@
     "Indie Gems"
   ],
   "reviews": [
+    {
+      "id": "5929c37ab286f02f",
+      "title": "‘Cyberpunk: Edgerunners 2’ series review: Love and art in the time of technofascism",
+      "quote": "That ‘Edgerunners 2’ can wring such tenderness, such an unembarrassed belief in art and human connection, from a world so thoroughly committed to grinding both into dust is precisely what makes it one of the finest…",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-25T10:51:35+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/cyberpunk-edgerunners-2-series-review-love-and-art-in-the-time-of-technofascism/article71622927.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/333cn3/article71622955.ece/alternates/LANDSCAPE_1200/photo_2026-10-15_10-23-19-1280x720.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "c46ac6fd43e8659c",
+      "title": "A flower named Chezhiyan: Sreekar Prasad remembers the filmmaker whose final film heads to Tokyo",
+      "quote": "The National Award-winning film editor on the late Tamil cinematographer-director-author whose The Paper Flower will premiere at the 39th Tokyo International Film Festival",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-25T10:32:04+00:00",
+      "link": "https://www.thehindu.com/entertainment/chezhiyan-sreekar-prasad-the-paper-flower-tokyo-film-festival/article71603460.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/d9wiau/article71613481.ece/alternates/LANDSCAPE_1200/Untitled%20design%20-%202026-10-23T030149.975.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "ab6e184c57957192",
+      "title": "5 Best Sci-Fi Sitcoms That Take Place On Earth",
+      "quote": "From Futurama's vision of the year 3000 to formula-creating classics like My Favorite Martian, here are the five best sci-fi sitcoms set on Earth.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Joe Roberts)",
+      "date": "2026-10-25T08:10:00+00:00",
+      "link": "https://www.slashfilm.com/2289842/best-sci-fi-sitcoms-on-earth/",
+      "image": "https://www.slashfilm.com/img/gallery/5-best-sci-fi-sitcoms-that-take-place-on-earth/l-intro-1792371836.jpg",
+      "category": "Indie Gems"
+    },
     {
       "id": "d9b2ac455229b442",
       "title": "‘Nobody Wants This’ Creator Erin Foster Has “More Story To Tell” With A Season 4, But Isn’t Getting “Too Attached”",
@@ -229,17 +262,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "1a805b25d8cbb353",
-      "title": "Star Trek's Denise Crosby Had A Major Change Of Heart About The Franchise [Exclusive]",
-      "quote": "Denise Crosby, who played multiple characters on Star Trek, tells us what inspired her to better understand the sci-fi franchise years after being in it.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Jeremy Mathai)",
-      "date": "2026-10-24T18:00:00+00:00",
-      "link": "https://www.slashfilm.com/2293348/star-trek-denise-crosby-change-heart-franchise/",
-      "image": "https://www.slashfilm.com/img/gallery/star-treks-denise-crosby-had-a-major-change-of-heart-about-the-franchise-exclusive/l-intro-1792606937.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "093d8b778a03f220",
       "title": "Stick-in-the-muds at Capcom wouldn't let Street Fighter maim Chun-Li",
       "quote": "Stick-in-the-muds at Capcom wouldn't let <i>Street Fighter</i> maim Chun-Li.",
@@ -370,17 +392,6 @@
       "link": "https://www.hollywoodreporter.com/lists/top-10-movies-french-riots-france-protests/",
       "image": null,
       "category": "World Cinema"
-    },
-    {
-      "id": "d6a3b2bdaebac266",
-      "title": "‘Orijinal’ movie review: A time travel film in which the human story is more intriguing than the time travel",
-      "quote": "In Orijinal , the time travel trope becomes an excuse for the portrayal of a man introspecting his life choices and then using the accidental gift of time travel to make amends, not always in the right way",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-23T15:23:59+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/orijinal-movie-review-a-time-travel-film-in-which-the-human-story-is-more-intriguing-than-the-time-travel/article71616842.ece",
-      "image": "https://th-i.thgim.com/public/news/national/kerala/xwk7op/article71616835.ece/alternates/LANDSCAPE_1200/Orijinal.jpg",
-      "category": "Indian Cinema"
     },
     {
       "id": "9214002919b4eeff",
@@ -546,17 +557,6 @@
       "link": "https://www.theguardian.com/film/2026/oct/23/taika-waititi-star-wars-lucasfilm",
       "image": "https://i.guim.co.uk/img/media/329ed0b41488d6e4f501835a6f778d4b9769eacc/1161_0_5995_4800/master/5995.jpg?width=140&quality=85&auto=format&fit=max&s=59dfb2f10548195634aef22cf081f355",
       "category": "World Cinema"
-    },
-    {
-      "id": "1c0d747173a01784",
-      "title": "‘Street Fighter’ movie review: Fists, fetishes and a fighting chance at cult status",
-      "quote": "A salacious, plot-starved brawl of horny meatheads and ‘90s mall-arcade nostalgia, ‘Street Fighter’ is far too stupid for its own good, yet far too entertaining to dismiss",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-23T10:27:30+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/street-fighter-movie-review-noah-centineo-andrew-schulz-vidyut-jammwal-cody-rhodes-roman-reigns-jason-momoa-50-cent/article71592175.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/9sl3tq/article71592208.ece/alternates/LANDSCAPE_1200/Street-Fighter-Noah-Centineo-Andrew-Koji-083126-7d8e6d9d4c37470fbe15d5246cb00497.jpg",
-      "category": "Indian Cinema"
     },
     {
       "id": "d0fe5aa8a148f3ae",
