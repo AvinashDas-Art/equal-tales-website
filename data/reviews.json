@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T04:39:01.892037+00:00",
+  "generated_at": "2026-10-27T11:56:43.590099+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -8,6 +8,171 @@
     "Indie Gems"
   ],
   "reviews": [
+    {
+      "id": "2498aed7013a8cd2",
+      "title": "Arnie & Barney review – dimwit ant double-act from Maya the Bee are on mission to entertain",
+      "quote": "From the ugly design to the lacklustre script, this is one parents might want to skip this half-term holiday In 1912 in Germany, antisemitic writer Waldemar Bonsels published The Adventures of Maya the Bee, which later…",
+      "publisher": "The Guardian",
+      "author": "Catherine Bray",
+      "date": "2026-10-27T11:00:37+00:00",
+      "link": "https://www.theguardian.com/film/2026/oct/27/arnie-and-barney-review",
+      "image": "https://i.guim.co.uk/img/media/d0e627d7491b2ea286ba3b06c15d78312dd52dcf/244_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=bd7a7477f47bfc6da29d5d7fb946178c",
+      "category": "World Cinema"
+    },
+    {
+      "id": "1326368b77c5b815",
+      "title": "Brett Morgen’s David Bowie Immersive Concert Experience Set For Berlinale World Premiere",
+      "quote": "The spirit of late pop and rock icon David Bowie is set to return to Berlin, the city he called home in the mid-1970s. The Berlin Film Festival has announced it will world premiere U.S. documentarian Brett Morgen’s…",
+      "publisher": "Deadline",
+      "author": "Melanie Goodfellow",
+      "date": "2026-10-27T11:00:00+00:00",
+      "link": "https://deadline.com/2026/10/brett-morgen-david-bowie-immersive-concert-berlin-1237205735/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/Bowie-press-photo.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "b400551fec6a54ba",
+      "title": "Riley Voelkel & Shiva Negar To Voice Adult Animated Comedy Project ‘Above Average’",
+      "quote": "EXCLUSIVE: Riley Voelkel and Shiva Negar will lend their voices to adult animated comedy series Above Average. The show, which is in late-stage development, comes from creators Andrew Deutsch and Cailin Walker-Bent at…",
+      "publisher": "Deadline",
+      "author": "Stewart Clarke",
+      "date": "2026-10-27T10:16:30+00:00",
+      "link": "https://deadline.com/2026/10/riley-voelkel-shiva-negar-voice-above-average-animated-show-1237206011/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/Riley-Voelkel-shiva-negar.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "f47fae394bf9770e",
+      "title": "‘Tokyo Vice’ Producer & Netflix Executive Suggest Tweaks To Japan’s Support System: “Incentives Can Be Lower So Long As They’re Certain”",
+      "quote": "Tokyo Vice producer Alex Boden and Netflix’s APAC Content & Studio Production Affairs chief Debra Richards offered some thoughts on how Japan’s new IP360 incentives scheme could be improved to offer better support to…",
+      "publisher": "Deadline",
+      "author": "Liz Shackleton",
+      "date": "2026-10-27T09:39:28+00:00",
+      "link": "https://deadline.com/2026/10/japan-incentives-scheme-netflix-tokyo-vice-toho-tombo-1237205993/",
+      "image": "https://deadline.com/wp-content/uploads/2025/09/MCDSMMA_EC001.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "2adc01ee1613e163",
+      "title": "BAFTA Names New Chair",
+      "quote": "BAFTA has a new chair. UKTV commissioning boss Hilary Rosen will succeed Sara Putt at the UK awards body after Putt’s three-year term runs down. Rosen has been Deputy Chair for the past year and will be succeeded in…",
+      "publisher": "Deadline",
+      "author": "Max Goldbart",
+      "date": "2026-10-27T09:35:13+00:00",
+      "link": "https://deadline.com/2026/10/bafta-names-hilary-rosen-chair-uktv-sara-putt-1237206009/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/GettyImages-2212257954-1500.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "1d4df04bbcf08678",
+      "title": "‘The Cat in the Hat’: Writer-directors Alessandro Carloni and Erica Rivinoja on Dr. Seuss’s legacy of lunacy",
+      "quote": "He rhymed, he schemed, made nonsense routine, the feline menace with a flair for the obscene. With a tip of his hat and a flick of his tail, The Cat is back to let chaos prevail",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-27T09:08:39+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/the-cat-in-the-hat-writer-directors-alessandro-carloni-and-erica-rivinoja-on-dr-seusss-legacy-of-lunacy/article71627635.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/swfxbs/article71627741.ece/alternates/LANDSCAPE_1200/CAH202A_088793_High_Res_JPEG_custom-proxy.jpeg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "56ce7f151cec338e",
+      "title": "We, the Hated review – standing up to be abused: behind the scenes with Just Stop Oil",
+      "quote": "The levels of violence aimed at these protesters is depressing, but their aim is to save the planet: ‘If they want to destroy everything, they’ve got to go through us’ ‘Hated” is not putting it too strongly. The…",
+      "publisher": "The Guardian",
+      "author": "Cath Clarke",
+      "date": "2026-10-27T09:00:06+00:00",
+      "link": "https://www.theguardian.com/film/2026/oct/27/we-the-hated-review-standing-up-to-be-abused-behind-the-scenes-with-just-stop-oil",
+      "image": "https://i.guim.co.uk/img/media/6727ca45703d82bc7566c8f5911795dbee41eebb/531_179_1100_880/master/1100.jpg?width=140&quality=85&auto=format&fit=max&s=f5582d756d4209b101eda240c4896ae5",
+      "category": "World Cinema"
+    },
+    {
+      "id": "b9e7e150116d553b",
+      "title": "Stephen & Simon Cornwell Take On Chairmen Roles At ‘Night Manager’ Producer The Ink Factory As Michele Wolkoff Upped To President",
+      "quote": "EXCLUSIVE: Stephen and Simon Cornwell have taken on chairmen roles at their Night Manager indie The Ink Factory amid a wave of hires and promotions. The Cornwells, whose father was iconic British spy author John le…",
+      "publisher": "Deadline",
+      "author": "Max Goldbart",
+      "date": "2026-10-27T09:00:00+00:00",
+      "link": "https://deadline.com/2026/10/the-ink-factory-cornwells-chairmen-wolkoff-upped-president-1237185488/",
+      "image": "https://deadline.com/wp-content/uploads/2025/12/The-Night-Manager-Season-2-credit-Prime-VideoBBC.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "2ed3280046b5cdf8",
+      "title": "Vijay Deverakonda-Rashmika team files complaint over alleged false online narratives about actors",
+      "quote": "",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-27T08:33:09+00:00",
+      "link": "https://www.thehindu.com/news/cities/Hyderabad/vijay-deverakonda-rashmika-team-files-complaint-over-alleged-false-online-narratives-about-actors/article71630408.ece",
+      "image": "https://th-i.thgim.com/public/news/cities/Hyderabad/rau1zw/article71630426.ece/alternates/LANDSCAPE_1200/Vijay%20and%20Rashmika.jpeg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "c3125fbdbaf07175",
+      "title": "Prabhu Deva, Simran reunite for ‘Kamal Sridevi’, produced by Soundarya Rajinikanth",
+      "quote": "The film, directed by Krishnanand Kottarapattu, also stars Mithun Jai Shankar and Smeha in pivotal roles",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-27T08:02:19+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/prabhu-deva-simran-kamal-sridevi-soundarya-rajinikanth-gv-prakash-kumar/article71630273.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/dv17nk/article71630347.ece/alternates/LANDSCAPE_1200/minnal%20oru%20kodi.png",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "32ce5481009a5e56",
+      "title": "City of Masks review – theatreland ghost story with female phantom of the opera out for revenge",
+      "quote": "In a West End theatre, a young actor hears a disembodied voice coaching his singing. It’s the start of an icky ghost-on-human romance This ghost story set in a West End theatre is creakier than the old wooden…",
+      "publisher": "The Guardian",
+      "author": "Cath Clarke",
+      "date": "2026-10-27T07:00:04+00:00",
+      "link": "https://www.theguardian.com/film/2026/oct/27/city-of-masks-review-theatreland-ghost-story-with-female-phantom-of-the-opera-out-for-revenge",
+      "image": "https://i.guim.co.uk/img/media/5cf84a7d871ed3ca545ff846ab9f187bbaa2a5c0/417_0_4166_3333/master/4166.jpg?width=140&quality=85&auto=format&fit=max&s=9d4ef4f5ddb491ffec5709680d1fe6c7",
+      "category": "World Cinema"
+    },
+    {
+      "id": "68ca90b19d585a0e",
+      "title": "‘King’: Shah Rukh Khan exudes intensity in new poster from actioner",
+      "quote": "Directed by Siddharth Anand, the film also stars Deepika Padukone, Rani Mukerji, Anil Kapoor, Abhishek Bachchan, Jaideep Ahlawat, Arshad Warsi and Suhana Khan in pivotal roles",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-27T05:48:19+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/king-shah-rukh-khan-exudes-intensity-in-new-poster-from-actioner/article71629923.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/vc6gs7/article71629931.ece/alternates/LANDSCAPE_1200/Shah%20Rukh%20Khan%20in%20new%20poster%20of%20%E2%80%98King%E2%80%99",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "421378e2f1cd5b3b",
+      "title": "Bill Kramer Says AMPAS Plans To Expand List Of Festivals That Can Serve As Qualifiers For The International Oscar Category",
+      "quote": "The Academy of Motion Picture Arts and Sciences will expand the list of festivals that can serve as standalone qualifiers for the International Film Oscar category, AMPAS CEO Bill Kramer confirmed this morning during an…",
+      "publisher": "Deadline",
+      "author": "Zac Ntim",
+      "date": "2026-10-27T05:39:51+00:00",
+      "link": "https://deadline.com/2026/10/bill-kramer-international-oscar-category-tokyo-1237205952/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/Bill-Kramer-e1793101642750.png",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "fe0110f3595ef4ba",
+      "title": "Star Trek's Walter Koenig Was In A Forgotten '80s Sci-Fi Horror Movie With Bruce Campbell",
+      "quote": "Walter Koenig teamed up with Bruce Campbell for a 1980s sci-fi movie that doesn't really get talked about much these days. Let's take a closer look.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Ryan Scott)",
+      "date": "2026-10-27T04:43:24+00:00",
+      "link": "https://www.slashfilm.com/2297893/star-trek-walter-koenig-80s-sci-fi-horror-movie-bruce-campbell-moontrap/",
+      "image": "https://www.slashfilm.com/img/gallery/star-treks-walter-koenig-was-in-a-forgotten-80s-sci-fi-horror-movie-with-bruce-campbell/l-intro-1793076100.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "8664eb39c53b3898",
+      "title": "Rolf de Heer & Fellow Tokyo Jury Members Talk Festival ‘A-List’ Ratings, Co-Production & How To Judge Films",
+      "quote": "Australian filmmaker Rolf de Heer, president of the competition jury at this year’s Tokyo International Film Festival, talked about the significance of ‘A-list’ ratings for film festivals at the jury press conference…",
+      "publisher": "Deadline",
+      "author": "Liz Shackleton",
+      "date": "2026-10-27T04:40:56+00:00",
+      "link": "https://deadline.com/2026/10/tokyo-film-festival-rolf-de-heer-festival-ratings-fiapf-1237205918/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/Tokyo-fest-jury.jpg",
+      "category": "World Cinema"
+    },
     {
       "id": "8d920a5a8b7ac6d1",
       "title": "Ryan Gosling & Zach Shields Duo Dead Man’s Bones Returns With New Song Plus Music Video Starring Rain Spencer And Noah Jupe",
@@ -20,26 +185,15 @@
       "category": "World Cinema"
     },
     {
-      "id": "3b0f001da87ce6fe",
-      "title": "‘Gilded Age’ Creator Julian Fellowes Calls HBO’s Casey Bloys “Our Protector & Our Defender From Very Early Days” During Season 4 Premiere",
-      "quote": "Julian Fellowes attended The Gilded Age’s Season 4 premiere at the Plaza Hotel in New York City, where he thanked Casey Bloys for believing in the series from the start. “I have a special place in my heart for Casey…",
-      "publisher": "Deadline",
-      "author": "Armando Tinoco",
-      "date": "2026-10-27T03:55:26+00:00",
-      "link": "https://deadline.com/2026/10/gilded-age-julian-fellowes-hbo-casey-bloys-premiere-1237205924/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/julian-fellowes-case-boys-the-gilded-age.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "2e64c3f38e9f8e3a",
-      "title": "Jay Z & Apple Make It Official! Hova’s Headlining The Super Bowl Halftime Show",
-      "quote": "Less than 48 hours after walking off stage at L.A.’s Sofi Stadium this weekend, Jay Z has made it official. The hip hop icon and Roc Nation founder has picked himself to headline the Super Bowl LXI halftime show in the…",
-      "publisher": "Deadline",
-      "author": "Dominic Patten",
-      "date": "2026-10-27T01:59:00+00:00",
-      "link": "https://deadline.com/2026/10/jay-z-super-bowl-halftime-official-nfl-apple-1237205883/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/jay-zsuper-bowl-2024-getty.jpg",
-      "category": "World Cinema"
+      "id": "eb02d1c78c6fea12",
+      "title": "Jay-Z officially selects self for Super Bowl Halftime show",
+      "quote": "Jay-Z—whose company Roc Nation has produced the Super Bowl Halftime Show since 2019—has been chosen to headline this year's show.",
+      "publisher": "The A.V. Club",
+      "author": "Drew Gillis",
+      "date": "2026-10-27T02:12:12+00:00",
+      "link": "https://www.avclub.com/jay-z-to-headline-super-bowl-halftime-show-lxi",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2025/03/04114509/GettyImages-1911568368.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "623d1aedebff408b",
@@ -53,39 +207,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "b7b7439cd6eae08a",
-      "title": "Neil Young Rocks Trump With $10M Suit Over Using That ‘Free World’ Tune Again",
-      "quote": "Almost no one expects Donald Trump to keep his word, but unlike most, Neil Young ain’t taking any crap from the former Apprentice host. Having repeatedly told Trump to keep his MAGA mitts off his classic Rockin’ in the…",
-      "publisher": "Deadline",
-      "author": "Dominic Patten",
-      "date": "2026-10-27T01:48:46+00:00",
-      "link": "https://deadline.com/2026/10/neil-young-sues-trump-copyright-1237205848/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/neil-young-donald-trump.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "cc72557aa8404df6",
-      "title": "Netflix Taps Former Apple Exec Steve Wilson To Lead Podcast Acquisitions",
-      "quote": "Steve Wilson has been tapped to head Netflix’s podcast division as it seeks new growth opportunities, Deadline has learned. The former Apple Podcasts executive has been contracted by the streamer to lead the company’s…",
-      "publisher": "Deadline",
-      "author": "Armando Tinoco",
-      "date": "2026-10-27T01:40:34+00:00",
-      "link": "https://deadline.com/2026/10/netflix-apple-exec-steve-wilson-podcast-acquisitions-1237205867/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/Steve-Wilson-netflix.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "ed170ed41ea61117",
-      "title": "Milcho Manchevski Talks ‘Sister Brother Manhole Cover’, His Second Feature Of 2026 & Exposing Corruption At Macedonia’s Film Agency — Tokyo",
-      "quote": "This week, Macedonian filmmaker Milcho Manchevski returns with Sister Brother Manhole Cover, his second feature of the year, which screens in competition at the Tokyo Film Festival. Directed by Manchevski from a…",
-      "publisher": "Deadline",
-      "author": "Zac Ntim",
-      "date": "2026-10-27T00:48:10+00:00",
-      "link": "https://deadline.com/2026/10/milcho-manchevski-sister-brother-manhole-cover-tokyo-1237202859/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/39001CMP12_4.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "906ce0201e92cefc",
       "title": "Decades Before Landman, Billy Bob Thornton Was In A Sitcom Featuring A TV Legend",
       "quote": "Billy Bob Thornton befriended the late, great John Ritter while working on this '90s sitcom, which came along fairly early in the Landman star's career.",
@@ -95,28 +216,6 @@
       "link": "https://www.slashfilm.com/2293914/landman-billy-bob-thornton-john-ritter-sitcom-hearts-afire/",
       "image": "https://www.slashfilm.com/img/gallery/landman-billy-bob-thornton-john-ritter-sitcom-hearts-afire/l-intro-1793033367.jpg",
       "category": "Indie Gems"
-    },
-    {
-      "id": "3f1fa1be31957091",
-      "title": "Searchlight Pictures Marketing EVP Michelle Hooper Leaving Studio",
-      "quote": "EXCLUSIVE: We hear that Searchlight Pictures’ EVP of Marketing Michelle Hooper, who delivered the specialty label numerous Oscar nominations and wins during her two-decade tenure, is exiting. Hooper led publicity…",
-      "publisher": "Deadline",
-      "author": "Anthonypauldalessandro",
-      "date": "2026-10-27T00:31:25+00:00",
-      "link": "https://deadline.com/2026/10/searchlight-michelle-hooper-leaving-1237202751/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/Michelle-Hooper-Searchlight-Pictures.jpg",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "0c9141ecef9318bd",
-      "title": "Disney+ & Channel 4 Strike Landmark Deal In UK",
-      "quote": "Disney and Channel 4 have struck a landmark UK content deal that will also see the Channel 4 linear network become available on Disney+, a UK first. In one of the biggest deals of its kind in UK TV history, shows like…",
-      "publisher": "Deadline",
-      "author": "Max Goldbart",
-      "date": "2026-10-27T00:01:00+00:00",
-      "link": "https://deadline.com/2026/10/disney-plus-channel-4-strike-uk-content-deal-maya-celeb-sas-1237173234/",
-      "image": "https://deadline.com/wp-content/uploads/2026/06/Maya-2.jpg",
-      "category": "World Cinema"
     },
     {
       "id": "04201ba8da2f760c",
@@ -138,6 +237,17 @@
       "date": "2026-10-26T22:00:00+00:00",
       "link": "https://www.slashfilm.com/2293487/robocop-peter-weller-sci-fi-show-canceled-odyssey-5/",
       "image": "https://www.slashfilm.com/img/gallery/robocop-star-peter-wellers-2000s-sci-fi-show-should-have-never-been-canceled/l-intro-1792611064.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "3d87ae192bbd4fc0",
+      "title": "Robert Pattinson praises \"completely selfless\" Stephen Soderbergh for rescuing The Batman: Part II",
+      "quote": "The Caped Crusader has nothing but positive things to say about the \"incredibly generous\" Stephen Soderbergh, who is currently helping finish The Batman: Part II.",
+      "publisher": "The A.V. Club",
+      "author": "Matt Schimkowitz",
+      "date": "2026-10-26T21:55:05+00:00",
+      "link": "https://www.avclub.com/robert-pattison-comments-steven-soderbergh-batman-part-ii",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/10/15/batman-header.jpg",
       "category": "Indie Gems"
     },
     {
@@ -182,17 +292,6 @@
       "date": "2026-10-26T21:11:37+00:00",
       "link": "https://www.avclub.com/owen-thiele-adults-potential-season-3-anton-paul-baker",
       "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/12094815/adults-season-2.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "deb37fc9a9115f4d",
-      "title": "Gilligan's Island's Creator Made A Short-Lived Sitcom Based On A Hit '70s Movie",
-      "quote": "Gilligan's Island creator Sherwood Schwartz reluctantly produced the first season of a short-lived 1970s sitcom inspired by a film and a song.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-10-26T21:00:00+00:00",
-      "link": "https://www.slashfilm.com/2294891/gilligans-island-creator-sherwood-schwartz-harper-valley-pta/",
-      "image": "https://www.slashfilm.com/img/gallery/gilligans-islands-creator-made-a-short-lived-sitcom-based-on-a-hit-70s-movie/l-intro-1792704818.jpg",
       "category": "Indie Gems"
     },
     {
@@ -248,28 +347,6 @@
       "date": "2026-10-26T18:41:42+00:00",
       "link": "https://www.avclub.com/ava-duvernay-14th-documentary-ai-use",
       "image": "https://www.avclub.com/wp-content/uploads/2026/10/26/14th-documentary-ava-duvernay-stacey-abrams-featured.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "8eb91612e26da2e9",
-      "title": "R.I.P. Walter Koenig, Star Trek's original Chekov",
-      "quote": "Best known for his supporting turn aboard the Starship Enterprise, Walter Koenig, who played Chekov on Star Trek, was 90.",
-      "publisher": "The A.V. Club",
-      "author": "Matt Schimkowitz",
-      "date": "2026-10-26T18:22:14+00:00",
-      "link": "https://www.avclub.com/walter-koenig-star-trek-chekov-obituary",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/10/26/walter-koenig-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "38f01fcee2c50f5a",
-      "title": "Wildwood doesn't shy away from death, which makes it all the better for young audiences",
-      "quote": "Wildwood, Laika's first PG-13 rated movie, trusts kids to grapple with heavier themes.",
-      "publisher": "The A.V. Club",
-      "author": "Monica Castillo",
-      "date": "2026-10-26T17:00:16+00:00",
-      "link": "https://www.avclub.com/wildwood-laika",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/10/22/wildwood-2.jpg",
       "category": "Indie Gems"
     },
     {
@@ -361,50 +438,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "a1efe95d8127474b",
-      "title": "Why the real Christopher Robin resented Pooh Bear",
-      "quote": "AA Milne's son told the BBC that he took to \"avoiding the subject\"",
-      "publisher": "BBC Culture",
-      "author": null,
-      "date": "2026-10-26T11:00:00+00:00",
-      "link": "https://www.bbc.com/culture/article/20261023-why-the-real-christopher-robin-resented-winnie-the-pooh?ocid=global_culture_rss",
-      "image": "https://ychef.files.bbci.co.uk/144x81/p0pj5lmf.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "c46ac6fd43e8659c",
-      "title": "A flower named Chezhiyan: Sreekar Prasad remembers the filmmaker whose final film heads to Tokyo",
-      "quote": "The National Award-winning film editor on the late Tamil cinematographer-director-author whose The Paper Flower will premiere at the 39th Tokyo International Film Festival",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-26T10:05:49+00:00",
-      "link": "https://www.thehindu.com/entertainment/chezhiyan-sreekar-prasad-the-paper-flower-tokyo-film-festival/article71603460.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/d9wiau/article71613481.ece/alternates/LANDSCAPE_1200/Untitled%20design%20-%202026-10-23T030149.975.jpg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "15e03c2502a4edd9",
-      "title": "‘Dilwali Diwali’: Netflix announces new family-drama for festive season",
-      "quote": "The film stars Mihir Ahuja, Manoj Pahwa, Neelu Kohli and Aurra Bhatnagar in pivotal roles",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-26T09:57:48+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/dilwali-diwali-netflix-announces-new-family-drama-for-festive-season/article71626368.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/m2fbyu/article71626376.ece/alternates/LANDSCAPE_1200/A%20poster%20of%20%E2%80%98Dilwali%20Diwali%E2%80%99",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "8d9f490484004ee2",
-      "title": "‘Beparwah’: Ahaan Panday and Sharvari’s upcoming romantic-actioner gets title and release date",
-      "quote": "The film is produced by Yash Raj Films, directed by Ali Abbas Zafar and also stars Aaishvary Thackeray and Bobby Deol in pivotal roles.",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-26T09:18:25+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/beparwah-ahaan-panday-and-sharvaris-upcoming-romantic-actioner-gets-title-and-release-date/article71626200.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/qorivw/article71626207.ece/alternates/LANDSCAPE_1200/Ahaan%20Panday%20and%20Sharvari%20in%20the%20poster%20of%20%E2%80%98Beparwah%E2%80%99%20",
-      "category": "Indian Cinema"
-    },
-    {
       "id": "63ccc0152a3a06cf",
       "title": "All About the Money review – confusion and compelling weirdness of wealthy leftwing heir",
       "quote": "This profile of James ‘Fergie’ Chambers, who set up a commune in rural Massachusetts and is fighting extradition from Spain, is a brave attempt to package a complex character and story For a film that dispenses a lot of…",
@@ -416,28 +449,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "43e142907b72e1be",
-      "title": "‘Vicarious wish-fulfillment’: why That Thing You Do! is my feelgood movie",
-      "quote": "The latest in our ongoing series of writers explaining their most rewatched comfort films is a journey back to the 90s for Tom Hanks’ heartfelt 60s-set music comedy “How did we get here?” That’s the question Steve…",
-      "publisher": "The Guardian",
-      "author": "Stephen Snart",
-      "date": "2026-10-26T09:00:27+00:00",
-      "link": "https://www.theguardian.com/film/2026/oct/26/that-thing-you-do-feelgood-movie",
-      "image": "https://i.guim.co.uk/img/media/f2e83c195ef9dd5d884e84854d662f2dd5497016/0_75_2095_1677/master/2095.jpg?width=140&quality=85&auto=format&fit=max&s=11acfdae4ee13ed46ac1cdf4b289dd1c",
-      "category": "World Cinema"
-    },
-    {
-      "id": "8ee6cebea7eb200a",
-      "title": "‘Jailer 2’ movie review: Rajinikanth’s flourishes elevate Nelson’s rousing herogasm",
-      "quote": "Nelson betters the ‘Jailer’ template with a well-calibrated sequel that knows when to let Rajini loose and fills the in-between stretches with riotous humour and narrative build-up",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-26T08:44:15+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/jailer-2-movie-review-superstar-rajinikanth-nelson-shivarajkumar-mohanlal-anirudh-ravichander/article71587540.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/nwzvr2/article71587609.ece/alternates/LANDSCAPE_1200/rajinikanth%20jailer2.jpeg",
-      "category": "Indian Cinema"
-    },
-    {
       "id": "69f70beee64a5ab2",
       "title": "Ever Since I Knew Myself review – confronting the scars of childhood",
       "quote": "Maka Gogaladze’s debut feature looks at generational differences in the context of Georgia’s education system and emphasis on collectivism The scars imprinted on impressionable young minds can never fully fade away…",
@@ -446,17 +457,6 @@
       "date": "2026-10-26T07:00:25+00:00",
       "link": "https://www.theguardian.com/film/2026/oct/26/ever-since-i-knew-myself-review-documentary-georgia",
       "image": "https://i.guim.co.uk/img/media/598566db5c765a3afab9827a8e399b04597969d4/949_0_5981_4787/master/5981.jpg?width=140&quality=85&auto=format&fit=max&s=341c1bcdef31fe3e44869afa9815f94a",
-      "category": "World Cinema"
-    },
-    {
-      "id": "4b896f0449c370c3",
-      "title": "‘Nothing worked for me until I was clean and sober’: Ashley Walters on acting, directing – and turning his life around",
-      "quote": "In Adolescence he proved himself one of the UK’s best actors. Now he has directed his first film, Animol. He reflects on the road from prison and addiction to soaring success Ashley Walters seems to have lived his life…",
-      "publisher": "The Guardian",
-      "author": "Steve Rose",
-      "date": "2026-10-26T05:00:22+00:00",
-      "link": "https://www.theguardian.com/film/2026/oct/26/ashley-walters-on-acting-directing-animol",
-      "image": "https://i.guim.co.uk/img/media/36ea7ebaef65f1c285e4a94492be673b32493d59/1828_0_2838_2270/master/2838.jpg?width=140&quality=85&auto=format&fit=max&s=204225025a78aad090370df195a09e39",
       "category": "World Cinema"
     },
     {
@@ -592,17 +592,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "39c8663d8455aa46",
-      "title": "The duchess charged with treason and witchcraft",
-      "quote": "Was 15th-Century 'royal witch' Eleanor Cobham a satanist or a political pawn?",
-      "publisher": "BBC Culture",
-      "author": null,
-      "date": "2026-10-23T11:00:00+00:00",
-      "link": "https://www.bbc.com/culture/article/20261022-the-15th-century-duchess-charged-with-treason-and-witchcraft?ocid=global_culture_rss",
-      "image": "https://ychef.files.bbci.co.uk/144x81/p0pj1hdp.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "9575f680f7e33f39",
       "title": "‘Ali G: Who Iz I?’ Review: Sacha Baron Cohen Brings Back His Cretinous Fake OG Talk-Show Host, Only Now Ali G Is the Film’s ‘Political’ Subject. A Mistake, Innit?",
       "quote": "By turning Ali G into the doofus antihero of his own absurdist saga, \"Who Iz I?\" essentially becomes Sacha Baron Cohen’s version of a \"Saturday Night Live\" movie, like \"MacGruber\" or \"Stuart Saves His Family\" or \"A…",
@@ -622,17 +611,6 @@
       "date": "2026-10-22T15:00:00+00:00",
       "link": "https://www.hollywoodreporter.com/movies/movie-reviews/ali-g-who-iz-i-review-sacha-baron-cohen-1236736219/",
       "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "f07da26c1f86effb",
-      "title": "Why women are wild for freaky film romance Wicker",
-      "quote": "The premise about a woman with a wooden husband has created an online frenzy",
-      "publisher": "BBC Culture",
-      "author": null,
-      "date": "2026-10-22T11:00:00+00:00",
-      "link": "https://www.bbc.com/culture/article/20261021-why-women-are-going-wild-for-freaky-film-romance-wicker?ocid=global_culture_rss",
-      "image": "https://ychef.files.bbci.co.uk/144x81/p0phz27t.jpg",
       "category": "World Cinema"
     },
     {
@@ -658,17 +636,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "8db5b7f4e74fb50e",
-      "title": "12 of the best films to watch in November",
-      "quote": "From Elsinore to The Hunger Games: Sunrise on the Reaping",
-      "publisher": "BBC Culture",
-      "author": null,
-      "date": "2026-10-21T11:00:00+00:00",
-      "link": "https://www.bbc.com/culture/article/20261020-12-of-the-best-films-to-watch-in-november?ocid=global_culture_rss",
-      "image": "https://ychef.files.bbci.co.uk/144x81/p0phnvsj.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "f71ba7d1235f6fe7",
       "title": "‘Klara and the Sun’ Review: Jenna Ortega and Amy Adams Should Have Insisted on a Factory Reset for Taika Waititi’s Cloying, Clumsy AI Fable",
       "quote": "Newcomer Mia Tharia, Natasha Lyonne and Steve Buscemi also star in this adaptation of the Kazuo Ishiguro novel about the unique qualities of being human that cannot be replicated.",
@@ -677,28 +644,6 @@
       "date": "2026-10-20T15:00:23+00:00",
       "link": "https://www.hollywoodreporter.com/movies/movie-reviews/klara-and-the-sun-review-jenna-ortega-taika-waititi-1236735986/",
       "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "ec8742814cbeca6b",
-      "title": "A medieval assault survivor's quest for justice",
-      "quote": "The story of one woman's fight after surviving a sexual assault in 1472",
-      "publisher": "BBC Culture",
-      "author": null,
-      "date": "2026-10-20T11:00:00+00:00",
-      "link": "https://www.bbc.com/culture/article/20261019-the-true-story-of-a-15th-century-sexual-assault-survivors-quest-for-justice?ocid=global_culture_rss",
-      "image": "https://ychef.files.bbci.co.uk/144x81/p0phjjsn.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "bac167786f7c4ee7",
-      "title": "How the Kennedys averted the Cuban missile crisis",
-      "quote": "In October 1962, the world came to the brink of nuclear war",
-      "publisher": "BBC Culture",
-      "author": null,
-      "date": "2026-10-19T11:00:00+00:00",
-      "link": "https://www.bbc.com/culture/article/20261015-the-men-who-averted-the-1962-cuban-missile-crisis?ocid=global_culture_rss",
-      "image": "https://ychef.files.bbci.co.uk/144x81/p0pgz07l.jpg",
       "category": "World Cinema"
     },
     {
@@ -735,28 +680,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "bfc62692d4819208",
-      "title": "Hollywood stars on films that mean most to them",
-      "quote": "Stars step into the BBC's exclusive photo studio",
-      "publisher": "BBC Culture",
-      "author": null,
-      "date": "2026-10-17T11:00:12+00:00",
-      "link": "https://www.bbc.com/culture/article/20261015-hollywood-stars-on-the-films-that-mean-most-to-them?ocid=global_culture_rss",
-      "image": "https://ychef.files.bbci.co.uk/144x81/p0ph2vym.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "2423e2c85489fc33",
-      "title": "The trailblazing erotic art of Lavinia Fontana",
-      "quote": "How Lavinia Fontana's surprisingly suggestive work blazed a trail in art history",
-      "publisher": "BBC Culture",
-      "author": null,
-      "date": "2026-10-16T11:00:00+00:00",
-      "link": "https://www.bbc.com/culture/article/20261015-the-trailblazing-erotic-art-of-lavinia-fontana?ocid=global_culture_rss",
-      "image": "https://ychef.files.bbci.co.uk/144x81/p0ph1vyz.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "ebd74be33725e2fc",
       "title": "‘Norm: The Tale of Norm Macdonald’ Review: Judd Apatow’s Comedy Doc Sends Viewers Down a Laugh-Filled Rabbit Hole",
       "quote": "The Netflix film skips traditional talking heads for a more archival approach to the 'Saturday Night Live' comedy legend.",
@@ -787,17 +710,6 @@
       "date": "2026-10-14T16:00:00+00:00",
       "link": "https://www.hollywoodreporter.com/movies/movie-reviews/whalefall-review-austin-abrams-josh-brolin-brian-duffield-1236729610/",
       "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "906a30b44513a3d9",
-      "title": "Wildwood review – Laika’s pleasingly old fashioned stop-motion magic-forest odyssey",
-      "quote": "The makers of Coraline return with their distinctive animation style in a magical tale of a secret world of strange beasts, talking animals and evil governesses Here is an engaging family movie from the Portland-based…",
-      "publisher": "The Guardian",
-      "author": "Peter Bradshaw",
-      "date": "2026-10-11T13:21:20+00:00",
-      "link": "https://www.theguardian.com/film/2026/oct/11/wildwood-review-carey-mulligan-laika",
-      "image": "https://i.guim.co.uk/img/media/f707330ce8f93700ee5d4ae17aaf115e7e70f3c0/709_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=fcfb8737f75e8497636311974ad90bf9",
       "category": "World Cinema"
     },
     {
