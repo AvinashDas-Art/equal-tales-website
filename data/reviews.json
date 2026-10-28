@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T05:12:09.307189+00:00",
+  "generated_at": "2026-10-28T12:34:27.040887+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -8,6 +8,259 @@
     "Indie Gems"
   ],
   "reviews": [
+    {
+      "id": "9a14bd1d1c0bc10b",
+      "title": "Absolute Batman's Joker Has An Even Wilder Backstory Than We Thought",
+      "quote": "While you should never trust the Joker too much, Absolute Batman #25 suggests the Absolute version of the villain may be far older than previously indicated.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Devin Meenan)",
+      "date": "2026-10-28T12:12:46+00:00",
+      "link": "https://www.slashfilm.com/2299301/absolute-batman-joker-backstory-explained/",
+      "image": "https://www.slashfilm.com/img/gallery/absolute-batmans-joker-has-an-even-wilder-backstory-than-we-thought/l-intro-1793189349.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "4553ae5224398ca8",
+      "title": "Róisín Burns, Bernhard Wenger, Mikko Myllylahti & Benedikt Erlingsson Set For Les Arcs Coproduction Village",
+      "quote": "France‘s Les Arcs Coproduction Village has unveiled the 17 European feature film projects selected for its 18th edition in December. One of the most convivial coproduction markets of the year, the showcase is part of…",
+      "publisher": "Deadline",
+      "author": "Melanie Goodfellow",
+      "date": "2026-10-28T12:08:52+00:00",
+      "link": "https://deadline.com/2026/10/les-arcs-coproduction-village-2026-selection-1237206975/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/NICOL-Claire-NIC_1766-copie.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "272bf5239fde77f8",
+      "title": "Sphere Media & Paul Barbeau Team Up To Bring TV Drama To Quebec",
+      "quote": "EXCLUSIVE: Bruno Dubé’s Sphere Media and Canadian producer Paul Barbeau have joined forces to bring international TV drama series to Quebec. Sphere’s recent drama credits include Cardinal and Netflix’s Mae…",
+      "publisher": "Deadline",
+      "author": "Stewart Clarke",
+      "date": "2026-10-28T12:04:13+00:00",
+      "link": "https://deadline.com/2026/10/sphere-media-paul-barbeau-quebec-tv-scripted-drama-1237206962/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/sphere-media.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "07edebc4d92931e4",
+      "title": "‘Alan Jackson: The Last Show’ Special Set At NBC",
+      "quote": "NBC will celebrate Alan Jackson’s long career and final concert performance in upcoming special Alan Jackson: The Last Show. The two-hour special will air on NBC December 8 at 8 pm ET/PT and will stream next day on…",
+      "publisher": "Deadline",
+      "author": "Denise Petski",
+      "date": "2026-10-28T12:00:00+00:00",
+      "link": "https://deadline.com/2026/10/alan-jackson-the-last-show-special-nbc-1237206783/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/Alan-JAckson.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "ca52e8a3fd93e4e9",
+      "title": "‘Ayyana Mane 2’ series review: A promising murder mystery undone by uneven writing",
+      "quote": "In the Kannada series ‘Ayyana Mane 2’, some threads stretch a bit while the big twists land mainly near the end, making it a passable watch",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-28T11:51:10+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/ayyana-mane-season-2-series-review-kannada-series-zee-5-kushee-ravi/article71635508.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/14opv4/article71635562.ece/alternates/LANDSCAPE_1200/Ayyana%20Mane%202.jpeg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "50c2f6e179da444c",
+      "title": "Keralam govt approves J.C. Daniel film city project at Kinfra’s Petrochemicals Park in Ambalamugal",
+      "quote": "Around 30 acres will be utilised for the project, which is estimated to cost about ₹100 crore. Tender proceedings for finalising design framework, to be implemented in a public-private partnership mode, will be…",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-28T11:30:34+00:00",
+      "link": "https://www.thehindu.com/news/national/kerala/keralam-govt-approves-jc-daniel-film-city-project-at-kinfras-petrochemicals-park-in-ambalamugal/article71634590.ece",
+      "image": "https://th-i.thgim.com/public/news/national/kerala/1ukfuc/article71635395.ece/alternates/LANDSCAPE_1200/01tv%20movie%20sets.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "01814d85e5786780",
+      "title": "‘Jailer 2’: How singer MS Krsna landed a song with Rajinikanth and Anirudh",
+      "quote": "From indie music to a song in Rajinikanth’s latest hit, MS Krsna is finding his moment in the spotlight",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-28T11:16:12+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/jailer-2-how-singer-ms-krsna-landed-a-song-with-rajinikanth-and-anirudh/article71626340.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/c72pw5/article71626375.ece/alternates/LANDSCAPE_1200/MS%20Krsna%20Rajinkanth%20Jailer%202.jpg.jpeg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "bcca3c8f75988232",
+      "title": "The Devils review – Ken Russell’s 1971 possessed-nuns tale is a frenzied aria of confrontation and hysteria",
+      "quote": "Oliver Reed and Vanessa Redgrave put in the performances of their lives in this film originally banned for obscenity that highlights the violence of power ‘I could never be Satan’s boy. I haven’t the humility.” The…",
+      "publisher": "The Guardian",
+      "author": "Peter Bradshaw",
+      "date": "2026-10-28T11:00:01+00:00",
+      "link": "https://www.theguardian.com/film/2026/oct/28/the-devils-review-ken-russell-oliver-reed-vanessa-redgrave",
+      "image": "https://i.guim.co.uk/img/media/075f292ff0a60aef3f54026534ce2c6f3ac7a5fe/1121_134_2209_1769/master/2209.jpg?width=140&quality=85&auto=format&fit=max&s=bd16b8dc6d5d46787df01320f09aab09",
+      "category": "World Cinema"
+    },
+    {
+      "id": "c1ef73bdf13eb757",
+      "title": "Film buffs love it. Trump and Tom Hanks hosted it. Can TCM survive a Hollywood mega-merger?",
+      "quote": "Since 1994, Turner Classic Movies has been a haven for old film lovers. Now with Skydance’s David Ellison calling the shots, fans are panicking over its unclear future I have made many attempts to lessen the existential…",
+      "publisher": "The Guardian",
+      "author": "Alaina Demopoulos",
+      "date": "2026-10-28T11:00:01+00:00",
+      "link": "https://www.theguardian.com/film/ng-interactive/2026/oct/28/turner-classic-movies-skydance-merger",
+      "image": "https://i.guim.co.uk/img/media/4ee095f7bae6f38b04b00f68159333b5f6396e43/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=09e355e017fb74ea01335282d7399c8d",
+      "category": "World Cinema"
+    },
+    {
+      "id": "76540bcb2f954f12",
+      "title": "The Parisian women who defied the 1800 trouser ban",
+      "quote": "10 remarkable images of the 19th-Century women who bravely flouted the law",
+      "publisher": "BBC Culture",
+      "author": null,
+      "date": "2026-10-28T11:00:00+00:00",
+      "link": "https://www.bbc.com/culture/article/20261027-10-images-of-19th-century-parisian-women-who-rebelled-against-the-trouser-ban?ocid=global_culture_rss",
+      "image": "https://ychef.files.bbci.co.uk/144x81/p0pjv1hc.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "8ac6e7db94abe17c",
+      "title": "Kristen Brancaccio To Direct Microdrama & Feature Adaptations Of Claren Hammond’s Short Story ‘Summer Session’",
+      "quote": "EXCLUSIVE: Clarence Hammond’s romantic short story Summer Session is in development as a microdrama and a feature film. Microdrama veteran Kristen Brancaccio will direct both versions, and will develop the story in…",
+      "publisher": "Deadline",
+      "author": "Jesse Whittock",
+      "date": "2026-10-28T10:53:44+00:00",
+      "link": "https://deadline.com/2026/10/summer-session-clarence-hammond-microdrama-feature-film-1237206927/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/Clarence-Hammond-and-Kristen-Bracaccio.png",
+      "category": "World Cinema"
+    },
+    {
+      "id": "37f19f56b5fb0477",
+      "title": "Russell Brand Forcefully Denies Charges As He Gives Evidence During Rape Trial: “Consent Is More Important Than Sex Itself”",
+      "quote": "Russell Brand has claimed that “consent is more important than sex itself” as he forcefully denied the rape charges against him during a trial in London. Taking to the witness stand at Southwark Crown Court on Wednesday…",
+      "publisher": "Deadline",
+      "author": "Max Goldbart",
+      "date": "2026-10-28T10:19:29+00:00",
+      "link": "https://deadline.com/2026/10/russell-brand-takes-stand-defences-case-crown-court-1237206934/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/GettyImages-2300622162-e1792662491351.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "b5be25e88b95311f",
+      "title": "‘CID’, ‘Aahat’ maker BP Singh dies at 75",
+      "quote": "Singh was best known for creating ‘CID,’ the crime investigation series that premiered in 1998 and went on to become one of the longest-running shows on Indian television",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-28T10:17:36+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/cid-aahat-maker-bp-singh-dies-at-75/article71635294.ece",
+      "image": "https://th-i.thgim.com/public/incoming/kmneg1/article71635357.ece/alternates/LANDSCAPE_1200/23dmc_bpsingh.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "a976a1b87bf6dd00",
+      "title": "Banijay Rights Names CFO As John Wagener Exits After 20 Years",
+      "quote": "The final piece of the Banijay Rights jigsaw is in place with John Richards named CFO of the combined sales operation. With that, John Wagener, All3Media International’s long-serving CFO and COO, is exiting after two…",
+      "publisher": "Deadline",
+      "author": "Max Goldbart",
+      "date": "2026-10-28T10:02:41+00:00",
+      "link": "https://deadline.com/2026/10/banijay-rights-cfo-john-richards-john-wagener-exits-1237206920/",
+      "image": "https://deadline.com/wp-content/uploads/2026/07/0_Peaky-Blinders.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "e19de7d42ef226c0",
+      "title": "Netflix Lifts Lid On German Romantic Comedy ‘Oktoberfest’",
+      "quote": "Netflix has unveiled the cast and a first image for Simon Verhoeven’s German-language romantic comedy Oktoberfest, set against the backdrop of the country’s world-famous beer festival in Munich. Jeanne Goursaud…",
+      "publisher": "Deadline",
+      "author": "Melanie Goodfellow",
+      "date": "2026-10-28T10:00:05+00:00",
+      "link": "https://deadline.com/2026/10/netflix-german-romantic-comedy-oktoberfest-1237206922/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/SEP_260923_LS_A1-07794_SOP.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "98f5a09fc62e1502",
+      "title": "‘Gondhal’: Makers of India’s Oscar entry unveil global trailer ahead of theatrical re-release",
+      "quote": "Directed by Santosh Davakhar, the film will be re-released in seven languages in India, the USA, the UK, Europe, Australia, Dubai, and Africa",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-28T09:47:46+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/gondhal-makers-of-indias-oscar-entry-unveil-global-trailer-ahead-of-theatrical-re-release/article71635191.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/dn0f2w/article71635203.ece/alternates/LANDSCAPE_1200/A%20still%20from%20%E2%80%98Gondhal%E2%80%99",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "6abf7a2a7b454828",
+      "title": "Saiyami Kher to make international film debut with Indo-Russian drama",
+      "quote": "Directed by Maksim Kuznetsov and produced by Kartina Entertainment, White Night Films and Wish Media, the film marks a cross-cultural collaboration",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-28T09:21:27+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/saiyami-kher-to-make-international-film-debut-with-indo-russian-drama/article71635124.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/bsasu7/article71635132.ece/alternates/LANDSCAPE_1200/Saiyami%20Kher",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "3f176db821ad2be1",
+      "title": "Ahead of ‘Aadarsha Kutumbam’, Trivikram Srinivas hails Venkatesh as a family-drama superstar",
+      "quote": "At the pre-release event of ‘Aadarsha Kutumbam - House No.47’, Trivikram Srinivas thanks Venkatesh for his support at the early stage of his career",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-28T09:20:51+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/ahead-of-aadarsha-kutumbam-trivikram-srinivas-hails-venkatesh-as-a-family-drama-superstar/article71635084.ece",
+      "image": "https://th-i.thgim.com/public/incoming/sjndcn/article71635099.ece/alternates/LANDSCAPE_1200/AK47%20Teaser%20Thumb.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "e79981bc6f8210f5",
+      "title": "Prime Video Germany Names Former Netflix Film Exec Sasha Bühler As Originals Chief",
+      "quote": "EXCLUSIVE: Prime Video has named former Netflix Germany film chief Sasha Bühler as Philip Pratt’s successor at the Amazon streamer. Bühler has been named Head of German Originals at Prime Video and Amazon MGM Studios…",
+      "publisher": "Deadline",
+      "author": "Jesse Whittock",
+      "date": "2026-10-28T09:18:47+00:00",
+      "link": "https://deadline.com/2026/10/prime-video-hires-sasha-buhler-germany-originals-1237206896/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/Buehler_Sasha_61-e1793178834653.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "b0cbb60eb7ce1b13",
+      "title": "Everest: The Other Side review – couple’s climb on the mountain’s toughest face comes with tricky moral questions over their lofty ambitions",
+      "quote": "Immersive portrait of mountaineers Jim Morrison and Hilaree Nelson as they seek to become the first people to ski down Everest’s north face With some of its showings in the huge Imax format, this National…",
+      "publisher": "The Guardian",
+      "author": "Leslie Felperin",
+      "date": "2026-10-28T09:00:02+00:00",
+      "link": "https://www.theguardian.com/film/2026/oct/28/everest-other-side-documentary-movie-review-jim-morrison-hilaree-nelson",
+      "image": "https://i.guim.co.uk/img/media/9156ec9a14a257330f047e3feba0a4b9a5cb3cf4/199_0_2500_2001/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=af97d8e87df51e8caa394790b3e822de",
+      "category": "World Cinema"
+    },
+    {
+      "id": "287bd9574982f0b3",
+      "title": "'Ramayana': Ranbir Kapoor, Yash, and Sai Pallavi attend the film’s world premiere in US ahead of theatrical release",
+      "quote": "The star-studded world premiere of ‘Ramayana’ was organised at the David Geffen Theatre of the Academy Museum of Motion Pictures in Los Angeles.",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-28T07:51:41+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/ramayana-ranbir-kapoor-yash-and-sai-pallavi-attend-the-films-world-premiere-in-us-ahead-of-theatrical-release/article71634857.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/g49im1/article71634890.ece/alternates/LANDSCAPE_1200/cvr%20-%202026-10-28T131653.755.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "1b81755a065563cb",
+      "title": "Peter Asher: Everywhere Man review – music-biz face from Beatles-buddy pop act to superstar producer",
+      "quote": "Backstory of modest industry veteran who started out as one half of pop duo Peter and Gordon, and went on to produce acts such as James Taylor and Linda Ronstadt Rock’n’roll is notorious for its tales of bad behaviour…",
+      "publisher": "The Guardian",
+      "author": "Andrew Pulver",
+      "date": "2026-10-28T07:00:03+00:00",
+      "link": "https://www.theguardian.com/film/2026/oct/28/peter-asher-everywhere-man-review-from-singer-of-beatles-cast-offs-to-super-star-producer",
+      "image": "https://i.guim.co.uk/img/media/486ee3f09a27338ff2a97f134066502504f02769/141_249_1486_1189/master/1486.jpg?width=140&quality=85&auto=format&fit=max&s=bc5cb22a6dd13f7d6bab4efc5fe59b30",
+      "category": "World Cinema"
+    },
+    {
+      "id": "3ee69b3fa6f481c3",
+      "title": "Post your questions for Alex Cox",
+      "quote": "As the cult director of Repo Man and Sid and Nancy prepares to release his final film, Dead Souls, he takes your questions Everybody has their swansong, whether they know it or not. But for Alex Cox, his latest film…",
+      "publisher": "The Guardian",
+      "author": "Rich Pelley",
+      "date": "2026-10-28T06:00:04+00:00",
+      "link": "https://www.theguardian.com/film/2026/oct/28/post-your-questions-for-alex-cox",
+      "image": "https://i.guim.co.uk/img/media/9c7ec3ce96c482041b3c52c4d5629eb10fe4b068/60_362_2697_2159/master/2697.jpg?width=140&quality=85&auto=format&fit=max&s=fc19d68283c526291d303cd6125b227f",
+      "category": "World Cinema"
+    },
     {
       "id": "82ae386a4e37b930",
       "title": "‘It’s the gay Titanic!’ Inside La Bola Negra, the maximalist queer spectacular bound for Oscars glory",
@@ -20,92 +273,15 @@
       "category": "Festival Winners"
     },
     {
-      "id": "42305fd7042b9be1",
-      "title": "Jafar Panahi sentenced to five years in prison in Iran, faces new ruling on top of previous one-year conviction",
-      "quote": "The new ruling against the Palme d’Or-winning filmmaker comes amid continuing legal proceedings in Iran, with the court also ordering the confiscation of his assets and imposing two-year travel and social media bans",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-28T04:51:09+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/jafar-panahi-sentenced-to-five-years-in-prison-in-iran-faces-new-ruling-on-top-of-previous-one-year-conviction/article71634343.ece",
-      "image": "https://th-i.thgim.com/public/incoming/pv9iu7/article71634348.ece/alternates/LANDSCAPE_1200/IMG_Jafar_Panahi_in_a_st_2_1_98FLTMKC.jpg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "300ed307d4d1c7de",
-      "title": "‘Magazine’: How Shubham Shevade turned a Maharashtra village into a dazzling Marathi indie",
-      "quote": "The debutant writer-director opens about returning from Los Angeles to India to tell his own stories, how the unconventional structure of ‘Magazine’ took shape, why he thinks he was delusional during production, and more",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-28T04:34:16+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/magazine-how-shubham-shevade-turned-a-maharashtra-village-into-a-dazzling-marathi-indie/article71631249.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/g75j8p/article71631321.ece/alternates/LANDSCAPE_1200/Shubham%20Shevade%20and%20a%20still%20from%20%E2%80%98Magazine%E2%80%99",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "7ad473d596401cb0",
-      "title": "Anandhi interview: Garividi Lakshmi was my toughest role, but the hardships feel trivial now",
-      "quote": "Anandhi talks about portraying Burra Katha artiste Garividi Lakshmi on screen, shunning social media, and having a life beyond cinema",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-28T04:33:45+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/anandhi-interview-garividi-lakshmi-was-my-toughest-role-but-the-hardships-feel-trivial-now/article71630936.ece",
-      "image": "https://th-i.thgim.com/public/incoming/oxnzj9/article71630986.ece/alternates/LANDSCAPE_1200/Anandhi%203.jpg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "6aad920126729be1",
-      "title": "Carrie Ann Inaba & Val Chmerkovskiy Hug It Out After ‘Dancing With The Stars’ Suspension Drama",
-      "quote": "It was all professional between Carrie Ann Inaba and pro dancer Val Chmerkovskiy on the Dancing with the Stars set after all the drama. The judge and the contestant hugged it out on the set of the ABC dance competition…",
-      "publisher": "Deadline",
-      "author": "Armando Tinoco",
-      "date": "2026-10-28T04:05:20+00:00",
-      "link": "https://deadline.com/2026/10/carrie-ann-inaba-val-chmerkovskiy-hug-dancing-with-the-stars-suspension-drama-1237206864/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/carrie-ann-inaba-Val-Chmerkovskiy-dwts-abc.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "c8d115eef83fcd9c",
-      "title": "Entertainment Hits $332.B To Become World’s Second Most Valuable Sector As Netflix, YouTube & Spotify Fly – Interbrand Report",
-      "quote": "Hollywood is struggling with layoffs and budget cuts, but entertainment just overtook the automotive industry to become the world’s second-largest business sector. That’s according to consultancy Interbrand, whose…",
-      "publisher": "Deadline",
-      "author": "Jesse Whittock",
-      "date": "2026-10-28T04:01:00+00:00",
-      "link": "https://deadline.com/2026/10/entertainment-second-most-valuable-interbrand-global-report-1237206126/",
-      "image": "https://deadline.com/wp-content/uploads/2026/06/hollywood-sign.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "fe17a5f401a05171",
-      "title": "Yuriko Gamo Romer & Marc Smolowitz On The 12 Year Journey Behind Their Japanese-U.S. History Baseball Doc ‘Diamond Diplomacy’ — Tokyo",
-      "quote": "After a year on the U.S. festival circuit, with buzzy stops at Mill Valley and Hot Springs, Diamond Diplomacy, the feature documentary from San Francisco-based filmmaker Yuriko Gamo Romer, receives its first…",
-      "publisher": "Deadline",
-      "author": "Zac Ntim",
-      "date": "2026-10-28T02:51:03+00:00",
-      "link": "https://deadline.com/2026/10/yuriko-gamo-romer-marc-smolowitz-diamond-diplomacy-tokyo-1237206812/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/s-1927.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "62b2b9666f19f224",
-      "title": "CNN’s Scott Jennings Hit With $72.5M Suit By Hasan Piker Over “Manipulated” Lynching Misquote",
-      "quote": "In a blistering response to Scott Jennings allegedly using “a false, fabricated, and manipulated video” claiming Hasan Piker wants to bring back lynching of Black Americans, the left-wing streamer plans to take the CNN…",
-      "publisher": "Deadline",
-      "author": "Dominic Patten",
-      "date": "2026-10-28T02:41:53+00:00",
-      "link": "https://deadline.com/2026/10/scott-jennings-sued-hasan-piker-lynching-misquote-defamation-1237206831/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/scott-jennings-hasan-piker.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "af5e5dc39b36e8a9",
-      "title": "Former ‘Bachelor’ Host Chris Harrison On Cease-And-Desist Over Fox Nation’s ‘The Vow’: “Jealousy Is A Tough Thing”",
-      "quote": "Chris Harrison is pushing back against a cease-and-desist letter over his new dating show, The Vow, after it drew comparisons to his previous show, The Bachelor. In a recent interview, the television host had some words…",
-      "publisher": "Deadline",
-      "author": "Armando Tinoco",
-      "date": "2026-10-28T02:40:05+00:00",
-      "link": "https://deadline.com/2026/10/bachelor-chris-harrison-cease-desist-fox-nation-the-vow-1237206841/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/chris-harrison-the-vow-the-bachelor-fox-nation.jpg",
-      "category": "World Cinema"
+      "id": "022b45f46ef08f92",
+      "title": "Love is in the air, but VisionQuest has lost its sense of direction again",
+      "quote": "VisionQuest falls back into old habits in two episodes that struggle to combine its desires for emotional stories and fun action.",
+      "publisher": "The A.V. Club",
+      "author": "Sam Barsanti",
+      "date": "2026-10-28T03:56:07+00:00",
+      "link": "https://www.avclub.com/visionquest-recap-episode-5-firewall-episode-6-deadlock",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/10/28/jocasta1.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "e79e4c45917bb775",
@@ -117,39 +293,6 @@
       "link": "https://www.slashfilm.com/2297131/visionquest-avengers-age-of-ultron-plot-hole-explained/",
       "image": "https://www.slashfilm.com/img/gallery/visionquest-finally-explains-the-biggest-plot-hole-from-avengers-age-of-ultron/l-intro-1793033514.jpg",
       "category": "Indie Gems"
-    },
-    {
-      "id": "ca8573aa81bdb1e8",
-      "title": "‘Dancing With The Stars’ Recap: 2 Couples Are Sent Packing On Horror Movie Night After Routines Inspired By ‘Sinners,’ ‘The Omen’ & More",
-      "quote": "SPOILER ALERT! This post contains details from this week’s episode of Dancing with the Stars. It’s one of the buzziest nights of the season on Dancing with the Stars: Halloween! This year, they’ve specifically themed…",
-      "publisher": "Deadline",
-      "author": "Katie Campione",
-      "date": "2026-10-28T01:59:11+00:00",
-      "link": "https://deadline.com/2026/10/dancing-with-the-stars-recap-season-35-horror-halloween-1237206671/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/183898_EM108447-900x0-copy.png",
-      "category": "World Cinema"
-    },
-    {
-      "id": "bd3ef28995f0e510",
-      "title": "William Shatner Remembers ‘Star Trek’ Co-Star Walter Koenig",
-      "quote": "William Shatner today paid tribute to his Star Trek co-star Walter Koenig after news of the latter’s recent death. The actor who originated the role of Ensign Pavel Chekov in the sci-fi series died at 90, and his former…",
-      "publisher": "Deadline",
-      "author": "Tomt",
-      "date": "2026-10-28T01:44:43+00:00",
-      "link": "https://deadline.com/2026/10/william-shatner-walter-koenig-death-star-trek-1237206821/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/shatnew-koenig.png",
-      "category": "World Cinema"
-    },
-    {
-      "id": "623922cf52d3d460",
-      "title": "IDA Documentary Awards Shortlists: ‘You Can See Everything,’ ‘To Hold A Mountain,’ ‘Nuisance Bear’ Make Features Cut, But What Got Snubbed?",
-      "quote": "The IDA Documentary Awards announced its shortlists of the year’s top documentaries Tuesday, boosting Oscar prospects for a select group of feature films and shorts. Some of the most touted documentaries of the year…",
-      "publisher": "Deadline",
-      "author": "Matthew Carey",
-      "date": "2026-10-28T01:41:20+00:00",
-      "link": "https://deadline.com/2026/10/ida-documentary-awards-2026-shortlists-1237206811/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/IDA-shortlists-split-5-shot-circle-1000x667-1.jpg",
-      "category": "Festival Winners"
     },
     {
       "id": "c4bc2b7ae058cb0c",
@@ -295,50 +438,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "09a56debbbe8f541",
-      "title": "‘In The Mood For Marriage’ series review: The chaos and charm of finding a partner",
-      "quote": "Over eight episodes, Kaushik HA’s Kannada web series ‘In The Mood For Marriage’ is a relatable and funny drama, powered by real chemistry between Shrunga BV and Hitha Chandrashekar",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-27T17:56:54+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/hitha-chandrashekar-shrunga-bv-in-the-mood-for-marriage-kannada-web-series-review-danka-studios/article71631309.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/iesbj7/article71631420.ece/alternates/LANDSCAPE_1200/In%20The%20Mood%20For%20Marriage.jpeg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "e94fb8ee38d87d3a",
-      "title": "Fewer subscribers are using their Netflix accounts",
-      "quote": "Fewer subscribers are using their Netflix accounts, according to a new report.",
-      "publisher": "The A.V. Club",
-      "author": "Jarrod Jones",
-      "date": "2026-10-27T17:51:25+00:00",
-      "link": "https://www.avclub.com/netflix-subscriber-use-has-dropped-bloomberg",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/10/14/netflix-header.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "440100493c6df978",
-      "title": "Netflix's Matthew Perry Documentary Is The Tribute The Friends Star Deserves",
-      "quote": "After years of bleak revelations about Friend star Matthew Perry's life, the Netflix documentary The One About Matthew Perry is a fitting tribute for the actor.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-10-27T17:49:31+00:00",
-      "link": "https://www.slashfilm.com/2298617/netflix-matthew-perry-documentary-friends-star-tribute/",
-      "image": "https://www.slashfilm.com/img/gallery/netflixs-matthew-perry-documentary-is-the-tribute-the-friends-star-deserves/l-intro-1793123032.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "3df7ddb6963b9071",
-      "title": "Tom Skerritt obituary",
-      "quote": "US actor who often played authority figures and was admired for his film roles in Alien, Top Gun and A River Runs Through It The lean, rugged US actor Tom Skerritt, who has died aged 93, was described by one…",
-      "publisher": "The Guardian",
-      "author": "Anthony Hayward",
-      "date": "2026-10-27T17:30:03+00:00",
-      "link": "https://www.theguardian.com/film/2026/oct/27/tom-skerritt-obituary",
-      "image": "https://i.guim.co.uk/img/media/d6375fdab7c85ee7fe691585e3ad9578d06c456b/215_0_2270_1816/master/2270.jpg?width=140&quality=85&auto=format&fit=max&s=c7b5e95b9944f2953e5e1a178a831944",
-      "category": "World Cinema"
-    },
-    {
       "id": "7e2e57750228ac10",
       "title": "‘Until the Day Ends’ Review: Two People Connect Across a Political Divide in a Striking Serbian Youth Drama",
       "quote": "Amid the turmoil of mass student protests in the streets of Belgrade, two young people are bonded by a rash act of rebellion, despite their outwardly incompatible ideologies. The premise of Serbian writer-director…",
@@ -383,83 +482,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "1d4df04bbcf08678",
-      "title": "‘The Cat in the Hat’: Writer-directors Alessandro Carloni and Erica Rivinoja on Dr. Seuss’s legacy of lunacy",
-      "quote": "He rhymed, he schemed, made nonsense routine, the feline menace with a flair for the obscene. With a tip of his hat and a flick of his tail, The Cat is back to let chaos prevail",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-27T09:08:39+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/the-cat-in-the-hat-writer-directors-alessandro-carloni-and-erica-rivinoja-on-dr-seusss-legacy-of-lunacy/article71627635.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/swfxbs/article71627741.ece/alternates/LANDSCAPE_1200/CAH202A_088793_High_Res_JPEG_custom-proxy.jpeg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "56ce7f151cec338e",
-      "title": "We, the Hated review – standing up to be abused: behind the scenes with Just Stop Oil",
-      "quote": "The levels of violence aimed at these protesters is depressing, but their aim is to save the planet: ‘If they want to destroy everything, they’ve got to go through us’ ‘Hated” is not putting it too strongly. The…",
-      "publisher": "The Guardian",
-      "author": "Cath Clarke",
-      "date": "2026-10-27T09:00:06+00:00",
-      "link": "https://www.theguardian.com/film/2026/oct/27/we-the-hated-review-standing-up-to-be-abused-behind-the-scenes-with-just-stop-oil",
-      "image": "https://i.guim.co.uk/img/media/6727ca45703d82bc7566c8f5911795dbee41eebb/531_179_1100_880/master/1100.jpg?width=140&quality=85&auto=format&fit=max&s=f5582d756d4209b101eda240c4896ae5",
-      "category": "World Cinema"
-    },
-    {
-      "id": "2ed3280046b5cdf8",
-      "title": "Vijay Deverakonda-Rashmika team files complaint over alleged false online narratives about actors",
-      "quote": "",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-27T08:33:09+00:00",
-      "link": "https://www.thehindu.com/news/cities/Hyderabad/vijay-deverakonda-rashmika-team-files-complaint-over-alleged-false-online-narratives-about-actors/article71630408.ece",
-      "image": "https://th-i.thgim.com/public/news/cities/Hyderabad/rau1zw/article71630426.ece/alternates/LANDSCAPE_1200/Vijay%20and%20Rashmika.jpeg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "c3125fbdbaf07175",
-      "title": "Prabhu Deva, Simran reunite for ‘Kamal Sridevi’, produced by Soundarya Rajinikanth",
-      "quote": "The film, directed by Krishnanand Kottarapattu, also stars Mithun Jai Shankar and Smeha in pivotal roles",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-27T08:02:19+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/prabhu-deva-simran-kamal-sridevi-soundarya-rajinikanth-gv-prakash-kumar/article71630273.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/dv17nk/article71630347.ece/alternates/LANDSCAPE_1200/minnal%20oru%20kodi.png",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "32ce5481009a5e56",
-      "title": "City of Masks review – theatreland ghost story with female phantom of the opera out for revenge",
-      "quote": "In a West End theatre, a young actor hears a disembodied voice coaching his singing. It’s the start of an icky ghost-on-human romance This ghost story set in a West End theatre is creakier than the old wooden…",
-      "publisher": "The Guardian",
-      "author": "Cath Clarke",
-      "date": "2026-10-27T07:00:04+00:00",
-      "link": "https://www.theguardian.com/film/2026/oct/27/city-of-masks-review-theatreland-ghost-story-with-female-phantom-of-the-opera-out-for-revenge",
-      "image": "https://i.guim.co.uk/img/media/5cf84a7d871ed3ca545ff846ab9f187bbaa2a5c0/417_0_4166_3333/master/4166.jpg?width=140&quality=85&auto=format&fit=max&s=9d4ef4f5ddb491ffec5709680d1fe6c7",
-      "category": "World Cinema"
-    },
-    {
-      "id": "68ca90b19d585a0e",
-      "title": "‘King’: Shah Rukh Khan exudes intensity in new poster from actioner",
-      "quote": "Directed by Siddharth Anand, the film also stars Deepika Padukone, Rani Mukerji, Anil Kapoor, Abhishek Bachchan, Jaideep Ahlawat, Arshad Warsi and Suhana Khan in pivotal roles",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-27T05:48:19+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/king-shah-rukh-khan-exudes-intensity-in-new-poster-from-actioner/article71629923.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/vc6gs7/article71629931.ece/alternates/LANDSCAPE_1200/Shah%20Rukh%20Khan%20in%20new%20poster%20of%20%E2%80%98King%E2%80%99",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "9ba3d05fb2d04af7",
-      "title": "‘A cultural moment’: smash hit doc You Can See Everything continues to dazzle America",
-      "quote": "Nathan Fielder’s three-hour Elizabeth Holmes film has become a pop culture phenomenon but at a sold-out Times Square screening, no one was quite sure what to think In You Can See Everything, it’s Elizabeth Holmes’s…",
-      "publisher": "The Guardian",
-      "author": "Jesse Hassenger in New York",
-      "date": "2026-10-26T14:37:00+00:00",
-      "link": "https://www.theguardian.com/film/2026/oct/26/you-can-see-everything-cultural-moment",
-      "image": "https://i.guim.co.uk/img/media/ec33f47e51b04caa80ee709147f1b1662cc7180c/431_0_4599_3678/master/4599.jpg?width=140&quality=85&auto=format&fit=max&s=57168c3de8a0e12c3209af7b80b277c4",
-      "category": "World Cinema"
-    },
-    {
       "id": "400793b6d5d11efd",
       "title": "Behemoth!",
       "quote": "When “Behemoth!” strikes an atonal note, Pascal’s performance, and Gilroy’s trusting direction of his leading man, drown it out.",
@@ -468,17 +490,6 @@
       "date": "2026-10-26T13:00:00+00:00",
       "link": "https://www.rogerebert.com/reviews/behemoth-pedro-pascal-film-review-2026",
       "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "c84eb2c964b6f2e8",
-      "title": "Bad Day at the Office review – gratuitously entertaining Go-Pro thriller is like Crank meets The Hangover",
-      "quote": "John Hannah parkours through gangland London in a hyperactive first-person action film that has to keep the heartrate down This ludicrous, rabid thriller, shot largely on first-person GoPros, is like Peep Show on PCP…",
-      "publisher": "The Guardian",
-      "author": "Phil Hoad",
-      "date": "2026-10-26T11:00:41+00:00",
-      "link": "https://www.theguardian.com/film/2026/oct/26/bad-day-at-the-office-review-john-hannah",
-      "image": "https://i.guim.co.uk/img/media/80ea07ccd4a2daa967993a890d29482cbcea3320/436_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=260f87e969ffda64d49db1b725e49f4f",
       "category": "World Cinema"
     },
     {
@@ -755,17 +766,6 @@
       "link": "https://variety.com/2026/film/reviews/klara-and-the-sun-review-1236914992/",
       "image": "https://variety.com/wp-content/uploads/2026/06/Klara-and-the-Sun.jpg",
       "category": "Festival Winners"
-    },
-    {
-      "id": "bfc62692d4819208",
-      "title": "Hollywood stars on films that mean most to them",
-      "quote": "Stars step into the BBC's exclusive photo studio",
-      "publisher": "BBC Culture",
-      "author": null,
-      "date": "2026-10-17T11:00:12+00:00",
-      "link": "https://www.bbc.com/culture/article/20261015-hollywood-stars-on-the-films-that-mean-most-to-them?ocid=global_culture_rss",
-      "image": "https://ychef.files.bbci.co.uk/144x81/p0ph2vym.jpg",
-      "category": "World Cinema"
     },
     {
       "id": "ebd74be33725e2fc",
