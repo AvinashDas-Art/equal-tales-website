@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T22:02:15.591810+00:00",
+  "generated_at": "2026-10-28T05:12:09.307189+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -9,48 +9,169 @@
   ],
   "reviews": [
     {
-      "id": "e1a57e5c5b51a60c",
-      "title": "Banijay & Don’t Tell Comedy Strike Strategic Partnership",
-      "quote": "EXCLUSIVE: Banijay America has made a strategic move into creator-led comedy through a partnership with Don’t Tell Comedy, one of the fastest-growing stand-up brands in the United States. Together with Banijay Rights…",
-      "publisher": "Deadline",
-      "author": "Matthewgrobar",
-      "date": "2026-10-27T21:49:36+00:00",
-      "link": "https://deadline.com/2026/10/dont-tell-comedy-banijay-strategic-partnership-1237206564/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/Banijay-America-Dont-Tell-Comedy-logos.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "d24557ea282c9c3b",
-      "title": "Bridget Moynahan Reflects On Career, Industry Change At North Fork TV Festival Deadline Dinner",
-      "quote": "As one of the leads on CBS mainstay Blue Bloods, which ended its 14-season run in 2024, Bridget Moynahan enjoyed a run of rare stability in a rapidly evolving TV industry. The actor reflected on the environment of…",
-      "publisher": "Deadline",
-      "author": "Dade Hayes",
-      "date": "2026-10-27T21:23:55+00:00",
-      "link": "https://deadline.com/2026/10/blue-bloods-bridget-moynahan-north-fork-tv-festival-deadline-dinners-1237206181/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/North-Fork-2.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "9caf2f51fa3c9a25",
-      "title": "Connor Storrie Circling Role In Marvel’s ‘Ghost Rider’ Opposite Ryan Gosling",
-      "quote": "Connor Storrie is circling a role opposite Ryan Gosling in Marvel Studios’ Ghost Rider, sources have confirmed to Deadline. Reps for Marvel declined to comment. There’s word yet on the role to be played by Storrie…",
-      "publisher": "Deadline",
-      "author": "Matthewgrobar",
-      "date": "2026-10-27T21:14:42+00:00",
-      "link": "https://deadline.com/2026/10/connor-storrie-circling-ghost-rider-ryan-gosling-1237206577/",
-      "image": "https://deadline.com/wp-content/uploads/2026/02/GettyImages-2255245345.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "3cfd7661167deda8",
-      "title": "Jack Champion, Owen Patrick Joyner, Grace Van Dien & Georgie Murphy Lead YA Romance ‘The One Before The One’ After Cast Switch",
-      "quote": "EXCLUSIVE: Jack Champion (Avatar franchise), Owen Patrick Joyner (Final Destination: Bloodlines), Grace Van Dien (Stranger Things) and Georgie Murphy (Stumble) are now leading the YA romance The One Before The One…",
-      "publisher": "Deadline",
-      "author": "Andreas Wiseman",
-      "date": "2026-10-27T21:13:27+00:00",
-      "link": "https://deadline.com/2026/10/jack-champion-owen-patrick-joyner-grace-van-dien-ya-romance-1237206544/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/The-One-Before-The-One-2.jpg",
+      "id": "82ae386a4e37b930",
+      "title": "‘It’s the gay Titanic!’ Inside La Bola Negra, the maximalist queer spectacular bound for Oscars glory",
+      "quote": "Oozing panache and bagging awards already, La Bola Negra is an eye-popping war and prejudice epic starring Penélope Cruz in a blond wig and Glenn Close speaking Spanish. We meet the ex-lovers who dreamed it up When…",
+      "publisher": "The Guardian",
+      "author": "Ryan Gilbey",
+      "date": "2026-10-28T05:00:53+00:00",
+      "link": "https://www.theguardian.com/film/2026/oct/28/gay-titanic-la-bola-negra-queer-oscars-penelope-cruz-glenn-close",
+      "image": "https://i.guim.co.uk/img/media/59f2b7605dce00e03d37ba9a04098659ca925e17/147_0_2107_1687/master/2107.jpg?width=140&quality=85&auto=format&fit=max&s=283f6b8208cfa4a3e9b51e5ac4ae3cb8",
       "category": "Festival Winners"
+    },
+    {
+      "id": "42305fd7042b9be1",
+      "title": "Jafar Panahi sentenced to five years in prison in Iran, faces new ruling on top of previous one-year conviction",
+      "quote": "The new ruling against the Palme d’Or-winning filmmaker comes amid continuing legal proceedings in Iran, with the court also ordering the confiscation of his assets and imposing two-year travel and social media bans",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-28T04:51:09+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/jafar-panahi-sentenced-to-five-years-in-prison-in-iran-faces-new-ruling-on-top-of-previous-one-year-conviction/article71634343.ece",
+      "image": "https://th-i.thgim.com/public/incoming/pv9iu7/article71634348.ece/alternates/LANDSCAPE_1200/IMG_Jafar_Panahi_in_a_st_2_1_98FLTMKC.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "300ed307d4d1c7de",
+      "title": "‘Magazine’: How Shubham Shevade turned a Maharashtra village into a dazzling Marathi indie",
+      "quote": "The debutant writer-director opens about returning from Los Angeles to India to tell his own stories, how the unconventional structure of ‘Magazine’ took shape, why he thinks he was delusional during production, and more",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-28T04:34:16+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/magazine-how-shubham-shevade-turned-a-maharashtra-village-into-a-dazzling-marathi-indie/article71631249.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/g75j8p/article71631321.ece/alternates/LANDSCAPE_1200/Shubham%20Shevade%20and%20a%20still%20from%20%E2%80%98Magazine%E2%80%99",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "7ad473d596401cb0",
+      "title": "Anandhi interview: Garividi Lakshmi was my toughest role, but the hardships feel trivial now",
+      "quote": "Anandhi talks about portraying Burra Katha artiste Garividi Lakshmi on screen, shunning social media, and having a life beyond cinema",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-28T04:33:45+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/anandhi-interview-garividi-lakshmi-was-my-toughest-role-but-the-hardships-feel-trivial-now/article71630936.ece",
+      "image": "https://th-i.thgim.com/public/incoming/oxnzj9/article71630986.ece/alternates/LANDSCAPE_1200/Anandhi%203.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "6aad920126729be1",
+      "title": "Carrie Ann Inaba & Val Chmerkovskiy Hug It Out After ‘Dancing With The Stars’ Suspension Drama",
+      "quote": "It was all professional between Carrie Ann Inaba and pro dancer Val Chmerkovskiy on the Dancing with the Stars set after all the drama. The judge and the contestant hugged it out on the set of the ABC dance competition…",
+      "publisher": "Deadline",
+      "author": "Armando Tinoco",
+      "date": "2026-10-28T04:05:20+00:00",
+      "link": "https://deadline.com/2026/10/carrie-ann-inaba-val-chmerkovskiy-hug-dancing-with-the-stars-suspension-drama-1237206864/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/carrie-ann-inaba-Val-Chmerkovskiy-dwts-abc.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "c8d115eef83fcd9c",
+      "title": "Entertainment Hits $332.B To Become World’s Second Most Valuable Sector As Netflix, YouTube & Spotify Fly – Interbrand Report",
+      "quote": "Hollywood is struggling with layoffs and budget cuts, but entertainment just overtook the automotive industry to become the world’s second-largest business sector. That’s according to consultancy Interbrand, whose…",
+      "publisher": "Deadline",
+      "author": "Jesse Whittock",
+      "date": "2026-10-28T04:01:00+00:00",
+      "link": "https://deadline.com/2026/10/entertainment-second-most-valuable-interbrand-global-report-1237206126/",
+      "image": "https://deadline.com/wp-content/uploads/2026/06/hollywood-sign.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "fe17a5f401a05171",
+      "title": "Yuriko Gamo Romer & Marc Smolowitz On The 12 Year Journey Behind Their Japanese-U.S. History Baseball Doc ‘Diamond Diplomacy’ — Tokyo",
+      "quote": "After a year on the U.S. festival circuit, with buzzy stops at Mill Valley and Hot Springs, Diamond Diplomacy, the feature documentary from San Francisco-based filmmaker Yuriko Gamo Romer, receives its first…",
+      "publisher": "Deadline",
+      "author": "Zac Ntim",
+      "date": "2026-10-28T02:51:03+00:00",
+      "link": "https://deadline.com/2026/10/yuriko-gamo-romer-marc-smolowitz-diamond-diplomacy-tokyo-1237206812/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/s-1927.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "62b2b9666f19f224",
+      "title": "CNN’s Scott Jennings Hit With $72.5M Suit By Hasan Piker Over “Manipulated” Lynching Misquote",
+      "quote": "In a blistering response to Scott Jennings allegedly using “a false, fabricated, and manipulated video” claiming Hasan Piker wants to bring back lynching of Black Americans, the left-wing streamer plans to take the CNN…",
+      "publisher": "Deadline",
+      "author": "Dominic Patten",
+      "date": "2026-10-28T02:41:53+00:00",
+      "link": "https://deadline.com/2026/10/scott-jennings-sued-hasan-piker-lynching-misquote-defamation-1237206831/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/scott-jennings-hasan-piker.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "af5e5dc39b36e8a9",
+      "title": "Former ‘Bachelor’ Host Chris Harrison On Cease-And-Desist Over Fox Nation’s ‘The Vow’: “Jealousy Is A Tough Thing”",
+      "quote": "Chris Harrison is pushing back against a cease-and-desist letter over his new dating show, The Vow, after it drew comparisons to his previous show, The Bachelor. In a recent interview, the television host had some words…",
+      "publisher": "Deadline",
+      "author": "Armando Tinoco",
+      "date": "2026-10-28T02:40:05+00:00",
+      "link": "https://deadline.com/2026/10/bachelor-chris-harrison-cease-desist-fox-nation-the-vow-1237206841/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/chris-harrison-the-vow-the-bachelor-fox-nation.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "e79e4c45917bb775",
+      "title": "VisionQuest Finally Explains The Biggest Plot Hole From Avengers: Age Of Ultron",
+      "quote": "Avengers: Age of Ultron didn't exactly flesh out Ultron's motivations for doing what he does. Now, VisionQuest Episode 5 is finally correcting that.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Jeremy Mathai)",
+      "date": "2026-10-28T02:00:00+00:00",
+      "link": "https://www.slashfilm.com/2297131/visionquest-avengers-age-of-ultron-plot-hole-explained/",
+      "image": "https://www.slashfilm.com/img/gallery/visionquest-finally-explains-the-biggest-plot-hole-from-avengers-age-of-ultron/l-intro-1793033514.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "ca8573aa81bdb1e8",
+      "title": "‘Dancing With The Stars’ Recap: 2 Couples Are Sent Packing On Horror Movie Night After Routines Inspired By ‘Sinners,’ ‘The Omen’ & More",
+      "quote": "SPOILER ALERT! This post contains details from this week’s episode of Dancing with the Stars. It’s one of the buzziest nights of the season on Dancing with the Stars: Halloween! This year, they’ve specifically themed…",
+      "publisher": "Deadline",
+      "author": "Katie Campione",
+      "date": "2026-10-28T01:59:11+00:00",
+      "link": "https://deadline.com/2026/10/dancing-with-the-stars-recap-season-35-horror-halloween-1237206671/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/183898_EM108447-900x0-copy.png",
+      "category": "World Cinema"
+    },
+    {
+      "id": "bd3ef28995f0e510",
+      "title": "William Shatner Remembers ‘Star Trek’ Co-Star Walter Koenig",
+      "quote": "William Shatner today paid tribute to his Star Trek co-star Walter Koenig after news of the latter’s recent death. The actor who originated the role of Ensign Pavel Chekov in the sci-fi series died at 90, and his former…",
+      "publisher": "Deadline",
+      "author": "Tomt",
+      "date": "2026-10-28T01:44:43+00:00",
+      "link": "https://deadline.com/2026/10/william-shatner-walter-koenig-death-star-trek-1237206821/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/shatnew-koenig.png",
+      "category": "World Cinema"
+    },
+    {
+      "id": "623922cf52d3d460",
+      "title": "IDA Documentary Awards Shortlists: ‘You Can See Everything,’ ‘To Hold A Mountain,’ ‘Nuisance Bear’ Make Features Cut, But What Got Snubbed?",
+      "quote": "The IDA Documentary Awards announced its shortlists of the year’s top documentaries Tuesday, boosting Oscar prospects for a select group of feature films and shorts. Some of the most touted documentaries of the year…",
+      "publisher": "Deadline",
+      "author": "Matthew Carey",
+      "date": "2026-10-28T01:41:20+00:00",
+      "link": "https://deadline.com/2026/10/ida-documentary-awards-2026-shortlists-1237206811/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/IDA-shortlists-split-5-shot-circle-1000x667-1.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "c4bc2b7ae058cb0c",
+      "title": "Lee Majors Played An Assassin In This Canceled 2010s Show Based On A DC Comic",
+      "quote": "One of Lee Majors' many, many TV roles included a one-time appearance in this canceled show that was based on an obscure DC comic character.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Joe Roberts)",
+      "date": "2026-10-28T00:45:00+00:00",
+      "link": "https://www.slashfilm.com/2295232/lee-majors-canceled-dc-comic-show-human-target/",
+      "image": "https://www.slashfilm.com/img/gallery/lee-majors-played-an-assassin-in-this-canceled-2010s-show-based-on-a-dc-comic/l-intro-1792764119.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "53cc00c3cb40b54e",
+      "title": "The Lord Of The Rings: The Hunt For Gollum Star Jamie Dornan Breaks Silence On Aragorn Recasting",
+      "quote": "Jamie Dornan, who's taking over the role of Aragorn from Viggo Mortensen in The Lord of the Rings: The Hunt for Gollum, talks about filling Mortensen's shoes.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Ryan Scott)",
+      "date": "2026-10-27T23:00:00+00:00",
+      "link": "https://www.slashfilm.com/2299067/the-lord-of-the-rings-the-hunt-for-gollam-jamie-dornan-aragorn-recasting-comments/",
+      "image": "https://www.slashfilm.com/img/gallery/the-lord-of-the-rings-the-hunt-for-gollum-star-jamie-dornan-breaks-silence-on-aragorn-recasting/l-intro-1793138012.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "937b485667a80598",
@@ -86,17 +207,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "96ecbdfb17629fc8",
-      "title": "Kevin Bleyer Dies: Emmy Winning ‘Daily Show’ Writer & Barack Obama Speech Writer Dies In Car Crash At 54",
-      "quote": "Kevin Bleyer, an Emmy- and Peabody Award-winning television writer whose credits included The Daily Show and Politically Incorrect with Bill Maher and who contributed speeches for President Barack Obama including all of…",
-      "publisher": "Deadline",
-      "author": "Greg Evans",
-      "date": "2026-10-27T20:30:33+00:00",
-      "link": "https://deadline.com/2026/10/kevin-bleyer-dead-1237206488/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/EmmyKB.jpeg",
-      "category": "World Cinema"
-    },
-    {
       "id": "1c06584d9e14cb0b",
       "title": "Don't hand over your credit card info to anyone claiming to be The Pitt's casting department",
       "quote": "Two Pittsburg residents told <i>KDKA Investigates</i> that they clicked on an Instagram ad seeking background actors for season three of <i>The Pitt</i>, and the company ended up asking for credit card information…",
@@ -106,39 +216,6 @@
       "link": "https://www.avclub.com/the-pitt-season-3-casting-scam",
       "image": "https://www.avclub.com/wp-content/uploads/2026/10/27/the-pitt-season-3-noah-wyle-featured.jpg",
       "category": "Indie Gems"
-    },
-    {
-      "id": "cd38208c5318ff94",
-      "title": "Danny Masterson Fails To Get Double Rape Conviction Overturned; No Bias Against Scientology, Appeals Court Rules",
-      "quote": "Three years after being convicted of raping two women, Danny Masterson on Tuesday saw his appeal hopes disappear and allegations that Scientology was unfairly dragged into his two trials rejected — at least for now…",
-      "publisher": "Deadline",
-      "author": "Dominic Patten",
-      "date": "2026-10-27T20:21:00+00:00",
-      "link": "https://deadline.com/2026/10/danny-masterson-rape-appeal-denied-scientology-1237206492/",
-      "image": "https://deadline.com/wp-content/uploads/2025/11/Danny-Masterson-.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "ddeff0443a9e148f",
-      "title": "‘Crystal Lake’ Slashes Its Way To Fourth-Best Debut Audience Among All Peacock Scripted Originals",
-      "quote": "Audiences were eager to get back to Camp Crystal Lake. Peacock’s Crystal Lake, which debuted on October 15, has generated 1.3 billion minutes watched in its first 11 days, per the latest Nielsen data. NBCUniversal says…",
-      "publisher": "Deadline",
-      "author": "Katie Campione",
-      "date": "2026-10-27T20:08:42+00:00",
-      "link": "https://deadline.com/2026/10/crystal-lake-premiere-viewership-peacock-1237206503/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/Crystal-Lake_2ca9bf.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "a0aac293a6ef1cd3",
-      "title": "‘Nobody Wants This’ Has Netflix’s Best Scripted Comedy Return Of The Year Despite 28% Audience Decline For Season 3 Debut",
-      "quote": "Turns out, the people still seem to want Nobody Wants This. Season 3, which premiered October 22, debuted with Netflix’s best opening weekend for a returning scripted comedy series this year, per the latest data. It…",
-      "publisher": "Deadline",
-      "author": "Katie Campione",
-      "date": "2026-10-27T19:59:23+00:00",
-      "link": "https://deadline.com/2026/10/nobody-wants-this-season-3-premiere-viewership-netflix-1237206481/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/Nobody_Wants_This_n_S3_E1_00_16_30_10R_5dc983.jpg",
-      "category": "World Cinema"
     },
     {
       "id": "f7b3ad06cf19672e",
@@ -262,39 +339,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "84a07a2ac65b42df",
-      "title": "Cillian Murphy's Scarecrow Holds A Unique Record Among Batman Movie Villains",
-      "quote": "There's a crucial difference between Cillian Murphy's Scarecrow and other Batman villains when it comes to their movie appearances.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Devin Meenan)",
-      "date": "2026-10-27T17:00:00+00:00",
-      "link": "https://www.slashfilm.com/2290078/cillian-murphy-scarecrow-batman-movie-villain-record/",
-      "image": "https://www.slashfilm.com/img/gallery/cillian-murphys-scarecrow-holds-a-unique-record-among-batman-movie-villains/l-intro-1792416707.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "53ed58180458fdc1",
-      "title": "This '70s Phenomenon Led To The Cancellation Of Several Promising Western Shows",
-      "quote": "A decision made at CBS that caused a mass cancelation of a certain type of TV show also ended up spilling over into the TV Western.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-10-27T16:30:00+00:00",
-      "link": "https://www.slashfilm.com/2295386/western-shows-canceled-70s-rural-purge/",
-      "image": "https://www.slashfilm.com/img/gallery/this-70s-phenomenon-led-to-the-cancellation-of-several-promising-western-shows/l-intro-1792767892.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "7e931792a8a6685e",
-      "title": "Matthew Perry Made His Movie Debut In A Forgotten River Phoenix Drama",
-      "quote": "While TV is where he found the most success, the late Matthew Perry made his movie debut in this film alongside River Phoenix.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Jeremy Smith)",
-      "date": "2026-10-27T16:13:47+00:00",
-      "link": "https://www.slashfilm.com/2298413/matthew-perry-movie-debut-river-phoenix-drama-a-night-in-the-life-of-jimmy-reardon/",
-      "image": "https://www.slashfilm.com/img/gallery/matthew-perry-made-his-movie-debut-in-a-forgotten-river-phoenix-film/l-intro-1793115379.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "7e2e57750228ac10",
       "title": "‘Until the Day Ends’ Review: Two People Connect Across a Political Divide in a Striking Serbian Youth Drama",
       "quote": "Amid the turmoil of mass student protests in the streets of Belgrade, two young people are bonded by a rash act of rebellion, despite their outwardly incompatible ideologies. The premise of Serbian writer-director…",
@@ -304,17 +348,6 @@
       "link": "https://variety.com/2026/film/reviews/until-the-day-ends-review-1236931675/",
       "image": "https://variety.com/wp-content/uploads/2026/07/Until-the-Day-Ends.jpg",
       "category": "World Cinema"
-    },
-    {
-      "id": "300ed307d4d1c7de",
-      "title": "‘Magazine’: How Shubham Shevade turned a Maharashtra village into a dazzling Marathi indie",
-      "quote": "The debutant writer-director opens about returning from Los Angeles to India to tell his own stories, how the unconventional structure of ‘Magazine’ took shape, why he thinks he was delusional during production, and more",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-27T13:13:10+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/magazine-how-shubham-shevade-turned-a-maharashtra-village-into-a-dazzling-marathi-indie/article71631249.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/g75j8p/article71631321.ece/alternates/LANDSCAPE_1200/Shubham%20Shevade%20and%20a%20still%20from%20%E2%80%98Magazine%E2%80%99",
-      "category": "Indian Cinema"
     },
     {
       "id": "d1785e092362667a",
@@ -416,17 +449,6 @@
       "category": "Indian Cinema"
     },
     {
-      "id": "017409b7be5291d3",
-      "title": "‘The Terminal List’ Season 2 review: Chris Pratt returns for a better Round 2",
-      "quote": "By opening up its canvas in the sophomore season, the military thriller offers a tighter tale with a side of graphic violence",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-26T14:55:47+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/the-terminal-list-season-2-review-chris-pratt-constance-wu-taylor-kitsch-tom-hopper/article71626842.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/gb82f2/article71627940.ece/alternates/LANDSCAPE_1200/Chris%20Pratt%20The%20Terminal%20List%20Season%202.jpg",
-      "category": "Indian Cinema"
-    },
-    {
       "id": "9ba3d05fb2d04af7",
       "title": "‘A cultural moment’: smash hit doc You Can See Everything continues to dazzle America",
       "quote": "Nathan Fielder’s three-hour Elizabeth Holmes film has become a pop culture phenomenon but at a sold-out Times Square screening, no one was quite sure what to think In You Can See Everything, it’s Elizabeth Holmes’s…",
@@ -435,28 +457,6 @@
       "date": "2026-10-26T14:37:00+00:00",
       "link": "https://www.theguardian.com/film/2026/oct/26/you-can-see-everything-cultural-moment",
       "image": "https://i.guim.co.uk/img/media/ec33f47e51b04caa80ee709147f1b1662cc7180c/431_0_4599_3678/master/4599.jpg?width=140&quality=85&auto=format&fit=max&s=57168c3de8a0e12c3209af7b80b277c4",
-      "category": "World Cinema"
-    },
-    {
-      "id": "45bbe57903da2208",
-      "title": "‘OM – Chapter 1’: Sai Pallavi is IPS Nithya Reddy in Dhanush-Rajkumar Periasamy’s next",
-      "quote": "Also headlined by Malayalam superstar Mammootty, the action thriller is set to release in theatres on November 20",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-26T14:34:52+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/om-chapter-1-sai-pallavi-ips-nithya-reddy-mammootty-dhanush-rajkumar-periasamy/article71627698.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/frixng/article71627696.ece/alternates/LANDSCAPE_1200/Sai%20Pallavi%20Om%20Dhanush.png",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "cbbbbd8e99ebb6dc",
-      "title": "Never After Dark review – ghostbuster-for-hire meets her match in Japanese exorcism horror",
-      "quote": "Shogun’s Moeka Hoshi stars as a travelling caster-out of ghosts who confronts a wounded and recalcitrant spirit in this inventive chiller If you watched this Japanese-language ghost-story horror thriller cold, you might…",
-      "publisher": "The Guardian",
-      "author": "Leslie Felperin",
-      "date": "2026-10-26T13:00:43+00:00",
-      "link": "https://www.theguardian.com/film/2026/oct/26/never-after-dark-review-japanese-horror",
-      "image": "https://i.guim.co.uk/img/media/8510a7a6e91859257a2a58386685315ff61bf795/611_0_5766_4613/master/5766.jpg?width=140&quality=85&auto=format&fit=max&s=fc50ccb8a35a9149ce3603e7571f7619",
       "category": "World Cinema"
     },
     {
