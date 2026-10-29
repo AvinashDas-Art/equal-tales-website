@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T05:23:44.083585+00:00",
+  "generated_at": "2026-10-29T12:44:44.781328+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -8,6 +8,215 @@
     "Indie Gems"
   ],
   "reviews": [
+    {
+      "id": "ca46cf0c76584497",
+      "title": "‘Chiranjeevi’s Megaverse’: Netflix announces talk show hosted by Chiranjeevi",
+      "quote": "The talk show is touted to be a celebration of Telugu cinema through candid conversations with its leading stars.",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-29T12:22:49+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/chiranjeevis-megaverse-netflix-announces-talk-show-hosted-by-chiranjeevi/article71640513.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/cnom0l/article71640544.ece/alternates/LANDSCAPE_1200/cvr%2021.png",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "aa4260dbcde54df9",
+      "title": "David Jonsson on Audible’s ‘Dracula’: ‘Bram Stoker’s Dracula is deeply human’",
+      "quote": "David Jonsson, who plays Dr Seward in the audio adaptation of Dracula, says the novel is gothic, funny, sexy and dark, and that mix makes it resonate even today",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-29T12:19:36+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/david-jonsson-on-audibles-dracula-bram-stokers-dracula-is-deeply-human/article71640095.ece",
+      "image": "https://th-i.thgim.com/public/incoming/t7jpr1/article71640315.ece/alternates/LANDSCAPE_1200/david%20jonsson1.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "6591a2bb9c3540be",
+      "title": "‘Nobody Wants This’ Season 3 review: Kristen Bell and Adam Brody keep it real sweet",
+      "quote": "An interfaith relationship, controlling parents, sibling jealousy, a wedding and a divorce, it is all happening in the packed and chaotic third season of the charming rom-com",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-29T12:13:25+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/nobody-wants-this-season-3-review-kristen-bell-and-adam-brody-keep-it-real-sweet/article71636675.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/8lmugv/article71640494.ece/alternates/LANDSCAPE_1200/AAAAQT2ufIVVK18sCzRwVykej7jgzK6vdjz-WC0ifNm_fzxMv8VtkPeNdOwwVCBq1dzgR6bV0V5A6QISUIOsfc93DaC3MyxHfXWEQ05m0etjIwmXukczNlh71XKCTsWowzCR_LBgG2_DjcJrVCHIlPHQ0F1Ld0c.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "c05ce8214e899dca",
+      "title": "European Production Association CEPI Welcomes Canadian Bodies As First International Members",
+      "quote": "Canada and Europe have been moving closer together politically, and now their media production bodies are doing the same. CEPI, the European Audiovisual Production Association, has welcomed the Canadian Media Producers…",
+      "publisher": "Deadline",
+      "author": "Jesse Whittock",
+      "date": "2026-10-29T12:00:00+00:00",
+      "link": "https://deadline.com/2026/10/cepi-welcomes-cmpa-aqpm-canada-international-members-1237208034/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/EU-Canada-flags.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "70e249a774b640d7",
+      "title": "5 Years Ago Today: Anya Taylor-Joy Starred In A Visually Stunning Horror Movie",
+      "quote": "Anya Taylor-Joy co-starred in this five-year-old horror movie, which is pretty dang technically striking but narratively problematic.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Witney Seibold)",
+      "date": "2026-10-29T12:00:00+00:00",
+      "link": "https://www.slashfilm.com/2275151/anya-taylor-joy-horror-movie-last-night-in-soho-5-year-anniversary/",
+      "image": "https://www.slashfilm.com/img/gallery/5-years-ago-today-anya-taylor-joy-starred-in-a-visually-stunning-horror-movie/l-intro-1790886502.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "a7fc8d41a65a5e21",
+      "title": "‘Ramayana’ cinematographer Pankaj Kumar on chasing sunlight and building a world of Gods",
+      "quote": "Cinematographer Pankaj Kumar on building visuals for Nitesh Tiwari’s ‘Ramayana’, the deliberate pre-visualisation process, filming the Swayamvara scene and his philosophy behind capturing light",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-29T11:46:19+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/ramayana-cinematographer-pankaj-kumar-on-chasing-sunlight-and-building-a-world-of-gods-ranbir-kapoor-nitesh-tiwari-yash/article71639829.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/t5awlj/article71639913.ece/alternates/LANDSCAPE_1200/Pankaj%20Kumar%20and%20a%20still%20of%20Ranbir%20Kapoor%20from%20%E2%80%98Ramayana%E2%80%99",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "a76031fe654aa9a3",
+      "title": "Disney+ & Netflix Hoover Up Non-English Acquisitions As Fervor For Japanese & Korean Content Continues – Ampere",
+      "quote": "Disney+ and Netflix’s buying habits appear to be dispelling the notion that non-English-language acquisitions aren’t on their agendas. Research from Ampere Analysis shows that non-English content now accounts for at…",
+      "publisher": "Deadline",
+      "author": "Jesse Whittock",
+      "date": "2026-10-29T11:42:49+00:00",
+      "link": "https://deadline.com/2026/10/disney-netflix-non-english-acquisitions-ampere-analysis-1237208043/",
+      "image": "https://deadline.com/wp-content/uploads/2025/09/AIBS3_EP2_S13_Unit_017-edit-e1757654879576.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "a7cbf831c5fab555",
+      "title": "Sada ‘Master’, ace guitarist who enriched Ilaiyaraaja’s compositions, dies at 80",
+      "quote": "“I am saddened by Sadanandam’s death. He was with me from the early days,” Ilaiyaraaja said in a message",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-29T11:34:07+00:00",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/sada-master-ace-guitarist-who-enriched-ilaiyaraajas-compositions-dies-at-80/article71639851.ece",
+      "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/am4vnm/article71640102.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-10-29%20at%2016.04.33.jpeg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "285e9fbd7153056f",
+      "title": "Russell Brand’s Wife Says Star Was “Caring” Lover At Time Of Rape Allegations",
+      "quote": "Russell Brand’s wife has told a court that the Despicable Me star was a caring and considerate lover during the period in which he has been accused of rape. Laura Brand took to the witness stand on Thursday at London’s…",
+      "publisher": "Deadline",
+      "author": "Jake Kanter",
+      "date": "2026-10-29T11:06:06+00:00",
+      "link": "https://deadline.com/2026/10/russell-brand-wife-1237208039/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/GettyImages-2300924098-e1792401903803.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "0c7b6d5a71606fc1",
+      "title": "‘The Cube’ Creator Adam Adler Joins Channel 4’s Production Biz As Creative Director",
+      "quote": "EXCLUSIVE: Sarah Dillistone has made her first big hire at Channel 4’s in-house production biz. Dillistone has snapped up The Cube creator Adam Adler as Creative Director and he will lead on the creation of new shows…",
+      "publisher": "Deadline",
+      "author": "Max Goldbart",
+      "date": "2026-10-29T11:00:00+00:00",
+      "link": "https://deadline.com/2026/10/adam-adler-joins-channel-4-productions-the-cube-1237207215/",
+      "image": "https://deadline.com/wp-content/uploads/2022/02/the-cube_22.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "765c92519459132a",
+      "title": "CPI(M) leader P. Jayarajan condemns online attacks against Mammootty, says Wayanad visit issue was ‘resolved long ago’",
+      "quote": "In a social media post, Jayarajan said the attempt to revive “an old misunderstanding” and use it to abuse and target the actor was driven by vested interests",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-29T10:44:19+00:00",
+      "link": "https://www.thehindu.com/news/national/kerala/cpim-leader-p-jayarajan-condemns-online-attacks-against-mammootty-says-wayanad-visit-issue-was-resolved-long-ago/article71640000.ece",
+      "image": "https://th-i.thgim.com/public/news/national/kerala/ug7g1a/article71640083.ece/alternates/LANDSCAPE_1200/mammootty_05.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "b670f8a9cd95dac0",
+      "title": "The deathly book that caused a prize controversy",
+      "quote": "Emma Cline's assisted-dying novel Switzy was excluded from the Booker Prize",
+      "publisher": "BBC Culture",
+      "author": null,
+      "date": "2026-10-29T10:28:00+00:00",
+      "link": "https://www.bbc.com/culture/article/20261028-why-stunning-assisted-dying-novel-switzy-caused-a-booker-prize-controversy?ocid=global_culture_rss",
+      "image": "https://ychef.files.bbci.co.uk/144x81/p0pk46kc.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "2c7a13ed1e6c8ce5",
+      "title": "Mayur More & Ashlesha Thakur To Lead ‘Beta Builder’, Debut Hybrid AI Feature From Abundantia AiOn & InVideo",
+      "quote": "EXCLUSIVE: Mayur More and Ashlesha Thakur will star in the first AI-driven feature film from the pact between India’s Abundantia Entertainment and video tech firm InVideo. Beta Builder has InVideo’s Global Creative…",
+      "publisher": "Deadline",
+      "author": "Jesse Whittock",
+      "date": "2026-10-29T09:43:08+00:00",
+      "link": "https://deadline.com/2026/10/beta-builder-ai-movie-mayur-more-ashlesha-thakur-1237208010/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/Mayur-More-and-Ashlesha-Thakur-e1793264391553.png",
+      "category": "World Cinema"
+    },
+    {
+      "id": "d5b23e5f6cbb45f5",
+      "title": "Skydance-Owned 5 Buys UK Rights To ‘Wentworth’ Sequel Series",
+      "quote": "Skydance’s UK network 5 was the home of Australian prison drama Wentworth and will now house the show’s next iteration. The channel has acquired UK rights to Wentworth: Halfway Home, which distributor Fremantle is…",
+      "publisher": "Deadline",
+      "author": "Jesse Whittock",
+      "date": "2026-10-29T09:30:00+00:00",
+      "link": "https://deadline.com/2026/10/wentworth-sequel-series-5-uk-deal-1237207207/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/Wentworth-Halfway-House-Rachel-Griffiths-Moira-Katrina-Milosevic-e1788348091972.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "fde296bcfe18da0e",
+      "title": "TBS Unpacks Collaborations With Legendary & Korea’s CJ ENM: “We Want To Create A New Global Genre Of J-Content”",
+      "quote": "TBS Holdings executives outlined the strategy behind the Japanese broadcaster’s tie-ups with Legendary Entertainment and Korea’s CJ ENM in a TIFFCOM presentation today. In January 2026, TBS acquired a $150M minority…",
+      "publisher": "Deadline",
+      "author": "Liz Shackleton",
+      "date": "2026-10-29T09:23:14+00:00",
+      "link": "https://deadline.com/2026/10/godzilla-legendary-tbs-cj-enm-ninja-warrior-studio-monowa-1237207948/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/Alice-In-Borderland-Season-3b.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "2726ab30abd0b8a1",
+      "title": "I Love Boosters review – supercool outlaw women go shoplifting in Boots Riley’s frantic and funny caper",
+      "quote": "Demi Moore’s haute-couture maven attracts the attention of a gang of contemporary Robin Hood type clothes robbers in Riley’s fashion biz satire Here is an entertaining, if very exhausting fantasy-caper about the fashion…",
+      "publisher": "The Guardian",
+      "author": "Peter Bradshaw",
+      "date": "2026-10-29T09:00:27+00:00",
+      "link": "https://www.theguardian.com/film/2026/oct/29/i-love-boosters-review-boots-riley-shoplifting-satire-is-a-mile-a-minute-melee-of-unadulterated-keraziness",
+      "image": "https://i.guim.co.uk/img/media/68f075915ca88393c3952d93cc4f40407920a439/916_0_2257_1806/master/2257.jpg?width=140&quality=85&auto=format&fit=max&s=92d76c4814917069634fa990f74c4b9e",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "a516f4da6cbad117",
+      "title": "Pippa Harris & YouTube UK Boss Alison Lomax Join Board Of National Film & Television School",
+      "quote": "EXCLUSIVE: Storied British producer Pippa Harris and YouTube UK boss Alison Lomax have joined the board of Britain’s National Film and Television School (NFTS). The pair join the likes of BBC content boss Kate Phillips…",
+      "publisher": "Deadline",
+      "author": "Max Goldbart",
+      "date": "2026-10-29T09:00:00+00:00",
+      "link": "https://deadline.com/2026/10/nfts-board-pippa-harris-alison-lomax-1237207185/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/split-2-split-1500x845-1-5.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "e2fa33cf61b38dc3",
+      "title": "Wicker review – Olivia Colman finds the perfect lover in intriguing folk-horror romance",
+      "quote": "Colman stars as a depressed and bullied fisherwoman in medieval England. Fortunately, Peter Dinklage’s basketmaker delivers the answer to her dreams – an Alexander Skarsgård made of wicker The spirit of mystery author…",
+      "publisher": "The Guardian",
+      "author": "Peter Bradshaw",
+      "date": "2026-10-29T07:00:26+00:00",
+      "link": "https://www.theguardian.com/film/2026/oct/29/wicker-review-olivia-colman-finds-the-perfect-lover-in-intriguing-folk-horror-romance",
+      "image": "https://i.guim.co.uk/img/media/09cca9caafc5dbf003f61c9d07f5912ff5f41927/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=fb3ee7c0c0004166a54ef11acd1a0a6d",
+      "category": "World Cinema"
+    },
+    {
+      "id": "f4e497770e2e7b63",
+      "title": "Kerala HC quashes cheating case against Nivin Pauly, director Abrid Shine after out-of-court settlement in dispute over film rights",
+      "quote": "Complaint against the duo was filed following financial dispute related to making of Action Hero Biju 2. The complainant alleged that after entering into an agreement to produce the film, its overseas rights were sold…",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-29T06:02:59+00:00",
+      "link": "https://www.thehindu.com/news/national/kerala/kerala-hc-quashes-cheating-case-against-nivin-pauly-director-abrid-shine-after-out-of-court-settlement-in-dispute-over-film-rights/article71636612.ece",
+      "image": "https://th-i.thgim.com/public/news/national/kerala/fev61r/article71639131.ece/alternates/LANDSCAPE_1200/nivin.jpg",
+      "category": "Indian Cinema"
+    },
     {
       "id": "7070b54eea90c412",
       "title": "How did a fishmonger who starred in an adult movie make Rocky? The film about Sylvester Stallone’s amazing triumph",
@@ -18,28 +227,6 @@
       "link": "https://www.theguardian.com/film/2026/oct/29/rocky-sylvester-stallone-anthony-ippolita",
       "image": "https://i.guim.co.uk/img/media/67d68a8bf99e04203df58627bce4bccf21e969cc/385_0_5200_4160/master/5200.jpg?width=140&quality=85&auto=format&fit=max&s=ad052ae7e64d767c4f2ef8acc6771c97",
       "category": "Festival Winners"
-    },
-    {
-      "id": "b55e52946e99e8f2",
-      "title": "‘Merry Berry Love’ Producers Nippon TV & CJ ENM Talk Korea-Japan Collaboration To Boost J-Drama – TIFFCOM",
-      "quote": "Japanese broadcaster Nippon TV and Korean studio CJ ENM described how they’re combining the strengths of their respective industries to create drama series that can appeal to global audiences, during a TIFFCOM…",
-      "publisher": "Deadline",
-      "author": "Liz Shackleton",
-      "date": "2026-10-29T04:59:23+00:00",
-      "link": "https://deadline.com/2026/10/merry-berry-love-nippon-tv-cj-enm-japan-korea-drama-1237207929/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/Merry-Berry-Love.jpg",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "db006d5e511b0f8a",
-      "title": "‘South Park’ Parodies ‘GTA VI’ Hype With Dog Poop Gameplay",
-      "quote": "As gamers await the release of Grand Theft Auto VI next month, South Park once again took aim at the upcoming game, this time armed with dog poop. On Wednesday’s episode of the Comedy Central show (currently rebranded…",
-      "publisher": "Deadline",
-      "author": "Glenn Garner",
-      "date": "2026-10-29T04:16:47+00:00",
-      "link": "https://deadline.com/2026/10/south-park-parodies-gta-vi-dog-poop-gameplay-1237207932/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/Screenshot-2026-10-28-at-8.55.53-PM.png",
-      "category": "World Cinema"
     },
     {
       "id": "05589858a4cae3c1",
@@ -53,26 +240,15 @@
       "category": "Indie Gems"
     },
     {
-      "id": "2e79ad0d5a59c023",
-      "title": "‘Tonight Show’: Jimmy Fallon & Jamie Lee Curtis Channel Fielder & Holmes In Cold Open",
-      "quote": "As Jimmy Fallon gears up for Halloween, he and his latest talk show guest nailed their take on You Can See Everything. On Wednesday’s episode of The Tonight Show, the 6x Emmy-winning host channeled his inner Nathan…",
-      "publisher": "Deadline",
-      "author": "Glenn Garner",
-      "date": "2026-10-29T03:13:31+00:00",
-      "link": "https://deadline.com/2026/10/tonight-show-jimmy-fallon-jamie-lee-curtis-fielder-holmes-1237207815/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/Jimmy-Fallon-Jamie-Lee-Curtis-2-shot.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "31726d0ece117cac",
-      "title": "How A Former Senior Netflix Staffer Launched One Of Japan’s Buzziest Indie Cinemas",
-      "quote": "Director Lee Chang-dong’s beautiful genre mash-up, Possible Love; Dario Argento’s Giallo classic, Suspiria; and Sophy Romvari’s accomplished debut, Blue Heron, are some of the titles Japanese cinephiles can catch this…",
-      "publisher": "Deadline",
-      "author": "Zac Ntim",
-      "date": "2026-10-29T02:25:36+00:00",
-      "link": "https://deadline.com/2026/10/cineyama-matt-kelson-japan-indie-cinema-1237207784/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/IMG_1097_VSCO.jpg",
-      "category": "World Cinema"
+      "id": "819fda0f37825642",
+      "title": "The Lowdown takes a thrilling road trip into the darker, scarier heart of its current mystery",
+      "quote": "The more Lee gets beat up, the more The Lowdown heats up.",
+      "publisher": "The A.V. Club",
+      "author": "Josh Spiegel",
+      "date": "2026-10-29T02:05:31+00:00",
+      "link": "https://www.avclub.com/the-lowdown-recap-season-2-episode-4-raw-milk",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/10/28/MixCollage-28-Oct-2026-03-51-PM-133.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "62df6dc20a3a32a2",
@@ -86,48 +262,26 @@
       "category": "World Cinema"
     },
     {
-      "id": "688960c5fb0b9c9b",
-      "title": "‘Stick’ Season 2 Release Schedule: When Do New Episodes Come Out?",
-      "quote": "Another round of competitive golf will be served up in Season 2 of Apple TV’s Stick starring Owen Wilson and Peter Dager. The golf comedy, which also stars Lilli Kay, Mariana Treviño, Marc Maron, Timothy Olyphant and…",
-      "publisher": "Deadline",
-      "author": "Dessi Gomez",
-      "date": "2026-10-29T00:57:21+00:00",
-      "link": "https://deadline.com/2026/10/stick-season-2-release-schedule-new-episodes-streaming-1237207773/",
-      "image": "https://deadline.com/wp-content/uploads/2026/08/Stick_207_F00001F.jpg",
-      "category": "World Cinema"
+      "id": "d5446fcca745f76f",
+      "title": "Amazon submits Project Hail Mary's Rocky performer for Best Supporting Actor Oscar",
+      "quote": "The voice actor and puppeteer who played Rocky in Project Hail Mary is being submitted for a Best Supporting Actor Oscar.",
+      "publisher": "The A.V. Club",
+      "author": "William Hughes",
+      "date": "2026-10-29T01:06:25+00:00",
+      "link": "https://www.avclub.com/project-hail-mary-rocky-puppeteer-james-ortiz-oscar-submission",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/03/18170023/project-hail-mary-rocky-header.jpg",
+      "category": "Festival Winners"
     },
     {
-      "id": "121761d920d82f47",
-      "title": "Layoffs Hit Disney Experiences",
-      "quote": "Disney today laid off between 100 and 200 in its Experiences division, Deadline has confirmed. Experiences includes the company’s theme parks, resorts and cruise lines. The bulk of the pink slips were at Disney’s…",
-      "publisher": "Deadline",
-      "author": "Tomt",
-      "date": "2026-10-29T00:37:09+00:00",
-      "link": "https://deadline.com/2026/10/disney-layoffs-experiences-imagineering-1237207701/",
-      "image": "https://deadline.com/wp-content/uploads/2025/02/GettyImages-2194098424.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "c5918be08a08e1e2",
-      "title": "‘Smile 3’ Taps ‘Hellraiser’ Director David Bruckner Amid Parker Finn’s Absence",
-      "quote": "Paramount is giving horror fans something to smile about with a third installment in Parker Finn’s Smile franchise. On Wednesday, the studio announced David Bruckner (Hellraiser, The Night House) will helm the next…",
-      "publisher": "Deadline",
-      "author": "Glenn Garner",
-      "date": "2026-10-29T00:22:30+00:00",
-      "link": "https://deadline.com/2026/10/smile-3-taps-director-david-bruckner-1237207722/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/Smile-2.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "b94715202346a17f",
-      "title": "Paris Jackson Wants No More “Smoke & Mirrors” Over MJ Money After Estate Trashes Her Latest Claims As “Nonsensical”",
-      "quote": "Paris Jackson is claiming the executor of her father’s fortune and legacy has once again failed “to meet his fundamental disclosure obligations” despite a very explicit court order on those money matters. At the same…",
-      "publisher": "Deadline",
-      "author": "Dominic Patten",
-      "date": "2026-10-29T00:03:52+00:00",
-      "link": "https://deadline.com/2026/10/michael-jackson-estate-lawsuit-paris-1237207483/",
-      "image": "https://deadline.com/wp-content/uploads/2026/03/Paris-JAckson-Michael-Jackson-and-John-Branca.jpg",
-      "category": "World Cinema"
+      "id": "d2fa7023d4f79c00",
+      "title": "Alexander Payne sued over The Holdovers plagiarism accusations",
+      "quote": "Alexander Payne has been sued over <i>The Holdovers</i> plagiarism accusations.",
+      "publisher": "The A.V. Club",
+      "author": "William Hughes",
+      "date": "2026-10-28T23:39:58+00:00",
+      "link": "https://www.avclub.com/alexander-payne-sued-holdovers-plagiarism-accusations",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2025/04/25102821/the-holdovers-still-feature.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "00bfa260034b9c3e",
@@ -141,6 +295,17 @@
       "category": "Indian Cinema"
     },
     {
+      "id": "17d28f246f69e58a",
+      "title": "Nathan Fielder and Lance Oppenheim have no more \"clarity\" on Elizabeth Holmes' motives now than when they started",
+      "quote": "Nathan Fielder and Lance Oppenheim still have absolutely zero clarity on what Elizabeth Holmes and Billy Evans wanted from them.",
+      "publisher": "The A.V. Club",
+      "author": "William Hughes",
+      "date": "2026-10-28T22:52:38+00:00",
+      "link": "https://www.avclub.com/nathan-fielder-lance-oppenheimer-elizabeth-holmes-clarity",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/09/08092107/MixCollage-08-Sep-2026-09-16-AM-9784.jpg",
+      "category": "Indie Gems"
+    },
+    {
       "id": "315c13a8b1c2a674",
       "title": "‘The Mongoose’ Review: Propulsive Pacing and Impressive Stunt Work Help Make This an Above-Average Liam Neeson Actioner",
       "quote": "The veteran star takes it on the lam in a souped-up sports car in this high-octane thriller co-starring Marisa Tomei, Ving Rhames and Michael Chiklis.",
@@ -150,6 +315,17 @@
       "link": "https://www.hollywoodreporter.com/movies/movie-reviews/the-mongoose-review-liam-neeson-1236741778/",
       "image": null,
       "category": "World Cinema"
+    },
+    {
+      "id": "b81d6b2c9b1cc86f",
+      "title": "LaKeith Stanfield has abandoned the Molepeople",
+      "quote": "LaKeith Stanfield and <i>Other Mommy</i>'s Rob Savage have abandoned the <i>Molepeople</i>.",
+      "publisher": "The A.V. Club",
+      "author": "William Hughes",
+      "date": "2026-10-28T21:59:31+00:00",
+      "link": "https://www.avclub.com/lakeith-stanfield-has-abandoned-the-molepeople-ben-wheatley",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/10/28/lakeith-stanfield-feature.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "ed07682bae409d7f",
@@ -183,17 +359,6 @@
       "link": "https://www.avclub.com/google-ai-2020-presidential-election-winner-biden",
       "image": "https://img.pastemagazine.com/wp-content/avuploads/2025/02/03164308/Screenshot-2025-02-03-at-4.39.04-PM.jpg",
       "category": "Indie Gems"
-    },
-    {
-      "id": "9d26f536a2a2e1b8",
-      "title": "Austen again? Make it worth our while",
-      "quote": "Another Sense and Sensibility must prove it has more to say than its predecessors",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-28T21:06:57+00:00",
-      "link": "https://www.thehindu.com/entertainment/jane-austen-adaptations-column/article71631268.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/d6q33k/article71637868.ece/alternates/LANDSCAPE_1200/MAIN%20BIG%20STILL%20sense-and-sensibility-2026.jpg",
-      "category": "Indian Cinema"
     },
     {
       "id": "9ea580f51a5786f5",
@@ -237,17 +402,6 @@
       "date": "2026-10-28T18:33:08+00:00",
       "link": "https://www.avclub.com/john-goodman-the-beast-in-me-season-two-netflix",
       "image": "https://www.avclub.com/wp-content/uploads/2026/10/28/goodman-header.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "8fb3d58e7d26ae79",
-      "title": "Léa Seydoux's married a Gentle Monster in scandal-inspired drama",
-      "quote": "Marie Kreutzer's drama Gentle Monster takes from her own life and the headlines around it, but flinches from asking provocative questions.",
-      "publisher": "The A.V. Club",
-      "author": "Natalia Keogan",
-      "date": "2026-10-28T18:00:47+00:00",
-      "link": "https://www.avclub.com/gentle-monster-review-netflix-marie-kreutzer-lea-seydoux-florian-teichtmeister-child-predator",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/10/28/gentle-monster-header.jpg",
       "category": "Indie Gems"
     },
     {
@@ -306,28 +460,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "a202d840aff4f7ad",
-      "title": "The Lord Of The Rings: The Rings Of Power Season 3 Reactions Have Critics United",
-      "quote": "Judging by the early reactions to The Lord of the Rings: The Rings of Power Season 3, Middle-earth's villains are a major highlight of this go-round.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Jeremy Mathai)",
-      "date": "2026-10-28T17:11:11+00:00",
-      "link": "https://www.slashfilm.com/2299916/the-lord-of-the-rings-the-rings-of-power-season-3-reactions/",
-      "image": "https://www.slashfilm.com/img/gallery/the-lord-of-the-rings-the-rings-of-power-season-3-reactions-have-critics-united/l-intro-1793207274.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "eaad822b62082519",
-      "title": "Kathleen Kennedy now running 2028 Olympic ceremonies",
-      "quote": "Former Lucasfilm head Kathleen Kennedy is now in charge of the opening and closing ceremonies for the 2028 Olympics in Los Angeles, following Peter Rice's move to Netflix.",
-      "publisher": "The A.V. Club",
-      "author": "Olivia Singh",
-      "date": "2026-10-28T17:10:46+00:00",
-      "link": "https://www.avclub.com/kathleen-kennedy-2028-olympics-opening-closing-ceremonies",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/10/28/kathleen-kennedy-in-2017-wikimedia-commons-featured.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "da014164e2e47ba1",
       "title": "Iranian film-maker Jafar Panahi given new prison sentence",
       "quote": "Charges against him are unclear after return to Iran despite being sentenced last year for ‘propaganda activities’ An Iranian court has handed the award-winning film director Jafar Panahi a new prison sentence of five…",
@@ -337,50 +469,6 @@
       "link": "https://www.theguardian.com/film/2026/oct/28/iran-film-maker-jafar-panahi-new-prison-sentence-assets-seized",
       "image": "https://i.guim.co.uk/img/media/eeda814a0e57b32cb66caf23aad99c1bc3a01f27/480_226_3047_2438/master/3047.jpg?width=140&quality=85&auto=format&fit=max&s=e53f652b0be8750a57a79db0e4f307e5",
       "category": "Festival Winners"
-    },
-    {
-      "id": "06ba44e6dacf652b",
-      "title": "So, Crystal Lake is doing well",
-      "quote": "Nice news for prestige TV horror-heads: <i>Crystal Lake</i> racked up an impressive 1.3 billion watch minutes in its first 11 days on Peacock, making it the fourth most-watched scripted original series on the platform.",
-      "publisher": "The A.V. Club",
-      "author": "Jarrod Jones",
-      "date": "2026-10-28T16:49:26+00:00",
-      "link": "https://www.avclub.com/crystal-lake-streaming-numbers-peacock-a24",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/10/28/crystal-lake-header.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "3becc4f4f17cf688",
-      "title": "Nobody Wants This matriarch Tovah Feldshuh scolds star Adam Brody over Israel genocide remarks",
-      "quote": "Stage and screen legend Tovah Feldshuh called costar Adam Brody's recent statements condemning Israel's Gaza actions \"right out of Hitler's playbook.\"",
-      "publisher": "The A.V. Club",
-      "author": "Dennis Perkins",
-      "date": "2026-10-28T16:43:30+00:00",
-      "link": "https://www.avclub.com/tovah-feldshuh-criticizes-adam-brody-gaza-genocide",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/10/28/TF-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "52618017d2d93d83",
-      "title": "Jennifer Lawrence now openly talking about returning to Katniss role",
-      "quote": "During an appearance on <i>Call Her Daddy</i>, Jennifer Lawrence confirmed she'll return as Katniss Everdeen in <i>The Hunger Games: Sunrise On The Reaping</i>, along with Josh Hutcherson and Woody Harrelson.",
-      "publisher": "The A.V. Club",
-      "author": "Olivia Singh",
-      "date": "2026-10-28T16:10:31+00:00",
-      "link": "https://www.avclub.com/jennifer-lawrence-katniss-hunger-games-sunrise-on-the-reaping",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/10/28/the-hunger-games-mockingjay-part-1-jennifer-lawrence-katniss-featured.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "017409b7be5291d3",
-      "title": "‘The Terminal List’ Season 2 review: Chris Pratt returns for a better Round 2",
-      "quote": "By opening up its canvas in the sophomore season, the military thriller offers a tighter tale with a side of graphic violence",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-28T13:00:34+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/the-terminal-list-season-2-review-chris-pratt-constance-wu-taylor-kitsch-tom-hopper/article71626842.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/gb82f2/article71627940.ece/alternates/LANDSCAPE_1200/Chris%20Pratt%20The%20Terminal%20List%20Season%202.jpg",
-      "category": "Indian Cinema"
     },
     {
       "id": "d7b3fd83019d1f63",
@@ -416,50 +504,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "ca52e8a3fd93e4e9",
-      "title": "‘Ayyana Mane 2’ series review: A promising murder mystery undone by uneven writing",
-      "quote": "In the Kannada series ‘Ayyana Mane 2’, some threads stretch a bit while the big twists land mainly near the end, making it a passable watch",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-28T11:51:10+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/ayyana-mane-season-2-series-review-kannada-series-zee-5-kushee-ravi/article71635508.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/14opv4/article71635562.ece/alternates/LANDSCAPE_1200/Ayyana%20Mane%202.jpeg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "50c2f6e179da444c",
-      "title": "Keralam govt approves J.C. Daniel film city project at Kinfra’s Petrochemicals Park in Ambalamugal",
-      "quote": "Around 30 acres will be utilised for the project, which is estimated to cost about ₹100 crore. Tender proceedings for finalising design framework, to be implemented in a public-private partnership mode, will be…",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-28T11:30:34+00:00",
-      "link": "https://www.thehindu.com/news/national/kerala/keralam-govt-approves-jc-daniel-film-city-project-at-kinfras-petrochemicals-park-in-ambalamugal/article71634590.ece",
-      "image": "https://th-i.thgim.com/public/news/national/kerala/1ukfuc/article71635395.ece/alternates/LANDSCAPE_1200/01tv%20movie%20sets.jpg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "102df9e5a0b8e8cd",
-      "title": "‘Love Always’: Gouri Kishan, Jayaprakash and Jayasudha on revisiting the past",
-      "quote": "The cast of the upcoming Tamil fantasy romance series ‘Love Always’ speaks about age reversal, second chances, and the lives they would revisit",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-28T11:22:41+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/love-always-gouri-kishan-jayaprakash-and-jayasudha-on-revisiting-the-past/article71634649.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/8u0jw6/article71634702.ece/alternates/LANDSCAPE_1200/Love_5401.jpg.jpeg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "01814d85e5786780",
-      "title": "‘Jailer 2’: How singer MS Krsna landed a song with Rajinikanth and Anirudh",
-      "quote": "From indie music to a song in Rajinikanth’s latest hit, MS Krsna is finding his moment in the spotlight",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-28T11:16:12+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/jailer-2-how-singer-ms-krsna-landed-a-song-with-rajinikanth-and-anirudh/article71626340.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/c72pw5/article71626375.ece/alternates/LANDSCAPE_1200/MS%20Krsna%20Rajinkanth%20Jailer%202.jpg.jpeg",
-      "category": "Indian Cinema"
-    },
-    {
       "id": "bcca3c8f75988232",
       "title": "The Devils review – Ken Russell’s 1971 possessed-nuns tale is a frenzied aria of confrontation and hysteria",
       "quote": "Oliver Reed and Vanessa Redgrave put in the performances of their lives in this film originally banned for obscenity that highlights the violence of power ‘I could never be Satan’s boy. I haven’t the humility.” The…",
@@ -493,39 +537,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "b5be25e88b95311f",
-      "title": "‘CID’, ‘Aahat’ maker BP Singh dies at 75",
-      "quote": "Singh was best known for creating ‘CID,’ the crime investigation series that premiered in 1998 and went on to become one of the longest-running shows on Indian television",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-28T10:17:36+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/cid-aahat-maker-bp-singh-dies-at-75/article71635294.ece",
-      "image": "https://th-i.thgim.com/public/incoming/kmneg1/article71635357.ece/alternates/LANDSCAPE_1200/23dmc_bpsingh.jpg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "72e340e973ed4f09",
-      "title": "Everest: The Other Side review – couple’s climb on the mountain’s toughest face comes with tricky moral questions",
-      "quote": "Immersive portrait of mountaineers Jim Morrison and Hilaree Nelson as they seek to become the first people to ski down Everest’s north face With some of its showings in the huge Imax format, this National…",
-      "publisher": "The Guardian",
-      "author": "Leslie Felperin",
-      "date": "2026-10-28T09:00:02+00:00",
-      "link": "https://www.theguardian.com/film/2026/oct/28/everest-other-side-documentary-movie-review-jim-morrison-hilaree-nelson",
-      "image": "https://i.guim.co.uk/img/media/9156ec9a14a257330f047e3feba0a4b9a5cb3cf4/199_0_2500_2001/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=af97d8e87df51e8caa394790b3e822de",
-      "category": "World Cinema"
-    },
-    {
-      "id": "1b81755a065563cb",
-      "title": "Peter Asher: Everywhere Man review – music-biz face from Beatles-buddy pop act to superstar producer",
-      "quote": "Backstory of modest industry veteran who started out as one half of pop duo Peter and Gordon, and went on to produce acts such as James Taylor and Linda Ronstadt Rock’n’roll is notorious for its tales of bad behaviour…",
-      "publisher": "The Guardian",
-      "author": "Andrew Pulver",
-      "date": "2026-10-28T07:00:03+00:00",
-      "link": "https://www.theguardian.com/film/2026/oct/28/peter-asher-everywhere-man-review-from-singer-of-beatles-cast-offs-to-super-star-producer",
-      "image": "https://i.guim.co.uk/img/media/486ee3f09a27338ff2a97f134066502504f02769/141_249_1486_1189/master/1486.jpg?width=140&quality=85&auto=format&fit=max&s=bc5cb22a6dd13f7d6bab4efc5fe59b30",
-      "category": "World Cinema"
-    },
-    {
       "id": "7e2e57750228ac10",
       "title": "‘Until the Day Ends’ Review: Two People Connect Across a Political Divide in a Striking Serbian Youth Drama",
       "quote": "Amid the turmoil of mass student protests in the streets of Belgrade, two young people are bonded by a rash act of rebellion, despite their outwardly incompatible ideologies. The premise of Serbian writer-director…",
@@ -534,17 +545,6 @@
       "date": "2026-10-27T14:44:05+00:00",
       "link": "https://variety.com/2026/film/reviews/until-the-day-ends-review-1236931675/",
       "image": "https://variety.com/wp-content/uploads/2026/07/Until-the-Day-Ends.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "2498aed7013a8cd2",
-      "title": "Arnie & Barney review – dimwit ant double-act from Maya the Bee are on mission to entertain",
-      "quote": "From the ugly design to the lacklustre script, this is one parents might want to skip this half-term holiday In 1912 in Germany, antisemitic writer Waldemar Bonsels published The Adventures of Maya the Bee, which later…",
-      "publisher": "The Guardian",
-      "author": "Catherine Bray",
-      "date": "2026-10-27T11:00:37+00:00",
-      "link": "https://www.theguardian.com/film/2026/oct/27/arnie-and-barney-review",
-      "image": "https://i.guim.co.uk/img/media/d0e627d7491b2ea286ba3b06c15d78312dd52dcf/244_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=bd7a7477f47bfc6da29d5d7fb946178c",
       "category": "World Cinema"
     },
     {
@@ -757,17 +757,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "bac167786f7c4ee7",
-      "title": "How the Kennedys averted the Cuban missile crisis",
-      "quote": "In October 1962, the world came to the brink of nuclear war",
-      "publisher": "BBC Culture",
-      "author": null,
-      "date": "2026-10-19T11:00:00+00:00",
-      "link": "https://www.bbc.com/culture/article/20261015-the-men-who-averted-the-1962-cuban-missile-crisis?ocid=global_culture_rss",
-      "image": "https://ychef.files.bbci.co.uk/144x81/p0pgz07l.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "77cfc60c583e55c3",
       "title": "‘Capturing Bigfoot’ Review: An Astounding Documentary Uncovers the Truth",
       "quote": "\"Capturing Bigfoot\" is an amazing documentary about the legend of Bigfoot — about how it was born, how it took hold, and how that iconic piece of film footage came to be. It’s a documentary that answers all the…",
@@ -799,6 +788,17 @@
       "link": "https://www.hollywoodreporter.com/movies/movie-reviews/street-fighter-review-noah-centineo-1236730035/",
       "image": null,
       "category": "World Cinema"
+    },
+    {
+      "id": "1db6f2307aa46cd1",
+      "title": "Gentle Monster review – disquieting drama about two women facing the truth about the men they love",
+      "quote": "Léa Seydoux is a wife and mother whose life unravels when police arrive to quiz her husband; Jella Haase is a detective dealing with her ailing father’s misdeeds Marie Kreutzer is the Austrian director who created…",
+      "publisher": "The Guardian",
+      "author": "Peter Bradshaw",
+      "date": "2026-05-15T21:56:52+00:00",
+      "link": "https://www.theguardian.com/film/2026/may/15/gentle-monster-review-disquieting-drama-about-two-women-facing-the-truth-about-the-men-they-love",
+      "image": "https://i.guim.co.uk/img/media/60875a3d4ddc2f5abdab165b4545b278b40b60ac/1160_957_3363_2691/master/3363.jpg?width=140&quality=85&auto=format&fit=max&s=05990e0cc38b24d71ce55b247fdb9a67",
+      "category": "Festival Winners"
     },
     {
       "id": "76d8786d13278ebb",
