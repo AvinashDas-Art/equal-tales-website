@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T05:23:20.189045+00:00",
+  "generated_at": "2026-10-30T12:36:26.257164+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -9,15 +9,246 @@
   ],
   "reviews": [
     {
-      "id": "b574a59c4f8a218d",
-      "title": "Delhi HC asks Sourav Ganguly to specify infringing content in film ‘Doosra’",
-      "quote": "Opposing Sourav Ganguly’s plea, the makers of ‘Doosra’ maintained that the cricketer was merely a source of inspiration for the film",
+      "id": "369cea9e6a205187",
+      "title": "Russell Brand Rape Trial: Channel 4 Film Was Not “Magic Force” That Caused Accusers To “Recast” Memories, Court Hears In Closing Arguments",
+      "quote": "Editor’s note: This story contains details of alleged sexual offenses that some readers may find distressing. Channel 4’s 2023 exposé on Russell Brand was not a “magic force” that caused six separate women to “recast”…",
+      "publisher": "Deadline",
+      "author": "Jake Kanter",
+      "date": "2026-10-30T12:26:57+00:00",
+      "link": "https://deadline.com/2026/10/russell-brand-prosecution-channel-4-magic-force-1237209331/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/GettyImages-2302500696-e1793354830304.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "25a654559922b1e9",
+      "title": "What these rotund remakes of masterpieces tell us",
+      "quote": "Colombian artist Fernando Botero's paintings reimagine historic European art",
+      "publisher": "BBC Culture",
+      "author": null,
+      "date": "2026-10-30T12:00:00+00:00",
+      "link": "https://www.bbc.com/culture/article/20261030-what-boteros-rotund-remakes-of-classical-masterpieces-tell-us-about-art-history?ocid=global_culture_rss",
+      "image": "https://ychef.files.bbci.co.uk/144x81/p0pkg6n2.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "e0dc406e0c7fb210",
+      "title": "One Animated Show Proved Patrick Stewart Was An Underrated Comedic Genius",
+      "quote": "Besides being a classically trained actor, Sir Patrick Stewart was also hilarious, especially on this animated show he starred in for over 20 years.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Ryan Scott)",
+      "date": "2026-10-30T12:00:00+00:00",
+      "link": "https://www.slashfilm.com/2301770/patrick-stewart-animated-show-underrated-comedic-genius-american-dad/",
+      "image": "https://www.slashfilm.com/img/gallery/one-animated-show-proved-patrick-stewart-was-an-underrated-comedic-genius/l-intro-1793309356.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "949be24582bcf5a7",
+      "title": "‘Love Always’ series review: A well-intentioned story and potent concept undone by juvenile treatment",
+      "quote": "In turning back the clock on an ageing couple, ‘Love Always’ stumbles upon a potent exploration of regret, desire and second chances, but Madhumitha’s series is too caught up in its own melodrama to make the most of its…",
       "publisher": "The Hindu",
       "author": null,
-      "date": "2026-10-30T05:14:44+00:00",
-      "link": "https://www.thehindu.com/news/cities/Delhi/delhi-hc-asks-sourav-ganguly-to-specify-infringing-content-in-film-doosra/article71640888.ece",
-      "image": "https://th-i.thgim.com/public/incoming/cmpn7u/article71643736.ece/alternates/LANDSCAPE_1200/PTI07_30_2026_000489A.jpg",
+      "date": "2026-10-30T11:47:33+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/love-always-series-review-madhumitha-jayaprakash-jayasudha-gouri-kishan-ramzan-muhammed/article71643936.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/fwlf0x/article71644859.ece/alternates/LANDSCAPE_1200/love%20always%20review.png",
       "category": "Indian Cinema"
+    },
+    {
+      "id": "0a426620b518bffe",
+      "title": "‘Eetha’ trailer: Shraddha Kapoor adds charm to the life of Lavani legend in biopic",
+      "quote": "Directed by Laxman Utekar, ‘Eetha’ will be released in theatres on December 4",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-30T11:32:41+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/eetha-trailer-shraddha-kapoor-adds-charm-to-the-life-of-lavani-legend-in-biopic/article71644738.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/gu6gjn/article71644753.ece/alternates/LANDSCAPE_1200/Shraddha%20Kapoor%20in%20the%20trailer%20of%20%E2%80%98Eetha%E2%80%99",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "7a0b2146caed8b6b",
+      "title": "Patrick Stewart, Shakespearean actor turned 'Star Trek' and 'X-Men' star, dies at 86",
+      "quote": "Stewart became an actor at age 18 and gained acclaim on the stage as a member of the Royal Shakespeare Company beginning in the 1960s",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-30T11:21:36+00:00",
+      "link": "https://www.thehindu.com/entertainment/patrick-stewart-shakespearean-actor-turned-star-trek-and-x-men-star-dies-at-86/article71642350.ece",
+      "image": "https://th-i.thgim.com/public/incoming/copacc/article71642352.ece/alternates/LANDSCAPE_1200/2026-10-29T202335Z_72430555_RC2OXU91OTDR_RTRMADP_3_PEOPLE-PATRICK-STEWART.JPG",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "5ba0a14db16608b8",
+      "title": "The definitive scariest films of 21st century: 20 horror films that made nightmares out of cinema",
+      "quote": "Happy Halloween! We folks here in India may not get to fully partake in the traditional trick-or-treating festivities of spooky szn like our Western counterparts, but we’re putting our money on these 20 as the scariest…",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-30T11:16:04+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/top-20-scariest-horror-films-of-21st-century-incantation-hereditary-conjuring-the-descent-evil-dead/article71631061.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/n78xor/article71639786.ece/alternates/LANDSCAPE_1200/20%20scariest%20horror%20films%20of%2021st%20century.jpeg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "4bcc7d497d07d800",
+      "title": "#Cult movie review: Vishwak Sen’s slasher thriller is ambitious but lacks finesse",
+      "quote": "Vishwak Sen is back in fine form as an actor, but the film would have benefitted from sharper writing and execution",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-30T11:10:53+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/cult-movie-review-vishwak-sens-slasher-thriller-is-ambitious-but-lacks-finesse/article71644669.ece",
+      "image": "https://th-i.thgim.com/public/incoming/mvch7e/article71644686.ece/alternates/LANDSCAPE_1200/DSC09951.JPG.jpeg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "1909b727a187137a",
+      "title": "Graphic violence in cinema: How much is too much?",
+      "quote": "From ‘The Paradise’ and ‘Ranabaali’ to ‘Toxic’, bloodshed and brutality are being packaged as heroism, while women and children pay the price",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-30T11:10:47+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/graphic-violence-in-cinema-how-much-is-too-much/article71639294.ece",
+      "image": "https://th-i.thgim.com/public/incoming/l2kf5m/article71639320.ece/alternates/LANDSCAPE_1200/The%20Paradise.jpeg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "638b349dd1efb7aa",
+      "title": "Why Frankenstein is so misunderstood",
+      "quote": "How Mary Shelley's novel's phenomenal success overshadowed its message",
+      "publisher": "BBC Culture",
+      "author": null,
+      "date": "2026-10-30T11:00:00+00:00",
+      "link": "https://www.bbc.com/culture/article/20180611-why-frankenstein-is-the-story-that-defined-our-fears?ocid=global_culture_rss",
+      "image": "https://ychef.files.bbci.co.uk/144x81/p0m8hkdr.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "29bf774a78c74789",
+      "title": "‘Aadarsha Kutumbam-House No.47’ movie review: Venkatesh anchors Trivikram’s predictable yet entertaining family drama",
+      "quote": "Trivikram revisits familiar territory with a story built around Venkatesh’s family-man image, delivering entertaining twists before the narrative loses its way",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-30T10:16:04+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/aadarsha-kutumbam-house-no47-movie-review-venkatesh-anchors-trivikrams-family-drama/article71641841.ece",
+      "image": "https://th-i.thgim.com/public/incoming/w7frv3/article71641852.ece/alternates/LANDSCAPE_1200/AK47%20Teaser%20Thumb.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "8dfd5c843601d33d",
+      "title": "Bhushan Kumar joins Rishab Shetty for two-part biopic on Chhatrapati Shivaji Maharaj",
+      "quote": "Co-written and directed by Sandeep Singh, the project is currently under pre-production",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-30T10:15:12+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/bhushan-kumar-joins-rishab-shetty-for-two-part-biopic-on-chhatrapati-shivaji-maharaj/article71644551.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/wm3zpo/article71644569.ece/alternates/LANDSCAPE_1200/cvr%20-%202026-10-30T153827.366.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "1bc856eadf7d29bb",
+      "title": "Oh to Believe in Another World review – William Kentridge’s amazing animated ballet of black comic pain",
+      "quote": "Kentridge’s cine-musical creation, made to accompany Shostakovich’s 10th Symphony, is a marvel of puppetry, dance and humour, exploring humanity, grief and idealism The Baku international arts festival in Azerbaijan is…",
+      "publisher": "The Guardian",
+      "author": "Peter Bradshaw",
+      "date": "2026-10-30T09:29:33+00:00",
+      "link": "https://www.theguardian.com/film/2026/oct/30/oh-to-believe-in-another-world-review-william-kentridges-amazing-animated-ballet-of-black-comic-pain",
+      "image": "https://i.guim.co.uk/img/media/767e80dd289faea26ca4fe0ee96b3c5c9829a068/753_19_2828_2263/master/2828.jpg?width=140&quality=85&auto=format&fit=max&s=70b94b0b4c2ec2ea6cc46981cbce9475",
+      "category": "World Cinema"
+    },
+    {
+      "id": "5b8fdaac9609426c",
+      "title": "AI Dubbing Pioneer Flawless Sells Technology In Deal That Raises Questions About Its Future",
+      "quote": "EXCLUSIVE: Flawless, the British-American company that spent $100 million building SAG-AFTRA-endorsed AI dubbing technology used on movies like Fall, has sold its intellectual property. In an unusual deal that raises…",
+      "publisher": "Deadline",
+      "author": "Jake Kanter",
+      "date": "2026-10-30T09:23:09+00:00",
+      "link": "https://deadline.com/2026/10/flawless-ai-dubbing-sells-technology-1237208379/",
+      "image": "https://deadline.com/wp-content/uploads/2023/03/fall-2022-1200-1200-675-675-crop-000000.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "2312a836d1c055f3",
+      "title": "Supermodel Rose Bertram On Her Revealing Feature Doc: “The Thing I’ve Kept Secret For So Long Is Now, In A Way, Being Shared With The World”",
+      "quote": "EXCLUSIVE: Belgian supermodel Rose Bertram has opened up about the documentary that chronicles her professional and family life and how she has coped with her mother’s addiction issues. Production has now wrapped on A…",
+      "publisher": "Deadline",
+      "author": "Stewart Clarke",
+      "date": "2026-10-30T09:15:30+00:00",
+      "link": "https://deadline.com/2026/10/supermodel-rose-bertram-documentary-a-girl-like-rose-2027-1237208052/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/rose-bertram.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "1884722938f5e36a",
+      "title": "Skydance International Sets Its Four Regional Leads: Andrew Georgiou Exiting Europe & Africa Role",
+      "quote": "Andrew Georgiou is exiting the newly-minted Skydance along with a number of senior executives as JB Perrette unveils his international structure. Following the $110B Skydance merger, the final pieces of the…",
+      "publisher": "Deadline",
+      "author": "Max Goldbart",
+      "date": "2026-10-30T09:06:41+00:00",
+      "link": "https://deadline.com/2026/10/skydance-international-regional-leads-georgiou-exiting-1237209311/",
+      "image": "https://deadline.com/wp-content/uploads/2023/08/Andrew_Georgiou-reduced-e1691661944116.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "aa1faba604e7106b",
+      "title": "‘I left shellshocked’: writers on their scariest non-horror movies",
+      "quote": "For Halloween, Guardian writers have picked the most efficiently terrifying films outside of the horror genre from How to Have Sex to The Hunchback of Notre Dame Minor spoilers ahead Hiding in plain sight throughout Lee…",
+      "publisher": "The Guardian",
+      "author": "Radheyan Simonpillai, Morgan Jerkins, Alaina Demopoulos, Veronica Esposito, Andrew Lawrence,Juan A Ramírez, Jesse Hassenger, Shrai Popat,Rafaela Bassili, Benjamin Lee, Adrian Horton and Andrew Pulver",
+      "date": "2026-10-30T09:00:50+00:00",
+      "link": "https://www.theguardian.com/film/2026/oct/30/scariest-non-horror-movies",
+      "image": "https://i.guim.co.uk/img/media/1790e09bea721dd17b1415a3fc87c9bf0891235e/630_0_2974_2381/master/2974.jpg?width=140&quality=85&auto=format&fit=max&s=426642a639d4dbf873248a884ee88c6f",
+      "category": "World Cinema"
+    },
+    {
+      "id": "96875b1be9b38054",
+      "title": "Former Movistar Plus Content Chief Domingo Corral On His HBO Deal & Why Quality TV Can Be Commercial",
+      "quote": "Former Movistar Plus content boss Domingo Corral sees his production deal with HBO Max as the route to realising an ambition to make independent TV and film that is both mainstream and premium in quality. His shock exit…",
+      "publisher": "Deadline",
+      "author": "Jesse Whittock",
+      "date": "2026-10-30T09:00:00+00:00",
+      "link": "https://deadline.com/2026/10/domingo-corral-hbo-deal-quality-mainstream-1237173046/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/Domingo-Corral-e1793207085100.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "1ace4ef94dab76e9",
+      "title": "‘I saw the script and went: oooh!’ Olivia Colman and Alexander Skårsgard on their steamy folk-horror movie Wicker",
+      "quote": "She plays a depressed fisherwoman. He plays a man made of wicker who is solely dedicated to her pleasure. How did the actors feel about this strange, emotional connection – and what did Colman draw from her own…",
+      "publisher": "The Guardian",
+      "author": "Ryan Gilbey",
+      "date": "2026-10-30T08:00:48+00:00",
+      "link": "https://www.theguardian.com/film/2026/oct/30/i-saw-the-script-and-went-oooh-olivia-colman-and-alexander-skarsgard-on-their-steamy-folk-horror-movie-wicker",
+      "image": "https://i.guim.co.uk/img/media/d47b5322c26410f2cceaf0c888d44817a0c388d2/654_0_6539_5231/master/6539.jpg?width=140&quality=85&auto=format&fit=max&s=520c4f78bee6c564d38f40c039678f4b",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "c8b5d56dff1ff325",
+      "title": "Japan’s Animation Industry Grows 15.8% To Record $28BN, Driven By Both Domestic & Overseas Sales – TIFFCOM",
+      "quote": "Japan’s anime industry grew by 15.8% to $28.18BN (JPY4.45TR) in 2025, with growth coming from both local and overseas markets, according to figures presented by the Association of Japanese Animations (AJA) at TIFFCOM…",
+      "publisher": "Deadline",
+      "author": "Liz Shackleton",
+      "date": "2026-10-30T06:26:53+00:00",
+      "link": "https://deadline.com/2026/10/demon-slayer-anime-annual-report-japan-tiffcom-1237209296/",
+      "image": "https://deadline.com/wp-content/uploads/2025/12/Tanjiro.jpeg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "2f48de8ced8e1360",
+      "title": "Cate Blanchett, Shahrbanoo Sadat & Mohammad Rasoulof Bring Displacement Film Fund To Tokyo With Help From ‘Perfect Days’ Actor Kōji Yakusho",
+      "quote": "The first five short films produced under Cate Blanchett’s Displacement Film Fund screened this afternoon at the Tokyo Film Festival, and the two-time Oscar winner was present alongside DFF fund directors Shahrbanoo…",
+      "publisher": "Deadline",
+      "author": "Zac Ntim",
+      "date": "2026-10-30T06:22:35+00:00",
+      "link": "https://deadline.com/2026/10/cate-blanchett-shahrbanoo-sadat-mohammad-rasoulof-tokyo-1237209297/",
+      "image": "https://deadline.com/wp-content/uploads/2026/05/GettyImages-2276702391.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "fa4e83eaba0c2089",
+      "title": "Cupertino hits a hot streak with an incisive gambling app takedown",
+      "quote": "The resonant \"A.J. & Buddy\" increases Cupertino’s odds of being the fall’s sharpest new drama.",
+      "publisher": "The A.V. Club",
+      "author": "Saloni Gajjar",
+      "date": "2026-10-30T03:00:12+00:00",
+      "link": "https://www.avclub.com/cupertino-season-1-episode-4-recap",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/10/29/cupertino-4.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "8b49442d19351be1",
@@ -28,17 +259,6 @@
       "date": "2026-10-30T03:00:00+00:00",
       "link": "https://deadline.com/2026/10/a-few-good-men-broadway-review-1237206959/",
       "image": "https://deadline.com/wp-content/uploads/2026/10/A-Few-Good-Men_Emilio-Madrid_2433.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "899be84ff4997e15",
-      "title": "SAG-AFTRA Members Ratify TV Animation Contracts, Securing 12.6% Wage Increase For Voice Actors",
-      "quote": "SAG-AFTRA members nationwide have voted to ratify the 2026 Television Animation Agreement and Basic Cable Animation Agreement with the Alliance of Motion Picture and Television Producers (AMPTP). On Thursday, members…",
-      "publisher": "Deadline",
-      "author": "Glenn Garner",
-      "date": "2026-10-30T02:47:03+00:00",
-      "link": "https://deadline.com/2026/10/sag-aftra-members-ratify-tv-animation-contracts-2-1237209273/",
-      "image": "https://deadline.com/wp-content/uploads/2026/02/GettyImages-1689516333-e1793327854265.jpg",
       "category": "World Cinema"
     },
     {
@@ -64,70 +284,48 @@
       "category": "Indie Gems"
     },
     {
-      "id": "4d7bf6973da6b008",
-      "title": "‘Ghosts’: Rebecca Wisocky Talks Hetty’s Good, Long Look In The Mirror In Two-Part Halloween Special",
-      "quote": "SPOILER ALERT! This post contains details from the two-part Halloween special for CBS’ Ghosts. More ghosts from Hetty Woodstone’s (Rebecca Wisocky) past come back to haunt her in Thursday’s Ghosts Halloween special…",
-      "publisher": "Deadline",
-      "author": "Katie Campione",
-      "date": "2026-10-30T02:00:00+00:00",
-      "link": "https://deadline.com/2026/10/ghosts-rebecca-wisocky-hetty-sister-margaret-halloween-cbs-1237208538/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/3246613_GHST_S6_0186b-cf0bdd1e0b60a895.jpg",
-      "category": "World Cinema"
+      "id": "c446dee17daba907",
+      "title": "Ian McKellen, Hugh Jackman, and more pay tribute to their friend Patrick Stewart",
+      "quote": "Ian McKellen, Hugh Jackman, and more pay tribute to their friend Patrick Stewart",
+      "publisher": "The A.V. Club",
+      "author": "William Hughes",
+      "date": "2026-10-30T02:12:04+00:00",
+      "link": "https://www.avclub.com/patrick-stewart-tributes-ian-mckellen-hugh-jackman-levar-burton",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/10/30/stewart-mckellen-feature.jpg",
+      "category": "Indie Gems"
     },
     {
-      "id": "b1db648780ff9382",
-      "title": "Poorna Jagannathan Joins Hulu’s ‘Young Americans’ Pilot, Natalia Leite To Direct",
-      "quote": "Poorna Jagannathan (Deli Boys, Lanterns) has been cast as a series regular in Hulu’s Young Americans pilot. She joins the previously announced Scott Foley, Billie Boullet, Sam Rechner, Mia Isaac, Oscar Winter, and…",
-      "publisher": "Deadline",
-      "author": "Rosy Cordero",
-      "date": "2026-10-30T01:43:16+00:00",
-      "link": "https://deadline.com/2026/10/poorna-jagannathan-cast-hulu-young-americans-pilot-1237209103/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/split-2-split-1500x845-2-3.jpg",
-      "category": "Festival Winners"
+      "id": "4c7f7f05d8b02b5c",
+      "title": "The Traitors: New Blood finally plays the game the way it’s meant to be played",
+      "quote": "This week's episode of The Traitors: New Blood is easily the most satisfying hour of the season and proof that this castle is capable of learning, even if it takes a last-ditch pardon and an aggressively patient man to…",
+      "publisher": "The A.V. Club",
+      "author": "Shannon Miller",
+      "date": "2026-10-30T02:00:40+00:00",
+      "link": "https://www.avclub.com/the-traitors-new-blood-recap-episode-8",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/10/29191029/NUP_210713_00341-e1793315425908.jpg",
+      "category": "Indie Gems"
     },
     {
-      "id": "bd94f4b163a10570",
-      "title": "Ian McKellen Pays Tribute To Patrick Stewart: “He Wore His Heart On His Sleeve”",
-      "quote": "As the world mourns Sir Patrick Stewart’s death at age 86, a longtime friend and collaborator is paying tribute to his legacy. Sir Ian McKellen, who starred as Magneto opposite Stewart’s Professor X in the X-Men films…",
-      "publisher": "Deadline",
-      "author": "Glenn Garner",
-      "date": "2026-10-30T01:36:13+00:00",
-      "link": "https://deadline.com/2026/10/ian-mckellen-pays-tribute-patrick-stewart-1237209210/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/MSDXMEN_EC002.jpg",
-      "category": "World Cinema"
+      "id": "2a8775d35f93ed9d",
+      "title": "Mad Men's Matthew Weiner has already bailed on his Eddie Murphy Peacock drama",
+      "quote": "",
+      "publisher": "The A.V. Club",
+      "author": "William Hughes",
+      "date": "2026-10-30T01:41:01+00:00",
+      "link": "https://www.avclub.com/matthew-weiner-leaves-eddie-murphy-peacock-drama-chairman-creative-differences",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/10/30/weiner-murphy-feature.jpg",
+      "category": "Indie Gems"
     },
     {
-      "id": "064f2abc8acb460e",
-      "title": "Matthew Weiner Exits Eddie Murphy Peacock Series ‘The Chairman’ As Showrunner",
-      "quote": "The Chairman is getting a new showrunner. Mad Men creator Matthew Weiner, who had been tapped as writer, executive producer and showrunner on the high-profile drama starring Eddie Murphy, has departed the series in the…",
-      "publisher": "Deadline",
-      "author": "Nellie Andreeva",
-      "date": "2026-10-30T01:05:11+00:00",
-      "link": "https://deadline.com/2026/10/matthew-weiner-leaving-eddie-murphy-the-chairman-peacock-1237209187/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/Eddie-Murphy-Matthew-Weiner.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "d341e4ccb8698208",
-      "title": "Justin H. Min Starrer ‘Journey There’ & Hong Sangsoo’s ‘Nowhere To Lay My Eyes’ Sell To Multiple Territories",
-      "quote": "Korean sales company Finecut has sold Journey There, starring The Umbrella Academy‘s Justin H. Min, to multiple territories. The Seoul-based company has also closed further deals on Hong Sangsoo’s Locarno film festival…",
-      "publisher": "Deadline",
-      "author": "Liz Shackleton",
-      "date": "2026-10-30T00:40:57+00:00",
-      "link": "https://deadline.com/2026/10/justin-h-min-journey-there-hong-sangsoo-finecut-japan-1237208106/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/Journey-There.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "d69c33b294840757",
-      "title": "SAG-AFTRA, WGA & AFM Ask Judge To Reject Fair Use Exemption In OpenAI Copyright Battle & Warn Of “Harms Of Unlicensed Training” For AI Models",
-      "quote": "SAG-AFTRA, the American Federation of Music and the Writers Guild of America East and West are calling on a federal judge to reject a fair use exemption for training AI models. The unions jointly filed an amicus brief…",
-      "publisher": "Deadline",
-      "author": "Katie Campione",
-      "date": "2026-10-30T00:13:06+00:00",
-      "link": "https://deadline.com/2026/10/sag-aftra-wga-afm-openai-copyright-court-battle-brief-1237209138/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/openAI-NYT-getty-image.jpg",
-      "category": "World Cinema"
+      "id": "e6c8020ab257c8a3",
+      "title": "Byron Allen has already flipped his stake in Starz",
+      "quote": "After saying he was \"going to do whatever I need to do to control Starz,\" Byron Allen has sold his stake in Starz.",
+      "publisher": "The A.V. Club",
+      "author": "Matt Schimkowitz",
+      "date": "2026-10-29T23:57:41+00:00",
+      "link": "https://www.avclub.com/byron-allen-sells-starz-stake",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2025/05/27153100/videoframe_56983.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "2304aba28c522d16",
@@ -141,6 +339,28 @@
       "category": "Indie Gems"
     },
     {
+      "id": "7622d7199771f69c",
+      "title": "Bradley Whitford says West Wing folks have a \"wise reticence\" about messing with success",
+      "quote": "Bradley Whitford says <i>West Wing</i> folks have a \"wise reticence\" about messing with success",
+      "publisher": "The A.V. Club",
+      "author": "William Hughes",
+      "date": "2026-10-29T23:33:37+00:00",
+      "link": "https://www.avclub.com/bradley-whitford-west-wing-revival-wise-reticence",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/10/29/whitford-red-carpet-feature.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "b428cafc80e2133c",
+      "title": "Extremely strange indie horror game Mouthwashing is getting a film version from Karyn Kusama",
+      "quote": "Karyn Kusama is doing a film version of extremely strange indie horror game <i>Mouthwashing</i>",
+      "publisher": "The A.V. Club",
+      "author": "William Hughes",
+      "date": "2026-10-29T22:23:46+00:00",
+      "link": "https://www.avclub.com/karyn-kusama-mouthwashing-movie",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/10/29/mouthwashing-feature.jpg",
+      "category": "Indie Gems"
+    },
+    {
       "id": "d29acbcb0c5edaeb",
       "title": "Patrick Stewart: Hollywood Reacts To Death Of Star Trek And X-Men Actor",
       "quote": "Friends, colleagues, and collaborators have taken to social media to share their memories and tributes to the late, great Patrick Stewart.",
@@ -148,7 +368,7 @@
       "author": "staff@slashfilm.com (Bill Bria)",
       "date": "2026-10-29T21:45:13+00:00",
       "link": "https://www.slashfilm.com/2301783/patrick-stewart-death-hollywood-reactions-star-trek-x-men-actor/",
-      "image": "https://www.slashfilm.com/img/gallery/patrick-stewart-hollywood-reacts-to-death-of-star-trek-and-x-men-actor/l-intro-1793310406.jpg",
+      "image": "https://www.slashfilm.com/img/gallery/patrick-stewart-hollywood-reacts-to-death-of-star-trek-and-x-men-actor/l-intro-1793357938.jpg",
       "category": "Indie Gems"
     },
     {
@@ -196,17 +416,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "e8ac219941a80374",
-      "title": "Hippie-dippie wellness retreat shows Joseph Gordon-Levitt its sinister side in Pendulum trailer",
-      "quote": "Norman Reedus and Jacki Weaver turn Joseph Gordon-Levitt's healing journey into the ayahuasca trip from hell in the trailer for Pendulum.",
-      "publisher": "The A.V. Club",
-      "author": "Matt Schimkowitz",
-      "date": "2026-10-29T20:49:11+00:00",
-      "link": "https://www.avclub.com/pendulum-trailer-joseph-gordon-levitt-norman-reedus-jacki-weaver",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/10/29/pendulum-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "d6a095883d10e974",
       "title": "A Horror Classic Meets A Holiday Favorite In This Impressive Movie Mash-Up",
       "quote": "You might want to add this mash-up of It's a Wonderful Life and Night of the Living Dead to your holiday rotation this year. It's a lot of fun.",
@@ -216,61 +425,6 @@
       "link": "https://www.slashfilm.com/2301665/its-a-wonderful-life-night-of-the-living-dead-horror-holiday-movie-mash-up/",
       "image": "https://www.slashfilm.com/img/gallery/a-horror-classic-meets-a-holiday-favorite-in-this-impressive-movie-mash-up/l-intro-1793305089.jpg",
       "category": "Indie Gems"
-    },
-    {
-      "id": "5928e51d75e48734",
-      "title": "R.I.P. Patrick Stewart",
-      "quote": "The star of Star Trek: The Next Generation and X-Men, Sir Patrick Stewart, was 86.",
-      "publisher": "The A.V. Club",
-      "author": "Matt Schimkowitz",
-      "date": "2026-10-29T20:13:00+00:00",
-      "link": "https://www.avclub.com/patrick-stewart-obituary",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/10/29/patrick-stewart-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "17aa345e3b219b79",
-      "title": "Patrick Stewart, Legendary Star Trek And X-Men Actor, Has Died At 86",
-      "quote": "Sir Patrick Stewart, beloved star of stage and screen who was best known for his roles in the Star Trek and X-Men franchises, has died.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Witney Seibold)",
-      "date": "2026-10-29T19:47:24+00:00",
-      "link": "https://www.slashfilm.com/2301597/patrick-stewart-star-trek-x-men-actor-dead-obituary/",
-      "image": "https://www.slashfilm.com/img/gallery/patrick-stewart-legendary-star-trek-and-x-men-actor-has-died-at/l-intro-1793304940.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "47173b789e2bbf7a",
-      "title": "Netflix identifies Donald Glover to write, direct, and star in PUBG series",
-      "quote": "Donald Glover will bring 2017's most popular game, PUBG, to Netflix.",
-      "publisher": "The A.V. Club",
-      "author": "Matt Schimkowitz",
-      "date": "2026-10-29T19:42:24+00:00",
-      "link": "https://www.avclub.com/donald-glover-will-adapt-pubg-playerunknowns-battle-grounds-netflix",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/10/29/donald-glover-pubg.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "27ce722d9301897f",
-      "title": "James Gunn thinks Margot Robbie is probably over playing Harley Quinn again",
-      "quote": "In a special one-off podcast episode titled <i>The Suicide Squad: Is It Canon?</i> James Gunn discussed working with Margot Robbie and said that Harley Quinn is \"almost certainly\" going to be incorporated in the DCU.",
-      "publisher": "The A.V. Club",
-      "author": "Olivia Singh",
-      "date": "2026-10-29T19:36:56+00:00",
-      "link": "https://www.avclub.com/james-gunn-margot-robbie-harley-quinn-dcu-future",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/10/29/the-suicide-squad-margot-robbie-harley-quinn-featured.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "5ba0a14db16608b8",
-      "title": "The definitive scariest films of 21st century: 20 horror films that made nightmares out of cinema",
-      "quote": "Happy Halloween! We folks here in India may not get to fully partake in the traditional trick-or-treating festivities of spooky szn like our Western counterparts, but we’re putting our money on these 20 as the scariest…",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-29T19:15:01+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/top-20-scariest-horror-films-of-21st-century-incantation-hereditary-conjuring-the-descent-evil-dead/article71631061.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/n78xor/article71639786.ece/alternates/LANDSCAPE_1200/20%20scariest%20horror%20films%20of%2021st%20century.jpeg",
-      "category": "Indian Cinema"
     },
     {
       "id": "39df67e7822d23f9",
@@ -295,39 +449,6 @@
       "category": "Festival Winners"
     },
     {
-      "id": "683fcc579dac3cb5",
-      "title": "Armando Iannucci shopping a movie with Taron Egerton, James McAvoy, Alicia Vikander",
-      "quote": "A new conspiracy thriller from writer-director Armando Iannucci and starring Taron Egerton, James McAvoy, and Alicia Vikander is reportedly being shopped around.",
-      "publisher": "The A.V. Club",
-      "author": "Olivia Singh",
-      "date": "2026-10-29T17:35:28+00:00",
-      "link": "https://www.avclub.com/taron-egerton-james-mcavoy-alicia-vikander-movie",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/10/29/taron-egerton-apex-featured.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "33632766220030c8",
-      "title": "People Inc. lays off nearly 200 people",
-      "quote": "People Inc. CEO Neil Vogel sent a company-wide memo on Thursday announcing 195 layoffs, according to reporting from <i>The New York Times</i>.",
-      "publisher": "The A.V. Club",
-      "author": "Jarrod Jones",
-      "date": "2026-10-29T17:08:18+00:00",
-      "link": "https://www.avclub.com/people-inc-layoffs-october-2026-neil-vogel",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/10/29/people-inc-header.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "1e432aacb0a86fb0",
-      "title": "It's about to be a Spring Awakening winter",
-      "quote": "<I>Spring Awakening</i> returns to the stage next month, and we spoke with the cast and creative team behind the musical during their second week of rehearsals.",
-      "publisher": "The A.V. Club",
-      "author": "Drew Gillis",
-      "date": "2026-10-29T17:04:39+00:00",
-      "link": "https://www.avclub.com/spring-awakening-cast-revival-duncan-sheik",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/10/29/MixCollage-29-Oct-2026-01-02-PM-6092.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "873f4283b0e30c9f",
       "title": "Elke Sommer, prolific German star of A Shot in the Dark and And Then There Were None, dies aged 85",
       "quote": "The Berlin-born performer had a gift for languages that took her to Hollywood, landing roles alongside Peter Sellers, Dick Van Dyke and Paul Newman Elke Sommer, the prolific German star of the Pink Panther film A Shot…",
@@ -337,17 +458,6 @@
       "link": "https://www.theguardian.com/film/2026/oct/29/elke-sommer-prolific-german-star-of-a-shot-in-the-dark-and-and-then-there-were-none-dies",
       "image": "https://i.guim.co.uk/img/media/a5bd5bf44de86d5645ef230aec31ff1400c125a8/0_318_2104_1683/master/2104.jpg?width=140&quality=85&auto=format&fit=max&s=929b1a01ffc5eacbac0e9d176314b4c1",
       "category": "World Cinema"
-    },
-    {
-      "id": "a7cbf831c5fab555",
-      "title": "Sada ‘Master’, ace guitarist who enriched Ilaiyaraaja’s compositions, dies at 80",
-      "quote": "“I am saddened by Sadanandam’s death. He was with me from the early days,” Ilaiyaraaja said in a message",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-29T15:21:52+00:00",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/sada-master-ace-guitarist-who-enriched-ilaiyaraajas-compositions-dies-at-80/article71639851.ece",
-      "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/am4vnm/article71640102.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-10-29%20at%2016.04.33.jpeg",
-      "category": "Indian Cinema"
     },
     {
       "id": "8571963b08c9ff80",
@@ -383,39 +493,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "ca46cf0c76584497",
-      "title": "‘Chiranjeevi’s Megaverse’: Netflix announces talk show hosted by Chiranjeevi",
-      "quote": "The talk show is touted to be a celebration of Telugu cinema through candid conversations with its leading stars.",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-29T12:22:49+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/chiranjeevis-megaverse-netflix-announces-talk-show-hosted-by-chiranjeevi/article71640513.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/cnom0l/article71640544.ece/alternates/LANDSCAPE_1200/cvr%2021.png",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "aa4260dbcde54df9",
-      "title": "David Jonsson on Audible’s ‘Dracula’: ‘Bram Stoker’s Dracula is deeply human’",
-      "quote": "David Jonsson, who plays Dr Seward in the audio adaptation of Dracula, says the novel is gothic, funny, sexy and dark, and that mix makes it resonate even today",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-29T12:19:36+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/david-jonsson-on-audibles-dracula-bram-stokers-dracula-is-deeply-human/article71640095.ece",
-      "image": "https://th-i.thgim.com/public/incoming/t7jpr1/article71640315.ece/alternates/LANDSCAPE_1200/david%20jonsson1.jpg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "6591a2bb9c3540be",
-      "title": "‘Nobody Wants This’ Season 3 review: Kristen Bell and Adam Brody keep it real sweet",
-      "quote": "An interfaith relationship, controlling parents, sibling jealousy, a wedding and a divorce, it is all happening in the packed and chaotic third season of the charming rom-com",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-29T12:13:25+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/nobody-wants-this-season-3-review-kristen-bell-and-adam-brody-keep-it-real-sweet/article71636675.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/8lmugv/article71640494.ece/alternates/LANDSCAPE_1200/AAAAQT2ufIVVK18sCzRwVykej7jgzK6vdjz-WC0ifNm_fzxMv8VtkPeNdOwwVCBq1dzgR6bV0V5A6QISUIOsfc93DaC3MyxHfXWEQ05m0etjIwmXukczNlh71XKCTsWowzCR_LBgG2_DjcJrVCHIlPHQ0F1Ld0c.jpg",
-      "category": "Indian Cinema"
-    },
-    {
       "id": "a85d86239f57536b",
       "title": "‘Between Us’ Review: Estranged Teenagers Process Past Tragedy Through High School Theater in Fitfully Ambitious Japanese Drama",
       "quote": "The lingering trauma shared by two middle-class families, once friendly but now estranged following a tragic camping incident, is finally addressed through the unlikely prism of a high-school drama club production in…",
@@ -425,28 +502,6 @@
       "link": "https://variety.com/2026/film/reviews/between-us-review-1236934055/",
       "image": "https://variety.com/wp-content/uploads/2026/10/between-us.jpg",
       "category": "World Cinema"
-    },
-    {
-      "id": "a7fc8d41a65a5e21",
-      "title": "‘Ramayana’ cinematographer Pankaj Kumar on chasing sunlight and building a world of Gods",
-      "quote": "Cinematographer Pankaj Kumar on building visuals for Nitesh Tiwari’s ‘Ramayana’, the deliberate pre-visualisation process, filming the Swayamvara scene and his philosophy behind capturing light",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-29T11:46:19+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/ramayana-cinematographer-pankaj-kumar-on-chasing-sunlight-and-building-a-world-of-gods-ranbir-kapoor-nitesh-tiwari-yash/article71639829.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/t5awlj/article71639913.ece/alternates/LANDSCAPE_1200/Pankaj%20Kumar%20and%20a%20still%20of%20Ranbir%20Kapoor%20from%20%E2%80%98Ramayana%E2%80%99",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "7f94de8e33bacb06",
-      "title": "‘Ranabaali’ director Rahul Sankrityan on box office vs. legacy: A film remains forever",
-      "quote": "Rahul Sankrityan talks about Ranabaali’s folk-superhero roots, its commercial sensibilities, and the criticism of its violence, portrayal of female characters, and music",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-29T11:14:25+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/ranabaali-director-rahul-sankrityan-on-box-office-vs-legacy-a-film-remains-forever/article71630156.ece",
-      "image": "https://th-i.thgim.com/public/incoming/i0kaqd/article71634601.ece/alternates/LANDSCAPE_1200/ranabaali%2010.jpg",
-      "category": "Indian Cinema"
     },
     {
       "id": "b670f8a9cd95dac0",
@@ -468,28 +523,6 @@
       "date": "2026-10-29T09:00:27+00:00",
       "link": "https://www.theguardian.com/film/2026/oct/29/i-love-boosters-review-boots-riley-shoplifting-satire-is-a-mile-a-minute-melee-of-unadulterated-keraziness",
       "image": "https://i.guim.co.uk/img/media/68f075915ca88393c3952d93cc4f40407920a439/916_0_2257_1806/master/2257.jpg?width=140&quality=85&auto=format&fit=max&s=92d76c4814917069634fa990f74c4b9e",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "e2fa33cf61b38dc3",
-      "title": "Wicker review – Olivia Colman finds the perfect lover in intriguing folk-horror romance",
-      "quote": "Colman stars as a depressed and bullied fisherwoman in medieval England. Fortunately, Peter Dinklage’s basketmaker delivers the answer to her dreams – an Alexander Skarsgård made of wicker The spirit of mystery author…",
-      "publisher": "The Guardian",
-      "author": "Peter Bradshaw",
-      "date": "2026-10-29T07:00:26+00:00",
-      "link": "https://www.theguardian.com/film/2026/oct/29/wicker-review-olivia-colman-finds-the-perfect-lover-in-intriguing-folk-horror-romance",
-      "image": "https://i.guim.co.uk/img/media/09cca9caafc5dbf003f61c9d07f5912ff5f41927/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=fb3ee7c0c0004166a54ef11acd1a0a6d",
-      "category": "World Cinema"
-    },
-    {
-      "id": "7070b54eea90c412",
-      "title": "How did a fishmonger who starred in an adult movie make Rocky? The film about Sylvester Stallone’s amazing triumph",
-      "quote": "Belittled for his speech and looks, and so short of cash he had to sell his dog, Stallone managed to write and star in one of the greatest boxing movies ever. How does Anthony Ippolito feel about playing his hero? Fifty…",
-      "publisher": "The Guardian",
-      "author": "Gwilym Mumford",
-      "date": "2026-10-29T05:00:25+00:00",
-      "link": "https://www.theguardian.com/film/2026/oct/29/rocky-sylvester-stallone-anthony-ippolita",
-      "image": "https://i.guim.co.uk/img/media/67d68a8bf99e04203df58627bce4bccf21e969cc/385_0_5200_4160/master/5200.jpg?width=140&quality=85&auto=format&fit=max&s=ad052ae7e64d767c4f2ef8acc6771c97",
       "category": "Festival Winners"
     },
     {
@@ -535,17 +568,6 @@
       "link": "https://www.rogerebert.com/reviews/gentle-monster-film-review-2026",
       "image": null,
       "category": "World Cinema"
-    },
-    {
-      "id": "da014164e2e47ba1",
-      "title": "Iranian film-maker Jafar Panahi given new prison sentence",
-      "quote": "Charges against him are unclear after return to Iran despite being sentenced last year for ‘propaganda activities’ An Iranian court has handed the award-winning film director Jafar Panahi a new prison sentence of five…",
-      "publisher": "The Guardian",
-      "author": "Deepa Parent",
-      "date": "2026-10-28T16:56:10+00:00",
-      "link": "https://www.theguardian.com/film/2026/oct/28/iran-film-maker-jafar-panahi-new-prison-sentence-assets-seized",
-      "image": "https://i.guim.co.uk/img/media/eeda814a0e57b32cb66caf23aad99c1bc3a01f27/480_226_3047_2438/master/3047.jpg?width=140&quality=85&auto=format&fit=max&s=e53f652b0be8750a57a79db0e4f307e5",
-      "category": "Festival Winners"
     },
     {
       "id": "d7b3fd83019d1f63",
@@ -746,17 +768,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "8db5b7f4e74fb50e",
-      "title": "12 of the best films to watch in November",
-      "quote": "From Elsinore to The Hunger Games: Sunrise on the Reaping",
-      "publisher": "BBC Culture",
-      "author": null,
-      "date": "2026-10-21T11:00:00+00:00",
-      "link": "https://www.bbc.com/culture/article/20261020-12-of-the-best-films-to-watch-in-november?ocid=global_culture_rss",
-      "image": "https://ychef.files.bbci.co.uk/144x81/p0phnvsj.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "f71ba7d1235f6fe7",
       "title": "‘Klara and the Sun’ Review: Jenna Ortega and Amy Adams Should Have Insisted on a Factory Reset for Taika Waititi’s Cloying, Clumsy AI Fable",
       "quote": "Newcomer Mia Tharia, Natasha Lyonne and Steve Buscemi also star in this adaptation of the Kazuo Ishiguro novel about the unique qualities of being human that cannot be replicated.",
@@ -765,17 +776,6 @@
       "date": "2026-10-20T15:00:23+00:00",
       "link": "https://www.hollywoodreporter.com/movies/movie-reviews/klara-and-the-sun-review-jenna-ortega-taika-waititi-1236735986/",
       "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "ec8742814cbeca6b",
-      "title": "A medieval assault survivor's quest for justice",
-      "quote": "The story of one woman's fight after surviving a sexual assault in 1472",
-      "publisher": "BBC Culture",
-      "author": null,
-      "date": "2026-10-20T11:00:00+00:00",
-      "link": "https://www.bbc.com/culture/article/20261019-the-true-story-of-a-15th-century-sexual-assault-survivors-quest-for-justice?ocid=global_culture_rss",
-      "image": "https://ychef.files.bbci.co.uk/144x81/p0phjjsn.jpg",
       "category": "World Cinema"
     },
     {
