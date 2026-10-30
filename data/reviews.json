@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T22:39:13.255719+00:00",
+  "generated_at": "2026-10-30T05:23:20.189045+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -9,26 +9,136 @@
   ],
   "reviews": [
     {
-      "id": "29df88a5987427cd",
-      "title": "Channing Dungey To Oversee Warner Bros. International TV Production As Division Moves Under Skydance TV Studios",
-      "quote": "Warner Bros. International TV Production, the division that operates around 20 production companies around the world that make international versions of formats such as The Bachelor, has a new home within Skydance. The…",
+      "id": "b574a59c4f8a218d",
+      "title": "Delhi HC asks Sourav Ganguly to specify infringing content in film ‘Doosra’",
+      "quote": "Opposing Sourav Ganguly’s plea, the makers of ‘Doosra’ maintained that the cricketer was merely a source of inspiration for the film",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-30T05:14:44+00:00",
+      "link": "https://www.thehindu.com/news/cities/Delhi/delhi-hc-asks-sourav-ganguly-to-specify-infringing-content-in-film-doosra/article71640888.ece",
+      "image": "https://th-i.thgim.com/public/incoming/cmpn7u/article71643736.ece/alternates/LANDSCAPE_1200/PTI07_30_2026_000489A.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "8b49442d19351be1",
+      "title": "‘A Few Good Men’ Broadway Review: Bradley Whitford And Tom Blyth Manhandle The Truth",
+      "quote": "When it arrives on stage – it being “You can’t handle the truth!,” one of the most famous bits of dialogue in movie history – the phrase feels both very, very familiar and ever so slightly tossed off, maybe even rushed…",
       "publisher": "Deadline",
-      "author": "Peterdeadline",
-      "date": "2026-10-29T22:13:00+00:00",
-      "link": "https://deadline.com/2026/10/channing-dungey-warner-bros-international-tv-production-1237208993/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/GOLDEN-BACHELOR_GROUP-scaled-e1757925015817.webp",
+      "author": "Greg Evans",
+      "date": "2026-10-30T03:00:00+00:00",
+      "link": "https://deadline.com/2026/10/a-few-good-men-broadway-review-1237206959/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/A-Few-Good-Men_Emilio-Madrid_2433.jpg",
       "category": "World Cinema"
     },
     {
-      "id": "945b972eccef0ace",
-      "title": "‘Bad Influence’ Adds John Cho, Ethan Suplee, Danny Jolles, Arnas Fedaravičius & More To YA Horror Cast",
-      "quote": "EXCLUSIVE: Director Jason Perlman’s Bad Influence has rounded out the cast of the YA horror film, which has recently wrapped filming. Joining the ensemble, which includes previously announced stars Xochitl Gomez…",
+      "id": "899be84ff4997e15",
+      "title": "SAG-AFTRA Members Ratify TV Animation Contracts, Securing 12.6% Wage Increase For Voice Actors",
+      "quote": "SAG-AFTRA members nationwide have voted to ratify the 2026 Television Animation Agreement and Basic Cable Animation Agreement with the Alliance of Motion Picture and Television Producers (AMPTP). On Thursday, members…",
       "publisher": "Deadline",
       "author": "Glenn Garner",
-      "date": "2026-10-29T22:08:38+00:00",
-      "link": "https://deadline.com/2026/10/bad-influence-adds-john-cho-ethan-suplee-ya-horror-cast-1237208977/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/Bad-Influence-4-shot.jpg",
+      "date": "2026-10-30T02:47:03+00:00",
+      "link": "https://deadline.com/2026/10/sag-aftra-members-ratify-tv-animation-contracts-2-1237209273/",
+      "image": "https://deadline.com/wp-content/uploads/2026/02/GettyImages-1689516333-e1793327854265.jpg",
       "category": "World Cinema"
+    },
+    {
+      "id": "8a3bd13c4a5013aa",
+      "title": "Patrick Stewart’s Career Was a Rare and Thrilling Marriage of the Prestigious and the Populist",
+      "quote": "Stewart's classical theater chops invested genre film and television roles with unlikely dramatic weight, psychological depth and piercing feeling.",
+      "publisher": "The Hollywood Reporter",
+      "author": "David Rooney",
+      "date": "2026-10-30T02:35:36+00:00",
+      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/patrick-stewart-critics-appreciation-1236743268/",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "2aa4b0b8380b37b8",
+      "title": "Patrick Stewart's Final Movie Roles Sum Up His Generational Talent",
+      "quote": "Patrick Stewart was a truly extraordinary actor, and his last few movie roles, while disparate, perfectly show off his versatility and skill as a performer.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Devin Meenan)",
+      "date": "2026-10-30T02:20:27+00:00",
+      "link": "https://www.slashfilm.com/2301896/patrick-stewart-final-movie-roles-the-sheep-detectives-avengers-doomsday/",
+      "image": "https://www.slashfilm.com/img/gallery/patrick-stewarts-final-movie-roles-sum-up-his-generational-talent/l-intro-1793326410.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "4d7bf6973da6b008",
+      "title": "‘Ghosts’: Rebecca Wisocky Talks Hetty’s Good, Long Look In The Mirror In Two-Part Halloween Special",
+      "quote": "SPOILER ALERT! This post contains details from the two-part Halloween special for CBS’ Ghosts. More ghosts from Hetty Woodstone’s (Rebecca Wisocky) past come back to haunt her in Thursday’s Ghosts Halloween special…",
+      "publisher": "Deadline",
+      "author": "Katie Campione",
+      "date": "2026-10-30T02:00:00+00:00",
+      "link": "https://deadline.com/2026/10/ghosts-rebecca-wisocky-hetty-sister-margaret-halloween-cbs-1237208538/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/3246613_GHST_S6_0186b-cf0bdd1e0b60a895.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "b1db648780ff9382",
+      "title": "Poorna Jagannathan Joins Hulu’s ‘Young Americans’ Pilot, Natalia Leite To Direct",
+      "quote": "Poorna Jagannathan (Deli Boys, Lanterns) has been cast as a series regular in Hulu’s Young Americans pilot. She joins the previously announced Scott Foley, Billie Boullet, Sam Rechner, Mia Isaac, Oscar Winter, and…",
+      "publisher": "Deadline",
+      "author": "Rosy Cordero",
+      "date": "2026-10-30T01:43:16+00:00",
+      "link": "https://deadline.com/2026/10/poorna-jagannathan-cast-hulu-young-americans-pilot-1237209103/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/split-2-split-1500x845-2-3.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "bd94f4b163a10570",
+      "title": "Ian McKellen Pays Tribute To Patrick Stewart: “He Wore His Heart On His Sleeve”",
+      "quote": "As the world mourns Sir Patrick Stewart’s death at age 86, a longtime friend and collaborator is paying tribute to his legacy. Sir Ian McKellen, who starred as Magneto opposite Stewart’s Professor X in the X-Men films…",
+      "publisher": "Deadline",
+      "author": "Glenn Garner",
+      "date": "2026-10-30T01:36:13+00:00",
+      "link": "https://deadline.com/2026/10/ian-mckellen-pays-tribute-patrick-stewart-1237209210/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/MSDXMEN_EC002.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "064f2abc8acb460e",
+      "title": "Matthew Weiner Exits Eddie Murphy Peacock Series ‘The Chairman’ As Showrunner",
+      "quote": "The Chairman is getting a new showrunner. Mad Men creator Matthew Weiner, who had been tapped as writer, executive producer and showrunner on the high-profile drama starring Eddie Murphy, has departed the series in the…",
+      "publisher": "Deadline",
+      "author": "Nellie Andreeva",
+      "date": "2026-10-30T01:05:11+00:00",
+      "link": "https://deadline.com/2026/10/matthew-weiner-leaving-eddie-murphy-the-chairman-peacock-1237209187/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/Eddie-Murphy-Matthew-Weiner.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "d341e4ccb8698208",
+      "title": "Justin H. Min Starrer ‘Journey There’ & Hong Sangsoo’s ‘Nowhere To Lay My Eyes’ Sell To Multiple Territories",
+      "quote": "Korean sales company Finecut has sold Journey There, starring The Umbrella Academy‘s Justin H. Min, to multiple territories. The Seoul-based company has also closed further deals on Hong Sangsoo’s Locarno film festival…",
+      "publisher": "Deadline",
+      "author": "Liz Shackleton",
+      "date": "2026-10-30T00:40:57+00:00",
+      "link": "https://deadline.com/2026/10/justin-h-min-journey-there-hong-sangsoo-finecut-japan-1237208106/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/Journey-There.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "d69c33b294840757",
+      "title": "SAG-AFTRA, WGA & AFM Ask Judge To Reject Fair Use Exemption In OpenAI Copyright Battle & Warn Of “Harms Of Unlicensed Training” For AI Models",
+      "quote": "SAG-AFTRA, the American Federation of Music and the Writers Guild of America East and West are calling on a federal judge to reject a fair use exemption for training AI models. The unions jointly filed an amicus brief…",
+      "publisher": "Deadline",
+      "author": "Katie Campione",
+      "date": "2026-10-30T00:13:06+00:00",
+      "link": "https://deadline.com/2026/10/sag-aftra-wga-afm-openai-copyright-court-battle-brief-1237209138/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/openAI-NYT-getty-image.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "2304aba28c522d16",
+      "title": "Star Trek's William Shatner Reacts To The Death Of Patrick Stewart",
+      "quote": "William Shatner has issued a statement paying tribute to his fellow Star Trek icon Patrick Stewart following the latter's death at the age of 86.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Devin Meenan)",
+      "date": "2026-10-29T23:50:47+00:00",
+      "link": "https://www.slashfilm.com/2301858/star-trek-william-shatner-patrick-stewart-death-reaction/",
+      "image": "https://www.slashfilm.com/img/gallery/star-treks-william-shatner-reacts-to-the-death-of-patrick-stewart/l-intro-1793317163.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "d29acbcb0c5edaeb",
@@ -42,17 +152,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "e854260c20211ae8",
-      "title": "Chase Sui Wonders In Talks to Join A24’s ‘Goblin’",
-      "quote": "EXCLUSIVE: The Studio breakout Chase Sui Wonders is in talks to join Goblin, A24’s new film from David Mikalson, which goes into production before end of year. Character details are being kept under wraps. Wonders joins…",
-      "publisher": "Deadline",
-      "author": "Matthewgrobar",
-      "date": "2026-10-29T21:44:37+00:00",
-      "link": "https://deadline.com/2026/10/chase-sui-wonders-circling-goblin-a24-1237208968/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/GettyImages-2293197344.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "77cafe7af54efb2d",
       "title": "Patrick Stewart's X-Men Role Was The Best Comic Book Movie Casting Of All Time",
       "quote": "The greatest piece of comic book movie casting ever was securing Patrick Stewart to play Charles Xavier across multiple X-Men films.",
@@ -62,39 +161,6 @@
       "link": "https://www.slashfilm.com/2301771/patrick-stewart-x-men-best-comic-book-movie-casting-all-time/",
       "image": "https://www.slashfilm.com/img/gallery/patrick-stewarts-x-men-role-was-the-best-comic-book-movie-casting-of-all-time/l-intro-1793309418.jpg",
       "category": "Indie Gems"
-    },
-    {
-      "id": "6078920952c329fb",
-      "title": "Skydance TV & DTC Co-Chair JB Perrette Unveils Leadership Team, Executive Departures",
-      "quote": "JB Perrette, Co-Chair & Chief Business Officer of Skydance’s TV and direct-to-consumer divisions, has revealed key members of his executive team, several departures, and a pending opening for the leader of Pluto TV. It…",
-      "publisher": "Deadline",
-      "author": "Dade Hayes",
-      "date": "2026-10-29T21:33:26+00:00",
-      "link": "https://deadline.com/2026/10/skydance-streaming-tv-jb-perrette-executives-hbo-max-paramount-plus-1237208903/",
-      "image": "https://deadline.com/wp-content/uploads/2023/09/GettyImages-1397940268.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "a69469563d0c0c8d",
-      "title": "Rome Flynn Joins Cast Of Amazon MGM Studios Film ‘Throttled’",
-      "quote": "EXCLUSIVE: Rome Flynn (Godfather of Harlem, How to Get Away With Murder) has joined the cast of Throttled, Amazon MGM Studios’ new romance film based on the first book in Lauren Asher’s bestselling Dirty Air series…",
-      "publisher": "Deadline",
-      "author": "Rosy Cordero",
-      "date": "2026-10-29T21:33:06+00:00",
-      "link": "https://deadline.com/2026/10/rome-flynn-cast-amazon-film-throttled-1237208515/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/rome-flynn.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "60a5f771ab2611b2",
-      "title": "Byron Allen Sells Entire Stake In Starz",
-      "quote": "Byron Allen’s Beverly Hills-based Allen Family Capital has unloaded its entire stake in Starz Entertainment. The family office sold the stock in tranches between August 9 and Sept. 29 at prices of between circa $21 and…",
-      "publisher": "Deadline",
-      "author": "Jillg366",
-      "date": "2026-10-29T21:30:48+00:00",
-      "link": "https://deadline.com/2026/10/byron-allen-sells-entire-starz-stake-1237208899/",
-      "image": "https://deadline.com/wp-content/uploads/2026/03/Byron-Allen-STARZ.jpg",
-      "category": "World Cinema"
     },
     {
       "id": "57461b64696da211",
@@ -119,28 +185,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "235bbff2930bfd63",
-      "title": "Walton Goggins Wraps ‘Fallout’ Season 3: “Til The Next Time”",
-      "quote": "Walton Goggins is escaping the desert wastelands of the New California Republic as he wraps Season 3 of Fallout. On Wednesday, the Golden Globe nominee revealed he completed filming the latest season of the Prime Video…",
-      "publisher": "Deadline",
-      "author": "Glenn Garner",
-      "date": "2026-10-29T21:01:31+00:00",
-      "link": "https://deadline.com/2026/10/walton-goggins-wraps-fallout-season-3-1237208791/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/Fallout.jpg",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "036f97f37c97fef2",
-      "title": "‘Widow’s Bay’ Breakout Kate O’Flynn Joins Olivia Wilde Comedy ‘Naughty’ At Universal; Jamie Demetriou & Dexter Sol Ansell Also Set",
-      "quote": "EXCLUSIVE: Kate O’Flynn, the Emmy-winning Widow’s Bay breakout, is among three new additions to Universal’s new holiday comedy, Naughty, starring Jennifer Aniston and Peter Dinklage. BAFTA winner Jamie Demetriou (The…",
-      "publisher": "Deadline",
-      "author": "Matthewgrobar",
-      "date": "2026-10-29T21:00:00+00:00",
-      "link": "https://deadline.com/2026/10/widows-bay-kate-oflynn-joins-naughty-comedy-olivia-wilde-1237207906/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/split-image-1000-1.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "740f5b3ea9179a62",
       "title": "Marvel Pays Tribute To X-Men And Avengers Star Patrick Stewart Following His Death At 86",
       "quote": "Marvel Studios wouldn't be where it is today without Patrick Stewart, so it's only fitting that it's paid its deepest respects to the actor following his death.",
@@ -148,7 +192,7 @@
       "author": "staff@slashfilm.com (Sandy Schaefer)",
       "date": "2026-10-29T20:49:51+00:00",
       "link": "https://www.slashfilm.com/2301714/marvel-tribute-patrick-stewart-x-men-avengers-star-death/",
-      "image": "https://www.slashfilm.com/img/gallery/marvel-pays-tribute-to-x-men-and-avengers-star-patrick-stewart-following-his-death-at-86/l-intro-1793310601.jpg",
+      "image": "https://www.slashfilm.com/img/gallery/marvel-pays-tribute-to-x-men-and-avengers-star-patrick-stewart-following-his-death-at-86/l-intro-1793317159.jpg",
       "category": "Indie Gems"
     },
     {
@@ -218,26 +262,15 @@
       "category": "Indie Gems"
     },
     {
-      "id": "3f104e95b4506882",
-      "title": "Avengers: Doomsday Theater Merchandise Is All About Doctor Doom And The Sentinels",
-      "quote": "We hope you like green, because Avengers: Doomsday's Doctor Doom and Sentinel-themed theater merchandise is really heavy on the color.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Jeremy Smith)",
-      "date": "2026-10-29T19:16:58+00:00",
-      "link": "https://www.slashfilm.com/2301543/avengers-doomsday-theater-merchandise-doctor-doom-sentinels/",
-      "image": "https://www.slashfilm.com/img/gallery/avengers-doomsday-theater-merchandise-is-all-about-doctor-doom-and-the-sentinels/l-intro-1793301160.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "fc51e5452fc4fee7",
-      "title": "Batman's Age In The DC Universe Gets A Major Update From James Gunn",
-      "quote": "James Gunn has shed some light on Batman's age in the DC Universe relative to Superman and hinted that he may not cast a well-known actor in the role.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-10-29T18:40:20+00:00",
-      "link": "https://www.slashfilm.com/2301455/james-gunn-batman-age-dc-universe-update/",
-      "image": "https://www.slashfilm.com/img/gallery/batmans-age-in-the-dc-universe-gets-a-major-update-from-james-gunn/l-intro-1793299023.jpg",
-      "category": "Indie Gems"
+      "id": "5ba0a14db16608b8",
+      "title": "The definitive scariest films of 21st century: 20 horror films that made nightmares out of cinema",
+      "quote": "Happy Halloween! We folks here in India may not get to fully partake in the traditional trick-or-treating festivities of spooky szn like our Western counterparts, but we’re putting our money on these 20 as the scariest…",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-29T19:15:01+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/top-20-scariest-horror-films-of-21st-century-incantation-hereditary-conjuring-the-descent-evil-dead/article71631061.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/n78xor/article71639786.ece/alternates/LANDSCAPE_1200/20%20scariest%20horror%20films%20of%2021st%20century.jpeg",
+      "category": "Indian Cinema"
     },
     {
       "id": "39df67e7822d23f9",
@@ -304,6 +337,17 @@
       "link": "https://www.theguardian.com/film/2026/oct/29/elke-sommer-prolific-german-star-of-a-shot-in-the-dark-and-and-then-there-were-none-dies",
       "image": "https://i.guim.co.uk/img/media/a5bd5bf44de86d5645ef230aec31ff1400c125a8/0_318_2104_1683/master/2104.jpg?width=140&quality=85&auto=format&fit=max&s=929b1a01ffc5eacbac0e9d176314b4c1",
       "category": "World Cinema"
+    },
+    {
+      "id": "a7cbf831c5fab555",
+      "title": "Sada ‘Master’, ace guitarist who enriched Ilaiyaraaja’s compositions, dies at 80",
+      "quote": "“I am saddened by Sadanandam’s death. He was with me from the early days,” Ilaiyaraaja said in a message",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-10-29T15:21:52+00:00",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/sada-master-ace-guitarist-who-enriched-ilaiyaraajas-compositions-dies-at-80/article71639851.ece",
+      "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/am4vnm/article71640102.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-10-29%20at%2016.04.33.jpeg",
+      "category": "Indian Cinema"
     },
     {
       "id": "8571963b08c9ff80",
@@ -394,25 +438,14 @@
       "category": "Indian Cinema"
     },
     {
-      "id": "a7cbf831c5fab555",
-      "title": "Sada ‘Master’, ace guitarist who enriched Ilaiyaraaja’s compositions, dies at 80",
-      "quote": "“I am saddened by Sadanandam’s death. He was with me from the early days,” Ilaiyaraaja said in a message",
+      "id": "7f94de8e33bacb06",
+      "title": "‘Ranabaali’ director Rahul Sankrityan on box office vs. legacy: A film remains forever",
+      "quote": "Rahul Sankrityan talks about Ranabaali’s folk-superhero roots, its commercial sensibilities, and the criticism of its violence, portrayal of female characters, and music",
       "publisher": "The Hindu",
       "author": null,
-      "date": "2026-10-29T11:34:07+00:00",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/sada-master-ace-guitarist-who-enriched-ilaiyaraajas-compositions-dies-at-80/article71639851.ece",
-      "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/am4vnm/article71640102.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-10-29%20at%2016.04.33.jpeg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "765c92519459132a",
-      "title": "CPI(M) leader P. Jayarajan condemns online attacks against Mammootty, says Wayanad visit issue was ‘resolved long ago’",
-      "quote": "In a social media post, Jayarajan said the attempt to revive “an old misunderstanding” and use it to abuse and target the actor was driven by vested interests",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-29T10:44:19+00:00",
-      "link": "https://www.thehindu.com/news/national/kerala/cpim-leader-p-jayarajan-condemns-online-attacks-against-mammootty-says-wayanad-visit-issue-was-resolved-long-ago/article71640000.ece",
-      "image": "https://th-i.thgim.com/public/news/national/kerala/ug7g1a/article71640083.ece/alternates/LANDSCAPE_1200/mammootty_05.jpg",
+      "date": "2026-10-29T11:14:25+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/ranabaali-director-rahul-sankrityan-on-box-office-vs-legacy-a-film-remains-forever/article71630156.ece",
+      "image": "https://th-i.thgim.com/public/incoming/i0kaqd/article71634601.ece/alternates/LANDSCAPE_1200/ranabaali%2010.jpg",
       "category": "Indian Cinema"
     },
     {
@@ -449,17 +482,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "f4e497770e2e7b63",
-      "title": "Kerala HC quashes cheating case against Nivin Pauly, director Abrid Shine after out-of-court settlement in dispute over film rights",
-      "quote": "Complaint against the duo was filed following financial dispute related to making of Action Hero Biju 2. The complainant alleged that after entering into an agreement to produce the film, its overseas rights were sold…",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-29T06:02:59+00:00",
-      "link": "https://www.thehindu.com/news/national/kerala/kerala-hc-quashes-cheating-case-against-nivin-pauly-director-abrid-shine-after-out-of-court-settlement-in-dispute-over-film-rights/article71636612.ece",
-      "image": "https://th-i.thgim.com/public/news/national/kerala/fev61r/article71639131.ece/alternates/LANDSCAPE_1200/nivin.jpg",
-      "category": "Indian Cinema"
-    },
-    {
       "id": "7070b54eea90c412",
       "title": "How did a fishmonger who starred in an adult movie make Rocky? The film about Sylvester Stallone’s amazing triumph",
       "quote": "Belittled for his speech and looks, and so short of cash he had to sell his dog, Stallone managed to write and star in one of the greatest boxing movies ever. How does Anthony Ippolito feel about playing his hero? Fifty…",
@@ -480,17 +502,6 @@
       "link": "https://variety.com/2026/film/reviews/the-mosquito-bowl-review-1236932067/",
       "image": "https://variety.com/wp-content/uploads/2026/10/mosquito.jpg",
       "category": "World Cinema"
-    },
-    {
-      "id": "00bfa260034b9c3e",
-      "title": "‘The small, unheard film is the gem’: Dharamshala International Film Festival turns 15",
-      "quote": "DIFF founder Ritu Sarin and programming director Bina Paul on building a global non-mainstream cinema culture in Dharamshala as the festival turns 15",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-10-28T23:05:08+00:00",
-      "link": "https://www.thehindu.com/entertainment/dharamshala-international-film-festival-ritu-sarin-bina-paul-interview/article71632549.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/n95j89/article71638031.ece/alternates/LANDSCAPE_1200/Copy%20of%20L09_1050.jpg",
-      "category": "Indian Cinema"
     },
     {
       "id": "315c13a8b1c2a674",
@@ -775,17 +786,6 @@
       "author": "Daniel Fienberg",
       "date": "2026-10-16T07:01:00+00:00",
       "link": "https://www.hollywoodreporter.com/movies/movie-reviews/norm-the-tale-of-norm-macdonald-review-judd-apatow-netflix-1236733208/",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "f6f614c925e6a426",
-      "title": "‘Street Fighter’ Review: Noah Centineo Stars in a Video Game Adaptation That Pummels You With Fan Service and (Too Few) New Moves",
-      "quote": "The colorful gladiators return in this latest incarnation of the long-running video game series, directed by Kitao Sakurai and co-starring Andrew Koji and Callina Liang.",
-      "publisher": "The Hollywood Reporter",
-      "author": "Frank Scheck",
-      "date": "2026-10-15T16:00:00+00:00",
-      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/street-fighter-review-noah-centineo-1236730035/",
       "image": null,
       "category": "World Cinema"
     },
