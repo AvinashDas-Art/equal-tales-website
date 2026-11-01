@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T05:38:07.406591+00:00",
+  "generated_at": "2026-11-01T13:03:39.730312+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -8,6 +8,28 @@
     "Indie Gems"
   ],
   "reviews": [
+    {
+      "id": "de4c9bc56d6cbfad",
+      "title": "Romeo + Juliet at 30: how Baz Luhrmann made teens fall in love with Shakespeare",
+      "quote": "The maximalist, heart over head adaptation of the romantic tragedy made stars of its leads and became an English teacher’s most trusted weapon for Bard-averse students Romeo + Juliet is not the most renowned or beloved…",
+      "publisher": "The Guardian",
+      "author": "Adrian Horton",
+      "date": "2026-11-01T10:00:08+00:00",
+      "link": "https://www.theguardian.com/film/2026/nov/01/baz-luhrmann-romeo-and-juliet-turns-30",
+      "image": "https://i.guim.co.uk/img/media/780dc006ffeb503f765b140a9823242821e3ff21/141_0_2387_1911/master/2387.jpg?width=140&quality=85&auto=format&fit=max&s=f01de641ba83c06614809b7d2502ad62",
+      "category": "World Cinema"
+    },
+    {
+      "id": "9e56e23b82f9fba3",
+      "title": "Inde Navarrette dresses up Saturday Night Live for Halloween",
+      "quote": "Inde Navarrette seemed more psyched to be hosting Saturday Night Live than anyone else so far this season. The show was more hesitant.",
+      "publisher": "The A.V. Club",
+      "author": "Jesse Hassenger",
+      "date": "2026-11-01T07:53:57+00:00",
+      "link": "https://www.avclub.com/saturday-night-live-recap-season-52-episode-4",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/11/01/Inde-Navarrette.jpg",
+      "category": "Indie Gems"
+    },
     {
       "id": "72320fb0ea910fca",
       "title": "Robert Downey Jr. & Pedro Pascal Serve MCU Role Reversal For Halloween: “Costume Swap!”",
@@ -33,7 +55,7 @@
     {
       "id": "d4989b4e949e84d8",
       "title": "‘SNL’ Pays Tribute To Patrick Stewart With Clip From His 1994 Episode",
-      "quote": "As the world mourns Patrick Stewart, Saturday Night Live paid tribute to the late former host on this weekend’s episode. Before the goodnights, the NBC sketch comedy show played an archive clip of the 3x Oscar nominee…",
+      "quote": "As the world mourns Patrick Stewart, Saturday Night Live paid tribute to the late former host on this weekend’s episode. Before the goodnights, the NBC sketch comedy show played an archive clip of the three-time Oscar…",
       "publisher": "Deadline",
       "author": "Glenn Garner",
       "date": "2026-11-01T05:11:21+00:00",
@@ -86,13 +108,13 @@
       "category": "Indie Gems"
     },
     {
-      "id": "c28703a21e9c4051",
-      "title": "Steep Height? No Sweat: ‘Everest: The Other Side’s Jim Morrison And Jimmy Chin Repel Down Side Of West Hollywood Building [Video]",
+      "id": "081cce23b61100ae",
+      "title": "Steep Height? No Sweat: ‘Everest: The Other Side’s Jim Morrison And Jimmy Chin Rappel Down Side Of West Hollywood Building [Video]",
       "quote": "Ski mountaineers Jimmy Chin and Jim Morrison are going to great lengths – and heights – to spread the word about the National Geographic documentary Everest: The Other Side. The pair ascended to the top of a 12-story…",
       "publisher": "Deadline",
       "author": "Matthew Carey",
       "date": "2026-11-01T00:26:17+00:00",
-      "link": "https://deadline.com/2026/10/everest-the-other-side-director-and-star-repel-down-building-1237210694/",
+      "link": "https://deadline.com/2026/10/everest-the-other-side-director-and-star-rappel-down-building-1237210694/",
       "image": "https://deadline.com/wp-content/uploads/2026/10/Jimmy-and-Jim-repel2.png",
       "category": "World Cinema"
     },
@@ -259,17 +281,6 @@
       "date": "2026-10-31T15:37:25+00:00",
       "link": "https://www.avclub.com/christopher-abbott-could-shave-head-as-professor-x-marvel-studios",
       "image": "https://www.avclub.com/wp-content/uploads/2026/10/31/abbott-header.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "205e60a1f1fe528b",
-      "title": "Undead, not fun-dead: A brief history of the playable zombie in video games",
-      "quote": "Undead, not fun-dead: A brief history of the playable zombie in video games.",
-      "publisher": "The A.V. Club",
-      "author": "William Hughes",
-      "date": "2026-10-31T15:00:42+00:00",
-      "link": "https://www.avclub.com/game-theory-playable-zombies-stupid-never-dies",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/10/29/zombies-feature-with-badges.jpg",
       "category": "Indie Gems"
     },
     {
@@ -502,17 +513,6 @@
       "link": "https://www.theguardian.com/film/2026/oct/30/scariest-non-horror-movies",
       "image": "https://i.guim.co.uk/img/media/1790e09bea721dd17b1415a3fc87c9bf0891235e/630_0_2974_2381/master/2974.jpg?width=140&quality=85&auto=format&fit=max&s=426642a639d4dbf873248a884ee88c6f",
       "category": "World Cinema"
-    },
-    {
-      "id": "1ace4ef94dab76e9",
-      "title": "‘I saw the script and went: oooh!’ Olivia Colman and Alexander Skårsgard on their steamy folk-horror movie Wicker",
-      "quote": "She plays a depressed fisherwoman. He plays a man made of wicker who is solely dedicated to her pleasure. How did the actors feel about this strange, emotional connection – and what did Colman draw from her own…",
-      "publisher": "The Guardian",
-      "author": "Ryan Gilbey",
-      "date": "2026-10-30T08:00:48+00:00",
-      "link": "https://www.theguardian.com/film/2026/oct/30/i-saw-the-script-and-went-oooh-olivia-colman-and-alexander-skarsgard-on-their-steamy-folk-horror-movie-wicker",
-      "image": "https://i.guim.co.uk/img/media/d47b5322c26410f2cceaf0c888d44817a0c388d2/654_0_6539_5231/master/6539.jpg?width=140&quality=85&auto=format&fit=max&s=520c4f78bee6c564d38f40c039678f4b",
-      "category": "Festival Winners"
     },
     {
       "id": "8a3bd13c4a5013aa",
