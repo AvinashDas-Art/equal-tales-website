@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T13:58:27.047567+00:00",
+  "generated_at": "2026-11-03T23:07:35.227918+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -9,37 +9,345 @@
   ],
   "reviews": [
     {
-      "id": "f5eeb4d58a89d238",
-      "title": "Tamil Nadu government permits six shows a day for new Tamil films for a week since release",
+      "id": "0a0390b47ce0bb99",
+      "title": "Midterm Elections: Piers Morgan & Rashida Jones On How ‘Uncensored’s Going Into Uncharted Territory Tonight, The Trump Wild Card",
+      "quote": "EXCLUSIVE: “If the Republicans lose both the House and the Senate, I think it will be, in my estimation, entirely down to that decision to attack Iran and the economic fallout from that decision,” says Piers Morgan of…",
+      "publisher": "Deadline",
+      "author": "Dominic Patten",
+      "date": "2026-11-03T22:58:43+00:00",
+      "link": "https://deadline.com/2026/11/election-2026-piers-morgan-interview-1237212489/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/piers-morgan-rashida-jones-2.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "d9de33c769c76fe1",
+      "title": "‘La Bola Negra’ Caliente At Box Office With $43M Worldwide, Becomes Spain’s Top-Grossing Local Pic Of 2026",
+      "quote": "Heading into awards season, it’s always nice for any feature contender to have some juice at the box office, and Spain’s official Oscar entry has exactly that as La Bola Negra has easily become the country’s highest…",
+      "publisher": "Deadline",
+      "author": "Anthonypauldalessandro",
+      "date": "2026-11-03T22:45:53+00:00",
+      "link": "https://deadline.com/2026/11/la-bola-negra-box-office-spain-1237212446/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/MCDLABO_ZX001.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "5408d1cc2e06eecf",
+      "title": "DC Studios Officially Casts Mason Thames As Robin — Will He Play Him In Live-Action?",
+      "quote": "Mason Thames has been cast as an animated version of Robin for a new DC Comics movie, but will he play the Boy Wonder in live-action too?",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Joe Roberts)",
+      "date": "2026-11-03T22:43:35+00:00",
+      "link": "https://www.slashfilm.com/2306080/mason-thames-robin-dynamic-duo-movie-dc-studios-live-action-potential/",
+      "image": "https://www.slashfilm.com/img/gallery/dc-studios-officially-casts-mason-thames-as-robin-but-will-he-play-him-in-live-action/l-intro-1793745723.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "04b4f9acfea867be",
+      "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+      "quote": "EXCLUSIVE: Tami Roman (The Ms. Pat Show, The Family Business) is expanding her relationship with Lifetime with the announcement of Double Double Trouble 2, a sequel to Double Double Trouble, the network’s No. 1…",
+      "publisher": "Deadline",
+      "author": "Rosy Cordero",
+      "date": "2026-11-03T22:32:27+00:00",
+      "link": "https://deadline.com/2026/11/tami-roman-lifetime-movie-double-double-trouble-2-1237212406/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/tami-roman-and-roger-cross-double-double-trouble.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "ffb1cb5c9a141d7e",
+      "title": "Midterm Elections: Networks Comb Through First Poll Of Electorate Showing Dismal View Of Trump And The Economy",
+      "quote": "Refresh for latest… Networks got their first glimpse at the sentiment of the electorate, with a batch of preliminary voter poll information showing dismal approval ratings for Donald Trump and the state of the country…",
+      "publisher": "Deadline",
+      "author": "Ted Johnson",
+      "date": "2026-11-03T22:28:54+00:00",
+      "link": "https://deadline.com/2026/11/election-2026-latest-1237212469/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/Midterms-2026-7.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "0c07c3b87499f545",
+      "title": "Project Hail Mary Author Andy Weir's Sci-Fi Recommendations For Capturing His 'Vibe' [Exclusive]",
+      "quote": "Unsurprisingly, Project Hail Mary author Andy Weir has several hard sci-fi works that he would recommend based on their similarities to his own writing.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Jeremy Smith)",
+      "date": "2026-11-03T22:00:00+00:00",
+      "link": "https://www.slashfilm.com/2303978/project-hail-mary-author-andy-weir-sci-fi-recommendations/",
+      "image": "https://www.slashfilm.com/img/gallery/project-hail-mary-author-andy-weirs-sci-fi-recommendations-for-capturing-his-vibe/l-intro-1793635054.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "7936bd3a0e6320d7",
+      "title": "Dafne Keen was convinced she'd lose Logan role to Millie Bobby Brown",
+      "quote": "In a new interview, <i>Logan</i> star Dafne Keen recalled realizing the role of X-23 was down to her and Millie Bobby Brown, who was filming season one of <i>Stranger Things</i> at the time.",
+      "publisher": "The A.V. Club",
+      "author": "Olivia Singh",
+      "date": "2026-11-03T21:23:22+00:00",
+      "link": "https://www.avclub.com/dafne-keen-logan-audition-millie-bobby-brown",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/11/03/logan-dafne-keen-featured.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "06f342b25316dfc7",
+      "title": "‘The Invited’ Series Inspired By Wendy Webb Novels In Works From Impossible Dream Entertainment & Wall To Wall; Helen Black & Jeff Howard Scripting",
+      "quote": "EXCLUSIVE: Impossible Dream Entertainment, the production company behind Oscar winners Get Out and BlacKkKlansman, is teaming with the UK’s Wall to Wall to develop and exec produce The Invited, a supernatural mystery…",
+      "publisher": "Deadline",
+      "author": "Matthewgrobar",
+      "date": "2026-11-03T21:13:13+00:00",
+      "link": "https://deadline.com/2026/11/the-invited-tv-series-wendy-webb-in-works-1237211371/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/impossible-dream-warner-bros-side-by-side.png",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "4ae5191ff4613515",
+      "title": "‘Much Ado About Nothing’ Starring Tom Hiddleston Joins Sell Outs ‘A Few Good Men’, ‘Other Desert Cities’ & ‘Hamilton’ – Broadway Box Office",
+      "quote": "Broadway business was off about 13% last week (from the previous week and from last season at this time) – maybe Halloween Saturday pulled away some attention? – with total box office for the 33 shows hitting…",
+      "publisher": "Deadline",
+      "author": "Greg Evans",
+      "date": "2026-11-03T20:21:47+00:00",
+      "link": "https://deadline.com/2026/11/broadway-box-office-tom-hiddleston-much-ado-about-nothing-1237212200/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/Much-Ado-About-Nothing.-Hayley-Atwell-BeatriceTom-Hiddleston-Benedick-and-cast.-Credit-Marc-Brenner.-3888.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "bb87c20918ba4c42",
+      "title": "Blumhouse Atomic Monster is now just Blumhouse Atomic",
+      "quote": "The merger between Jason Blum's Blumhouse and James Wan's Atomic Monster has been renamed to simply Blumhouse Atomic.",
+      "publisher": "The A.V. Club",
+      "author": "Olivia Singh",
+      "date": "2026-11-03T20:10:46+00:00",
+      "link": "https://www.avclub.com/blumhouse-atomic-monster-merger-renamed",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/04/14163056/insidious-out-of-the-further-feature.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "9702d12f766b443e",
+      "title": "Netflix Launches AI Discovery Tool As “Test Kitchen” For Viewers Seeking Appetizing Content",
+      "quote": "Netflix has introduced a new tab on its TV app giving a subset of its subscriber base an AI-driven way to discover new programming. AI Discover, as the new offering is known, builds on the streaming giant’s previous…",
+      "publisher": "Deadline",
+      "author": "Dade Hayes",
+      "date": "2026-11-03T20:09:30+00:00",
+      "link": "https://deadline.com/2026/11/netflix-ai-discovery-tool-viewers-programming-1237212413/",
+      "image": "https://deadline.com/wp-content/uploads/2024/10/Netflix-sign.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "5947897955bb5d5b",
+      "title": "Billy Evans doesn't regret letting Nathan Fielder see everything",
+      "quote": "In an AMA, You Can See Everything's supporting subject offers some thoughts on movies, Kendrick Lamar, and celebrating Nathan Fielder's birthday.",
+      "publisher": "The A.V. Club",
+      "author": "Matt Schimkowitz",
+      "date": "2026-11-03T20:05:41+00:00",
+      "link": "https://www.avclub.com/billy-evans-you-can-see-everything-ama",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/11/03/billy-evans-ycse-feature.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "b78a40f3b1a8d28f",
+      "title": "Matthew Perry Doc Premieres Atop Netflix’s Weekly English TV Rankings; ‘Lupin’ Part 4 Leads All Series As Non-English Fare Commands Attention",
+      "quote": "Friends fans showed up on Netflix last week to watch the streamer’s new three-part documentary series on Matthew Perry. The One About Matthew Perry was the top English-language television series on Netflix from October…",
+      "publisher": "Deadline",
+      "author": "Katie Campione",
+      "date": "2026-11-03T20:02:26+00:00",
+      "link": "https://deadline.com/2026/11/matthew-perry-doc-lupin-part-4-premiere-viewership-netflix-1237212421/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/split-image-1000.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "153eaa2e1c02e1c7",
+      "title": "The Greatest goes the distance",
+      "quote": "The Greatest has a visual flair befitting its larger-than-life subject, Muhammad Ali.",
+      "publisher": "The A.V. Club",
+      "author": "Chase Hutchinson",
+      "date": "2026-11-03T20:00:21+00:00",
+      "link": "https://www.avclub.com/the-greatest-review-muhammad-ali-prime-video",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/11/03/MixCollage-03-Nov-2026-01-38-PM-2218.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "10ffdf7ef42993c8",
+      "title": "Skydance Inherited Massive Flops From Warner Bros. Deal - And Things Could Get Worse",
+      "quote": "A lot of Warner Bros. movies have bombed in 2026, which is now the newly-formed Skydance's problem. Unfortunately, things may not get better in 2027.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Ryan Scott)",
+      "date": "2026-11-03T20:00:00+00:00",
+      "link": "https://www.slashfilm.com/2305724/skydance-warner-bros-2026-box-office-flops/",
+      "image": "https://www.slashfilm.com/img/gallery/skydance-inherited-massive-flops-from-warner-bros-deal-and-things-could-get-worse/l-intro-1793734791.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "08e2198c682b87d4",
+      "title": "Jake Gyllenhaal's 124-Minute Sci-Fi Disaster Movie Is Officially Netflix's Biggest Streaming Hit",
+      "quote": "A blockbuster sci-fi disaster movie released in 2004 and starring a young Jake Gyllenhaal is currently a big hit over on Netflix.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Joe Roberts)",
+      "date": "2026-11-03T19:49:58+00:00",
+      "link": "https://www.slashfilm.com/2305743/jake-gyllenhaal-sci-fi-disaster-movie-the-day-after-tomorrow-streaming-netflix-november-2026/",
+      "image": "https://www.slashfilm.com/img/gallery/jake-gyllenhaals-124-minute-sci-fi-disaster-movie-is-officially-netflixs-biggest-streaming-hit/l-intro-1793734150.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "39a149e618c68519",
+      "title": "I'm Not A Star Trek Fan – Here's What I Learned After Watching Patrick Stewart's Best TNG Episodes",
+      "quote": "How does a Star Trek newbie respond to Patrick Stewart's Captain Picard? Our writer went where so many have gone before and to find out.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Nina Starner)",
+      "date": "2026-11-03T19:15:58+00:00",
+      "link": "https://www.slashfilm.com/2305674/star-trek-picard-best-episodes-first-time-watching-not-fan/",
+      "image": "https://www.slashfilm.com/img/gallery/im-not-a-star-trek-fan-heres-what-i-learned-after-watching-patrick-stewarts-best-tng-episodes/l-intro-1793733168.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "ce696354ac327667",
+      "title": "Cinemark determines Cliff Booth bad for movie theaters",
+      "quote": "After banning Netflix's upcoming David Fincher, Quentin Tarantino, and Brad Pitt collaboration from its 150 locations, Cinemark's CEO says The Further Mis-Adventures Of Cliff Booth isn't in his theaters' best interest.",
+      "publisher": "The A.V. Club",
+      "author": "Matt Schimkowitz",
+      "date": "2026-11-03T19:03:52+00:00",
+      "link": "https://www.avclub.com/cinemark-ceo-comments-cliff-booth-situation",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/11/03/cliff-booth-feature.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "e416a28eaced7d6e",
+      "title": "Netflix's new AI wants to really, really know you",
+      "quote": "Netflix's new AI wants to really, really know you, starting today.",
+      "publisher": "The A.V. Club",
+      "author": "Dennis Perkins",
+      "date": "2026-11-03T19:00:29+00:00",
+      "link": "https://www.avclub.com/netflix-debuts-new-ai-tool",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/11/03/N-feature.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "845a27695995bb7a",
+      "title": "New Elder Scrolls VI teaser reveals game name, location, cryptic hints",
+      "quote": "After almost a decade of silence, Bethesda has released a new teaser for the sixth title in its much-loved <i>Elder Scrolls</i> series, featuring the game’s name and location: <i>Sentinel</i>.",
+      "publisher": "The A.V. Club",
+      "author": "Jarrod Jones",
+      "date": "2026-11-03T18:02:05+00:00",
+      "link": "https://www.avclub.com/elder-scrolls-6-sentinel-teaser-bethesda",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/11/03/sentinel-header.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "2402f6abd6bb9c4b",
+      "title": "It's a complicated life for AI-riddled James Stewart biopic Jimmy",
+      "quote": "The cheap, disrespectful Jimmy seeks to honor James Stewart's military service with KJ Apa’s overacting and heaping helpings of AI slop.",
+      "publisher": "The A.V. Club",
+      "author": "Monica Castillo",
+      "date": "2026-11-03T18:00:15+00:00",
+      "link": "https://www.avclub.com/jimmy-review-james-stewart-biopic-kj-apa-ai-generated",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/11/02/jimmy-header.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "287eb1ea6ae53ff5",
+      "title": "TV Legend Ed Asner Appeared In This Classic '60s John Wayne Western",
+      "quote": "Before the Mary Tyler Moore Show made him famous, Ed Asner made his Western movie debut in this '60s film alongside John Wayne.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Joe Roberts)",
+      "date": "2026-11-03T18:00:00+00:00",
+      "link": "https://www.slashfilm.com/2296672/ed-asner-john-wayne-western-el-dorado/",
+      "image": "https://www.slashfilm.com/img/gallery/tv-legend-ed-asner-appeared-in-this-classic-60s-john-wayne-western/l-intro-1793021061.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "69002c638e66c810",
+      "title": "‘Hinotama: Ball of Fire’ Review: Gentle, Handsomely Shot Domestic Drama Is a Promising Debut for Yaza Takenoshin",
+      "quote": "The early moments of “Hinotama: Ball of Fire,” the debut feature from young Japanese director Yaza Takenoshin (who graduated from Harvard this past summer), almost move like clockwork, finding a pleasing rhythm in…",
+      "publisher": "Variety",
+      "author": "Guy Lodge",
+      "date": "2026-11-03T17:56:11+00:00",
+      "link": "https://variety.com/2026/film/reviews/hinotama-ball-of-fire-review-1236938672/",
+      "image": "https://variety.com/wp-content/uploads/2026/11/Main_Hinotama__Ball_of_Fire.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "f77b55e2ae40b5db",
+      "title": "How To Watch Other Mommy At Home",
+      "quote": "Other Mommy, the horror film where Jessica Chastain plays a scary shape-shifting monster, is coming home very soon. Here's how to watch it.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Rafael Motamayor)",
+      "date": "2026-11-03T17:52:04+00:00",
+      "link": "https://www.slashfilm.com/2305511/how-watch-other-mommy-home/",
+      "image": "https://www.slashfilm.com/img/gallery/how-to-watch-other-mommy-at-home/l-intro-1793727896.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "c7d477ed7ba1908f",
+      "title": "5 Best Movies Like The Love Hypothesis",
+      "quote": "If you're a fan of the hit romantic movie The Love Hypothesis, we're here to point you in the direction of five similar movies you might enjoy.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Joe Roberts)",
+      "date": "2026-11-03T17:30:00+00:00",
+      "link": "https://www.slashfilm.com/2300736/best-movies-like-the-love-hypothesis/",
+      "image": "https://www.slashfilm.com/img/gallery/5-best-movies-like-the-love-hypothesis/l-intro-1793275813.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "b3bd6c7516b14f78",
+      "title": "‘Magic Atlas’ Review: Surreal, Shapeshifting Animation Is a Sometimes Mystifying Technical Marvel",
+      "quote": "There’s an increasingly undeniable hunger for the hand-crafted. As discourse around animation becomes more and more absorbed by anaesthetizing questions about AI, it becomes clearer that people who care about the medium…",
+      "publisher": "Variety",
+      "author": "Guy Lodge",
+      "date": "2026-11-03T17:20:57+00:00",
+      "link": "https://variety.com/2026/film/reviews/magic-atlas-review-1236938231/",
+      "image": "https://variety.com/wp-content/uploads/2026/11/magic-atlas.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "8d306c12d78502e4",
+      "title": "‘The Cat in the Hat’ Review: Bill Hader Leads an Animated Dr. Seuss Comedy So Overstuffed It’s Like a Marvel Movie for Tots",
+      "quote": "The new \"Cat in the Hat,\" it goes without saying at this point, makes no attempt to be a faithful adaptation of Dr. Seuss’s most fabled books. That would simply be too quaint for our buzzy, mercurial…",
+      "publisher": "Variety",
+      "author": "Owen Gleiberman",
+      "date": "2026-11-03T17:00:33+00:00",
+      "link": "https://variety.com/2026/film/reviews/the-cat-in-the-hat-review-bill-hader-1236937564/",
+      "image": "https://variety.com/wp-content/uploads/2025/07/cat-in-the-hat.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "a2d285ef3af5320b",
+      "title": "‘The Cat in the Hat’ Review: Bill Hader in a Dr. Seuss Adaptation That Captures the Antic Silliness but Misses the Charm",
+      "quote": "The voice cast also includes Quinta Brunson, Bowen Yang, America Ferrera, Giancarlo Esposito and Matt Berry.",
+      "publisher": "The Hollywood Reporter",
+      "author": "Frank Scheck",
+      "date": "2026-11-03T17:00:00+00:00",
+      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/the-cat-in-the-hat-review-bill-hader-1236746055/",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "9fc6bff0839b0bf0",
+      "title": "Peter Medak obituary",
+      "quote": "Film and television director who won plaudits for The Ruling Class, The Changeling and The Krays In 2013, when Martin Scorsese compiled a brief list of his favourite horror films, he placed the eerie and overlooked 1980…",
+      "publisher": "The Guardian",
+      "author": "Ryan Gilbey",
+      "date": "2026-11-03T16:44:12+00:00",
+      "link": "https://www.theguardian.com/film/2026/nov/03/peter-medak-obituary",
+      "image": "https://i.guim.co.uk/img/media/8a29ca3998eca15ec5ae40a75873ec1eb1c4e307/115_0_2670_2137/master/2670.jpg?width=140&quality=85&auto=format&fit=max&s=32aa374a249c77f4da623f8e841685f4",
+      "category": "World Cinema"
+    },
+    {
+      "id": "428740faaff15985",
+      "title": "Tamil Nadu government permits six shows a day in theatres for new Tamil films for a week since release",
       "quote": "The decision was taken following representations from various film producers’ associations to the State government",
       "publisher": "The Hindu",
       "author": null,
-      "date": "2026-11-03T13:52:48+00:00",
+      "date": "2026-11-03T14:38:28+00:00",
       "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-govt-permits-six-shows-a-day-for-new-tamil-films-for-a-week-from-release-date/article71660886.ece",
       "image": "https://th-i.thgim.com/public/incoming/wkj7yp/article71660970.ece/alternates/LANDSCAPE_1200/4871_23_7_2026_10_20_31_1_DSC_9470.JPG",
       "category": "Indian Cinema"
     },
     {
-      "id": "e08e495f17649533",
-      "title": "Unlike Fox News, MS NOW Is “Not Seeing Any Viewer Fatigue,” Parent Company CEO Mark Lazarus Says",
-      "quote": "In the wake of comments Monday by Fox Corp. CEO Lachlan Murdoch about viewer “fatigue” hampering Fox News ratings, MS NOW parent Versant Media’s chief exec, Mark Lazarus, was asked about trends at his network. “We’re…",
-      "publisher": "Deadline",
-      "author": "Dade Hayes",
-      "date": "2026-11-03T13:50:08+00:00",
-      "link": "https://deadline.com/2026/11/ms-now-viewership-versant-q3-2026-earnings-ceo-mark-lazarus-1237212105/",
-      "image": "https://deadline.com/wp-content/uploads/2026/05/Versant.jpg",
+      "id": "bf8ae1f3a4760080",
+      "title": "China’s first AI-generated film is a flop. Some still see it as the future of cinema",
+      "quote": "Chinese investors placing high value on AI despite unpopularity of Sanxingdui: Future Past China’s first fully AI-generated movie has flopped, earning just 1.7m yuan (£191,000) at the box office despite costing “tens of…",
+      "publisher": "The Guardian",
+      "author": "Amy Hawkins Senior China correspondent",
+      "date": "2026-11-03T14:32:54+00:00",
+      "link": "https://www.theguardian.com/film/2026/nov/03/china-first-ai-generated-film-flops-cinema-future",
+      "image": "https://i.guim.co.uk/img/media/0ad0e79a806a919abfc3cd4cc770615dbd933484/250_0_2501_2001/master/2501.jpg?width=140&quality=85&auto=format&fit=max&s=754a46612ea6d4a1b647e6684bf0dae4",
       "category": "World Cinema"
-    },
-    {
-      "id": "8146fd19683dfbb3",
-      "title": "Marshals Season 2 Episode 5 Exposes A Major Problem With The Yellowstone Spin-Off",
-      "quote": "Episode 5 of Marshals Season 2 once again reminds us that the Yellowstone spin-off has a problem it keeps running into again and again.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-11-03T13:17:26+00:00",
-      "link": "https://www.slashfilm.com/2305106/marshals-season-2-episode-5-expose-problem-yellowstone-spin-off/",
-      "image": "https://www.slashfilm.com/img/gallery/marshals-season-2-episode-5-exposes-a-major-problem-with-the-yellowstone-spin-off/l-intro-1793711336.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "5080412438666573",
@@ -53,39 +361,6 @@
       "category": "Indian Cinema"
     },
     {
-      "id": "45e3c40f92f6809b",
-      "title": "Cinemark Stock Pops On Record Q3 Revenue",
-      "quote": "Cinemark, the nation’s third largest exhibitor, saw revenue jump 23% to $1.1 billion for the three months ended in September, its best-ever third quarter amid a broad box office rebound. The shares are up about 4% in…",
-      "publisher": "Deadline",
-      "author": "Jillg366",
-      "date": "2026-11-03T13:09:20+00:00",
-      "link": "https://deadline.com/2026/11/movie-theater-chain-cinemark-earnings-1237212083/",
-      "image": "https://deadline.com/wp-content/uploads/2024/02/Cinemark-sign.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "cf3cb817bcae598e",
-      "title": "UK Theme Park Alton Towers Permanently Closes David Walliams Attraction",
-      "quote": "The World of David Walliams, an attraction at British theme park Alton Towers, is shutting up shop. The Merlin Entertainments-owned park said it would permanently close the Walliams-themed attraction after it opened in…",
-      "publisher": "Deadline",
-      "author": "Jake Kanter",
-      "date": "2026-11-03T13:00:51+00:00",
-      "link": "https://deadline.com/2026/11/alton-towers-closes-david-walliams-attraction-1237212084/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/ATR_WorldOfDavidWalliams_4-e1793708786283.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "1b8e7a33fd023ef6",
-      "title": "More International Deals For ‘Sherlock & Daughter’ Ahead Of UK & Ireland Premiere On HBO Max",
-      "quote": "EXCLUSIVE: Sherlock & Daughter is heading to a raft of new territories. The series is on The CW and HBO Max in the U.S. and is about to premiere on HBO Max in the UK and Ireland on November 5. From Starlings…",
-      "publisher": "Deadline",
-      "author": "Stewart Clarke",
-      "date": "2026-11-03T13:00:45+00:00",
-      "link": "https://deadline.com/2026/11/sherlock-daughter-international-sales-hbo-max-uk-premiere-1237212066/",
-      "image": "https://deadline.com/wp-content/uploads/2025/06/sd-still-2.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "09572a583c13afce",
       "title": "Mum, I’m Alien Pregnant review – slime and silliness in amusing New Zealand comedy horror",
       "quote": "Mucus, alien gristle, a tentacle-bearing penis and, of course, the pregnancy of the title are all borne with deadpan calmness in this underplayed comedy In this amusingly silly exercise in gross-out body horror and…",
@@ -95,28 +370,6 @@
       "link": "https://www.theguardian.com/film/2026/nov/03/mum-im-alien-pregnant-review-slime-and-silliness-in-amusing-new-zealand-comedy-horror",
       "image": "https://i.guim.co.uk/img/media/3d523060ea03fa1529c7477c7e2f253f1e39e6f8/341_0_2917_2334/master/2917.jpg?width=140&quality=85&auto=format&fit=max&s=43f78433775ba4026189fe2a8a02aab6",
       "category": "World Cinema"
-    },
-    {
-      "id": "9435b0bf7f23ff08",
-      "title": "Lucky Number Unveils First Image Of Hiam Abbass In Psychological Thriller ‘Daughter Of Eden’ – AFM",
-      "quote": "EXCLUSIVE: Lucky Number has released a first image of Succession star Hiam Abbass in London-set psychological thriller Daughter of Eden, in which she plays a woman suspected of having connections with the Saddam Hussein…",
-      "publisher": "Deadline",
-      "author": "Melanie Goodfellow",
-      "date": "2026-11-03T13:00:00+00:00",
-      "link": "https://deadline.com/2026/11/lucky-number-hiam-abbass-thriller-daughter-eden-afm-1237211183/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/018_DoE_Rec709_3996x2160_Still_Tiff_16bit_01563616_RETOUCHED.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "a73b5b53c2e4df53",
-      "title": "50 Years Ago Today: John Carpenter Directed A Gritty Action Thriller That Became A Cult Classic",
-      "quote": "John Carpenter is best known for his horror movies, and 50 years ago he directed a classic action thriller that's violent enough to still be shocking.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Devin Meenan)",
-      "date": "2026-11-03T13:00:00+00:00",
-      "link": "https://www.slashfilm.com/2303513/assault-on-precinct-13-john-carpenter-movie-50-year-anniversary/",
-      "image": "https://www.slashfilm.com/img/gallery/50-years-ago-today-john-carpenter-directed-a-gritty-action-thriller-that-became-a-cult-classic/l-intro-1793580565.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "b5fada5bd15d2e42",
@@ -141,17 +394,6 @@
       "category": "Festival Winners"
     },
     {
-      "id": "6a8bbdc294bdfad3",
-      "title": "The Martian Author Andy Weir Explains The One Thing He Would Change About The Story [Exclusive]",
-      "quote": "For the most part, The Martian novelist Andy Weir wouldn't change a thing about his hit sci-fi story ... save for a key incident that occurs early on.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Jeremy Mathai)",
-      "date": "2026-11-03T12:45:00+00:00",
-      "link": "https://www.slashfilm.com/2303876/the-martian-author-andy-weir-one-change-story/",
-      "image": "https://www.slashfilm.com/img/gallery/the-martian-author-andy-weir-explains-the-one-thing-he-would-change-about-the-story-exclusive/l-intro-1793632137.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "0936d0694c5021f0",
       "title": "Vir Das: I no longer demonise the offended",
       "quote": "In India, offence comes with paperwork and the International Emmy-winning comedian knows the drill. But he also knows how to turn the aftermath of a controversy into comedy gold",
@@ -161,17 +403,6 @@
       "link": "https://www.thehindu.com/entertainment/movies/interview-comedian-vir-das-fool-volume-international-emmy/article71655535.ece",
       "image": "https://th-i.thgim.com/public/incoming/3446v/article71659346.ece/alternates/LANDSCAPE_1200/collage%2016.jpg",
       "category": "Indian Cinema"
-    },
-    {
-      "id": "3b5f4e113347d166",
-      "title": "France Opens War Crimes Investigation Into Beirut Deaths Of Artist-Filmmaker Ali Cherri’s Parents",
-      "quote": "The French War Crimes Unit has opened a judicial investigation into the Israeli army’s bombing of a residential building in Beirut in November 2024 in which seven civilians were killed, including the parents of…",
-      "publisher": "Deadline",
-      "author": "Melanie Goodfellow",
-      "date": "2026-11-03T12:27:40+00:00",
-      "link": "https://deadline.com/2026/11/france-war-crimes-investigation-deaths-ali-cherri-parents-1237212077/",
-      "image": "https://deadline.com/wp-content/uploads/2026/04/MixCollage-02-Apr-2026-02-46-PM-4401.jpg",
-      "category": "Festival Winners"
     },
     {
       "id": "556b18d5d04c66d0",
@@ -205,39 +436,6 @@
       "link": "https://www.theguardian.com/film/2026/nov/03/carrie-movie-anniversary-stephen-king",
       "image": "https://i.guim.co.uk/img/media/98c94916896fe17f47e169987c99891114978566/530_311_2111_1689/master/2111.jpg?width=140&quality=85&auto=format&fit=max&s=69ce04761ea7dc6019b3637ef7c46ef8",
       "category": "Festival Winners"
-    },
-    {
-      "id": "052234fda2ad16d9",
-      "title": "Bosses At ‘Clangold’ Producer Beetz Brothers Hail Skydance For Backing Casey Bloys: “A Strong Sign The HBO Line Will Continue”",
-      "quote": "Ever since Paramount and Warner Bros. merged, producers around the world have been wondering what it will mean for their prospects. For Germany’s Beetz Brothers, which launches crime doc Clangold on HBO Max globally on…",
-      "publisher": "Deadline",
-      "author": "Jesse Whittock",
-      "date": "2026-11-03T10:00:00+00:00",
-      "link": "https://deadline.com/2026/11/beetz-brothers-clangold-launch-hbo-max-casey-bloys-1237211145/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/Clangold_c_Eveliene-Klink_beetz-brothers-film-production-e1793633936601.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "2ab6df2777a3f1c8",
-      "title": "British Independent Film Awards: ‘Elsinore’ Leads Nominations",
-      "quote": "Simon Stone’s Elsinore, starring Andrew Scott, leads this year’s British Independent Film Awards nominations with 12 nods. Scroll down for the full list of nominees. Elsinore earned nominations for Best British…",
-      "publisher": "Deadline",
-      "author": "Zac Ntim",
-      "date": "2026-11-03T10:00:00+00:00",
-      "link": "https://deadline.com/2026/11/british-independent-film-awards-elsinore-2026-1237211788/",
-      "image": "https://deadline.com/wp-content/uploads/2026/07/E_03144_R.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "3f12c8be5982d592",
-      "title": "Cillian Murphy's Overlooked 2024 Drama With A 94% Rotten Tomatoes Score Is A Must-Watch",
-      "quote": "Cillian Murphy stars in this well-received 2024 movie, which adapts a celebrated novella about a dark aspect of Ireland's history.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Devin Meenan)",
-      "date": "2026-11-03T09:10:00+00:00",
-      "link": "https://www.slashfilm.com/2303657/cillian-murphy-drama-small-things-like-these-must-watch/",
-      "image": "https://www.slashfilm.com/img/gallery/cillian-murphys-overlooked-2024-drama-with-a-94-rotten-tomatoes-score-is-a-must-watch/l-intro-1793625345.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "7b1bfe4d19cbc05a",
@@ -284,17 +482,6 @@
       "category": "Indian Cinema"
     },
     {
-      "id": "89c8943045c83b2d",
-      "title": "New Group review – schoolkids build human pyramids in bizarre Japanese horror-satire on conformity",
-      "quote": "Two outsider students at a super-strict high school find they are definitely not with the programme in Yûta Shimotsu’s body-bending sci-fi scarer Here is an intermittently amusing Japanese social satire about conformity…",
-      "publisher": "The Guardian",
-      "author": "Catherine Bray",
-      "date": "2026-11-03T07:00:42+00:00",
-      "link": "https://www.theguardian.com/film/2026/nov/03/new-group-review-schoolkids-build-human-pyramids-in-bizarre-japanese-horror-satire-on-conformity",
-      "image": "https://i.guim.co.uk/img/media/d67c0d97cb75262e95df0068028e5dd34ecb2013/199_0_1728_1383/master/1728.jpg?width=140&quality=85&auto=format&fit=max&s=45bcac33dddc4ae9910a8ff1f94b7c7c",
-      "category": "World Cinema"
-    },
-    {
       "id": "0196f979ba5d8e27",
       "title": "‘Akka’ series review: Sisters in arms, Keerthy Suresh and Radhika Apte hold a mirror to absolute power",
       "quote": "Led by powerful performances from Keerthy Suresh and Radhika Apte, the matriarchal neo-noir flips crime-saga tropes on their head, showing that power’s corrupting pull isn’t gender-coded.",
@@ -317,39 +504,6 @@
       "category": "Indian Cinema"
     },
     {
-      "id": "9214ccfb6b6c7304",
-      "title": "The Fall And Rise Of Reggie Dinkins returns, and thankfully nothing has changed",
-      "quote": "In a very funny The Fall And Rise Of Reggie Dinkins season 2 premiere, Reggie, Arthur, and Monica all discover that minor triumphs can't fix things overnight.",
-      "publisher": "The A.V. Club",
-      "author": "Dennis Perkins",
-      "date": "2026-11-03T02:00:56+00:00",
-      "link": "https://www.avclub.com/reggie-dinkins-review-we-keep-the-kisses",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/11/02/RD-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "cc9d73590ca9e02e",
-      "title": "Marshals Season 2 Teases Yellowstone Fans With A Major Character Name-Drop",
-      "quote": "While it's all well and good to hear this Yellowstone character's name mentioned again on Marshals, the fact remains that we've yet to see them on the spin-off.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-11-03T02:00:19+00:00",
-      "link": "https://www.slashfilm.com/2304917/marshals-season-2-episode-5-yellowstone-character-name-drop-jamie-dutton/",
-      "image": "https://www.slashfilm.com/img/gallery/marshals-season-2-teases-yellowstone-fans-with-a-major-character-name-drop/l-intro-1793670765.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "41e40389f9e4cccf",
-      "title": "An Unlikely Frasier Episode Earned Death Threats For Daphne Actor Jane Leeves",
-      "quote": "Bizarrely enough, Frasier star Jane Leeves once earned death threats for her broad slapstick antics on a beloved episode from Season 2.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-11-03T01:45:00+00:00",
-      "link": "https://www.slashfilm.com/2299321/frasier-episode-death-threats-daphne-actor-jane-leeves/",
-      "image": "https://www.slashfilm.com/img/gallery/an-unlikely-frasier-episode-earned-death-threats-for-daphne-actor-jane-leeves/l-intro-1793190627.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "c30bd3517c43d3f8",
       "title": "‘Red Before Dawn’ Review: A Road Movie Revisits the Indonesian Revolution in Ways More Didactic Than Climactic",
       "quote": "Garin Nugroho’s wartime drama follows a group of disparate characters dangerously making their way across Indonesia as the fight for independence rages on.",
@@ -358,116 +512,6 @@
       "date": "2026-11-03T01:15:23+00:00",
       "link": "https://www.hollywoodreporter.com/movies/movie-reviews/red-before-dawn-review-indonesian-film-1236746350/",
       "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "1bd6c38cedd9feab",
-      "title": "Apple to revisit history's most infamous \"wardrobe malfunction\" in Justin Timberlake docuseries",
-      "quote": "Directed by Fisher Stevens, the upcoming four-part \"tell-all\" documentary series about Justin Timberlake will include interviews with Janet Jackson about the duo's notorious Super Bowl performance.",
-      "publisher": "The A.V. Club",
-      "author": "Matt Schimkowitz",
-      "date": "2026-11-03T00:42:30+00:00",
-      "link": "https://www.avclub.com/apple-justin-timberlake-docuseries-tell-all-janet-jackson",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2022/01/15020952/68f4f434c1ebd0e82ed359ca76d64235.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "898afd4eaf33833b",
-      "title": "Idris Elba Almost Played A Different DC Comics Villain In James Gunn's The Suicide Squad",
-      "quote": "James Gunn ultimately cast Idris Elba as Bloodsport in his Suicide Squad sequel, but only after considering him for another DC villain role.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Devin Meenan)",
-      "date": "2026-11-03T00:00:00+00:00",
-      "link": "https://www.slashfilm.com/2303710/idris-elba-dc-comics-villain-deathstroke-james-gunn-the-suicide-squad/",
-      "image": "https://www.slashfilm.com/img/gallery/idris-elba-almost-played-a-different-dc-comics-villain-in-james-gunns-the-suicide-squad/l-intro-1793627354.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "ccbeb554344cb3a0",
-      "title": "One Of 2026's Best Anime Movies Is Based On The Same Book As A Tom Cruise Sci-Fi Classic",
-      "quote": "In 2014, Tom Cruise starred in the sci-fi time loop movie Edge of Tomorrow. While a sequel has yet to materialize, a 2026 anime adapts the same source material.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Devin Meenan)",
-      "date": "2026-11-02T23:00:00+00:00",
-      "link": "https://www.slashfilm.com/2300402/all-you-need-is-kill-2026-anime-movie-sci-fi-book-tom-cruise-edge-of-tomorrow/",
-      "image": "https://www.slashfilm.com/img/gallery/one-of-2026s-best-anime-movies-is-based-on-the-same-book-as-a-tom-cruise-sci-fi-classic/l-intro-1793219267.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "c0017f676227ee40",
-      "title": "Youth will continue to grow at HBO",
-      "quote": "HBO has renewed Sharon Horgan's midlife dramedy, Youth, for a second season.",
-      "publisher": "The A.V. Club",
-      "author": "Matt Schimkowitz",
-      "date": "2026-11-02T22:58:20+00:00",
-      "link": "https://www.avclub.com/youth-renewed-for-second-season-hbo",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/09/21/Feat_YouthPremiere.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "37f6ddea198e26a3",
-      "title": "The Long Walk's Ben Wang freezes competition to become Marvel's new Iceman",
-      "quote": "Cerebro has located Ben Wang to play Iceman in Marvel's upcoming X-Men reboot.",
-      "publisher": "The A.V. Club",
-      "author": "Matt Schimkowitz",
-      "date": "2026-11-02T21:38:16+00:00",
-      "link": "https://www.avclub.com/ben-wang-to-play-iceman-in-marvel-x-men-reboot",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/11/02/ben-wang-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "106f9958054a4ba3",
-      "title": "Carrie Coon commits to a cult in The Liberation trailer",
-      "quote": "Carrie Coon commits to a cult in the trailer for <I>The Liberation</i>, a new film from director Guy Nattiv.",
-      "publisher": "The A.V. Club",
-      "author": "Drew Gillis",
-      "date": "2026-11-02T21:30:26+00:00",
-      "link": "https://www.avclub.com/the-liberation-trailer-carrie-coon",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/11/02/MixCollage-02-Nov-2026-04-22-PM-5678.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "bcb909560c276805",
-      "title": "John Goodman blames film critics for burying Digger before its release: \"It kinda killed us\"",
-      "quote": "The instant cult classic's box office failure \"hurt\" John Goodman, but he's been in this position many times before.",
-      "publisher": "The A.V. Club",
-      "author": "Matt Schimkowitz",
-      "date": "2026-11-02T20:22:08+00:00",
-      "link": "https://www.avclub.com/john-goodman-blames-critics-for-digger-bomb",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/11/02/digger-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "9f723d4bed9bc6d7",
-      "title": "A fresh crop of Trump supporters get Kennedy Center Honors",
-      "quote": "This year's Kennedy Center Honors recipients are Paul Anka, David Foster, Andy Garcia, David Mamet, and Barbara Mandrell.",
-      "publisher": "The A.V. Club",
-      "author": "Olivia Singh",
-      "date": "2026-11-02T20:04:21+00:00",
-      "link": "https://www.avclub.com/kennedy-center-honorees-2026",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2025/12/31134309/kennedy-center-feaature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "50d2c12681aeae7c",
-      "title": "Being Heumann gives disability rights revolution a glossy, hokey sheen",
-      "quote": "Sian Heder's well-performed, occasionally exciting follow-up to CODA, the disability rights biopic Being Heumann lacks any political heft.",
-      "publisher": "The A.V. Club",
-      "author": "Anna McKibbin",
-      "date": "2026-11-02T20:00:51+00:00",
-      "link": "https://www.avclub.com/being-heumann-review-apple-sian-heder-activism",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/10/20/being-heumann-header.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "e827fba64b07b6e3",
-      "title": "‘Screams on the level of a Taylor Swift concert’: horny romp Wicker gets the 4DX treatment",
-      "quote": "Olivia Colman’s steamy romance, where she plays a woman in love with a wicker man, becomes an unlikely pick for the theme park-like cinema experience What does Olivia Colman’s hot sex with a basket tell us about…",
-      "publisher": "The Guardian",
-      "author": "Adrian Horton",
-      "date": "2026-11-02T18:29:37+00:00",
-      "link": "https://www.theguardian.com/tv-and-radio/2026/nov/02/wicker-4dx-olivia-colman-movie",
-      "image": "https://i.guim.co.uk/img/media/6539b8202f026e4a326b2c90286760d1575be653/2287_546_4273_3419/master/4273.jpg?width=140&quality=85&auto=format&fit=max&s=eadba8debf52d25ca60fd8062b2a5909",
       "category": "World Cinema"
     },
     {
@@ -636,17 +680,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "a85d86239f57536b",
-      "title": "‘Between Us’ Review: Estranged Teenagers Process Past Tragedy Through High School Theater in Fitfully Ambitious Japanese Drama",
-      "quote": "The lingering trauma shared by two middle-class families, once friendly but now estranged following a tragic camping incident, is finally addressed through the unlikely prism of a high-school drama club production in…",
-      "publisher": "Variety",
-      "author": "Guy Lodge",
-      "date": "2026-10-29T11:53:14+00:00",
-      "link": "https://variety.com/2026/film/reviews/between-us-review-1236934055/",
-      "image": "https://variety.com/wp-content/uploads/2026/10/between-us.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "b670f8a9cd95dac0",
       "title": "The deathly book that caused a prize controversy",
       "quote": "Emma Cline's assisted-dying novel Switzy was excluded from the Booker Prize",
@@ -655,17 +688,6 @@
       "date": "2026-10-29T10:28:00+00:00",
       "link": "https://www.bbc.com/culture/article/20261028-why-stunning-assisted-dying-novel-switzy-caused-a-booker-prize-controversy?ocid=global_culture_rss",
       "image": "https://ychef.files.bbci.co.uk/144x81/p0pk46kc.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "62df6dc20a3a32a2",
-      "title": "‘The Mosquito Bowl’ Review: Football Heroes Take to the Battlefield in Peter Berg’s Emptily Macho WWII Epic",
-      "quote": "No one familiar with the oeuvre of Peter Berg — the action merchant behind the Afghanistan war drama “Lone Survivor” and the improbably pumped-up boardgame adaptation “Battleship” — should approach “The Mosquito Bowl”…",
-      "publisher": "Variety",
-      "author": "Guy Lodge",
-      "date": "2026-10-29T01:40:14+00:00",
-      "link": "https://variety.com/2026/film/reviews/the-mosquito-bowl-review-1236932067/",
-      "image": "https://variety.com/wp-content/uploads/2026/10/mosquito.jpg",
       "category": "World Cinema"
     },
     {
@@ -699,17 +721,6 @@
       "date": "2026-10-28T11:00:00+00:00",
       "link": "https://www.bbc.com/culture/article/20261027-10-images-of-19th-century-parisian-women-who-rebelled-against-the-trouser-ban?ocid=global_culture_rss",
       "image": "https://ychef.files.bbci.co.uk/144x81/p0pjv1hc.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "7e2e57750228ac10",
-      "title": "‘Until the Day Ends’ Review: Two People Connect Across a Political Divide in a Striking Serbian Youth Drama",
-      "quote": "Amid the turmoil of mass student protests in the streets of Belgrade, two young people are bonded by a rash act of rebellion, despite their outwardly incompatible ideologies. The premise of Serbian writer-director…",
-      "publisher": "Variety",
-      "author": "Guy Lodge",
-      "date": "2026-10-27T14:44:05+00:00",
-      "link": "https://variety.com/2026/film/reviews/until-the-day-ends-review-1236931675/",
-      "image": "https://variety.com/wp-content/uploads/2026/07/Until-the-Day-Ends.jpg",
       "category": "World Cinema"
     },
     {
@@ -775,17 +786,6 @@
       "author": "Frank Scheck",
       "date": "2026-10-22T15:00:00+00:00",
       "link": "https://www.hollywoodreporter.com/movies/movie-reviews/ali-g-who-iz-i-review-sacha-baron-cohen-1236736219/",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "e6b242f5d620155a",
-      "title": "‘Clayface’ Review: DC Studios’ Batman Villain Origin Story Is a Bona Fide Body-Horror Delight",
-      "quote": "Directed by James Watkins and co-written by Mike Flanagan, the standalone film stars Tom Rhys Harries, Naomi Ackie and Max Minghella.",
-      "publisher": "The Hollywood Reporter",
-      "author": "Frank Scheck",
-      "date": "2026-10-21T19:00:00+00:00",
-      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/clayface-review-dc-batman-1236736489/",
       "image": null,
       "category": "World Cinema"
     },
