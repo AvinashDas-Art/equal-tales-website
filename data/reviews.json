@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T23:07:35.227918+00:00",
+  "generated_at": "2026-11-04T05:51:50.554885+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -9,26 +9,114 @@
   ],
   "reviews": [
     {
-      "id": "0a0390b47ce0bb99",
-      "title": "Midterm Elections: Piers Morgan & Rashida Jones On How ‘Uncensored’s Going Into Uncharted Territory Tonight, The Trump Wild Card",
-      "quote": "EXCLUSIVE: “If the Republicans lose both the House and the Senate, I think it will be, in my estimation, entirely down to that decision to attack Iran and the economic fallout from that decision,” says Piers Morgan of…",
+      "id": "b7a1798611ed77f1",
+      "title": "Hollywood Celebrates Midterms Blue Tsunami: Jimmy Kimmel, Alyssa Milano & More React",
+      "quote": "After collectively holding is breath, much of Hollywood breathed a sigh of relief tonight as Democrats posted a stunning electoral rebuke of President Donald Trump, his policies and the candidates he backed. By 9 p.m…",
       "publisher": "Deadline",
-      "author": "Dominic Patten",
-      "date": "2026-11-03T22:58:43+00:00",
-      "link": "https://deadline.com/2026/11/election-2026-piers-morgan-interview-1237212489/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/piers-morgan-rashida-jones-2.jpg",
+      "author": "Tomt",
+      "date": "2026-11-04T05:31:28+00:00",
+      "link": "https://deadline.com/2026/11/midterms-hollywood-celebrities-react-celebrate-1237212866/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/kimmel-trump.png",
       "category": "World Cinema"
     },
     {
-      "id": "d9de33c769c76fe1",
-      "title": "‘La Bola Negra’ Caliente At Box Office With $43M Worldwide, Becomes Spain’s Top-Grossing Local Pic Of 2026",
-      "quote": "Heading into awards season, it’s always nice for any feature contender to have some juice at the box office, and Spain’s official Oscar entry has exactly that as La Bola Negra has easily become the country’s highest…",
+      "id": "3e6231cfb3534872",
+      "title": "Midterm Elections: Troy Jackson Defeats Susan Collins In Maine",
+      "quote": "Refresh for latest… Democrat Troy Jackson has defeated Sen. Susan Collins (R-ME), flipping a Senate seat in the blue state against a longtime incumbent who had survived previous challenges. Multiple networks reported…",
       "publisher": "Deadline",
-      "author": "Anthonypauldalessandro",
-      "date": "2026-11-03T22:45:53+00:00",
-      "link": "https://deadline.com/2026/11/la-bola-negra-box-office-spain-1237212446/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/MCDLABO_ZX001.jpg",
+      "author": "Ted Johnson",
+      "date": "2026-11-04T05:29:00+00:00",
+      "link": "https://deadline.com/2026/11/election-2026-latest-1237212469/",
+      "image": "https://deadline.com/wp-content/uploads/2025/07/GettyImages-2222248274.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "20ae5c74ec0bc131",
+      "title": "Xavier Becerra Elected California Governor",
+      "quote": "Xavier Becerra has been elected the next governor of California, the first Latino to win the state’s highest office. In a race called by the AP on Tuesday night, Becerra, a Democrat, long was projected to easily defeat…",
+      "publisher": "Deadline",
+      "author": "Ted Johnson",
+      "date": "2026-11-04T04:21:21+00:00",
+      "link": "https://deadline.com/2026/11/california-governor-election-2026-results-1237212391/",
+      "image": "https://deadline.com/wp-content/uploads/2026/06/GettyImages-2279539190.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "06cf652eeb3fee60",
+      "title": "Pierce Brosnan Endorses Callum Turner As Next James Bond As “He’s So Strong”; Josh O’Connor Reacts To Talk Around 007 Casting",
+      "quote": "Two names rumored to take on the James Bond role next are Callum Turner and Josh O’Connor, and reactions to the idea of them playing 007 on the big screen are coming in. Turner got a major endorsement from former James…",
+      "publisher": "Deadline",
+      "author": "Armando Tinoco",
+      "date": "2026-11-04T02:40:42+00:00",
+      "link": "https://deadline.com/2026/11/pierce-brosnan-callum-turner-james-bond-josh-oconnor-casting-1237212659/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/james-bond-callum-turner-josh-oconnor.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "b92fec981bf1e89e",
+      "title": "Will Ebenezer Be The Box Office Hit Johnny Depp's Hollywood Comeback Needs?",
+      "quote": "Paramount is betting its Johnny Depp comeback vehicle Ebenezer, a new take on A Christmas Carol, will be a box office hit. Let's look at the early projections.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Ryan Scott)",
+      "date": "2026-11-04T01:45:00+00:00",
+      "link": "https://www.slashfilm.com/2305949/johnny-depp-movie-ebenezer-a-christmas-carol-box-office-preview/",
+      "image": "https://www.slashfilm.com/img/gallery/will-ebenezer-be-the-box-office-hit-johnny-depps-hollywood-comeback-needs/l-intro-1793739673.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "1ddec0651b31ed20",
+      "title": "Paramount+ Drama Slate: Series Moving To HBO, Sarah Aubrey & Francesca Orsi Sharing Oversight Among Options Explored Post-Merger – The Dish",
+      "quote": "Almost a month into Paramount’s acquisition of Warner Bros Discovery into Skydance, pieces are still coming together, and there is probably no area with more pieces to sort out than Skydance’s Direct to Consumer. With…",
+      "publisher": "Deadline",
+      "author": "Nellie Andreeva",
+      "date": "2026-11-04T01:12:50+00:00",
+      "link": "https://deadline.com/2026/11/paramount-plus-drama-slate-sarah-aubrey-francesca-orsi-1237212518/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/francesca-orsi-sarah-aubrey-hbo-max-paramount.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "952abfad7ae1a02a",
+      "title": "Park Hoon-jung’s ‘Tristes Tropiques’ Sells To Well Go USA For North America; Swift For France",
+      "quote": "Korean sales outfit Finecut has sold Park Hoon-jung’s action noir Tristes Tropiques to several key territories, including North America, where it has been acquired by Well Go USA. The film, which is scheduled for Korean…",
+      "publisher": "Deadline",
+      "author": "Liz Shackleton",
+      "date": "2026-11-04T01:00:15+00:00",
+      "link": "https://deadline.com/2026/11/well-go-usa-park-hoon-jung-tristes-tropiques-finecut-swift-1237211994/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/Tristes-Tropiques.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "dde806c68cdee095",
+      "title": "BAFTA Breakthrough: ‘Ish’ Filmmaker Imran Perretta & ‘The Other Bennet Sister’ Star Ella Bruccoleri Among 2026 Cohort",
+      "quote": "Imran Perretta (Ish) and Ella Bruccoleri (The Other Bennet Sister) are among 21 creatives who have been selected for this year’s cohort of BAFTA Breakthrough talents. BAFTA Breakthrough is awarded to individuals in what…",
+      "publisher": "Deadline",
+      "author": "Zac Ntim",
+      "date": "2026-11-04T00:01:00+00:00",
+      "link": "https://deadline.com/2026/11/bafta-breakthrough-imran-perretta-2026-1237212332/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/IN2026_Sane-Seven_047_02S.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "91d027dcd0bbacde",
+      "title": "Doc Talk Podcast: Hot Springs Documentary Film Festival’s Ken Jacobson On State Of Nonfiction Filmmaking, Competitive Oscar Race And More",
+      "quote": "Hot Springs, Arkansas is known for many things – as the childhood home of Bill Clinton, as the former site of Major League Baseball’s spring training (in the era of Babe Ruth), for its beautiful national park, and for…",
+      "publisher": "Deadline",
+      "author": "Patrick Hipes",
+      "date": "2026-11-04T00:00:00+00:00",
+      "link": "https://deadline.com/2026/11/hot-springs-documentary-festival-ken-jacobson-doc-talk-1237212399/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/Ken-Jacobson-split-image-1500.jpg",
       "category": "Festival Winners"
+    },
+    {
+      "id": "b7bd9ad448ac827b",
+      "title": "Jurassic Park's Lost Animated Series Pitch Has Finally Surfaced In Video Form",
+      "quote": "Jurassic Park almost received an animated TV show in the 1990s, and now footage has surfaced of a quick pitch video that reveals what it would have looked like.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Rafael Motamayor)",
+      "date": "2026-11-04T00:00:00+00:00",
+      "link": "https://www.slashfilm.com/2306055/jurassic-park-lost-animated-series-pitch-video/",
+      "image": "https://www.slashfilm.com/img/gallery/jurassic-parks-lost-animated-series-pitch-has-finally-surfaced-in-video-form/l-intro-1793744514.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "5408d1cc2e06eecf",
@@ -40,28 +128,6 @@
       "link": "https://www.slashfilm.com/2306080/mason-thames-robin-dynamic-duo-movie-dc-studios-live-action-potential/",
       "image": "https://www.slashfilm.com/img/gallery/dc-studios-officially-casts-mason-thames-as-robin-but-will-he-play-him-in-live-action/l-intro-1793745723.jpg",
       "category": "Indie Gems"
-    },
-    {
-      "id": "04b4f9acfea867be",
-      "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-      "quote": "EXCLUSIVE: Tami Roman (The Ms. Pat Show, The Family Business) is expanding her relationship with Lifetime with the announcement of Double Double Trouble 2, a sequel to Double Double Trouble, the network’s No. 1…",
-      "publisher": "Deadline",
-      "author": "Rosy Cordero",
-      "date": "2026-11-03T22:32:27+00:00",
-      "link": "https://deadline.com/2026/11/tami-roman-lifetime-movie-double-double-trouble-2-1237212406/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/tami-roman-and-roger-cross-double-double-trouble.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "ffb1cb5c9a141d7e",
-      "title": "Midterm Elections: Networks Comb Through First Poll Of Electorate Showing Dismal View Of Trump And The Economy",
-      "quote": "Refresh for latest… Networks got their first glimpse at the sentiment of the electorate, with a batch of preliminary voter poll information showing dismal approval ratings for Donald Trump and the state of the country…",
-      "publisher": "Deadline",
-      "author": "Ted Johnson",
-      "date": "2026-11-03T22:28:54+00:00",
-      "link": "https://deadline.com/2026/11/election-2026-latest-1237212469/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/Midterms-2026-7.jpg",
-      "category": "World Cinema"
     },
     {
       "id": "0c07c3b87499f545",
@@ -86,28 +152,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "06f342b25316dfc7",
-      "title": "‘The Invited’ Series Inspired By Wendy Webb Novels In Works From Impossible Dream Entertainment & Wall To Wall; Helen Black & Jeff Howard Scripting",
-      "quote": "EXCLUSIVE: Impossible Dream Entertainment, the production company behind Oscar winners Get Out and BlacKkKlansman, is teaming with the UK’s Wall to Wall to develop and exec produce The Invited, a supernatural mystery…",
-      "publisher": "Deadline",
-      "author": "Matthewgrobar",
-      "date": "2026-11-03T21:13:13+00:00",
-      "link": "https://deadline.com/2026/11/the-invited-tv-series-wendy-webb-in-works-1237211371/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/impossible-dream-warner-bros-side-by-side.png",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "4ae5191ff4613515",
-      "title": "‘Much Ado About Nothing’ Starring Tom Hiddleston Joins Sell Outs ‘A Few Good Men’, ‘Other Desert Cities’ & ‘Hamilton’ – Broadway Box Office",
-      "quote": "Broadway business was off about 13% last week (from the previous week and from last season at this time) – maybe Halloween Saturday pulled away some attention? – with total box office for the 33 shows hitting…",
-      "publisher": "Deadline",
-      "author": "Greg Evans",
-      "date": "2026-11-03T20:21:47+00:00",
-      "link": "https://deadline.com/2026/11/broadway-box-office-tom-hiddleston-much-ado-about-nothing-1237212200/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/Much-Ado-About-Nothing.-Hayley-Atwell-BeatriceTom-Hiddleston-Benedick-and-cast.-Credit-Marc-Brenner.-3888.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "bb87c20918ba4c42",
       "title": "Blumhouse Atomic Monster is now just Blumhouse Atomic",
       "quote": "The merger between Jason Blum's Blumhouse and James Wan's Atomic Monster has been renamed to simply Blumhouse Atomic.",
@@ -119,17 +163,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "9702d12f766b443e",
-      "title": "Netflix Launches AI Discovery Tool As “Test Kitchen” For Viewers Seeking Appetizing Content",
-      "quote": "Netflix has introduced a new tab on its TV app giving a subset of its subscriber base an AI-driven way to discover new programming. AI Discover, as the new offering is known, builds on the streaming giant’s previous…",
-      "publisher": "Deadline",
-      "author": "Dade Hayes",
-      "date": "2026-11-03T20:09:30+00:00",
-      "link": "https://deadline.com/2026/11/netflix-ai-discovery-tool-viewers-programming-1237212413/",
-      "image": "https://deadline.com/wp-content/uploads/2024/10/Netflix-sign.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "5947897955bb5d5b",
       "title": "Billy Evans doesn't regret letting Nathan Fielder see everything",
       "quote": "In an AMA, You Can See Everything's supporting subject offers some thoughts on movies, Kendrick Lamar, and celebrating Nathan Fielder's birthday.",
@@ -139,17 +172,6 @@
       "link": "https://www.avclub.com/billy-evans-you-can-see-everything-ama",
       "image": "https://www.avclub.com/wp-content/uploads/2026/11/03/billy-evans-ycse-feature.jpg",
       "category": "Indie Gems"
-    },
-    {
-      "id": "b78a40f3b1a8d28f",
-      "title": "Matthew Perry Doc Premieres Atop Netflix’s Weekly English TV Rankings; ‘Lupin’ Part 4 Leads All Series As Non-English Fare Commands Attention",
-      "quote": "Friends fans showed up on Netflix last week to watch the streamer’s new three-part documentary series on Matthew Perry. The One About Matthew Perry was the top English-language television series on Netflix from October…",
-      "publisher": "Deadline",
-      "author": "Katie Campione",
-      "date": "2026-11-03T20:02:26+00:00",
-      "link": "https://deadline.com/2026/11/matthew-perry-doc-lupin-part-4-premiere-viewership-netflix-1237212421/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/split-image-1000.jpg",
-      "category": "World Cinema"
     },
     {
       "id": "153eaa2e1c02e1c7",
@@ -260,28 +282,6 @@
       "link": "https://variety.com/2026/film/reviews/hinotama-ball-of-fire-review-1236938672/",
       "image": "https://variety.com/wp-content/uploads/2026/11/Main_Hinotama__Ball_of_Fire.jpg",
       "category": "World Cinema"
-    },
-    {
-      "id": "f77b55e2ae40b5db",
-      "title": "How To Watch Other Mommy At Home",
-      "quote": "Other Mommy, the horror film where Jessica Chastain plays a scary shape-shifting monster, is coming home very soon. Here's how to watch it.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Rafael Motamayor)",
-      "date": "2026-11-03T17:52:04+00:00",
-      "link": "https://www.slashfilm.com/2305511/how-watch-other-mommy-home/",
-      "image": "https://www.slashfilm.com/img/gallery/how-to-watch-other-mommy-at-home/l-intro-1793727896.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "c7d477ed7ba1908f",
-      "title": "5 Best Movies Like The Love Hypothesis",
-      "quote": "If you're a fan of the hit romantic movie The Love Hypothesis, we're here to point you in the direction of five similar movies you might enjoy.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-11-03T17:30:00+00:00",
-      "link": "https://www.slashfilm.com/2300736/best-movies-like-the-love-hypothesis/",
-      "image": "https://www.slashfilm.com/img/gallery/5-best-movies-like-the-love-hypothesis/l-intro-1793275813.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "b3bd6c7516b14f78",
