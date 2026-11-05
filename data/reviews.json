@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T06:13:03.771474+00:00",
+  "generated_at": "2026-11-05T19:47:43.542843+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -9,15 +9,323 @@
   ],
   "reviews": [
     {
-      "id": "6a3bbffeb1b27b3a",
-      "title": "Liam Neeson Reacts To Meryl Streep Taking Over ‘Narnia’ Role Of Aslan: “Nobody Better”",
-      "quote": "After 16 years, Liam Neeson is passing one of literary’s great characters on to one of Hollywood’s greatest talents. The Oscar nominee, who voiced Aslan in Disney’s The Chronicles of Narnia movies (2005-’10), recently…",
+      "id": "3e0b619a5dc9c13f",
+      "title": "Renate Reinsve on the role that changed her life",
+      "quote": "Playing Julie in The Worst Person in the World was life-changing for the actress",
+      "publisher": "BBC Culture",
+      "author": null,
+      "date": "2026-11-26T10:50:00+00:00",
+      "link": "https://www.bbc.com/culture/article/20261103-the-norwegian-star-on-her-life-changing-role-in-2021s-the-worst-person-in-the-world?ocid=global_culture_rss",
+      "image": "https://ychef.files.bbci.co.uk/144x81/p0pl3vd8.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "263affe4f358ab20",
+      "title": "Russell Brand Trial Reveals Worst & Best Of TV Industry That Protected, Then Exposed A Predator",
+      "quote": "Russell Brand has been convicted of rape and sexual assault after spending the best part of a month on trial. In many ways, the business that propelled Brand to fame and power was also in the dock. In the first major…",
       "publisher": "Deadline",
-      "author": "Glenn Garner",
-      "date": "2026-11-05T03:04:46+00:00",
-      "link": "https://deadline.com/2026/11/liam-neeson-reacts-meryl-streep-narnia-aslan-1237213943/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/Meryl-Streep-Aslan-Liam-Neeson-3-shot.jpg",
+      "author": "Jake Kanter",
+      "date": "2026-11-05T19:20:09+00:00",
+      "link": "https://deadline.com/2026/11/russell-brand-trial-reveals-worst-best-of-tv-industry-1237214490/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/GettyImages-2302359779-e1793702400683.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "a664bd7479e31134",
+      "title": "David Lynch-EP’d Thriller ‘Hyena’ Sets Q1 2027 Start As Kiernan Shipka & D’Pharaoh Woon-A-Tai Replace Previously Announced Leads",
+      "quote": "Psychological thriller Hyena, one of the final films late director David Lynch signed onto as an executive producer, has announced a Q1, 2027 start date, and new co-stars. Industry and Longlegs star Kiernan Shipka and…",
+      "publisher": "Deadline",
+      "author": "Melanie Goodfellow",
+      "date": "2026-11-05T19:15:01+00:00",
+      "link": "https://deadline.com/2026/11/david-lynch-thriller-hyena-q1-2027-kiernan-shipka-1237214669/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/Kiernan-Shipka-DPharaoh-Woon-A-Tai-Edgar-Ramirez-Rosemarie-DeWitt.jpg",
       "category": "Festival Winners"
+    },
+    {
+      "id": "8c4a18d997f7f034",
+      "title": "Teyonah Parris To Co-Star With Denzel Washington In Christopher McQuarrie’s Thriller For United Artists",
+      "quote": "EXCLUSIVE: Teyonah Parris is set to star opposite Denzel Washington in Amazon MGM Studios’ and United Artists’ untitled thriller with Christopher McQuarrie on board to direct. The film, which is penned by Scott Barkan…",
+      "publisher": "Deadline",
+      "author": "Justin Kroll",
+      "date": "2026-11-05T19:15:00+00:00",
+      "link": "https://deadline.com/2026/11/teyonah-parris-denzel-washington-christopher-mcquarrie-1237214613/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/Teyonah-Pariss-and-Denzel-Washington.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "681b915f8337f920",
+      "title": "LIV Golf Shutting Down After Last-Ditch Financing Plan Fails",
+      "quote": "Five years after it began its quest to upend a genteel sport with billions in Saudi Arabian money and brash style, LIV Golf is liquidating its operations. The would-be rival to the PGA Tour, which was championed by…",
+      "publisher": "Deadline",
+      "author": "Dade Hayes",
+      "date": "2026-11-05T19:06:18+00:00",
+      "link": "https://deadline.com/2026/11/liv-golf-shuts-down-bankruptcy-1237214408/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/LIV-Golf.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "197d42203c0abdb2",
+      "title": "‘Primetime’ Star Skyler Gisondo On Pushing Beyond His Comfort Zone & Teasing What’s Next For Jimmy Olsen",
+      "quote": "You’d think in the last year, especially given that he’s coming off a successful outing as Jimmy Olsen in James Gunn’s Superman, that Skyler Gisondo would imagine himself as pretty cool. Though, jokingly, by his own…",
+      "publisher": "Deadline",
+      "author": "Destiny Jackson",
+      "date": "2026-11-05T19:02:12+00:00",
+      "link": "https://deadline.com/2026/11/skyler-gisondo-interview-primetime-the-people-v-gorilla-grodd-1237214604/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/SkylerPrimetime.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "0fde5c6159234341",
+      "title": "Ari Stidham Joins ‘Reacher’ For Season 5",
+      "quote": "EXCLUSIVE: Ari Stidham (Scorpion) has joined the cast of Reacher for Season 5 in a recurring role. Stidham will play Dean Lassider, a sleazy businessman and long-time associate of Nokes (Kevin Durand) who runs his shady…",
+      "publisher": "Deadline",
+      "author": "Rosy Cordero",
+      "date": "2026-11-05T19:00:00+00:00",
+      "link": "https://deadline.com/2026/11/ari-stidham-cast-reacher-season-5-1237214644/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/Ari-Stidham.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "ccc0138d2c7846cc",
+      "title": "Paul Bettany To Star In Netflix Series ‘Pagans’",
+      "quote": "EXCLUSIVE: Paul Bettany (VisionQuest, Amadeus) has been tapped as a lead opposite Steven Yeun in Pagans, Netflix’s upcoming supernatural drama from Say Nothing creator Joshua Zetumer. In addition to Yeun, Bettany joins…",
+      "publisher": "Deadline",
+      "author": "Nellie Andreeva",
+      "date": "2026-11-05T19:00:00+00:00",
+      "link": "https://deadline.com/2026/11/paul-bettany-star-pagans-netflix-series-1237214546/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/Paul-Bettany-.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "5afee441785815fc",
+      "title": "‘The Odyssey’ Venturing Back Into Cinemas After Mid-November In-Home Release",
+      "quote": "Universal and Christopher Nolan’s highest-grossing movie ever, The Odyssey, isn’t done with its stateside theatrical run and will return to 1,000 screens, including Imax and Imax 70mm, on December 11. The Odyssey‘s…",
+      "publisher": "Deadline",
+      "author": "Anthonypauldalessandro",
+      "date": "2026-11-05T18:30:00+00:00",
+      "link": "https://deadline.com/2026/11/the-odyssey-theatrical-re-release-1237214537/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/MCDODYS_UV042.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "2a455977597bd61c",
+      "title": "‘Jimmy’ Review: KJ Apa Tries, in Vain, to Save Ploddingly Dutiful James Stewart Biopic",
+      "quote": "The 'Riverdale' actor plays the title role in this drama revolving around the iconic movie star's distinguished military service.",
+      "publisher": "The Hollywood Reporter",
+      "author": "Frank Scheck",
+      "date": "2026-11-05T17:59:35+00:00",
+      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/jimmy-review-kj-apa-james-stewart-biopic-1236746965/",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "3b6a0ffebce2640d",
+      "title": "Why Godzilla Minus Zero Is Rated R",
+      "quote": "Godzilla Minus Zero is the first Godzilla movie ever to be rated R. Here's why Takashi Yamazaki's movie isn't suitable for younger kids.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Bill Bria)",
+      "date": "2026-11-05T17:24:25+00:00",
+      "link": "https://www.slashfilm.com/2308079/why-godzilla-minus-zero-rated-r/",
+      "image": "https://www.slashfilm.com/img/gallery/why-godzilla-minus-zero-is-rated-r/l-intro-1793902509.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "a731230125c8eeb0",
+      "title": "Project Hail Mary's Andy Weir Has Tried To Write Screenplays, But Feels 'Constrained' By This Obstacle [Exclusive]",
+      "quote": "Two of Andy Weir's books have been turned into hit films, but the author doesn't think he'll be writing any screenplays of his own for this reason.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Joe Roberts)",
+      "date": "2026-11-05T16:00:00+00:00",
+      "link": "https://www.slashfilm.com/2304260/project-hail-mary-andy-weir-screenplays-obstacle/",
+      "image": "https://www.slashfilm.com/img/gallery/project-hail-marys-andy-weir-has-tried-to-write-screenplays-but-feels-constrained-by-this-obstacle-exclusive/l-intro-1793640402.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "b0c1e24fb2c3f587",
+      "title": "‘Ramayana: Part 1’: How Yash mastered the art of playing Ravana",
+      "quote": "In Nitesh Tiwari’s retelling of ‘Ramayana’, Yash shines as Ravana, turning the demon king into a multi‑layered anti-hero in the three-hour spectacle, which also features Ranbir Kapoor as Rama and Sai Pallavi as Sita",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-11-05T13:28:15+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/ramayana-review-yash-ravana-ranbir-kapoor-sai-pallavi-a-r-rahman-nitesh-tiwari-namit-malhotra/article71669501.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/itx5js/article71669536.ece/alternates/LANDSCAPE_1200/Yash%20in%20%E2%80%98Ramayana%E2%80%99.",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "c8882fece0a3f8cb",
+      "title": "‘Ramayana: Part 1’: Ranbir Kapoor’s earnest appeal gives new life to Rama",
+      "quote": "Ranbir Kapoor’s turn as the eternal idealist has come under scrutiny with the release of Nitesh Tiwari’s ‘Ramayana’, with some viewers projecting that the actor didn’t quite fit into the role. But is that really the…",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-11-05T13:25:09+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/ramayana-part-1-ranbir-kapoors-earnest-appeal-gives-new-life-to-rama/article71669695.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/y84yi6/article71669793.ece/alternates/LANDSCAPE_1200/cvr%20-%202026-11-05T172000.356.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "aa85209cba92e71e",
+      "title": "‘George Lucas told me off for wearing lipstick’: Celia Imrie on Traitors, Star Wars and treating the lens like a lover",
+      "quote": "The actor answers your questions about trapeze lessons, Bond villain ambitions and Michael Caine’s top tips You looked as if you had such a good time on Celebrity Traitors last year – you had them hanging on your every…",
+      "publisher": "The Guardian",
+      "author": "As told to Rich Pelley",
+      "date": "2026-11-05T13:00:25+00:00",
+      "link": "https://www.theguardian.com/film/2026/nov/05/celia-imrie-interview-traitors-star-wars-george-lucas",
+      "image": "https://i.guim.co.uk/img/media/c0340dcf43abc5a2a5c19ed0ac7b9f99822abe99/0_0_2152_1721/master/2152.jpg?width=140&quality=85&auto=format&fit=max&s=f639a1928d82cb0f0a4473e389955396",
+      "category": "World Cinema"
+    },
+    {
+      "id": "c91e41b9d7ce4dbe",
+      "title": "Raise the Red Lantern review – Gong Li gives a decade-defining performance in an addictively ruthless masterpiece",
+      "quote": "Gong simmers with rage, loneliness and humiliation as the ‘fourth mistress’ navigating the intimate political savagery of her husband’s compound in Zhang Yimou’s 1991 drama Revisiting Zhang Yimou’s grippingly addictive…",
+      "publisher": "The Guardian",
+      "author": "Peter Bradshaw",
+      "date": "2026-11-05T13:00:24+00:00",
+      "link": "https://www.theguardian.com/film/2026/nov/05/raise-the-red-lantern-review",
+      "image": "https://i.guim.co.uk/img/media/e2bcc14d5a4e7cc1f707f93b69d4770a10798fb4/321_0_4391_3512/master/4391.jpg?width=140&quality=85&auto=format&fit=max&s=404ea4e09039a5cb8daa68970d8ef7b8",
+      "category": "World Cinema"
+    },
+    {
+      "id": "4eaf0fd4626c7f58",
+      "title": "5 Years Ago Today: Marvel Released One Of The Most Polarizing Superhero Movies In History",
+      "quote": "Five years ago, Marvel Studios was struggling to recapture the success of Avengers: Endgame and released one of its most divisive films ever.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Ryan Scott)",
+      "date": "2026-11-05T13:00:00+00:00",
+      "link": "https://www.slashfilm.com/2301734/eternals-marvel-superhero-movie-5-year-anniversary/",
+      "image": "https://www.slashfilm.com/img/gallery/5-years-ago-today-marvel-released-one-of-the-most-polarizing-superhero-movies-in-history/l-intro-1793883819.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "0c835e5577d2abad",
+      "title": "Director Srikar Nayan interview: ‘Summer Holidays’ is more than a nostalgia trip",
+      "quote": "The debut director talks about working with child actors, filming amid mango farms, and why audiences might be ready for a feel-good entertainer",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-11-05T12:01:18+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/director-srikar-nayan-interview-summer-holidays-is-more-than-a-nostalgia-trip/article71656514.ece",
+      "image": "https://th-i.thgim.com/public/incoming/bflqzp/article71660711.ece/alternates/LANDSCAPE_1200/Summer%20Holidays.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "a4b0c4bb26046ea3",
+      "title": "CS Amudhan’s ‘Tamizh Padam 3,’ starring Shiva, goes on floors",
+      "quote": "Launched in 2010, ‘Tamizh Padam’ is a spoof comedy franchise that parodies popular Tamil cinema tropes and characters",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-11-05T11:48:51+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/cs-amudhan-tamizh-padam-3-shiva-athula-ravi-y-not-studios/article71669708.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/maim13/article71669773.ece/alternates/LANDSCAPE_1200/Shiva%20Tamizh%20Padam%203.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "94401fe68cff38a0",
+      "title": "‘Hamlet’ movie review: Riz Ahmed finds method in this madness",
+      "quote": "Riz Ahmed burns bright through this frantic, jumbled reimagination of William Shakespeare’s tragedy",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-11-05T11:46:38+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/hamlet-movie-review-riz-ahmed-finds-method-in-this-madness/article71669699.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/vl6cbk/article71669763.ece/alternates/LANDSCAPE_1200/Riz%20Ahmed%20in%20%E2%80%98Hamlet%E2%80%99",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "a6ad15f3d49a6644",
+      "title": "‘Children were wearing fake life jackets’: one Syrian family’s terrifying, 10-year journey",
+      "quote": "In 2015, two film-makers first met 11-year-old refugee Israa, forced to abandon Aleppo for a new life in Europe, along with her parents and siblings. None of them imagined what would come next In 2015, an 11-year-old…",
+      "publisher": "The Guardian",
+      "author": "Cath Clarke",
+      "date": "2026-11-05T11:39:48+00:00",
+      "link": "https://www.theguardian.com/film/2026/nov/05/syrian-family-10-year-journey-one-in-a-million-itab-azzam-and-jack-macinnes",
+      "image": "https://i.guim.co.uk/img/media/dd21ec002793498971d5c2fdf4669f4ea9096e95/179_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=5723439dce3716263d1924543028061f",
+      "category": "World Cinema"
+    },
+    {
+      "id": "0afb40749f32b73e",
+      "title": "I Play Rocky review – Anthony Ippolito adds knockout sweetness to the story of Stallone’s Hollywood triumph",
+      "quote": "Portraying the humour, passion and grit that took the actor from bit parts to Oscar glory, this making-of tale is even more mythic than the original movie For fun, excitement and the transcendental thrill of success…",
+      "publisher": "The Guardian",
+      "author": "Peter Bradshaw",
+      "date": "2026-11-05T11:00:22+00:00",
+      "link": "https://www.theguardian.com/film/2026/nov/05/i-play-rocky-review-anthony-ippolito-adds-knockout-sweetness-to-the-story-of-stallones-hollywood-triumph",
+      "image": "https://i.guim.co.uk/img/media/67d68a8bf99e04203df58627bce4bccf21e969cc/385_0_5200_4160/master/5200.jpg?width=140&quality=85&auto=format&fit=max&s=ad052ae7e64d767c4f2ef8acc6771c97",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "3b2aaa5e76c90e71",
+      "title": "Madras High Court injuncts unauthorised camcording, uploading, downloading, streaming of Suriya-starrer Scene",
+      "quote": "Justice P.B. Balaji grants the interim injunction pursuant to a copyright infringement suit filed by Zhagaram Studios LLP",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-11-05T10:49:38+00:00",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-injuncts-unauthorised-camcording-uploading-downloading-streaming-of-suriya-starrer-tamil-movie-scene/article71666825.ece",
+      "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/pwx0t1/article71669556.ece/alternates/LANDSCAPE_1200/Suriya%20Scene.png",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "f01671ac930d2fe7",
+      "title": "Jimmy review – simple-minded James Stewart biopic is too straightforward",
+      "quote": "Riverdale’s KJ Apa gives surprisingly solid performance but this corny look at actor’s life is missed opportunity The last time the New Zealand actor KJ Apa took on a midcentury American pop-cultural icon, he was…",
+      "publisher": "The Guardian",
+      "author": "Jesse Hassenger",
+      "date": "2026-11-05T10:00:01+00:00",
+      "link": "https://www.theguardian.com/film/2026/nov/05/jimmy-james-stewart-movie-review",
+      "image": "https://i.guim.co.uk/img/media/3b4548217e0b97672e70a8abbe9e9f43a7adedcd/732_128_2537_2032/master/2537.jpg?width=140&quality=85&auto=format&fit=max&s=3390bbcfdd97166404da4fcc037d33e6",
+      "category": "World Cinema"
+    },
+    {
+      "id": "9fe66039caf50ecf",
+      "title": "‘Ramayana: Part 1’ movie review: Ranbir Kapoor and Yash excel as Ravana outshines Rama on screen",
+      "quote": "Lankesh gets fair treatment while Rama sticks to tradition as Nitesh Tiwari turns the epic into an action-adventure where technology takes a leap of faith but lands somewhere between spectacle and soul. It holds your…",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-11-05T09:54:48+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/ramayana-part-1-movie-review-ranbir-kapoor-and-yash-excel-as-ravana-outshines-rama-on-screen/article71669057.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/e7ae2q/article71669121.ece/alternates/LANDSCAPE_1200/Ranbir%20Kapoor%20in%20%E2%80%98Ramayana%20Part%201%E2%80%99",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "ac721a1be8b27a3e",
+      "title": "Think of England review – far-fetched tale of state-sponsored second world war porn turns deadly serious",
+      "quote": "Apocryphal plans to send an arousing morale booster to troops battling the Nazis make scant sense, and nor does the resulting movie Some potentially interesting ideas here and a good cast … but the whole thing…",
+      "publisher": "The Guardian",
+      "author": "Peter Bradshaw",
+      "date": "2026-11-05T09:00:00+00:00",
+      "link": "https://www.theguardian.com/film/2026/nov/05/think-of-england-review",
+      "image": "https://i.guim.co.uk/img/media/453507f5bd1aa8b78bb2af9dc137ddcdb82221c1/907_350_4641_3713/master/4641.jpg?width=140&quality=85&auto=format&fit=max&s=fcc9740a1ca43dbc13152d2938a6c847",
+      "category": "World Cinema"
+    },
+    {
+      "id": "a422980d67ba8144",
+      "title": "‘Nocturne’ series review: Stephen Graham’s Hannibal-esque monster makes for killer television",
+      "quote": "Stephen Graham is mesmerisingly vile as a serial killer pulling strings from behind psychiatric confinement in Apple TV’s moody ‘Silence of the Lambs’-tinged crime thriller",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-11-05T08:31:27+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/nocturne-series-review-stephen-graham-apple-tv-liev-schreiber-zazie-beetz-rory-culkin-poorna-jagannathan/article71669054.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/ca2df6/article71669061.ece/alternates/LANDSCAPE_1200/Nocturne_Photo_010311.jpg.photo_modal_show_home_large.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "ddb27a3869d36047",
+      "title": "Being Heumann review – stirring biopic of a pioneering disability rights campaigner",
+      "quote": "Heartfelt real-life drama follows the late activist whose groundbreaking struggle helped build a rainbow alliance with gay action groups and the Black Panthers The remarkable story of the late US disability rights…",
+      "publisher": "The Guardian",
+      "author": "Peter Bradshaw",
+      "date": "2026-11-05T07:00:57+00:00",
+      "link": "https://www.theguardian.com/film/2026/nov/05/being-heumann-review-disability-rights-judy-heumann",
+      "image": "https://i.guim.co.uk/img/media/40ab030ae950587f921e7024d1e0ba4e157076b8/1689_66_5018_4015/master/5018.jpg?width=140&quality=85&auto=format&fit=max&s=21a1c32d7574214a193ea5a50b0c048f",
+      "category": "World Cinema"
+    },
+    {
+      "id": "55bbbad5ac1ec452",
+      "title": "The Lowdown heads down to the ranch to learn about the cowboy way of life",
+      "quote": "John Hawkes is a long, long way from Deadwood in this week's episode of The Lowdown.",
+      "publisher": "The A.V. Club",
+      "author": "Josh Spiegel",
+      "date": "2026-11-05T03:04:43+00:00",
+      "link": "https://www.avclub.com/the-lowdown-recap-season-2-episode-5-a-dog-with-two-tails",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/11/05/MixCollage-04-Nov-2026-08-58-PM-2938.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "5f5bdb85632df9fd",
@@ -29,83 +337,6 @@
       "link": "https://www.slashfilm.com/2307459/james-gunn-approve-fan-dc-universe-timeline-clayface-blue-beetle/",
       "image": "https://www.slashfilm.com/img/gallery/james-gunn-approves-fan-made-timeline-showing-how-clayface-and-blue-beetle-fit-in-the-dc-universe/l-intro-1793847045.jpg",
       "category": "Indie Gems"
-    },
-    {
-      "id": "5b030138084e9548",
-      "title": "Joe Miñoso Talks Cruz’s Exit From ‘Chicago Fire,’ Storylines That Almost Happened & Plans To Direct",
-      "quote": "SPOILER ALERT: The following reveals major plot points from tonight’s episode of NBC’s Chicago Fire. NBC’s Chicago Fire celebrated its landmark 300th episode tonight, and it was bittersweet. While there was a lot to…",
-      "publisher": "Deadline",
-      "author": "Rosy Cordero",
-      "date": "2026-11-05T03:02:00+00:00",
-      "link": "https://deadline.com/2026/11/chicago-fire-joe-minoso-exit-interview-1237213901/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/joe-minoso-chicago-fire-exit-interview.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "d36a1c98339ba6f7",
-      "title": "How Joe Miñoso Exits ‘Chicago Fire’ As Cruz In Season 15",
-      "quote": "SPOILER ALERT: The following reveals major plot points for NBC’s Chicago Fire‘s Season 15 Episode 5 titled “Three Hundred.” It’s the end of an era on NBC’s Chicago Fire, as we say goodbye to Joe Miñoso, who has played…",
-      "publisher": "Deadline",
-      "author": "Rosy Cordero",
-      "date": "2026-11-05T03:00:00+00:00",
-      "link": "https://deadline.com/2026/11/joe-minoso-exit-cruz-chicago-fire-season-15-recap-1237211554/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/NUP_211697_01725.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "0efef4054c38f52d",
-      "title": "Harold Greene Dies: Longtime L.A. News Anchor Was 82",
-      "quote": "Harold Greene, the likeable longtime news anchor for many of L.A.’s local news stations, died last night. His passing was announced by family. Greene was 82. At various junctures in his career, Greene worked for ABC7…",
-      "publisher": "Deadline",
-      "author": "Tomt",
-      "date": "2026-11-05T02:54:41+00:00",
-      "link": "https://deadline.com/2026/11/harold-greene-dead-l-a-news-anchor-1237213947/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/harold-greene.png",
-      "category": "World Cinema"
-    },
-    {
-      "id": "2374aad28c3aee54",
-      "title": "Charles Porter Dies: ‘Finding Faith’ Producer & Actor Was 47",
-      "quote": "Charles F. Porter, the actor and producer known for backing the 2025 film Finding Faith and playing the titular NASCAR phenom in ESPN’s Wendell Scott: A Race Story, died on Monday after a long battle with cancer. His…",
-      "publisher": "Deadline",
-      "author": "Tomt",
-      "date": "2026-11-05T02:17:17+00:00",
-      "link": "https://deadline.com/2026/11/charles-porter-actor-dead-1237213861/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/Charles-F.-Porter.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "b43eccf367a85652",
-      "title": "‘Scrubs’ Star Sarah Chalke On J.D. & Elliot’s Big Reveal & Surprise Twist, Sean & Charlie’s Quick Exit, Ollie’s Arrival & What Comes Next",
-      "quote": "SPOILER ALERT: The story includes details about Episode 207 of ABC’s Scrubs “My Story.” Episode 207 of ABC’s Scrubs revival gave fans answers about what led to J.D. (Zach Braff) and Elliot’s (Sarah Chalke) shocking…",
-      "publisher": "Deadline",
-      "author": "Nellie Andreeva",
-      "date": "2026-11-05T01:31:00+00:00",
-      "link": "https://deadline.com/2026/11/scrubs-sarah-chalke-j-d-elliot-sean-charlie-interview-1237211745/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/ScrubsZachSarah.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "4c03242ddf3ab6a1",
-      "title": "John Constantine Movie From ‘Evil Dead Wrath’s Francis Galluppi In Development At DC",
-      "quote": "EXCLUSIVE: With Clayface still shapeshifting his way through theaters — to over $90M worldwide, so far — DC Studios has tapped Francis Galluppi to pen a John Constantine movie for the studio, sources tell Deadline. Reps…",
-      "publisher": "Deadline",
-      "author": "Matthewgrobar",
-      "date": "2026-11-05T01:21:01+00:00",
-      "link": "https://deadline.com/2026/11/john-constantine-movie-francis-galluppi-in-works-1237213853/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/Francis-Galluppi-John-Constantine-DC-Comics.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "a1bbbc0040cff16a",
-      "title": "Pixar Veteran Jim Morris Moving To Emeritus Position As Jonathan Garson Named New President",
-      "quote": "A big hand-off is underway at Disney’s Pixar animation studio as longtime 21-year vet Jim Morris will segue to President Emeritus after 12 years in the position. He’ll be succeeded by 30-year-plus Disney vet Jonathan…",
-      "publisher": "Deadline",
-      "author": "Anthonypauldalessandro",
-      "date": "2026-11-05T00:45:28+00:00",
-      "link": "https://deadline.com/2026/11/pixar-new-president-1237213798/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/Jim-Morris-and-Jonathan-Garson.jpg",
-      "category": "World Cinema"
     },
     {
       "id": "8aacd05625d74fe9",
@@ -127,6 +358,17 @@
       "date": "2026-11-04T21:47:40+00:00",
       "link": "https://www.slashfilm.com/2307281/from-cult-hit-sci-fi-horror-series-stephen-king-vibes-netflix-streaming-hit/",
       "image": "https://www.slashfilm.com/img/gallery/this-cult-hit-sci-fi-horror-series-with-stephen-king-vibes-has-become-a-major-netflix-hit/l-intro-1793831754.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "d1fff8ca600f4fc1",
+      "title": "Maya Hawke joins Magic: The Gathering live-action movie",
+      "quote": "Producers behind the live-action <i>Magic: The Gathering</i> movie were reportedly keen to cast Maya Hawke as the first star in a planned ensemble cast, though her role is unclear.",
+      "publisher": "The A.V. Club",
+      "author": "Olivia Singh",
+      "date": "2026-11-04T21:41:25+00:00",
+      "link": "https://www.avclub.com/maya-hawke-magic-the-gathering-legendary-hasbro-movie",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/11/04/maya-hawke-tonight-show-featured.jpg",
       "category": "Indie Gems"
     },
     {
@@ -196,28 +438,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "54212ded9b8e4b08",
-      "title": "Dune: Part Three's Official Runtime Confirms It's The Shortest Movie In The Series",
-      "quote": "We now know the official runtime for Dune: Part Three, and the final entry in the epic saga will be the shortest film in the series.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Jeremy Mathai)",
-      "date": "2026-11-04T18:58:57+00:00",
-      "link": "https://www.slashfilm.com/2306919/dune-part-three-runtime/",
-      "image": "https://www.slashfilm.com/img/gallery/dune-part-threes-official-runtime-confirms-its-the-shortest-movie-in-the-series/l-intro-1793818389.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "80407dcac901d603",
-      "title": "Backrooms Star Renate Reinsve Reportedly Met Marvel For Major X-Men Movie Role",
-      "quote": "Fresh off her turn in the hit film Backrooms, Renate Reinsve has apparently met Marvel Studios about an intriguing role in its X-Men movie reboot.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Devin Meenan)",
-      "date": "2026-11-04T18:42:11+00:00",
-      "link": "https://www.slashfilm.com/2306889/backrooms-star-renate-reinsve-marvel-x-men-movie-role-moira-mactaggert/",
-      "image": "https://www.slashfilm.com/img/gallery/backrooms-star-renate-reinsve-reportedly-met-marvel-for-major-x-men-movie-role/l-intro-1793817977.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "856ef827c301f862",
       "title": "Channing Tatum tries out his refried Cajun accent as Gambit in Dunkin' ad",
       "quote": "The marketing blitz for <i>Avengers: Doomsday</i> has begun, and it has brought about one of Marvel's strangest team-ups yet: Channing Tatum's Gambit and H.E.R.B.I.E., the Fantastic Four's robot spud/team mascot.",
@@ -240,50 +460,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "a655f2dc36e12bf5",
-      "title": "Unlike Jesse Eisenberg, Andrew Garfield isn't worried about being associated with his tech villain",
-      "quote": "In a new interview with <i>GQ</i>, Andrew Garfield said that he's \"not concerned\" about being associated with Open AI CEO Sam Altman and has accepted that his portrayal in <i>Artificial</i> will simply be \"a part of my…",
-      "publisher": "The A.V. Club",
-      "author": "Olivia Singh",
-      "date": "2026-11-04T17:10:38+00:00",
-      "link": "https://www.avclub.com/andrew-garfield-artificial-sam-altman-associatio",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/10/09/artificial-header.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "e457c6620018cde2",
-      "title": "Jeremy Allen White As Wolverine? Marvel Reportedly Met Actor For X-Men Reboot",
-      "quote": "A new report claims that Jeremy Allen White might be in the running to become the new Wolverine in the upcoming X-Men franchise reboot from Marvel Studios.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Ryan Scott)",
-      "date": "2026-11-04T17:04:43+00:00",
-      "link": "https://www.slashfilm.com/2306705/jeremy-allen-white-wolverine-marvel-x-men-reboot-meeting/",
-      "image": "https://www.slashfilm.com/img/gallery/jeremy-allen-white-as-wolverine-marvel-reportedly-met-actor-for-x-men-reboot/l-intro-1793811781.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "d31271f39891c536",
-      "title": "It's Nicolas Cage vs. Bill Skarsgård in new Lords Of War teaser",
-      "quote": "Vertical has released a lively 43-second teaser for <i>Lords Of War</i>, the sequel to the 2005 geopolitical satire <i>Lord Of War</i>, which reunites Nicolas Cage with director Andrew Niccol.",
-      "publisher": "The A.V. Club",
-      "author": "Jarrod Jones",
-      "date": "2026-11-04T17:00:48+00:00",
-      "link": "https://www.avclub.com/lords-of-war-teaser-nicolas-cage-bill-skarsgard-vertical",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/11/04/lords-header.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "f8ef3de25d72e8d8",
-      "title": "Tinto Brass, director of Caligula and maestro of Euro erotica, dies aged 93",
-      "quote": "The cult Italian film-maker began as an assistant to Roberto Rossellini but moved into sex films, believing ‘eroticism to be a fundamental key to human expression’ Italian film director Tinto Brass, who was once hailed…",
-      "publisher": "The Guardian",
-      "author": "Philip Oltermann European culture editor",
-      "date": "2026-11-04T16:47:15+00:00",
-      "link": "https://www.theguardian.com/film/2026/nov/04/tinto-brass-director-of-caligula-erotic-cinema-dies-aged-93",
-      "image": "https://i.guim.co.uk/img/media/200f4cf3cbea53e1603982201c59d54825ccfb60/324_0_3240_2592/master/3240.jpg?width=140&quality=85&auto=format&fit=max&s=db952823de612983007e304c16abdb05",
-      "category": "World Cinema"
-    },
-    {
       "id": "ab3e3c33caf3e8d4",
       "title": "The Last Temptation of Becky",
       "quote": "More fun than its predecessors, but that sadly doesn't say much.",
@@ -292,127 +468,6 @@
       "date": "2026-11-04T14:00:00+00:00",
       "link": "https://www.rogerebert.com/reviews/becky-3-last-temptation-of-becky-neil-patrick-harris-movie-review-2026",
       "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "48c73d6daca84cb8",
-      "title": "Ramayana: Rise of a Legend review – India’s most expensive film ever becomes spectacular, huge-scale epic",
-      "quote": "Based on the ancient classical poem about Rama, the avatar of the Hindu god Vishnu, this three-hour blockbuster is highly enjoyable Here is a thoroughly engaging, rousing and spectacular Indian epic melodrama from…",
-      "publisher": "The Guardian",
-      "author": "Peter Bradshaw",
-      "date": "2026-11-04T13:00:11+00:00",
-      "link": "https://www.theguardian.com/film/2026/nov/04/ramayana-rise-of-a-legend-review-indias-most-expensive-film-ever-becomes-spectacular-huge-scale-epic",
-      "image": "https://i.guim.co.uk/img/media/12eb62d74a294db635745f2c7c9b1e8210c29723/1288_0_2699_2160/master/2699.jpg?width=140&quality=85&auto=format&fit=max&s=3e7856daa89c2657ea01985e5598f2b9",
-      "category": "World Cinema"
-    },
-    {
-      "id": "1e871e97ccc9c57e",
-      "title": "‘ENE Repeat’ trailer: Tharun Bhascker’s ‘Ee Nagaraniki Emaindi’ sequel releases this month",
-      "quote": "Eight years after the cult buddy Telugu comedy, actors Vishwak Sen, Abhinav Gomatham and others reunite for a chaotic survival film",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-11-04T11:37:14+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/ene-repeat-trailer-tharun-bhasckers-ee-nagaraniki-emaindi-sequel-releases-this-month/article71665129.ece",
-      "image": "https://th-i.thgim.com/public/incoming/p916ot/article71665259.ece/alternates/LANDSCAPE_1200/ENE-TRAILER-wwm.jpg.jpeg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "c969c60e8fef2462",
-      "title": "Crawlers review – killer-spiders movie offers giant-arachnid action alongside anticapitalist commentary",
-      "quote": "A witty creature feature set in a multi-occupancy building in Los Angeles that takes aim at unscrupulous landlords and finance bros This arachnid-themed horror is fairly traditional in terms of its structure, core…",
-      "publisher": "The Guardian",
-      "author": "Leslie Felperin",
-      "date": "2026-11-04T11:00:09+00:00",
-      "link": "https://www.theguardian.com/film/2026/nov/04/crawlers-review-killer-spiders-movie-offers-giant-arachnid-action-alongside-anticapitalist-commentary",
-      "image": "https://i.guim.co.uk/img/media/2861dc96850ae96d2017327ba40b8fe6429ded22/800_0_4000_3200/master/4000.jpg?width=140&quality=85&auto=format&fit=max&s=d360c1b76a6d46429c7ee896541aa3fe",
-      "category": "World Cinema"
-    },
-    {
-      "id": "ed3597d9d5923665",
-      "title": "‘Ramayana’: Beyond Rama and Ravana, here’s who plays whom in Nitesh Tiwari’s adaptation",
-      "quote": "As Nitesh Tiwari’s epic releases on November 5, here’s a look at the actors in the film and the characters they are playing",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-11-04T10:59:12+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/ramayana-beyond-rama-and-ravana-heres-who-plays-whom-in-nitesh-tiwaris-adaptation-ranbir-kapoor-yash-sai-pallavi/article71664463.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/g9wiku/article71664560.ece/alternates/LANDSCAPE_1200/Ranbir%20Kapoor%20and%20Yash%20in%20%E2%80%98Ramayana%E2%80%99",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "fb81e5620e685a48",
-      "title": "‘King 100’: Tabu is a political leader in Nagarjuna’s film",
-      "quote": "Tabu and Nagarjuna Akkineni are collaborating after 28 years for a new Telugu film, and this time it’s war",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-11-04T09:42:31+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/king-100-tabu-is-a-political-leader-in-nagarjunas-film/article71664953.ece",
-      "image": "https://th-i.thgim.com/public/incoming/7iwxzz/article71664978.ece/alternates/LANDSCAPE_1200/Tabu%20nagarjuna.jpg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "0c835e5577d2abad",
-      "title": "Director Srikar Nayan interview: ‘Summer Holidays’ is more than a nostalgia trip",
-      "quote": "The debut director talks about working with child actors, filming amid mango farms, and why audiences might be ready for a feel-good entertainer",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-11-04T09:04:56+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/director-srikar-nayan-interview-summer-holidays-is-more-than-a-nostalgia-trip/article71656514.ece",
-      "image": "https://th-i.thgim.com/public/incoming/bflqzp/article71660711.ece/alternates/LANDSCAPE_1200/Summer%20Holidays.jpg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "1d33277f2aa690c1",
-      "title": "Merry Christmas Aubrey Flint review – Dickensian festive Britpic decorated by selection box of familiar faces",
-      "quote": "A cast including Richard E Grant, Celia Imrie, Kiell Smith-Bynoe and Nigel Planer warm up a formulaic narrative about a imperilled retirement community The annual drive to expand the festive film canon begins…",
-      "publisher": "The Guardian",
-      "author": "Mike McCahill",
-      "date": "2026-11-04T09:00:01+00:00",
-      "link": "https://www.theguardian.com/film/2026/nov/04/merry-christmas-aubrey-flint-review-dickensian-festive-britpic-decorated-by-selection-box-of-familiar-faces",
-      "image": "https://i.guim.co.uk/img/media/65349d0fd9448e1abd4d761c37e283213d5c4fee/408_405_2805_2245/master/2805.jpg?width=140&quality=85&auto=format&fit=max&s=6a894e5f58e7976b1b583d01798bc809",
-      "category": "World Cinema"
-    },
-    {
-      "id": "51a564cb45273db9",
-      "title": "Suriya’s ‘Scene’: What’s the hype surrounding this Tamil Deepavali release?",
-      "quote": "Tamil cinema’s Deepavali spotlight falls on Suriya’s ‘Scene,’ a quirky investigative drama directed by Jithu Madhavan that is releasing this weekend in theatres",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-11-04T08:55:45+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/suriya-scene-deepavali-jithu-madhavan-nazriya-nazim-naslen-sushin-shyam-rajpriyan/article71664517.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/y2ysmh/article71664653.ece/alternates/LANDSCAPE_1200/Scene%20Suriya.png",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "9c2916a47989b801",
-      "title": "‘The Elder Scrolls VI’ teaser: Bethesda reveals official title ‘Sentinel’ after eight years",
-      "quote": "Bethesda has finally given fans of its long-running fantasy RPG franchise a new glimpse of its next instalment, eight years after its initial announcement, though a release date remains elusive",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-11-04T07:33:03+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/the-elder-scrolls-vi-teaser-bethesda-reveals-official-title-sentinel-after-eight-years/article71664551.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/z6dexl/article71664531.ece/alternates/LANDSCAPE_1200/Screenshot%202026-11-04%20124431.png",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "4cbf8f8a7ea0b7c0",
-      "title": "Amazing Grace review – blazing Hannah Walters struggles to save a lonely caller at the end of his tether",
-      "quote": "Daniel P Lewis stars in his own script as an isolated man beset by trauma as a helpline counsellor Walters tries to heal his pain While working for a helpline one night, counsellor Grace (a terrific Hannah Walters) gets…",
-      "publisher": "The Guardian",
-      "author": "Leslie Felperin",
-      "date": "2026-11-04T07:00:27+00:00",
-      "link": "https://www.theguardian.com/film/2026/nov/04/amazing-grace-review-blazing-hannah-walters-struggles-to-save-a-lonely-caller-at-the-end-of-his-tether",
-      "image": "https://i.guim.co.uk/img/media/ef617b129340e62746b0b644a6dcb0cd72df20e9/131_140_993_795/master/993.jpg?width=140&quality=85&auto=format&fit=max&s=017e2b01de7b7db032f35c51ea9ecae4",
-      "category": "World Cinema"
-    },
-    {
-      "id": "7d01056b657ef61c",
-      "title": "Judi Dench says Daniel Craig ordered her death. James Bond just got a lot scarier",
-      "quote": "Not only did Craig insist his 007 die at the end of his run, but now we learn from Dench’s memoir that it was his idea to kill her off too. How will the next Bond top that? Shoot a puppy? Now that the next James Bond…",
-      "publisher": "The Guardian",
-      "author": "Stuart Heritage",
-      "date": "2026-11-04T06:00:26+00:00",
-      "link": "https://www.theguardian.com/film/2026/nov/04/is-daniel-craig-the-most-ruthless-killer-in-james-bond-history-his-plan-to-bump-off-judi-denchs-m-says-yes",
-      "image": "https://i.guim.co.uk/img/media/98f1a6227c302cb02d8635c90a00cfd7d5cda2b2/314_39_1754_1404/master/1754.jpg?width=140&quality=85&auto=format&fit=max&s=30a89398b1e6d11f86eab56c87f54545",
       "category": "World Cinema"
     },
     {
@@ -457,39 +512,6 @@
       "date": "2026-11-03T17:00:00+00:00",
       "link": "https://www.hollywoodreporter.com/movies/movie-reviews/the-cat-in-the-hat-review-bill-hader-1236746055/",
       "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "320a102534053ed2",
-      "title": "Thunivu movie release: 19-year-old fan of actor Ajith dances on moving lorry, falls and dies in Chennai",
-      "quote": "Actor Ajith’s film, Thunivu was released on Thursday; actor Vijay’s Varisu too, was released; hundreds of fans gathered at Rohini theatre in Koyambedu where glass panes were broken, leading to police intervention",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-11-03T14:51:06+00:00",
-      "link": "https://www.thehindu.com/news/cities/chennai/19-year-old-ajith-fan-dances-on-moving-lorry-falls-and-dies-in-chennai/article66363997.ece",
-      "image": "https://th-i.thgim.com/public/incoming/5wvc5q/article66364115.ece/alternates/LANDSCAPE_1200/2782_11_1_2023_8_28_35_1_FANSCINEMA1.JPG",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "428740faaff15985",
-      "title": "Tamil Nadu government permits six shows a day in theatres for new Tamil films for a week since release",
-      "quote": "The decision was taken following representations from various film producers’ associations to the State government",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-11-03T14:38:28+00:00",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-govt-permits-six-shows-a-day-for-new-tamil-films-for-a-week-from-release-date/article71660886.ece",
-      "image": "https://th-i.thgim.com/public/incoming/wkj7yp/article71660970.ece/alternates/LANDSCAPE_1200/4871_23_7_2026_10_20_31_1_DSC_9470.JPG",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "bf8ae1f3a4760080",
-      "title": "China’s first AI-generated film is a flop. Some still see it as the future of cinema",
-      "quote": "Chinese investors placing high value on AI despite unpopularity of Sanxingdui: Future Past China’s first fully AI-generated movie has flopped, earning just 1.7m yuan (£191,000) at the box office despite costing “tens of…",
-      "publisher": "The Guardian",
-      "author": "Amy Hawkins Senior China correspondent",
-      "date": "2026-11-03T14:32:54+00:00",
-      "link": "https://www.theguardian.com/film/2026/nov/03/china-first-ai-generated-film-flops-cinema-future",
-      "image": "https://i.guim.co.uk/img/media/0ad0e79a806a919abfc3cd4cc770615dbd933484/250_0_2501_2001/master/2501.jpg?width=140&quality=85&auto=format&fit=max&s=754a46612ea6d4a1b647e6684bf0dae4",
       "category": "World Cinema"
     },
     {
@@ -764,28 +786,6 @@
       "author": "Angie Han",
       "date": "2026-10-23T14:05:31+00:00",
       "link": "https://www.hollywoodreporter.com/movies/movie-reviews/the-mosquito-bowl-review-peter-berg-netflix-1236738732/",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "39c8663d8455aa46",
-      "title": "The duchess charged with treason and witchcraft",
-      "quote": "Was 15th-Century 'royal witch' Eleanor Cobham a satanist or a political pawn?",
-      "publisher": "BBC Culture",
-      "author": null,
-      "date": "2026-10-23T11:00:00+00:00",
-      "link": "https://www.bbc.com/culture/article/20261022-the-15th-century-duchess-charged-with-treason-and-witchcraft?ocid=global_culture_rss",
-      "image": "https://ychef.files.bbci.co.uk/144x81/p0pj1hdp.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "3f3d3fbacc6255ee",
-      "title": "‘Ali G: Who Iz I?’ Review: Sacha Baron Cohen Reprises Iconic Role, Yielding Equal Parts Belly Laughs and Boredom",
-      "quote": "The comedian brings back the controversial character for his first big-screen appearance since 2002's 'Ali G Indahouse.'",
-      "publisher": "The Hollywood Reporter",
-      "author": "Frank Scheck",
-      "date": "2026-10-22T15:00:00+00:00",
-      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/ali-g-who-iz-i-review-sacha-baron-cohen-1236736219/",
       "image": null,
       "category": "World Cinema"
     },
