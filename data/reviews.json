@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T14:42:02.193156+00:00",
+  "generated_at": "2026-11-10T23:05:46.865822+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -9,92 +9,312 @@
   ],
   "reviews": [
     {
-      "id": "27d328c1d144a069",
-      "title": "‘Purple Rain’ Musical: Jordan Fisher Is New Prince Of Broadway",
-      "quote": "Broadway’s Purple Rain has cast Jordan Fisher in the lead role of The Kid, the very Prince-like character portrayed by very real Prince in the original 1984 film. Producer Orin Wolf announced the casting today. Purple…",
-      "publisher": "Deadline",
-      "author": "Greg Evans",
-      "date": "2026-11-10T14:24:01+00:00",
-      "link": "https://deadline.com/2026/11/purple-rain-broadway-jordan-fisher-1237218438/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/purple_378d37.jpg",
+      "id": "3e0b619a5dc9c13f",
+      "title": "Renate Reinsve on the role that changed her life",
+      "quote": "Playing Julie in The Worst Person in the World was life-changing for the actress",
+      "publisher": "BBC Culture",
+      "author": null,
+      "date": "2026-11-26T10:50:00+00:00",
+      "link": "https://www.bbc.com/culture/article/20261103-the-norwegian-star-on-her-life-changing-role-in-2021s-the-worst-person-in-the-world?ocid=global_culture_rss",
+      "image": "https://ychef.files.bbci.co.uk/144x81/p0pl3vd8.jpg",
       "category": "World Cinema"
     },
     {
-      "id": "ecf82fddd480c0d3",
-      "title": "Dominic Cooper, Stephen Fry, Rupert Everett & Finn Cole Set For True-Story Falklands Dramedy ‘All In The Same Boat’; Playtime & UTA Launch For AFM",
-      "quote": "EXCLUSIVE: Dominic Cooper (Reacher), Stephen Fry (The Hobbit), Rupert Everett (Shakespeare In Love) and Finn Cole (Peaky Blinders) have been set to star in comedy-drama All In The Same Boat, based on the true story of a…",
+      "id": "30d243b801c4bab1",
+      "title": "Ted Sarandos Faces Unrest From Past & Present Netflix Execs Over Streamer’s Direction – The Dish",
+      "quote": "Bela Bajaria and 1,000 Netflix staffers have been let go, and Peter Rice has parachuted in as the streamer’s content chief. But, the real change at the streamer may still be to come, as Deadline has learned. As a…",
+      "publisher": "Deadline",
+      "author": "Dominic Patten",
+      "date": "2026-11-10T22:46:20+00:00",
+      "link": "https://deadline.com/2026/11/ted-sarandos-netflix-execs-oppose-streamers-direction-1237208280/",
+      "image": "https://deadline.com/wp-content/uploads/2023/10/netflix-earnings.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "c1183a097b7415d6",
+      "title": "Avengers: Doomsday Billboard May Have Spoiled Thor's Biggest Power Upgrade Yet",
+      "quote": "A billboard advertising Avengers: Doomsday in Shanghai may have given away a new detail about the power Thor wields in the upcoming Marvel movie.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Joe Roberts)",
+      "date": "2026-11-10T22:44:07+00:00",
+      "link": "https://www.slashfilm.com/2312895/avengers-doomsday-billboard-thor-power-upgrade-spoiler-odinforce/",
+      "image": "https://www.slashfilm.com/img/gallery/avengers-doomsday-billboard-may-have-spoiled-thors-biggest-power-upgrade-yet/l-intro-1794350545.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "39d36ea8ae24f09d",
+      "title": "Jennifer Lawrence's R-Rated Spy Movie Is One Of HBO Max's Biggest Streaming Hits",
+      "quote": "In 2018, Jennifer Lawrence starred in an R-rated spy film that was seen as a disappointment at the time. But now the film is a big hit on HBO Max.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Ryan Scott)",
+      "date": "2026-11-10T22:41:04+00:00",
+      "link": "https://www.slashfilm.com/2312893/jennifer-lawrence-r-rated-spy-movie-red-sparrow-streaming-hbo-max/",
+      "image": "https://www.slashfilm.com/img/gallery/jennifer-lawrences-r-rated-spy-movie-is-one-of-hbo-maxs-biggest-streaming-hits/l-intro-1794347969.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "469c521108c4364c",
+      "title": "Leah McKendrick To Follow ‘Voicemails For Isabelle’ With “Ferociously Female” Thriller ‘Delulu’ Starring Maddie Ziegler; XYZ & Temple Hill Produce — AFM",
+      "quote": "EXCLUSIVE: Here’s a buzzy one. Leah McKendrick, fresh off her Netflix smash Voicemails For Isabelle, is next set to direct thriller Delulu, in which she’ll also star alongside Pretty Lethal and West Side Story star…",
       "publisher": "Deadline",
       "author": "Andreas Wiseman",
-      "date": "2026-11-10T14:15:05+00:00",
-      "link": "https://deadline.com/2026/11/dominic-cooper-stephen-fry-finn-cole-falklands-comedy-film-1237218427/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/Dominic-Cooper-Stephen-Fry-Rupert-Everett-and-Finn-Cole-.jpg",
+      "date": "2026-11-10T22:30:58+00:00",
+      "link": "https://deadline.com/2026/11/leah-mckendrick-and-maddie-ziegler-star-in-delulu-thriller-1237219314/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/Leah-Mckendricks-Next-Film-Starring-Maddie-Ziegler.jpg",
       "category": "World Cinema"
     },
     {
-      "id": "e993262a6b851ca9",
-      "title": "Buyers Dig Beta Cinema’s Norwegian Oscar Entry ‘Growth Of The Soil’",
-      "quote": "Beta Cinema has unveiled a raft of international deals for Hans Petter Moland’s Norwegian Oscar entry Growth of the Soil. The film has sold to North America (Greenwich Entertainment), Germany & Austria (Neue Visionen)…",
+      "id": "07b905148ae0b5d8",
+      "title": "‘Tangles’ Cast Members Seth Rogen, Julia Louis-Dreyfus & Bryan Cranston On Animated Film’s Rare Back Story",
+      "quote": "An animated film takes time to make. An animated film based on a funny-but-deeply-moving graphic memoir about a family’s experience with early-onset Alzheimer’s disease can take a bit longer. Lauren Miller Rogen, wife…",
       "publisher": "Deadline",
-      "author": "Melanie Goodfellow",
-      "date": "2026-11-10T14:01:17+00:00",
-      "link": "https://deadline.com/2026/11/beta-cinema-norway-oscar-growth-of-the-soil-deals-1237218435/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/Growth-of-the-Soil_1_c-4-½-Fiction-AS.jpg",
+      "author": "Dade Hayes",
+      "date": "2026-11-10T22:25:22+00:00",
+      "link": "https://deadline.com/2026/11/tangles-movie-seth-rogen-julia-louis-dreyfus-bryan-cranston-1237218873/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/Tangles.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "c24647476a2e39f8",
+      "title": "Veteran Talent Agent Sasha Passero Leaving IAG",
+      "quote": "Sacha Passero is departing IAG after almost 12 years at the talent agency and its predecessor APA. Passero’s contract has come to an end and was not renewed. A talent agent based in New York, Passero joined APA from…",
+      "publisher": "Deadline",
+      "author": "Nellie Andreeva",
+      "date": "2026-11-10T22:24:14+00:00",
+      "link": "https://deadline.com/2026/11/sasha-passero-leaving-iag-1237219137/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/Sasha-passero.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "a50ee2b6c70179fa",
+      "title": "‘Chucky’ Creator Don Mancini Signs With Independent Artist Group",
+      "quote": "EXCLUSIVE: Don Mancini, the writer, director and producer best known as the creative force behind the iconic Chucky horror franchise, has signed with Independent Artist Group for representation. Mancini introduced…",
+      "publisher": "Deadline",
+      "author": "Matthewgrobar",
+      "date": "2026-11-10T22:18:33+00:00",
+      "link": "https://deadline.com/2026/11/don-mancini-chucky-signs-independent-artist-group-1237219392/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/Outlook-cvz5dw1m.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "e88ae68634a2267a",
+      "title": "Frank Whaley Signs With Artium Talent",
+      "quote": "EXCLUSIVE: Frank Whaley has signed with Artium Talent for theatrical representation. Since his debut opposite Meryl Streep and Jack Nicholson in the 1987 film Ironweed, Whaley has built a career spanning more than 80…",
+      "publisher": "Deadline",
+      "author": "Rosy Cordero",
+      "date": "2026-11-10T22:18:33+00:00",
+      "link": "https://deadline.com/2026/11/frank-whaley-artium-talent-agency-1237219358/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/Frank-Whaley.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "b0eda1197c0950a9",
+      "title": "Lisa Edelstein, Kevin Pollak & Joe Swanberg Among New Additions To SM Goldberger’s ‘Your Heart Is A Hummingbird’",
+      "quote": "EXCLUSIVE: Your Heart is a Hummingbird, former adult film actress SM Goldberger’s semi-autobiographical indie drama starring Chloë Levine, has added six to its cast. The new additions are Lisa Edelstein (Long Story…",
+      "publisher": "Deadline",
+      "author": "Matthewgrobar",
+      "date": "2026-11-10T22:09:54+00:00",
+      "link": "https://deadline.com/2026/11/your-heart-is-a-hummingbird-movie-cast-adds-six-1237219385/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/Lisa-Edelstein-Kevin-Pollak-Arye-Gross-Sylvia-Kuhar-Mila-Brener-and-Joe-Swanberg.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "76e5198a803be885",
+      "title": "‘Harry Potter’s Paapa Essiedu Doesn’t Want To Discuss J.K. Rowling “At All,” Insists He’s “Super Clear” About Trans Support",
+      "quote": "As the Christmas clock counts down to HBO’s Harry Potter premiere, Paapa Essiedu is once again making his support for trans people clear. The actor, who stars as Severus Snape in the series adaptation that premieres…",
+      "publisher": "Deadline",
+      "author": "Glenn Garner",
+      "date": "2026-11-10T22:04:09+00:00",
+      "link": "https://deadline.com/2026/11/harry-potter-paapa-essiedu-jk-rowling-super-clear-trans-support-1237219357/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/paapa-essiedu.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "d0b611d276d456a0",
+      "title": "The Cat In The Hat Is Another Box Office Flop Warner Bros. Can't Afford",
+      "quote": "Warner Bros. continues to struggle at the box office in 2026. The animated Cat in the Hat film flopped in its opening weekend.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Ryan Scott)",
+      "date": "2026-11-10T22:00:00+00:00",
+      "link": "https://www.slashfilm.com/2312346/the-cat-in-the-hat-box-office-flop-warner-bros/",
+      "image": "https://www.slashfilm.com/img/gallery/the-cat-in-the-hat-is-another-box-office-flop-warner-bros-cant-afford/l-intro-1794334111.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "21913f2dd7c27157",
+      "title": "DC Studios Boss Jeremy Latcham Wants More Family-Friendly Movies In Hollywood",
+      "quote": "Jeremy Latcham, who is taking over as the new head of DC Studios, is on the record as wanting more family-friendly movies to be made in Hollywood.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Joe Roberts)",
+      "date": "2026-11-10T21:41:06+00:00",
+      "link": "https://www.slashfilm.com/2312830/dc-studios-jeremy-latcham-family-friendly-movies-hollywood/",
+      "image": "https://www.slashfilm.com/img/gallery/dc-studios-boss-jeremy-latcham-wants-more-family-friendly-movies-in-hollywood/l-intro-1794346759.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "620dca6f28bedac0",
+      "title": "‘Confession’ Review: Rob Lowe and James Franco in a Ben Shapiro-Scripted, Stalinist Russia-Set Drama That’s Terminally Tedious",
+      "quote": "Jennifer Jason Leigh, Nick Nolte, Emile Hirsch and Kodi Smit-McPhee also appear in Václav Marhoul's film about the brutal interrogation of a prisoner in a Stalin-era Russian jail.",
+      "publisher": "The Hollywood Reporter",
+      "author": "Frank Scheck",
+      "date": "2026-11-10T21:09:16+00:00",
+      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/confession-review-rob-lowe-james-franco-nick-nolte-1236751013/",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "f8d92c0f364cbd2d",
+      "title": "Neither love nor money will get Steve Buscemi on Hot Ones",
+      "quote": "Steve Buscemi said that he doesn't like spicy food and would therefore \"never\" appear on <i>Hot Ones</i>, no matter how much money he's offered.",
+      "publisher": "The A.V. Club",
+      "author": "Olivia Singh",
+      "date": "2026-11-10T20:51:17+00:00",
+      "link": "https://www.avclub.com/steve-buscemi-hot-ones-not-a-fan",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/11/10/steve-buscemi-happy-sad-confused-featured.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "b4eb3d2bbbd8f39f",
+      "title": "New York and Los Angeles, come see Elsinore early and for free",
+      "quote": "New York and Los Angeles, here's your chance to catch an early and free screening of the Andrew Scott-starring <i>Elsinore</i>.",
+      "publisher": "The A.V. Club",
+      "author": "Drew Gillis",
+      "date": "2026-11-10T20:47:37+00:00",
+      "link": "https://www.avclub.com/elsinore-ticket-giveaway",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/09/22/elsinore-header.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "d9c19a91421db38a",
+      "title": "Paramount wakes up from competing Elm Street reboots nightmare",
+      "quote": "Paramount is moving forward with its version of the Freddy Krueger reboot, not WB's.",
+      "publisher": "The A.V. Club",
+      "author": "Matt Schimkowitz",
+      "date": "2026-11-10T20:15:40+00:00",
+      "link": "https://www.avclub.com/paramount-nightmare-on-elm-street-reboot-freddy-krueger-warner-bros-competition",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2016/01/14104932/a-nightmare-on-elm-street-3-dream-warriors-header.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "dadb53a3f93b9bc5",
+      "title": "The Rings Of Power Season 3 Review: Prime Video's Lord Of The Rings Series Still Falls Short",
+      "quote": "The Lord of the Rings: The Rings of Power Season 3 has some incredibly high highs and several frustrating lows. Here's our review.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Jeremy Mathai)",
+      "date": "2026-11-10T20:01:00+00:00",
+      "link": "https://www.slashfilm.com/2312150/the-lord-of-the-rings-the-rings-of-power-season-3-review-prime-video/",
+      "image": "https://www.slashfilm.com/img/gallery/the-rings-of-power-season-3-review-prime-videos-lord-of-the-rings-series-still-falls-short/l-intro-1794325861.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "9afa5699e8034385",
+      "title": "The Big Bang Theory's Downfall Can Be Traced Back To One Moment",
+      "quote": "The Big Bang Theory just didn't have the same sizzle in its last few seasons, and its downfall can be traced to one particular episode.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Nina Starner)",
+      "date": "2026-11-10T20:00:00+00:00",
+      "link": "https://www.slashfilm.com/2310354/the-big-bang-theory-downfall-moment/",
+      "image": "https://www.slashfilm.com/img/gallery/the-big-bang-theorys-downfall-can-be-traced-back-to-one-moment/l-intro-1794183109.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "b49cc3ba86fb9647",
+      "title": "Amanda Seyfried \"relieved,\" \"excited\" to finally talk about everything",
+      "quote": "On the red carpet for her new Netflix fairy tale, Amanda Seyfried opened up about letting the cat out of the bag and the importance of taking risks.",
+      "publisher": "The A.V. Club",
+      "author": "Matt Schimkowitz",
+      "date": "2026-11-10T19:22:46+00:00",
+      "link": "https://www.avclub.com/amanda-seyfried-releived-excited-movie-is-finally-out",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/10/22/amanda-seyfried-the-housemaid-01-featured.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "2aa6a5274374a0b5",
+      "title": "Who Is Jeremy Latcham? Everything We Know About The New Head Of DC Studios",
+      "quote": "Jeremy Latcham is a former Marvel Studios producer who's taking over for James Gunn and Peter Safran at DC Studios. Here's what else we know about him.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Jeremy Smith)",
+      "date": "2026-11-10T19:17:03+00:00",
+      "link": "https://www.slashfilm.com/2312484/jeremy-latcham-dc-studios-head-explained/",
+      "image": "https://www.slashfilm.com/img/gallery/who-is-jeremy-latcham-everything-we-know-about-the-new-head-of-dc-studios/l-intro-1794337845.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "fa8222306edfe89f",
+      "title": "DC Studios' Biggest Superhero Movie Priorities After James Gunn's Exit, Explained",
+      "quote": "With James Gunn and Peter Safran leaving, these are the superheroes the new DC Studios is likely to prioritize moving forward.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Devin Meenan)",
+      "date": "2026-11-10T19:16:11+00:00",
+      "link": "https://www.slashfilm.com/2312481/dc-studios-superhero-movie-priorities-james-gunn-exit-explained/",
+      "image": "https://www.slashfilm.com/img/gallery/dc-studios-biggest-superhero-movie-priorities-after-james-gunns-exit-explained/l-intro-1794337482.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "2e3cbd8c07b4077e",
+      "title": "Sony and Microsoft are encouraging players to start their GTA VI preloads now",
+      "quote": "As the clock ticks inexorably toward November 19, Sony Interactive Entertainment and Microsoft are encouraging players who've pre-ordered <i>Grand Theft Auto VI</i> to pre-load the game now to avoid potential download…",
+      "publisher": "The A.V. Club",
+      "author": "Jarrod Jones",
+      "date": "2026-11-10T19:11:31+00:00",
+      "link": "https://www.avclub.com/grand-theft-auto-vi-pre-load-trailer-rockstar-games",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/11/10/gta6-header.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "aa7e3c8e432bafbc",
+      "title": "You've Got Mail logging on for a remake",
+      "quote": "A remake of <i>You've Got Mail</i> is in the works, with <i>I Want You Back</i> filmmaker Jason Orley set to direct.",
+      "publisher": "The A.V. Club",
+      "author": "Olivia Singh",
+      "date": "2026-11-10T19:08:53+00:00",
+      "link": "https://www.avclub.com/youve-got-mail-remake-in-the-works",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/11/10/youve-got-mail-featured.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "3c82c89a584da3b8",
+      "title": "Will Ferrell heckles Elf costar Andy Richter on Jimmy Kimmel Live!",
+      "quote": "A disheveled Will Ferrell donned his Buddy the Elf gear to make fun of Andy Richter's new oral history about the 20023 holiday favorite.",
+      "publisher": "The A.V. Club",
+      "author": "Dennis Perkins",
+      "date": "2026-11-10T18:40:07+00:00",
+      "link": "https://www.avclub.com/will-ferrell-heckles-andy-richter-jimmy-kimmel-live",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/11/10/WF-1920.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "374243aec1cee064",
+      "title": "The Oscar-winning Godzilla Minus Zero VFX team breaks down the sequel's biggest moments",
+      "quote": "The Godzilla Minus Zero FX team tells us how they upped their game thanks to Ghidorah and a unique approach to CG.",
+      "publisher": "The A.V. Club",
+      "author": "Tara Bennett",
+      "date": "2026-11-10T18:00:34+00:00",
+      "link": "https://www.avclub.com/godzilla-minus-zero-interview-oscar-winning-vfx-team-takashi-yamazaki-king-ghidorah-biggest-moments",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/11/06/godzilla-director-header.jpg",
       "category": "Festival Winners"
     },
     {
-      "id": "694f848f626677c0",
-      "title": "The Team, Formerly Wasserman, Unveils New Board",
-      "quote": "LA-based global sports, music and entertainment company The Team, formerly Wasserman, has launched a new board to oversee strategy and lead its next phase of growth. The group comprises multiple members of current…",
-      "publisher": "Deadline",
-      "author": "Jillg366",
-      "date": "2026-11-10T14:00:00+00:00",
-      "link": "https://deadline.com/2026/11/the-team-formerly-wasserman-unveils-new-board-1237218114/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/the-team-board-photos.jpg",
+      "id": "eac83da89d551472",
+      "title": "Tinto Brass obituary",
+      "quote": "Italian director drawn to the erotic best known for his 1979 film Caligula, which is now regarded as a cult favourite No matter how one defines the films of the director Tinto Brass, who has died aged 93, they manage…",
+      "publisher": "The Guardian",
+      "author": "Ronald Bergan",
+      "date": "2026-11-10T16:58:38+00:00",
+      "link": "https://www.theguardian.com/film/2026/nov/10/tinto-brass-obituary",
+      "image": "https://i.guim.co.uk/img/media/05cddbc4ba84a5741324e88949fe56a20f2f5b43/264_0_2501_2001/master/2501.jpg?width=140&quality=85&auto=format&fit=max&s=7cf12e4608a52aed75910d65f1867eb3",
       "category": "World Cinema"
     },
     {
-      "id": "5b2d387adf66736f",
-      "title": "Fremantle’s Wildstar & Filmmaker Dan O’Neill Team On Wildlife Venture",
-      "quote": "EXCLUSIVE: A natural history filmmaker and Fremantle label Wildstar have partnered on a venture in which travellers will head out on excursions while having their journey documented by a crew. Dan O’Neill and luxury…",
-      "publisher": "Deadline",
-      "author": "Max Goldbart",
-      "date": "2026-11-10T14:00:00+00:00",
-      "link": "https://deadline.com/2026/11/wildlife-expeditions-venture-dan-oneill-fremantle-wildstar-1237218394/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/Wildstar-Expeditions.-Photo-credit-is-Ismail-Shariff.jpeg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "fca1405f495f7948",
-      "title": "Avi Nesher’s Israeli Box Office Hit ‘Our Loves’ Brings Its Characters “To The Brink” But Is Not An “October 7 Movie”",
-      "quote": "Welcome to Global Breakouts, Deadline’s strand in which, each fortnight, we shine a spotlight on the TV shows and films breaking out in their local territories. The industry is as globalized as it’s ever been, but…",
-      "publisher": "Deadline",
-      "author": "Max Goldbart",
-      "date": "2026-11-10T14:00:00+00:00",
-      "link": "https://deadline.com/2026/11/israel-our-loves-avi-nesher-global-breakout-1237213112/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/MAINSRILL_OURLOVES_Still-05-1-1500.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "ceebee7e69775cc4",
-      "title": "‘Art Detectives’: Watch Trailer For Season 2 Special Of Stephen Moyer Series; Premiere Date Revealed",
-      "quote": "EXCLUSIVE: Here’s the trailer for the upcoming two-part special Art Detectives, the UKTV and Acorn TV light crime drama starring Stephen Moyer (The Night Agent) as art-loving policeman Mick Palmer. We’ve got the news…",
-      "publisher": "Deadline",
-      "author": "Jesse Whittock",
-      "date": "2026-11-10T14:00:00+00:00",
-      "link": "https://deadline.com/2026/11/art-detectives-trailer-special-premiere-date-season-2-1237218375/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/Art-Detectives.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "c9c87e9bcdb67058",
-      "title": "Tony McNamara’s ‘Mosquito’ Comedy Series Adds 10 To Cast As Production Begins In UK",
-      "quote": "Disney has rounded out the ensemble cast for Mosquito, a Hulu original series from Oscar-nominated writer Tony McNamara (The Great, Poor Things), as principal photography gets underway in the UK. Kyle Soller (Slow…",
-      "publisher": "Deadline",
-      "author": "Denise Petski",
-      "date": "2026-11-10T14:00:00+00:00",
-      "link": "https://deadline.com/2026/11/tony-mcnamara-mosquito-comedy-series-cast-production-begins-1237217834/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/Mosquito.jpg",
-      "category": "Festival Winners"
+      "id": "0b17aaf0235e218b",
+      "title": "‘Black Doves’ Season 2 review: Keira Knightley and Ben Whishaw spy thriller continues to swing between gore, grit and giggles",
+      "quote": "While tighter than Season 1, the second outing still has its outrageous shoot-outs and hit-and-miss humour, but its quieter moments make up for them to a certain extent",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-11-10T14:51:06+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/black-doves-season-2-review-keira-knightley-ben-whishaw-spy-thriller-netflix-swings-between-gore-grit-and-giggles/article71685412.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/2udb4v/article71686851.ece/alternates/LANDSCAPE_1200/Black%20Doves%20Season%202.jpeg",
+      "category": "Indian Cinema"
     },
     {
       "id": "b5aae266b890f689",
@@ -108,8 +328,8 @@
       "category": "World Cinema"
     },
     {
-      "id": "8bf65d311ff894f5",
-      "title": "‘Without storyboards, I feel like I’m in Grand Central station in my underwear’: film fights back against AI",
+      "id": "5f40c148a5999d9c",
+      "title": "Even Martin Scorsese uses AI for storyboards. Can the art survive?",
       "quote": "As Hollywood begins to adopt the technology, the professionals in most direct jeopardy are the illustrators mapping out directors’ first visions. They sketch out what could be lost A film industry dominated by AI is a…",
       "publisher": "The Guardian",
       "author": "Lana Crowe",
@@ -119,15 +339,15 @@
       "category": "World Cinema"
     },
     {
-      "id": "2fe41b90374c4921",
-      "title": "How Nicolas Cage Really Feels About Ryan Gosling Playing Ghost Rider",
-      "quote": "Ryan Gosling will soon follow in Nicolas Cage's footsteps by playing Ghost Rider in a movie. So, naturally, the latter actor has some thoughts on the matter.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-11-10T12:45:00+00:00",
-      "link": "https://www.slashfilm.com/2308460/nicolas-cage-ryan-gosling-ghost-rider-feelings/",
-      "image": "https://www.slashfilm.com/img/gallery/how-nicolas-cage-really-feels-about-ryan-gosling-playing-ghost-rider/l-intro-1793909386.jpg",
-      "category": "Indie Gems"
+      "id": "0936d0694c5021f0",
+      "title": "Vir Das: I no longer demonise the offended",
+      "quote": "In India, offence comes with paperwork and the International Emmy-winning comedian knows the drill. But he also knows how to turn the aftermath of a controversy into comedy gold",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-11-10T12:09:45+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/interview-comedian-vir-das-fool-volume-international-emmy/article71655535.ece",
+      "image": "https://th-i.thgim.com/public/incoming/3446v/article71659346.ece/alternates/LANDSCAPE_1200/collage%2016.jpg",
+      "category": "Indian Cinema"
     },
     {
       "id": "aa271aee3cb934c1",
@@ -141,15 +361,37 @@
       "category": "World Cinema"
     },
     {
-      "id": "398e32e04d5fea8c",
-      "title": "22 Years Later, The Polar Express' Best Line Is Still One Of The Best Christmas Movie Quotes",
-      "quote": "Robert Zemeckis' The Polar Express may be an uncanny valley nightmare, but the beloved-by-some Christmas film contains a quote that can be applicable to anyone.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Devin Meenan)",
-      "date": "2026-11-10T09:10:00+00:00",
-      "link": "https://www.slashfilm.com/2309845/the-polar-express-best-line-best-christmas-movie-quotes/",
-      "image": "https://www.slashfilm.com/img/gallery/22-years-later-the-polar-express-best-line-is-still-one-of-the-best-christmas-movie-quotes/l-intro-1793999220.jpg",
-      "category": "Indie Gems"
+      "id": "1d3b3a2c8cadaa69",
+      "title": "The mega-hit romantasy that's dividing readers",
+      "quote": "The sixth ACOTAR novel by Sarah J Maas is breaking records – but is it any good?",
+      "publisher": "BBC Culture",
+      "author": null,
+      "date": "2026-11-10T11:00:00+00:00",
+      "link": "https://www.bbc.com/culture/article/20261109-a-court-of-splintered-harmony-why-the-latest-mega-hit-acotar-romantasy-is-dividing-readers?ocid=global_culture_rss",
+      "image": "https://ychef.files.bbci.co.uk/144x81/p0pm2ywn.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "5bb15bacca818b6f",
+      "title": "‘I’m looking for faces which surprise me’: how Richard Avedon photographed the soul of his subjects",
+      "quote": "Ron Howard’s illuminating Netflix documentary looks back on the career of one of America’s most inventive and versatile photographers Richard Avedon had only taken a couple of frames when he accidentally hit his head on…",
+      "publisher": "The Guardian",
+      "author": "David Smith in Washington",
+      "date": "2026-11-10T10:00:34+00:00",
+      "link": "https://www.theguardian.com/film/2026/nov/10/richard-avedon-photography-netflix-documentary",
+      "image": "https://i.guim.co.uk/img/media/c68b486daa29ebd2a8d358b39ad06a60105e317b/1094_0_8998_7200/master/8998.jpg?width=140&quality=85&auto=format&fit=max&s=ca349534578edbba9a7ed357431e7841",
+      "category": "World Cinema"
+    },
+    {
+      "id": "6cd1a776e57990f6",
+      "title": "James Gunn and Peter Safran step down from DC Studios leadership as Marvel veteran Jeremy Latcham takes over",
+      "quote": "The duo behind DC’s latest cinematic reboot will leave their executive positions in December, returning to full-time creative work while Latcham assumes control of the studio’s film, television and animation slate",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-11-10T09:42:32+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/james-gunn-and-peter-safran-step-down-from-dc-studios-leadership-as-marvel-veteran-jeremy-latcham-takes-over/article71685130.ece",
+      "image": "https://th-i.thgim.com/public/incoming/atrxax/article71685128.ece/alternates/LANDSCAPE_1200/DC_Studios__6_81.jpg",
+      "category": "Indian Cinema"
     },
     {
       "id": "99a0deb8cbc70833",
@@ -159,7 +401,7 @@
       "author": null,
       "date": "2026-11-10T07:49:16+00:00",
       "link": "https://www.thehindu.com/entertainment/movies/john-doe-why-director-madhumita-wanted-to-move-beyond-feel-good-films/article71685307.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/7ocwrd/article71685331.ece/alternates/LANDSCAPE_1200/_G2A0034.JPG",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/liuax0/article71685331.ece/alternates/LANDSCAPE_1200/_G2A0034.JPG",
       "category": "Indian Cinema"
     },
     {
@@ -196,171 +438,6 @@
       "category": "Indian Cinema"
     },
     {
-      "id": "6cd1a776e57990f6",
-      "title": "James Gunn and Peter Safran step down from DC Studios leadership as Marvel veteran Jeremy Latcham takes over",
-      "quote": "The duo behind DC’s latest cinematic reboot will leave their executive positions in December, returning to full-time creative work while Latcham assumes control of the studio’s film, television and animation slate",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-11-10T05:59:32+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/james-gunn-and-peter-safran-step-down-from-dc-studios-leadership-as-marvel-veteran-jeremy-latcham-takes-over/article71685130.ece",
-      "image": "https://th-i.thgim.com/public/incoming/atrxax/article71685128.ece/alternates/LANDSCAPE_1200/DC_Studios__6_81.jpg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "91e7133bff90687a",
-      "title": "A hilarious win-win for Reggie Dinkins viewers suggests some painful losses later in the season",
-      "quote": "On a hilarious <i>The Fall And Rise Of Reggie Dinkins</i>, Arthur and Rusty both try to break from the show’s comfy luxury trap.",
-      "publisher": "The A.V. Club",
-      "author": "Dennis Perkins",
-      "date": "2026-11-10T02:00:52+00:00",
-      "link": "https://www.avclub.com/the-fall-and-rise-of-reggie-dinkins-s2-e2-review",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/11/09/rd-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "12f9e07f188a2f9e",
-      "title": "Robert Pattinson's James Bond Comments Resurface 14 Years Later Amid Casting Rumors",
-      "quote": "Robert Pattinson is reportedly auditioning for the role of James Bond and it's a part that The Batman actor might have been preparing for for 14 years.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-11-10T02:00:23+00:00",
-      "link": "https://www.slashfilm.com/2311752/robert-pattinson-james-bond-comments-14-years-later-casting-rumors/",
-      "image": "https://www.slashfilm.com/img/gallery/robert-pattinsons-james-bond-comments-resurface-14-years-later-amid-casting-rumors/l-intro-1794275267.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "4e5c17e8e989e4aa",
-      "title": "Colin Farrell's Remake Of A '90s Sci-Fi Movie Is One Of Prime Video's Biggest Streaming Hits",
-      "quote": "Despite earning its share of negative reviews, this sci-fi remake starring Colin Farrell is currently among the top movies streaming on Prime Video.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-11-10T01:51:14+00:00",
-      "link": "https://www.slashfilm.com/2311748/colin-farrell-90s-sci-fi-movie-remake-total-recall-streaming-prime-video/",
-      "image": "https://www.slashfilm.com/img/gallery/colin-farrells-remake-of-a-90s-sci-fi-movie-is-one-of-prime-videos-biggest-streaming-hits/l-intro-1794275162.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "4e638bf94b736b43",
-      "title": "Roger Ebert Called Disney's Attempt To Update A Classic Cartoon Character 'Transcendently Bad'",
-      "quote": "The legendary Leslie Nielsen starred in this live-action adaptation of a classic cartoon, and critic Roger Ebert absolutely loathed it.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-11-10T01:45:00+00:00",
-      "link": "https://www.slashfilm.com/2306784/roger-ebert-disney-attempt-update-cartoon-character-mr-magoo-bad/",
-      "image": "https://www.slashfilm.com/img/gallery/roger-ebert-called-disneys-attempt-to-update-a-classic-cartoon-character-transcendently-bad/l-intro-1793813163.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "f5ddd415a4b2d5ee",
-      "title": "Indiana Jones Star John Rhys-Davies Slams The Dial Of Destiny",
-      "quote": "Indiana Jones and the Dial of Destiny disappointed a lot of fans, and it also disappointed star John Rhys-Davies, who says many of his scenes were cut.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Witney Seibold)",
-      "date": "2026-11-10T01:44:55+00:00",
-      "link": "https://www.slashfilm.com/2311743/indiana-jones-star-john-rhys-davies-slams-dial-of-destiny/",
-      "image": "https://www.slashfilm.com/img/gallery/indiana-jones-star-john-rhys-davies-slams-the-dial-of-destiny/l-intro-1794274600.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "9aa14c1e351ea220",
-      "title": "All 5 Finalists For The Next James Bond, Ranked",
-      "quote": "The search for the next James Bond has reportedly been narrowed down to five great actors. Here's our ranking of the 007 finalists.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-11-10T00:17:21+00:00",
-      "link": "https://www.slashfilm.com/2311723/next-james-bond-finalists-ranked/",
-      "image": "https://www.slashfilm.com/img/gallery/all-5-finalists-for-the-next-james-bond-ranked/l-intro-1794269149.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "9450e4f4c8b04940",
-      "title": "This Classic Marvel Villain Could Reshape The MCU — And Introduce Nova",
-      "quote": "If the Marvel needs a way to add some extra juice to its cinematic universe and finally introduce Nova while they're at it, here's the villain they should use.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Chris Sims)",
-      "date": "2026-11-10T00:00:00+00:00",
-      "link": "https://www.slashfilm.com/2307029/classic-marvel-villain-annihilus-reshape-mcu-introduce-nova/",
-      "image": "https://www.slashfilm.com/img/gallery/this-classic-marvel-villain-could-reshape-the-mcu-and-introduce-nova/l-intro-1793820779.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "7a69dfaeb0daf0e3",
-      "title": "Trump says Dana White’s “joke” press secretary appointment was defense against “bad press day”",
-      "quote": "Today, Dana White took questions from the White House press pool, giving the world a taste of what his tenure as press secretary might look like if he accepted the role.",
-      "publisher": "The A.V. Club",
-      "author": "Matt Schimkowitz",
-      "date": "2026-11-09T23:28:18+00:00",
-      "link": "https://www.avclub.com/trump-appointed-dana-white-press-secretary-as-a-joke",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/11/07/white-trump-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "49539c35260cfa4a",
-      "title": "Benito Skinner returns to college in Overcompensating season 2 first look",
-      "quote": "Prime Video announced the release date for season 2 of <i>Overcompensating</i> and shared photos giving fans a first look at Benny's second semester at Yates University.",
-      "publisher": "The A.V. Club",
-      "author": "Olivia Singh",
-      "date": "2026-11-09T22:16:35+00:00",
-      "link": "https://www.avclub.com/overcompensating-season-2-first-look-photos-release-date",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/11/09/overcompensating-season-2-benny-carmen-featured.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "a50c54164b6ee338",
-      "title": "Disney picks Adobe as its new AI and price-hike partner",
-      "quote": "Disney and Adobe's unholy union of subscription price increases aims to build \"responsibly developed AI.\"",
-      "publisher": "The A.V. Club",
-      "author": "Matt Schimkowitz",
-      "date": "2026-11-09T21:44:18+00:00",
-      "link": "https://www.avclub.com/disney-adobe-partnership-announced",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/09/29/disney.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "edcd5140c9f89dd4",
-      "title": "The best original movies on Hulu",
-      "quote": "With rom-coms (Rye Lane), documentaries (Summer Of Soul), and more, the best original movies on Hulu cover it all.",
-      "publisher": "The A.V. Club",
-      "author": "The A.V. Club",
-      "date": "2026-11-09T21:15:00+00:00",
-      "link": "https://www.avclub.com/best-hulu-original-movies",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/10/09/MixCollage-09-Nov-2026-03-56-PM-4445.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "56be7e7875e2c9bb",
-      "title": "Daniel Radcliffe politely noncommittal about watching Harry Potter series",
-      "quote": "Daniel Radcliffe said that he doesn't know if he'll watch HBO's <i>Harry Potter</i> reboot because he's \"been in a lot\" already and doesn't watch TV.",
-      "publisher": "The A.V. Club",
-      "author": "Olivia Singh",
-      "date": "2026-11-09T20:47:56+00:00",
-      "link": "https://www.avclub.com/daniel-radcliffe-unsure-about-watching-harry-potter-series",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/11/09/daniel-radcliffe-steps-premiere-featured.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "06675cb058391a82",
-      "title": "Trump chooses Hell over forgiveness in 60 Minutes interview",
-      "quote": "Trump admits he'd prefer eternal damnation to lying to God about forgiving political enemies in a new interview with 60 Minutes.",
-      "publisher": "The A.V. Club",
-      "author": "Matt Schimkowitz",
-      "date": "2026-11-09T20:23:04+00:00",
-      "link": "https://www.avclub.com/ross-douthat-donald-trump-interview-eternal-soul-question",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/11/09/60MN_PresidentTrump_SG_0002-1.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "ad0587f469894341",
-      "title": "I've Had It hosts respond to right-wing critics with the freest of speech",
-      "quote": "<i>I've Had It</i> podcast co-host Jennifer Welch says right-wingers calling for a boycott of the show are \"losers,\" among other colorful things.",
-      "publisher": "The A.V. Club",
-      "author": "Dennis Perkins",
-      "date": "2026-11-09T19:52:32+00:00",
-      "link": "https://www.avclub.com/ive-had-it-podcast-hosts-turning-point-usa-losers",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/11/09/IHE-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "f1937f5728226c6b",
       "title": "Donnie Dunagan, original voice of Disney’s Bambi and triple Purple Heart marine, dies aged 92",
       "quote": "Dunagan was six when he voiced the young deer in the classic cartoon, with an assistant director instructing him to pretend his own mother had died Donnie Dunagan, who voiced Bambi in the Walt Disney classic, as well as…",
@@ -394,14 +471,14 @@
       "category": "World Cinema"
     },
     {
-      "id": "f5c0cb73ec8ff054",
-      "title": "1 in 2 review – compassionate film about dealing with bowel cancer is a personal plea on behalf of the young",
-      "quote": "David Wilkinson made this warm, generous documentary of his own treatment, and asks why so many much younger people are getting the same diagnosis ‘I am lucky, as I have become old.” That is the pithy, personal summary…",
-      "publisher": "The Guardian",
-      "author": "Peter Bradshaw",
-      "date": "2026-11-09T13:00:10+00:00",
-      "link": "https://www.theguardian.com/film/2026/nov/09/1-in-2-review-bowel-cancer-david-wilkinson",
-      "image": "https://i.guim.co.uk/img/media/6a6c084e58c86744bf49cc6952f1b8d982d9625f/509_0_2353_1882/master/2353.jpg?width=140&quality=85&auto=format&fit=max&s=50f43d96b47cc655d20a945b7fc42bad",
+      "id": "ea82922efec5d69f",
+      "title": "How the press created the myths of Jack the Ripper",
+      "quote": "Five women were killed in London's East End in 1888",
+      "publisher": "BBC Culture",
+      "author": null,
+      "date": "2026-11-09T11:00:00+00:00",
+      "link": "https://www.bbc.com/culture/article/20261106-the-creation-of-the-myth-of-jack-the-ripper?ocid=global_culture_rss",
+      "image": "https://ychef.files.bbci.co.uk/144x81/p0pln7c9.jpg",
       "category": "World Cinema"
     },
     {
@@ -427,39 +504,6 @@
       "category": "Indian Cinema"
     },
     {
-      "id": "27e9dd2736bcc957",
-      "title": "100 Sunset review – elliptical, elusive drama dreamlike through Toronto’s tight-knit Tibetan community",
-      "quote": "Kunsang Kyirong’s debut feature fades like a vapour trail in a mood of disorientation and dislocation Not much happens and very little is explained in this elliptical, elusive drama by Canadian-Tibetan film-maker…",
-      "publisher": "The Guardian",
-      "author": "Cath Clarke",
-      "date": "2026-11-09T07:00:03+00:00",
-      "link": "https://www.theguardian.com/film/2026/nov/09/100-sunset-review-kunsang-kyirong-kenzin-kunsel",
-      "image": "https://i.guim.co.uk/img/media/cc3aa9d18a27f0c0763ceb5fc9ca64a133856287/506_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=b3705f686cfc2f45c81dabed9141235f",
-      "category": "World Cinema"
-    },
-    {
-      "id": "36e401650d430b9c",
-      "title": "‘Possible Love’ movie review: Lee Chang-dong’s exquisitely layered study of covetousness",
-      "quote": "Thou shalt not covet… except perhaps Lee Chang-dong’s auteurist virtuosity",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-11-09T06:54:09+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/possible-love-movie-review-lee-chang-dongs-exquisitely-layered-study-of-covetousness/article71681055.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/lxbcri/article71681062.ece/alternates/LANDSCAPE_1200/AAAAQaXW1UasaF8pzfmGa24aQG6-U3aGvHVtUCW7fDW_frSTRhIF_XpjLxYlKubphEHq_tJqulqbFo7KeG-3aLJ9DuezHft9xv9NXVxbE29vnVXhSoM1_HapS0qHaITeDoYsq4Rm9Ha64fgCTXR5nVAodMQZ.jpg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "07fc2d3270dc72bd",
-      "title": "Keralam film chamber opposes CBFC advisory allowing review, modification of movie titles",
-      "quote": "KFCC writes to CBFC pointing out that last-minute title changes will impose financial burden on producers, as fixing a title early is essential for promoting movies from pre-production stage",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-11-09T06:31:06+00:00",
-      "link": "https://www.thehindu.com/news/national/kerala/kerala-film-chamber-of-commerce-opposes-cbfc-advisory-allowing-review-modification-of-film-titles/article71681543.ece",
-      "image": "https://th-i.thgim.com/public/news/national/kerala/dp2hcj/article71681611.ece/alternates/LANDSCAPE_1200/cbfc.jpg",
-      "category": "Indian Cinema"
-    },
-    {
       "id": "5ec821929df2997e",
       "title": "‘Steps’ Review: A Stellar Voice Cast Including Amanda Seyfried, Ali Wong and Bette Midler Gets Stuck in a Tortured Revisionist Fairy Tale",
       "quote": "Stephanie Hsu, Nikki Glaser, Daniel Radcliffe and Peter Dinklage also feature in Netflix’s animated overhaul of the ‘Cinderella’ story, told from the perspective of her “evil” stepsister.",
@@ -479,6 +523,17 @@
       "date": "2026-11-08T21:02:08+00:00",
       "link": "https://variety.com/2026/film/reviews/avedon-review-ron-howard-richard-avedon-1236942472/",
       "image": "https://variety.com/wp-content/uploads/2026/11/avedon-netflix-2.jpg.webp",
+      "category": "World Cinema"
+    },
+    {
+      "id": "2cbdb06bff4d03bc",
+      "title": "Why Gulliver's Travels is still misunderstood",
+      "quote": "The darkness in Jonathan Swift's 1726 novel has been erased",
+      "publisher": "BBC Culture",
+      "author": null,
+      "date": "2026-11-07T11:00:00+00:00",
+      "link": "https://www.bbc.com/culture/article/20261106-why-the-300-year-old-novel-gullivers-travels-is-so-misunderstood?ocid=global_culture_rss",
+      "image": "https://ychef.files.bbci.co.uk/144x81/p0plp91l.jpg",
       "category": "World Cinema"
     },
     {
@@ -581,6 +636,17 @@
       "category": "World Cinema"
     },
     {
+      "id": "38eb5d1e7825c957",
+      "title": "How Sylvester Stallone created underdog icon Rocky",
+      "quote": "The then-unknown actor channelled his career frustrations into the boxing drama",
+      "publisher": "BBC Culture",
+      "author": null,
+      "date": "2026-11-06T10:45:00+00:00",
+      "link": "https://www.bbc.com/culture/article/20261104-how-sylvester-stallone-created-underdog-icon-rocky?ocid=global_culture_rss",
+      "image": "https://ychef.files.bbci.co.uk/144x81/p0plmjc9.jpg",
+      "category": "World Cinema"
+    },
+    {
       "id": "2a455977597bd61c",
       "title": "‘Jimmy’ Review: KJ Apa Tries, in Vain, to Save Ploddingly Dutiful James Stewart Biopic",
       "quote": "The 'Riverdale' actor plays the title role in this drama revolving around the iconic movie star's distinguished military service.",
@@ -669,6 +735,17 @@
       "category": "World Cinema"
     },
     {
+      "id": "852be49c7a3cc157",
+      "title": "The Russian stray dog that beat humans into orbit",
+      "quote": "In 1957, Soviet scientists sent Laika into space, making her a tragic hero",
+      "publisher": "BBC Culture",
+      "author": null,
+      "date": "2026-11-02T11:00:00+00:00",
+      "link": "https://www.bbc.com/culture/article/20261030-the-russian-stray-dog-that-became-the-first-living-creature-to-orbit-the-earth?ocid=global_culture_rss",
+      "image": "https://ychef.files.bbci.co.uk/144x81/p0pkh5vb.jpg",
+      "category": "World Cinema"
+    },
+    {
       "id": "3cda59f00dfa70b9",
       "title": "‘Fuxi: Four Tales of Feasting’ Review: Whimsical Chinese Film Explores Myth and History Through a Series of Tasty Treats",
       "quote": "In Qiu Jiongjiong's latest, highly stylized sets and costumes contribute to a strange banquet of storytelling where food plays a key role.",
@@ -677,6 +754,28 @@
       "date": "2026-10-31T00:36:53+00:00",
       "link": "https://www.hollywoodreporter.com/movies/movie-reviews/fuxi-four-tales-of-feasting-qiu-jiongjiong-1236743718/",
       "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "25a654559922b1e9",
+      "title": "What these rotund remakes of masterpieces tell us",
+      "quote": "Colombian artist Fernando Botero's paintings reimagine historic European art",
+      "publisher": "BBC Culture",
+      "author": null,
+      "date": "2026-10-30T12:00:00+00:00",
+      "link": "https://www.bbc.com/culture/article/20261030-what-boteros-rotund-remakes-of-classical-masterpieces-tell-us-about-art-history?ocid=global_culture_rss",
+      "image": "https://ychef.files.bbci.co.uk/144x81/p0pkg6n2.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "638b349dd1efb7aa",
+      "title": "Why Frankenstein is so misunderstood",
+      "quote": "How Mary Shelley's novel's phenomenal success overshadowed its message",
+      "publisher": "BBC Culture",
+      "author": null,
+      "date": "2026-10-30T11:00:00+00:00",
+      "link": "https://www.bbc.com/culture/article/20180611-why-frankenstein-is-the-story-that-defined-our-fears?ocid=global_culture_rss",
+      "image": "https://ychef.files.bbci.co.uk/144x81/p0m8hkdr.jpg",
       "category": "World Cinema"
     },
     {
@@ -698,17 +797,6 @@
       "author": "Frank Scheck",
       "date": "2026-10-28T22:39:01+00:00",
       "link": "https://www.hollywoodreporter.com/movies/movie-reviews/the-mongoose-review-liam-neeson-1236741778/",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "7728f37ee5b435e7",
-      "title": "Top 10 Movies That Explain What’s Happening in France Right Now",
-      "quote": "Amid riots, looting and protests by French students angry at the conditions of their high schools, THR’s Paris-based film critic picks 10 essential movies that shed light on the tensions leading to this moment.",
-      "publisher": "The Hollywood Reporter",
-      "author": "Jon Frosch",
-      "date": "2026-10-23T15:39:30+00:00",
-      "link": "https://www.hollywoodreporter.com/lists/top-10-movies-french-riots-france-protests/",
       "image": null,
       "category": "World Cinema"
     },
