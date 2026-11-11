@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T23:05:46.865822+00:00",
+  "generated_at": "2026-11-11T05:45:40.901128+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -20,15 +20,169 @@
       "category": "World Cinema"
     },
     {
-      "id": "30d243b801c4bab1",
-      "title": "Ted Sarandos Faces Unrest From Past & Present Netflix Execs Over Streamer’s Direction – The Dish",
-      "quote": "Bela Bajaria and 1,000 Netflix staffers have been let go, and Peter Rice has parachuted in as the streamer’s content chief. But, the real change at the streamer may still be to come, as Deadline has learned. As a…",
+      "id": "ba94b295628e7fb9",
+      "title": "‘The Debut’ trailer: Julianne Moore and Paul Giamatti clash in Jesse Eisenberg’s musical comedy",
+      "quote": "A small community-theatre production becomes the battleground for an obsessive performer in Eisenberg’s follow-up to ‘A Real Pain’, which also features original music and lyrics written by the filmmaker",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-11-11T05:17:22+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/the-debut-trailer-julianne-moore-and-paul-giamatti-clash-in-jesse-eisenbergs-musical-comedy/article71688407.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/l6pb7n/article71688410.ece/alternates/LANDSCAPE_1200/Screenshot%202026-11-11%20104240.png",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "7981de845bba9de5",
+      "title": "‘Maatrubhumi’ trailer: Salman Khan leads 200 Indian soldiers against a sea of Chinese troops in war actioner",
+      "quote": "The makers have locked a new release date for the much-delayed film",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-11-11T04:53:51+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/maatrubhumi-trailer-salman-khan-leads-200-indian-soldiers-against-a-sea-of-chinese-troops-in-war-actioner/article71688338.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/3ercbk/article71688349.ece/alternates/LANDSCAPE_1200/Salman%20Khan%20in%20%E2%80%98Maatrubhumi%E2%80%99",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "f23a4bcdd01ed1ee",
+      "title": "‘VisionQuest’ Teases Surprise ‘Avengers: Doomsday’ Character Return In Post-Credits Scene",
+      "quote": "SPOILERS: This post contains details about the VisionQuest Season 1 finale episode “Forever” A major player appears to be returning to the MCU following the Season 1 finale of VisionQuest. In a post-credits scene from…",
       "publisher": "Deadline",
-      "author": "Dominic Patten",
-      "date": "2026-11-10T22:46:20+00:00",
-      "link": "https://deadline.com/2026/11/ted-sarandos-netflix-execs-oppose-streamers-direction-1237208280/",
-      "image": "https://deadline.com/wp-content/uploads/2023/10/netflix-earnings.jpg",
+      "author": "Glenn Garner",
+      "date": "2026-11-11T04:43:25+00:00",
+      "link": "https://deadline.com/2026/11/visionquest-teases-avengers-doomsday-character-post-credits-scene-1237220017/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/TCDVISI_G5012.jpg",
       "category": "World Cinema"
+    },
+    {
+      "id": "9370ffcc65d46aeb",
+      "title": "VisionQuest's Finale Finally Pays Off A Story Marvel Started In Avengers: Age Of Ultron",
+      "quote": "Marvel's VisionQuest has come to an end, and in doing so, it paid off a specific storyline that the studio began more than a decade ago.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Jeremy Mathai)",
+      "date": "2026-11-11T03:15:00+00:00",
+      "link": "https://www.slashfilm.com/2312745/visionquest-finale-payoff-marvel-avengers-age-of-ultron-story/",
+      "image": "https://www.slashfilm.com/img/gallery/visionquests-finale-finally-pays-off-a-story-marvel-started-in-avengers-age-of-ultron/l-intro-1794344047.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "fbf9d89083169188",
+      "title": "‘Dancing With The Stars’ Recap: Dance Offs On Grammy Night Bring Tough Competition To Quarterfinals",
+      "quote": "SPOILER ALERT! This post contains details from the Season 35 Dancing with the Stars quarterfinals. It’s hard to believe Dancing with the Stars Season 35 is nearly over, but we’ve officially reached the quarterfinals…",
+      "publisher": "Deadline",
+      "author": "Katie Campione",
+      "date": "2026-11-11T03:00:33+00:00",
+      "link": "https://deadline.com/2026/11/dancing-with-the-stars-season-35-recap-grammy-night-1237218651/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/183938_SB105287.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "817875e03cacdff1",
+      "title": "VisionQuest: The Identity Of The Client, Explained",
+      "quote": "At long last, VisionQuest has revealed who, exactly, The Client is, and they're basically a proxy for a different character from Marvel's comics.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Devin Meenan)",
+      "date": "2026-11-11T03:00:00+00:00",
+      "link": "https://www.slashfilm.com/2312740/visionquest-client-identity-explained/",
+      "image": "https://www.slashfilm.com/img/gallery/visionquest-the-identity-of-the-client-explained/l-intro-1794343909.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "a42078e800038e0a",
+      "title": "Lucy Hale Notes “Everyone Is Willing” To Reunite For ‘Pretty Little Liars’ Revival: “There’s Gotta Be A New Version Of ‘A'”",
+      "quote": "Nearly a decade later, the cast of Pretty Little Liars is apparently ready to take another secret to the grave. Lucy Hale, who starred as Aria Montgomery on the Freeform series, recently teased that everyone from the…",
+      "publisher": "Deadline",
+      "author": "Glenn Garner",
+      "date": "2026-11-11T02:50:58+00:00",
+      "link": "https://deadline.com/2026/11/lucy-hale-everyone-willing-reunite-pretty-little-liars-1237219941/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/TCDPRLI_EC089.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "a756c8aa819bfeb3",
+      "title": "Judge Declines To Dismiss Donald Trump’s Defamation Claim Against BBC",
+      "quote": "A federal judge on Tuesday declined to dismiss Donald Trump’s defamation claim against the BBC over edits made to a documentary about January 6th that aired in advance of the 2024 election. U.S. District Judge Jeffrey…",
+      "publisher": "Deadline",
+      "author": "Ted Johnson",
+      "date": "2026-11-11T02:06:50+00:00",
+      "link": "https://deadline.com/2026/11/trump-bbc-lawsuit-judge-1237219938/",
+      "image": "https://deadline.com/wp-content/uploads/2025/11/Donald-Trump-BBC.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "ca2c894682392687",
+      "title": "Does Marvel's VisionQuest Have A Post-Credits Scene? A Spoiler-Free Guide",
+      "quote": "We're here to tell you, in a completely spoiler-free way, whether the finale episode of Marvel Studios' VisionQuest TV show contains any post-credits scenes.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Ryan Scott)",
+      "date": "2026-11-11T02:00:00+00:00",
+      "link": "https://www.slashfilm.com/2306755/marvel-visionquest-finale-post-credits-scene-guide/",
+      "image": "https://www.slashfilm.com/img/gallery/does-marvels-visionquest-have-a-post-credits-scene-a-spoiler-free-guide/l-intro-1793812524.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "6f00f52bbf0808fa",
+      "title": "This '60s Japanese Thriller Is One Of The Best Movies Streaming On HBO Max",
+      "quote": "Japanese filmmaker Akira Kurosawa directed a lot of great movies, but this '60s thriller streaming on HBO Max might just be his magnum opus.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Devin Meenan)",
+      "date": "2026-11-11T01:45:00+00:00",
+      "link": "https://www.slashfilm.com/2308389/high-and-low-akira-kurosawa-60s-japanese-thriller-streaming-hbo-max/",
+      "image": "https://www.slashfilm.com/img/gallery/this-60s-japanese-thriller-is-one-of-the-best-movies-streaming-on-hbo-max/l-intro-1793907667.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "5a6c531090d5a58a",
+      "title": "Amanda Seyfried Says ‘You Can See Everything’ Role “Scares” Her, “Feels Good” Taking On Doc",
+      "quote": "While reprising one of her most talked about roles, Amanda Seyfried conquered some artistic fears. The You Can See Everything star, who appears in the A24 doc after her Emmy and Golden Globe-winning performance as its…",
+      "publisher": "Deadline",
+      "author": "Glenn Garner",
+      "date": "2026-11-11T01:21:18+00:00",
+      "link": "https://deadline.com/2026/11/amanda-seyfried-you-can-see-everything-role-scares-her-1237219685/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/MCDYOCA-EC126-TCDDROP-HY040-1000.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "8eb543898b919319",
+      "title": "Stacy Keach Dies: ‘Mike Hammer’ Star, Film & Stage Actor Was 85",
+      "quote": "Stacy Keach, the prolific actor who starred on TV’s Mike Hammer and Titus and recurred on Blue Bloods after establishing himself as a stage and film actor, died Monday. He was 85. His wife, Małgosia Tomassi, said he…",
+      "publisher": "Deadline",
+      "author": "Patrick Hipes",
+      "date": "2026-11-11T00:50:43+00:00",
+      "link": "https://deadline.com/2026/11/stacy-keach-dead-mike-hammer-1237219619/",
+      "image": "https://deadline.com/wp-content/uploads/2023/02/GettyImages-958792280.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "649fae75dd4a7dcf",
+      "title": "WayOut Names 2026 Impact In Entertainment Award Winners",
+      "quote": "The wayOUT Gayla honors have named Michael Feinstein, Michael Urie, Raven-Symoné, and Dan Bucatinsky as the recipients of their 2026 Impact in Entertainment Awards. The four will be be presented at the nonprofit’s…",
+      "publisher": "Deadline",
+      "author": "Anthonypauldalessandro",
+      "date": "2026-11-11T00:45:00+00:00",
+      "link": "https://deadline.com/2026/11/wayout-2026-impact-entertainment-awards-1237219918/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/Michael-Feinstein-Michael-Urie-Raven-Symone-and-Dan-Bucatinsky.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "cf2fad01273c24fc",
+      "title": "Oscar Winner David Dinerstein Boards ‘Room Of The Absolute’ As EP; Award-Winning Doc Creates Portrait Of Ukrainian Artist Alla Hurenko",
+      "quote": "EXCLUSIVE: Academy Award winner David Dinerstein has signed on to executive produce Room of the Absolute as the award-winning short documentary ramps up its Oscar campaign. The film directed by Natalie Shirinian and…",
+      "publisher": "Deadline",
+      "author": "Matthew Carey",
+      "date": "2026-11-11T00:36:23+00:00",
+      "link": "https://deadline.com/2026/11/room-of-the-absolute-david-dinerstein-ep-1237219590/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/Alla-Hurenko-Room-of-the-Absolute.png",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "41c8402b744134b0",
+      "title": "Alexander Skarsgard And Olivia Colman's Romantic Fantasy Movie Is A Sleeper Box Office Hit",
+      "quote": "Wicker, the romantic fantasy comedy starring Alexander Skarsgård and Olivia Colman, has become the type of sleeper box office hit that Hollywood really needs.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Ryan Scott)",
+      "date": "2026-11-11T00:00:00+00:00",
+      "link": "https://www.slashfilm.com/2312600/alexander-skarsgard-olivia-colman-romantic-fantasy-movie-wicker-box-office/",
+      "image": "https://www.slashfilm.com/img/gallery/alexander-skarsgard-and-olivia-colmans-romantic-fantasy-movie-is-a-sleeper-box-office-hit/l-intro-1794340819.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "c1183a097b7415d6",
@@ -53,83 +207,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "469c521108c4364c",
-      "title": "Leah McKendrick To Follow ‘Voicemails For Isabelle’ With “Ferociously Female” Thriller ‘Delulu’ Starring Maddie Ziegler; XYZ & Temple Hill Produce — AFM",
-      "quote": "EXCLUSIVE: Here’s a buzzy one. Leah McKendrick, fresh off her Netflix smash Voicemails For Isabelle, is next set to direct thriller Delulu, in which she’ll also star alongside Pretty Lethal and West Side Story star…",
-      "publisher": "Deadline",
-      "author": "Andreas Wiseman",
-      "date": "2026-11-10T22:30:58+00:00",
-      "link": "https://deadline.com/2026/11/leah-mckendrick-and-maddie-ziegler-star-in-delulu-thriller-1237219314/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/Leah-Mckendricks-Next-Film-Starring-Maddie-Ziegler.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "07b905148ae0b5d8",
-      "title": "‘Tangles’ Cast Members Seth Rogen, Julia Louis-Dreyfus & Bryan Cranston On Animated Film’s Rare Back Story",
-      "quote": "An animated film takes time to make. An animated film based on a funny-but-deeply-moving graphic memoir about a family’s experience with early-onset Alzheimer’s disease can take a bit longer. Lauren Miller Rogen, wife…",
-      "publisher": "Deadline",
-      "author": "Dade Hayes",
-      "date": "2026-11-10T22:25:22+00:00",
-      "link": "https://deadline.com/2026/11/tangles-movie-seth-rogen-julia-louis-dreyfus-bryan-cranston-1237218873/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/Tangles.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "c24647476a2e39f8",
-      "title": "Veteran Talent Agent Sasha Passero Leaving IAG",
-      "quote": "Sacha Passero is departing IAG after almost 12 years at the talent agency and its predecessor APA. Passero’s contract has come to an end and was not renewed. A talent agent based in New York, Passero joined APA from…",
-      "publisher": "Deadline",
-      "author": "Nellie Andreeva",
-      "date": "2026-11-10T22:24:14+00:00",
-      "link": "https://deadline.com/2026/11/sasha-passero-leaving-iag-1237219137/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/Sasha-passero.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "a50ee2b6c70179fa",
-      "title": "‘Chucky’ Creator Don Mancini Signs With Independent Artist Group",
-      "quote": "EXCLUSIVE: Don Mancini, the writer, director and producer best known as the creative force behind the iconic Chucky horror franchise, has signed with Independent Artist Group for representation. Mancini introduced…",
-      "publisher": "Deadline",
-      "author": "Matthewgrobar",
-      "date": "2026-11-10T22:18:33+00:00",
-      "link": "https://deadline.com/2026/11/don-mancini-chucky-signs-independent-artist-group-1237219392/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/Outlook-cvz5dw1m.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "e88ae68634a2267a",
-      "title": "Frank Whaley Signs With Artium Talent",
-      "quote": "EXCLUSIVE: Frank Whaley has signed with Artium Talent for theatrical representation. Since his debut opposite Meryl Streep and Jack Nicholson in the 1987 film Ironweed, Whaley has built a career spanning more than 80…",
-      "publisher": "Deadline",
-      "author": "Rosy Cordero",
-      "date": "2026-11-10T22:18:33+00:00",
-      "link": "https://deadline.com/2026/11/frank-whaley-artium-talent-agency-1237219358/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/Frank-Whaley.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "b0eda1197c0950a9",
-      "title": "Lisa Edelstein, Kevin Pollak & Joe Swanberg Among New Additions To SM Goldberger’s ‘Your Heart Is A Hummingbird’",
-      "quote": "EXCLUSIVE: Your Heart is a Hummingbird, former adult film actress SM Goldberger’s semi-autobiographical indie drama starring Chloë Levine, has added six to its cast. The new additions are Lisa Edelstein (Long Story…",
-      "publisher": "Deadline",
-      "author": "Matthewgrobar",
-      "date": "2026-11-10T22:09:54+00:00",
-      "link": "https://deadline.com/2026/11/your-heart-is-a-hummingbird-movie-cast-adds-six-1237219385/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/Lisa-Edelstein-Kevin-Pollak-Arye-Gross-Sylvia-Kuhar-Mila-Brener-and-Joe-Swanberg.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "76e5198a803be885",
-      "title": "‘Harry Potter’s Paapa Essiedu Doesn’t Want To Discuss J.K. Rowling “At All,” Insists He’s “Super Clear” About Trans Support",
-      "quote": "As the Christmas clock counts down to HBO’s Harry Potter premiere, Paapa Essiedu is once again making his support for trans people clear. The actor, who stars as Severus Snape in the series adaptation that premieres…",
-      "publisher": "Deadline",
-      "author": "Glenn Garner",
-      "date": "2026-11-10T22:04:09+00:00",
-      "link": "https://deadline.com/2026/11/harry-potter-paapa-essiedu-jk-rowling-super-clear-trans-support-1237219357/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/paapa-essiedu.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "d0b611d276d456a0",
       "title": "The Cat In The Hat Is Another Box Office Flop Warner Bros. Can't Afford",
       "quote": "Warner Bros. continues to struggle at the box office in 2026. The animated Cat in the Hat film flopped in its opening weekend.",
@@ -138,17 +215,6 @@
       "date": "2026-11-10T22:00:00+00:00",
       "link": "https://www.slashfilm.com/2312346/the-cat-in-the-hat-box-office-flop-warner-bros/",
       "image": "https://www.slashfilm.com/img/gallery/the-cat-in-the-hat-is-another-box-office-flop-warner-bros-cant-afford/l-intro-1794334111.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "21913f2dd7c27157",
-      "title": "DC Studios Boss Jeremy Latcham Wants More Family-Friendly Movies In Hollywood",
-      "quote": "Jeremy Latcham, who is taking over as the new head of DC Studios, is on the record as wanting more family-friendly movies to be made in Hollywood.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-11-10T21:41:06+00:00",
-      "link": "https://www.slashfilm.com/2312830/dc-studios-jeremy-latcham-family-friendly-movies-hollywood/",
-      "image": "https://www.slashfilm.com/img/gallery/dc-studios-boss-jeremy-latcham-wants-more-family-friendly-movies-in-hollywood/l-intro-1794346759.jpg",
       "category": "Indie Gems"
     },
     {
@@ -196,28 +262,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "dadb53a3f93b9bc5",
-      "title": "The Rings Of Power Season 3 Review: Prime Video's Lord Of The Rings Series Still Falls Short",
-      "quote": "The Lord of the Rings: The Rings of Power Season 3 has some incredibly high highs and several frustrating lows. Here's our review.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Jeremy Mathai)",
-      "date": "2026-11-10T20:01:00+00:00",
-      "link": "https://www.slashfilm.com/2312150/the-lord-of-the-rings-the-rings-of-power-season-3-review-prime-video/",
-      "image": "https://www.slashfilm.com/img/gallery/the-rings-of-power-season-3-review-prime-videos-lord-of-the-rings-series-still-falls-short/l-intro-1794325861.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "9afa5699e8034385",
-      "title": "The Big Bang Theory's Downfall Can Be Traced Back To One Moment",
-      "quote": "The Big Bang Theory just didn't have the same sizzle in its last few seasons, and its downfall can be traced to one particular episode.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Nina Starner)",
-      "date": "2026-11-10T20:00:00+00:00",
-      "link": "https://www.slashfilm.com/2310354/the-big-bang-theory-downfall-moment/",
-      "image": "https://www.slashfilm.com/img/gallery/the-big-bang-theorys-downfall-can-be-traced-back-to-one-moment/l-intro-1794183109.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "b49cc3ba86fb9647",
       "title": "Amanda Seyfried \"relieved,\" \"excited\" to finally talk about everything",
       "quote": "On the red carpet for her new Netflix fairy tale, Amanda Seyfried opened up about letting the cat out of the bag and the importance of taking risks.",
@@ -226,28 +270,6 @@
       "date": "2026-11-10T19:22:46+00:00",
       "link": "https://www.avclub.com/amanda-seyfried-releived-excited-movie-is-finally-out",
       "image": "https://www.avclub.com/wp-content/uploads/2026/10/22/amanda-seyfried-the-housemaid-01-featured.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "2aa6a5274374a0b5",
-      "title": "Who Is Jeremy Latcham? Everything We Know About The New Head Of DC Studios",
-      "quote": "Jeremy Latcham is a former Marvel Studios producer who's taking over for James Gunn and Peter Safran at DC Studios. Here's what else we know about him.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Jeremy Smith)",
-      "date": "2026-11-10T19:17:03+00:00",
-      "link": "https://www.slashfilm.com/2312484/jeremy-latcham-dc-studios-head-explained/",
-      "image": "https://www.slashfilm.com/img/gallery/who-is-jeremy-latcham-everything-we-know-about-the-new-head-of-dc-studios/l-intro-1794337845.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "fa8222306edfe89f",
-      "title": "DC Studios' Biggest Superhero Movie Priorities After James Gunn's Exit, Explained",
-      "quote": "With James Gunn and Peter Safran leaving, these are the superheroes the new DC Studios is likely to prioritize moving forward.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Devin Meenan)",
-      "date": "2026-11-10T19:16:11+00:00",
-      "link": "https://www.slashfilm.com/2312481/dc-studios-superhero-movie-priorities-james-gunn-exit-explained/",
-      "image": "https://www.slashfilm.com/img/gallery/dc-studios-biggest-superhero-movie-priorities-after-james-gunns-exit-explained/l-intro-1794337482.jpg",
       "category": "Indie Gems"
     },
     {
@@ -313,7 +335,7 @@
       "author": null,
       "date": "2026-11-10T14:51:06+00:00",
       "link": "https://www.thehindu.com/entertainment/movies/black-doves-season-2-review-keira-knightley-ben-whishaw-spy-thriller-netflix-swings-between-gore-grit-and-giggles/article71685412.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/2udb4v/article71686851.ece/alternates/LANDSCAPE_1200/Black%20Doves%20Season%202.jpeg",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/gkownx/article71686851.ece/alternates/LANDSCAPE_1200/Black%20Doves%20Season%202.jpeg",
       "category": "Indian Cinema"
     },
     {
@@ -449,17 +471,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "9d26f536a2a2e1b8",
-      "title": "Austen again? Make it worth our while",
-      "quote": "Another Sense and Sensibility must prove it has more to say than its predecessors",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-11-09T14:46:31+00:00",
-      "link": "https://www.thehindu.com/entertainment/jane-austen-adaptations-column/article71631268.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/d6q33k/article71637868.ece/alternates/LANDSCAPE_1200/MAIN%20BIG%20STILL%20sense-and-sensibility-2026.jpg",
-      "category": "Indian Cinema"
-    },
-    {
       "id": "c4a2d60db9cec420",
       "title": "In Waves",
       "quote": "What gives “In Waves” its weight is a restrained animation style that anchors the film's emotional center.",
@@ -491,17 +502,6 @@
       "link": "https://www.theguardian.com/film/2026/nov/09/a-fox-under-a-pink-moon-review-iran-refugee",
       "image": "https://i.guim.co.uk/img/media/21a3e8e4703c4e13be27a665443f93f0aecb3ece/144_71_1184_947/master/1184.jpg?width=140&quality=85&auto=format&fit=max&s=483bdfb817cf6bd7f3a2af88052abace",
       "category": "World Cinema"
-    },
-    {
-      "id": "ad9f45277a3a3dac",
-      "title": "‘Bass X Machina’ series review: Exhilarating genre mash-up rides out boldly",
-      "quote": "This steampunk supernatural western presents imaginative visuals and a poignant story while asking tough questions about race and exploitation that are as current today as they were in the Wild West",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-11-09T08:34:13+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/bass-x-machina-series-review-exhilarating-genre-mash-up-rides-out-boldly/article71680848.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/2m0yyd/article71681939.ece/alternates/LANDSCAPE_1200/MV5BNzc5NmRhNDMtYTBhMS00Yjg3LTllMmQtYjc1MzkwNGYwZDEyXkEyXkFqcGc._V1_.jpg",
-      "category": "Indian Cinema"
     },
     {
       "id": "5ec821929df2997e",
