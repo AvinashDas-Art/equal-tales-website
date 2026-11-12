@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T14:58:09.448511+00:00",
+  "generated_at": "2026-11-12T23:26:50.069919+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -20,15 +20,301 @@
       "category": "World Cinema"
     },
     {
-      "id": "dabfc6227fa57b11",
-      "title": "‘The Thomas Crown Affair’ Trailer: Michael B. Jordan Goes Globetrotting In Amazon MGM Remake Of Classic Thriller",
-      "quote": "UPDATE — Nov 12, 06:54 am PST: Amazon MGM has shared another full trailer for Michael B. Jordan’s Thomas Crown Affair remake. Check it out above. PREVIOUS STORY — July 29, 2026 6:25 am PST: “That’s a baby of mine that…",
+      "id": "fbb84b9a92ab4970",
+      "title": "Microsoft Outlook Goes Down In 365 Outage, Paralyzing Business Communication",
+      "quote": "UPDATED with latest company comments. Microsoft is continuing to investigate widespread outages affecting Outlook email and other services offered through its 365 platform. The tech giant issued a string of social media…",
       "publisher": "Deadline",
-      "author": "Tomt",
-      "date": "2026-11-12T14:57:42+00:00",
-      "link": "https://deadline.com/2026/11/thomas-crown-affair-trailer-michael-b-jordan-1237006350/",
-      "image": "https://deadline.com/wp-content/uploads/2024/09/Michael-B-Jordan.jpg",
+      "author": "Dade Hayes",
+      "date": "2026-11-12T23:20:00+00:00",
+      "link": "https://deadline.com/2026/11/microsoft-outlook-is-down-email-365-1237221945/",
+      "image": "https://deadline.com/wp-content/uploads/2024/11/Microsoft-Exchange-Outlook-Microsoft-365.jpg",
       "category": "World Cinema"
+    },
+    {
+      "id": "8bd4b7b3092b024f",
+      "title": "Chris Colfer In “Conversation” About ‘Glee’ Reboot, Jokes He’ll Return If Mr. Schue & Sue Perform “WAP”",
+      "quote": "As the Glee-boot takes shape, one of the New Directions is considering an encore performance as his beloved character. Chris Colfer, who earned a Golden Globe for his performance as Kurt Hummel on the Fox series, teased…",
+      "publisher": "Deadline",
+      "author": "Glenn Garner",
+      "date": "2026-11-12T23:06:17+00:00",
+      "link": "https://deadline.com/2026/11/chris-colfer-conversation-glee-reboot-1237222143/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/Glee.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "0e0bb51aa3794561",
+      "title": "Range Media Partners Signs Filmmaker Dexter Fletcher",
+      "quote": "EXCLUSIVE: Range has signed Dexter Fletcher, the BAFTA-nominated English film director and actor, for representation. These days, Fletcher is best known for his work behind the camera. This has included being called in…",
+      "publisher": "Deadline",
+      "author": "Matthewgrobar",
+      "date": "2026-11-12T23:00:00+00:00",
+      "link": "https://deadline.com/2026/11/dexter-fletcher-signs-range-media-partners-1237219391/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/Dexter-Fletcher.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "90a5d1eb1db2b146",
+      "title": "Michael John Roberts Dies: ‘TripTank’, ‘BoJack Horseman’ Animator, Director & Producer Was 48",
+      "quote": "Michael John Roberts, an animator and director of such series as Comedy Central’s TripTank and Netflix’s BoJack Horseman, died of glioblastoma Wednesday, November 11, in Los Angeles. He was 48. His death was announced…",
+      "publisher": "Deadline",
+      "author": "Greg Evans",
+      "date": "2026-11-12T22:18:11+00:00",
+      "link": "https://deadline.com/2026/11/michael-john-roberts-dead-1237222107/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/Michael-Roberts-e1794518806291.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "ba5676d801b23d6d",
+      "title": "‘Avatar: Seven Havens’ Sets Book 2 Release Date At Paramount+",
+      "quote": "Paramount+ has set a spring release date for Avatar: Seven Havens Book 2. The 13-episode sophomore season premieres globally on the streamer on Friday, May 21, rolling out weekly with Episodes 1-3 on May 21, 4-6 on May…",
+      "publisher": "Deadline",
+      "author": "Denise Petski",
+      "date": "2026-11-12T22:15:00+00:00",
+      "link": "https://deadline.com/2026/11/avatar-seven-havens-book-2-release-date-paramount-plus-1237221752/",
+      "image": "https://deadline.com/wp-content/uploads/2026/07/Screenshot-2026-07-23-at-1.26.17-PM.png",
+      "category": "World Cinema"
+    },
+    {
+      "id": "a3cc22b6ff018927",
+      "title": "NBC News Now To End West Coast-Based Primetime Show ‘Stay Tuned’",
+      "quote": "NBC News Now has dropped its primetime show Stay Tuned, one of the few network shows to originate from Los Angeles. Gadi Schwartz, anchor of the 8 p.m. ET streaming series, will remain with the network, according to a…",
+      "publisher": "Deadline",
+      "author": "Ted Johnson",
+      "date": "2026-11-12T21:11:42+00:00",
+      "link": "https://deadline.com/2026/11/nbc-news-now-cancels-stay-tuned-gadi-schwartz-1237222077/",
+      "image": "https://deadline.com/wp-content/uploads/2023/01/Gadi-NNN.jpeg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "b5fded8cb6bbfd9a",
+      "title": "‘The Body’ Creators Address Show’s “Unexplained Mysteries”, Tease Season 2 Hopes",
+      "quote": "SPOILER ALERT: This post contains spoilers for The Body now streaming on Netflix. Though Netflix’s new YA horror series The Body thrives on mass hysteria, or “group think” as creator Quinn Shephard calls it, Shephard…",
+      "publisher": "Deadline",
+      "author": "Dessi Gomez",
+      "date": "2026-11-12T21:00:00+00:00",
+      "link": "https://deadline.com/2026/11/the-body-ending-explained-by-creators-season-2-hopes-1237221976/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/The_Body_n_S1_E4_00_08_15_07RC.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "ec5ac339d3cf93c1",
+      "title": "‘The Two Popes’ Producer Mark Bauch Launches Film & TV Company One Day’s Walk",
+      "quote": "EXCLUSIVE: Producer Mark Bauch is opening the doors to One Day’s Walk, a film and television production company dedicated to championing visionary filmmakers, bold original storytelling and entertainment with substance…",
+      "publisher": "Deadline",
+      "author": "Anthonypauldalessandro",
+      "date": "2026-11-12T20:52:53+00:00",
+      "link": "https://deadline.com/2026/11/mark-bauch-one-days-walk-1237222061/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/Mark-Bauch.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "85955282a14bf245",
+      "title": "Henry Cavill doesn't dismiss out of hand the possibility of reprising Superman",
+      "quote": "Henry Cavill said \"never say never\" when asked about the odds of him ever returning as Superman.",
+      "publisher": "The A.V. Club",
+      "author": "Olivia Singh",
+      "date": "2026-11-12T20:45:50+00:00",
+      "link": "https://www.avclub.com/henry-cavill-superman-never-say-never",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/11/12/black-adam-henry-cavill-superman-featured.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "d8acc730f24bcfa3",
+      "title": "Palestinian surgeon featured in American Doctor documentary killed in Israeli airstrikes",
+      "quote": "Two surgeons from American Doctor was caught in Israel's latest strikes on Nasser Medical Complex. One was killed; another was injured.",
+      "publisher": "The A.V. Club",
+      "author": "Matt Schimkowitz",
+      "date": "2026-11-12T20:40:30+00:00",
+      "link": "https://www.avclub.com/surgeon-featured-american-doctor-documentary-killed-in-airstrike",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/11/12/AmericanDoctor_Exterior2_CourtesyOfWatermelonPictures.jpeg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "2f3c920dd9293326",
+      "title": "Marvel Officially Confirms Whether RDJ's Doctor Doom Is A Tony Stark Variant",
+      "quote": "When it was revealed that Robert Downey Jr. would be playing Doctor Doom, fans wondered if the character was going to be a Tony Stark variant. So...is he?",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Joe Roberts)",
+      "date": "2026-11-12T20:01:57+00:00",
+      "link": "https://www.slashfilm.com/2315324/robert-downey-jr-doctor-doom-not-tony-stark-variant-marvel/",
+      "image": "https://www.slashfilm.com/img/gallery/marvel-officially-confirms-whether-rdjs-doctor-doom-is-a-tony-stark-variant/l-intro-1794513031.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "f6814952aae3badd",
+      "title": "The Lord Of The Rings: The Rings Of Power Season 3: The Secret Fire Explained",
+      "quote": "The Lord of the Rings: The Rings of Power Season 3 has revealed a deep cut Tolkien concept known as the Secret Fire. But what is it?",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Rafael Motamayor)",
+      "date": "2026-11-12T19:35:40+00:00",
+      "link": "https://www.slashfilm.com/2315290/the-lord-of-the-rings-the-ring-f-power-season-3-secret-fire-explained/",
+      "image": "https://www.slashfilm.com/img/gallery/the-lord-of-the-rings-the-rings-of-power-season-3-the-secret-fire-explained/l-intro-1794511988.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "09bb4f2344c2b2b8",
+      "title": "Letterkenny is hitting the road",
+      "quote": "The cast of Canada's pride and joy is reuniting for a month of Letterkenny live shows.",
+      "publisher": "The A.V. Club",
+      "author": "Matt Schimkowitz",
+      "date": "2026-11-12T19:30:29+00:00",
+      "link": "https://www.avclub.com/letterkenny-announces-tour-dates-2027",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/11/12/letterkenny-feature.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "3b911569fcb2bfb6",
+      "title": "The WGA grants Ryan Reynolds and Hugh Jackman writing credit on Avengers: Doomsday",
+      "quote": "If you check the Writers Guild Of America webpage for <i>Avengers: Doomsday</i>, you may notice Hugh Jackman and Ryan Reynolds' names among the many, many writers listed in the film's Additional Literary Material…",
+      "publisher": "The A.V. Club",
+      "author": "Jarrod Jones",
+      "date": "2026-11-12T19:09:24+00:00",
+      "link": "https://www.avclub.com/ryan-reynolds-hugh-jackman-avengers-doomsday-writing-credit",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2024/11/30172254/deadpool-wolvy-feature.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "b5ac0aee682272e5",
+      "title": "Ron Howard finally embraces a subject’s complexities with his Richard Avedon documentary",
+      "quote": "Ron Howard unpacks the artistic and political legacy of Richard Avedon without smoothing anything out, for once.",
+      "publisher": "The A.V. Club",
+      "author": "Monica Castillo",
+      "date": "2026-11-12T19:00:10+00:00",
+      "link": "https://www.avclub.com/avedon-documentary-netflix-ron-howard-politics-photographer",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/11/11/avedon-header.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "948929b17e1f7ca0",
+      "title": "R.I.P. Anthony Clark, Yes, Dear star",
+      "quote": "Anthony Clark, star of Yes, Dear and stand-up comedian, died on November 10. He was 62.",
+      "publisher": "The A.V. Club",
+      "author": "Matt Schimkowitz",
+      "date": "2026-11-12T18:41:55+00:00",
+      "link": "https://www.avclub.com/anthony-clark-obituary-yes-dear",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/11/12/anthony-clark-feature.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "2caa9a0cd95b17cc",
+      "title": "James Gunn And Peter Safran's DC Studios Exit Was Driven In Part By Cost-Cutting (Report)",
+      "quote": "It seems James Gunn and Peter Safran's DC Studios exit had even more to do with cost-cutting measures and the state of WB's film division than we thought.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Joe Roberts)",
+      "date": "2026-11-12T18:27:38+00:00",
+      "link": "https://www.slashfilm.com/2315167/james-gunn-peter-safran-dc-studios-exit-cost-cutting/",
+      "image": "https://www.slashfilm.com/img/gallery/james-gunn-and-peter-safrans-dc-studios-exit-was-driven-in-part-by-cost-cutting-report/l-intro-1794507857.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "030a7dcd27b3e6fe",
+      "title": "Scarlett Johansson has called out studio execs over \"irresponsible\" offers",
+      "quote": "Scarlett Johansson said she sometimes pushes back on projects she thinks are misguided and shouldn't be made.",
+      "publisher": "The A.V. Club",
+      "author": "Olivia Singh",
+      "date": "2026-11-12T18:23:47+00:00",
+      "link": "https://www.avclub.com/scarlett-johansson-irresponsible-studio-movie-offers",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/11/12/scarlett-johansson-today-show-featured.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "9a2ce907ba35e618",
+      "title": "Trump's Kennedy Center is reportedly getting into bed with Ticketmaster",
+      "quote": "A delay in ticket access for this year's Kennedy Center Honors reportedly stems from negotiations to switch ticketing platforms to Ticketmaster, according to a recent NPR report.",
+      "publisher": "The A.V. Club",
+      "author": "Jarrod Jones",
+      "date": "2026-11-12T18:09:03+00:00",
+      "link": "https://www.avclub.com/kennedy-center-ticketmaster-negotiations",
+      "image": "https://img.pastemagazine.com/wp-content/avuploads/2025/12/31134309/kennedy-center-feaature.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "602c3f70f15cef30",
+      "title": "Ebenezer review – Johnny Depp’s Scrooge tries to exorcise ghosts of business past",
+      "quote": "The latest film version of the Dickens classic A Christmas Carol is decent enough, though its star is rather better as the legendary miser before redemption arrives Here for lovers of Dickens – and fans of subtext – is…",
+      "publisher": "The Guardian",
+      "author": "Peter Bradshaw",
+      "date": "2026-11-12T17:14:58+00:00",
+      "link": "https://www.theguardian.com/film/2026/nov/12/ebenezer-review-johnny-depp-scrooge-dickens",
+      "image": "https://i.guim.co.uk/img/media/3469927fefcac2dcf0c7e9e0fc56bb606ad79688/301_0_3598_2878/master/3598.jpg?width=140&quality=85&auto=format&fit=max&s=72628dc308735a3e21246398287113c5",
+      "category": "World Cinema"
+    },
+    {
+      "id": "70ac099cb7c21134",
+      "title": "Mani Ratnam, Anurag Kashyap to interact with the auteur at Girish Kasaravalli Film Festival",
+      "quote": "",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-11-12T17:07:10+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/mani-ratnam-anurag-kashyap-to-interact-with-the-auteur-at-girish-kasaravalli-film-festival/article71693786.ece",
+      "image": "https://th-i.thgim.com/public/incoming/oi86lr/article71695066.ece/alternates/LANDSCAPE_1200/_JAI0552.jpeg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "3d8e26e5745d5d82",
+      "title": "‘Ebenezer’ Review: Johnny Depp Gets a Creepily Effective Comeback Vehicle in Ti West’s Horror-Tinged Take on Dickens’ Yuletide Classic",
+      "quote": "The film's supporting cast includes Ian McKellen, Daisy Ridley, Andrea Riseborough, Sam Claflin, Tramell Tillman and Rupert Grint.",
+      "publisher": "The Hollywood Reporter",
+      "author": "Frank Scheck",
+      "date": "2026-11-12T17:00:00+00:00",
+      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/ebenezer-review-johnny-depp-ti-west-christmas-carol-1236751830/",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "ce5efb0b2967a751",
+      "title": "Ebenezer",
+      "quote": "That it’s good enough to take seriously makes Depp’s presence even more annoying.",
+      "publisher": "RogerEbert.com",
+      "author": "Matt Zoller Seitz",
+      "date": "2026-11-12T17:00:00+00:00",
+      "link": "https://www.rogerebert.com/reviews/ebenezer-scrooge-johnny-depp-film-review-2026",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "ece0b9974c245996",
+      "title": "Ebenezer Review: Johnny Depp Neither Helps Nor Hurts This Passionless Retelling",
+      "quote": "Ebenezer ends up being just another uninspired adaptation of A Christmas Carol, with a surprisingly muted Johnny Depp performance. Here's our review.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Bill Bria)",
+      "date": "2026-11-12T17:00:00+00:00",
+      "link": "https://www.slashfilm.com/2314564/ebenezer-review-johnny-depp-a-christmas-carol-movie/",
+      "image": "https://www.slashfilm.com/img/gallery/ebenezer-review-johnny-depp-neither-helps-nor-hurts-this-passionless-retelling/l-intro-1794489054.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "ec9383d7f42921b2",
+      "title": "‘Goats are good. They listen’: the herder who defeated Montenegro’s military – and can identify her cows’ herby burps",
+      "quote": "To Hold a Mountain tells the incredible story of a woman whose way of life was threatened when she heard her pastures were set to become a Nato training zone The star of To Hold a Mountain is having trouble with her…",
+      "publisher": "The Guardian",
+      "author": "Patrick Barkham",
+      "date": "2026-11-12T16:14:17+00:00",
+      "link": "https://www.theguardian.com/film/2026/nov/12/to-hold-a-mountain-film-mileva-gara-jovanovic",
+      "image": "https://i.guim.co.uk/img/media/4d3c6855b73200a5c030617c09edf2f1446d35b1/86_135_1152_922/master/1152.jpg?width=140&quality=85&auto=format&fit=max&s=6f0eec8a5e76fa6e230c9c1c46377ff1",
+      "category": "World Cinema"
+    },
+    {
+      "id": "8851bf5f82800fac",
+      "title": "Why The Lord Of The Rings: The Rings Of Power Season 3 Feels Like A Reboot [Exclusive]",
+      "quote": "If you think The Rings of Power Season 3 feels like a complete reset, that's all part of the plan, as explained by series co-showrunner Patrick McKay.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Jeremy Mathai)",
+      "date": "2026-11-12T16:00:00+00:00",
+      "link": "https://www.slashfilm.com/2314477/why-the-lord-of-the-ring-the-rings-of-power-season-3-feels-like-reboot/",
+      "image": "https://www.slashfilm.com/img/gallery/why-the-lord-of-the-rings-the-rings-of-power-season-3-feels-like-a-reboot-exclusive/l-intro-1794470429.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "475160dd28189c7d",
+      "title": "The Hunger Games: Sunrise On The Reaping Will Be A Bigger Box Office Hit Than You Realize",
+      "quote": "Unlike the previous Hunger Games prequel film, Sunrise on the Reaping looks to exceed expectations when it opens at the box office.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Ryan Scott)",
+      "date": "2026-11-12T16:00:00+00:00",
+      "link": "https://www.slashfilm.com/2313974/the-hunger-games-sunrise-on-the-reaping-box-office-preview/",
+      "image": "https://www.slashfilm.com/img/gallery/the-hunger-games-sunrise-on-the-reaping-will-be-a-bigger-box-office-hit-than-you-realize/l-intro-1794422701.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "ec183c07cfba217f",
@@ -36,87 +322,54 @@
       "quote": "",
       "publisher": "The Hindu",
       "author": null,
-      "date": "2026-11-12T14:35:17+00:00",
+      "date": "2026-11-12T15:49:13+00:00",
       "link": "https://www.thehindu.com/entertainment/movies/bouma-movie-review-despite-familiar-settings-an-engaging-gothic-horror-until-the-final-fumble/article71694345.ece",
-      "image": "https://th-i.thgim.com/public/news/national/kerala/wwyhwy/article71694340.ece/alternates/LANDSCAPE_1200/bouma2.jpg",
+      "image": "https://th-i.thgim.com/public/news/national/kerala/r0e1p7/article71694340.ece/alternates/LANDSCAPE_1200/bouma2.jpg",
       "category": "Indian Cinema"
     },
     {
-      "id": "fc9f630cceb37c1b",
-      "title": "Aura Entertainment Takes U.S. Rights To Louis L’Amour Adaptation ‘Flint’ Starring Josh Holloway — AFM",
-      "quote": "EXCLUSIVE: Aura Entertainment has acquired U.S. rights to Flint, the Western written and directed by Ryan Whitaker (Surprised by Oxford) and based on the novel by Louis L’Amour. The film stars Josh Holloway…",
-      "publisher": "Deadline",
-      "author": "Andreas Wiseman",
-      "date": "2026-11-12T14:30:00+00:00",
-      "link": "https://deadline.com/2026/11/josh-holloway-western-flint-us-deal-aura-entertainment-1237221507/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/Flint.jpg",
+      "id": "e451b6178585300c",
+      "title": "I Play Rocky",
+      "quote": "Farrelly and his team land their punches in remarkably crowd-pleasing ways.",
+      "publisher": "RogerEbert.com",
+      "author": "Brian Tallerico",
+      "date": "2026-11-12T15:36:06+00:00",
+      "link": "https://www.rogerebert.com/reviews/i-play-rocky-peter-farrelly-movie-review-2026",
+      "image": null,
       "category": "World Cinema"
     },
     {
-      "id": "21f83436a445b535",
-      "title": "BBC Boss Challenged By Staff Over Culture Of “Reverence” Towards Powerful Stars",
-      "quote": "EXCLUSIVE: BBC director-general Matt Brittin has argued that the entertainment business is lagging behind other industries in tackling workplace power abuses amid the Russell Brand and David Walliams scandals. During an…",
-      "publisher": "Deadline",
-      "author": "Jake Kanter",
-      "date": "2026-11-12T14:19:46+00:00",
-      "link": "https://deadline.com/2026/11/bbc-boss-tv-behind-others-russell-brand-david-walliams-1237221517/",
-      "image": "https://deadline.com/wp-content/uploads/2026/10/GettyImages-2276302019-copy-e1792832474395.jpg",
+      "id": "c532d2ea626fbf7d",
+      "title": "Bitter Christmas",
+      "quote": "In leaning so hard into self-critique, Almodóvar sometimes forgets to include the element that makes his best films so invigorating to watch: A sense of passion.",
+      "publisher": "RogerEbert.com",
+      "author": "Clint Worthington",
+      "date": "2026-11-12T15:35:09+00:00",
+      "link": "https://www.rogerebert.com/reviews/bitter-christmas-pedro-almodovar-film-review-2026",
+      "image": null,
       "category": "World Cinema"
     },
     {
-      "id": "dc495c22cc481c28",
-      "title": "Steve Carell & John C. Reilly To Star In ‘The Odd Couple’ Broadway Revival This Spring",
-      "quote": "Steve Carell and John C. Reilly will star in a new Broadway production of Neil Simon’s The Odd Couple, with Hamilton director Thomas Kail on board. The production begins a 15-week limited engagement on March 3, 2027, at…",
-      "publisher": "Deadline",
-      "author": "Greg Evans",
-      "date": "2026-11-12T14:16:47+00:00",
-      "link": "https://deadline.com/2026/11/the-odd-couple-broadway-steve-carell-john-c-reilly-1237221526/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/odd-e1794492216573.jpg",
+      "id": "2c753164355bd50a",
+      "title": "Victorian Psycho",
+      "quote": "“Victorian Psycho” is fun enough if you don’t think much about how much more fun it should be.",
+      "publisher": "RogerEbert.com",
+      "author": "Brian Tallerico",
+      "date": "2026-11-12T15:34:22+00:00",
+      "link": "https://www.rogerebert.com/reviews/victorian-psycho-maika-monroe-movie-review-2026",
+      "image": null,
       "category": "World Cinema"
     },
     {
-      "id": "9862709344ceb34a",
-      "title": "‘Star Wars: Episode IV – A New Hope’ To Play At Cosm As Disney Teams With Shared Reality Firm",
-      "quote": "A new version of Star Wars: Episode IV – A New Hope will debut at Cosm’s shared reality venues in March 2027, the franchise kickoff’s 50th anniversary year. The engagement will kick off a multi-year, multi-film…",
-      "publisher": "Deadline",
-      "author": "Dade Hayes",
-      "date": "2026-11-12T14:16:42+00:00",
-      "link": "https://deadline.com/2026/11/star-wars-episode-iv-a-new-hope-cosm-disney-deal-1237220797/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/Star-Wars-Cosm-Disney.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "255c0dec5a682b02",
-      "title": "Jensen Huang Is Out As Nvidia CEO",
-      "quote": "Jensen Huang, the high-flying founder and CEO of one of the most valuable companies in the world, resigned today following a meeting by Nvidia’s board of directors. Chief Financial Officer Colette Kress will take over…",
-      "publisher": "Deadline",
-      "author": "Jillg366",
-      "date": "2026-11-12T14:08:26+00:00",
-      "link": "https://deadline.com/2026/11/jensen-huang-is-out-as-nvidia-ceo-1237221531/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/GettyImages-2301328074.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "a005f44a137d46b8",
-      "title": "Jeff Goldblum To Narrate Cliburn Piano Competition Doc Series ‘Exit Stage Right’",
-      "quote": "EXCLUSIVE: Jeff Goldblum will provide the mood music for a doc series about the Van Cliburn International Piano Competition. The actor is on board to narrate the five-part Exit Stage Right, a doc series from The Cliburn…",
-      "publisher": "Deadline",
-      "author": "Jesse Whittock",
-      "date": "2026-11-12T14:00:00+00:00",
-      "link": "https://deadline.com/2026/11/jeff-goldblum-exit-stage-right-cliburn-piano-doc-series-1237220253/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/Jeff-Goldblum-and-Philipp-Lynov.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "c0a4c00ab17b7a19",
-      "title": "PGA Create Lab Announces 2026 Fellows",
-      "quote": "EXCLUSIVE: Now in its sixth year, the Producers Guild of America’s Create Lab has announced the producers selected for its 2026 fellowship, which runs Nov. 17-20. The PGA Create Lab’s scripted cycle has selected nine…",
-      "publisher": "Deadline",
-      "author": "Glenn Garner",
-      "date": "2026-11-12T14:00:00+00:00",
-      "link": "https://deadline.com/2026/11/pga-create-lab-2026-fellows-1237220008/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/PGA-Fellowship-1000.jpg",
-      "category": "World Cinema"
+      "id": "d4c6978e1dceff2d",
+      "title": "Clint Eastwood's 2021 Neo-Western Movie Is One Of Netflix's Biggest Streaming Hits",
+      "quote": "One of the final films director Clint Eastwood will ever make is currently outperforming thousands of films on Netflix to make it onto the streamer's charts.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Ryan Scott)",
+      "date": "2026-11-12T15:00:00+00:00",
+      "link": "https://www.slashfilm.com/2314348/clint-eastwood-neo-western-movie-cry-macho-streaming-netflix/",
+      "image": "https://www.slashfilm.com/img/gallery/clint-eastwoods-2021-neo-western-movie-is-one-of-netflixs-biggest-streaming-hits/l-intro-1794437358.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "fedb9fb14547dfc7",
@@ -139,17 +392,6 @@
       "link": "https://www.theguardian.com/film/2026/nov/12/you-can-see-everything-on-this-list-the-20-most-jaw-dropping-documentaries-ranked",
       "image": "https://i.guim.co.uk/img/media/1e2d25e640821f45f785e7ee5b5793f97bc3f4ad/1340_0_1571_1257/master/1571.jpg?width=140&quality=85&auto=format&fit=max&s=174112b6db9e90c5a0c1d59ee127cd0d",
       "category": "World Cinema"
-    },
-    {
-      "id": "ecf6eac2cd2a67ee",
-      "title": "Who Plays Thrain In The Lord Of The Rings: The Rings Of Power Season 3",
-      "quote": "Thráin may cause trouble on The Lord of the Rings: The Rings of Power Season 3, and the actor who plays him is quite familiar with shady characters.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Jeremy Mathai)",
-      "date": "2026-11-12T13:00:00+00:00",
-      "link": "https://www.slashfilm.com/2308532/thrain-actor-lord-of-the-rings-the-rings-of-power-season-3-eddie-marsan/",
-      "image": "https://www.slashfilm.com/img/gallery/who-plays-thrain-in-the-lord-of-the-rings-the-rings-of-power-season-3/l-intro-1793912116.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "1d535504fb32dab7",
@@ -185,17 +427,6 @@
       "category": "Indian Cinema"
     },
     {
-      "id": "6b19469e2ea0f8bb",
-      "title": "Victorian Psycho Review: Maika Monroe Goes Crazy In This Erratic Mix Of Humor And Horror",
-      "quote": "Maika Monroe's unhinged performance is the best part of Victorian Psycho, a horror-comedy that feels a little unsure of itself. Here's our review.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Chris Evangelista)",
-      "date": "2026-11-12T12:00:00+00:00",
-      "link": "https://www.slashfilm.com/2313694/victorian-psycho-review-maika-monroe-horror-movie/",
-      "image": "https://www.slashfilm.com/img/gallery/victorian-psycho-review-maika-monroe-goes-crazy-in-this-erratic-mix-of-humor-and-horror/l-intro-1794415841.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "bcf90635c5e98b4c",
       "title": "Krishnasamy seeks ban on ‘Sandiyar’ title for Kamal Haasan’s upcoming movie",
       "quote": "He also recalled that when the same title was proposed for a movie by Mr. Haasan in 2003, it created a controversy, particularly in the southern districts of Tamil Nadu",
@@ -205,6 +436,17 @@
       "link": "https://www.thehindu.com/news/national/tamil-nadu/krishnasamy-seeks-ban-on-sandiyar-title-for-kamal-haasans-upcoming-movie/article71689331.ece",
       "image": "https://th-i.thgim.com/public/incoming/w9b76x/article71689614.ece/alternates/LANDSCAPE_1200/10217_12_8_2025_20_37_50_1_DSC_5073.JPG",
       "category": "Indian Cinema"
+    },
+    {
+      "id": "2c9c8a7a1cd206ee",
+      "title": "‘Ghost Soldier’ Review: Jim Caviezel Is a Superheroic Soldier in an Uninspired, Retrograde Actioner",
+      "quote": "If “Walk Hard” was the parody that made it harder to take seriously subsequent music biopics, “MacGruber” did the same for a certain subset of action movies. Directed by William Eubank (“Underwater”), “Ghost Soldier”…",
+      "publisher": "Variety",
+      "author": "Guy Lodge",
+      "date": "2026-11-12T11:24:37+00:00",
+      "link": "https://variety.com/2026/film/reviews/ghost-soldier-review-jim-caviezel-1236945980/",
+      "image": "https://variety.com/wp-content/uploads/2026/11/ghost-soldier.webp",
+      "category": "World Cinema"
     },
     {
       "id": "bf662beae71799c2",
@@ -251,39 +493,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "769f4b567d388b90",
-      "title": "‘Gunmaaster G9’ trailer: Emraan Hashmi is out to take revenge in pulpy actioner",
-      "quote": "Directed by Aditya Datt, the film also stars Genelia Deshmukh and Aparshakti Khurana in the lead",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-11-12T10:29:58+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/gunmaaster-g9-trailer-emraan-hashmi-is-out-to-take-revenge-in-pulpy-actioner/article71693246.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/vj373x/article71693250.ece/alternates/LANDSCAPE_1200/Emraan%20Hashmi%20in%20%E2%80%98Gunmaaster%20G9%E2%80%99",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "c9172fcf0e27fe61",
-      "title": "40 Years Later, Top Gun's Most Famous Line Is Still The Greatest '80s Movie Quote",
-      "quote": "Top Gun is a 1980s classic, and the movie's most famous line works as both a representation of the decade itself and a defining trait of the film's lead character.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Rafael Motamayor)",
-      "date": "2026-11-12T09:10:00+00:00",
-      "link": "https://www.slashfilm.com/2314001/top-gun-most-famous-line-greatest-80s-movie-quote/",
-      "image": "https://www.slashfilm.com/img/gallery/40-years-later-top-guns-most-famous-line-is-still-the-greatest-80s-movie-quote/l-intro-1794423326.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "cd6c4b69f31c00b4",
-      "title": "Anthony Mackie and Jamie Dornan play an occasionally thrilling game of cat-and-mouse in Apple's 12 12 12",
-      "quote": "Apple TV's heist show 12 12 12 might be built on tropes, but it's got style to spare and great performances by Anthony Mackie and Jamie Dornan.",
-      "publisher": "The A.V. Club",
-      "author": "Matt Webb Mitovich",
-      "date": "2026-11-12T08:00:57+00:00",
-      "link": "https://www.avclub.com/12-12-12-review-anthony-mackie-jamie-dornan-apple-heist",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/11/11/MixCollage-11-Nov-2026-01-06-PM-7457.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "54e9642449d3ee9b",
       "title": "Allen review – what would happen if ET came back for Elliott as an adult? Turns out nothing great",
       "quote": "This good-natured if relentlessly unsubtle family film from Netflix and the studio behind Bluey relies on a cute alien with no personality It’s important for stories about magical formative experiences to make the point…",
@@ -306,15 +515,15 @@
       "category": "World Cinema"
     },
     {
-      "id": "0d1df43577cf68fc",
-      "title": "Lee finally reconnects with his dad on an emotional episode of The Lowdown",
-      "quote": "Ethan Hawke and Tommy Lee Jones are the emotional core of \"Leaving And Coming Back,\" the sixth episode of The Lowdown season two.",
-      "publisher": "The A.V. Club",
-      "author": "Josh Spiegel",
-      "date": "2026-11-12T03:00:27+00:00",
-      "link": "https://www.avclub.com/the-lowdown-recap-season-2-episode-6-leaving-and-coming-back",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/11/11/MixCollage-11-Nov-2026-11-39-AM-8631.jpg",
-      "category": "Indie Gems"
+      "id": "2a440093d327cecf",
+      "title": "You had me at LOL: some notes for the You’ve Got Mail reboot",
+      "quote": "Substackers in love, dodgy romance scams and Jeff Bezos as the dashing lead … the film-makers behind the remake of the dial-up classic will be facing an embarrassment of pitches Assuming you have already heard about the…",
+      "publisher": "The Guardian",
+      "author": "Stuart Heritage",
+      "date": "2026-11-12T05:00:10+00:00",
+      "link": "https://www.theguardian.com/film/2026/nov/12/youve-got-mail-reboot-email",
+      "image": "https://i.guim.co.uk/img/media/d4876fbb6e84518f1d6e3c49077a93e7c33549ad/171_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=759709d6af83e7ec68ea8dc31a3fcb2f",
+      "category": "World Cinema"
     },
     {
       "id": "0a158b92eee78f19",
@@ -325,149 +534,6 @@
       "date": "2026-11-12T00:54:02+00:00",
       "link": "https://variety.com/2026/film/reviews/how-to-rob-a-bank-review-1236945761/",
       "image": "https://variety.com/wp-content/uploads/2026/09/How-to-Rob-a-Bank.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "c16ac7c513dc43b6",
-      "title": "Frankie Muniz hospitalized, but \"awake and alert\" after race car crash",
-      "quote": "Frankie Muniz hospitalized, but \"awake and alert\" after race car crash.",
-      "publisher": "The A.V. Club",
-      "author": "William Hughes",
-      "date": "2026-11-11T23:30:42+00:00",
-      "link": "https://www.avclub.com/frankie-muniz-hospitalized-race-car-crash",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/11/11/muniz-racing.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "820e1fbb04b2b487",
-      "title": "Someone please tell Kristen Stewart Pinegrove's back",
-      "quote": "New Jersey emo-country band Pinegrove quietly announced their return with a prime spot on the Coachella 2027 lineup.",
-      "publisher": "The A.V. Club",
-      "author": "Tatiana Tenreyro",
-      "date": "2026-11-11T23:11:19+00:00",
-      "link": "https://www.avclub.com/pinegrove-coachella-2027-kristen-stewart",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/11/11/MixCollage-11-Nov-2026-04-54-PM-639.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "4772fdc419349ad7",
-      "title": "Lauren Graham's 2026 Colleen Hoover Movie Is Officially Netflix's Biggest Streaming Hit",
-      "quote": "Colleen Hoover's hit 2026 movie is now finding a whole new audience on Netflix, and Gilmore Girls fans might be interested in seeing Lauren Graham in it.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-11-11T22:30:35+00:00",
-      "link": "https://www.slashfilm.com/2314330/lauren-graham-2026-colleen-hoover-movie-reminders-of-him-streaming-netflix/",
-      "image": "https://www.slashfilm.com/img/gallery/lauren-grahams-2026-colleen-hoover-movie-is-officially-netflixs-biggest-streaming-hit/l-intro-1794436120.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "3191e8669b2f6074",
-      "title": "\"Edgy\" Grey's Anatomy spin-off gets \"haunted and cynical\" lead Karla Souza",
-      "quote": "\"Edgy\" <i>Grey's Anatomy</i> spin-off gets \"haunted and cynical\" lead Karla Souza",
-      "publisher": "The A.V. Club",
-      "author": "William Hughes",
-      "date": "2026-11-11T22:11:58+00:00",
-      "link": "https://www.avclub.com/greys-anatomy-texas-edgy-spin-off-karla-souza-lead",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/11/11/karla-souza-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "5f7660773da85b41",
-      "title": "Jamie Dornan, like most of us, hopes Hunt For Gollum works out",
-      "quote": "In a new interview, Jamie Dornan expressed the sense of duty he feels to the role of Aragorn, and the responsibility he's taken on to ensure fans embrace <i>The Lord Of The Rings: The Hunt For Gollum</i>.",
-      "publisher": "The A.V. Club",
-      "author": "Jarrod Jones",
-      "date": "2026-11-11T22:03:09+00:00",
-      "link": "https://www.avclub.com/jamie-dornan-lord-of-the-rings-hunt-for-gollum-aragorn-role-viggo-mortensen",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/11/11/aragorn-header.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "ec06802553528d39",
-      "title": "Avengers: Doomsday Star Anthony Mackie Spoils Return Of Major Marvel Character",
-      "quote": "Anthony Mackie joins the ranks of Tom Holland and Mark Ruffalo by revealing Marvel spoilers ahead of the debut of Avengers: Doomsday later this year.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Jeremy Smith)",
-      "date": "2026-11-11T21:16:39+00:00",
-      "link": "https://www.slashfilm.com/2314277/avengers-doomsday-anthony-mackie-marvel-spoiler-paul-bettany-vision/",
-      "image": "https://www.slashfilm.com/img/gallery/avengers-doomsday-star-anthony-mackie-spoils-return-of-major-marvel-character/l-intro-1794431714.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "a0297f5c67bc2b2f",
-      "title": "Anatomy Of A Finale: Did VisionQuest resurrect your faith in the MCU?",
-      "quote": "The A.V. Club unpacks VisionQuest's complicated season closer, \"Forever,\" and how that surprising post-credit scene factors into the MCU's future.",
-      "publisher": "The A.V. Club",
-      "author": "The A.V. Club",
-      "date": "2026-11-11T21:12:08+00:00",
-      "link": "https://www.avclub.com/anatomy-of-a-finale-did-visionquest-resurrect-your-faith-in-mcu",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/11/11/MixCollage-11-Nov-2026-01-45-PM-5833.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "5a4d741974d67334",
-      "title": "Christopher Cantwell says Lanterns hasn’t been canceled",
-      "quote": "As rumors spread online that DC Studios' <i>Lanterns</i> has been canceled, <i>Halt And Catch Fire</i>'s Christopher Cantwell—who has been working on a potential season two—is telling people on social media to \"calm…",
-      "publisher": "The A.V. Club",
-      "author": "Jarrod Jones",
-      "date": "2026-11-11T20:58:00+00:00",
-      "link": "https://www.avclub.com/lanterns-season-two-christopher-cantwell-dc-studios-skydance",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/10/02/lanterns-header.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "6a50e8b8a6667dfc",
-      "title": "Henry Cavill Comments On Superman Return After James Gunn's DC Studios Exit",
-      "quote": "James Gunn's DC Studios exit has led to Henry Cavill yet again being asked about the idea of him returning as Superman, and we're already tired.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-11-11T20:18:40+00:00",
-      "link": "https://www.slashfilm.com/2314152/henry-cavill-superman-return-james-gunn-dc-studios-exit/",
-      "image": "https://www.slashfilm.com/img/gallery/henry-cavill-comments-on-superman-return-after-james-gunns-dc-studios-exit/l-intro-1794427818.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "6d467b20d5de8cbd",
-      "title": "Veteran actor Irma P Hall, star of The Ladykillers, dies aged 91",
-      "quote": "Once a Dallas school teacher, Hall became a star in later life with roles in Soul Food and Collateral Actor Irma P Hall, star of Soul Food and the Coen brothers’ The Ladykillers , has died at the age of 91. Hall died on…",
-      "publisher": "The Guardian",
-      "author": "Owen Myers",
-      "date": "2026-11-11T19:47:16+00:00",
-      "link": "https://www.theguardian.com/film/2026/nov/11/irma-p-hall-actor-dies",
-      "image": "https://i.guim.co.uk/img/media/15b03fc1613e6f2a8ee018097989f1fe3348e027/200_0_2299_1840/master/2299.jpg?width=140&quality=85&auto=format&fit=max&s=45a5f4741232ddc4f88128b29fa29490",
-      "category": "World Cinema"
-    },
-    {
-      "id": "79c1e6bf31fc902c",
-      "title": "The Best Ways For Star Trek Fans To Play Magic's New Set: A Guide For Beginner Players",
-      "quote": "Magic: The Gathering has a new Star Trek-themed set, and we're here to offer a beginner's guide for any Trekkie trying to get into the classic card game.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Jacob Hall)",
-      "date": "2026-11-11T19:26:57+00:00",
-      "link": "https://www.slashfilm.com/2314044/star-trek-magic-the-gathering-new-set-beginners-guide/",
-      "image": "https://www.slashfilm.com/img/gallery/the-best-ways-for-star-trek-fans-to-play-magics-new-set-a-guide-for-beginner-players/l-intro-1794426317.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "1f6392d44a00aba4",
-      "title": "Tyler Perry’s The Gospel of Christmas review – Netflix unloads more slapdash festive fare",
-      "quote": "Incompetent direction almost kills the Christmas spirit but American Idol winner Fantasia Barrino Taylor brings down the house Thanksgiving is right around the corner, which means Christmas creep is in full effect and…",
-      "publisher": "The Guardian",
-      "author": "Andrew Lawrence",
-      "date": "2026-11-11T18:43:25+00:00",
-      "link": "https://www.theguardian.com/film/2026/nov/11/tyler-perry-gospel-of-christmas-review-netflix",
-      "image": "https://i.guim.co.uk/img/media/815b79963f69e60db938d7af55ba08667040f91a/649_0_6000_4800/master/6000.jpg?width=140&quality=85&auto=format&fit=max&s=bc5e48c720140cea1035e0b541a65fb0",
-      "category": "World Cinema"
-    },
-    {
-      "id": "59cfcbef9bb70e08",
-      "title": "How to Rob a Bank review – Amazon’s anti-capitalist caper is far from a riot",
-      "quote": "Nicholas Hoult, Anna Sawai and Pete Davidson play Robin Hood in this simple-minded and unexciting attempt to mix social commentary with action In case you were somehow blissfully unaware, America is in a very dark place…",
-      "publisher": "The Guardian",
-      "author": "Benjamin Lee",
-      "date": "2026-11-11T17:00:29+00:00",
-      "link": "https://www.theguardian.com/film/2026/nov/11/how-to-rob-a-bank-movie-review-amazon",
-      "image": "https://i.guim.co.uk/img/media/15232fb98f98235a792c7e329f27ba8619bb4456/340_0_1295_1036/master/1295.jpg?width=140&quality=85&auto=format&fit=max&s=2fb9558fb7b039a0b4fb98b1ad9b3a52",
       "category": "World Cinema"
     },
     {
@@ -526,14 +592,14 @@
       "category": "World Cinema"
     },
     {
-      "id": "5ed92fde7c8d606b",
-      "title": "The Body",
-      "quote": "Entertainingly balances religious horror with the teen-girl melodrama of something like \"Gossip Girl\" or \"Pretty Little Liars.\"",
-      "publisher": "RogerEbert.com",
-      "author": "Clint Worthington",
-      "date": "2026-11-11T14:00:00+00:00",
-      "link": "https://www.rogerebert.com/reviews/the-body-netflix-tv-review-2026",
-      "image": null,
+      "id": "c096ff6499be13bf",
+      "title": "Prima Facie review – Cynthia Erivo’s brilliant barrister blazes in sexual assault drama",
+      "quote": "Adaptation of the international stage hit stars a commanding Erivo as Tessa, whose career defending rape suspects is undermined by experience A blazingly fierce, effortlessly commanding central performance from Cynthia…",
+      "publisher": "The Guardian",
+      "author": "Peter Bradshaw",
+      "date": "2026-11-11T13:00:49+00:00",
+      "link": "https://www.theguardian.com/film/2026/nov/11/prima-facie-review-cynthia-erivo-sexual-assault-drama",
+      "image": "https://i.guim.co.uk/img/media/eee8fceb398c4c476b87e549bb79c606a7183c87/855_173_4443_3554/master/4443.jpg?width=140&quality=85&auto=format&fit=max&s=926dfe634cfb1257c75cd1028f5783fc",
       "category": "World Cinema"
     },
     {
@@ -567,17 +633,6 @@
       "date": "2026-11-10T11:00:00+00:00",
       "link": "https://www.bbc.com/culture/article/20261109-a-court-of-splintered-harmony-why-the-latest-mega-hit-acotar-romantasy-is-dividing-readers?ocid=global_culture_rss",
       "image": "https://ychef.files.bbci.co.uk/144x81/p0pm2ywn.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "c4a2d60db9cec420",
-      "title": "In Waves",
-      "quote": "What gives “In Waves” its weight is a restrained animation style that anchors the film's emotional center.",
-      "publisher": "RogerEbert.com",
-      "author": "Zachary Lee",
-      "date": "2026-11-09T14:00:00+00:00",
-      "link": "https://www.rogerebert.com/reviews/in-waves-netflix-movie-review-2026",
-      "image": null,
       "category": "World Cinema"
     },
     {
@@ -647,28 +702,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "e5a9ac0627980121",
-      "title": "Nuisance Bear",
-      "quote": "The pacing suffers from indecision and a wandering eye, but the impact of the discussion remains after the film’s end.",
-      "publisher": "RogerEbert.com",
-      "author": "Peyton Robinson",
-      "date": "2026-11-06T16:08:13+00:00",
-      "link": "https://www.rogerebert.com/reviews/nuisance-bear-nature-documentary-film-review-2026",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "e1ac1ac7663b6e07",
-      "title": "Ramayana: Rise of a Legend",
-      "quote": "There’s something uniquely disorienting about watching a ton of money thrown at movie screens without any proportionate human warmth or craftsmanship.",
-      "publisher": "RogerEbert.com",
-      "author": "Simon Abrams",
-      "date": "2026-11-06T14:00:00+00:00",
-      "link": "https://www.rogerebert.com/reviews/ramayana-rise-of-a-legend-india-movie-review-2026",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
       "id": "38eb5d1e7825c957",
       "title": "How Sylvester Stallone created underdog icon Rocky",
       "quote": "The then-unknown actor channelled his career frustrations into the boxing drama",
@@ -735,17 +768,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "dbd2293547aa09f3",
-      "title": "‘Kefi’ Review: A Grief-Stricken Family Reunion Is Beset by Aliens, Drugs and Dinosaurs in Kisin Saito’s Kaleidoscopic, Genre-Fluid Debut",
-      "quote": "Late on in “Kefi,” one of its central protagonists — the youngest of three sisters — justifies a spontaneous hook-up with a random stranger by claiming that “the flow” of their chance encounter “was really cinematic.”…",
-      "publisher": "Variety",
-      "author": "Guy Lodge",
-      "date": "2026-11-03T08:19:52+00:00",
-      "link": "https://variety.com/2026/film/reviews/kefi-review-1236938211/",
-      "image": "https://variety.com/wp-content/uploads/2026/10/Kefi.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "c30bd3517c43d3f8",
       "title": "‘Red Before Dawn’ Review: A Road Movie Revisits the Indonesian Revolution in Ways More Didactic Than Climactic",
       "quote": "Garin Nugroho’s wartime drama follows a group of disparate characters dangerously making their way across Indonesia as the fight for independence rages on.",
@@ -777,28 +799,6 @@
       "link": "https://www.hollywoodreporter.com/movies/movie-reviews/fuxi-four-tales-of-feasting-qiu-jiongjiong-1236743718/",
       "image": null,
       "category": "World Cinema"
-    },
-    {
-      "id": "8a3bd13c4a5013aa",
-      "title": "Patrick Stewart’s Career Was a Rare and Thrilling Marriage of the Prestigious and the Populist",
-      "quote": "Stewart's classical theater chops invested genre film and television roles with unlikely dramatic weight, psychological depth and piercing feeling.",
-      "publisher": "The Hollywood Reporter",
-      "author": "David Rooney",
-      "date": "2026-10-30T02:35:36+00:00",
-      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/patrick-stewart-critics-appreciation-1236743268/",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "2a4e331da627add9",
-      "title": "Fjord review - Cristian Mungiu at sea with strange child abuse drama starring Renate Reinsve and Sebastian Stan",
-      "quote": "The Palme laureate here makes a misstep with an odd, disquieting film that leaves too many issues unresolved Romanian director and Palme laureate Cristian Mungiu – the winner here in 2007 with his stunning 4 Months, 3…",
-      "publisher": "The Guardian",
-      "author": "Peter Bradshaw",
-      "date": "2026-05-18T17:26:47+00:00",
-      "link": "https://www.theguardian.com/film/2026/may/18/fjord-review-cristian-mungiu-at-sea-with-strange-child-abuse-drama-starring-renate-reinsve-and-sebastian-stan",
-      "image": "https://i.guim.co.uk/img/media/3baabeb2cbb755282eae80b8e7a99ec04d185646/588_0_6752_5401/master/6752.jpg?width=140&quality=85&auto=format&fit=max&s=6ee03aef707b44614b6c8a188f32ea1e",
-      "category": "Festival Winners"
     },
     {
       "id": "76d8786d13278ebb",
