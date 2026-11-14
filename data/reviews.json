@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T05:55:37.266470+00:00",
+  "generated_at": "2026-11-14T13:22:10.593038+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -20,8 +20,173 @@
       "category": "World Cinema"
     },
     {
-      "id": "7f8674da59de125e",
-      "title": "this week’s UK cinema releases",
+      "id": "69c2d5e2383105b3",
+      "title": "How To Rob A Bank Shares A Major Theme With This Iconic '90s Keanu Reeves Movie",
+      "quote": "Thematically, How to Rob a Bank has the same revolutionary spirit as a classic '90s Keanu Reeves flick (one that its characters even name-check).",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Bill Bria)",
+      "date": "2026-11-14T13:00:00+00:00",
+      "link": "https://www.slashfilm.com/2315729/how-to-rob-a-bank-theme-90s-keanu-reeves-movie-point-break/",
+      "image": "https://www.slashfilm.com/img/gallery/how-to-rob-a-bank-shares-a-major-theme-with-this-iconic-90s-keanu-reeves-movie/l-intro-1794576438.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "daad5218fc830501",
+      "title": "Jr NTR announces his next with Anil Ravipudi",
+      "quote": "The Telugu superstar took to social media to confirm his collaboration with Anil",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-11-14T12:52:22+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/jr-ntr-announces-his-next-with-anil-ravipudi/article71701775.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/r1lfh/article71701779.ece/alternates/LANDSCAPE_1200/Anil%20Ravipudi%20and%20Jr%20NTR",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "221a8cfdd22c9261",
+      "title": "5 Forgotten '80s Sitcoms That Still Hold Up Today",
+      "quote": "The 1980s were a golden age for sitcoms, but not all of them are well-remembered. Here are five forgotten gems that still hold up today.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Jeremy Smith)",
+      "date": "2026-11-14T12:45:00+00:00",
+      "link": "https://www.slashfilm.com/2310208/forgotten-80s-sitcoms-still-hold-up-today/",
+      "image": "https://www.slashfilm.com/img/gallery/5-forgotten-80s-sitcoms-that-still-hold-up-today/l-intro-1794103249.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "af932eb725ed1e81",
+      "title": "Cinephil Boards Alexandru Solomon’s Romanian Election Doc ‘Small Expectations’ – IDFA",
+      "quote": "EXCLUSIVE: Doc sales specialist Cinephil has boarded Alexandru Solomon’s Small Expectations ahead of its world premiere in the Frontlight sidebar of the International Documentary Film Festival Amsterdam next week. The…",
+      "publisher": "Deadline",
+      "author": "Melanie Goodfellow",
+      "date": "2026-11-14T11:40:53+00:00",
+      "link": "https://deadline.com/2026/11/cinephil-alexandru-solomon-small-expectations-idfa-1237223722/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/1_Small-Expectations_Balcony.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "9454a34c9fbaea58",
+      "title": "‘Heartland’ movie review: Jessica Chastain sings a song of suspense",
+      "quote": "The ode to forgiveness and love is lit by twanging guitars, ballads of country music, and an extraordinary performance by Jessica Chastain.",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-11-14T11:40:15+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/heartland-movie-review-jessica-chastain-sings-a-song-of-suspense/article71701542.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/t8a04/article71701569.ece/alternates/LANDSCAPE_1200/Jessica%20Chastain%20in%20%E2%80%98Heartland%E2%80%99",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "91a72bb854143442",
+      "title": "European Film Awards: ‘Fatherland’ & ‘La Bola Negra’ Top Nominations – Full List Of Films & Credits",
+      "quote": "The European Film Academy has unveiled the nominations in the 16 key categories of its 39th European Film Awards taking place in Greece in January 2027. Paweł Pawlikowski’s Fatherland leads the nominations, making it…",
+      "publisher": "Deadline",
+      "author": "Melanie Goodfellow",
+      "date": "2026-11-14T10:28:48+00:00",
+      "link": "https://deadline.com/2026/11/european-film-awards-2026-nominations-1237223704/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/awards-split.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "53c3eadfa8f451bd",
+      "title": "‘I relive that mission every single day of my life’: how Black soldiers handled the Vietnam war",
+      "quote": "In ambitious documentary Soul Patrol, the complicated experiences of the Vietnam war’s first Black special ops team are explored both on and off the battleground Ask the average American to name an elite US fighting…",
+      "publisher": "The Guardian",
+      "author": "Andrew Lawrence",
+      "date": "2026-11-14T10:00:43+00:00",
+      "link": "https://www.theguardian.com/film/2026/nov/14/soul-patrol-documentary-black-soldiers-vietnam",
+      "image": "https://i.guim.co.uk/img/media/533d9e9ab4e154ef42ea2864be48d5973a4e7420/160_39_1619_1295/master/1619.jpg?width=140&quality=85&auto=format&fit=max&s=cbebe26b80126d7564324fc7bcd14dab",
+      "category": "World Cinema"
+    },
+    {
+      "id": "7a08d76daaba05de",
+      "title": "23 Years Later, Love Actually's Most Romantic Line Is Still The Greatest Christmas Quote Ever",
+      "quote": "Problematic as Love Actually is, one of the Christmas classic's most famous lines is pretty romantic when removed from its original context.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Nina Starner)",
+      "date": "2026-11-14T09:10:00+00:00",
+      "link": "https://www.slashfilm.com/2314578/love-actually-most-romantic-line-greatest-christmas-movie-quote/",
+      "image": "https://www.slashfilm.com/img/gallery/23-years-later-love-actuallys-most-romantic-line-is-still-the-greatest-christmas-quote-ever/l-intro-1794598888.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "2998daa53ad97e74",
+      "title": "‘I Play Rocky’ movie review: Anthony Ippolito makes this underdog story sing",
+      "quote": "The story of how Rocky became a phenomenon against all odds is already heart-warming and the excellent performances and writing give it that extra push",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-11-14T08:32:30+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/i-play-rocky-movie-review-anthony-ippolito-makes-this-underdog-story-sing/article71699253.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/kfz7ku/article71701068.ece/alternates/LANDSCAPE_1200/Anthony%20Ippolito%20in%20%E2%80%98I%20Play%20Rocky%E2%80%99",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "6b2c92aab9b2b551",
+      "title": "‘Gondhal’ movie review: Santosh Davakhar’s illuminating one-night tragedy",
+      "quote": "India’s Oscar entry documents a traditional practice while being technologically sound, thematically rich, culturally vibrant and perennially intelligent in its filmmaking choices",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-11-14T07:41:49+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/gondhal-movie-review-santosh-davakhars-illuminating-one-night-tragedy/article71700899.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/bdrvf3/article71700922.ece/alternates/LANDSCAPE_1200/Ishita%20Deshmukh%20and%20Yogesh%20Sohoni%20in%20%E2%80%98Gondhal%E2%80%99",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "89feec3cab9e71ad",
+      "title": "'Ramayana' becomes 11th Indian film to cross Rs 1,000 crore mark at box office",
+      "quote": "The worldwide gross of ‘Ramayana’ after eight days is Rs 1,033.55 crore with India contributing Rs 675.05 crore and overseas Rs 358.50 crore, respectively.",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-11-14T07:37:18+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/ramayana-becomes-11th-indian-film-to-cross-rs-1000-crore-mark-at-box-office/article71701145.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/sv6ftt/article71701166.ece/alternates/LANDSCAPE_1200/A%20poster%20of%20%E2%80%98Ramayana%20Part%201%E2%80%99",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "e544e681b20fd465",
+      "title": "‘Sarangati’: Hombale Films announces biopic on ISKCON founder",
+      "quote": "Hombale Films and Transcendental Films are teaming up for ‘Saranagati: The Life of a Surrendered Soul’, a biopic about ISKCON founder A. C. Bhaktivedanta Swami Śrīla Prabhupāda",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-11-14T06:56:41+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/hombale-films-sarangati-biopic-iskcon-founder-a-c-bhaktivedanta-swami-srila-prabhupada-salaar-2/article71699397.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/jou5an/article71699453.ece/alternates/LANDSCAPE_1200/Sarangati.png",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "6a2e6dcf282a8387",
+      "title": "‘Lambodhara 2.0’ movie review: Suni’s ambitious experiment lacks emotional heft",
+      "quote": "In the Kannada movie ‘Lambodhara 2.0’ by director Suni, flat performances and predictable twists overshadow a relevant premise",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-11-14T06:19:32+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/lambodhara-20-review-kannada-movie-simple-suni-anil-shetty-lambodhara-20-movie-review/article71699523.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/jxkm4n/article71699532.ece/alternates/LANDSCAPE_1200/Lambodhara.jpeg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "35791ac8eb16502e",
+      "title": "The ‘Heat’ Is On! Michael Mann & New Regency Clash In Ownership Battle Over Al Pacino & Robert De Niro 1995 Crime Classic",
+      "quote": "Michael Mann won’t start filming Heat 2 until early next year, but things are already heating up legally between the acclaimed director and New Regency when it comes to 1995 crime classic. After several attempts this…",
+      "publisher": "Deadline",
+      "author": "Dominic Patten",
+      "date": "2026-11-14T05:56:57+00:00",
+      "link": "https://deadline.com/2026/11/michael-mann-lawsuit-heat-rights-1237223655/",
+      "image": "https://deadline.com/wp-content/uploads/2025/10/GettyImages-1857917735.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "bc62c7e426a941f5",
+      "title": "Beyond Bigg Boss: Shine Shetty speaks about starting afresh with ‘Shankarabharanna’",
+      "quote": "Having realised reality-show fame is fleeting, Kannada actor Shine Shetty is turning producer with ‘Shankarabharanna’. The movie is directed by Sumanth Bhat and also stars Malayalam actor Tanvi Ram",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-11-14T05:54:57+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/shankarabharanna-shine-shetty-interview-kannada-movie-sumanth-bhat-shankarabharanna-kannada-bigg-boss/article71692412.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/ohla9g/article71699565.ece/alternates/LANDSCAPE_1200/Shine2.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "8f5cfa1c5939694d",
+      "title": "Our critics’ verdicts on this week’s UK cinema releases",
       "quote": "From Cynthia Erivo’s bravura barrister to Johnny Depp’s surprisingly good Scrooge, take a quick glance at this week’s new films *** Continue reading...",
       "publisher": "The Guardian",
       "author": "Peter Bradshaw, Leslie Felperin, Phuong Le, Mike McCahill, Cath Clarke, Benjamin Lee and Adrian Horton",
@@ -86,37 +251,37 @@
       "category": "World Cinema"
     },
     {
-      "id": "54934e6cb78fe81e",
-      "title": "Nationwide FAA Ground Stop Lifted; Radar “Instability,” Old System Was Root Of Airspace Shutdown, Transportation Secretary Insists",
-      "quote": "At 5:15 p.m. PT, the Federal Aviation Administration “lifted” today’s nationwide grounding of thousands of flights. According to Transportation Secretary Sean Duffy, the root cause of the crisis was a radar…",
-      "publisher": "Deadline",
-      "author": "Dominic Patten",
-      "date": "2026-11-14T01:48:37+00:00",
-      "link": "https://deadline.com/2026/11/faa-shutdown-lifted-radar-1237223564/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/sf-airports.jpg",
-      "category": "World Cinema"
+      "id": "e92039ac0abc1776",
+      "title": "Billy Evans claims he did not consent to You Can See Everything's full-frontal nudity",
+      "quote": "The \"graphic nudity\" that earned the film's R-rating has been one of the most discussed, uh, parts of You Can See Everything. Billy Evans denies consenting to it.",
+      "publisher": "The A.V. Club",
+      "author": "Matt Schimkowitz",
+      "date": "2026-11-14T00:23:58+00:00",
+      "link": "https://www.avclub.com/billy-evans-denies-consent-you-can-see-everything-nudity",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/11/03/billy-evans-ycse-feature.jpg",
+      "category": "Indie Gems"
     },
     {
-      "id": "b30a637d1cf5398f",
-      "title": "FAA Ground Stoppage Could Impact One Of Hollywood’s Busiest Weekends",
-      "quote": "UPDATED with FAA lifting the ground stop: The FAA’s nationwide ground stoppage has been lifted, but, coming on the eve of one of the entertainment industry’s busiest weekends, the residual effects could affect numerous…",
-      "publisher": "Deadline",
-      "author": "Denise Petski",
-      "date": "2026-11-14T01:45:00+00:00",
-      "link": "https://deadline.com/2026/11/faa-ground-stoppage-hollywood-weekend-events-impact-1237223500/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/GettyImages-2304487977.jpg",
-      "category": "World Cinema"
+      "id": "32df8649bf6044b8",
+      "title": "Netflix finally releases a sneak peek at its troubled Magic: The Gathering animated show",
+      "quote": "Netflix finally releases a sneak peek at its troubled <i>Magic: The Gathering</i> animated show.",
+      "publisher": "The A.V. Club",
+      "author": "William Hughes",
+      "date": "2026-11-13T23:42:21+00:00",
+      "link": "https://www.avclub.com/planeswalker-magic-the-gathering-netflix-sneak-peek",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/11/13/planeswalker-feature.jpg",
+      "category": "Indie Gems"
     },
     {
-      "id": "0ebbdbfb07c87395",
-      "title": "Isla Fisher & Blake Ritson Join Al Pacino In John Paul Getty III Kidnapping Pic ‘Captivated’",
-      "quote": "EXCLUSIVE: Isla Fisher and The Gilded Age‘s Blake Ritson have boarded the Al Pacino thriller Captivated inspired by the extraordinary true story of the 1973 kidnapping of John Paul Getty III. Also joining the cast is…",
-      "publisher": "Deadline",
-      "author": "Anthonypauldalessandro",
-      "date": "2026-11-14T00:41:20+00:00",
-      "link": "https://deadline.com/2026/11/al-pacino-captiviated-isla-fisher-blake-ritson-1237223529/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/Isla-Fisher-Blake-Ritson-Al-Pacino.jpg",
-      "category": "World Cinema"
+      "id": "9b4d05e72356b34a",
+      "title": "U2's The Edge clarifies he didn't write a script for Elf 2: \"I wrote a treatment\"",
+      "quote": "Fans of Elf weren't the only ones surprised by Edge's secret life as a screenwriter. None of U2's members knew he wrote an Elf sequel either.",
+      "publisher": "The A.V. Club",
+      "author": "Matt Schimkowitz",
+      "date": "2026-11-13T23:00:01+00:00",
+      "link": "https://www.avclub.com/u2-the-edge-elf-sequel-screenplay-treatment",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/11/13/MixCollage-13-Nov-2026-02-26-PM-549.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "3168275dcfdd3c40",
@@ -149,6 +314,28 @@
       "date": "2026-11-13T22:35:16+00:00",
       "link": "https://www.slashfilm.com/2316675/marvel-sam-wilson-avengers-roster-doomsday/",
       "image": "https://www.slashfilm.com/img/gallery/marvel-officially-confirms-sam-wilsons-avengers-roster-in-doomsday/l-intro-1794609198.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "65b64a32e71feb61",
+      "title": "Flavor Flav somehow Americans' fastest, most-trusted source for aviation shutdown news",
+      "quote": "Flavor Flav somehow Americans' fastest, most-trusted source for aviation shutdown news",
+      "publisher": "The A.V. Club",
+      "author": "William Hughes",
+      "date": "2026-11-13T22:31:00+00:00",
+      "link": "https://www.avclub.com/flavor-flav-air-traffic-shutdown-news",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/11/13/flava-flav-feature.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "3422c8af553bba67",
+      "title": "Not even Denny's wants to be associated with disgraced Nvidia founder Jensen Huang at this point",
+      "quote": "Not even Denny's wants to be associated with disgraced Nvidia founder Jensen Huang at this point",
+      "publisher": "The A.V. Club",
+      "author": "William Hughes",
+      "date": "2026-11-13T22:01:24+00:00",
+      "link": "https://www.avclub.com/jensen-huang-dennys-nvidia-cut-ties-affairs",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/11/13/jensen-huang-feature.jpg",
       "category": "Indie Gems"
     },
     {
@@ -196,17 +383,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "43033c4c0913dcbe",
-      "title": "VisionQuest’s identity crisis is also the MCU’s",
-      "quote": "The end of VisionQuest marks a (mostly) welcome breather from a sloppily executed TV experiment.",
-      "publisher": "The A.V. Club",
-      "author": "Saloni Gajjar",
-      "date": "2026-11-13T19:00:39+00:00",
-      "link": "https://www.avclub.com/visionquest-mcu-identity-crisis",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/11/12/visionquest.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "0e7e30f08d0219b6",
       "title": "Doctor Who Star Peter Capaldi Knows How To Save The Struggling Sci-Fi Series",
       "quote": "Former Doctor Who star Peter Capaldi has some ideas for how to reinvigorate the struggling sci-fi series, including taking it back to its low-budget roots.",
@@ -218,61 +394,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "a4affaa7f1c11481",
-      "title": "David Walliams under investigation for \"serious sexual offences\"",
-      "quote": "Little Britain co-star David Walliams is under investigation by Metro Police in London for allegations separate from The Guardian and ITV's recent reporting.",
-      "publisher": "The A.V. Club",
-      "author": "Matt Schimkowitz",
-      "date": "2026-11-13T18:34:18+00:00",
-      "link": "https://www.avclub.com/david-walliams-under-investigation-london-police",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/11/10/DW-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "6dd903c55758c57b",
-      "title": "R.I.P. Christian Cousins, child star of Kindergarten Cop and Critters 3",
-      "quote": "Christian Cousins, the child star who shared screen time with his identical twin brother, Joseph, on <i>Kindergarten Cop</i> and <i>Knots Landing</i>, has died at the age of 43 after a battle with liver disease.",
-      "publisher": "The A.V. Club",
-      "author": "Jarrod Jones",
-      "date": "2026-11-13T18:03:53+00:00",
-      "link": "https://www.avclub.com/rip-christian-cousins-kindergarten-cop-critters-3-knots-landing",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/11/13/cousins-header.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "d4f0ebbcb738d3a6",
-      "title": "The Hunger Games walked so these dystopian YA novels could run",
-      "quote": "The Backlist gets ready for The Hunger Games: Sunrise On The Reaping by digging into some excellent dystopian young adult reads",
-      "publisher": "The A.V. Club",
-      "author": "Lacy Baugher Milas",
-      "date": "2026-11-13T17:00:36+00:00",
-      "link": "https://www.avclub.com/best-dystopian-ya-novels-like-the-hunger-games-ava-reid-neal-shusterman",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/11/13/MixCollage-13-Nov-2026-12-40-AM-3761.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "d10bd2c955f4d95e",
-      "title": "Virgin River gets the go-ahead for season nine at Netflix",
-      "quote": "As Netflix's popular romantic drama series <i>Virgin River</i> heads into its eighth season in 2027, the streamer has decided to greenlight a ninth, what the hey.",
-      "publisher": "The A.V. Club",
-      "author": "Jarrod Jones",
-      "date": "2026-11-13T16:29:57+00:00",
-      "link": "https://www.avclub.com/virgin-river-season-nine-announcement-netflix",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/11/13/virgin-river-header.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "ef10b504e7bd3a28",
-      "title": "31st IFFK International Competition and Indian film selections announced, new Critics Discovery section introduced",
-      "quote": "The main objective of the new Critics Discovery section is to introduce notable and artistically distinctive films in Malayalam to prominent figures and critics in the international film industry and to provide them…",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-11-13T16:29:10+00:00",
-      "link": "https://www.thehindu.com/news/national/kerala/31st-iffk-international-competition-and-indian-film-selections-announced-new-critics-discovery-section-introduced/article71698778.ece",
-      "image": "https://th-i.thgim.com/public/news/national/kerala/u65mh1/article71698772.ece/alternates/LANDSCAPE_1200/IFFK31.jpg",
-      "category": "Indian Cinema"
-    },
-    {
       "id": "0c2ef69322ec9410",
       "title": "‘Prima Facie’ Review: Cynthia Erivo Brings Conviction, but Not Necessarily a Conviction, to an Impassioned but Clunky Legal Drama",
       "quote": "When a successful stage play is transferred to the screen, the typical concern is how much to “open it out” for the new medium: too little, and you wonder why they bothered; too much, and you lose the electric intimacy…",
@@ -282,61 +403,6 @@
       "link": "https://variety.com/2026/film/reviews/prima-facie-review-cynthia-erivo-1236946882/",
       "image": "https://variety.com/wp-content/uploads/2026/09/MV5BMGVmMjIzMmItMzY2ZS00MzJlLWE5MTItNTZkMGI3YzZlMzdlXkEyXkFqcGc@._V1_.jpg",
       "category": "World Cinema"
-    },
-    {
-      "id": "b20856a3e09fcb3b",
-      "title": "‘John Doe’ movie review: Madhumita finds her footing with a neat, effective thriller",
-      "quote": "Arjun Das and Sanchana Natarajan bring an interesting dynamic as the leads of a compelling investigation in director Madhumita’s compelling yet predictable thriller",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-11-13T15:11:31+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/john-doe-movie-review-madhumita-arjun-das-sanchana-natarajan/article71698688.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/ipc690/article71698841.ece/alternates/LANDSCAPE_1200/JOHN%20DOE%20review.jpeg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "67e1ef9127947a43",
-      "title": "How To Rob A Bank Director Reveals The Real-Life Inspirations Behind The Movie's Influencers [Exclusive]",
-      "quote": "How to Rob a Bank director David Leitch and producer Kelly McCormick share the influencer inspirations that went into creating their heist film's viral videos.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Jeremy Mathai)",
-      "date": "2026-11-13T15:00:00+00:00",
-      "link": "https://www.slashfilm.com/2315149/how-to-rob-a-bank-director-influencers-real-life-inspirations/",
-      "image": "https://www.slashfilm.com/img/gallery/how-to-rob-a-bank-director-reveals-the-real-life-inspirations-behind-the-movies-influencers-exclusive/l-intro-1794507269.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "4d42f0fea7acd879",
-      "title": "Johnny Depp's Ebenezer Makes An Alarming Change To The Story Of A Christmas Carol",
-      "quote": "The Johnny Depp movie Ebenezer remains pretty faithful to A Christmas Carol, but does make one big change involving Scrooge.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Bill Bria)",
-      "date": "2026-11-13T14:20:48+00:00",
-      "link": "https://www.slashfilm.com/2315819/johnny-depp-ebenezer-a-christmas-carol-story-change/",
-      "image": "https://www.slashfilm.com/img/gallery/johnny-depps-ebenezer-makes-an-alarming-change-to-the-story-of-a-christmas-carol/l-intro-1794577980.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "f768a5320e6e40e9",
-      "title": "‘The Body’ series review: A deliciously twisted teen drama to be enjoyed with a side of Catholic dread",
-      "quote": "The sexy coming-of-age genre-bending series reimagines the erotic thrillers of the ‘90s and early noughties to breathtaking effect",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-11-13T14:16:23+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/the-body-series-review-is-deliciously-twisted-teen-drama-netflix-catholic-dread-erotic-thriller-supernatural-horror/article71698027.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/rivvwb/article71698265.ece/alternates/LANDSCAPE_1200/The%20Body.jpeg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "6457b300e949325c",
-      "title": "‘Wildwood’ movie review: Alluring forest tale withers away into meandering shadows",
-      "quote": "All the wonder in the visuals of ‘Wildwood’ is lost due to an overbearing languidity in the screenplay and a surprising lack of urgency in the editing.",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-11-13T14:10:36+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/wildwood-movie-review-alluring-forest-tale-withers-away-into-meandering-shadows/article71697588.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/db9ciy/article71697607.ece/alternates/LANDSCAPE_1200/A%20still%20from%20%E2%80%98Wildwood%E2%80%99",
-      "category": "Indian Cinema"
     },
     {
       "id": "d0b5b8ca49ade1c9",
@@ -394,17 +460,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "278374bc9d5d29bd",
-      "title": "How To Rob A Bank Director David Leitch Reveals His Favorite Scene In The Movie [Exclusive]",
-      "quote": "In a new interview with /Film, How to Rob a Bank director David Leitch shares his favorite scene of his new heist thriller starring Nicholas Hoult.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Jeremy Mathai)",
-      "date": "2026-11-13T14:00:00+00:00",
-      "link": "https://www.slashfilm.com/2315086/how-to-rob-a-bank-director-david-leitch-favorite-scene-movie/",
-      "image": "https://www.slashfilm.com/img/gallery/how-to-rob-a-bank-director-david-leitch-reveals-his-favorite-scene-in-the-movie-exclusive/l-intro-1794505542.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "2c5788643b593712",
       "title": "Robert Pattinson reportedly leads James Bond contenders",
       "quote": "Reports that the star – the most high-profile of the final five contenders – has been offered favourable contract terms hint that Amazon MGM may want him as its first 007 Robert Pattinson has emerged as the favourite in…",
@@ -425,50 +480,6 @@
       "link": "https://www.bbc.com/culture/article/20261112-the-hidden-meanings-in-hokusais-iconic-great-wave?ocid=global_culture_rss",
       "image": "https://ychef.files.bbci.co.uk/144x81/p0pmn280.jpg",
       "category": "World Cinema"
-    },
-    {
-      "id": "0344c0b656aad464",
-      "title": "‘Blind Game’ movie review: Arjun Rampal’s swag can’t save this twisted thriller",
-      "quote": "For all its moody atmosphere and mysterious turns, ‘Blind Game’ lets its plot and characters drift into the mist of the Himachal hills.",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-11-13T09:20:07+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/blind-game-movie-review-arjun-rampals-swag-cant-save-this-twisted-thriller/article71697273.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/wlw8zm/article71697303.ece/alternates/LANDSCAPE_1200/Arjun%20Rampal%20in%20%E2%80%98Blind%20Game%E2%80%99",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "1256aa28dc40576c",
-      "title": "‘Parvarik ManuRanjan’ movie review: Pankaj Tripathi brings flavour to an undercooked family recipe",
-      "quote": "Aiming for social subversion in the guise of an unlikely bond, director-co-writer Varun V. Sharma loses grip on the narrative after a bright set-up.",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-11-13T09:09:14+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/parvarik-manuranjan-movie-review-pankaj-tripathi-brings-flavour-to-an-undercooked-family-recipe-aditi-rao-hydari-sony-liv/article71697224.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/g65yee/article71697247.ece/alternates/LANDSCAPE_1200/Pankaj%20Tripathi%20in%20%E2%80%98Parvarik%20ManuRanjan%E2%80%99%20",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "842ee1ce60641e83",
-      "title": "‘DNK’ movie review: Mouli’s crime comedy is funny but chaotic",
-      "quote": "Debut director Sreenu Kambala’s Telugu film has a cheeky premise, but excessive subplots and gags dilute its appeal",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-11-13T08:29:02+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/dnk-movie-review-moulis-crime-comedy-is-funny-but-chaotic/article71696814.ece",
-      "image": "https://th-i.thgim.com/public/incoming/195e6o/article71696833.ece/alternates/LANDSCAPE_1200/ems.jpg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "63cf4ea7eab6a5f2",
-      "title": "‘Itllu Arjuna’ movie review: Aniesh, Anaswara Rajan’s film is a contrived action-romance",
-      "quote": "Debut director Mahesh Uppala’s Telugu entertainer has slick visuals and tolerable humour, but plays it too safe",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-11-13T08:05:55+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/itllu-arjuna-movie-review-aniesh-anaswara-rajans-film-is-a-contrived-action-romance/article71697004.ece",
-      "image": "https://th-i.thgim.com/public/incoming/ilify2/article71697016.ece/alternates/LANDSCAPE_1200/itllu%20arjuna.jpg",
-      "category": "Indian Cinema"
     },
     {
       "id": "a5c569c2c3460fae",
@@ -567,17 +578,6 @@
       "date": "2026-11-12T17:00:00+00:00",
       "link": "https://www.rogerebert.com/reviews/ebenezer-scrooge-johnny-depp-film-review-2026",
       "image": null,
-      "category": "World Cinema"
-    },
-    {
-      "id": "ec9383d7f42921b2",
-      "title": "‘Goats are good. They listen’: the herder who defeated Montenegro’s military – and can identify her cows’ herby burps",
-      "quote": "To Hold a Mountain tells the incredible story of a woman whose way of life was threatened when she heard her pastures were set to become a Nato training zone The star of To Hold a Mountain is having trouble with her…",
-      "publisher": "The Guardian",
-      "author": "Patrick Barkham",
-      "date": "2026-11-12T16:14:17+00:00",
-      "link": "https://www.theguardian.com/film/2026/nov/12/to-hold-a-mountain-film-mileva-gara-jovanovic",
-      "image": "https://i.guim.co.uk/img/media/4d3c6855b73200a5c030617c09edf2f1446d35b1/86_135_1152_922/master/1152.jpg?width=140&quality=85&auto=format&fit=max&s=6f0eec8a5e76fa6e230c9c1c46377ff1",
       "category": "World Cinema"
     },
     {
