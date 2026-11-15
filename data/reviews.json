@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T05:57:37.528386+00:00",
+  "generated_at": "2026-11-15T13:50:09.060242+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -18,6 +18,116 @@
       "link": "https://www.bbc.com/culture/article/20261103-the-norwegian-star-on-her-life-changing-role-in-2021s-the-worst-person-in-the-world?ocid=global_culture_rss",
       "image": "https://ychef.files.bbci.co.uk/144x81/p0pl3vd8.jpg",
       "category": "World Cinema"
+    },
+    {
+      "id": "86dcc5ef633d1c77",
+      "title": "I Ain't Got No Body: The Various Non-Corporeal Aliens In Star Trek Explained",
+      "quote": "There are a surprising number of alien creatures in the Star Trek universe that do not have physical bodies. Here's a breakdown of some of the biggest examples.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Witney Seibold)",
+      "date": "2026-11-15T13:00:00+00:00",
+      "link": "https://www.slashfilm.com/2311655/star-trek-non-corporeal-aliens-explained/",
+      "image": "https://www.slashfilm.com/img/gallery/i-aint-got-no-body-the-various-non-corporeal-aliens-in-star-trek-explained/l-intro-1794263429.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "110051520f866bb4",
+      "title": "Patrick Stewart Had A Small But Important Role In One Of The Best Animated Movies Of The '90s",
+      "quote": "Sir Patrick Stewart used his booming baritone voice to great effect in his vocal performance in one of the best animated movies of the 1990s.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Devin Meenan)",
+      "date": "2026-11-15T12:30:00+00:00",
+      "link": "https://www.slashfilm.com/2310824/patrick-stewart-role-best-animated-movies-90s-prince-of-egypt/",
+      "image": "https://www.slashfilm.com/img/gallery/patrick-stewart-had-a-small-but-important-role-in-one-of-the-best-animated-movies-of-the-90s/l-intro-1794238804.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "c35e47967d73bac2",
+      "title": "Russell Brand Accuser Waives Anonymity, Alleging She Was Raped By Star At Age Of 16",
+      "quote": "One of Russell Brand’s accusers has waived her legal right to anonymity after the Forgetting Sarah Marshall star was imprisoned for rape and sexual assault. In an interview with The Sunday Times journalist Rosamund…",
+      "publisher": "Deadline",
+      "author": "Jake Kanter",
+      "date": "2026-11-15T12:09:06+00:00",
+      "link": "https://deadline.com/2026/11/russell-brand-mia-latter-waives-anonymity-allege-rape-1237224442/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/Screenshot-2026-11-15-at-11.06.18-e1794741080218.png",
+      "category": "World Cinema"
+    },
+    {
+      "id": "7ba6246c8a6e7cdc",
+      "title": "How To Rob A Bank Pays Tribute To A Bruce Willis Movie With A Clever Easter Egg",
+      "quote": "Funnily enough, How to Rob a Bank feels all the more credible thanks to one of its Easter eggs, which tips its hat to Bruce Willis' antics in Die Hard 2.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Bill Bria)",
+      "date": "2026-11-15T12:00:00+00:00",
+      "link": "https://www.slashfilm.com/2311872/how-to-rob-a-bank-bruce-willis-movie-die-hard-2-easter-egg/",
+      "image": "https://www.slashfilm.com/img/gallery/how-to-rob-a-bank-pays-tribute-to-a-bruce-willis-movie-with-a-clever-easter-egg/l-intro-1794412041.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "00367b783c0b7ef5",
+      "title": "James Gunn refuses changes in ‘Superman: Man of Tomorrow’",
+      "quote": "The film, a sequel to 2025’s ‘Superman,’ is set to release on July 9, 2027",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-11-15T11:31:58+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/james-gunn-refuses-changes-in-superman-man-of-tomorrow/article71704638.ece",
+      "image": "https://th-i.thgim.com/public/incoming/eeznsb/article71704644.ece/alternates/LANDSCAPE_1200/2300098583.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "e3479b74060937b1",
+      "title": "HBO Releases Surprise ‘Harry Potter’ Clip Of Hogwarts Banquet",
+      "quote": "HBO has offered up an early taste of the Hogwarts banquet. In a surprise 90-second clip from the upcoming Harry Potter series (see below), HBO showed Hogwarts students tucking into their start-of-term feast after new…",
+      "publisher": "Deadline",
+      "author": "Jake Kanter",
+      "date": "2026-11-15T11:03:17+00:00",
+      "link": "https://deadline.com/2026/11/hbo-surprise-harry-potter-clip-hogwarts-banquet-1237224436/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/Screenshot-2026-11-15-at-10.42.57-e1794739463105.png",
+      "category": "World Cinema"
+    },
+    {
+      "id": "d657787cf853c190",
+      "title": "Veteran Telugu actor Giri Babu dies at 80",
+      "quote": "Through his five-decade-long career, Giri Babu acted in over 600 films He also directed and produced a few films",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-11-15T09:22:57+00:00",
+      "link": "https://www.thehindu.com/news/national/telangana/veteran-telugu-actor-giri-babu-dies-at-80/article71702232.ece",
+      "image": "https://th-i.thgim.com/public/incoming/ui0wb4/article71702389.ece/alternates/LANDSCAPE_1200/VJ03_GIRI_BABU-9.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "ef857c8d9ebad274",
+      "title": "25 Years Later, Dumbledore's Best Sorcerer's Stone Line Is Still The Greatest Harry Potter Quote",
+      "quote": "Professor Dumbledore is always dispensing wisdom to his students in the Harry Potter movies, including this well-known quote from Sorcerer's Stone.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Nina Starner)",
+      "date": "2026-11-15T09:10:00+00:00",
+      "link": "https://www.slashfilm.com/2315763/dumbledore-best-sorcerers-stone-line-greatest-harry-potter-quote/",
+      "image": "https://www.slashfilm.com/img/gallery/25-years-later-dumbledores-best-sorcerers-stone-line-is-still-the-greatest-harry-potter-quote/l-intro-1794599065.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "78f48facda921ff0",
+      "title": "John Mulaney does the (almost) impossible for his seventh time hosting Saturday Night Live",
+      "quote": "",
+      "publisher": "The A.V. Club",
+      "author": "Jesse Hassenger",
+      "date": "2026-11-15T07:53:40+00:00",
+      "link": "https://www.avclub.com/saturday-night-live-recap-season-52-episode-6",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/11/15/SNL-Mulaney.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "b0b7bdc6df814749",
+      "title": "Political leaders mourn veteran Telugu actor Giribabu",
+      "quote": "Governor, Chief Minister, Deputy Chief Minister and YSRCP president recall his contribution to Telugu cinema spanning over five decades and more than 600 films",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-11-15T07:49:24+00:00",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/political-leaders-mourn-veteran-telugu-actor-giribabu/article71701937.ece",
+      "image": "https://th-i.thgim.com/public/incoming/ns3rp5/article71702529.ece/alternates/LANDSCAPE_1200/VJ03_GIRI_BABU-14.jpg",
+      "category": "Indian Cinema"
     },
     {
       "id": "b611e03a00864199",
@@ -42,8 +152,8 @@
       "category": "World Cinema"
     },
     {
-      "id": "d62b53e83570403f",
-      "title": "‘SNL’: John Mulaney Roasts RFK Jr. In Opening Monologue, Makes Out With Jeremy Culhane",
+      "id": "7856cf8e52407f5a",
+      "title": "‘SNL’: John Mulaney Roasts RFK Jr. In Opening Monologue, Makes Out With Jeremy Culhane During 7th Hosting Gig",
       "quote": "John Mulaney returned home to Studio 8H for his seventh time hosting Saturday Night Live. In his opening monologue, the 4x Emmy winner and former SNL writer recalled his time working on the NBC sketch comedy show from…",
       "publisher": "Deadline",
       "author": "Glenn Garner",
@@ -86,26 +196,26 @@
       "category": "World Cinema"
     },
     {
-      "id": "e3c72a864aa1f8ff",
-      "title": "Carrie Coon & Lily James Humanized Cult Member And Leader In Guy Nattiv’s ‘The Liberation’ – Contenders L.A.",
-      "quote": "Carrie Coon and Lily James grew to understand their roles in the cult thriller The Liberation — compounded by the fact that director Guy Nattiv based the film on his own grandmother. Coon plays Rita, an unhappy woman…",
-      "publisher": "Deadline",
-      "author": "Erik Pedersen",
-      "date": "2026-11-15T01:33:31+00:00",
-      "link": "https://deadline.com/2026/11/carrie-coon-lily-james-liberation-interview-1237224238/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/The-Liberation-Contenders.jpg",
-      "category": "World Cinema"
+      "id": "cb4be2808dd3c392",
+      "title": "Michael Bay And David Fincher Worked Together On An Unexpected Project That Still Holds Up Today",
+      "quote": "Once upon a time, filmmakers David Fincher and Michael Bay sort of, kind of worked together to create a memorable music video.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Bill Bria)",
+      "date": "2026-11-15T01:45:00+00:00",
+      "link": "https://www.slashfilm.com/2305381/michael-bay-david-fincher-meat-loaf-music-video-video-anything-for-love-still-holds-up-today/",
+      "image": "https://www.slashfilm.com/img/gallery/michael-bay-and-david-fincher-worked-together-on-an-unexpected-project-that-still-holds-up-today/l-intro-1793722105.jpg",
+      "category": "Indie Gems"
     },
     {
-      "id": "17ab82091ee184dc",
-      "title": "Chris Pratt “Would Love” If James Gunn Made Another ‘Guardians of the Galaxy’ After DC Exit",
-      "quote": "Although James Gunn’s journey with the Man of Steel has come to a close, Chris Pratt hopes they can take another adventure with Star-Lord soon. The Guardians of the Galaxy star recently confessed he “would love” to make…",
-      "publisher": "Deadline",
-      "author": "Glenn Garner",
-      "date": "2026-11-15T01:19:02+00:00",
-      "link": "https://deadline.com/2026/11/chris-pratt-would-love-james-gunn-another-guardians-galaxy-1237224237/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/GUARDIANS-OF-THE-GALAXY-Chris-Pratt-2014.-Walt-Disney-Studios-Motion-PicturesCourtesy-Everett-1000.jpg",
-      "category": "World Cinema"
+      "id": "97520b30bf596757",
+      "title": "Grey's Anatomy's Downfall Can Be Traced Back To One Moment",
+      "quote": "Grey's Anatomy's attempt to tackle a devastating real-world event can be singled out as the beginning of the show's downfall.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Nina Starner)",
+      "date": "2026-11-15T01:00:00+00:00",
+      "link": "https://www.slashfilm.com/2310533/greys-anatomy-downfall-moment/",
+      "image": "https://www.slashfilm.com/img/gallery/greys-anatomys-downfall-can-be-traced-back-to-one-moment/l-intro-1794336890.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "aa0ccf51f1c481b4",
@@ -130,25 +240,14 @@
       "category": "Indie Gems"
     },
     {
-      "id": "c9a369ca800b63a3",
-      "title": "Brad Pitt Helped This Underrated Prime Video Comic Book Adaptation Get Made",
-      "quote": "It's possible that Prime Video greenlit this under-seen, Brad Pitt-produced comic book TV series due to its similarities to Stranger Things.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Devin Meenan)",
-      "date": "2026-11-14T22:45:00+00:00",
-      "link": "https://www.slashfilm.com/2306602/brad-pitt-executive-producer-prime-video-comic-adaptation-paper-girls/",
-      "image": "https://www.slashfilm.com/img/gallery/brad-pitt-helped-this-underrated-prime-video-comic-book-adaptation-get-made/l-intro-1793807015.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "19df1b0f377c0f88",
-      "title": "Slow Horses Star Jack Lowden Was In Dwayne Johnson's Most Underrated Movie",
-      "quote": "Before he starred in Slow Horses, Jack Lowden took on a very different role as a working-class pro wrestler in this underrated Dwayne Johnson movie.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-11-14T22:00:00+00:00",
-      "link": "https://www.slashfilm.com/2316904/slow-horses-star-jack-lowden-dwayne-johnson-movie-fighting-with-my-family/",
-      "image": "https://www.slashfilm.com/img/gallery/slow-horses-star-jack-lowden-was-in-dwayne-johnsons-most-underrated-movie/l-intro-1794682187.jpg",
+      "id": "60b3d4c965e2147f",
+      "title": "Nation's delayed air travelers also somehow forced to sit through live Hoobastank performance",
+      "quote": "Nation's delayed travelers also somehow forced to sit through live Hoobastank performance",
+      "publisher": "The A.V. Club",
+      "author": "William Hughes",
+      "date": "2026-11-14T22:05:13+00:00",
+      "link": "https://www.avclub.com/hoobastank-faa-ground-stop-simple-plan",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/11/14/hoobastank-feature.jpg",
       "category": "Indie Gems"
     },
     {
@@ -163,28 +262,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "2a46546dec17b827",
-      "title": "Ridley Scott's Blade Runner Used Extra Footage From A Stanley Kubrick Movie",
-      "quote": "One version of Blade Runner required a happier ending than director Ridley Scott originally intended, so he called fellow director Stanley Kubrick for help.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Witney Seibold)",
-      "date": "2026-11-14T21:00:00+00:00",
-      "link": "https://www.slashfilm.com/2310493/ridley-scott-blade-runner-footage-stanley-kubrick-movie-the-shining/",
-      "image": "https://www.slashfilm.com/img/gallery/ridley-scotts-blade-runner-used-extra-footage-from-a-stanley-kubrick-movie/l-intro-1793991175.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "43eab42dc88a6b22",
-      "title": "5 Times Patrick Stewart's Jean-Luc Picard Proved He Was Star Trek's Greatest Captain",
-      "quote": "Jean-Luc Picard proved himself again and again as Star Trek's greatest captain. Here are five stellar instances of his leadership on display.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Witney Seibold)",
-      "date": "2026-11-14T20:00:00+00:00",
-      "link": "https://www.slashfilm.com/2314128/times-patrick-stewart-jean-luc-picard-proved-star-trek-greatest-captain/",
-      "image": "https://www.slashfilm.com/img/gallery/5-times-patrick-stewarts-jean-luc-picard-proved-he-was-star-treks-greatest-captain/l-intro-1794427636.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "27dc4ab8d36af7bb",
       "title": "Adam Driver still kind of can't get over how dumb killing The Hunt For Ben Solo was",
       "quote": "Adam Driver still kind of can't get over how dumb killing <i>The Hunt For Ben Solo</i> was.",
@@ -193,17 +270,6 @@
       "date": "2026-11-14T19:28:15+00:00",
       "link": "https://www.avclub.com/adam-driver-still-thinks-its-criminal-disney-killed-the-hunt-for-ben-solo",
       "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/15025248/adam-driver-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "d5ad1ed1a8ebe9a7",
-      "title": "An Incredible Hulk Issue Saved Marvel's X-Men Comic From Cancelation",
-      "quote": "Marvel's X-Men comics might've been permanently canceled if it hadn't been for an Incredible Hulk issue featuring a fella known as Wolverine.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Devin Meenan)",
-      "date": "2026-11-14T19:00:00+00:00",
-      "link": "https://www.slashfilm.com/2310491/the-incredible-hulk-issue-saved-marvel-x-men-cancelation/",
-      "image": "https://www.slashfilm.com/img/gallery/an-incredible-hulk-issue-saved-marvels-x-men-comic-from-cancelation/l-intro-1793985105.jpg",
       "category": "Indie Gems"
     },
     {
@@ -229,17 +295,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "704402e370555aa7",
-      "title": "Batman: The Animated Series' First Pilot Was An Episode Of DC's Super Friends",
-      "quote": "An animated Super Friends episode that was darker than the others can be seen as a Batman: The Animated Series test run.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Devin Meenan)",
-      "date": "2026-11-14T18:00:00+00:00",
-      "link": "https://www.slashfilm.com/2310490/batman-the-animated-series-pilot-dc-super-friends-episode/",
-      "image": "https://www.slashfilm.com/img/gallery/batman-the-animated-series-first-pilot-was-an-episode-of-dcs-super-friends/l-intro-1793988913.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "6da3de36c506f09d",
       "title": "Kevin Feige didn't want Scarlet Witch to appear in VisionQuest, which is pretty funny",
       "quote": "In a new interview, Paul Bettany revealed that Marvel Studios head Kevin Feige asked that Scarlet Witch not appear in <i>VisionQuest</i> so the series could stand on its own.",
@@ -259,28 +314,6 @@
       "date": "2026-11-14T15:44:29+00:00",
       "link": "https://www.avclub.com/james-gunn-squashes-man-of-tomorrow-skydance-rumors-dc-studios",
       "image": "https://www.avclub.com/wp-content/uploads/2026/11/14/gunn-header.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "4862e12e052dc705",
-      "title": "We talk to The Binding Of Isaac's creator about going head-to-head with Grand Theft Auto",
-      "quote": "We talk to <i>The Binding Of Isaac</i>’s creator about going head-to-head with <i>Grand Theft Auto</i>.",
-      "publisher": "The A.V. Club",
-      "author": "William Hughes",
-      "date": "2026-11-14T15:00:59+00:00",
-      "link": "https://www.avclub.com/game-theory-edmund-mcmillen-interview-binding-of-isaac-gta",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/11/12/isaac-feature-with-badge.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "3ad1ffb166eba504",
-      "title": "New Regency is suing Michael Mann for ownership of the Heat screenplay",
-      "quote": "Production company New Regency is suing director Michael Mann over the rights to the screenplay for the 1995 film <i>Heat</i>.",
-      "publisher": "The A.V. Club",
-      "author": "Jarrod Jones",
-      "date": "2026-11-14T14:44:22+00:00",
-      "link": "https://www.avclub.com/heat-copyright-lawsuit-new-regency-michael-mann",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/11/14/heat-header.jpg",
       "category": "Indie Gems"
     },
     {
@@ -358,39 +391,6 @@
       "date": "2026-11-14T07:37:18+00:00",
       "link": "https://www.thehindu.com/entertainment/movies/ramayana-becomes-11th-indian-film-to-cross-rs-1000-crore-mark-at-box-office/article71701145.ece",
       "image": "https://th-i.thgim.com/public/entertainment/movies/sv6ftt/article71701166.ece/alternates/LANDSCAPE_1200/A%20poster%20of%20%E2%80%98Ramayana%20Part%201%E2%80%99",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "e544e681b20fd465",
-      "title": "‘Sarangati’: Hombale Films announces biopic on ISKCON founder",
-      "quote": "Hombale Films and Transcendental Films are teaming up for ‘Saranagati: The Life of a Surrendered Soul’, a biopic about ISKCON founder A. C. Bhaktivedanta Swami Śrīla Prabhupāda",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-11-14T06:56:41+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/hombale-films-sarangati-biopic-iskcon-founder-a-c-bhaktivedanta-swami-srila-prabhupada-salaar-2/article71699397.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/jou5an/article71699453.ece/alternates/LANDSCAPE_1200/Sarangati.png",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "6a2e6dcf282a8387",
-      "title": "‘Lambodhara 2.0’ movie review: Suni’s ambitious experiment lacks emotional heft",
-      "quote": "In the Kannada movie ‘Lambodhara 2.0’ by director Suni, flat performances and predictable twists overshadow a relevant premise",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-11-14T06:19:32+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/lambodhara-20-review-kannada-movie-simple-suni-anil-shetty-lambodhara-20-movie-review/article71699523.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/jxkm4n/article71699532.ece/alternates/LANDSCAPE_1200/Lambodhara.jpeg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "bc62c7e426a941f5",
-      "title": "Beyond Bigg Boss: Shine Shetty speaks about starting afresh with ‘Shankarabharanna’",
-      "quote": "Having realised reality-show fame is fleeting, Kannada actor Shine Shetty is turning producer with ‘Shankarabharanna’. The movie is directed by Sumanth Bhat and also stars Malayalam actor Tanvi Ram",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-11-14T05:54:57+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/shankarabharanna-shine-shetty-interview-kannada-movie-sumanth-bhat-shankarabharanna-kannada-bigg-boss/article71692412.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/ohla9g/article71699565.ece/alternates/LANDSCAPE_1200/Shine2.jpg",
       "category": "Indian Cinema"
     },
     {
