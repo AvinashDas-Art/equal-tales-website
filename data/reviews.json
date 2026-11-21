@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T23:53:55.870855+00:00",
+  "generated_at": "2026-11-21T06:45:10.596307+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -17,6 +17,83 @@
       "date": "2026-11-26T10:50:00+00:00",
       "link": "https://www.bbc.com/culture/article/20261103-the-norwegian-star-on-her-life-changing-role-in-2021s-the-worst-person-in-the-world?ocid=global_culture_rss",
       "image": "https://ychef.files.bbci.co.uk/144x81/p0pl3vd8.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "836bbef40c99e857",
+      "title": "Hungry for action? Our critics’ verdicts on the week’s UK cinema releases",
+      "quote": "A Hunger Games cash-grab, up close with Elizabeth Holmes, Helen Mirren plays Patricia Highsmith, and Maradona’s helping hand … here are all the latest film releases at a glance *** Continue reading...",
+      "publisher": "The Guardian",
+      "author": "Peter Bradshaw, Cath Clarke, Phuong Le, Phil Hoad, Andrew Pulver, Andrew Lawrence and Benjamin Lee",
+      "date": "2026-11-21T06:00:50+00:00",
+      "link": "https://www.theguardian.com/film/ng-interactive/2026/nov/21/hungry-for-action-our-critics-verdicts-on-the-weeks-uk-cinema-releases",
+      "image": "https://i.guim.co.uk/img/media/20fb49996b2efa5ff467e0d03c22ab4a569ced79/4_0_4195_3355/master/4195.jpg?width=140&quality=85&auto=format&fit=max&s=f1fcaedf0894ef56f681d1f1cd0a4d4d",
+      "category": "World Cinema"
+    },
+    {
+      "id": "87a38288b6bca17b",
+      "title": "Taylor Swift named International Artist of the Year at Dadasaheb Phalke International Film Festival 2026",
+      "quote": "Several international names, including Michael B. Jordan, Paul Thomas Anderson, Jessie Buckley and James Cameron, have also been named as recipients of the award.",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-11-21T05:06:15+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/taylor-swift-named-international-artist-of-the-year-at-dadasaheb-phalke-international-film-festival-2026/article71727317.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/fl9ohx/article71727337.ece/alternates/LANDSCAPE_1200/Taylor%20Swift",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "4e252cc4818c73a0",
+      "title": "‘Real Time’: Bill Maher Jokes ‘GTA VI’ Has Caused “More Workplace Absences Than ICE,” Notes He’s Glad James Bond Cast “Very Heterosexual Male”",
+      "quote": "After Grand Theft Auto VI and James Bond took over social media this week, Bill Maher has added his two cents to the discourse before going on hiatus. On Friday’s Season 24 finale of Real Time, the comedian expressed…",
+      "publisher": "Deadline",
+      "author": "Glenn Garner",
+      "date": "2026-11-21T04:17:52+00:00",
+      "link": "https://deadline.com/2026/11/real-time-bill-maher-gta-vi-james-bond-cast-1237230827/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/Semafor-Silicon-Valley-The-World-Day-Two-1000_ca95e1-e1795234772833.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "ccf0a3613f0784ed",
+      "title": "Everything To Know About ‘Presumed Innocent’ Season 2 As Apple Series Goes Anthology",
+      "quote": "Apple TV+’s Presumed Innocent will be back for a second season, but Season 2 will diverge from the first installment. The legal drama series was renewed in July 2024 with its final two episodes still to launch on Apple…",
+      "publisher": "Deadline",
+      "author": "Dessi Gomez",
+      "date": "2026-11-21T03:03:06+00:00",
+      "link": "https://deadline.com/feature/presumed-innocent-season-2-news-updates-1236568924/",
+      "image": "https://deadline.com/wp-content/uploads/2024/06/Presumed_Innocent_Photo_010101.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "a6aee7cb53aba907",
+      "title": "‘The Hunger Games: Sunrise On The Reaping’ Album Boasts 29 Songs; Releases Ahead Of Film",
+      "quote": "UPDATED, Nov. 20: The Hunger Games: Sunrise on the Reaping is finally here, full of both bleak torturous scenes and also hopeful ones. With a full companion album complete with many original songs inspired by the film…",
+      "publisher": "Deadline",
+      "author": "Dessi Gomez",
+      "date": "2026-11-21T02:55:51+00:00",
+      "link": "https://deadline.com/feature/hunger-games-sunrise-on-the-reaping-songs-soundtrack-album-1237165820/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/Ralph-Fiennes-Pres-Snow-Purple-Smoke.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "aedcf94707dc1f99",
+      "title": "Palisades Fire Arson Suspect Convicted, Faces 40 Years In Prison",
+      "quote": "UPDATED, 5:50 PM: A Los Angeles jury has convicted the man charged with setting the smoldering fire that later flared up into Palisades Fire that devastated Pacific Palisades and Malibu in early 2025. Jonathan…",
+      "publisher": "Deadline",
+      "author": "Dominic Patten",
+      "date": "2026-11-21T01:50:00+00:00",
+      "link": "https://deadline.com/2026/11/palisades-fire-trial-verdict-1236967822/",
+      "image": "https://deadline.com/wp-content/uploads/2025/01/GettyImages-2193894277.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "204a91fdd76507e7",
+      "title": "‘Yellowjackets’ Stars Melanie Lynskey & Christina Ricci On Misty’s Plot “To Save Themselves” From Shauna: “She’ll Be The Downfall Of Everybody”",
+      "quote": "SPOILERS: This post contains details about the Yellowjackets Season 4 premiere episode “Hivemind” As the final season of Yellowjackets debuts, it appears the team could be prepping one last sacrifice to the wilderness…",
+      "publisher": "Deadline",
+      "author": "Glenn Garner",
+      "date": "2026-11-21T01:47:22+00:00",
+      "link": "https://deadline.com/2026/11/yellowjackets-melanie-lynskey-christina-ricci-misty-plot-1237230788/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/Lynskey-RIcci-Yellowjackets-2-shot.jpg",
       "category": "World Cinema"
     },
     {
@@ -53,28 +130,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "9cacc028083eb872",
-      "title": "‘Hunger Games: Sunrise On The Reaping’ Begins Global Weekend With $76M Running Cume – Update",
-      "quote": "EXCLUSIVE: Lionsgate’s sixth Hunger Games move, The Hunger Games: The Sunrise on the Reaping, is off to a strong start with $24.6M through Thursday night. Add that to the expected $51M Friday, which includes $21M in…",
-      "publisher": "Deadline",
-      "author": "Anthonypauldalessandro",
-      "date": "2026-11-20T23:16:11+00:00",
-      "link": "https://deadline.com/2026/11/box-office-global-hunger-games-sunrise-on-the-reaping-1237230714/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/MCDHUGA_LG068.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "4907ad5db5df978f",
-      "title": "Bassam Tariq On Exiting Marvel’s ‘Blade’: “Life’s Too Short To Make Sh** Films”",
-      "quote": "Bassam Tariq was once attached to direct Marvel’s Blade with Mahershala Ali, but eventually exited the project. In a new interview, the Your Mother Your Mother Your Mother director reveals why he decided not to helm the…",
-      "publisher": "Deadline",
-      "author": "Armando Tinoco",
-      "date": "2026-11-20T23:05:11+00:00",
-      "link": "https://deadline.com/2026/11/bassam-tariq-marvel-blade-director-1237230728/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/mahershala-ali-bassam-tariq.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "515a041ddee3c00c",
       "title": "5 Best New Movies And Shows To Stream This Weekend On Netflix, HBO Max, Paramount Plus, And More (Nov. 20-22)",
       "quote": "With Thanksgiving coming up quickly, here are some worthwhile movies and TV shows (including returning series like Yellowjackets) to stream this weekend.",
@@ -84,39 +139,6 @@
       "link": "https://www.slashfilm.com/2322786/best-movies-tv-shows-streaming-netflix-hbo-max-paramount-plus-november-20-22-weekend/",
       "image": "https://www.slashfilm.com/img/gallery/5-best-new-movies-and-shows-to-stream-this-weekend-on-netflix-hbo-max-paramount-plus-and-more-nov-20-22/l-intro-1795181370.jpg",
       "category": "Indie Gems"
-    },
-    {
-      "id": "bcd8a1d9401a48d1",
-      "title": "Lauren Neustadter Exiting Reese Witherspoon’s Hello Sunshine",
-      "quote": "Lauren Neustadter, President of Film & Television at Hello Sunshine, is leaving Reese Witherspoon’s company after nearly a decade. It comes just over a month after French group Mediawan, which backs Chernin…",
-      "publisher": "Deadline",
-      "author": "Peterdeadline",
-      "date": "2026-11-20T22:37:32+00:00",
-      "link": "https://deadline.com/2026/11/lauren-neustadter-exits-reese-witherspoon-hello-sunshine-1237230709/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/GettyImages-2260862044.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "a9a110e1a1a084fe",
-      "title": "E.J. Carroll Dies: ‘The Deuce,’ ‘Boardwalk Empire,’ ‘Law & Order’ Actor Was 66",
-      "quote": "E.J. Carroll, a veteran character actor whose credits include The Deuce, Boardwalk Empire, Blue Bloods three Law & Order series and Grand Theft Auto V, died November 19. He was 66. His rep Jon Mason of Mason-Lewis…",
-      "publisher": "Deadline",
-      "author": "Erik Pedersen",
-      "date": "2026-11-20T22:27:54+00:00",
-      "link": "https://deadline.com/2026/11/e-j-carroll-dead-deuce-boardwalk-empire-blue-bloods-1237230599/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/E.J.-Carroll.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "d6a6142b571f4171",
-      "title": "CMA Awards Hit 7-Year Audience High With Taylor Swift’s Return",
-      "quote": "Taylor Swift certainly brought her fans with her back to Country Music’s Biggest Night. The 60th annual ceremony hit a seven-year audience high with 7.62 million total live + same-day viewers tuning in for the CMA…",
-      "publisher": "Deadline",
-      "author": "Katie Campione",
-      "date": "2026-11-20T22:23:13+00:00",
-      "link": "https://deadline.com/2026/11/cma-awards-60th-ratings-taylor-swift-abc-disney-1237230702/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/GettyImages-2305799371.jpg",
-      "category": "World Cinema"
     },
     {
       "id": "8b5f97887171da12",
@@ -139,6 +161,17 @@
       "link": "https://www.slashfilm.com/2323789/mobland-season-2-finale-jan-de-souza-death-explained/",
       "image": "https://www.slashfilm.com/img/gallery/mobland-season-2-finale-delivers-the-shows-most-shocking-death-yet/l-intro-1795211197.jpg",
       "category": "Indie Gems"
+    },
+    {
+      "id": "52aef12261c54cfc",
+      "title": "The Calf Doll’s Ankur Hooda: ‘Haryana’s cinema has barely explored its rich cultural landscape’",
+      "quote": "Debutant Ankur Hooda on his fictionalised personal tale The Calf Doll, on a vanishing rural world, Haryanvi cinema’s untapped possibilities, and heralding a new wave",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-11-20T21:01:54+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/the-calf-doll-ankur-hooda-haryanvi-cinema-interview/article71719308.ece",
+      "image": "https://th-i.thgim.com/public/incoming/x2tb0r/article71726035.ece/alternates/LANDSCAPE_1200/Untitled%20Design%20-%202026-11-21T013859.480.jpg",
+      "category": "Indian Cinema"
     },
     {
       "id": "6e632530e6c166a0",
@@ -482,28 +515,6 @@
       "category": "Indian Cinema"
     },
     {
-      "id": "74f098b899c75a9b",
-      "title": "Kareena Kapoor Khan on 25 years of ‘Kabhi Khushi Kabhie Gham’ and recreating Raichand House",
-      "quote": "As Karan Johar’s family drama clocks 25, Kareena Kapoor Khan speaks about Airbnb bringing back the iconic Raichand House as an experience, why playing the flamboyant Poo was challenging, and why the film continues to…",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-11-20T10:46:25+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/kareena-kapoor-khan-on-25-years-of-kabhi-khushi-kabhie-gham-and-recreating-raichand-house-karan-johar/article71723293.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/v3aiyi/article71723304.ece/alternates/LANDSCAPE_1200/Kareena%20Kapoor%20Khan%20at%20The%20Raichand%20House%20created%20as%20an%20experience%20by%20Airbnb",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "b4d9c5eddb67660e",
-      "title": "‘Shankarabharanna’ movie review: A technically solid film that works for its moments",
-      "quote": "Sumanth Bhat’s ‘Shankarabharanna’, starring Shine Shetty, has impressive world-building thanks to the excellent sound design and music, but the movie lacks a fullfilling story",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-11-20T10:45:31+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/shankarabharanna-movie-review-a-technically-solid-film-that-works-for-its-moments-shine-shetty/article71724000.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/y6v21n/article71724065.ece/alternates/LANDSCAPE_1200/Shine%20Shetty%20in%20%E2%80%98Shankarabharanna%E2%80%99",
-      "category": "Indian Cinema"
-    },
-    {
       "id": "6cb4a871547b5f78",
       "title": "NFL legend John Madden’s unlikely, unfiltered brilliance: ‘Coach was indeed animated’",
       "quote": "With the release of a new David O Russell biopic about the coach turned commentator turned gaming icon, those who knew him best remember his singular career Wearing his Oakland Raiders uniform and helmet, and gripping…",
@@ -512,17 +523,6 @@
       "date": "2026-11-20T10:00:31+00:00",
       "link": "https://www.theguardian.com/film/2026/nov/20/john-madden-nfl-football-biopic",
       "image": "https://i.guim.co.uk/img/media/ff3c10f861a40a1efd638887cff36f3441f3141c/503_175_1613_1291/master/1613.jpg?width=140&quality=85&auto=format&fit=max&s=8733e8b706d3108692addfdd98d38590",
-      "category": "World Cinema"
-    },
-    {
-      "id": "9a8a644160541dec",
-      "title": "‘My body started consuming itself. I was a millimetre from death’: Andrey Zvyagintsev on Covid, Putin and life in exile",
-      "quote": "The Russian film-maker spent 40 days in a coma and suffered 92% lung damage during the pandemic. He describes how making new movie Minotaur helped his rehabilitation Andrey Zvyagintsev tells the tale of a knight who is…",
-      "publisher": "The Guardian",
-      "author": "Xan Brooks",
-      "date": "2026-11-20T08:00:26+00:00",
-      "link": "https://www.theguardian.com/film/2026/nov/20/andrey-zvyagintsev-covid-putin-russia-life-in-exile",
-      "image": "https://i.guim.co.uk/img/media/146c3d30723566dfb145291ced44ed074a396e30/468_0_9657_7726/master/9657.jpg?width=140&quality=85&auto=format&fit=max&s=5c9141ee1a8f92fc6a92709906217422",
       "category": "World Cinema"
     },
     {
