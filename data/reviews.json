@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T18:59:25.533831+00:00",
+  "generated_at": "2026-11-22T06:14:49.894553+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -20,25 +20,223 @@
       "category": "World Cinema"
     },
     {
-      "id": "3a26d0c094e50947",
-      "title": "Nicolas Cage And Christian Bale's Sports Movie Is Officially Prime Video's Biggest Streaming Hit",
-      "quote": "A new sports movie starring Nicolas Cage and Christian Bale is at the top of Prime Video's streaming chart, despite being panned by critics.",
+      "id": "bdf8159ddce68d8a",
+      "title": "‘American Psycho’ Gets Axed: Luca Guadagnino Confirms His Adaptation Is “Not Happening”",
+      "quote": "Luca Guadagnino has to return some videotapes. The Oscar-nominated director is passing on Scott Z. Burns’ American Psycho adaptation. While appearing on Deadline’s Crew Call podcast, Guadagnino told Anthony D’Allesandro…",
+      "publisher": "Deadline",
+      "author": "Glenn Garner",
+      "date": "2026-11-22T04:21:37+00:00",
+      "link": "https://deadline.com/2026/11/luca-guadagnino-american-psycho-not-happening-1237231106/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/American-Psycho-Luca-Guadagnino-2-shot.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "57ed169020045b7e",
+      "title": "Sean Astin Mobilizes SAG-AFTRA In Fight For Universal Healthcare As “Substantial Majority” Of Members Don’t Qualify For Insurance",
+      "quote": "As many SAG-AFTRA members struggle to qualify for health insurance, the union is taking the issue to the U.S. government. On Friday, Screen Actors Guild President Sean Astin announced the President’s Healthcare Task…",
+      "publisher": "Deadline",
+      "author": "Glenn Garner",
+      "date": "2026-11-22T03:09:17+00:00",
+      "link": "https://deadline.com/2026/11/sean-astin-mobilizes-sag-aftra-iuniversal-healthcare-1237231076/",
+      "image": "https://deadline.com/wp-content/uploads/2026/02/GettyImages-1689516333-e1793327854265.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "7e004122981887af",
+      "title": "Before Spider-Man, Kirsten Dunst Was In An Episode Of Star Trek: The Next Generation",
+      "quote": "Before her big break with Interview with the Vampire, and long before Spider-Man, Kirsten Dunst showed up on Star Trek: The Next Generation.",
       "publisher": "/Film",
-      "author": "staff@slashfilm.com (Jeremy Smith)",
-      "date": "2026-11-21T18:09:03+00:00",
-      "link": "https://www.slashfilm.com/2324114/nicolas-cage-christian-bale-sports-movie-madden-streaming-prime-video/",
-      "image": "https://www.slashfilm.com/img/gallery/nicolas-cage-and-christian-bales-sports-movie-is-officially-prime-videos-biggest-streaming-hit/l-intro-1795282453.jpg",
+      "author": "staff@slashfilm.com (Chris Sims)",
+      "date": "2026-11-22T01:00:00+00:00",
+      "link": "https://www.slashfilm.com/2318144/spider-man-kirsten-dunst-star-trek-the-next-generation-episode/",
+      "image": "https://www.slashfilm.com/img/gallery/before-spider-man-kirsten-dunst-was-in-an-episode-of-star-trek-the-next-generation/l-intro-1794855222.jpg",
       "category": "Indie Gems"
     },
     {
-      "id": "127a81d5d515c75e",
-      "title": "One Of The Most Unsettling Movies Of The '60s Is A Must-Watch On HBO Max",
-      "quote": "Critics and audiences alike were baffled by this unsettling 1960s movie now streaming on HBO Max, and that's part of what makes it special.",
+      "id": "051c86612f319940",
+      "title": "‘Yellowjackets’ Creators On Ending Show Ahead Of Original Five-Season Plan: “We Chose To Try To Squeeze It In”",
+      "quote": "While many Yellowjackets fans are struggling to cope with the inevitable end, for its series creators, it was the right time to land the plane. Discussing the fourth and final season with Deadline, Ashley Lyle and Bart…",
+      "publisher": "Deadline",
+      "author": "Glenn Garner",
+      "date": "2026-11-22T00:51:31+00:00",
+      "link": "https://deadline.com/2026/11/yellowjackets-creators-ending-show-ahead-five-season-plan-1237231035/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/Yellowjackets_403_DS_0327_0808_RT.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "60f0b93c7200c60b",
+      "title": "Why Beetee Latier From The Hunger Games: Sunrise On The Reaping Looks So Familiar",
+      "quote": "The Hunger Games: Sunrise on the Reaping stars Kelvin Harrison Jr. as the younger version of Beetee Latier. Here's where you might know Harrison from.",
       "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-11-21T18:00:00+00:00",
-      "link": "https://www.slashfilm.com/2317952/persona-60s-most-unsettling-movies-must-watch-hbo-max/",
-      "image": "https://www.slashfilm.com/img/gallery/one-of-the-most-unsettling-movies-of-the-60s-is-a-must-watch-on-hbo-max/l-intro-1794847024.jpg",
+      "author": "staff@slashfilm.com (Devin Meenan)",
+      "date": "2026-11-22T00:30:00+00:00",
+      "link": "https://www.slashfilm.com/2324167/beetee-latier-the-hunger-games-sunrise-on-the-reaping-actor-kelvin-harrison-jr/",
+      "image": "https://www.slashfilm.com/img/gallery/why-beetee-latier-from-the-hunger-games-sunrise-on-the-reaping-looks-so-familiar/l-intro-1795292963.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "6589768fa817f798",
+      "title": "John Carpenter Reveals Robert Rodriguez Back In Running To Helm ‘Escape from New York’ Reimagining",
+      "quote": "After 45 years, John Carpenter is still finding the right director to break an old cult classic out of lockup. Having recently tapped Zack Snyder to write and direct a reimagining of Escape from New York, Carpenter…",
+      "publisher": "Deadline",
+      "author": "Glenn Garner",
+      "date": "2026-11-22T00:10:01+00:00",
+      "link": "https://deadline.com/2026/11/john-carpenter-robert-rodriguez-running-helm-escape-new-york-1237231028/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/Escape-New-York-Robert-Rodriguez-2-shot.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "53e5839498a52ebf",
+      "title": "Guy Pearce's Remake Of A '60s Sci-Fi Classic Deserved Better At The Box Office",
+      "quote": "In 2002, Guy Pearce starred in an ill-fated movie adaptation of a classic sci-fi novel that had already been adapted into a film in the 1960s.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Witney Seibold)",
+      "date": "2026-11-22T00:00:00+00:00",
+      "link": "https://www.slashfilm.com/2310492/guy-pearce-remake-60s-sci-fi-movie-the-time-machine/",
+      "image": "https://www.slashfilm.com/img/gallery/guy-pearces-remake-of-a-60s-sci-fi-classic-deserved-better-at-the-box-office/l-intro-1793987934.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "c880e9c8b1606cc3",
+      "title": "Chris Harrison’s ‘The Vow’ Star Apologizes For Grabbing Contestant’s Butt: “I Made A Mistake”",
+      "quote": "As Chris Harrison leaves the Bachelor Mansion behind for Fox Nation’s The Vow, the dating show’s first eligible Christian is facing some judgment. Jace Cates, the star of the new faith-based dating show, apologized for…",
+      "publisher": "Deadline",
+      "author": "Glenn Garner",
+      "date": "2026-11-21T23:37:34+00:00",
+      "link": "https://deadline.com/2026/11/chris-harrison-the-vow-star-apologizes-grabbing-contestant-butt-1237231025/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/Screenshot-2026-11-21-at-3.18.44-PM.png",
+      "category": "World Cinema"
+    },
+    {
+      "id": "a2c2c87438fe2833",
+      "title": "5 Of The Best Sci-Fi Movie Black Friday Deals Under $20",
+      "quote": "You want some red hot Black Friday deals on sci-fi movies you can buy for under $20? Even if you don't, play along and click this link!",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Ryan Scott)",
+      "date": "2026-11-21T23:30:00+00:00",
+      "link": "https://www.slashfilm.com/2323527/best-sci-fi-movies-black-friday-deals-under-20-dollars/",
+      "image": "https://www.slashfilm.com/img/gallery/5-of-the-best-sci-fi-movie-black-friday-deals-under-20/l-intro-1795204156.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "b0d1bbdeefacecb0",
+      "title": "Mariska Hargitay Made Her Acting Debut In A Cult Favorite '80s Horror Movie",
+      "quote": "Long before becoming synonymous with the Law & Order franchise, Mariska Hargitay got her film acting start in this Gremlins-y '80s horror movie.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Ryan Scott)",
+      "date": "2026-11-21T23:00:00+00:00",
+      "link": "https://www.slashfilm.com/2316430/mariska-hargitay-acting-debut-cult-80s-horror-movie-ghoulies/",
+      "image": "https://www.slashfilm.com/img/gallery/mariska-hargitay-made-her-acting-debut-in-a-cult-favorite-80s-horror-movie/l-intro-1794597980.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "26c1c3ff0795f8b6",
+      "title": "5 Actors Who Should Play M In Robert Pattinson's James Bond Movies",
+      "quote": "James Bond's boss M calls for an Oscar-caliber actor, so here are our picks for who should play the role opposite Robert Pattinson as 007.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Ryan Scott)",
+      "date": "2026-11-21T22:45:00+00:00",
+      "link": "https://www.slashfilm.com/2321752/actors-play-m-robert-pattinson-james-bond-movies/",
+      "image": "https://www.slashfilm.com/img/gallery/5-actors-who-should-play-m-in-robert-pattinsons-james-bond-movies/l-intro-1795102241.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "87882dbd0f83a651",
+      "title": "Is SNL New Tonight? (November 21, 2026) Musical Guest, Host, Start Time",
+      "quote": "Is Saturday Night Live new tonight? Here's everything to know about the upcoming SNL musical guest, host, start time, and what's coming next in Season 52.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Ethan Anderton)",
+      "date": "2026-11-21T22:10:00+00:00",
+      "link": "https://www.slashfilm.com/2320911/is-snl-new-tonight-november-21-2026-musical-guest-host-start-time/",
+      "image": "https://www.slashfilm.com/img/gallery/is-snl-new-tonight-november-21-2026/l-intro-1795027360.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "5d907862576f5626",
+      "title": "Star Trek: The Motion Picture Was The First Movie To Feature This Iconic Marketing Tie-In",
+      "quote": "The first movie to ever have this particular fast-food tie-in was Star Trek: The Motion Picture, and it was all done in the name of helping a ballooning budget.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Chris Sims)",
+      "date": "2026-11-21T22:00:00+00:00",
+      "link": "https://www.slashfilm.com/2319176/star-trek-the-motion-picture-first-movie-marketing-tie-in-happy-meal/",
+      "image": "https://www.slashfilm.com/img/gallery/star-trek-the-motion-picture-was-the-first-movie-to-feature-this-iconic-marketing-tie-in/l-intro-1794928052.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "52a9a516f10f2372",
+      "title": "Kaitlan Collins Notes ‘Real Time’ Absence Was Due To White House Press Conference",
+      "quote": "The Season 24 finale of Real Time with Bill Maher featured a last-minute guest change as Kaitlan Collins was held up in Washington DC. Although she was scheduled to appear on the HBO talk show alongside newly elected…",
+      "publisher": "Deadline",
+      "author": "Glenn Garner",
+      "date": "2026-11-21T21:54:04+00:00",
+      "link": "https://deadline.com/2026/11/kaitlan-collins-real-time-absence-white-house-press-conference-1237231015/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/GettyImages-2295827851.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "f7f55f0c3def1bef",
+      "title": "‘Artificial’ Filmmaker Luca Guadagnino On Whether AI Is Humanity’s Doomsday & Sam Altman’s Arsenal – Crew Call Podcast",
+      "quote": "Unlike Sony’s recent theatrical release of The Social Reckoning, which arguably didn’t resonate with the current tech era we’re living in, Neon is unwrapping Luca Guadagnino’s Artificial about Open AI co-founders Sam…",
+      "publisher": "Deadline",
+      "author": "Anthonypauldalessandro",
+      "date": "2026-11-21T20:45:59+00:00",
+      "link": "https://deadline.com/2026/11/luca-guadagnino-artificial-interview-sam-altman-openai-1237230964/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/GettyImages-2299206209.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "eaadbdbf117093b3",
+      "title": "Netflix now demanding sitcom episodes be even shorter",
+      "quote": "Netflix now demanding that sitcom episodes be even shorter.",
+      "publisher": "The A.V. Club",
+      "author": "William Hughes",
+      "date": "2026-11-21T20:22:52+00:00",
+      "link": "https://www.avclub.com/netflix-minimum-wage-15-minute-sitcom-episodes",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/11/21/minimum-wage-show-feature.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "1eeac1b1ef7c9c8b",
+      "title": "Jennifer Lopez thinks a bit more money could have been spent on marketing Kiss Of The Spider Woman",
+      "quote": "Considering its pedigree, you'd think <i>Kiss Of The Spider Woman</i>—a glamorous, dramatic update of the stage musical directed by Bill Condon and starring Jennifer Lopez—would have made a bigger splash than it…",
+      "publisher": "The A.V. Club",
+      "author": "Jarrod Jones",
+      "date": "2026-11-21T20:05:02+00:00",
+      "link": "https://www.avclub.com/kiss-of-the-spider-woman-marketing-jennifer-lopez-bill-condon",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/11/21/spider-woman-header.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "cad4ff9055825f7b",
+      "title": "Watermelon Expands Production Ambitions As It Seals Partnership With Qatar’s Film Committee",
+      "quote": "Watermelon Pictures and the Film Committee at Media City Qatar have announced a planned strategic partnership to develop and co-produce a slate of films telling stories from the Global South. The partnership marks a…",
+      "publisher": "Deadline",
+      "author": "Melanie Goodfellow",
+      "date": "2026-11-21T19:43:07+00:00",
+      "link": "https://deadline.com/2026/11/watermelon-production-partnership-qatar-film-committee-1237230984/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/2c7dac87-c5d7-4a8c-8dee-54402dcfc9ed.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "789c071fe91070cd",
+      "title": "You Can See Everything makes enough money to sneak past the Golden Globes' anti-doc rules",
+      "quote": "<i>You Can See Everything</i> makes enough money to sneak past the Golden Globes' anti-documentary rules.",
+      "publisher": "The A.V. Club",
+      "author": "William Hughes",
+      "date": "2026-11-21T18:23:23+00:00",
+      "link": "https://www.avclub.com/you-can-see-everything-100-million-golden-globes-eligibility",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/11/21/ycse-egg-feature.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "67dd653f67b03277",
+      "title": "Christian Bale explains why his Batman voice sounded like that",
+      "quote": "In a new interview, Christian Bale explains why his Bat-voice sounded the way it did, and it turns out that being encased in Val Kilmer's old rubber Bat-suit during his <i>Batman Begins</i> audition brought out…",
+      "publisher": "The A.V. Club",
+      "author": "Jarrod Jones",
+      "date": "2026-11-21T18:16:16+00:00",
+      "link": "https://www.avclub.com/christian-bale-batman-voice-the-dark-knight-val-kilmer",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/11/21/bale-header.jpg",
       "category": "Indie Gems"
     },
     {
@@ -53,136 +251,48 @@
       "category": "Indian Cinema"
     },
     {
-      "id": "42577f4897782fc0",
-      "title": "Roger Ebert Preferred This Divisive 2007 Fantasy Movie Over The Lord Of The Rings",
-      "quote": "Roger Ebert wasn't quite as taken with Peter Jackson's Lord of the Rings films as other critics and felt this 2007 fantasy flick was actually better than them.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Devin Meenan)",
-      "date": "2026-11-21T17:00:00+00:00",
-      "link": "https://www.slashfilm.com/2317922/roger-ebert-prefer-2007-fantasy-movie-over-lord-of-the-rings-the-golden-compass/",
-      "image": "https://www.slashfilm.com/img/gallery/roger-ebert-preferred-this-divisive-2007-fantasy-movie-over-the-lord-of-the-rings/l-intro-1794848795.jpg",
+      "id": "f279d5512877bd41",
+      "title": "An American Tail captured something universal about the immigration experience",
+      "quote": "40 years ago, the family-friendly animation An American Tail depicted the somber realities of moving to a new country.",
+      "publisher": "The A.V. Club",
+      "author": "Monica Castillo",
+      "date": "2026-11-21T17:00:53+00:00",
+      "link": "https://www.avclub.com/an-american-tail-don-bluth-anniversary-universal-immigrant-experience",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/11/20/an-american-tail-header.jpg",
       "category": "Indie Gems"
     },
     {
-      "id": "0d0657051578077d",
-      "title": "‘Percy Jackson’: How A Quest To Save Annabeth Makes Everyone Reevaluate Their Relationships In Season 3",
-      "quote": "SPOILER ALERT! This post contains some details from the first two episodes of Percy Jackson and the Olympians Season 3. If there is one thing that the kids of Camp Half-Blood can count on, it’s that their lives are only…",
-      "publisher": "Deadline",
-      "author": "Katie Campione",
-      "date": "2026-11-21T16:30:00+00:00",
-      "link": "https://deadline.com/2026/11/percy-jackson-season-3-walker-scobell-leah-jeffries-percabeth-1237230405/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/178533_0519_v1_eb35435d_f32a30.jpeg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "81e767b7aced0643",
-      "title": "‘Hunger Games: Sunrise On The Reaping’ Returns Lionsgate Franchise To Fortune With $120M+ U.S. Opening – Box Office Update",
-      "quote": "SATURDAY AM: Lionsgate has gotten The Hunger Games franchise back in the $100M+ opening range that this Suzanne Collins IP is known for on the big screen as the sixth film, The Hunger Games: Sunrise on the Reaping, is…",
-      "publisher": "Deadline",
-      "author": "Anthonypauldalessandro",
-      "date": "2026-11-21T16:25:00+00:00",
-      "link": "https://deadline.com/2026/11/box-office-hunger-games-sunrise-on-the-reaping-1237229925/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/The-Hunger-Games-Sunrise-On-The-Reaping-3.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "ba36e71ab2b319c4",
-      "title": "10 Best Directing Duos Of All Time, Ranked",
-      "quote": "Most filmmakers are singular voices honing their vision for the big screen, but these are the best directing duos that cinema has ever seen.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Trace Sauveur)",
-      "date": "2026-11-21T16:10:00+00:00",
-      "link": "https://www.slashfilm.com/2320628/best-directing-duos-ranked/",
-      "image": "https://www.slashfilm.com/img/gallery/10-best-directing-duos-of-all-time-ranked/l-intro-1795019849.jpg",
+      "id": "681022f1db7fc7d6",
+      "title": "Someone's made an AI Sam Kinison and intends to use it",
+      "quote": "Sam Kinison could scream on screens again as an AI avatar, thanks to an agreement between the late comedian's estate and a talent agency to use Kinison's likeness in \"opportunities across multiple verticals.\"",
+      "publisher": "The A.V. Club",
+      "author": "Jarrod Jones",
+      "date": "2026-11-21T16:25:51+00:00",
+      "link": "https://www.avclub.com/sam-kinison-ai-avatar",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/11/21/kinison-header.jpg",
       "category": "Indie Gems"
     },
     {
-      "id": "60975856f48470f0",
-      "title": "Nicolas Cage's Acclaimed '90s Neo Western Thriller Flop Is Worth Revisiting",
-      "quote": "Those keen to watch '90s-era Nicolas Cage square off against Dennis Hopper should seek out this lean-and-mean neo-Western thriller.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Jeremy Smith)",
-      "date": "2026-11-21T16:00:00+00:00",
-      "link": "https://www.slashfilm.com/2317782/nicolas-cage-90s-neo-western-thriller-flop-red-rock-west/",
-      "image": "https://www.slashfilm.com/img/gallery/nicolas-cages-acclaimed-90s-neo-western-thriller-flop-is-worth-revisiting/l-intro-1795018401.jpg",
+      "id": "494c3ce792f12fe3",
+      "title": "How to decode the chaos of streaming release schedules",
+      "quote": "To binge or not to binge? That is the question for most streamers these days, who prefer to let chaos reign.",
+      "publisher": "The A.V. Club",
+      "author": "Alex Cranz",
+      "date": "2026-11-21T15:00:54+00:00",
+      "link": "https://www.avclub.com/netflix-amazon-apple-peacock-streaming-release-schedule-chaos",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/11/20/MixCollage-17-Nov-2026-02-54-PM-5447.jpg",
       "category": "Indie Gems"
     },
     {
-      "id": "873cb6de5baa38b5",
-      "title": "5 Of The Best 4K Blu-Ray Black Friday Deals Under $20",
-      "quote": "Black Friday is rapidly approaching, and if you're a physical media fan looking for some good 4K Blu-ray deals, we're here to help.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Ryan Scott)",
-      "date": "2026-11-21T15:30:00+00:00",
-      "link": "https://www.slashfilm.com/2322792/best-4k-blu-ray-black-friday-deals-under-20-dollars/",
-      "image": "https://www.slashfilm.com/img/gallery/5-of-the-best-4k-blu-ray-black-friday-deals-under-20/l-intro-1795181730.jpg",
+      "id": "f12b02afce191fbc",
+      "title": "John Carpenter says \"we'll see\" whether Zack Snyder will remake Escape From New York",
+      "quote": "In a new interview, John Carpenter briefly touched on Zack Snyder's chances of remaking <i>Escape From New York</i>, and said that Robert Rodriguez is his \"backup\" director for the project.",
+      "publisher": "The A.V. Club",
+      "author": "Jarrod Jones",
+      "date": "2026-11-21T14:45:06+00:00",
+      "link": "https://www.avclub.com/john-carpenter-escape-from-new-york-zack-snyder-robert-rodriguez",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/11/21/escape-header.jpg",
       "category": "Indie Gems"
-    },
-    {
-      "id": "afa6dc560d362d21",
-      "title": "25 Years Ago Today: Brad Pitt Starred Opposite Robert Redford In A Tony Scott Spy Thriller",
-      "quote": "In 2001, major movie stars Brad Pitt and Robert Redford brought some serious star power to a Tony Scott-directed spy thriller.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Jeremy Smith)",
-      "date": "2026-11-21T15:00:00+00:00",
-      "link": "https://www.slashfilm.com/2323306/spy-game-brad-pitt-robert-redford-tony-scott-thriller-25-year-anniversary/",
-      "image": "https://www.slashfilm.com/img/gallery/25-years-ago-today-brad-pitt-starred-opposite-robert-redford-in-a-tony-scott-spy-thriller/l-intro-1795198865.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "73731c585b2b1aff",
-      "title": "The Lucy Gray Baird Reference In The Hunger Games: Sunrise On The Reaping, Explained",
-      "quote": "The Hunger Games: Sunrise on the Reaping features an important mention of Lucy Gray Baird from The Ballad of Songbirds and Snakes.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Nina Starner)",
-      "date": "2026-11-21T14:30:00+00:00",
-      "link": "https://www.slashfilm.com/2315065/lucy-gray-baird-reference-the-hunger-games-sunrise-on-the-reaping-explained/",
-      "image": "https://www.slashfilm.com/img/gallery/the-lucy-gray-baird-reference-in-the-hunger-games-sunrise-on-the-reaping-explained/l-intro-1794504393.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "6d8d962490d440f8",
-      "title": "SkyShowtime Staff Complained About Workplace Culture & Handling Of “Racist Conduct” Before Comcast/Skydance Shuttered Streamer",
-      "quote": "EXCLUSIVE: Comcast and Skydance announced this week that they planned to shutter SkyShowtime for commercial reasons, but behind the scenes, the U.S. media giants have also been addressing serious unrest among employees…",
-      "publisher": "Deadline",
-      "author": "Jake Kanter",
-      "date": "2026-11-21T14:00:00+00:00",
-      "link": "https://deadline.com/2026/11/skyshowtime-staff-complaint-work-culture-comcast-skydance-1237230353/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/GettyImages-2197663866-e1795256508959.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "88770c593cf89e3d",
-      "title": "Lincoln Center Theater Names Naomi Weinstock New Executive Director Of Development; Robert Jones Upped",
-      "quote": "New York’s Lincoln Center Theater has appointed Naomi Weinstock as Executive Director of Development, a position in which she will set the direction for LCT’s contributed revenue and lead the development team in…",
-      "publisher": "Deadline",
-      "author": "Greg Evans",
-      "date": "2026-11-21T13:52:48+00:00",
-      "link": "https://deadline.com/2026/11/lincoln-center-theater-naomi-weinstock-1237230896/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/lct-e1795269115597.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "57e9ca9e598d1c1c",
-      "title": "Anthony Clark’s Official Cause Of Death Revealed",
-      "quote": "An official cause of death for Yes, Dear star Anthony Clark has been reported: The comedian, who passed November 10 at 63, died from septic shock, with influenza A and chronic alcoholism also included as underlying…",
-      "publisher": "Deadline",
-      "author": "Greg Evans",
-      "date": "2026-11-21T13:33:03+00:00",
-      "link": "https://deadline.com/2026/11/anthony-clark-cause-of-death-1237230888/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/GettyImages-1954171.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "bcda357cca3d3563",
-      "title": "‘Vengeance Is Mine’ Director Edwin Reveals Cast For ‘Dancing With My Shadow’ Based On Generation-Defining Album",
-      "quote": "EXCLUSIVE: Indonesian filmmaker Edwin has revealed the five young leads for his upcoming feature, Dancing With My Shadow (Menari Dengan Bayangan: Evakuasi), inspired by the album of the same name from Hindia. Produced…",
-      "publisher": "Deadline",
-      "author": "Liz Shackleton",
-      "date": "2026-11-21T13:30:00+00:00",
-      "link": "https://deadline.com/2026/11/hindia-vengeance-edwin-hindia-menari-dengan-bayangan-1237229855/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/Dancing-With-Shadows.jpg",
-      "category": "World Cinema"
     },
     {
       "id": "b534b21d16f59230",
@@ -194,28 +304,6 @@
       "link": "https://www.thehindu.com/entertainment/movies/iffi-2026-fatherland-producer-ewa-puszczynska-films-may-not-change-the-world-overnight-but-can-open-minds/article71727907.ece",
       "image": "https://th-i.thgim.com/public/entertainment/movies/r83036/article71727933.ece/alternates/LANDSCAPE_1200/%E2%80%98Fatherland%E2%80%99%20producer%20Ewa%20Puszczy%C5%84ska%20speaking%20at%20a%20press%20conference%20at%20IFFI%202026",
       "category": "Festival Winners"
-    },
-    {
-      "id": "4e137c38efbcebf3",
-      "title": "Princess Of Wales Documentary ‘Heal’ Set At BBC & NBC; Special About Kate Middleton’s Cancer Journey Gets Release Date & Trailer",
-      "quote": "Kate Middleton is starring in her first documentary, and it’s a personal one. Heal, which will premiere on the BBC in the UK on November 29 and NBC in the U.S. on November 30, follows the Princess of Wales as she…",
-      "publisher": "Deadline",
-      "author": "Nellie Andreeva",
-      "date": "2026-11-21T12:00:00+00:00",
-      "link": "https://deadline.com/2026/11/kate-middleton-documentary-heal-release-date-trailer-1237230712/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/Heal_KA_16x9.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "317162b171e1f5e6",
-      "title": "Egyptian Music Star Mohamed Mounir Gets Biopic – Doha Industry Days",
-      "quote": "The life and legacy of legendary Egyptian artist Mohamed Mounir is set to be explored in a biopic spearheaded by The Film Committee at Media City Qatar. The Film Committee has acquired the rights to document Mounir’s…",
-      "publisher": "Deadline",
-      "author": "Melanie Goodfellow",
-      "date": "2026-11-21T11:53:50+00:00",
-      "link": "https://deadline.com/2026/11/egyptian-music-star-mohamed-mounir-biopic-doha-1237230880/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/e5e3aca7-c794-4363-a55c-359687281df4.jpg",
-      "category": "World Cinema"
     },
     {
       "id": "d45f17ff6d574bb5",
@@ -339,94 +427,6 @@
       "category": "Indian Cinema"
     },
     {
-      "id": "be68fa46448b230c",
-      "title": "Space Raiders is stellar MST3K",
-      "quote": "It’s been proven over and over in the past decade, but it bears repeating in the wake of The RiffTrax Experiments: Don’t ever count Mystery Science Theater 3000 out. Our recap of Space Raiders:",
-      "publisher": "The A.V. Club",
-      "author": "Erik Adams",
-      "date": "2026-11-21T03:17:26+00:00",
-      "link": "https://www.avclub.com/mystery-science-theater-3000-rifftrax-experiments-recap-episode-4-space-raiders",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/11/21/Screenshot-2026-11-20-at-9.09.05-PM.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "29766f0f0dddc161",
-      "title": "Sterling K. Brown might face off against Nicolas Cage's revitalized Longlegs",
-      "quote": "Sterling K. Brown might face off against Nicolas Cage's revitalized <i>Longlegs</i>",
-      "publisher": "The A.V. Club",
-      "author": "William Hughes",
-      "date": "2026-11-21T02:02:04+00:00",
-      "link": "https://www.avclub.com/sterling-k-brown-in-talks-longlegs-sequel-nicolas-cage",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/11/21/sterling-k-brown-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "05141bb679dc9307",
-      "title": "Former Blade director says the Marvel machine \"wasn’t a healthy way to operate as a filmmaker\"",
-      "quote": "Former <i>Blade</i> director says the Marvel machine \"wasn’t a healthy way to operate as a filmmaker\"",
-      "publisher": "The A.V. Club",
-      "author": "William Hughes",
-      "date": "2026-11-21T00:59:07+00:00",
-      "link": "https://www.avclub.com/bassam-tariq-blade-movie-marvel-not-healthy-way",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/11/21/tariq-ali-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "6f34d7f99075b236",
-      "title": "Chris Columbus dropped an iron on Home Alone reboot minutes before learning of its existence",
-      "quote": "Without knowing news of a new Home Alone was going to break, Chris Columbus doubted another movie would be possible without Catherine O'Hara.",
-      "publisher": "The A.V. Club",
-      "author": "Matt Schimkowitz",
-      "date": "2026-11-21T00:25:27+00:00",
-      "link": "https://www.avclub.com/chris-columbus-home-alone-reboot-macaulay-culkin-comments",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/11/21/home-alone-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "93b27d9f21c73f13",
-      "title": "We're never getting away from this Polly Pocket movie",
-      "quote": "We're never getting away from this <i>Polly Pocket</i> movie, huh?",
-      "publisher": "The A.V. Club",
-      "author": "William Hughes",
-      "date": "2026-11-21T00:15:38+00:00",
-      "link": "https://www.avclub.com/lili-reinhart-polly-pocket-movie-negotiations",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/11/21/lili-reinhart.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "80e90350b0580b5e",
-      "title": "Rush Hour 4 is in no apparent rush",
-      "quote": "Skydance CEO denies President Trump pushed for the series revival but claimed they're still working on Rush Hour 4.",
-      "publisher": "The A.V. Club",
-      "author": "Matt Schimkowitz",
-      "date": "2026-11-20T23:11:14+00:00",
-      "link": "https://www.avclub.com/rush-hour-4-still-happening-skydance-david-ellison",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2025/11/25132715/MixCollage-25-Nov-2025-01-25-PM-415.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "e041a4a0155fc8d9",
-      "title": "Welp, Grand Theft Auto VI made almost $4 billion in a single day",
-      "quote": "Welp, <i>Grand Theft Auto VI</i> made almost $4 billion in one day",
-      "publisher": "The A.V. Club",
-      "author": "William Hughes",
-      "date": "2026-11-20T22:29:53+00:00",
-      "link": "https://www.avclub.com/grand-theft-auto-4-billion-single-day",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/11/20/gta-6-3-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "3423b4a90f10945c",
-      "title": "Teyana Taylor's next battle is a female-driven comedy for Warner Bros.",
-      "quote": "Teyana Taylor sold an original, female-driven comedy based on her life and friend group to Warner Bros.",
-      "publisher": "The A.V. Club",
-      "author": "Matt Schimkowitz",
-      "date": "2026-11-20T21:38:21+00:00",
-      "link": "https://www.avclub.com/teyana-taylor-sells-comedy-warner-bros",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/11/20/teyana-taylor-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "7b824045b229aa8e",
       "title": "‘Best Pancakes in the County’ Review: Nicolas Cage Goes Gonzo, Again, in a Dismal Action-Comedy That Fails to Match His Energy",
       "quote": "A remote diner is the setting for Ken Sanzel's movie featuring a stand-off between corrupt FBI agents and a gang of criminals.",
@@ -458,6 +458,17 @@
       "link": "https://www.theguardian.com/film/2026/nov/20/suki-waterhouse-robert-pattinson-britain-hollywood-power-couple",
       "image": "https://i.guim.co.uk/img/media/2546de62982769570be91ff80428d17c8d47434c/308_0_4167_3333/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=237de166c102b851ea20d16571b02f1f",
       "category": "World Cinema"
+    },
+    {
+      "id": "638297db9c518b28",
+      "title": "How to Rob a Bank review: Nicholas Hoult leads a flashy but forgettable heist drama",
+      "quote": "",
+      "publisher": "The Indian Express",
+      "author": "Shubhra Gupta",
+      "date": "2026-11-20T14:02:10+00:00",
+      "link": "https://indianexpress.com/article/entertainment/movie-review/how-to-rob-a-bank-review-nicholas-hoult-leads-a-flashy-but-forgettable-heist-drama-10971761/",
+      "image": "https://images.indianexpress.com/2026/11/HOW-TO-ROB-A-BANK-REVIEW.jpg",
+      "category": "Indian Cinema"
     },
     {
       "id": "6e2c4c61f78b0094",
@@ -515,6 +526,17 @@
       "category": "World Cinema"
     },
     {
+      "id": "51d097d957b54447",
+      "title": "The Hunger Games Sunrise on the Reaping review: The Joseph Zada-starrer is a snoozefest",
+      "quote": "",
+      "publisher": "The Indian Express",
+      "author": "Shubhra Gupta",
+      "date": "2026-11-20T12:51:00+00:00",
+      "link": "https://indianexpress.com/article/entertainment/movie-review/the-hunger-games-sunrise-on-the-reaping-review-joseph-zada-film-is-a-snoozefest-10971667/",
+      "image": "https://images.indianexpress.com/2026/11/The-Hunger-Games-Sunrise-on-the-Reaping-review.jpg",
+      "category": "Indian Cinema"
+    },
+    {
       "id": "7de3cc2758776ec5",
       "title": "‘Best Pancakes in the County’ Review: Nicolas Cage Stars in a Thriller You Could Fairly Describe as Tarantino Lite",
       "quote": "From “The Petrified Forest” to “When You Comin’ Back, Red Ryder?” to “Albino Alligator” and beyond, playwrights and filmmakers have long relied on the same claustrophobic premise: Disparate characters are stranded in a…",
@@ -524,6 +546,39 @@
       "link": "https://variety.com/2026/film/reviews/best-pancakes-in-the-county-review-1236953984/",
       "image": "https://variety.com/wp-content/uploads/2026/11/Pancakes1.jpeg",
       "category": "World Cinema"
+    },
+    {
+      "id": "9e118d1512830076",
+      "title": "Godzilla Minus Zero movie review: A monster spectacle with a heart",
+      "quote": "",
+      "publisher": "The Indian Express",
+      "author": "Alaka Sahani",
+      "date": "2026-11-20T09:22:51+00:00",
+      "link": "https://indianexpress.com/article/entertainment/movie-review/godzilla-minus-zero-movie-review-a-monster-spectacle-with-a-heart-10971315/",
+      "image": "https://images.indianexpress.com/2026/11/Godzilla-Minus-Zero-movie-review-2.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "b786b98d630cee0a",
+      "title": "OM movie review: Dhanush goes undercover as Sai Pallavi takes command in the spy thriller",
+      "quote": "",
+      "publisher": "The Indian Express",
+      "author": "Yashaswini Sri",
+      "date": "2026-11-20T07:58:29+00:00",
+      "link": "https://indianexpress.com/article/entertainment/movie-review/om-movie-review-dhanush-goes-undercover-as-sai-pallavi-takes-command-in-the-spy-thriller-10971079/",
+      "image": "https://images.indianexpress.com/2026/11/om-1.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "980d0864ffa0bac1",
+      "title": "Aakasamlo Oka Tara movie review: Dulquer Salmaan shines in a moving tale of love and dreams",
+      "quote": "",
+      "publisher": "The Indian Express",
+      "author": "Yashaswini Sri",
+      "date": "2026-11-19T18:31:54+00:00",
+      "link": "https://indianexpress.com/article/entertainment/movie-review/aakasamlo-oka-tara-review-dulquer-salmaan-satvika-shine-in-a-moving-tale-of-love-and-dreams-10970428/",
+      "image": "https://images.indianexpress.com/2026/11/aot-review-1600.jpg",
+      "category": "Indian Cinema"
     },
     {
       "id": "4f647c41107f107f",
@@ -614,6 +669,17 @@
       "category": "World Cinema"
     },
     {
+      "id": "1ca0a47f2071ba6f",
+      "title": "Bachelor Party D’eux movie review: A ghost of the OG film that needs to be exorcised ASAP",
+      "quote": "",
+      "publisher": "The Indian Express",
+      "author": "Anandu Suresh",
+      "date": "2026-11-19T11:43:09+00:00",
+      "link": "https://indianexpress.com/article/entertainment/movie-review/bachelor-party-deux-movie-review-a-ghost-of-the-og-film-that-needs-to-be-exorcised-asap-10969128/",
+      "image": "https://images.indianexpress.com/2026/11/Bachelor-Party-Deux-movie-review-Naslen-Amal-Neerad.jpg",
+      "category": "Indian Cinema"
+    },
+    {
       "id": "e755505f37650cab",
       "title": "The shocking new film confronting sexual violence",
       "quote": "Josephine centres on an eight-year-old who witnesses a sexual assault",
@@ -645,6 +711,17 @@
       "link": "https://www.theguardian.com/film/2026/nov/19/you-can-see-everything-review-docu-hybrid-masterpiece-nathan-fielder-elizabeth-holmes",
       "image": "https://i.guim.co.uk/img/media/4a9ad5c5700fce535f649f8d6c166a50cc9163f6/266_0_1578_1262/master/1578.jpg?width=140&quality=85&auto=format&fit=max&s=a3031460c5110feb8e6e4ffca7c4749e",
       "category": "World Cinema"
+    },
+    {
+      "id": "879dd4b75814399b",
+      "title": "ENE Repeat review: Vishwak Sen’s gang can’t recreate the magic of the original",
+      "quote": "",
+      "publisher": "The Indian Express",
+      "author": "Yashaswini Sri",
+      "date": "2026-11-19T06:04:51+00:00",
+      "link": "https://indianexpress.com/article/entertainment/movie-review/ene-repeat-review-vishwak-sen-gang-cant-recreate-magic-of-original-10969106/",
+      "image": "https://images.indianexpress.com/2026/11/ENE.jpg",
+      "category": "Indian Cinema"
     },
     {
       "id": "9be23bf983556444",
@@ -766,6 +843,17 @@
       "link": "https://www.bbc.com/culture/article/20261113-the-preacher-behind-the-1978-jonestown-massacre?ocid=global_culture_rss",
       "image": "https://ychef.files.bbci.co.uk/144x81/p0pmws1g.jpg",
       "category": "World Cinema"
+    },
+    {
+      "id": "45ba0ae3d58fd705",
+      "title": "Bouma review: Dileesh Pothan’s technically dazzling gothic thriller is marred by weak writing",
+      "quote": "",
+      "publisher": "The Indian Express",
+      "author": "Anandu Suresh",
+      "date": "2026-11-13T16:59:41+00:00",
+      "link": "https://indianexpress.com/article/entertainment/movie-review/bouma-review-dileesh-pothans-technically-dazzling-gothic-thriller-is-marred-by-weak-writing-10961068/",
+      "image": "https://images.indianexpress.com/2026/11/Bouma-movie-review-rating-Dileesh-Pothan.jpg",
+      "category": "Indian Cinema"
     },
     {
       "id": "efc3b654c2db4435",
