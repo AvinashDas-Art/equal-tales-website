@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T23:42:34.369949+00:00",
+  "generated_at": "2026-11-24T09:31:18.464935+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -20,37 +20,158 @@
       "category": "World Cinema"
     },
     {
-      "id": "f59e1ad3430478e7",
-      "title": "‘Daredevil’s Charlie Cox Wanted To Audition For James Bond But Was Told He Was “Too Old”: “But Robert Pattinson Is The Same Age As Me!”",
-      "quote": "Charlie Cox wanted the opportunity to audition for the role of James Bond in the upcoming Denis Villeneuve-directed film. However, the Daredevil actor was told he was “too old” to play the 007 agent. Amazon MGM Studios…",
+      "id": "b9f9deeadd6c7679",
+      "title": "‘Fin Vs History’: Stars Of Video Podcast On The Wildly-Popular Satirical History Series, Animation Ambitions & Why Spotify Beats TV",
+      "quote": "EXCLUSIVE: For Fin Taylor, one half of the satirical podcast Fin Vs History, there’s no going back to TV now. The British stand-up comedian, writer and podcaster, who fronts his show with fellow comedian Horatio Gould…",
+      "publisher": "Deadline",
+      "author": "Jesse Whittock",
+      "date": "2026-11-24T09:30:00+00:00",
+      "link": "https://deadline.com/2026/11/fin-vs-history-podcast-interview-1237215502/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/Fin-Vs-History-1-e1795018789476.png",
+      "category": "World Cinema"
+    },
+    {
+      "id": "c822e899571cfbd5",
+      "title": "‘MobLand’ Adds ‘The Forsytes’ Actor Gregg Sulkin For Season 3",
+      "quote": "EXCLUSIVE: Paramount+ began rolling cameras on Season 3 of MobLand last week — and now the gangland drama has added a new recruit. Gregg Sulkin, the British actor known for Wizards of Waverly Place and who recently…",
+      "publisher": "Deadline",
+      "author": "Jake Kanter",
+      "date": "2026-11-24T08:41:43+00:00",
+      "link": "https://deadline.com/2026/11/mobland-gregg-sulkin-season-3-paramount-1237232411/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/1.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "1dad5ffbcd9be97a",
+      "title": "Sky New Zealand Sets ‘I Will Find You: The Search For Alysha Hanin’ True Crime Series From Woodcut International & Our Story",
+      "quote": "EXCLUSIVE: An upcoming three-part true crime series out of the UK and New Zealand will investigate the 2002 disappearance of mother and model Alysha Hanin. Sky New Zealand has greenlit I Will Find You: The Search For…",
+      "publisher": "Deadline",
+      "author": "Jesse Whittock",
+      "date": "2026-11-24T07:30:00+00:00",
+      "link": "https://deadline.com/2026/11/sky-new-zealand-alysha-hanin-true-crime-series-1237231491/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/I-Will-Find-You-e1795436555290.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "b99cf8a0971057dc",
+      "title": "Everything Else Is Noise review – a musician attempts to raise her art above the cacophony of city noise",
+      "quote": "A TV shoot is beset with barking dogs, power cuts and personal animosities in Nicolás Pereda’s docufiction exploring the fight for artistic space in a world of distractions This latest docufiction from Mexican-Canadian…",
+      "publisher": "The Guardian",
+      "author": "Phuong Le",
+      "date": "2026-11-24T07:00:09+00:00",
+      "link": "https://www.theguardian.com/film/2026/nov/24/everything-else-is-noise-review-a-musician-attempts-to-raise-her-art-above-the-cacophony-of-city-noise",
+      "image": "https://i.guim.co.uk/img/media/d93d4e456548dd18b95da6883df2ccb9f4a8349c/882_0_1072_858/master/1072.jpg?width=140&quality=85&auto=format&fit=max&s=99d54d0c6ecca19f8c49b1bc954cde40",
+      "category": "World Cinema"
+    },
+    {
+      "id": "e2abca111f9100d7",
+      "title": "Keralam actor Sreejith Ravi sentenced to 1-year imprisonment in POCSO case",
+      "quote": "Sentence has been suspended for a month, and the actor has been granted bail to challenge the verdict before a higher court",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-11-24T05:42:24+00:00",
+      "link": "https://www.thehindu.com/news/national/kerala/actor-sreejith-ravi-sentenced-to-one-year-imprisonment-in-pocso-case/article71735071.ece",
+      "image": "https://th-i.thgim.com/public/incoming/qpca1i/article71735521.ece/alternates/LANDSCAPE_1200/IMG_sreejith_ravi.PNG_2_1_BHA0PA8I.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "f7aa7c45dc109237",
+      "title": "Skydance Products & Publishing Chief Josh Silverman Sets Exec Team And Reveals A Departure",
+      "quote": "Josh Silverman, President of Global Products & Publishing for Skydance, has set the division’s senior leadership team and announced the departure of one high-level executive. Since the close of the $110 billion merger…",
+      "publisher": "Deadline",
+      "author": "Dade Hayes",
+      "date": "2026-11-24T03:56:13+00:00",
+      "link": "https://deadline.com/2026/11/skydance-products-publishing-chief-sets-executive-team-1237232267/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/Skydance-NYC.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "df310cfdafdb9679",
+      "title": "ESPN’s ‘Monday Night Football’ Interrupted As Lights Go Out During Bengals-Commanders Game",
+      "quote": "ESPN’s Monday Night Football went dark as the Cincinnati Bengals played the Washington Commanders. The NFL game was paused shortly after the second half began due to a blackout at Northwest Stadium in Maryland. As the…",
       "publisher": "Deadline",
       "author": "Armando Tinoco",
-      "date": "2026-11-23T23:26:34+00:00",
-      "link": "https://deadline.com/2026/11/daredevil-charlie-cox-audition-james-bond-robert-pattinson-age-1237232024/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/james-bond-charlie-cox-robert-pattinson.jpg",
+      "date": "2026-11-24T03:48:37+00:00",
+      "link": "https://deadline.com/2026/11/espn-monday-night-football-lights-out-bengals-commanders-1237232264/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/monday-night-football-blackout-espn-bengals-commanders.jpg",
       "category": "World Cinema"
     },
     {
-      "id": "c928fd2c22d7db67",
-      "title": "Greg Hovanessian & Lindsey Normington To Lead Psychological Thriller ‘Nightwaves’",
-      "quote": "EXCLUSIVE: Greg Hovanessian (The Mist, Cardinal) and Lindsey Normington (Margo’s Got Money Troubles, Anora) are set to lead the new psychological thriller Nightwaves, from writer and director Kristian McKay (Do Not…",
+      "id": "d958cb662b2ba236",
+      "title": "‘Caréme’ & ‘División Palermo’ Take Top Prizes At International Emmy Awards: Full Winners List",
+      "quote": "France’s Caréme was named Best Drama Series at the 54th International Emmy Awards, which were handed out Monday night in Manhattan. División Palermo from Argentina took the Comedy Series prize. See the full winners list…",
       "publisher": "Deadline",
-      "author": "Rosy Cordero",
-      "date": "2026-11-23T23:06:23+00:00",
-      "link": "https://deadline.com/2026/11/greg-hovanessian-lindsey-normington-cast-nightwaves-1237231971/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/cast.jpg",
+      "author": "Erik Pedersen",
+      "date": "2026-11-24T03:27:23+00:00",
+      "link": "https://deadline.com/2026/11/2026-international-emmys-winners-list-1237232118/",
+      "image": "https://deadline.com/wp-content/uploads/2019/06/emmy-statuette-trophy.jpg",
       "category": "World Cinema"
     },
     {
-      "id": "c8845a8023ec96ce",
-      "title": "‘Hunger Games: Sunrise On The Reaping’ Heading To Potential Franchise-Record Monday With $12M",
-      "quote": "EXCLUSIVE: After scoring the best domestic opening weekend for Lionsgate in 12 years, The Hunger Games: Sunrise on the Reaping, could notch a Monday franchise record of $12M+. The previous Monday record for the feature…",
+      "id": "b84564d58b841706",
+      "title": "David Zaslav Recalls “Awkward Moment” Before Skydance Merger Close, Hails Ex-WBD Global Chief Gerhard Zeiler For Keeping Staff “Motivated”",
+      "quote": "In one of his first public appearances since the close of the $110 billion Skydance merger, ex-Warner Bros. Discovery CEO David Zaslav on Monday recalled a key sequence during the deal’s regulatory review. “We were in…",
       "publisher": "Deadline",
-      "author": "Anthonypauldalessandro",
-      "date": "2026-11-23T22:29:58+00:00",
-      "link": "https://deadline.com/2026/11/box-office-hunger-games-sunrise-on-the-reaping-monday-1237231975/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/MCDHUGA_LG119.jpg",
+      "author": "Dade Hayes",
+      "date": "2026-11-24T02:59:56+00:00",
+      "link": "https://deadline.com/2026/11/david-zaslav-skydance-merger-gerhard-zeiler-wbd-emmys-1237232182/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/Zaslav-Zeiler-e1795486170929.jpg",
       "category": "World Cinema"
+    },
+    {
+      "id": "f4670f24f59e56ef",
+      "title": "Bela Bajaria Says Her Phone Has Been Ringing Since Netflix Exit, But “I’m Not Really A ‘Just Do The Exact Same Thing’ Kind Of Person”",
+      "quote": "UPDATED with acceptance speech remarks. Bela Bajaria told Deadline her phone has been ringing since she was ousted last month as Netflix’s content chief. “I’ve received a lot of support,” she said in New York on Monday…",
+      "publisher": "Deadline",
+      "author": "Dade Hayes",
+      "date": "2026-11-24T02:44:00+00:00",
+      "link": "https://deadline.com/2026/11/netflix-bela-bajaria-emmys-streaming-executive-1237231936/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/Bela-Bajaria-e1795468124186.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "f814ae63e7d4b581",
+      "title": "The Naruto Movie Sounds Like It Could Be Better Than We Ever Imagined",
+      "quote": "Based on recent casting-related developments and other factors, things are looking very promising for the live-action Naruto movie adaptation.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Devin Meenan)",
+      "date": "2026-11-24T01:57:50+00:00",
+      "link": "https://www.slashfilm.com/2326211/naruto-movie-better-than-imagined/",
+      "image": "https://www.slashfilm.com/img/gallery/the-naruto-movie-sounds-like-it-could-be-better-than-we-ever-imagined/l-intro-1795485194.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "e1adb9d88d640f5d",
+      "title": "Margot Robbie Appeared In A Time Travel Movie The Same Year As Her Big Break",
+      "quote": "Margot Robbie had a big breakout year in 2013, appearing in both The Wolf of Wall Street and also this time travel rom-com.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Nina Starner)",
+      "date": "2026-11-24T01:45:00+00:00",
+      "link": "https://www.slashfilm.com/2321945/margot-robbie-time-travel-movie-about-time/",
+      "image": "https://www.slashfilm.com/img/gallery/margot-robbie-appeared-in-a-time-travel-movie-the-same-year-as-her-big-break/l-intro-1795107212.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "399b0b03270cd583",
+      "title": "Star Trek's Brent Spiner Voiced A Heroic Version Of A Classic Batman Villain",
+      "quote": "Brent Spiner, best known for playing android Data on Star Trek: The Next Generation (and other Trek titles) voiced a famous Batman villain once.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Devin Meenan)",
+      "date": "2026-11-24T00:00:00+00:00",
+      "link": "https://www.slashfilm.com/2319424/star-trek-brent-spiner-batman-villain-riddler-justice-league-action/",
+      "image": "https://www.slashfilm.com/img/gallery/star-treks-brent-spiner-voiced-a-heroic-version-of-a-classic-batman-villain/l-intro-1794936489.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "f36513cebf3d1594",
+      "title": "Tom Hardy And Gary Oldman Had A Batman Reunion In This Forgotten Western Gangster Movie",
+      "quote": "A month after Christopher Nolan's The Dark Knight Rises hit theaters, Tom Hardy and Gary Oldman appeared in a very different film from director John Hillcoat.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Joe Roberts)",
+      "date": "2026-11-23T23:00:00+00:00",
+      "link": "https://www.slashfilm.com/2325175/tom-hardy-gary-oldman-batman-reunion-western-gangster-movie-lawless/",
+      "image": "https://www.slashfilm.com/img/gallery/tom-hardy-and-gary-oldman-had-a-batman-reunion-in-this-forgotten-western-gangster-movie/l-intro-1795468855.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "68d56803b0d97cbb",
@@ -62,17 +183,6 @@
       "link": "https://www.slashfilm.com/2325988/how-watch-fjord-home/",
       "image": "https://www.slashfilm.com/img/gallery/how-to-watch-fjord-at-home/l-intro-1795471122.jpg",
       "category": "Festival Winners"
-    },
-    {
-      "id": "2e66c5c0c0bbee1a",
-      "title": "Skydance Buyouts Impact CBS Stations; Local Chicago Anchor Among Those Departing",
-      "quote": "The buyouts across Skydance have impacted CBS’s station group, with a number of staffers taking the package, including a main anchor at the network’s Chicago outlet. Joe Donlon, co-anchor of CBS 2 Chicago’s 5, 6 and 10…",
-      "publisher": "Deadline",
-      "author": "Ted Johnson",
-      "date": "2026-11-23T22:04:44+00:00",
-      "link": "https://deadline.com/2026/11/cbs-buyouts-local-stations-skydance-1237231967/",
-      "image": "https://deadline.com/wp-content/uploads/2024/08/CBS-News-and-Stations-Logo.png",
-      "category": "World Cinema"
     },
     {
       "id": "424e9e8791147da6",
@@ -97,17 +207,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "bcceceb8771f0364",
-      "title": "‘The Odyssey’, ‘Widow’s Bay’ Among Top Nominees For AARP’s Movies & TV For Grownups Awards",
-      "quote": "The Odyssey, Wild Horse Nine, The Invite, Being Heumann, and Tender Loving Care are the top nominees for Best Movie For Grownups in today’s announcement of this year’s contenders for the upcoming Movies & TV for…",
-      "publisher": "Deadline",
-      "author": "Pete Hammond",
-      "date": "2026-11-23T21:17:21+00:00",
-      "link": "https://deadline.com/2026/11/the-odyssey-widows-bay-aarp-movies-tv-for-grownups-awards-1237231926/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/JaneLynch-web-hero-alt_1_219bad.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "9f255297c224c109",
       "title": "Super Bowl headed to IMAX theaters for the first time ever",
       "quote": "The NFL's biggest game, including Jay-Z's halftime show, is coming to hundreds of IMAX theaters in the U.S. and beyond.",
@@ -130,39 +229,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "4ceda34fd045400b",
-      "title": "‘Saturday Night Live’: Robert De Niro & Timothée Chalamet Will Close Out The Year As Hosts",
-      "quote": "Saturday Night Live has set its final hosts for 2026. Robert De Niro will return for his fourth stint as host of SNL on December 12. He’ll be joined by musical guest Slayyyter. And Timothée Chalamet also will return for…",
-      "publisher": "Deadline",
-      "author": "Denise Petski",
-      "date": "2026-11-23T21:00:22+00:00",
-      "link": "https://deadline.com/2026/11/saturday-night-live-robert-de-niro-timothee-chalamet-hosts-1237231917/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/Robert-De-Niro-Timothee-Chalamet.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "f571631017ee1964",
-      "title": "‘Clashing Through The Snow’ Stars Christopher Briney & Michelle Randolph Talk Comedy’s “Important” Presence In Script And How They Built Their Characters",
-      "quote": "In Prime Video’s latest original Christmas romantic comedy, Clashing Through the Snow, Christopher Briney (The Summer I Turned Pretty) and Michell Randolph (Landman) portray rival editors whose relationship takes an…",
-      "publisher": "Deadline",
-      "author": "Dessi Gomez",
-      "date": "2026-11-23T21:00:00+00:00",
-      "link": "https://deadline.com/2026/11/clashing-through-the-snow-christopher-briney-interview-1237231859/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/Clashing-Through-The-Snow-Chris-Michelle.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "67a5419d0e41964a",
-      "title": "Lionsgate Lands Spec ‘Tell Me Everything’ With Dakota Johnson On Board To Star And Produce",
-      "quote": "EXCLUSIVE: Following a competitive auction, Lionsgate has landed the rights to the relationship-dramedy Tell Me Everything with Dakota Johnson attached to star and produce. The package had multiple offers with Lionsgate…",
-      "publisher": "Deadline",
-      "author": "Justin Kroll",
-      "date": "2026-11-23T21:00:00+00:00",
-      "link": "https://deadline.com/2026/11/dakota-johnson-tell-me-everything-lionsgate-1237231777/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/split-image-1000_4b8019.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "133a348d21a71305",
       "title": "5 Actresses Who Should Play Moneypenny In Robert Pattinson's James Bond Movies",
       "quote": "With Robert Pattinson now set to play the new James Bond, who are five actresses who would be perfect for the role of Moneypenny.",
@@ -174,6 +240,17 @@
       "category": "Indie Gems"
     },
     {
+      "id": "2e6821e80cbd2c68",
+      "title": "Clashing Through the Snow review – Amazon’s Christmas romcom is a bust",
+      "quote": "The Summer I Turned Pretty’s Christopher Briney and 1923’s Michelle Randolph try their best, but this chaotic cross-country journey is not worth taking Credit where credit is due: it takes some nerve for Amazon to open…",
+      "publisher": "The Guardian",
+      "author": "Adrian Horton",
+      "date": "2026-11-23T20:59:28+00:00",
+      "link": "https://www.theguardian.com/film/2026/nov/23/clashing-through-the-snow-review-amazon",
+      "image": "https://i.guim.co.uk/img/media/80ef25df3cb158936b687da6f2413252ddf8719c/500_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=889706751e8b64469c17cf7fc92420ef",
+      "category": "World Cinema"
+    },
+    {
       "id": "29a7e3d8189f3c3d",
       "title": "Marshals Season 2 Forces Kayce To Relive One Of His Most Controversial Yellowstone Storylines",
       "quote": "The latest episode of Marshals Season 2 alludes to a controversial Yellowstone moment, but it may lead to more interesting things for Kayce Dutton on the show.",
@@ -182,28 +259,6 @@
       "date": "2026-11-23T20:52:51+00:00",
       "link": "https://www.slashfilm.com/2325817/marshals-season-2-force-kayce-relive-controversial-yellowstone-storyline/",
       "image": "https://www.slashfilm.com/img/gallery/marshals-season-2-forces-kayce-to-relive-one-of-his-most-controversial-yellowstone-storylines/l-intro-1795466800.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "b8d610f80c723d28",
-      "title": "Gregory Peck's '50s Dystopian Sci-Fi Flop Is Worth Revisiting",
-      "quote": "In 1959, Gregory Peck starred in a surprisingly bleak dystopian sci-fi movie about the end of the world, and it's worth revisiting.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-11-23T20:00:00+00:00",
-      "link": "https://www.slashfilm.com/2317546/gregory-peck-sci-fi-flop-worth-revisiting-on-the-beach/",
-      "image": "https://www.slashfilm.com/img/gallery/gregory-pecks-50s-dystopian-sci-fi-flop-is-worth-revisiting/l-intro-1794839500.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "ea800ead53c031cf",
-      "title": "This Creepy Twilight Zone Episode Was The First One Not Written By Rod Serling",
-      "quote": "The Twilight Zone creator Rod Serling wrote many of the show's episodes, but the first one he didn't pen was this creepy story by Charles Beaumont.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Devin Meenan)",
-      "date": "2026-11-23T19:45:00+00:00",
-      "link": "https://www.slashfilm.com/2323123/the-twilight-zone-first-episode-not-written-by-rod-serling/",
-      "image": "https://www.slashfilm.com/img/gallery/this-creepy-twilight-zone-episode-was-the-first-one-not-written-by-rod-serling/l-intro-1795194218.jpg",
       "category": "Indie Gems"
     },
     {
@@ -229,17 +284,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "8cd2287cfa516a49",
-      "title": "Avengers: Doomsday Final Trailer Breakdown - 5 Biggest Reveals And What They Mean",
-      "quote": "The final trailer for Avengers: Doomsday has arrived. From an unexpected battle to a multiversal incursion, we break down some of the biggest reveals here.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Joe Roberts)",
-      "date": "2026-11-23T19:14:15+00:00",
-      "link": "https://www.slashfilm.com/2325581/avengers-doomsday-final-trailer-breakdown-biggest-reveals/",
-      "image": "https://www.slashfilm.com/img/gallery/avengers-doomsday-final-trailer-breakdown-5-biggest-reveals-and-what-they-mean/l-intro-1795461129.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "4f546c6375156b03",
       "title": "December TV preview: Only Murders In The Building goes abroad, and Bob’s Burgers gets festive",
       "quote": "",
@@ -248,17 +292,6 @@
       "date": "2026-11-23T19:00:35+00:00",
       "link": "https://www.avclub.com/december-tv-preview-only-murders-bobs-burgers-pride-prejudice-p-valley",
       "image": "https://www.avclub.com/wp-content/uploads/2026/11/23/MixCollage-23-Nov-2026-10-27-AM-869.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "d806bc897b4b63c7",
-      "title": "5 Reasons Why The Hunger Games: Sunrise On The Reaping Ruled The Box Office",
-      "quote": "Unlike the last Hunger Games prequel film, Sunrise on the Reaping exceeded expectations during its box office opening weekend thanks to multiple factors.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Ryan Scott)",
-      "date": "2026-11-23T18:45:00+00:00",
-      "link": "https://www.slashfilm.com/2325515/the-hunger-games-sunrise-on-the-reaping-box-office-success-explained/",
-      "image": "https://www.slashfilm.com/img/gallery/5-reasons-why-the-hunger-games-sunrise-on-the-reaping-ruled-the-box-office/l-intro-1795459068.jpg",
       "category": "Indie Gems"
     },
     {
@@ -401,7 +434,7 @@
       "author": null,
       "date": "2026-11-23T11:38:04+00:00",
       "link": "https://www.thehindu.com/entertainment/movies/guneet-monga-kapoor-and-achin-jain-back-ladakhi-filmmaker-stanzin-jigmets-short-the-dragon-letter/article71734424.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/ggvu56/article71734431.ece/alternates/LANDSCAPE_1200/Guneet%20Monga%20Kapoor%20Achin%20Jain%20Stanzin%20Jigmet%20and%20the%20poster%20of%20%E2%80%98The%20Dragon%20Letter%E2%80%99",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/p30xdh/article71734431.ece/alternates/LANDSCAPE_1200/Guneet%20Monga%20Kapoor%20Achin%20Jain%20Stanzin%20Jigmet%20and%20the%20poster%20of%20%E2%80%98The%20Dragon%20Letter%E2%80%99",
       "category": "Festival Winners"
     },
     {
@@ -427,17 +460,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "60964beaa2d6081c",
-      "title": "Who Is Still Alive review – grief-stricken stories of the places and people lost in Gaza",
-      "quote": "Nicolas Wadimoff invites refugees to draw a floor plan of their former neighbourhood, bringing raw and agonising pain to the surface A sombre documentary from the Swiss musician and film-maker Nicolas Wadimoff, who…",
-      "publisher": "The Guardian",
-      "author": "Peter Bradshaw",
-      "date": "2026-11-23T10:00:53+00:00",
-      "link": "https://www.theguardian.com/film/2026/nov/23/who-is-still-alive-review",
-      "image": "https://i.guim.co.uk/img/media/1bde0ecd261bb9b894b276e5caa7c81ae32cd3c4/309_0_2699_2160/master/2699.jpg?width=140&quality=85&auto=format&fit=max&s=f1c06f06fbfe758c4b07f8887e39a8af",
-      "category": "World Cinema"
-    },
-    {
       "id": "6fe637f0c58e3ef7",
       "title": "‘Presumed Innocent’ season 2: Apple TV confirms release date of legal thriller",
       "quote": "The new season of the anthology legal thriller stars Rachel Brosnahan and Matthew Rhys in the lead",
@@ -458,17 +480,6 @@
       "link": "https://www.thehindu.com/entertainment/movies/mysaa-rashmika-mandannas-action-thriller-gets-postponed/article71733749.ece",
       "image": "https://th-i.thgim.com/public/entertainment/movies/wx84c7/article71733784.ece/alternates/LANDSCAPE_1200/cvr%20-%202026-11-23T123209.916.jpg",
       "category": "Indian Cinema"
-    },
-    {
-      "id": "4eea3d259ee2b871",
-      "title": "The Boy and the Suit of Lights review – a sensitive portrait of an aspiring toreador in a changing Spain",
-      "quote": "Encouraged by his grandfather and single mother, the teen Borja dreams of a career that will end his family’s poverty, but the protesters are gathering strength Where last year’s bullfighting documentary Afternoons of…",
-      "publisher": "The Guardian",
-      "author": "Phil Hoad",
-      "date": "2026-11-23T07:00:50+00:00",
-      "link": "https://www.theguardian.com/film/2026/nov/23/the-boy-and-the-suit-of-lights-review-a-sensitive-portrait-of-an-aspiring-toreador-in-a-changing-spain",
-      "image": "https://i.guim.co.uk/img/media/0948f2c52a7e56049046933206d0a92f5d0815e4/353_0_1349_1080/master/1349.jpg?width=140&quality=85&auto=format&fit=max&s=9fe8ef7bc2177842f55b547ca2e89eea",
-      "category": "World Cinema"
     },
     {
       "id": "09839092e98ce727",
@@ -515,17 +526,6 @@
       "category": "Indian Cinema"
     },
     {
-      "id": "0cb974020fb41df0",
-      "title": "Court orders case over use of mobile number in blockbuster Malayalam movie",
-      "quote": "Reportedly, the mobile number has been in use since 2014 and remains linked to the complainant’s key documents",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-11-23T05:36:24+00:00",
-      "link": "https://www.thehindu.com/news/cities/Kochi/court-orders-case-over-use-of-mobile-number-in-blockbuster-malayalam-movie/article71733374.ece",
-      "image": "https://th-i.thgim.com/public/incoming/hjzhys/article71733424.ece/alternates/LANDSCAPE_1200/IMG_officer_on_duty_2_1_ROE1PJP7.jpg",
-      "category": "Indian Cinema"
-    },
-    {
       "id": "91f37f41ed727015",
       "title": "The moment I realised GTA 6 was a masterpiece",
       "quote": "How an ocean adventure made me sure the game was an all-time great",
@@ -546,6 +546,17 @@
       "link": "https://www.hollywoodreporter.com/movies/movie-reviews/best-pancakes-in-the-county-review-nicolas-cage-1236759412/",
       "image": null,
       "category": "World Cinema"
+    },
+    {
+      "id": "638297db9c518b28",
+      "title": "How to Rob a Bank review: Nicholas Hoult leads a flashy but forgettable heist drama",
+      "quote": "",
+      "publisher": "The Indian Express",
+      "author": "Shubhra Gupta",
+      "date": "2026-11-20T14:02:10+00:00",
+      "link": "https://indianexpress.com/article/entertainment/movie-review/how-to-rob-a-bank-review-nicholas-hoult-leads-a-flashy-but-forgettable-heist-drama-10971761/",
+      "image": "https://images.indianexpress.com/2026/11/HOW-TO-ROB-A-BANK-REVIEW.jpg",
+      "category": "Indian Cinema"
     },
     {
       "id": "6e2c4c61f78b0094",
@@ -603,6 +614,17 @@
       "category": "World Cinema"
     },
     {
+      "id": "51d097d957b54447",
+      "title": "The Hunger Games Sunrise on the Reaping review: The Joseph Zada-starrer is a snoozefest",
+      "quote": "",
+      "publisher": "The Indian Express",
+      "author": "Shubhra Gupta",
+      "date": "2026-11-20T12:51:00+00:00",
+      "link": "https://indianexpress.com/article/entertainment/movie-review/the-hunger-games-sunrise-on-the-reaping-review-joseph-zada-film-is-a-snoozefest-10971667/",
+      "image": "https://images.indianexpress.com/2026/11/The-Hunger-Games-Sunrise-on-the-Reaping-review.jpg",
+      "category": "Indian Cinema"
+    },
+    {
       "id": "7de3cc2758776ec5",
       "title": "‘Best Pancakes in the County’ Review: Nicolas Cage Stars in a Thriller You Could Fairly Describe as Tarantino Lite",
       "quote": "From “The Petrified Forest” to “When You Comin’ Back, Red Ryder?” to “Albino Alligator” and beyond, playwrights and filmmakers have long relied on the same claustrophobic premise: Disparate characters are stranded in a…",
@@ -612,6 +634,39 @@
       "link": "https://variety.com/2026/film/reviews/best-pancakes-in-the-county-review-1236953984/",
       "image": "https://variety.com/wp-content/uploads/2026/11/Pancakes1.jpeg",
       "category": "World Cinema"
+    },
+    {
+      "id": "9e118d1512830076",
+      "title": "Godzilla Minus Zero movie review: A monster spectacle with a heart",
+      "quote": "",
+      "publisher": "The Indian Express",
+      "author": "Alaka Sahani",
+      "date": "2026-11-20T09:22:51+00:00",
+      "link": "https://indianexpress.com/article/entertainment/movie-review/godzilla-minus-zero-movie-review-a-monster-spectacle-with-a-heart-10971315/",
+      "image": "https://images.indianexpress.com/2026/11/Godzilla-Minus-Zero-movie-review-2.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "b786b98d630cee0a",
+      "title": "OM movie review: Dhanush goes undercover as Sai Pallavi takes command in the spy thriller",
+      "quote": "",
+      "publisher": "The Indian Express",
+      "author": "Yashaswini Sri",
+      "date": "2026-11-20T07:58:29+00:00",
+      "link": "https://indianexpress.com/article/entertainment/movie-review/om-movie-review-dhanush-goes-undercover-as-sai-pallavi-takes-command-in-the-spy-thriller-10971079/",
+      "image": "https://images.indianexpress.com/2026/11/om-1.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "980d0864ffa0bac1",
+      "title": "Aakasamlo Oka Tara movie review: Dulquer Salmaan shines in a moving tale of love and dreams",
+      "quote": "",
+      "publisher": "The Indian Express",
+      "author": "Yashaswini Sri",
+      "date": "2026-11-19T18:31:54+00:00",
+      "link": "https://indianexpress.com/article/entertainment/movie-review/aakasamlo-oka-tara-review-dulquer-salmaan-satvika-shine-in-a-moving-tale-of-love-and-dreams-10970428/",
+      "image": "https://images.indianexpress.com/2026/11/aot-review-1600.jpg",
+      "category": "Indian Cinema"
     },
     {
       "id": "4f647c41107f107f",
@@ -680,6 +735,17 @@
       "category": "World Cinema"
     },
     {
+      "id": "1ca0a47f2071ba6f",
+      "title": "Bachelor Party D’eux movie review: A ghost of the OG film that needs to be exorcised ASAP",
+      "quote": "",
+      "publisher": "The Indian Express",
+      "author": "Anandu Suresh",
+      "date": "2026-11-19T11:43:09+00:00",
+      "link": "https://indianexpress.com/article/entertainment/movie-review/bachelor-party-deux-movie-review-a-ghost-of-the-og-film-that-needs-to-be-exorcised-asap-10969128/",
+      "image": "https://images.indianexpress.com/2026/11/Bachelor-Party-Deux-movie-review-Naslen-Amal-Neerad.jpg",
+      "category": "Indian Cinema"
+    },
+    {
       "id": "e755505f37650cab",
       "title": "The shocking new film confronting sexual violence",
       "quote": "Josephine centres on an eight-year-old who witnesses a sexual assault",
@@ -711,6 +777,17 @@
       "link": "https://www.theguardian.com/film/2026/nov/19/you-can-see-everything-review-docu-hybrid-masterpiece-nathan-fielder-elizabeth-holmes",
       "image": "https://i.guim.co.uk/img/media/4a9ad5c5700fce535f649f8d6c166a50cc9163f6/266_0_1578_1262/master/1578.jpg?width=140&quality=85&auto=format&fit=max&s=a3031460c5110feb8e6e4ffca7c4749e",
       "category": "World Cinema"
+    },
+    {
+      "id": "879dd4b75814399b",
+      "title": "ENE Repeat review: Vishwak Sen’s gang can’t recreate the magic of the original",
+      "quote": "",
+      "publisher": "The Indian Express",
+      "author": "Yashaswini Sri",
+      "date": "2026-11-19T06:04:51+00:00",
+      "link": "https://indianexpress.com/article/entertainment/movie-review/ene-repeat-review-vishwak-sen-gang-cant-recreate-magic-of-original-10969106/",
+      "image": "https://images.indianexpress.com/2026/11/ENE.jpg",
+      "category": "Indian Cinema"
     },
     {
       "id": "9be23bf983556444",
@@ -801,92 +878,15 @@
       "category": "World Cinema"
     },
     {
-      "id": "76d8786d13278ebb",
-      "title": "Scorsese’s ‘Wolf of Wall Street’ Will Open on Christmas Day",
-      "quote": "After a long period of speculation it looks like Paramount has finally settled on a Christmas Day release for Martin Scorsese and Leonardo DiCaprio‘s The Wolf of Wall Street. After turning in a cut of the film that was…",
-      "publisher": "RopeOfSilicon",
-      "author": "Solani Verma",
-      "date": "2024-04-10T02:18:09+00:00",
-      "link": "https://moviegeek.com/scorseses-wolf-of-wall-street-will-open-on-christmas-day/",
-      "image": null,
-      "category": "Indie Gems"
-    },
-    {
-      "id": "28ca80327467c601",
-      "title": "David O. Russell’s ‘Nailed’ Rated by the MPAA",
-      "quote": "Are you ready for some rather interesting news? David O. Russell‘s Nailed, which had to fold up production back in 2008 after financing fell through, has been rated by the MPAA. As far as I can recall, there was one…",
-      "publisher": "RopeOfSilicon",
-      "author": "Solani Verma",
-      "date": "2024-04-10T02:17:43+00:00",
-      "link": "https://moviegeek.com/david-o-russells-nailed-rated-mpaa/",
-      "image": null,
-      "category": "Indie Gems"
-    },
-    {
-      "id": "9b3556a12a06d8d8",
-      "title": "From ‘Addicted’ to ‘Gone Girl’ to ‘X-Men’: 40 Books Adapted into Movies in 2014",
-      "quote": "It’s rare when a film adaptation lives up the book it was based on so with that in mind I have compiled a list of 40 books that have been adapted for the big screen that we can expect to see in theaters this year. This…",
-      "publisher": "RopeOfSilicon",
-      "author": "Solani Verma",
-      "date": "2024-04-10T02:17:43+00:00",
-      "link": "https://moviegeek.com/from-addicted-to-gone-girl-to-x-men-40-books-adapted-into-movies-in-2014/",
-      "image": null,
-      "category": "Indie Gems"
-    },
-    {
-      "id": "73072b90088b5e52",
-      "title": "Bullshitting with Josh Brolin on ‘No Country for Old Men’",
-      "quote": "I sat down with Josh Brolin about a week and a half ago to talk about No Country for Old Men, but since one of the things I wanted to talk about had to do with the film’s ending I decided to wait until it was finally…",
-      "publisher": "RopeOfSilicon",
-      "author": "Solani Verma",
-      "date": "2024-04-10T02:17:43+00:00",
-      "link": "https://moviegeek.com/bullshitting-with-josh-brolin-on-no-country-for-old-men/",
-      "image": null,
-      "category": "Indie Gems"
-    },
-    {
-      "id": "a609af9221a6f5ab",
-      "title": "UPDATED: Latest MPAA Ratings: BULLETIN NO: 2082",
-      "quote": "Here are the new MPAA ratings from BULLETIN NO: 2082. UPDATE: A representative from Warner Home Video replied to my earlier email regarding the mention of an extended version of Harry Potter And The Sorcerer’s Stone in…",
-      "publisher": "RopeOfSilicon",
-      "author": "Solani Verma",
-      "date": "2024-04-10T02:17:43+00:00",
-      "link": "https://moviegeek.com/updated-latest-mpaa-ratings-bulletin-no-2082/",
-      "image": null,
-      "category": "Indie Gems"
-    },
-    {
-      "id": "212641cfd16bd1e5",
-      "title": "Box Office Predictions: ‘Hunger Games: Catching Fire’ to Top ‘Frozen’ for Second Weekend Win",
-      "quote": "Before we get underway, I’d like to let everyone know the words of this post are mine, but the predictions are Laremy’s as he was kind enough to offer up some predictions before going on his Thanksgiving vacation, but…",
-      "publisher": "RopeOfSilicon",
-      "author": "Solani Verma",
-      "date": "2024-04-10T02:17:43+00:00",
-      "link": "https://moviegeek.com/box-office-predictions-hunger-games-catching-fire-top-frozen-second-weekend-win/",
-      "image": null,
-      "category": "Indie Gems"
-    },
-    {
-      "id": "1f79cc958a08bd58",
-      "title": "There be Dragons in the New ‘Alice in Wonderland’ Trailer",
-      "quote": "Is there a dragon in Lewis Carroll’s “Alice in Wonderland”? Whether there is or not there’s one in Tim Burton’s take on the classic 1865 story as the latest trailer introduces a fleet of characters such as the dragon…",
-      "publisher": "RopeOfSilicon",
-      "author": "Solani Verma",
-      "date": "2024-04-10T02:17:43+00:00",
-      "link": "https://moviegeek.com/there-be-dragons-in-the-new-alice-in-wonderland-trailer/",
-      "image": null,
-      "category": "Indie Gems"
-    },
-    {
-      "id": "cd1e4682e37f4b23",
-      "title": "Best and Worst of the James Bond Movies",
-      "quote": "I’m not writing this as some kind of definitive list, but more in response to The Playlist‘s ranking of what writer Oliver Lyttelton considers to be the five worst James Bond film. His list includes Diamonds are Forever…",
-      "publisher": "RopeOfSilicon",
-      "author": "Solani Verma",
-      "date": "2024-04-10T02:17:43+00:00",
-      "link": "https://moviegeek.com/best-and-worst-of-the-james-bond-movies/",
-      "image": null,
-      "category": "Indie Gems"
+      "id": "45ba0ae3d58fd705",
+      "title": "Bouma review: Dileesh Pothan’s technically dazzling gothic thriller is marred by weak writing",
+      "quote": "",
+      "publisher": "The Indian Express",
+      "author": "Anandu Suresh",
+      "date": "2026-11-13T16:59:41+00:00",
+      "link": "https://indianexpress.com/article/entertainment/movie-review/bouma-review-dileesh-pothans-technically-dazzling-gothic-thriller-is-marred-by-weak-writing-10961068/",
+      "image": "https://images.indianexpress.com/2026/11/Bouma-movie-review-rating-Dileesh-Pothan.jpg",
+      "category": "Indian Cinema"
     }
   ]
 }
