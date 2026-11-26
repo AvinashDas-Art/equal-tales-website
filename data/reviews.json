@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T21:30:19.099292+00:00",
+  "generated_at": "2026-11-26T07:53:15.892717+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -20,26 +20,191 @@
       "category": "World Cinema"
     },
     {
-      "id": "dc825267c0ec1fac",
-      "title": "Thanksgiving Indie Preview: ‘Cliff Booth’ & ‘All Of A Sudden’ Aim For A Holiday Feast",
-      "quote": "With the Thanksgiving holiday upon us, here’s a special Wednesday indie outlook including a few new entrants today led by The Further Mis-Adventures of Cliff Booth with All Of A Sudden, doc Who Is Still Alive and biopic…",
+      "id": "130b120ec01b2dd7",
+      "title": "Amit Shah meets ‘Ramayana’ team, congratulates them on film’s global success",
+      "quote": "The Home Minister met producer Namit Malhotra, director Nitesh Tiwari, actors Ranbir Kapoor and Sai Pallavi, and co-producer Niraj Sanghai",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-11-26T07:38:43+00:00",
+      "link": "https://www.thehindu.com/news/national/amit-shah-meets-ramayana-team-congratulates-them-on-films-global-success/article71745696.ece",
+      "image": "https://th-i.thgim.com/public/news/national/uod5gi/article71745702.ece/alternates/LANDSCAPE_1200/amit%20shah%20ramayana%20film%20team.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "98a2a33906f457af",
+      "title": "IFFI 2026 | ‘Ray Gunn’ movie review: Brad Bird’s sultry space-age noir is a real knockout",
+      "quote": "Sam Rockwell and Scarlett Johansson make for irresistible company in Brad Bird’s lavishly imagined, long-gestating retro-futurist noir",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-11-26T05:44:17+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/ffi-2026-ray-gunn-movie-review-brad-bird-sam-rockwell-scarlett-johansson-retrofuturist-noir/article71743189.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/8da8fb/article71743231.ece/alternates/LANDSCAPE_1200/Ray-Gunn-1.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "581aa7eb93b41e39",
+      "title": "Lauren Ash & Mae Martin Among Cast Of Shozer’s Adult Animation High-School Comedy ‘Dirts’",
+      "quote": "EXCLUSIVE: Lauren Ash (Superstore) and Mae Martin (Wayward) have been cast in Dirts, an ensemble adult animated high-school comedy series for New Metric Media’s streaming service Shozer. They will appear alongside the…",
       "publisher": "Deadline",
-      "author": "Jillg366",
-      "date": "2026-11-25T21:15:00+00:00",
-      "link": "https://deadline.com/2026/11/indie-films-opening-thanksgiving-the-further-mis-adventures-of-cliff-booth-1237233498/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/The-Further-Mis-Adventures-of-Cliff-Booth.jpg",
+      "author": "Jesse Whittock",
+      "date": "2026-11-26T05:01:00+00:00",
+      "link": "https://deadline.com/2026/11/lauren-ash-mae-martin-dirts-shozer-comedy-1237232683/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/Lauren-Ash-Mae-Martin-Mark-McKinney-and-Mark-Little.jpg",
       "category": "World Cinema"
     },
     {
-      "id": "bdcbe3938857d0bf",
-      "title": "Will Ferrell Comedy ‘The Hawk’ Canceled By Netflix After One Season",
-      "quote": "EXCLUSIVE: The Hawk did not make the cut for a second season. Netflix has opted not to renew the freshman golf comedy, co-created, executive produced and headlined by Will Ferrell. The news comes more than four months…",
+      "id": "a9023c18b5cc2b2f",
+      "title": "Naga Chaitanya interview: ‘Vrushakarma’ marks my leap into big-canvas cinema",
+      "quote": "Actor Naga Chaitanya discusses working with director Karthik Varma Dandu, the world-building in ‘Vrushakarma’, and why profit-sharing could help Telugu cinema",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-11-26T04:45:44+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/naga-chaitanya-interview-vrushakarma-marks-my-leap-into-big-canvas-cinema/article71733989.ece",
+      "image": "https://th-i.thgim.com/public/incoming/h5ukf2/article71741915.ece/alternates/LANDSCAPE_1200/Vrushakarma-collage.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "52a2dc1f6f4abb9e",
+      "title": "‘South Park’ Celebrates ‘GTA VI’ But Outages, AI Data Centers & Zombie Kenny Stand In The Way In Season 29 Finale",
+      "quote": "As the long wait for Grand Theft Auto VI finally ends, South Park‘s celebration was cut short on this week’s episode. In the finale “City Endings,” outages hit the town (currently rebranded as South America for Season…",
       "publisher": "Deadline",
-      "author": "Nellie Andreeva",
-      "date": "2026-11-25T21:00:00+00:00",
-      "link": "https://deadline.com/2026/11/will-ferrell-the-hawk-canceled-netflix-one-season-1237233347/",
-      "image": "https://deadline.com/wp-content/uploads/2026/05/THEHAWK_101_250912_CH_00182_R2.jpg",
+      "author": "Glenn Garner",
+      "date": "2026-11-26T03:52:37+00:00",
+      "link": "https://deadline.com/2026/11/south-park-gta-vi-outages-zombie-kenny-season-29-finale-1237233874/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/South-Park.png",
       "category": "World Cinema"
+    },
+    {
+      "id": "89d7a0d229958c92",
+      "title": "Bono Bowl Review: U2 Delivers Halftime Goods & Hits On Netflix & NFL’s First Thanksgiving Eve Game, With A Little Help From Dolly Parton",
+      "quote": "No matter how many hits and tricks U2 pulled out of the hat at L.A.’s SoFi Stadium, today’s Bono Bowl on Netflix was always going to live in the shadow of the streamer’s square dancing filled Beyoncé Bowl from Christmas…",
+      "publisher": "Deadline",
+      "author": "Dominic Patten",
+      "date": "2026-11-26T03:06:42+00:00",
+      "link": "https://deadline.com/2026/11/u2-halftime-show-performance-review-thanksgiving-eve-1237233462/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/sofi-stadium-netflix-thanksgiving-eve-bono-u2-halftime.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "dce8d511e283ab9c",
+      "title": "Microdrama Revenues Hit $20B, But Profits Outside China Still Weak – MPA Report",
+      "quote": "The global microdrama business is booming, but outside of China, where ByteDance rules the roost, profits haven’t yet caught up with revenues. That’s according to a Media Partners Asia (MPA) report, which reveals…",
+      "publisher": "Deadline",
+      "author": "Jesse Whittock",
+      "date": "2026-11-26T03:00:00+00:00",
+      "link": "https://deadline.com/2026/11/microdrama-revenues-boom-profits-outside-china-weak-report-1237233205/",
+      "image": "https://deadline.com/wp-content/uploads/2025/04/Reelshort.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "740d3e3e261137cd",
+      "title": "Ms. Rachel Explains How Mr. Rogers’ “Radical” Programming Inspired Her: “A Huge Responsibility”",
+      "quote": "As Ms. Rachel continues her mission-driven work, she’s crediting the “radical” influence of Mr. Rogers and her pals on Sesame Street. The famed YouTube children’s educator and activist (whose real name is Rachel…",
+      "publisher": "Deadline",
+      "author": "Glenn Garner",
+      "date": "2026-11-26T02:51:55+00:00",
+      "link": "https://deadline.com/2026/11/ms-rachel-mr-rogers-radical-programming-inspired-her-1237233868/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/Mr-Rogers-Ms-Rachel-2-shot.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "d5059a458cdc1c09",
+      "title": "‘The Squirrel’ Review: An Endearing Futuristic Dramedy, Finland’s Oscar Entry Makes a Case for Organic Love in the Age of Automation",
+      "quote": "If Finnish master Aki Kaurismäki, with his measured emotional register and stoic humor, were to ever make a science-fiction film taking a page from a seminal text in the genre like “Blade Runner,” it may resemble Markus…",
+      "publisher": "Variety",
+      "author": "Carlos Aguilar",
+      "date": "2026-11-26T02:13:34+00:00",
+      "link": "https://variety.com/2026/film/reviews/the-squirrel-review-1236955178/",
+      "image": "https://variety.com/wp-content/uploads/2026/11/The-Squirrel_Orava_still5_photo_Max_Smeds_Bufo2025.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "071760ecf8dae6dc",
+      "title": "‘Four Seasons In Java’ Review: Indonesia’s Oscar Submission Is a Gorgeous, Slow-Burning Thriller With Elements of Magical Realism",
+      "quote": "A gloriously executed slow burn of a suspense thriller, mixed with magical realism and other genre tropes, “Four Seasons In Java” connects the themes and concerns of Indonesian writer-director Kamila Andini’s previous…",
+      "publisher": "Variety",
+      "author": "Alissasimon",
+      "date": "2026-11-26T01:50:43+00:00",
+      "link": "https://variety.com/2026/film/reviews/four-seasons-in-java-review-1236953446/",
+      "image": "https://variety.com/wp-content/uploads/2026/11/java-1.png",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "7ea11342aea04f0b",
+      "title": "Amanda Seyfried Admits She “Told A Lot Of People” About Her ‘You Can See Everything’ Role: “I’m The Most Indiscreet Person”",
+      "quote": "Although Amanda Seyfried’s buzzy new role was a well-kept secret, discretion was maintained with no thanks to her. The Oscar-nominated actress admitted that although she “was only involved for like a year” in You Can…",
+      "publisher": "Deadline",
+      "author": "Glenn Garner",
+      "date": "2026-11-26T01:29:29+00:00",
+      "link": "https://deadline.com/2026/11/amanda-seyfried-told-lot-people-you-can-see-everything-1237233837/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/You-can-see-everything_097305.png",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "9acf2cb07df2356f",
+      "title": "‘Situations’ Review: Greg Vrotsos’ Filmmaking Debut Is a Winning, Relatable Throwback",
+      "quote": "“Swingers” isn’t the kind of movie that people often talk about Hollywood not making anymore. But when a new film is worthy of being mentioned in the same sentence as that 1996 comedy, it’s a reminder of how rare such…",
+      "publisher": "Variety",
+      "author": "Guy Lodge",
+      "date": "2026-11-26T01:25:41+00:00",
+      "link": "https://variety.com/2026/film/reviews/situations-review-1236958625/",
+      "image": "https://variety.com/wp-content/uploads/2026/11/SITUATIONS-Vrotsos-still-1.webp",
+      "category": "World Cinema"
+    },
+    {
+      "id": "9cd4f88566b2082f",
+      "title": "The Cliff Booth Movie Brings Back Two Key Characters From Once Upon A Time In Hollywood",
+      "quote": "In addition to Brad Pitt's Cliff Booth, The Further Mis-Adventures of Cliff Booth brings back a couple more familiar faces from Once Upon a Time in Hollywood.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Devin Meenan)",
+      "date": "2026-11-26T01:15:39+00:00",
+      "link": "https://www.slashfilm.com/2328910/cliff-booth-movie-once-upon-a-time-characters-margot-robbie-timothy-olyphant/",
+      "image": "https://www.slashfilm.com/img/gallery/the-cliff-booth-movie-brings-back-two-characters-from-once-upon-a-time-in-hollywood/l-intro-1795655352.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "5b2fa51b3a8aec10",
+      "title": "Judge Sides With ABC In First Amendment Lawsuit Against FCC; Puts Halt To Agency’s Early License Renewal Proceeding",
+      "quote": "A federal judge has largely sided with ABC in its First Amendment lawsuit claiming that an FCC order to review its broadcast licenses was a retaliatory act by the Trump administration designed to chill its content…",
+      "publisher": "Deadline",
+      "author": "Ted Johnson",
+      "date": "2026-11-26T00:30:46+00:00",
+      "link": "https://deadline.com/2026/11/abc-fcc-trump-first-amendment-lawsuit-1237158218/",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/Brendan-Carr-.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "1ab97adaea700c15",
+      "title": "Mayor Zohran Mamdani Says Famed Balloons Will Soar Again At Rescheduled Macy’s Parade: “It’s The Only Inflation We Support In New York City”",
+      "quote": "New York Mayor Zohran Mamdani struck a personal note during a press briefing Wednesday about the postponement of the Macy’s Thanksgiving Day Parade due to a major storm. “Many New Yorkers, myself included, as well as…",
+      "publisher": "Deadline",
+      "author": "Dade Hayes",
+      "date": "2026-11-26T00:29:14+00:00",
+      "link": "https://deadline.com/2026/11/mayor-zohran-mamdani-macys-thanksgiving-day-parade-postponed-1237233704/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/Thanksgiving-parade-Buzz.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "4977c8d7ead300d8",
+      "title": "Blade Runner 2099 Proves The Saga Does One Thing Better Than Any Other Sci-Fi Franchise",
+      "quote": "Blade Runner 2099 firmly establishes one thing this franchise does better than other major sci-fi franchises like Terminator and Alien.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Joe Roberts)",
+      "date": "2026-11-25T23:00:00+00:00",
+      "link": "https://www.slashfilm.com/2327087/blade-runner-2099-one-thing-better-other-sci-fi-franchises/",
+      "image": "https://www.slashfilm.com/img/gallery/blade-runner-2099-proves-the-saga-does-one-thing-better-than-any-other-sci-fi-franchise/l-intro-1795549346.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "8f9de887c58ede23",
+      "title": "Blade Runner 2099 Adds A Major Twist To The Classic Voight-Kampff Test",
+      "quote": "Blade Runner 2099 introduces us to the Index Test, which is a twist on the Voight-Kampff test made famous in the original Blade Runner.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Jeremy Mathai)",
+      "date": "2026-11-25T22:00:00+00:00",
+      "link": "https://www.slashfilm.com/2327052/blade-runner-2099-twist-voight-kampff-test/",
+      "image": "https://www.slashfilm.com/img/gallery/blade-runner-2099-adds-a-major-twist-to-the-classic-voight-kampff-test/l-intro-1795549086.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "3f6a6fa050ea3209",
@@ -53,48 +218,37 @@
       "category": "Indie Gems"
     },
     {
-      "id": "40c3f04d30617dcd",
-      "title": "Macy’s Thanksgiving Day Parade Postponed To Saturday Due To Severe Weather; NBC Will Rerun 2025 Parade On Thursday",
-      "quote": "The Macy’s Thanksgiving Day Parade will be postponed until Saturday due to expected storms on Thursday, and NBC will rerun last year’s parade this Thanksgiving. In a statement, NBC says, “Due to the extreme weather…",
-      "publisher": "Deadline",
-      "author": "Greg Evans",
-      "date": "2026-11-25T20:56:47+00:00",
-      "link": "https://deadline.com/2026/11/macys-thanksgiving-day-parade-postponed-1237233595/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/Macys-Thanksgiving-Day-Parade.jpg",
-      "category": "World Cinema"
+      "id": "35ea8fe7ef75919d",
+      "title": "Somehow Amanda Seyfried got away with telling \"a lot of people\" about her YCSE role",
+      "quote": "Despite the secrecy surrounding <i>You Can See Everything</i>, Amanda Seyfried revealed that she blabbed to \"a lot of people\" about her involvement.",
+      "publisher": "The A.V. Club",
+      "author": "Olivia Singh",
+      "date": "2026-11-25T20:35:20+00:00",
+      "link": "https://www.avclub.com/amanda-seyfried-you-can-see-everything-role-told-people",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/11/25/amanda-seyfried-tonight-show-featured.jpg",
+      "category": "Indie Gems"
     },
     {
-      "id": "d0dc0dc461e7638d",
-      "title": "Aaron Rodgers Released By NFL’s Pittsburgh Steelers Following ESPN Interview Where He Criticized Coach Mike McCarthy After Benching",
-      "quote": "Aaron Rodgers has been released by the Pittsburgh Steelers following an explosive interview on ESPN’s Pat McAfee Show. The Super Bowl champion and 4x NFL MVP was benched this week, and backup quarterback Mason Rudolph…",
-      "publisher": "Deadline",
-      "author": "Armando Tinoco",
-      "date": "2026-11-25T20:55:31+00:00",
-      "link": "https://deadline.com/2026/11/aaron-rodgers-released-nfl-pittsburgh-steelers-espn-interview-1237233574/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/aaron-rodgers-pat-mcafee-espn.jpg",
-      "category": "World Cinema"
+      "id": "8e9b7d731e3cef20",
+      "title": "David Fincher says AI is great for fixing all the imperfect humans in his movies",
+      "quote": "David Fincher says AI is great for fixing all the imperfect humans in his movies",
+      "publisher": "The A.V. Club",
+      "author": "William Hughes",
+      "date": "2026-11-25T20:31:38+00:00",
+      "link": "https://www.avclub.com/david-fincher-ai-use-cases-lip-sync-hair-in-corneas",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/11/25/david-fincher-feature.jpg",
+      "category": "Indie Gems"
     },
     {
-      "id": "5698b568bd90ab95",
-      "title": "Breaking Baz: ‘Bunker’ Writer-Director Florian Zeller Takes Us Behind The Scenes With Penélope Cruz, Javier Bardem, Stephen Graham & Dame Eileen Atkins",
-      "quote": "Speaking over Zoom from his home in Paris, Florian Zeller says he could write poems all about Penélope Cruz. Instead, he wrote a thrilling movie called Bunker for her, and her husband, Javier Bardem. Zeller, the…",
-      "publisher": "Deadline",
-      "author": "Antonia Blyth",
-      "date": "2026-11-25T20:45:00+00:00",
-      "link": "https://deadline.com/2026/11/bunker-florian-zeller-penelope-cruz-javier-bardem-interview-1237233549/",
-      "image": "https://deadline.com/wp-content/uploads/2026/09/Bunker_Group00799.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "7e10f6beedf73398",
-      "title": "NFL On The Future Of Netflix’s Thanksgiving Eve Game & Starting A New Tradition: “We Are Committed”",
-      "quote": "Netflix is launching a new annual NFL tradition: the first-ever Thanksgiving Eve game. The inaugural game will see the Los Angeles Rams and the Green Bay Packers face off a day before the Thanksgiving Day tripleheader…",
-      "publisher": "Deadline",
-      "author": "Armando Tinoco",
-      "date": "2026-11-25T20:00:00+00:00",
-      "link": "https://deadline.com/2026/11/nfl-future-netflix-thanksgiving-eve-game-tradition-1237233072/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/netflix-nfl-thanksgiving-eve-game.jpg",
-      "category": "World Cinema"
+      "id": "17dcbc5a93a6458f",
+      "title": "The Rings Of Power comes full circle in a Ring-forging, anti-climactic season finale",
+      "quote": "Sauron endures the endless fire as Rings Of Power kicks its climactic battle for Middle-earth down the road.",
+      "publisher": "The A.V. Club",
+      "author": "Matt Schimkowitz",
+      "date": "2026-11-25T20:12:56+00:00",
+      "link": "https://www.avclub.com/the-rings-of-power-season-3-episodes-7-8-recaps",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/11/25/rings-of-power-season-3-finale-feature.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "a3b6858ee54dfbb3",
@@ -108,17 +262,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "0588dcdc05e05a8a",
-      "title": "Veruschka Dies: German Supermodel Of The 1960s & ’70s Who Appeared In ‘Blow-Up’ Was 87",
-      "quote": "Veruschka, the German supermodel of the 1960s and ’70s who appeared in Michelangelo Antonioni’s iconic Swinging London film Blow-Up and was christened by photographer Richard Avedon as “the most beautiful woman in the…",
-      "publisher": "Deadline",
-      "author": "Greg Evans",
-      "date": "2026-11-25T19:55:37+00:00",
-      "link": "https://deadline.com/2026/11/veruschka-dead-1237233496/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/GettyImages-3438392.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "e27861c422bc7f61",
       "title": "Avengers: Secret Wars Setting Confirmed By Marvel, Spoiling Doomsday",
       "quote": "Marvel Studios head Kevin Feige has confirmed a major component of Avengers: Secret Wars, effectively spoiling Avengers: Doomsday in the process.",
@@ -130,17 +273,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "388ddc0acdeded2d",
-      "title": "Doc Talk Podcast: ‘The Eyes Of Ghana’s Ben Proudfoot & Nana Frimpong On Their Oscar Contender Backed By The Obamas & IShowSpeed",
-      "quote": "Director Ben Proudfoot’s Oscar-contending documentary The Eyes of Ghana has attracted some impressive supporters, including former occupants of the White House. Former President Barack Obama and First Lady Michelle…",
-      "publisher": "Deadline",
-      "author": "Erik Pedersen",
-      "date": "2026-11-25T19:45:45+00:00",
-      "link": "https://deadline.com/2026/11/eyes-of-ghana-directors-podcast-obama-ishowspeed-1237233501/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/Proudfoot-Frimpong-split-image-1500.jpg",
-      "category": "Festival Winners"
-    },
-    {
       "id": "4ab5e0ffceed1e35",
       "title": "Avatar Fans Just Got Some Good News About The Franchise's Future At Disney",
       "quote": "Praise Eywa! After a long period without a public greenlight, the Avatar franchise is set to continue with Avatar 4 added to Disney's release calendar.",
@@ -149,6 +281,17 @@
       "date": "2026-11-25T19:10:14+00:00",
       "link": "https://www.slashfilm.com/2328520/avatar-4-franchise-future-disney-update/",
       "image": "https://www.slashfilm.com/img/gallery/avatar-fans-just-got-some-good-news-about-the-franchises-future-at-disney/l-intro-1795633182.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "f6fca76a2f9b8a36",
+      "title": "The Ridley Scott vibes-first school of sci-fi has landed on TV",
+      "quote": "Blade Runner 2099 forges ahead in a burgeoning subgenre pioneered by Alien: Earth last year: Welcome to the dawn of the vibes-first Ridley Scott TV adaptation.",
+      "publisher": "The A.V. Club",
+      "author": "Clint Gage",
+      "date": "2026-11-25T19:00:47+00:00",
+      "link": "https://www.avclub.com/blade-runner-2099-alien-earth-ridley-scott-tv-adaptations",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/11/25/MixCollage-25-Nov-2026-01-26-PM-9404.jpg",
       "category": "Indie Gems"
     },
     {
@@ -163,48 +306,48 @@
       "category": "Indie Gems"
     },
     {
-      "id": "fc6c5d5cb17e6d29",
-      "title": "David Fincher's Rejected Star Wars Movie Pitch Would Have Centered On Two Beloved Franchise Characters",
-      "quote": "David Fincher has revealed that he pitched a Star Wars movie focusing on C-3PO and R2-D2 prior to Disney buying Lucasfilm back in 2012.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Ryan Scott)",
-      "date": "2026-11-25T18:55:35+00:00",
-      "link": "https://www.slashfilm.com/2328489/david-fincher-rejected-star-wars-movie-pitch-characters/",
-      "image": "https://www.slashfilm.com/img/gallery/david-finchers-rejected-star-wars-movie-pitch-would-have-centered-on-two-beloved-franchise-characters/l-intro-1795632767.jpg",
+      "id": "858e6f54cdb30142",
+      "title": "The Pitt season 3 gets premiere date for night shift",
+      "quote": "HBO Max announced that <i>The Pitt</i> will return for season three on January 7.",
+      "publisher": "The A.V. Club",
+      "author": "Olivia Singh",
+      "date": "2026-11-25T18:44:06+00:00",
+      "link": "https://www.avclub.com/the-pitt-season-3-release-date-announcement",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/10/27/the-pitt-season-3-noah-wyle-featured.jpg",
       "category": "Indie Gems"
     },
     {
-      "id": "7d9d3043fdc524bf",
-      "title": "The Further Mis-Adventures Of Cliff Booth Features A Delightful Quentin Tarantino Easter Egg",
-      "quote": "The Further Mis-Adventures of Cliff Booth may not technically be a Quentin Tarantino movie, but it still has a Tarantino Easter egg or two.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Chris Evangelista)",
-      "date": "2026-11-25T18:00:00+00:00",
-      "link": "https://www.slashfilm.com/2325154/the-further-mis-adventures-of-cliff-booth-quentin-tarantino-easter-egg-explained/",
-      "image": "https://www.slashfilm.com/img/gallery/the-further-mis-adventures-of-cliff-booth-features-a-delightful-quentin-tarantino-easter-egg/l-intro-1795630305.jpg",
+      "id": "1ebd0c05d5451308",
+      "title": "We reckon there could be a Red Dead Redemption TV series",
+      "quote": "Rockstar Games, which has so far been perfectly happy earning the GDP of a small nation by simply making games instead of licensing IP, is reportedly open to selling the TV rights to <i>Red Dead Redemption</i> for $100…",
+      "publisher": "The A.V. Club",
+      "author": "Jarrod Jones",
+      "date": "2026-11-25T18:17:12+00:00",
+      "link": "https://www.avclub.com/red-dead-redemption-tv-license-reportedly-for-sale-rockstar-games",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/11/25/red-dead-redemption-header.jpg",
       "category": "Indie Gems"
     },
     {
-      "id": "078515c7df2d6771",
-      "title": "Marvel Reveals What Happened On Patrick Stewart's Final Day Filming Avengers: Doomsday",
-      "quote": "Patrick Stewart's final day of filming on Avengers: Doomsday was just as moving for the Marvel movie's cast and crew as you would expect.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Jeremy Mathai)",
-      "date": "2026-11-25T17:47:24+00:00",
-      "link": "https://www.slashfilm.com/2328340/what-happened-patrick-stewart-final-day-filming-marvle-avengers-doomsday/",
-      "image": "https://www.slashfilm.com/img/gallery/marvel-reveals-what-happened-on-patrick-stewarts-final-day-filming-avengers-doomsday/l-intro-1795628614.jpg",
+      "id": "b47d6658b1c0c651",
+      "title": "Gordon Ramsay to become the new, presumably very angry face of the BBC's Top Gear",
+      "quote": "Gordon Ramsay to become the new, presumably very angry face of the BBC's <i>Top Gear</i>.",
+      "publisher": "The A.V. Club",
+      "author": "William Hughes",
+      "date": "2026-11-25T18:14:39+00:00",
+      "link": "https://www.avclub.com/gordon-ramsay-reviving-top-gear-host",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/11/25/gordon-ramsay-feature.jpg",
       "category": "Indie Gems"
     },
     {
-      "id": "98a2a33906f457af",
-      "title": "IFFI 2026 | ‘Ray Gunn’ movie review: Brad Bird’s sultry space-age noir is a real knockout",
-      "quote": "Sam Rockwell and Scarlett Johansson make for irresistible company in Brad Bird’s lavishly imagined, long-gestating retro-futurist noir",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-11-25T17:16:13+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/ffi-2026-ray-gunn-movie-review-brad-bird-sam-rockwell-scarlett-johansson-retrofuturist-noir/article71743189.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/8da8fb/article71743231.ece/alternates/LANDSCAPE_1200/Ray-Gunn-1.jpg",
-      "category": "Festival Winners"
+      "id": "e190388e24328cf3",
+      "title": "Hunger Games producer says Mockingjay should have been 1 movie",
+      "quote": "<i>The Hunger Games</i> franchise producer Nina Jacobson said that audiences can be \"cynical\" of the two-part approach for a single book adaptation.",
+      "publisher": "The A.V. Club",
+      "author": "Olivia Singh",
+      "date": "2026-11-25T17:42:24+00:00",
+      "link": "https://www.avclub.com/hunger-games-mockingjay-should-have-been-1-movie-producer",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/10/28/the-hunger-games-mockingjay-part-1-jennifer-lawrence-katniss-featured.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "3950fcce4e99e1bb",
@@ -438,116 +581,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "878b26f57799106d",
-      "title": "James Gray has had it up to here with the Cannes Film Festival",
-      "quote": "The Paper Tiger director criticized the competitive spirit of film festivals, calling it \"dumb\" and \"ethically, morally bankrupt.\"",
-      "publisher": "The A.V. Club",
-      "author": "Matt Schimkowitz",
-      "date": "2026-11-24T23:48:21+00:00",
-      "link": "https://www.avclub.com/james-gray-criticizes-cannes-film-festival-paper-tiger",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/11/24/james-gray-lorcano-feature.jpg",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "523bbd7f51952ac3",
-      "title": "Warner Bros. order copyright strikes against Malfoid-obsessed YouTubers",
-      "quote": "The gender-swapped Harry Potter character has led to the shutdown of numerous fan art and generative AI YouTube accounts.",
-      "publisher": "The A.V. Club",
-      "author": "Matt Schimkowitz",
-      "date": "2026-11-24T22:33:31+00:00",
-      "link": "https://www.avclub.com/warner-bros-orders-copyright-strikes-against-malfoid-youtubers",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/10/22/potter-header.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "463bb33b6fab43a8",
-      "title": "Bengal film fraternity members meet CM Suvendu Adhikari; demand more Bengali film screening",
-      "quote": "Film fraternity members said regional Bengali language films were being sidelined because of national and international films",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-11-24T21:26:19+00:00",
-      "link": "https://www.thehindu.com/news/national/west-bengal/bengal-film-fraternity-members-meet-cm-suvendu-adhikari-demand-more-bengali-film-screening/article71738779.ece",
-      "image": "https://th-i.thgim.com/public/incoming/46u9jk/article71740065.ece/alternates/LANDSCAPE_1200/20261123404L.jpg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "3574ea22b5d431e8",
-      "title": "Marvel was trying to get Chris Evans back before Endgame even finished filming",
-      "quote": "According to <i>Entertainment Weekly</i>, Chris Evans took top-secret meetings with Marvel in the years after <i>Avengers: Endgame</i>, all while lying to the press about being done playing Steve Rogers.",
-      "publisher": "The A.V. Club",
-      "author": "Olivia Singh",
-      "date": "2026-11-24T21:18:04+00:00",
-      "link": "https://www.avclub.com/chris-evans-lied-about-marvel-return-took-meetings",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/11/24/chris-evans-avengers-endgame-steve-featured.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "7635ccdc81ee1d7d",
-      "title": "New York Times requests its freelancers to skip Photoshop's latest AI-filled update",
-      "quote": "In what must be a celebratory day for New York Times freelancers, the Old Gray Lady has warned contributors against updating Adobe Photoshop.",
-      "publisher": "The A.V. Club",
-      "author": "Matt Schimkowitz",
-      "date": "2026-11-24T19:58:22+00:00",
-      "link": "https://www.avclub.com/new-york-times-requests-freelancers-not-update-adobe-photoshop",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/11/24/New-York-Times-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "ea07c49846ba9cb2",
-      "title": "Laura Bailey says The Last Of Us Part II was “cursed”",
-      "quote": "Laura Bailey says online leaks contributed to the unprecedented backlash she encountered for playing Abby in <i>The Last Of Us Part II</i>.",
-      "publisher": "The A.V. Club",
-      "author": "Jarrod Jones",
-      "date": "2026-11-24T19:17:24+00:00",
-      "link": "https://www.avclub.com/laura-bailey-the-last-of-us-part-2-outrage-reaction-naughty-dog",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/11/24/bailey-header.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "b26661818369f05e",
-      "title": "Prime Video will forge a fourth season of Rings Of Power",
-      "quote": "Continuing its original five-season and likely nothing else mandate, Prime Video has renewed The Lord Of The Rings: The Rings Of Power for a fourth season.",
-      "publisher": "The A.V. Club",
-      "author": "Matt Schimkowitz",
-      "date": "2026-11-24T19:11:20+00:00",
-      "link": "https://www.avclub.com/amazon-prime-video-renews-lord-of-the-rings-rings-of-power-for-season-four",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/11/09/sauron-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "a4f208c82a7953e9",
-      "title": "Glenn Close's face was taped like that in Sunrise On The Reaping",
-      "quote": "Glenn Close's three-and-a-half-hour transformation into Drusilla Sickle for <i>Sunrise On The Reaping</i> required face tape that created a lifted, pulled effect.",
-      "publisher": "The A.V. Club",
-      "author": "Olivia Singh",
-      "date": "2026-11-24T19:00:38+00:00",
-      "link": "https://www.avclub.com/glenn-close-sunrise-on-the-reaping-drusilla-face-tape",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/11/24/sunrise-on-the-reaping-glenn-close-drusilla-featured.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "9db19207deec2e19",
-      "title": "Dunesday leads December’s busy holiday film season",
-      "quote": "Our December film preview tackles Dunesday, Brad Bird's return with Ray Gunn, and Mike Leigh's likely final film.",
-      "publisher": "The A.V. Club",
-      "author": "Lacy Baugher Milas",
-      "date": "2026-11-24T19:00:21+00:00",
-      "link": "https://www.avclub.com/new-movies-in-theaters-december-2026-avengers-doomsday-dune-part-three-artificial-ray-gunn",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/11/23/MixCollage-23-Nov-2026-12-20-PM-4218.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "fca222bdeb3545a9",
-      "title": "IFFI 2026 | Ashutosh Gowariker interview: ‘The more challenging the times, the more cinema needs to provoke thought’",
-      "quote": "The Oscar-nominated ‘Lagaan’ filmmaker reflects on returning to IFFI more than four decades after his first visit as festival director, whether cinema should embrace propaganda or challenge it, and why Indian filmmakers…",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-11-24T17:28:01+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/iffi-2026-ashutosh-gowariker-interview-lagaan-india-oscars-propaganda-cinema-goa-film-festival/article71739431.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/or3ujx/article71739505.ece/alternates/LANDSCAPE_1200/Copy%20of%20G2%20Cover.jpg",
-      "category": "Festival Winners"
-    },
-    {
       "id": "9d4d65ec795c7f84",
       "title": "‘Hexed’ Review: Disney’s Not-So-Wicked Witch Tale Is Cheery Enough, but Not Terribly Crafty",
       "quote": "Thank goodness for Aunt Gladys. If it weren’t for last year’s fright-wigged “Weapons” villainess — a bracing figure of pure, malicious evil amid cinema’s recent run of goody-two-shoes witches, sparkling up the likes of…",
@@ -680,17 +713,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "4f647c41107f107f",
-      "title": "‘The Further Mis-Adventures of Cliff Booth’ Review: Brad Pitt Hits the Aura Jackpot in a Very Fun Tarantino Hangout Movie That Feels Like QT TV",
-      "quote": "\"The Further Mis-Adventures of Cliff Booth\" gives you a highly pleasurable, shaggy heat-of-the-moment buzz. I’m not sure what I was expecting from a sequel to \"Once Upon a Time in Hollywood,\" but I dug just about every…",
-      "publisher": "Variety",
-      "author": "Owen Gleiberman",
-      "date": "2026-11-19T18:00:26+00:00",
-      "link": "https://variety.com/2026/film/reviews/the-further-mis-adventures-of-cliff-booth-review-brad-pitt-1236952037/",
-      "image": "https://variety.com/wp-content/uploads/2026/11/MCDFUMI_ZX009-e1794847302330.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "718689660743b2d6",
       "title": "The Further Mis-Adventures of Cliff Booth review – Tarantino and Fincher join forces for Brad Pitt’s glorious return",
       "quote": "David Fincher directs Quentin Tarantino’s script, picking up from Once Upon a Time in Hollywood, and its lead is more ineffably beguiling than ever We got through to the very end of Quentin Tarantino’s previous film…",
@@ -735,17 +757,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "52dda388407d744b",
-      "title": "‘White Tiger Column’ Review: Young Resistance Fighters in Myanmar Are Trained for War, but Not Yet for Life, in a Delicate Doc Study",
-      "quote": "A nasal R&B jam by Justin Bieber isn’t everyone’s idea of comfort listening, least of all played on a crackly phone speaker. But when the singer’s 2020 hit “Intentions” plays midway through “White Tiger Column,” briefly…",
-      "publisher": "Variety",
-      "author": "Guy Lodge",
-      "date": "2026-11-19T14:10:43+00:00",
-      "link": "https://variety.com/2026/film/reviews/white-tiger-column-review-1236952028/",
-      "image": "https://variety.com/wp-content/uploads/2026/11/VARIETY-SIZING-38.png",
-      "category": "World Cinema"
-    },
-    {
       "id": "e755505f37650cab",
       "title": "The shocking new film confronting sexual violence",
       "quote": "Josephine centres on an eight-year-old who witnesses a sexual assault",
@@ -754,17 +765,6 @@
       "date": "2026-11-19T11:00:00+00:00",
       "link": "https://www.bbc.com/culture/article/20261118-shocking-new-film-josephine-confronts-sexual-violence-through-a-childs-eyes?ocid=global_culture_rss",
       "image": "https://ychef.files.bbci.co.uk/144x81/p0pnnjlk.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "4db7333084518dde",
-      "title": "‘Steps’ Review: Brightly Colored, Harmless Reimagining of ‘Cinderella’ Packs Funny Lines but Little That’s Unique",
-      "quote": "As revisionist narratives that seek to rehabilitate a villain’s reputation, “Shrek” and “Wicked” have set the standard for what this type of alternative fairytale can look like, whether comic or dramatic. The new…",
-      "publisher": "Variety",
-      "author": "Carlos Aguilar",
-      "date": "2026-11-19T10:17:47+00:00",
-      "link": "https://variety.com/2026/film/reviews/steps-review-1236952706/",
-      "image": "https://variety.com/wp-content/uploads/2026/11/Steps_n_01_00_09_12.png",
       "category": "World Cinema"
     },
     {
