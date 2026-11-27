@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T07:53:33.552229+00:00",
+  "generated_at": "2026-11-27T20:59:03.529350+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -9,36 +9,300 @@
   ],
   "reviews": [
     {
-      "id": "4993ccd1d491d918",
-      "title": "Supreme Court refuses urgent listing of plea against Ranbir Kapoor-starrer Ramayana",
-      "quote": "A Bench headed by CJI Surya Kant said anyone with a different view of the epic is free to make a film of their own, as the film is already running in theatres",
+      "id": "3a3fe7bcc77be66e",
+      "title": "The Child",
+      "quote": "We don’t learn much about Nuco before he dies and that lack of context sets the table for the unequally split ensemble character study that follows.",
+      "publisher": "RogerEbert.com",
+      "author": "Simon Abrams",
+      "date": "2026-11-27T20:24:39+00:00",
+      "link": "https://www.rogerebert.com/reviews/the-child-netflix-film-review-2026",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "bc0cbbb53bd37d7d",
+      "title": "‘The Hunting Wives’ Pays Tribute To Lionsgate Exec Salli Newman",
+      "quote": "Viewers of the second season of The Hunting Wives, currently streaming on Netflix, will find a poignant message at the end of the season finale: “In Loving Memory of Salli Newman.” Newman was the senior vice president…",
+      "publisher": "Deadline",
+      "author": "Greg Evans",
+      "date": "2026-11-27T19:58:06+00:00",
+      "link": "https://deadline.com/2026/11/salli-newman-hunting-wives-tribute-1237234359/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/salli-newman-burbank-ca-obituary.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "1fcf7c1ebd50979f",
+      "title": "It's 2026, And I Just Watched Daniel Craig's James Bond Movies For The First Time – These Are My Honest Thoughts",
+      "quote": "As Robert Pattinson prepares to take up the mantle of James Bond, here's a look back at the Daniel Craig era of 007 through fresh eyes.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Rafael Motamayor)",
+      "date": "2026-11-27T19:42:37+00:00",
+      "link": "https://www.slashfilm.com/2329744/daniel-craig-james-bond-movies-2026-first-watch-thoughts/",
+      "image": "https://www.slashfilm.com/img/gallery/its-2026-and-i-just-watched-daniel-craigs-james-bond-movies-for-the-first-time-these-are-my-honest-thoughts/l-intro-1795808142.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "d46957535928e165",
+      "title": "Justin Timberlake Visits Jimmy Fallon And Shares Thanksgiving Dish On New Apple TV Doc Series, How David Bowie Influenced ‘SexyBack’ & Performs Dance Classics",
+      "quote": "Thursday was a dual celebration for Justin Timberlake’s visit with Jimmy Fallon on NBC’s Tonight Show: There was Thanksgiving, of course, which you can see in the photo above was most certainly not ignored by the two…",
+      "publisher": "Deadline",
+      "author": "Greg Evans",
+      "date": "2026-11-27T19:04:10+00:00",
+      "link": "https://deadline.com/2026/11/justin-timberlake-jimmy-fallon-thanksgiving-1237234321/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/NUP_212404_06688.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "0e406f59919aadd7",
+      "title": "David Byrne On Getting Into Character As Elon Musk For ‘Musk’ Song “Let Me Sell You A Dream” – Crew Call Podcast",
+      "quote": "On today’s Crew Call we chat with near EGOT winner David Byrne about “Let Me Sell You A Dream,” his new song for Alex Gibney’s controversial documentary Musk about, yes, Elon Musk. Byrne tells us about co-writing the…",
+      "publisher": "Deadline",
+      "author": "Anthonypauldalessandro",
+      "date": "2026-11-27T19:00:00+00:00",
+      "link": "https://deadline.com/2026/11/david-byrne-musk-song-1237234312/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/David-Byrne-Musk-Crew-Call-logo.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "5fe8dc3ac79d2d66",
+      "title": "​​Big Changes Are Coming To The DC Universe In 2027",
+      "quote": "The balance of power at DC Studios has changed, which means fans should expect the shape of the DC Universe to change in 2027.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Joe Roberts)",
+      "date": "2026-11-27T19:00:00+00:00",
+      "link": "https://www.slashfilm.com/2329230/dc-universe-2027-changes-explained/",
+      "image": "https://www.slashfilm.com/img/gallery/big-changes-are-coming-to-the-dc-universe-in-2027/l-intro-1795720622.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "bf27eee7ecc84163",
+      "title": "Doha Winners: ‘A Girl Unknown’ & ‘Concrete Land’ Scoop Top Prizes",
+      "quote": "Chinese director Zou Jing’s A Girl Unknown won the top $75,000 Best Narrative prize at the Doha Film Festival as the second edition of its revamped format came to a close on Friday evening. The China-set first feature…",
+      "publisher": "Deadline",
+      "author": "Melanie Goodfellow",
+      "date": "2026-11-27T18:21:54+00:00",
+      "link": "https://deadline.com/2026/11/doha-2026-winners-girl-unknown-concrete-land-1237234325/",
+      "image": "https://deadline.com/wp-content/uploads/2026/07/A-Girl-Unknown.jpeg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "c4be6e99416f6065",
+      "title": "Kate Middleton Describes “Lonely Road” Of Navigating Cancer As She Meets Fellow Survivors In New Clip For Upcoming Doc",
+      "quote": "Kate Middleton is seen joining a cancer support group in a new clip for the BBC and Universal’s upcoming documentary Heal, which launches Sunday. “I haven’t really explored this outside my family walls,” the Princess of…",
+      "publisher": "Deadline",
+      "author": "Andreas Wiseman",
+      "date": "2026-11-27T17:59:52+00:00",
+      "link": "https://deadline.com/2026/11/kate-middleton-describes-cancer-recovery-clip-heal-1237234313/",
+      "image": "https://deadline.com/wp-content/uploads/2024/11/Screenshot-2024-11-10-at-12.31.43.png",
+      "category": "World Cinema"
+    },
+    {
+      "id": "12b2cb91bf55b7cf",
+      "title": "Denis Villeneuve “Deeply Disappointed” That ‘Avengers: Doomsday’ Will Launch On Same Weekend As ‘Dune: Part Three’",
+      "quote": "Denis Villeneuve says he is “deeply disappointed” that Disney chose to release box office juggernaut Avengers: Doomsday over the same December 18 weekend as the third instalment in his Dune franchise. In a new interview…",
+      "publisher": "Deadline",
+      "author": "Andreas Wiseman",
+      "date": "2026-11-27T17:39:23+00:00",
+      "link": "https://deadline.com/2026/11/denis-villeneuve-disappointed-avengers-dune-release-date-1237234307/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/avengers-doomsday-dune-part-three.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "7ffbf0f912563dde",
+      "title": "Neil Patrick Harris & Patton Oswalt Get Behind iPhone-Shot Short ‘Dropping Off’ About LA Rideshare Driver",
+      "quote": "EXCLUSIVE: Neil Patrick Harris and Patton Oswalt have signed on as executive producers of Will Mayo and Ian Scott McGregor’s short film, Dropping Off. Shot almost entirely on security cameras and iPhones in Hollywood…",
+      "publisher": "Deadline",
+      "author": "Andreas Wiseman",
+      "date": "2026-11-27T17:10:00+00:00",
+      "link": "https://deadline.com/2026/11/neil-patrick-harris-patton-oswalt-back-short-dropping-off-1237234254/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/Dropping-Off.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "b33aa23830552a20",
+      "title": "‘Sunrise On The Reaping’ Cooks Up $11M+ Thanksgiving, 2nd Best For Franchise; ‘Focker In-Law’ Seeing $40M 5-Day – Update",
+      "quote": "FRIDAY AM: Lionsgate’s The Hunger Games: Sunrise on the Reaping saw the second best Thanksgiving and Thursday of the franchise with $11.6M after Catching Fire‘s $14.95M 13 years ago and ahead of Mockingjay Part 2‘s $11M…",
+      "publisher": "Deadline",
+      "author": "Anthonypauldalessandro",
+      "date": "2026-11-27T16:45:00+00:00",
+      "link": "https://deadline.com/2026/11/box-office-hunger-games-hexed-focker-in-law-thanksgiving-1237233281/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/MCDHUGA_LG071.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "6b6a2d46b7c46472",
+      "title": "Pedro Pascal's New Movie Is A Must-Watch In Theaters (And It's Not Avengers: Doomsday)",
+      "quote": "Plenty of people will be seeing Avengers: Doomsday in theaters, but they should also catch Pedro Pascal in Behemoth!, a movie that also demands the big screen.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Ryan Scott)",
+      "date": "2026-11-27T15:00:00+00:00",
+      "link": "https://www.slashfilm.com/2322649/pedro-pascal-movie-must-watch-theaters-not-avengers-doomsday-behemoth/",
+      "image": "https://www.slashfilm.com/img/gallery/pedro-pascals-new-movie-is-a-must-watch-in-theaters-and-its-not-avengers-doomsday/l-intro-1795153821.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "31849bf0b0c1ccea",
+      "title": "‘Yeh Prem Mol Liya’ movie review: Ayushmann and Sharvari anchor a romance that is radical by half",
+      "quote": "Sooraj Barjatya makes a sweet intervention in Hindi cinema’s domestic politics, imagining a marriage where the groom and his family cross the threshold, even if its progressive context stays wrapped in a safe text",
       "publisher": "The Hindu",
       "author": null,
-      "date": "2026-11-27T06:46:22+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/supreme-court-refuses-urgent-listing-of-plea-against-ranbir-kapoor-starrer-ramayana/article71749619.ece",
-      "image": "https://th-i.thgim.com/public/incoming/u8jibm/article71749670.ece/alternates/LANDSCAPE_1200/cvr%20-%202026-11-23T103327.180.jpg",
+      "date": "2026-11-27T14:24:54+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/yeh-prem-mol-liya-review-sooraj-barjatya-ayushmann-khurrana-sharvari-rajshri-salman-khan/article71751396.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/ulr6og/article71751436.ece/alternates/LANDSCAPE_1200/Yeh%20Prem%20Mol%20Liya.jpeg",
       "category": "Indian Cinema"
     },
     {
-      "id": "8837b4ed72ae5bce",
-      "title": "‘The Mosquito Bowl’ movie review: Peter Berg’s drama is dull in its explorations of WWII",
-      "quote": "Berg’s attempt at a war film only takes him to the frontline of what is possible, but his finished project lacks the courage to cross the threshold",
+      "id": "e7077432902ddd47",
+      "title": "What Makes Blade Runner 2099's Mercerism Subplot So Relevant [Exclusive]",
+      "quote": "If you've read Blade Runner's source material, then you'll know why Blade Runner 2099 showrunner Silka Luisa feels the sci-fi religion is such a timely concept.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Jeremy Mathai)",
+      "date": "2026-11-27T14:00:00+00:00",
+      "link": "https://www.slashfilm.com/2328572/blade-runner-2099-mercerism-subplot-explained-showrunner/",
+      "image": "https://www.slashfilm.com/img/gallery/what-makes-blade-runner-2099s-mercerism-subplot-so-relevant-exclusive/l-intro-1795634603.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "b1031a95ffabf94b",
+      "title": "‘Hexed’ movie review: A sweet mother-daughter adventure to warm the heart",
+      "quote": "A mother-daughter track elevates this somewhat predictable tale of spells and witchcraft",
       "publisher": "The Hindu",
       "author": null,
-      "date": "2026-11-27T05:37:16+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/the-mosquito-bowl-movie-review-peter-bergs-drama-is-dull-in-its-explorations-of-wwii/article71746099.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/mluiiz/article71749541.ece/alternates/LANDSCAPE_1200/AAAAQWmkooW9U7ujx_wL6vWlmczyZyfo-nkSNHyRqO-FPXhvkG0cm6mkCm-1a-ZWywqzFkxumHG0kGAyTYKaoeh_O2l0z6PmL68MVALhl6eOZ8B_l8QxaS-GUmG7JCAekly0VbAONZJOtiZKWlV2-MfDmwOF.jpg",
+      "date": "2026-11-27T13:41:34+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/hexed-movie-review-hailee-steinfeld-rashida-jones-jodie-foster-walton-goggins/article71750941.ece",
+      "image": "https://th-i.thgim.com/public/incoming/m4rvm3/article71751057.ece/alternates/LANDSCAPE_1200/Film_Review_-_Hexed_18178.jpg",
       "category": "Indian Cinema"
     },
     {
-      "id": "a91534e2fa460c85",
-      "title": "‘MobLand’ Season 2 review: Tom Hardy, Pierce Brosnan and Helen Mirren return to play in strong second season",
-      "quote": "The sophomore season of executive producer Guy Ritchie’s crime saga has hit its stride, with compelling characters and magnificent performances from the ensemble cast",
+      "id": "eb2c0af111232b18",
+      "title": "Everything New On Prime Video In December 2026: Full List Of Movies & TV Shows",
+      "quote": "Prime Video is adding a wide variety of movies and shows in December 2026, including an original Christmas action comedy flick starring Arnold Schwarzenegger.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Joe Roberts)",
+      "date": "2026-11-27T13:14:58+00:00",
+      "link": "https://www.slashfilm.com/2329412/new-prime-video-movies-tv-shows-december-2026/",
+      "image": "https://www.slashfilm.com/img/gallery/everything-new-on-prime-video-in-december-2026-full-list-of-movies-tv-shows/l-intro-1795784978.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "7f2b8af82b7d5023",
+      "title": "Avengers: Doomsday has brought with it more ‘Marvel homework’ than ever. That’s just as it should be",
+      "quote": "Working out where returning hero Steve Rogers has been is only one of the multiversal puzzles fans must now get their heads around – which is catnip for the connoisseurs The cinema release of Avengers: Doomsday is now…",
+      "publisher": "The Guardian",
+      "author": "Ben Child",
+      "date": "2026-11-27T12:25:54+00:00",
+      "link": "https://www.theguardian.com/film/2026/nov/27/avengers-doomsday-marvel-homework",
+      "image": "https://i.guim.co.uk/img/media/4c64dc52129fc5664fe30604eb6fa7a0f4402d8a/174_0_2000_1600/master/2000.jpg?width=140&quality=85&auto=format&fit=max&s=c1ee1e078d39f430111d1c22408a98aa",
+      "category": "World Cinema"
+    },
+    {
+      "id": "4b8c7187ff7a5b91",
+      "title": "‘Lakshmi Puthra’ movie review: Chikkanna, Tara anchor a predictable village drama",
+      "quote": "Apart from the performances of Chikkanna and Tara, ‘Lakshmi Puthra’ has nothing to write home about, as the village drama is derailed by a predictable story and regressive ideas",
       "publisher": "The Hindu",
       "author": null,
-      "date": "2026-11-27T05:28:16+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/mobland-season-2-review-tom-hardy-pierce-brosnan-and-helen-mirren-return-to-play-in-strong-second-season/article71742012.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/isshp4/article71749511.ece/alternates/LANDSCAPE_1200/MobLand_210_lv_260318_00317_RT3-1640x920.jpg",
+      "date": "2026-11-27T12:24:22+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/lakshmi-puthra-movie-review-lakshmiputhra-chikkanna-tara-ap-arjun-janya-vandita-gowda/article71750490.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/va8rw3/article71750626.ece/alternates/LANDSCAPE_1200/Lakshmi%20Puthra.jpeg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "d3a520ec04dc5041",
+      "title": "IFFI 2026 | ‘Look Back’ movie review: Hirokazu Kore-eda draws a moving elegy from Tatsuki Fujimoto’s art of rewriting the past",
+      "quote": "From manga panels to moving pictures, the Japanese auteur finds the heartbreak between the lines in Tatsuki Fujimoto’s tender story of creative kinship and artistic revisionism",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-11-27T12:14:31+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/iffi-2026-look-back-movie-review-hirokazu-kore-eda-tatsuki-fujimoto-manga-anime/article71750567.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/2g2hy4/article71750553.ece/alternates/LANDSCAPE_1200/look-back-Hirokazu-Koreeda-.jpg",
+      "category": "Festival Winners"
+    },
+    {
+      "id": "1db920f84b6904c1",
+      "title": "‘Gunmaaster G9’ movie review: Emraan Hashmi’s pulpier action-hero turn hits more than it loses",
+      "quote": "The Aditya Datt directorial straddles along while taking a leap of faith in its gory, hyperbolic action, punchy dialogues and Himesh Reshammiya’s resounding, auto-tuned nasal voice",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-11-27T11:13:34+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/gunmaaster-g9-movie-review-emraan-hashmi-himesh-reshammiya-genelia-deshmukh-aparshakti-khurana/article71750180.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/e1iwta/article71750259.ece/alternates/LANDSCAPE_1200/Emraan%20Hashmi%20in%20%E2%80%98Gunmaaster%20G9%E2%80%99",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "bc8a827d2f5df897",
+      "title": "10 of 2026's most popular Gen Z and Gen A words",
+      "quote": "From mogging to whimsy and aura farming to sludge",
+      "publisher": "BBC Culture",
+      "author": null,
+      "date": "2026-11-27T11:00:00+00:00",
+      "link": "https://www.bbc.com/culture/article/20261126-10-of-2026s-most-popular-gen-z-and-gen-a-words?ocid=global_culture_rss",
+      "image": "https://ychef.files.bbci.co.uk/144x81/p0pq3gj6.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "bbde5452574a0a3a",
+      "title": "‘Cosmic Samson’ review: Sandeep Pradeep-starrer is a middling fantasy thriller with a few high moments",
+      "quote": "Directed by Abhijith Joseph, ‘Cosmic Samson’, starring Sandeep Pradeep, Mukesh, and Miya George, has interesting ideas, but it is ultimately let down by the limitations of its script",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-11-27T10:50:16+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/cosmic-samson-review-this-sandeep-pradeep-starrer-is-a-middling-fantasy-thriller-with-a-few-high-moments/article71749972.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/gnnpbb/article71750391.ece/alternates/LANDSCAPE_1200/.Cosmic%20Samson.jpeg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "18708e2166302dcf",
+      "title": "Cozy escapism or festive trash? How Netflix holiday movies took over Christmas",
+      "quote": "The so-bad-it’s-good holiday film has become a new festive tradition. Stars Maddie Ziegler and Dennis Quaid explain why they’re so hard to resist “With the state of the world right now, people want an escape,” says…",
+      "publisher": "The Guardian",
+      "author": "Louis Staples",
+      "date": "2026-11-27T10:00:00+00:00",
+      "link": "https://www.theguardian.com/film/2026/nov/27/netflix-christmas-holiday-movies",
+      "image": "https://i.guim.co.uk/img/media/e950713adce8a6d4dab1da011ae77f4d4b1547fe/600_0_6000_4802/master/6000.jpg?width=140&quality=85&auto=format&fit=max&s=98f7a450d49472484877e8dd5d044347",
+      "category": "World Cinema"
+    },
+    {
+      "id": "8a4ac2d590e234fa",
+      "title": "Malayalam director Martin Prakkat, two others booked over displaying man’s phone number in film",
+      "quote": "According to FIR, the accused, without the complainant’s knowledge or consent, displayed the latter’s mobile phone number as the phone number of a female character in the film. This resulted in the complainant receiving…",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-11-27T09:32:24+00:00",
+      "link": "https://www.thehindu.com/news/national/kerala/malayalam-director-martin-prakkat-two-others-booked-over-displaying-mans-phone-number-in-film/article71749373.ece",
+      "image": "https://th-i.thgim.com/public/incoming/b54jfa/article71749390.ece/alternates/LANDSCAPE_1200/martin2.jpg",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "bc2c4c72f712b866",
+      "title": "30 Years Later, Jingle All The Way's Funniest Line Is Still The Best Christmas Movie Quote",
+      "quote": "Jingle All the Way may not be the best Christmas movie out there, but it has one of the best quotes, courtesy of Arnold Schwarzenegger.",
+      "publisher": "/Film",
+      "author": "staff@slashfilm.com (Ethan Anderton)",
+      "date": "2026-11-27T09:10:00+00:00",
+      "link": "https://www.slashfilm.com/2323558/jingle-all-the-way-funniest-line-best-christmas-movie-quote/",
+      "image": "https://www.slashfilm.com/img/gallery/30-years-later-jingle-all-the-ways-funniest-line-is-still-the-best-christmas-movie-quote/l-intro-1795205240.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "cb3074521f620eeb",
+      "title": "Get me a 747 and deploy the oxygen masks! The British pilot behind Hollywood’s greatest inflight scenes",
+      "quote": "An emergency landing for Bridesmaids, a humiliation for Ben Stiller in Focker-in-Law, a giant toilet for Britney Spears in the Toxic video … Richard Chan, No 1 provider of airplane cabin sets, recalls his finest work…",
+      "publisher": "The Guardian",
+      "author": "James Bartlett",
+      "date": "2026-11-27T09:00:00+00:00",
+      "link": "https://www.theguardian.com/film/2026/nov/27/british-pilot-plane-film-hollywood-focker-in-law-britney-spears-aero-mock-ups",
+      "image": "https://i.guim.co.uk/img/media/763c6a47ff8e3f9576b05f882e22513d10faf877/722_198_4052_3245/master/4052.jpg?width=140&quality=85&auto=format&fit=max&s=2553d5b926e635fc22f787c08b1b190b",
+      "category": "World Cinema"
+    },
+    {
+      "id": "4264d69239597d3f",
+      "title": "‘Bhogi’ movie review: Sharwanand’s revenge drama is all blood and no fresh ideas",
+      "quote": "Despite strong performances from Sharwanand and Anupama Parameswaran, Sampath Nandi’s film relies on an outdated revenge plot and graphic violence instead of fresh storytelling",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-11-27T08:45:09+00:00",
+      "link": "https://www.thehindu.com/entertainment/movies/bhogi-movie-review-sharwanands-revenge-drama-is-all-blood-and-no-fresh-ideas/article71749830.ece",
+      "image": "https://th-i.thgim.com/public/incoming/pmhrvf/article71749858.ece/alternates/LANDSCAPE_1200/bhogi%201%20new.jpeg",
       "category": "Indian Cinema"
     },
     {
@@ -53,17 +317,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "8a4ac2d590e234fa",
-      "title": "Malayalam director Martin Prakkat, two others booked over displaying man’s phone number in film",
-      "quote": "According to FIR, complainant’s mobile number was displayed in the film ‘Officer on Duty’ as phone number of a female character without his knowledge or consent. Following this, he allegedly received repeated harassing…",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-11-27T04:21:22+00:00",
-      "link": "https://www.thehindu.com/news/national/kerala/malayalam-director-martin-prakkat-two-others-booked-over-displaying-mans-phone-number-in-film/article71749373.ece",
-      "image": "https://th-i.thgim.com/public/incoming/b54jfa/article71749390.ece/alternates/LANDSCAPE_1200/martin2.jpg",
-      "category": "Indian Cinema"
-    },
-    {
       "id": "bf3a5ba42e619a84",
       "title": "Steve Martin And John Candy's Classic Thanksgiving Movie Is A Paramount+ Streaming Hit",
       "quote": "The No. 1 streaming movie on Paramount+ this Thanksgiving is a classic from the '80s with some genuinely heartwarming moments mixed in with the comedy.",
@@ -73,39 +326,6 @@
       "link": "https://www.slashfilm.com/2329323/steve-martin-john-candy-thanksgiving-movie-streaming-paramount-plus-planes-trains-and-automobiles/",
       "image": "https://www.slashfilm.com/img/gallery/steve-martin-and-john-candys-classic-thanksgiving-movie-is-a-paramount-streaming-hit/l-intro-1795751481.jpg",
       "category": "Indie Gems"
-    },
-    {
-      "id": "65d6d2f3bc4ca981",
-      "title": "Julianne Hough’s Stylist Addresses Fan Backlash To Her ‘Dancing With the Stars’ Wardrobe This Season",
-      "quote": "Fans had a lot to say about this season of Dancing with the Stars — and not just about who should or shouldn’t have gone home before the Nov. 24 finale. Julianne Hough broke out of her comfort zone this fall by donning…",
-      "publisher": "Deadline",
-      "author": "Lynette Rice",
-      "date": "2026-11-27T02:34:52+00:00",
-      "link": "https://deadline.com/2026/11/julianne-hough-stylist-fan-backlash-dwts-wardrobe-1237234193/",
-      "image": "https://deadline.com/wp-content/uploads/2024/03/JulianneHough-Headshot-1-1.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "7d2bd44e14b83db0",
-      "title": "Melissa Gilbert Gives Thanks To Those Who “Spoke Up, Testified” In Support Of Husband Timothy Busfield",
-      "quote": "It was an extra special Thanksgiving holiday for Melissa Gilbert. The Little House on the Prairie actress gave a shoutout Thursday to all those “who checked in … spoke up, testified and wrote letters” after her husband…",
-      "publisher": "Deadline",
-      "author": "Lynette Rice",
-      "date": "2026-11-27T01:32:36+00:00",
-      "link": "https://deadline.com/2026/11/melissa-gilbert-gives-thanks-husband-timothy-busfield-1237234187/",
-      "image": "https://deadline.com/wp-content/uploads/2026/01/timothy-busfield-melissa-gilbert.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "b96f4754c0b8ee90",
-      "title": "Gerald R. Molen Dies: Oscar-Winning ‘Schindler’s List’ Producer Was 91",
-      "quote": "Gerald R. Molen, an Academy Award-winning producer behind Steven Spielberg’s Amblin Entertainment, has died. He was 91. On Sunday, Molen’s niece Rachel Pullan announced that he died earlier that day. “This morning my…",
-      "publisher": "Deadline",
-      "author": "Glenn Garner",
-      "date": "2026-11-27T00:33:50+00:00",
-      "link": "https://deadline.com/2026/11/gerald-r-molen-dies-schindlers-list-producer-1237234182/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/Gerald-Molen.jpg",
-      "category": "Festival Winners"
     },
     {
       "id": "abc358f80dd17bc6",
@@ -119,83 +339,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "38650d97608205bd",
-      "title": "‘Percy Jackson’s Courtney B. Vance On “Doing Right By” Late Lance Reddick After Taking Over Zeus Role",
-      "quote": "As the gods and demigods of Percy Jackson and the Olympians return for Season 3, Courtney B. Vance had a mighty toga to fill. The Golden Globe nominee, who returns after taking over the role of Zeus from the late Lance…",
-      "publisher": "Deadline",
-      "author": "Glenn Garner",
-      "date": "2026-11-26T23:33:41+00:00",
-      "link": "https://deadline.com/2026/11/percy-jackson-courtney-b-vance-doing-late-lance-reddick-1237234178/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/Lance-Reddick-Courtney-B-Vance-Percy-Jackson-2-shot.jpg",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "e6f6d654a8bb8e56",
-      "title": "Avengers: Doomsday TV Spot Confirms RDJ's Doctor Doom Has A Scarred Face",
-      "quote": "A new TV spot for Avengers: Doomsday shows Magneto trying and failing to remove Doctor Doom's mask, giving us a glimpse of his scarred face.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Devin Meenan)",
-      "date": "2026-11-26T22:35:44+00:00",
-      "link": "https://www.slashfilm.com/2329265/avengers-doomsday-tv-spot-rdj-doctor-doom-scarred-face/",
-      "image": "https://www.slashfilm.com/img/gallery/avengers-doomsday-tv-spot-confirms-rdjs-doctor-doom-has-a-scarred-face/l-intro-1795732432.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "978b2f2ff5e45836",
-      "title": "‘Hunger Games’ Producer Regrets Splitting ‘Mockingjay’ As Fans Felt It Was A “Play To Make Them See Two Films Instead Of One”",
-      "quote": "With the release of the prequel The Hunger Games: Sunrise on the Reaping, franchise producer Nina Jacobson regrets splitting the Mockingjay films into two parts. At the time, The Twilight Saga and Harry Potter split…",
-      "publisher": "Deadline",
-      "author": "Armando Tinoco",
-      "date": "2026-11-26T22:00:14+00:00",
-      "link": "https://deadline.com/2026/11/hunger-games-producer-regrets-splitting-mockingjay-1237233567/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/hunger-games-mockingjay-jennifer-lawrence.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "62640764ea51e2c2",
-      "title": "Erika Hammond Teases “Drama” & “Resolution” At ‘RHONY’ Season 16 Reunion, Says Devyn Simone Is “Not A Friend I Want”",
-      "quote": "Erika Hammond is teasing The Real Housewives of New York City Season 16 reunion, revealing there will be “drama” and “resolution.” In a new interview, Hammond hinted that although some problems among the group will be…",
-      "publisher": "Deadline",
-      "author": "Armando Tinoco",
-      "date": "2026-11-26T21:30:16+00:00",
-      "link": "https://deadline.com/2026/11/erika-hammond-drama-rhony-season-16-reunion-devyn-simone-1237234147/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/erika-hammond-devyn-simone-rhony-reunion.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "1a80eb7c8589b1d2",
-      "title": "South Park's Season 29 Finale Features The Scariest TV Scene Of 2026",
-      "quote": "South Park leans into horror in its Season 29 finale, with an undead Kenny delivering the scariest TV scene of the year.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Rafael Motamayor)",
-      "date": "2026-11-26T21:27:11+00:00",
-      "link": "https://www.slashfilm.com/2329257/south-park-season-29-finale-2026-scariest-tv-scene/",
-      "image": "https://www.slashfilm.com/img/gallery/south-parks-season-29-finale-features-the-scariest-tv-scene-of-2026/l-intro-1795728305.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "e7a2ce84a501ebf2",
-      "title": "Jesse Eisenberg Says “There’s No Sexuality To My Work” & Why Life Is “Different” When Fans “Want To Sleep With A Person Onscreen”",
-      "quote": "Jesse Eisenberg is reflecting on his work in Hollywood and why he has a very different experience with fans in public than some other actors. In a new interview with The New Yorker, the actor, director, writer, and…",
-      "publisher": "Deadline",
-      "author": "Armando Tinoco",
-      "date": "2026-11-26T20:59:10+00:00",
-      "link": "https://deadline.com/2026/11/jesse-eisenberg-sexuality-work-fans-sleep-1237234140/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/GettyImages-2297135306.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "cb78e29d37c41907",
-      "title": "Trump’s “Noisy Name-Calling” Mocked By NYT After Bored POTUS Starts Thanksgiving Ranting Against Reporter’s Nvidia Dispatch",
-      "quote": "Like death and taxes, you can always rely on there being an annoying relative at the table on Thanksgiving, and you can always depend on Donald Trump losing his marbles on Turkey Day. This year was no different. Down in…",
-      "publisher": "Deadline",
-      "author": "Dominic Patten",
-      "date": "2026-11-26T20:44:34+00:00",
-      "link": "https://deadline.com/2026/11/trumps-thanksgiving-new-york-times-attack-1237234141/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/trump-turkey-nov-24-2026-getty.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "44c5903275418328",
       "title": "Ethan Hawke, the most beaten-up man on TV, deserved a win",
       "quote": "\"‘Oh God, I gotta explain to FX that their lead actor is gonna have a missing tooth\": The Lowdown creator Sterlin Harjo on making Ethan Hawke the most beat up man on TV.",
@@ -204,17 +347,6 @@
       "date": "2026-11-26T18:00:58+00:00",
       "link": "https://www.avclub.com/lowdown-ethan-hawke-season-2-finale-sterlin-harjo-interview",
       "image": "https://www.avclub.com/wp-content/uploads/2026/11/25/MixCollage-25-Nov-2026-04-18-PM-1170.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "704ecf10e8720ee1",
-      "title": "Why Mags Flanagan From The Hunger Games: Sunrise On The Reaping Looks So Familiar",
-      "quote": "If you saw Sunrise on the Reaping and are wondering where you've seen the actress who plays Mags outside of the Hunger Games, we've got you covered.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Ryan Scott)",
-      "date": "2026-11-26T17:00:00+00:00",
-      "link": "https://www.slashfilm.com/2328251/mags-flanagan-the-hunger-games-sunrise-on-the-reaping-actor-lili-taylor/",
-      "image": "https://www.slashfilm.com/img/gallery/why-mags-flanagan-from-the-hunger-games-sunrise-on-the-reaping-looks-so-familiar/l-intro-1795631592.jpg",
       "category": "Indie Gems"
     },
     {
@@ -229,17 +361,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "3dc0c034f84f32ba",
-      "title": "‘You Can See Everything’ movie review: Nathan Fielder’s meta-manipulative masterpiece is a folie à deux for the ages",
-      "quote": "I am reluctant to lavish superlatives on a film I am still trying to wrap my head around, but Nathan Fielder and Lance Oppenheim’s genre-bending Elizabeth Holmes doc feels genuinely singular, and quite possibly like a…",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-11-26T16:48:07+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/you-can-see-everything-documentary-review-nathan-fielder-elizabeth-holmes-lance-oppenheim-amanda-seyfried/article71747469.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/flefr5/article71747543.ece/alternates/LANDSCAPE_1200/Screenshot-2026-09-07-at-8.47.13---PM.png",
-      "category": "Indian Cinema"
-    },
-    {
       "id": "b4cec6c4591b941e",
       "title": "Jesse Eisenberg says his films contain ‘no sexuality’. But maybe his fans are just less desperate?",
       "quote": "The actor-director has said people don’t interrupt his daytime writing in a public library because he’s not perceived as fanciable. Might that have more to do with the library than with him? The imminent arrival of…",
@@ -251,28 +372,6 @@
       "category": "Festival Winners"
     },
     {
-      "id": "07e5194f075640d1",
-      "title": "‘Brindavihari’: Dear Kannada makers, don’t torture the audience",
-      "quote": "‘Brindavihari’, starring Ganesh and directed by Srinivas Raju, is a lacklustre experience with a messy story, flat CGI, and underwhelming performances",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-11-26T16:34:26+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/brindavihari-kannada-movie-review-box-office-golden-star-ganesh-srinivas-raju-krishnam-pranaya-sakhi/article71747646.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/hfxb6k/article71747739.ece/alternates/LANDSCAPE_1200/Brindavihari.jpeg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "6d9b509473ff56cc",
-      "title": "⁠Gérard Depardieu to face trial on charges ‌of raping ​actor Charlotte ⁠Arnould",
-      "quote": "Arnould first accused Depardieu ⁠in 2018, saying assaults occurred at his Paris home on two separate occasions when ⁠she was in her early 20s Gérard Depardieu has been ordered to stand trial on a charge of raping a…",
-      "publisher": "The Guardian",
-      "author": "Jon Henley in Paris",
-      "date": "2026-11-26T16:26:57+00:00",
-      "link": "https://www.theguardian.com/film/2026/nov/26/gerard-depardieu-face-trial-charges-rape-charlotte-arnould",
-      "image": "https://i.guim.co.uk/img/media/77c1290946fbdd15e68d25b6743cbc9fc073d064/518_182_2849_2280/master/2849.jpg?width=140&quality=85&auto=format&fit=max&s=c741817dbb83834a43fd33c10ca19cfc",
-      "category": "World Cinema"
-    },
-    {
       "id": "6fcbc322a3d936a7",
       "title": "Home for the homicide",
       "quote": "In our latest installment of Home For The Holidays, family is murder.",
@@ -281,28 +380,6 @@
       "date": "2026-11-26T16:00:08+00:00",
       "link": "https://www.avclub.com/murder-family-agatha-christie-poirot",
       "image": "https://www.avclub.com/wp-content/uploads/2026/11/25/suchet-poirot-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "5291c110b8d42e83",
-      "title": "5 Best Book Series To Read If You Like The Hunger Games",
-      "quote": "These books will scratch the same itch as The Hunger Games, be they more modern dystopian sci-fi sagas or classics like The Handmaid's Tale.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (SlashFilm Staff)",
-      "date": "2026-11-26T16:00:00+00:00",
-      "link": "https://www.slashfilm.com/2328429/best-book-series-like-the-hunger-games/",
-      "image": "https://www.slashfilm.com/img/gallery/5-best-book-series-to-read-if-you-like-the-hunger-games/l-intro-1795630954.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "f4c7e1c35c5c7d6a",
-      "title": "The Best Scene In Focker In-Law, According To Director John Hamburg [Exclusive]",
-      "quote": "In our exclusive interview, director John Hamburg tells us about the best scene in his new comedy Focker In-Law, and why it means so much to him.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Bill Bria)",
-      "date": "2026-11-26T15:00:00+00:00",
-      "link": "https://www.slashfilm.com/2328114/focker-in-law-best-scene-director-john-hamburg/",
-      "image": "https://www.slashfilm.com/img/gallery/the-best-scene-in-focker-in-law-according-to-director-john-hamburg-exclusive/l-intro-1795701969.jpg",
       "category": "Indie Gems"
     },
     {
@@ -326,50 +403,6 @@
       "link": "https://www.avclub.com/14th-review-netflix-ava-duvernay-documentary-amendment-ai",
       "image": "https://www.avclub.com/wp-content/uploads/2026/11/24/14th-review-header.jpg",
       "category": "Indie Gems"
-    },
-    {
-      "id": "99f671b65776f1f7",
-      "title": "Blade Runner 2099's Showrunner Had One Perfect Mandate To Keep Pushing Boundaries [Exclusive]",
-      "quote": "Silka Louisa, the showrunner of Blade Runner 2099 series, tells us about the decision on set that served as a guiding light for making the sci-fi show.",
-      "publisher": "/Film",
-      "author": "staff@slashfilm.com (Jeremy Mathai)",
-      "date": "2026-11-26T14:00:00+00:00",
-      "link": "https://www.slashfilm.com/2325755/blade-runner-299-showrunner-mandate-push-boundaries/",
-      "image": "https://www.slashfilm.com/img/gallery/blade-runner-2099s-showrunner-had-one-perfect-mandate-to-keep-pushing-boundaries-exclusive/l-intro-1795701646.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "130b120ec01b2dd7",
-      "title": "Amit Shah meets ‘Ramayana’ team, congratulates them on film’s global success",
-      "quote": "The Home Minister met producer Namit Malhotra, director Nitesh Tiwari, actors Ranbir Kapoor and Sai Pallavi, and co-producer Niraj Sanghai",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-11-26T13:14:09+00:00",
-      "link": "https://www.thehindu.com/news/national/amit-shah-meets-ramayana-team-congratulates-them-on-films-global-success/article71745696.ece",
-      "image": "https://th-i.thgim.com/public/news/national/trvd8/article71745702.ece/alternates/LANDSCAPE_1200/amit%20shah%20ramayana%20film%20team.jpg",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "3db9703fc8192ace",
-      "title": "‘Hail Mary’ movie review: Kunchacko Boban anchors a gripping yet flawed investigation thriller",
-      "quote": "Directed by debutant Vishnu Revikumar, ‘Hail Mary,’ starring Kunchacko Boban, Suraj Venjaramoodu and Suhasini Maniratnam, impresses with its powerful premise and performances, but falters in execution",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-11-26T13:05:13+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/hail-mary-movie-review-kunchacko-boban-suraj-venjaramoodu-anu-sithara-suhasini-maniratnam/article71745898.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/gqi9bk/article71746575.ece/alternates/LANDSCAPE_1200/Hail%20Mary%20review.png",
-      "category": "Indian Cinema"
-    },
-    {
-      "id": "1c42871539ed8d07",
-      "title": "You’re cracking me up: cinema’s greatest egg scenes – ranked!",
-      "quote": "As You Can See Everything’s contention whisking scene beats movie-goers into a frenzy, here’s a taster of the most eggstraordinary moments on film It’s breakfast time at the California home of Elizabeth Holmes, the…",
-      "publisher": "The Guardian",
-      "author": "Morwenna Ferrier",
-      "date": "2026-11-26T13:00:35+00:00",
-      "link": "https://www.theguardian.com/film/2026/nov/26/cinemas-greatest-egg-scenes-ranked",
-      "image": "https://i.guim.co.uk/img/media/dcb64aed32804f0073cff8bc288dead61aa7b495/1155_0_2957_2367/master/2957.jpg?width=140&quality=85&auto=format&fit=max&s=436192a1723dfe6899da162246eba446",
-      "category": "World Cinema"
     },
     {
       "id": "057c509f34f240ec",
@@ -413,17 +446,6 @@
       "date": "2026-11-26T10:50:00+00:00",
       "link": "https://www.bbc.com/culture/article/20261103-the-norwegian-star-on-her-life-changing-role-in-2021s-the-worst-person-in-the-world?ocid=global_culture_rss",
       "image": "https://ychef.files.bbci.co.uk/144x81/p0pl3vd8.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "41d29247c539d3eb",
-      "title": "‘I was very aggressive. They threw me out of every school’ … Julie Delpy on acting, anger and predatory directors",
-      "quote": "Thirty years after the roles that made her famous, the star of Three Colours: White and the Before trilogy is busier than ever – as a screenwriter and director. But, she says, a lot of people have tried to keep her down…",
-      "publisher": "The Guardian",
-      "author": "Emine Saner",
-      "date": "2026-11-26T10:00:52+00:00",
-      "link": "https://www.theguardian.com/film/2026/nov/26/julie-delpy-acting-anger-predatory-directors",
-      "image": "https://i.guim.co.uk/img/media/207f4bfc289684e56747486d5449e43fc55dda6f/259_0_7713_6173/master/7713.jpg?width=140&quality=85&auto=format&fit=max&s=af17b2e1afa862110eb1a9d63de115c0",
       "category": "World Cinema"
     },
     {
@@ -614,17 +636,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "9adb86624f5cfe6c",
-      "title": "Hexed",
-      "quote": "It often seems on the verge of becoming something intriguing but never quite makes that final leap.",
-      "publisher": "RogerEbert.com",
-      "author": "Peter Sobczynski",
-      "date": "2026-11-24T17:00:00+00:00",
-      "link": "https://www.rogerebert.com/reviews/hexed-disney-animated-film-review-2026",
-      "image": null,
-      "category": "World Cinema"
-    },
-    {
       "id": "aa01a8a38edc5593",
       "title": "12 of the best films to watch this December",
       "quote": "From Avengers: Doomsday and Dune: Part Three to Julianne Moore in The Debut",
@@ -757,17 +768,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "e755505f37650cab",
-      "title": "The shocking new film confronting sexual violence",
-      "quote": "Josephine centres on an eight-year-old who witnesses a sexual assault",
-      "publisher": "BBC Culture",
-      "author": null,
-      "date": "2026-11-19T11:00:00+00:00",
-      "link": "https://www.bbc.com/culture/article/20261118-shocking-new-film-josephine-confronts-sexual-violence-through-a-childs-eyes?ocid=global_culture_rss",
-      "image": "https://ychef.files.bbci.co.uk/144x81/p0pnnjlk.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "f95b04c1be4bb050",
       "title": "‘Hershey’ Review: Finn Wittrock Plays the American Chocolate Titan in a Sickly Sweet Biopic",
       "quote": "Alexandra Daddario, Alan Ruck and Richard Kind co-star in this film about Milton Hershey's rise to prominence, directed by Mark Waters ('Freaky Friday,' 'Mean Girls').",
@@ -790,8 +790,8 @@
       "category": "World Cinema"
     },
     {
-      "id": "3bd80a58a1db7d8f",
-      "title": "Minotaur review – Andrei Zvyagintsev’s scorching noir intrigue amid the Ukraine war",
+      "id": "78d0b52f18b77379",
+      "title": "Minotaur review – Andrey Zvyagintsev’s scorching noir intrigue amid the Ukraine war",
       "quote": "The great Russian director’s first film for almost a decade is tremendous drama following the ill-deeds of a mini-oligarch who comes up with a toxic new way to feed Russia’s war machine Life during wartime is the theme…",
       "publisher": "The Guardian",
       "author": "Peter Bradshaw",
