@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T20:59:03.529350+00:00",
+  "generated_at": "2026-11-28T07:23:03.924147+00:00",
   "source_feed_count": 11,
   "categories": [
     "Indian Cinema",
@@ -9,26 +9,136 @@
   ],
   "reviews": [
     {
-      "id": "3a3fe7bcc77be66e",
-      "title": "The Child",
-      "quote": "We don’t learn much about Nuco before he dies and that lack of context sets the table for the unequally split ensemble character study that follows.",
-      "publisher": "RogerEbert.com",
-      "author": "Simon Abrams",
-      "date": "2026-11-27T20:24:39+00:00",
-      "link": "https://www.rogerebert.com/reviews/the-child-netflix-film-review-2026",
-      "image": null,
+      "id": "0b009e8cfb198021",
+      "title": "Diljit Dosanjh at Mumbai concert: Even if you throw bombs, I have only love to give",
+      "quote": "Diljit Dosanjh sent a strong message, invoking poetry and love in Mumbai as he performed amidst tight security, and fans who came out in large numbers to groove to his rousing chartbusters",
+      "publisher": "The Hindu",
+      "author": null,
+      "date": "2026-11-28T06:34:30+00:00",
+      "link": "https://www.thehindu.com/entertainment/music/diljit-dosanjh-at-mumbai-concert-even-if-you-throw-bombs-i-have-only-love-to-give-aura-world-tour-2026/article71753626.ece",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/h8f1ca/article71753658.ece/alternates/LANDSCAPE_1200/Diljit%20Dosanjh%20singing%20during%20the%20Mumbai%20concert%20as%20part%20of%20his%20Aura%20World%20Tour",
+      "category": "Indian Cinema"
+    },
+    {
+      "id": "d156bd8d5f8fde3d",
+      "title": "Hot or not? The Guardian’s film critics run the rule over the week’s UK cinema releases",
+      "quote": "Brad Pitt’s grinning stuntman returns, Ariana Grande gets the lie-detector treatment, a Disney disappointment and a killer unicorn … here are all the latest film releases at a glance *** Continue reading...",
+      "publisher": "The Guardian",
+      "author": "Peter Bradshaw, Cath Clarke, Leslie Felperin, Phuong Le, Phil Hoad, Benjamin Lee, and Luke Buckmaster",
+      "date": "2026-11-28T06:00:33+00:00",
+      "link": "https://www.theguardian.com/film/ng-interactive/2026/nov/28/hot-or-not-the-guardians-film-critics-run-the-rule-over-the-weeks-uk-cinema-releases",
+      "image": "https://i.guim.co.uk/img/media/1f3b079b41463ba2b3d9963544c436f0678459c0/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=177645f2afbdfe8b0aa8f879f584315c",
       "category": "World Cinema"
     },
     {
-      "id": "bc0cbbb53bd37d7d",
-      "title": "‘The Hunting Wives’ Pays Tribute To Lionsgate Exec Salli Newman",
-      "quote": "Viewers of the second season of The Hunting Wives, currently streaming on Netflix, will find a poignant message at the end of the season finale: “In Loving Memory of Salli Newman.” Newman was the senior vice president…",
-      "publisher": "Deadline",
-      "author": "Greg Evans",
-      "date": "2026-11-27T19:58:06+00:00",
-      "link": "https://deadline.com/2026/11/salli-newman-hunting-wives-tribute-1237234359/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/salli-newman-burbank-ca-obituary.jpg",
+      "id": "fa09ee597a823a12",
+      "title": "Watching Wild Horse Nine in Santiago brings Pinochet’s tyranny back to dreadful life",
+      "quote": "Having lived through the real life horror it was chilling to see Martin McDonagh’s film so close to its historical site. Would its audience hear the urgent message? It was chilling for me, as a survivor of the 1973 coup…",
+      "publisher": "The Guardian",
+      "author": "Ariel Dorfman",
+      "date": "2026-11-28T06:00:32+00:00",
+      "link": "https://www.theguardian.com/film/2026/nov/28/watching-wild-horse-nine-in-santiago-brings-pinochets-tyranny-back-to-dreadful-life",
+      "image": "https://i.guim.co.uk/img/media/fc2d9cd7fcd92005ca30aa4399ab52190acebbda/250_0_2500_2001/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=85318168f8bc8e9745afb98a446686c6",
       "category": "World Cinema"
+    },
+    {
+      "id": "d3b036482ee56ced",
+      "title": "BET Announces New Chaka Khan Humanitarian Prize At Friday’s Soul Train Awards",
+      "quote": "BET on Friday announced the creation of the Chaka Khan Humanitarian Award to recognize “musicians and cultural figures who have made outstanding contributions to humanitarianism, community service and social justice.”…",
+      "publisher": "Deadline",
+      "author": "Lynette Rice",
+      "date": "2026-11-28T03:43:24+00:00",
+      "link": "https://deadline.com/2026/11/bet-announces-new-chaka-khan-humanitarian-award-1237234511/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/3261345_BETSTA_2026_0112b.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "cdb551713f5a181a",
+      "title": "Bob Greenblatt Opines Why Viewers Aren’t Sampling New Shows Today: “It’s Easier To Just Escape To Seinfeld or Downton Abbey”",
+      "quote": "Veteran TV producer Bob Greenblatt understands why streaming old shows like Cheers or Mad Men is a far more appealing alternative to viewers these days than trying to vibe with a new series. In an interview with the New…",
+      "publisher": "Deadline",
+      "author": "Lynette Rice",
+      "date": "2026-11-28T03:18:47+00:00",
+      "link": "https://deadline.com/2026/11/bob-greenblatt-talks-challenge-launching-new-shows-today-1237234508/",
+      "image": "https://deadline.com/wp-content/uploads/2021/02/TSDSEIN_EC077.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "a42ed4c1574a7300",
+      "title": "Jermaine Haley Dies; WWE Star Known To Fans As Bronson Reed was 38",
+      "quote": "The World Wrestling Federation announced the passing of Jermaine Haley, aka Bronson Reed. The 38-year-old died Nov. 26 of medical complications. “Jermaine was a larger-than-life figure in WWE,” the organization posted…",
+      "publisher": "Deadline",
+      "author": "Lynette Rice",
+      "date": "2026-11-28T02:03:40+00:00",
+      "link": "https://deadline.com/2026/11/jermaine-haley-dies-wwe-bronson-reed-was-38-1237234503/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/Screenshot-2026-11-27-at-5.56.13-PM.png",
+      "category": "World Cinema"
+    },
+    {
+      "id": "be2c4037081db08a",
+      "title": "NBC Pulls Ad That Criticizes U.S.’ Israel Policy & Aired During ‘SNL’ Thanksgiving Special",
+      "quote": "NBC has pulled from its air a controversial ad that is critical of the United States’ policy of sending financial aid to Israel. The ad ran Wednesday night during the network’s Saturday Night Live Thanksgiving special…",
+      "publisher": "Deadline",
+      "author": "Erik Pedersen",
+      "date": "2026-11-28T01:02:47+00:00",
+      "link": "https://deadline.com/2026/11/nbc-pulls-ad-israel-gaza-1237234472/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/NBC-Anti-Israel-ad.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "95c91ec25bbfbf9b",
+      "title": "Donald Trump Jr.’s Outrage Gifts Netflix’s ‘Hunting Wives’ Some Priceless Streisand Effect PR",
+      "quote": "Christmas came on Thanksgiving for Netflix’s The Hunting Wives, thanks to a fatuous Donald Trump Jr. Never slow to put his silver foot in his big mouth, the oldest and most ambitious son of El Presidente got very hot…",
+      "publisher": "Deadline",
+      "author": "Dominic Patten",
+      "date": "2026-11-27T23:46:48+00:00",
+      "link": "https://deadline.com/2026/11/trump-jr-hunting-wives-kiss-1237234421/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/Hunting-Wives-kiss-Donad-Trump-Jr.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "1aa056b7f0c702af",
+      "title": "Gayle King Taking Next Week Off From ‘CBS Mornings’ Following Son-In-Law’s Death",
+      "quote": "Gayle King will be absent from CBS Mornings for one week beginning Monday, November 30, following the death of her son-in-law, Virgil Miller, over the Thanksgiving holiday. CBS Mornings executive producer Jon Tower…",
+      "publisher": "Deadline",
+      "author": "Denise Petski",
+      "date": "2026-11-27T22:09:15+00:00",
+      "link": "https://deadline.com/2026/11/gayle-king-cbs-mornings-absent-week-son-in-laws-death-1237234404/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/Gayle-King2.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "5e771f798e90bba4",
+      "title": "‘The Challenge’ Alum Tyler Duckworth’s Cause Of Death Revealed",
+      "quote": "We now have the official cause of death for MTV’s The Challenge alum Tyler Duckworth. The reality TV personality died from hypertensive cardiovascular disease, the North Dakota State Forensic Examiner’s Office confirmed…",
+      "publisher": "Deadline",
+      "author": "Denise Petski",
+      "date": "2026-11-27T21:32:04+00:00",
+      "link": "https://deadline.com/2026/11/tyler-duckworth-cause-of-death-the-challenge-mtv-1237234390/",
+      "image": "https://deadline.com/wp-content/uploads/2026/08/Tyler-Duckworth_82cdf4.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "d09ce5234870ae07",
+      "title": "William Shatner Responds After ‘Halloween’ Director John Carpenter Called Him “A Piece Of S***” For Snub",
+      "quote": "William Shatner is speaking out after Halloween director John Carpenter recently called him “piece of s***” for allegedly ignoring him when he tried to introduce himself to the Star Trek legend at an event in Orlando…",
+      "publisher": "Deadline",
+      "author": "Denise Petski",
+      "date": "2026-11-27T21:00:15+00:00",
+      "link": "https://deadline.com/2026/11/william-shatner-responds-john-carpenter-snub-1237234380/",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/William-Shatner1-John-Carpenter.jpg",
+      "category": "World Cinema"
+    },
+    {
+      "id": "141220f9289e8a64",
+      "title": "David Fincher \"could see\" Cliff Booth being his last movie",
+      "quote": "As creatives and film fans continue to publicly express disappointment and/or give collective side-eye to his admitted AI use in <i>The Further Mis-Adventures Of Cliff Booth</i>, David Fincher is thinking out loud about…",
+      "publisher": "The A.V. Club",
+      "author": "Jarrod Jones",
+      "date": "2026-11-27T21:00:04+00:00",
+      "link": "https://www.avclub.com/david-fincher-career-comments-cliff-booth-ai-use",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/11/27/fincher-header.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "1fcf7c1ebd50979f",
@@ -42,28 +152,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "d46957535928e165",
-      "title": "Justin Timberlake Visits Jimmy Fallon And Shares Thanksgiving Dish On New Apple TV Doc Series, How David Bowie Influenced ‘SexyBack’ & Performs Dance Classics",
-      "quote": "Thursday was a dual celebration for Justin Timberlake’s visit with Jimmy Fallon on NBC’s Tonight Show: There was Thanksgiving, of course, which you can see in the photo above was most certainly not ignored by the two…",
-      "publisher": "Deadline",
-      "author": "Greg Evans",
-      "date": "2026-11-27T19:04:10+00:00",
-      "link": "https://deadline.com/2026/11/justin-timberlake-jimmy-fallon-thanksgiving-1237234321/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/NUP_212404_06688.jpg",
-      "category": "World Cinema"
-    },
-    {
-      "id": "0e406f59919aadd7",
-      "title": "David Byrne On Getting Into Character As Elon Musk For ‘Musk’ Song “Let Me Sell You A Dream” – Crew Call Podcast",
-      "quote": "On today’s Crew Call we chat with near EGOT winner David Byrne about “Let Me Sell You A Dream,” his new song for Alex Gibney’s controversial documentary Musk about, yes, Elon Musk. Byrne tells us about co-writing the…",
-      "publisher": "Deadline",
-      "author": "Anthonypauldalessandro",
-      "date": "2026-11-27T19:00:00+00:00",
-      "link": "https://deadline.com/2026/11/david-byrne-musk-song-1237234312/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/David-Byrne-Musk-Crew-Call-logo.jpg",
-      "category": "World Cinema"
-    },
-    {
       "id": "5fe8dc3ac79d2d66",
       "title": "​​Big Changes Are Coming To The DC Universe In 2027",
       "quote": "The balance of power at DC Studios has changed, which means fans should expect the shape of the DC Universe to change in 2027.",
@@ -75,59 +163,70 @@
       "category": "Indie Gems"
     },
     {
-      "id": "bf27eee7ecc84163",
-      "title": "Doha Winners: ‘A Girl Unknown’ & ‘Concrete Land’ Scoop Top Prizes",
-      "quote": "Chinese director Zou Jing’s A Girl Unknown won the top $75,000 Best Narrative prize at the Doha Film Festival as the second edition of its revamped format came to a close on Friday evening. The China-set first feature…",
-      "publisher": "Deadline",
-      "author": "Melanie Goodfellow",
-      "date": "2026-11-27T18:21:54+00:00",
-      "link": "https://deadline.com/2026/11/doha-2026-winners-girl-unknown-concrete-land-1237234325/",
-      "image": "https://deadline.com/wp-content/uploads/2026/07/A-Girl-Unknown.jpeg",
-      "category": "World Cinema"
+      "id": "3e22c30d08c55791",
+      "title": "Maybe Nocturne doesn’t have enough story to fill 10 episodes after all",
+      "quote": "Even when big stuff happens on Nocturne, the show still feels like it's spinning its wheels. Our recap of the latest episode:",
+      "publisher": "The A.V. Club",
+      "author": "Ben Rosenstock",
+      "date": "2026-11-27T18:44:24+00:00",
+      "link": "https://www.avclub.com/nocturne-recap-season-1-episode-6-only-connect",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/11/27/Nocturne_Photo_010610.jpg.photo_modal_show_home_large.jpg",
+      "category": "Indie Gems"
     },
     {
-      "id": "c4be6e99416f6065",
-      "title": "Kate Middleton Describes “Lonely Road” Of Navigating Cancer As She Meets Fellow Survivors In New Clip For Upcoming Doc",
-      "quote": "Kate Middleton is seen joining a cancer support group in a new clip for the BBC and Universal’s upcoming documentary Heal, which launches Sunday. “I haven’t really explored this outside my family walls,” the Princess of…",
-      "publisher": "Deadline",
-      "author": "Andreas Wiseman",
-      "date": "2026-11-27T17:59:52+00:00",
-      "link": "https://deadline.com/2026/11/kate-middleton-describes-cancer-recovery-clip-heal-1237234313/",
-      "image": "https://deadline.com/wp-content/uploads/2024/11/Screenshot-2024-11-10-at-12.31.43.png",
-      "category": "World Cinema"
+      "id": "135d2d6ed43ac1e0",
+      "title": "Mystery Science Theater 3000: The Sci-Fi era, ranked",
+      "quote": "Just in time for turkey leftovers and Turkey Day reruns, here's our ranking of all 48 MST3K episodes from the Sci-Fi Channel era.",
+      "publisher": "The A.V. Club",
+      "author": "The A.V. Club",
+      "date": "2026-11-27T18:17:51+00:00",
+      "link": "https://www.avclub.com/mystery-science-theater-3000-mst3k-rifftrax-sci-fi-era-ranked",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/11/27/MixCollage-27-Nov-2026-12-26-PM-4035.jpg",
+      "category": "Indie Gems"
     },
     {
-      "id": "12b2cb91bf55b7cf",
-      "title": "Denis Villeneuve “Deeply Disappointed” That ‘Avengers: Doomsday’ Will Launch On Same Weekend As ‘Dune: Part Three’",
-      "quote": "Denis Villeneuve says he is “deeply disappointed” that Disney chose to release box office juggernaut Avengers: Doomsday over the same December 18 weekend as the third instalment in his Dune franchise. In a new interview…",
-      "publisher": "Deadline",
-      "author": "Andreas Wiseman",
-      "date": "2026-11-27T17:39:23+00:00",
-      "link": "https://deadline.com/2026/11/denis-villeneuve-disappointed-avengers-dune-release-date-1237234307/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/avengers-doomsday-dune-part-three.jpg",
-      "category": "World Cinema"
+      "id": "58f63fbe0afa86c9",
+      "title": "Denis Villeneuve isn't pleased about Marvel's Dunesday release date shenanigans",
+      "quote": "Disney's provocative date shift for <i>Avengers: Doomsday</i> to December 18—or \"Dunesday\"—has <i>Dune: Part Three</i> director Denis Villeneuve feeling a bit peeved.",
+      "publisher": "The A.V. Club",
+      "author": "Jarrod Jones",
+      "date": "2026-11-27T17:40:49+00:00",
+      "link": "https://www.avclub.com/denis-villeneuve-dunesday-thoughts-avengers-dune",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/11/27/villeneuve-header.jpg",
+      "category": "Indie Gems"
     },
     {
-      "id": "7ffbf0f912563dde",
-      "title": "Neil Patrick Harris & Patton Oswalt Get Behind iPhone-Shot Short ‘Dropping Off’ About LA Rideshare Driver",
-      "quote": "EXCLUSIVE: Neil Patrick Harris and Patton Oswalt have signed on as executive producers of Will Mayo and Ian Scott McGregor’s short film, Dropping Off. Shot almost entirely on security cameras and iPhones in Hollywood…",
-      "publisher": "Deadline",
-      "author": "Andreas Wiseman",
-      "date": "2026-11-27T17:10:00+00:00",
-      "link": "https://deadline.com/2026/11/neil-patrick-harris-patton-oswalt-back-short-dropping-off-1237234254/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/Dropping-Off.jpg",
-      "category": "World Cinema"
+      "id": "98b2ab2604302212",
+      "title": "Yellowjackets picks a fine time to remembers its survivors are just a bunch of kids",
+      "quote": "This weeks Yellowjackets shows that you can take the girls out of the wilderness, but you can't make them stop committing felonies. Our recap:",
+      "publisher": "The A.V. Club",
+      "author": "Leila Latif",
+      "date": "2026-11-27T17:29:44+00:00",
+      "link": "https://www.avclub.com/yellowjackets-recap-season-4-episode-2-human-interest",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/11/27/MixCollage-27-Nov-2026-12-14-PM-9866.jpg",
+      "category": "Indie Gems"
     },
     {
-      "id": "b33aa23830552a20",
-      "title": "‘Sunrise On The Reaping’ Cooks Up $11M+ Thanksgiving, 2nd Best For Franchise; ‘Focker In-Law’ Seeing $40M 5-Day – Update",
-      "quote": "FRIDAY AM: Lionsgate’s The Hunger Games: Sunrise on the Reaping saw the second best Thanksgiving and Thursday of the franchise with $11.6M after Catching Fire‘s $14.95M 13 years ago and ahead of Mockingjay Part 2‘s $11M…",
-      "publisher": "Deadline",
-      "author": "Anthonypauldalessandro",
-      "date": "2026-11-27T16:45:00+00:00",
-      "link": "https://deadline.com/2026/11/box-office-hunger-games-hexed-focker-in-law-thanksgiving-1237233281/",
-      "image": "https://deadline.com/wp-content/uploads/2026/11/MCDHUGA_LG071.jpg",
-      "category": "World Cinema"
+      "id": "af10a0398149225e",
+      "title": "Forget Slumdog Millionaire—this Bollywood movie gets Mumbai right",
+      "quote": "Forget Slumdog Millionaire—this Bollywood movie gets Mumbai right",
+      "publisher": "The A.V. Club",
+      "author": "Saloni Gajjar",
+      "date": "2026-11-27T16:00:03+00:00",
+      "link": "https://www.avclub.com/forget-slumdog-millionaire-wake-up-sid-gets-mumbai-right",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/11/25/wake-up-sid.jpg",
+      "category": "Indie Gems"
+    },
+    {
+      "id": "da2bdbc201896fb0",
+      "title": "Luca Guadagnino says \"of course\" he would like to direct a James Bond movie",
+      "quote": "Speaking at the Marrakech Film Festival ahead of a presentation of <i>Artificial</i>, Luca Guadagnino expressed interest in taking on the James Bond franchise.",
+      "publisher": "The A.V. Club",
+      "author": "Jarrod Jones",
+      "date": "2026-11-27T15:24:13+00:00",
+      "link": "https://www.avclub.com/luca-guadagnino-on-directing-future-james-bond-robert-pattinson",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/11/27/guadagnino-header.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "6b6a2d46b7c46472",
@@ -148,8 +247,19 @@
       "author": null,
       "date": "2026-11-27T14:24:54+00:00",
       "link": "https://www.thehindu.com/entertainment/movies/yeh-prem-mol-liya-review-sooraj-barjatya-ayushmann-khurrana-sharvari-rajshri-salman-khan/article71751396.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/ulr6og/article71751436.ece/alternates/LANDSCAPE_1200/Yeh%20Prem%20Mol%20Liya.jpeg",
+      "image": "https://th-i.thgim.com/public/entertainment/movies/4qd1y5/article71751436.ece/alternates/LANDSCAPE_1200/Yeh%20Prem%20Mol%20Liya.jpeg",
       "category": "Indian Cinema"
+    },
+    {
+      "id": "04b200f40a19e3de",
+      "title": "Even Quentin Tarantino's non-Tarantino movies are essentially Tarantino movies",
+      "quote": "Writing scripts for others has only revealed new shades to Quentin Tarantino that he's been loath to put in his directorial efforts.",
+      "publisher": "The A.V. Club",
+      "author": "Jesse Hassenger",
+      "date": "2026-11-27T14:00:43+00:00",
+      "link": "https://www.avclub.com/quentin-tarantino-screenplays-written-not-directed-cliff-booth-true-romance-dusk-till-dawn-natural-born-killers",
+      "image": "https://www.avclub.com/wp-content/uploads/2026/11/23/true-romance-header.jpg",
+      "category": "Indie Gems"
     },
     {
       "id": "e7077432902ddd47",
@@ -295,17 +405,6 @@
       "category": "World Cinema"
     },
     {
-      "id": "4264d69239597d3f",
-      "title": "‘Bhogi’ movie review: Sharwanand’s revenge drama is all blood and no fresh ideas",
-      "quote": "Despite strong performances from Sharwanand and Anupama Parameswaran, Sampath Nandi’s film relies on an outdated revenge plot and graphic violence instead of fresh storytelling",
-      "publisher": "The Hindu",
-      "author": null,
-      "date": "2026-11-27T08:45:09+00:00",
-      "link": "https://www.thehindu.com/entertainment/movies/bhogi-movie-review-sharwanands-revenge-drama-is-all-blood-and-no-fresh-ideas/article71749830.ece",
-      "image": "https://th-i.thgim.com/public/incoming/pmhrvf/article71749858.ece/alternates/LANDSCAPE_1200/bhogi%201%20new.jpeg",
-      "category": "Indian Cinema"
-    },
-    {
       "id": "fc5be2cea300302f",
       "title": "‘Everybody tells me how I can keep working. My answer begins with ‘F’ and ends with ‘off’: Mike Leigh on 55 years of films – and why he’s just made his last",
       "quote": "The acclaimed director has announced his latest film Tender Loving Care will be his last. He talks about coming to terms with a life-changing condition and how he would have loved to have made a big budget modern-day…",
@@ -339,17 +438,6 @@
       "category": "Indie Gems"
     },
     {
-      "id": "44c5903275418328",
-      "title": "Ethan Hawke, the most beaten-up man on TV, deserved a win",
-      "quote": "\"‘Oh God, I gotta explain to FX that their lead actor is gonna have a missing tooth\": The Lowdown creator Sterlin Harjo on making Ethan Hawke the most beat up man on TV.",
-      "publisher": "The A.V. Club",
-      "author": "Emma Fraser",
-      "date": "2026-11-26T18:00:58+00:00",
-      "link": "https://www.avclub.com/lowdown-ethan-hawke-season-2-finale-sterlin-harjo-interview",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/11/25/MixCollage-25-Nov-2026-04-18-PM-1170.jpg",
-      "category": "Indie Gems"
-    },
-    {
       "id": "b1da8a4d58f79e52",
       "title": "You Can See Everything overtly riffs on Vertigo. But how big is its debt to Kiarostami’s Close-Up?",
       "quote": "The Iranian film-maker’s 1990 tale of impersonation and deception happens to be a favourite movie of the Elizabeth Holmes docufiction’s co-director Lance Oppenheim • NB: This article contains spoilers You’re probably…",
@@ -359,72 +447,6 @@
       "link": "https://www.theguardian.com/film/2026/nov/26/you-can-see-everything-vertigo-kiarostami-close-up",
       "image": "https://i.guim.co.uk/img/media/68f2d5ca9e49212e099ce803fa7aee7b2dae606a/99_57_2201_1761/master/2201.jpg?width=140&quality=85&auto=format&fit=max&s=91c0d0e4d7c602990ec6a33eacae63ec",
       "category": "World Cinema"
-    },
-    {
-      "id": "b4cec6c4591b941e",
-      "title": "Jesse Eisenberg says his films contain ‘no sexuality’. But maybe his fans are just less desperate?",
-      "quote": "The actor-director has said people don’t interrupt his daytime writing in a public library because he’s not perceived as fanciable. Might that have more to do with the library than with him? The imminent arrival of…",
-      "publisher": "The Guardian",
-      "author": "Stuart Heritage",
-      "date": "2026-11-26T16:44:59+00:00",
-      "link": "https://www.theguardian.com/film/2026/nov/26/jesse-eisenberg-says-his-films-contain-no-sexuality-but-maybe-his-fans-are-just-less-desperate",
-      "image": "https://i.guim.co.uk/img/media/7254baa34d5dee821542a38d916c5a30b1814753/867_302_3695_2956/master/3695.jpg?width=140&quality=85&auto=format&fit=max&s=c79cee3366f7f8362d91f3a9b7fdc4b8",
-      "category": "Festival Winners"
-    },
-    {
-      "id": "6fcbc322a3d936a7",
-      "title": "Home for the homicide",
-      "quote": "In our latest installment of Home For The Holidays, family is murder.",
-      "publisher": "The A.V. Club",
-      "author": "William Hughes",
-      "date": "2026-11-26T16:00:08+00:00",
-      "link": "https://www.avclub.com/murder-family-agatha-christie-poirot",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/11/25/suchet-poirot-feature.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "826e1b1644b0b3c8",
-      "title": "Amanda Seyfried needed ‘five-factor authentication’ to read You Can See Everything script but still ‘told everyone’",
-      "quote": "Actor who had played fraudster Elizabeth Holmes in TV drama The Dropout reveals how she was drafted in to the hit documentary ‘at the last minute’ Amanda Seyfried says that the script and footage of You Can See…",
-      "publisher": "The Guardian",
-      "author": "Andrew Pulver",
-      "date": "2026-11-26T14:52:40+00:00",
-      "link": "https://www.theguardian.com/film/2026/nov/26/amanda-seyfried-you-can-see-everything-elizabeth-holmes-the-dropout",
-      "image": "https://i.guim.co.uk/img/media/83c367160d69cdc7da8ef95a9db69ed5d871d827/1124_184_1220_976/master/1220.jpg?width=140&quality=85&auto=format&fit=max&s=7b2f50be2c6c984473b26bc0dca15299",
-      "category": "World Cinema"
-    },
-    {
-      "id": "bf90e2735c1dd955",
-      "title": "Ava DuVernay's follow-up constitutional documentary 14th is a slop-ridden mess",
-      "quote": "13th may have been a rallying cry for the prison abolition movement, but the 14th amendment's sprawl is reflected back in the film.",
-      "publisher": "The A.V. Club",
-      "author": "Monica Castillo",
-      "date": "2026-11-26T14:00:38+00:00",
-      "link": "https://www.avclub.com/14th-review-netflix-ava-duvernay-documentary-amendment-ai",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/11/24/14th-review-header.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "057c509f34f240ec",
-      "title": "5 new comics to read in December, including a folk-punk vampire story",
-      "quote": "The best December comics include a Poison Ivy milestone, a chaotic rom-com, and an ’80s makeover for Usagi Yojimbo.",
-      "publisher": "The A.V. Club",
-      "author": "Oliver Sava",
-      "date": "2026-11-26T12:00:38+00:00",
-      "link": "https://www.avclub.com/best-december-comics-poison-ivy-dc-fort-psycho-oni-press",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/11/25/MixCollage-25-Nov-2026-02-14-PM-1655.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "51a1076779a7836c",
-      "title": "Happy Thanksgiving from The A.V. Club",
-      "quote": "Happy Thanksgiving! There will be limited news coverage on Thursday and Friday as we observe the holiday.",
-      "publisher": "The A.V. Club",
-      "author": "Drew Gillis",
-      "date": "2026-11-26T12:00:00+00:00",
-      "link": "https://www.avclub.com/happy-thanksgiving-2026",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/11/25/MixCollage-25-Nov-2026-12-02-PM-8183.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "ef1b978e8553c5b4",
@@ -447,28 +469,6 @@
       "link": "https://www.bbc.com/culture/article/20261103-the-norwegian-star-on-her-life-changing-role-in-2021s-the-worst-person-in-the-world?ocid=global_culture_rss",
       "image": "https://ychef.files.bbci.co.uk/144x81/p0pl3vd8.jpg",
       "category": "World Cinema"
-    },
-    {
-      "id": "76aa845538ef64e9",
-      "title": "Season 2 of The Hunting Wives is a darkly funny, addictive treat",
-      "quote": "Netflix's erotic thriller The Hunting Wives turns up the heat between Malin Akerman and Brittany Snow in season 2—and puts them through a role reversal, too.",
-      "publisher": "The A.V. Club",
-      "author": "Saloni Gajjar",
-      "date": "2026-11-26T08:01:22+00:00",
-      "link": "https://www.avclub.com/the-hunting-wives-season-2-review-netflix-malin-akerman-brittany-snow",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/11/25/malin-akerman.jpg",
-      "category": "Indie Gems"
-    },
-    {
-      "id": "770f11c451c88e2c",
-      "title": "The Lowdown does not go gentle into that good night with its second-season finale",
-      "quote": "The Lowdown's second season finale is full of wrenching, thunderous moments that beg not to be the last time we see these characters.",
-      "publisher": "The A.V. Club",
-      "author": "Josh Spiegel",
-      "date": "2026-11-26T03:17:53+00:00",
-      "link": "https://www.avclub.com/the-lowdown-recap-season-2-episode-8-the-tower",
-      "image": "https://www.avclub.com/wp-content/uploads/2026/11/25/MixCollage-25-Nov-2026-04-05-PM-4028.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "d5059a458cdc1c09",
@@ -502,17 +502,6 @@
       "link": "https://variety.com/2026/film/reviews/situations-review-1236958625/",
       "image": "https://variety.com/wp-content/uploads/2026/11/SITUATIONS-Vrotsos-still-1.webp",
       "category": "World Cinema"
-    },
-    {
-      "id": "9c5f8f2b4dc2e90d",
-      "title": "Disney reaffirms commitment to actually getting Avatar 4 finished one of these days",
-      "quote": "Disney reaffirms commitment to actually getting <i>Avatar 4</i> finished one of these days",
-      "publisher": "The A.V. Club",
-      "author": "William Hughes",
-      "date": "2026-11-25T22:46:28+00:00",
-      "link": "https://www.avclub.com/disney-recommits-to-avatar-4-december-2029-release",
-      "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/01/12181231/avatar-varaang-feature.jpg",
-      "category": "Indie Gems"
     },
     {
       "id": "52fd58e64ee32464",
@@ -632,6 +621,17 @@
       "author": "Angie Han",
       "date": "2026-11-24T17:00:00+00:00",
       "link": "https://www.hollywoodreporter.com/movies/movie-reviews/hexed-review-hailee-steinfeld-rashida-jones-disney-1236761588/",
+      "image": null,
+      "category": "World Cinema"
+    },
+    {
+      "id": "9adb86624f5cfe6c",
+      "title": "Hexed",
+      "quote": "It often seems on the verge of becoming something intriguing but never quite makes that final leap.",
+      "publisher": "RogerEbert.com",
+      "author": "Peter Sobczynski",
+      "date": "2026-11-24T17:00:00+00:00",
+      "link": "https://www.rogerebert.com/reviews/hexed-disney-animated-film-review-2026",
       "image": null,
       "category": "World Cinema"
     },
